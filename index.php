@@ -330,7 +330,7 @@
        <div class="container">
         <div class="white-box-shadow">
           <div class="centerTitle">
-            <div class="text-big60">How  <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> Does it ?</div>
+            <div class="text-big60">What is APA?</div>
             <h3 class="bold red text-center">TECHNOLOGY</h3>
           </div>
           
