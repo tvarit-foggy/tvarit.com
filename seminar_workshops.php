@@ -345,6 +345,89 @@
         </div>
     </div>
 
+
+     <!---------------------Seminar Event ------------------->
+     <div class="section-padding-both" id="downClick">
+      <div class="container">
+        <div class="row">
+           <div class="col-md-4">
+            <div class="leftSideFilter checkbox-filter white-box-shadow cstmInput">             
+            <div class="red text-big40" style="font-size:25px;">Talk-cum-Workshop<br><div class="short-line bg-grey"></div>
+            </div>
+            <p>
+            Frankfurt Indian Scholars Association(FISA) organised a Talk-cum-Workshop in coordination with Consulate General of India (CGI) in Frankfurt. 
+            </p>
+            </div>
+          </div>
+
+          <div class="col-md-8">
+              <div class="row scrollable-blogs filter-container">
+                <div class="col-md-12 mix QualityPrediction PredictiveMaintenance">
+                  <div class="blogBox" style="height:300px;" >
+                    <div class="blogPic" style="max-height:300px;">
+                    <a href="img/seminar/sem-1.jpg">
+                      <img src="img/seminar/sem-1.jpg" style="height:300px; width:100%" class="img-fluid"> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6 mix AssetAndInventoryManagement Intra-PlantLogistics">
+                  <div class="blogBox" style="height:200px;">
+                    <div class="blogPic">
+                    <a href="img/seminar/sem-2.jpg">
+                      <img src="img/seminar/sem-2.jpg" style="height:200px;" class="img-fluid"> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6 mix Automotive">
+                  <div class="blogBox" style="height:200px;">
+                    <div class="blogPic">
+                    <a href="img/seminar/sem-3.jpg">
+                      <img src="img/seminar/sem-3.jpg" style="height:200px;" class="img-fluid"> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6 mix Construction">
+                  <div class="blogBox" style="height:200px;">
+                    <div class="blogPic">
+                    <a href="img/seminar/sem-4.jpg">
+                      <img src="img/seminar/sem-4.jpg" style="height:200px;" class="img-fluid"> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6 mix Automotive">
+                  <div class="blogBox" style="height:200px;">
+                    <div class="blogPic">
+                    <a href="img/seminar/sem-5.jpg">
+                      <img src="img/seminar/sem-5.jpg" style="height:200px;" class="img-fluid"> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 mix Automotive">
+                  <div class="blogBox" style="height:200px;">
+                    <div class="blogPic">
+                    <a href="img/seminar/sem-6.jpg">
+                      <img src="img/seminar/sem-6.jpg" style="height:200px; width:100%" class="img-fluid"> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!---------------------Seminar Event End ------------------->
+
 <!------------------------Countdown start --------------------->
     <div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
       <div class="container">
