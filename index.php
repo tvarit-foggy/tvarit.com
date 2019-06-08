@@ -299,7 +299,8 @@
        <video poster="img/indexVideoBg.jpg" autoplay="true" muted loop>
         <source src="video/indexBg.mp4" type="video/mp4">
       </video>
-      <div class="container" >
+      <div class="container">
+      <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="typography">
@@ -314,10 +315,14 @@
                 <li>Understands them with our Data Science expertise</li>
                 <li>Makes them smarter using our AI Software - Automated Predictive Analytics (APA)</li>
               </ul>
-              <br>
+                <br>
+                
               <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">TRY DEMO</a>
             </div>
           </div>
+          <div class="text-1" style="font-size:15px; color:#ed1b4a; text-transform: uppercase;font-weight: bold;">
+                TVARIT AI is the best solution for smart manufacturing, smart machines and digital transformation
+            </div>
         </div>
       </div>
     </header>
@@ -349,7 +354,7 @@
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="videoWrapper">
-              <iframe  class="videoFrame" src="https://www.youtube.com/embed/GVqSTylrl5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe  class="videoFrame" src="https://www.youtube.com/embed/-G3xhq2-3Z0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
 
@@ -380,7 +385,7 @@
     <div class="section-padding">
       <div class="container">
         <div class="centerTitle text-big60">
-          Benefit of  <span class="red fw-900">APA</span>
+          Benefits of  <span class="red fw-900">APA</span>
         </div>
         
         <br>
