@@ -315,9 +315,9 @@
                 <li>Understands them with our Data Science expertise</li>
                 <li>Makes them smarter using our AI Software - Automated Predictive Analytics (APA)</li>
               </ul>
-                <br>
-                
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">TRY DEMO</a>
+
+              <br>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">TRY FOR 30 DAYS</a>
             </div>
           </div>
           <div class="text-1" style="font-size:15px; color:#ed1b4a; text-transform: uppercase;font-weight: bold;">
