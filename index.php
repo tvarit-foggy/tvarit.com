@@ -92,6 +92,12 @@
 }
  
 }
+.text-head{
+    font-size: larger;
+    font-weight: 600;
+    color: #ed1b4a;
+    width: max-content;
+}
  
         </style>
        
@@ -317,7 +323,12 @@
               <br>
               <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Free Trail For 30 Days</a>
             </div>
+            <br>
+            <div class="text-head">
+              Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation
+               </div>
           </div>
+         
         </div>
       </div>
     </header>
@@ -756,7 +767,7 @@ machines smarter.</p>
       <div class="container">
         <div class="white-box-shadow">
           <div class="centerTitle">
-            <div class="text-big60"><span class="tvarit-black">Reference</span></div>
+            <div class="text-big60"><span class="tvarit-black">ASSOCIATES & PARTNERS</span></div>
           </div>
           <div class="col-md-12 row">
                                <div class="col-md-2"></div>
