@@ -98,7 +98,7 @@
          
 </head>
 
-  <body  onload="ReadCookie()" >
+  <body  onload="ReadCookie()"  style="overflow-y:scroll">
     <!------SPLASH SCREEN----->
 
     <!------------------------ main menu start ---------------------->
@@ -315,7 +315,7 @@
                 <li>Makes them smarter using our AI Software - Automated Predictive Analytics (APA)</li>
               </ul>
               <br>
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">TRY FOR 30 DAYS</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Free Trail For 30 Days</a>
             </div>
           </div>
         </div>
@@ -330,7 +330,7 @@
        <div class="container">
         <div class="white-box-shadow">
           <div class="centerTitle">
-            <div class="text-big60">How  <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> Does it ?</div>
+            <div class="text-big60"><span class="tvarit-black">WHAT is APA?</span> </div>
             <h3 class="bold red text-center">TECHNOLOGY</h3>
           </div>
           
@@ -349,7 +349,7 @@
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="videoWrapper">
-              <iframe  class="videoFrame" src="https://www.youtube.com/embed/GVqSTylrl5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe  class="videoFrame" src="https://www.youtube.com/embed/-G3xhq2-3Z0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
 
@@ -380,7 +380,7 @@
     <div class="section-padding">
       <div class="container">
         <div class="centerTitle text-big60">
-          Benefit of  <span class="red fw-900">APA</span>
+          Benefits of  <span class="red fw-900">APA</span>
         </div>
         
         <br>

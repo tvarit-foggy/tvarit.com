@@ -230,7 +230,7 @@ $("#btn").live("click",function(){
                  The measure of growth is the ability to change. Industry 4.0 is more than just a flashy catchphrase. A confluence of trends and technologies promises to reshape the way things are made. It means machines using self-optimization, self-configuration, and even artificial intelligence to complete complex tasks. For most, however, these concepts feel quite distant from today’s reality where many plants have yet to fully adopt the automation technologies of Industry 3.0.
                 </p>
                 <p class="text-p">
-                  Therefore, we at Tvarit AI relentlessly work to make your business and life simpler and upgraded. If curiosity is consuming you, we welcome you to have a look. Welcome, to a dimension of Infinite Possibilities! 
+                  Therefore, we at Tvarit AI relentlessly work to make your business and life simpler and upgraded. If curiosity is consuming you, we welcome you to have a look. Welcome Tvarit AI, Welcome Infinite Possibilities! 
                 </p>
               </div>
             </div>
