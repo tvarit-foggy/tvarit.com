@@ -311,7 +311,7 @@
           <div class="col-md">
             <div class="countBox">
               <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">Build your AI model</div>
+              <div class="text">To Build your AI model</div>
             </div>
           </div>
         </div>
