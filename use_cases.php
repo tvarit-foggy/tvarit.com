@@ -426,7 +426,7 @@
           <div class="col-md">
             <div class="countBox">
               <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Machine Learning Algorithms </div>
+              <div class="text">Highest number of algorithms </div>
             </div>
           </div>
           <div class="col-md">
