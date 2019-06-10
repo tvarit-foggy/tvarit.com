@@ -335,7 +335,11 @@
           </div>
           
           <div class="centerPharseContent text-p">
-            We want to make factories technologically advanced allowing machines and humans to work more effectively enabling businesses to make smart and informed decisions.
+          We have developed a state-of-the-art technology which is powered by AI. Tvarit's 
+Automated Predictive Analysis (APA) tool has widened the space for AI applications with  22+ algorithms developed by our
+ in-house team of industry experts.We enable businesses to make smart and informed decisions by deriving actionable and valuable
+ insights from a sea of data. It can be implemented to optimize asset management, supply chain  management, inventory 
+ management, quality management, and workflow distribution process in manufacturing.
           </div>
         </div>
        </div>
@@ -386,22 +390,7 @@
         <br>
 
         <div class="row justify-content-center">
-          <div class="col-md-4">
-            <div class="featureBox">
-              <div class="icon">
-                <img src="img/f-icon-1.png" class="img-fluid">
-              </div>
-
-              <p class="title">CLUSTERING MACHINES</p>
-
-              <div class="more">
-                    <p class="text-p">Our smart solutions help segregate between dead, low load and high load machines for smooth operating. It also helps identify the high return and low return machines giving us an edge in resource optimization.
-                    </p>
-              </div>
-
-            </div>
-          </div>
-
+         
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
@@ -411,23 +400,43 @@
               <p class="title">PREDICTIVE MAINTENANCE</p>
 
               <div class="more">
-                    <p class="text-p">We develop Supervised & non- supervised ML algorithms for failure detection with 97.2% real-time accuracy. They provide data on circumstances and time under which real breakdown happens and alert you to minimize downtime.</p>
+                    <p class="text-p">We have developed supervised & non- supervised ML algorithms which analysis all structured and non-structured data to predict 
+failure with 97.2% real-time accuracy. They provide actionable information on real time circumstances under which real breakdown 
+is going to happen and alert you much before the time to take suitable action. It can help you in increasing uptime, reducing 
+operational and capital expenses and better streamlining of workflow.</p>
               </div>
 
             </div>
           </div>
+          <div class="col-md-4">
+            <div class="featureBox">
+              <div class="icon">
+                <img src="img/f-icon-1.png" class="img-fluid">
+              </div>
 
+              <p class="title">Inventory Optimization</p>
+
+              <div class="more">
+                    <p class="text-p">We have developed word-class solution for inventory optimization which not only analysis multi-structured data but also learns from 
+them in continuous manner. By using our solution, you will be able to get live recommendations, reduce inventory costs and better 
+visibility of future uncertainties.
+                    </p>
+              </div>
+
+            </div>
+          </div>
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
                 <img src="img/f-icon-3.png" class="img-fluid">
               </div>
 
-              <p class="title">PREVENTIVE MAINTENANCE</p>
+              <p class="title"> Sensors Health Maintenance</p>
 
               <div class="more">
                   <p class="text-p">
-                    We develop algorithms for real-time servicing data prediction. The main goal behind PM is for the equipment to make it from one planned service to the next planned service without any failures caused by fatigue, neglect, or normal wear (preventable items).
+                  Our solution enables you to reduce maintenance expenses and increase customer satisfaction by resolving issues in a remote and 
+quick manner. It gives you the priority list of sensors which are going to fail in near future.
                   </p>
               </div>
 
@@ -440,10 +449,12 @@
                 <img src="img/f-icon-4.png" class="img-fluid">
               </div>
 
-              <p class="title">ANOMALY DETECTION</p>
+              <p class="title"> Energy Saving</p>
 
               <div class="more">
-                <p class="text-p">Our smart solutions detect anomalies in factory operations and deliver immediate response. This helps in fixing the problems quickly, prevents breakage and reduces downtime. It can also help prevent fatal accidents.</p>
+                <p class="text-p">Our solution enables you to optimize energy management by utilizing highest number of AI algorithms. It generates better energy 
+demand predictive models and gives you better visibility to see future uncertainties and energy saving opportunities. It enables you to 
+automatically manage and optimize operations in real time. It can help you in achieving your carbon emission and sustainability goals.</p>
               </div>
 
             </div>
@@ -455,10 +466,13 @@
                 <img src="img/f-icon-5.png" class="img-fluid">
               </div>
 
-              <p class="title">CONDITION MONITORING</p>
+              <p class="title"> Quality Management </p>
 
               <div class="more">
-                    <p class="text-p">With the assistance of real-time sensor monitoring, industries save about 70% of their time due to automated alert system.</p>
+                    <p class="text-p">Our smart and simple solution enables you to increase the precision, efficiency and speed of your quality control process. It can help 
+you in reducing the number of faulty parts and the high costs resulting from them by proactively identifying the mistakes and faults 
+that negatively affects your production process and quality of your products. We do this by making your manufacturing process and 
+machines smarter.</p>
               </div>
 
             </div>
