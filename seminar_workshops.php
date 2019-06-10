@@ -240,7 +240,7 @@
              </div>
               <br>
 
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">TRY DEMO</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Free Trail For 30 Days</a>
             </div>
           </div>
         </div>
