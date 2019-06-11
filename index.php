@@ -104,7 +104,7 @@
          
 </head>
 
-  <body  onload="ReadCookie()"  style="overflow-y:scroll">
+  <body  onload="ReadCookie()" >
     <!------SPLASH SCREEN----->
 
     <!------------------------ main menu start ---------------------->

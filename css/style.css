@@ -9,10 +9,7 @@ body {
    /* overflow-x: hidden;*/
 }
 
-body::-webkit-scrollbar 
-{
-    display: none;
-}
+
 
 ::-webkit-scrollbar {
     width: 6px;
