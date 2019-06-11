@@ -346,49 +346,53 @@
 
         <div class="row justify-content-center">
 
-          <div class="col-md-4">
+        <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
                 <img src="img/f-icon-2.png" class="img-fluid">
               </div>
 
-              <p class="title">Predictive maintenance to avoid factory shutdown</p>
+              <p class="title">PREDICTIVE MAINTENANCE</p>
 
               <div class="more">
-                    <p class="text-p">This involves Failure detection in the industrial machinery by sensor monitoring the factory during it's default operations and analyzing the past history and trends.</p>
+                    <p class="text-p">We have developed supervised & non- supervised ML algorithms which analysis all structured and non-structured data to predict 
+failure with 97.2% real-time accuracy. They provide actionable information on real time circumstances under which real breakdown 
+is going to happen and alert you much before the time to take suitable action. It can help you in increasing uptime, reducing 
+operational and capital expenses and better streamlining of workflow.</p>
               </div>
 
             </div>
           </div>
+          <div class="col-md-4">
+            <div class="featureBox">
+              <div class="icon">
+                <img src="img/f-icon-1.png" class="img-fluid">
+              </div>
 
+              <p class="title">Inventory Optimization</p>
+
+              <div class="more">
+                    <p class="text-p">We have developed word-class solution for inventory optimization which not only analysis multi-structured data but also learns from 
+them in continuous manner. By using our solution, you will be able to get live recommendations, reduce inventory costs and better 
+visibility of future uncertainties.
+                    </p>
+              </div>
+
+            </div>
+          </div>
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
                 <img src="img/f-icon-3.png" class="img-fluid">
               </div>
 
-              <p class="title">Preventive maintenance based factory servicing</p>
+              <p class="title"> Sensors Health Maintenance</p>
 
               <div class="more">
                   <p class="text-p">
-                    To avoid the hassle, we schedule the servicing of the machinery well in advance and send regular notifications in the reference. This helps cut huge maintenance costs and losses.
+                  Our solution enables you to reduce maintenance expenses and increase customer satisfaction by resolving issues in a remote and 
+quick manner. It gives you the priority list of sensors which are going to fail in near future.
                   </p>
-              </div>
-
-            </div>
-          </div>
-
-
-          <div class="col-md-4">
-            <div class="featureBox">
-              <div class="icon">
-                <img src="img/f-icon-5.png" class="img-fluid">
-              </div>
-
-              <p class="title">Condition forecasting</p>
-
-              <div class="more">
-                    <p class="text-p">under this, we cover Cross metric (vibrations, temperature, pressure) dependency and relationship analysis.</p>
               </div>
 
             </div>
@@ -400,27 +404,30 @@
                 <img src="img/f-icon-4.png" class="img-fluid">
               </div>
 
-              <p class="title">Anomaly detection</p>
+              <p class="title"> Energy Saving</p>
 
               <div class="more">
-                <p class="text-p">This involves consistent automated analysis of the data sets to detect irregularities in operations for immediate assistance and recovery.</p>
+                <p class="text-p">Our solution enables you to optimize energy management by utilizing highest number of AI algorithms. It generates better energy 
+demand predictive models and gives you better visibility to see future uncertainties and energy saving opportunities. It enables you to 
+automatically manage and optimize operations in real time. It can help you in achieving your carbon emission and sustainability goals.</p>
               </div>
 
             </div>
           </div>
 
-
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/f-icon-1.png" class="img-fluid">
+                <img src="img/f-icon-5.png" class="img-fluid">
               </div>
 
-              <p class="title">Clustering</p>
+              <p class="title"> Quality Management </p>
 
               <div class="more">
-                    <p class="text-p">We offer our services to cluster the fleet automatically into dead machines, high load machines, forecastable machines, non-forecastable machines, data cleanup requiring machines, and more depending on the machine’s technicalities. The indexing of all operations and maintenance tasks helps in better tracking of the finance and ultimately gives stellar operation results.
-                    </p>
+                    <p class="text-p">Our smart and simple solution enables you to increase the precision, efficiency and speed of your quality control process. It can help 
+you in reducing the number of faulty parts and the high costs resulting from them by proactively identifying the mistakes and faults 
+that negatively affects your production process and quality of your products. We do this by making your manufacturing process and 
+machines smarter.</p>
               </div>
 
             </div>
