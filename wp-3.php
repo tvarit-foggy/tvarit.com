@@ -285,7 +285,7 @@
 
           <div class="col-md">
             <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">0</span> <small class="x"></small></div>
+              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
               <div class="text">Time of Transfer Learning from 1 to n Machines </div>
             </div>
           </div>
