@@ -770,23 +770,28 @@ machines smarter.</p>
             <div class="text-big60"><span class="tvarit-black">ASSOCIATES & PARTNERS</span></div>
           </div>
           <div class="col-md-12 row">
-                               <div class="col-md-2"></div>
-                 <div class="col-md-4">
+                  <div class="col-md-4">
                  <a href="">
                   <div class="automPic" style="height: 150px;">
-                    <img src="img/reference1.png"   class="img-fluid" style="height:80px;margin-top:25px;">
+                    <img src="img/reference1.png"   class="img-fluid" style="height:100px;margin-top:25px;">
                   </div>
                 </a>
              </div>
                <div class="col-md-4">
                  <a href="">
                   <div class="automPic" style="height: 150px;">
-                    <img src="img/reference2.jpeg"   class="img-fluid" style="height:80px;margin-top:25px;">
+                    <img src="img/reference2.jpeg"   class="img-fluid" style="height:100px;margin-top:25px;">
                   </div>
                 </a>
              </div>
-                 <div class="col-md-2"></div>
-            </div>
+             <div class="col-md-4">
+                 <a href="">
+                  <div class="automPic" style="height: 150px; ">
+                    <img src="img/Hannover_Messe.jpg"   class="img-fluid" style="width:100%; height:100px;margin-top:25px;">
+                  </div>
+                </a>
+             </div>
+             </div>
         </div>
       </div>
     </div>
