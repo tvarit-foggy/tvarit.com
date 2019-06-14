@@ -348,7 +348,7 @@
           <div class="centerPharseContent text-p">
           We have developed a state-of-the-art technology which is powered by AI. Tvarit's 
 Automated Predictive Analysis (APA) tool has widened the space for AI applications with  22+ algorithms developed by our
- in-house team of industry experts.We enable businesses to make smart and informed decisions by deriving actionable and valuable
+ in-house team of industry experts.&nbsp;&nbsp; We enable businesses to make smart and informed decisions by deriving actionable and valuable
  insights from a sea of data. It can be implemented to optimize asset management, supply chain  management, inventory 
  management, quality management, and workflow distribution process in manufacturing.
           </div>
