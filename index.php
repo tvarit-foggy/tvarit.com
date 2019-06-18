@@ -695,7 +695,16 @@ machines smarter.</p>
               <img src="img/iit_bombay.png" class="img-refrence">
             </div>
           </div>
-         
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/logo_zvei.png" class="img-refrence">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/vivatech.jpg" class="img-refrence">
+            </div>
+          </div>
         </div>
       </div>
     </div>
