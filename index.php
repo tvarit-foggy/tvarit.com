@@ -98,7 +98,10 @@
     color: #ed1b4a;
     width: max-content;
 }
- 
+ .img-refrence{
+   width:250px;
+   height:auto;
+ }
         </style>
        
          
@@ -604,47 +607,15 @@ machines smarter.</p>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="centerTitle text-big60">
-          Using <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>
-        </div>
-        <br>
-        <div class="client-carousel">
-          <div class="carousel-cell">
-            <div class="picBox w-90">
-              <img src="img/client_logo/aditya_birla.jpg" class="img-fluid">
-            </div>
-          </div>
-          <div class="carousel-cell">
-            <div class="picBox w-90">
-              <img src="img/client_logo/DB.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="carousel-cell">
-            <div class="picBox w-90">
-              <img src="img/client_logo/intel.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="carousel-cell">
-            <div class="picBox">
-              <img src="img/client_logo/NTT.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="carousel-cell">
-            <div class="picBox">
-              <img src="img/client_logo/times-of-india.png" class="img-fluid">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+                <?php 
+                include 'using-tvarit.php';
+                ?>
     <!------------------------Client logo slide end --------------------->
 
     <!------------------------try demo start --------------------->
     
       <!------------------------ Reference start --------------------->
-    <div class="section-padding-both">
+    <!-- <div class="section-padding-both">
       <div class="container">
         <div class="white-box-shadow">
           <div class="centerTitle">
@@ -672,7 +643,59 @@ machines smarter.</p>
                   </div>
                 </a>
              </div>
+             <div class="col-md-2"></div>
+             <div class="col-md-4">
+                 <a href="">
+                  <div class="automPic" style="height: 150px;">
+                    <img src="img/tud_logo_web_druck.png"   class="img-fluid" style="height:100px;margin-top:25px;">
+                  </div>
+                </a>
              </div>
+               <div class="col-md-4">
+                 <a href="">
+                  <div class="automPic" style="height: 150px;">
+                    <img src="img/iit_bombay.png"   class="img-fluid" style="height:100px;margin-top:25px;">
+                  </div>
+                </a>
+             </div>
+             <div class="col-md-2"></div>
+             </div>
+        </div>         
+      </div>
+    </div> -->
+    <div class="section-padding-both">
+      <div class="container">
+        <div class="centerTitle text-big60">
+        ASSOCIATES & PARTNERS
+        </div>
+        <br>
+        <div class="client-carousel">
+          <div class="carousel-cell">
+            <div class="picBox w-90">
+              <img src="img/reference1.png"  class="img-refrence">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox w-90">
+              <img src="img/reference2.jpeg" class="img-refrence">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox w-90">
+              <img src="img/Hannover_Messe.jpg" class="img-refrence">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/tud_logo_web_druck.png" class="img-refrence">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/iit_bombay.png" class="img-refrence">
+            </div>
+          </div>
+         
         </div>
       </div>
     </div>
