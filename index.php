@@ -98,10 +98,7 @@
     color: #ed1b4a;
     width: max-content;
 }
- .img-refrence{
-   width:250px;
-   height:auto;
- }
+
         </style>
        
          
@@ -672,37 +669,47 @@ machines smarter.</p>
         <div class="client-carousel">
           <div class="carousel-cell">
             <div class="picBox w-90">
-              <img src="img/reference1.png"  class="img-refrence">
+              <img src="img/Bundesverband-Deutsche-Startups.png" style="height:50px; " class="img-fluid" >
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox w-90">
-              <img src="img/reference2.jpeg" class="img-refrence">
+              <img src="img/reference2.jpeg" style="height:50px; width:300px;" class="img-fluid" >
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox w-90">
-              <img src="img/Hannover_Messe.jpg" class="img-refrence">
+              <img src="img/hannover-messe.jpg" class="img-fluid" >
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox">
-              <img src="img/tud_logo_web_druck.png" class="img-refrence">
+              <img src="img/tud_logo_web_druck.png" class="img-fluid" >
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox">
-              <img src="img/iit_bombay.png" class="img-refrence">
+              <img src="img/iit_bombay.png" class="img-fluid">
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox">
-              <img src="img/logo_zvei.png" class="img-refrence">
+              <img src="img/logo_zvei.png" class="img-fluid">
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox">
-              <img src="img/vivatech.jpg" class="img-refrence">
+              <img src="img/vivatech.jpg" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/ihk-ffm.jpg" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/aws-logo.jpg" class="img-fluid">
             </div>
           </div>
         </div>
