@@ -669,7 +669,7 @@ machines smarter.</p>
         <div class="client-carousel">
           <div class="carousel-cell">
             <div class="picBox w-90">
-              <img src="img/Bundesverband-Deutsche-Startups.png" style="height:85px; max-width: fit-content" class="img-fluid" >
+              <img src="img/Bundesverband-Deutsche-Startups.png" style="height:115px;margin-bottom:10px; max-width: fit-content" class="img-fluid" >
             </div>
           </div>
           <div class="carousel-cell">
@@ -679,7 +679,7 @@ machines smarter.</p>
           </div>
           <div class="carousel-cell">
             <div class="picBox w-90">
-              <img src="img/hannover-messe.jpg" style="height:85px; max-width: fit-content;" class="img-fluid" >
+              <img src="img/hannover-messe.jpg" style="height:95px; max-width: fit-content;" class="img-fluid" >
             </div>
           </div>
           <div class="carousel-cell">
@@ -709,7 +709,7 @@ machines smarter.</p>
           </div>
           <div class="carousel-cell">
             <div class="picBox">
-              <img src="img/aws-logo.jpg" class="img-fluid">
+              <img src="img/aws-logo.png" style="height:85px; max-width: fit-content;" class="img-fluid">
             </div>
           </div>
         </div>
