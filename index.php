@@ -669,17 +669,17 @@ machines smarter.</p>
         <div class="client-carousel">
           <div class="carousel-cell">
             <div class="picBox w-90">
-              <img src="img/Bundesverband-Deutsche-Startups.png" style="height:50px; " class="img-fluid" >
+              <img src="img/Bundesverband-Deutsche-Startups.png" style="height:85px; max-width: fit-content" class="img-fluid" >
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox w-90">
-              <img src="img/reference2.jpeg" style="height:50px; width:300px;" class="img-fluid" >
+              <img src="img/reference2.jpeg" style="height:85px; max-width: fit-content;" class="img-fluid" >
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox w-90">
-              <img src="img/hannover-messe.jpg" class="img-fluid" >
+              <img src="img/hannover-messe.jpg" style="height:85px; max-width: fit-content;" class="img-fluid" >
             </div>
           </div>
           <div class="carousel-cell">
@@ -689,17 +689,17 @@ machines smarter.</p>
           </div>
           <div class="carousel-cell">
             <div class="picBox">
-              <img src="img/iit_bombay.png" class="img-fluid">
+              <img src="img/iit_bombay.png" style="height:130px; max-width: fit-content;" class="img-fluid">
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox">
-              <img src="img/logo_zvei.png" class="img-fluid">
+              <img src="img/logo_zvei.png" style="height:70px; max-width: fit-content;" class="img-fluid">
             </div>
           </div>
           <div class="carousel-cell">
             <div class="picBox">
-              <img src="img/vivatech.jpg" class="img-fluid">
+              <img src="img/vivatech.jpg" style="height:110px; max-width: fit-content;" class="img-fluid">
             </div>
           </div>
           <div class="carousel-cell">
