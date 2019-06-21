@@ -35,6 +35,11 @@
               <img src="img/client_logo/e-opt.jpg" class="img-fluid">
             </div>
           </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/client_logo/Avrio.png" class="img-fluid">
+            </div>
+          </div>
         </div>
       </div>
     </div>
