@@ -345,6 +345,82 @@
                 </div>
                 <div class="column">
                     <div class="card">
+                        <img src="img/anirudh_circle.png" alt="Anirudh" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Anirudh</h4>
+                            <h6 class="title"></h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                               
+                            </ul>
+                            <div class="social-icon">
+                                <a href="" target="blank"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/drazen_circle.png" alt="Drazen" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Drazen</h4>
+                            <h6 class="title"></h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                               
+                            </ul>
+                            <div class="social-icon">
+                                <a href="" target="blank"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/marvin_circle.png" alt="Marvin" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Marvin</h4>
+                            <h6 class="title"></h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                               
+                            </ul>
+                            <div class="social-icon">
+                                <a href="" target="blank"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/indra.jpg" alt="Indra" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> INDRA K. PRAJAPAT</h4>
+                            <h6 class="title">Technical Consultant  </h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                              
+                            </ul>
+                            <div class="social-icon">
+                                <a href="https://in.linkedin.com/in/indrakumarprajapat" target="blank"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
                         <img src="img/sumesh.png" alt="Sumesh" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
                             <h4 class="title title-name"> Sumesh K S</h4>
@@ -365,21 +441,22 @@
                     </div>
 
                 </div>
+                
                 <div class="column">
                     <div class="card">
-                        <img src="img/indra.jpg" alt="Indra" style="width:100%; height:270px; border-radius: 50%;">
+                        <img src="img/rushang.jpg" alt="Rushang" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
-                            <h4 class="title title-name"> INDRA K. PRAJAPAT</h4>
-                            <h6 class="title">Technical Consultant  </h6>
+                            <h4 class="title title-name"> Rushang Gajjal</h4>
+                            <h6 class="title">ML - Intern  </h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Binding fluid for the team</li>
-                                <li>A Caffeine dependent life-form </li>
-                                <li>Determined dreamer</li>
-                                <li>Interns beware (He might just playfully rag you!)</li>
+                                <li>Enthusiastic and Resilient Intern</li>
+                                <li>Automating his way through life</li>
+                                <li>Lazy ScriptKiddie</li>
+                                <li>Music is his way out</li>
                             </ul>
                             <div class="social-icon">
-                                <a href="https://in.linkedin.com/in/indrakumarprajapat" target="blank"><i
+                                <a href="https://www.linkedin.com/in/rusherrg/" target="blank"><i
                                         class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
@@ -389,17 +466,43 @@
                 </div>
                 <div class="column">
                     <div class="card">
-                        <img src="img/rushang.jpg" alt="Rushang" style="width:100%; height:270px; border-radius: 50%;">
+                        <img src="img/Tanveer1.jpg" alt="Tanveer" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
-                            <h4 class="title title-name"> Rushang Gajjal</h4>
+                            <h4 class="title title-name"> Tanveer Sayyed</h4>
+                            <h6 class="title">ML - Intern  </h6>
+                            <div class="short-line-team bg-red"></div>
+                            <div class="text-p" >
+                            <ul class="ul-list">
+                                <li> After a good dinner I can forgive anybody</li>
+                                <li> Without music, life would be a mistake</li>
+                                <li> Training models is his pass-time activity</li>
+                                <li> Laugh aloud and sleep sound is his slogan of life</li>
+                            </ul>
+                            </div>
+                            <div class="social-icon">
+                                <a href="https://www.linkedin.com/in/tanveer-sayyed-739105185/" target="blank"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/Aaditya.jpeg" alt="Aaditya" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Aditya Srivastava</h4>
                             <h6 class="title">ML - Intern  </h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Automating his way through life</li>
-                                <li>Lazy ScriptKiddie</li>
+                                <li> A continuous learner</li>
+                                <li> Prefers tea over Coffee</li>
+                                <li> Not a ScriptKiddie</li>
+                                <li> Can't write a bio</li>
                             </ul>
                             <div class="social-icon">
-                                <a href="https://www.linkedin.com/in/rusherrg/" target="blank"><i
+                                <a href="" target="blank"><i
                                         class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
