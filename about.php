@@ -285,9 +285,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>Business Freak</li>
-                                <li>Business driven philanthropy</li>
-                                <li>Execution of business ideas and calls it his one true love</li>
+                                <li>14 years building startups in Germany</li>
+                                <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
+                                <li> Ex-President TiE Deutschland</li>
                                 <!-- <li>Makes them smarter using our AI Software</li> -->
                             </ul>
                             <div class="social-icon">
@@ -308,9 +308,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>The Passionate Technocrat</li>
-                                <li>Technical leadership</li>
-                                <!-- <li>Makes them smarter using our AI Software</li> -->
+                                <li>M.Tech from IIT Mumbai & TU Darmstadt</li>
+                                <li>Work experience with NASA, NTT, Linde, IFM</li>
+                                <li> Awards from MIT GSW, Harvard project for Asia</li>
                             </ul>
                             <div class="social-icon">
 
@@ -322,6 +322,66 @@
                 </div>
                 <div class="column">
                     <div class="card">
+                        <img src="img/marvin_circle.png" alt="Marvin" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Marvin Dadischeck</h4>
+                            <h6 class="title">Business Development Manager</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                               <li> Creating Value Propositions for Customers</li>
+                               <li>Hails from Business Administration background</li>
+                               <li>Work experience with Audi, Federal-Mogul</li>
+                            </ul>
+                            <div class="social-icon">
+                                 
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/default.jpg" alt="Leonid" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Leonid Ravin</h4>
+                            <h6 class="title">Business Development Manager</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                               <li> Great at reading customer DNA</li>
+                               <li>Brings experience from Bosch, Liebherr, Trützschler  </li>
+                               <li> TU Dresdon Alumni</li>
+                            </ul>
+                            <div class="social-icon">
+                                 
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/hitesh.jpeg" alt="Drazen" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Hitesh Mittal</h4>
+                            <h6 class="title"> Director Sales & Marketing</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                               <li>Bridge between customers and team</li>
+                               <li>AI in Control Systems at Continental, Reliance</li>
+                               <li>European Business School Alumni</li>
+                            </ul>
+                            <div class="social-icon">
+                                 
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <!-- <div class="column">
+                    <div class="card">
                         <img src="img/lucky.png" alt="Lucky" style="width:100%; height:270px; border-radius:50px;">
                         <div class="container">
                             <h4 class="title title-name"> LUCKY KHEMANI</h4>
@@ -330,8 +390,7 @@
                             <ul class="ul-list">
                                 <li>19 Patents under his name</li>
                                 <li>Technical advisor </li>
-                                <!-- <li>Makes them smarter using our AI Software</li> -->
-                            </ul>
+                             </ul>
                             <div class="social-icon">
                                 <a href="https://www.linkedin.com/in/lucky-khemani-57b5006" target="blank"><i
                                         class="fab fa-linkedin-in"></i></a>
@@ -342,83 +401,50 @@
 
                     </div>
 
-                </div>
+                </div> -->
                 <div class="column">
                     <div class="card">
                         <img src="img/anirudh_circle.png" alt="Anirudh" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
-                            <h4 class="title title-name"> Anirudh</h4>
-                            <h6 class="title"></h6>
+                            <h4 class="title title-name"> Anirudh Agrawal</h4>
+                            <h6 class="title">Marketing</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                               
+                               <li>Doctoral research on sustainable investment</li>
+                               <li>Work experience in India, France, Denmark and Germany</li>
+                               <li> Recognized author on Industry 4.0</li>
                             </ul>
                             <div class="social-icon">
-                                <a href="" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
+                               
                             </div>
                         </div>
 
                     </div>
 
                 </div>
+              
+              
                 <div class="column">
                     <div class="card">
-                        <img src="img/drazen_circle.png" alt="Drazen" style="width:100%; height:270px; border-radius: 50%;">
+                        <img src="img/kamal.JPG" alt="Drazen" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
-                            <h4 class="title title-name"> Drazen</h4>
-                            <h6 class="title"></h6>
+                            <h4 class="title title-name"> Kamal Galrani</h4>
+                            <h6 class="title"> Director Data Science</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
+                               <li>Geekiest amongs geeks and an amateur physicist</li>
+                               <li>Hails from India's the best institute: IIT Bombay</li>
+                               <li>2nd position at ASME competition at San Diego, California</li>
+                            </ul>
+                            <div class="social-icon">
                                
-                            </ul>
-                            <div class="social-icon">
-                                <a href="" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="column">
-                    <div class="card">
-                        <img src="img/marvin_circle.png" alt="Marvin" style="width:100%; height:270px; border-radius: 50%;">
-                        <div class="container">
-                            <h4 class="title title-name"> Marvin</h4>
-                            <h6 class="title"></h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                               
-                            </ul>
-                            <div class="social-icon">
-                                <a href="" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-                    <div class="card">
-                        <img src="img/indra.jpg" alt="Indra" style="width:100%; height:270px; border-radius: 50%;">
-                        <div class="container">
-                            <h4 class="title title-name"> INDRA K. PRAJAPAT</h4>
-                            <h6 class="title">Technical Consultant  </h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                              
-                            </ul>
-                            <div class="social-icon">
-                                <a href="https://in.linkedin.com/in/indrakumarprajapat" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
+               
                 <div class="column">
                     <div class="card">
                         <img src="img/sumesh.png" alt="Sumesh" style="width:100%; height:270px; border-radius: 50%;">
@@ -433,8 +459,7 @@
                                 <li>Interns beware (He might just playfully rag you!)</li>
                             </ul>
                             <div class="social-icon">
-                                <a href="https://www.linkedin.com/in/sumeshkannathuparambil/" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
+                                
                             </div>
                         </div>
 
@@ -444,20 +469,19 @@
                 
                 <div class="column">
                     <div class="card">
-                        <img src="img/rushang.jpg" alt="Rushang" style="width:100%; height:270px; border-radius: 50%;">
+                        <img src="img/Tanveer1.jpg" alt="Tanveer" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
-                            <h4 class="title title-name"> Rushang Gajjal</h4>
-                            <h6 class="title">ML - Intern  </h6>
+                            <h4 class="title title-name"> Tanveer Sayyed</h4>
+                            <h6 class="title">Data Scientist</h6>
                             <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Enthusiastic and Resilient Intern</li>
-                                <li>Automating his way through life</li>
-                                <li>Lazy ScriptKiddie</li>
-                                <li>Music is his way out</li>
+                             <ul class="ul-list">
+                                <li> After a good dinner I can forgive anybody</li>
+                                <li> Without music, life would be a mistake</li>
+                                <li> Training models is his pass-time activity</li>
+                                <li> Laugh aloud and sleep sound is his slogan of life</li>
                             </ul>
-                            <div class="social-icon">
-                                <a href="https://www.linkedin.com/in/rusherrg/" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
+                             <div class="social-icon">
+                            
                             </div>
                         </div>
 
@@ -466,22 +490,19 @@
                 </div>
                 <div class="column">
                     <div class="card">
-                        <img src="img/Tanveer1.jpg" alt="Tanveer" style="width:100%; height:270px; border-radius: 50%;">
+                        <img src="img/rushang.jpg" alt="Rushang" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
-                            <h4 class="title title-name"> Tanveer Sayyed</h4>
-                            <h6 class="title">ML - Intern  </h6>
+                            <h4 class="title title-name"> Rushang Gajjal</h4>
+                            <h6 class="title">Data Scientist</h6>
                             <div class="short-line-team bg-red"></div>
-                            <div class="text-p" >
                             <ul class="ul-list">
-                                <li> After a good dinner I can forgive anybody</li>
-                                <li> Without music, life would be a mistake</li>
-                                <li> Training models is his pass-time activity</li>
-                                <li> Laugh aloud and sleep sound is his slogan of life</li>
+                                <li>Enthusiastic and Resilient Intern</li>
+                                <li>Automating his way through life</li>
+                                <li>Lazy ScriptKiddie</li>
+                                <li>Music is his way out</li>
                             </ul>
-                            </div>
                             <div class="social-icon">
-                                <a href="https://www.linkedin.com/in/tanveer-sayyed-739105185/" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
+                            
                             </div>
                         </div>
 
@@ -493,7 +514,7 @@
                         <img src="img/Aaditya.jpeg" alt="Aaditya" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
                             <h4 class="title title-name"> Aditya Srivastava</h4>
-                            <h6 class="title">ML - Intern  </h6>
+                            <h6 class="title">Data Scientist </h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li> A continuous learner</li>
@@ -502,8 +523,78 @@
                                 <li> Can't write a bio</li>
                             </ul>
                             <div class="social-icon">
-                                <a href="" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
+                             
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/purvesh.jpeg" alt="Purvesh" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Purvesh Thakre</h4>
+                            <h6 class="title">Data Scientist </h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li> Mathematician from IIT Bombay</li>
+                                <li> Research is his main domain</li>
+                                <li> Dnd when plugged in!</li>
+                            </ul>
+                            <div class="social-icon">
+                             
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/indra.jpg" alt="Indra" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> INDRA K. PRAJAPAT</h4>
+                            <h6 class="title">Full Stack Developer</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                            </ul>
+                            <div class="social-icon">
+                           
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/default.jpg" alt="Mohit" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Mohit Purbia</h4>
+                            <h6 class="title">Full Stack Developer</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                            </ul>
+                            <div class="social-icon">
+                          
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card">
+                        <img src="img/default.jpg" alt="Naresh" style="width:100%; height:270px; border-radius: 50%;">
+                        <div class="container">
+                            <h4 class="title title-name"> Naresh Yadav</h4>
+                            <h6 class="title">Graphic Designer</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                            </ul>
+                            <div class="social-icon">
+                     
                             </div>
                         </div>
 
