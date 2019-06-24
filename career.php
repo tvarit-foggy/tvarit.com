@@ -193,7 +193,7 @@
                           <a href="about#Vision" class="sub-Link">Vision</a>
                         </li>
                         <li>
-                          <a href="about#Leadership" class="sub-Link">Leadership</a>
+                          <a href="about#Team" class="sub-Link">Team</a>
                         </li>
                         <li>
                           <a href="about#Philanthropy" class="sub-Link">Philanthropy</a>

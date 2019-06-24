@@ -211,7 +211,7 @@
                             <a href="#Vision" class="sub-Link">Vision</a>
                         </li>
                         <li>
-                            <a href="#Leadership" class="sub-Link">Leadership</a>
+                            <a href="#Team" class="sub-Link">Team</a>
                         </li>
                         <li>
                             <a href="#Philanthropy" class="sub-Link">Philanthropy</a>
@@ -241,7 +241,7 @@
     <!------------------------ header start ------------------------->
     <header class="headerBg aboutBg" id="visiom">
         <div class="container">
-            <a href="#Leadership" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
+            <a href="#Team" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="typography">
@@ -269,60 +269,19 @@
     </header>
     <!------------------------ header end --------------------------->
 
-    <div class="section-padding" id="Leadership">
+    <div class="section-padding" id="Team">
         <div class="container">
             <div class="centerTitle">
                 <div class="red text-big60">MEET OUR TEAM</div>
             </div>
             <br>
             <div class="row">
+              
                 <div class="column">
-                    <div class="card">
-                        <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:270px;">
-                        <div class="container">
-                            <h4 class="title title-name">SUHAS PATEL</h4>
-                            <h6 class="title">CEO</h6>
-                            <div class="short-line-team bg-red"></div>
-
-                            <ul class="ul-list">
-                                <li>14 years building startups in Germany</li>
-                                <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
-                                <li> Ex-President TiE Deutschland</li>
-                                <!-- <li>Makes them smarter using our AI Software</li> -->
-                            </ul>
-                            <div class="social-icon">
-
-                                <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
+                    <div class="card row-height-1">
+                    <div class="card-view-image">
+                        <img src="img/marvin_circle.png" alt="Marvin" style="width:100%; height:auto; border-radius: 50%;">
                     </div>
-                </div>
-
-                <div class="column">
-                    <div class="card">
-                        <img src="img/rahul_circle.png" alt="Rahul" style="width:100%; height:270px">
-                        <div class="container">
-                            <h4 class="title title-name">RAHUL PRAJAPAT</h4>
-                            <h6 class="title">CTO</h6>
-                            <div class="short-line-team bg-red"></div>
-
-                            <ul class="ul-list">
-                                <li>M.Tech from IIT Mumbai & TU Darmstadt</li>
-                                <li>Work experience with NASA, NTT, Linde, IFM</li>
-                                <li> Awards from MIT GSW, Harvard project for Asia</li>
-                            </ul>
-                            <div class="social-icon">
-
-                                <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="column">
-                    <div class="card">
-                        <img src="img/marvin_circle.png" alt="Marvin" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
                             <h4 class="title title-name"> Marvin Dadischeck</h4>
                             <h6 class="title">Business Development Manager</h6>
@@ -341,8 +300,10 @@
 
                 </div>
                 <div class="column">
-                    <div class="card">
-                        <img src="img/default.jpg" alt="Leonid" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-1">
+                    <div class="card-view-image">
+                        <img src="img/lenoid.jpeg" alt="Leonid" style="width:100%; height:auto; border-radius: 50%;">
+                    </div>
                         <div class="container">
                             <h4 class="title title-name"> Leonid Ravin</h4>
                             <h6 class="title">Business Development Manager</h6>
@@ -361,8 +322,10 @@
 
                 </div>
                 <div class="column">
-                    <div class="card">
-                        <img src="img/hitesh.jpeg" alt="Drazen" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-1">
+                    <div class="card-view-image">
+                        <img src="img/hitesh.jpeg" alt="Hitesh" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Hitesh Mittal</h4>
                             <h6 class="title"> Director Sales & Marketing</h6>
@@ -403,8 +366,10 @@
 
                 </div> -->
                 <div class="column">
-                    <div class="card">
-                        <img src="img/anirudh_circle.png" alt="Anirudh" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-1">
+                    <div class="card-view-image">
+                        <img src="img/anirudh_circle.png" alt="Anirudh" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Anirudh Agrawal</h4>
                             <h6 class="title">Marketing</h6>
@@ -425,8 +390,11 @@
               
               
                 <div class="column">
-                    <div class="card">
-                        <img src="img/kamal.JPG" alt="Drazen" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-4">
+                    <div class="card-view-image">
+
+                        <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Kamal Galrani</h4>
                             <h6 class="title"> Director Data Science</h6>
@@ -446,8 +414,10 @@
                 </div>
                
                 <div class="column">
-                    <div class="card">
-                        <img src="img/sumesh.jpg" alt="Sumesh" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-4">
+                    <div class="card-view-image">
+                        <img src="img/sumesh.jpg" alt="Sumesh" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Sumesh K S</h4>
                             <h6 class="title">Project Manager</h6>
@@ -468,16 +438,17 @@
                 </div>
                 
                 <div class="column">
-                    <div class="card">
-                        <img src="img/Tanveer1.jpg" alt="Tanveer" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-4">
+                    <div class="card-view-image">
+                        <img src="img/Tanveer1.jpg" alt="Tanveer" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Tanveer Sayyed</h4>
                             <h6 class="title">Data Scientist</h6>
                             <div class="short-line-team bg-red"></div>
                              <ul class="ul-list">
-                                <li> After a good dinner I can forgive anybody</li>
-                                <li> Without music, life would be a mistake</li>
-                                <li> Training models is his pass-time activity</li>
+                                <li> Out-of-the-box solution hunter</li>
+                                <li> Knows how and why of insights</li>
                                 <li> Laugh aloud and sleep sound is his slogan of life</li>
                             </ul>
                              <div class="social-icon">
@@ -489,14 +460,16 @@
 
                 </div>
                 <div class="column">
-                    <div class="card">
-                        <img src="img/rushang.jpg" alt="Rushang" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-4">
+                    <div class="card-view-image">
+                        <img src="img/rushang.jpg" alt="Rushang" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Rushang Gajjal</h4>
                             <h6 class="title">Data Scientist</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Enthusiastic and Resilient Intern</li>
+                                <li>Enthusiastic and Resilient</li>
                                 <li>Automating his way through life</li>
                                 <li>Lazy ScriptKiddie</li>
                                 <li>Music is his way out</li>
@@ -510,8 +483,10 @@
 
                 </div>
                 <div class="column">
-                    <div class="card">
-                        <img src="img/Aaditya.jpeg" alt="Aaditya" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-3">
+                    <div class="card-view-image">
+                        <img src="img/Aaditya.jpeg" alt="Aaditya" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Aditya Srivastava</h4>
                             <h6 class="title">Data Scientist </h6>
@@ -520,7 +495,6 @@
                                 <li> A continuous learner</li>
                                 <li> Prefers tea over Coffee</li>
                                 <li> Not a ScriptKiddie</li>
-                                <li> Can't write a bio</li>
                             </ul>
                             <div class="social-icon">
                              
@@ -531,8 +505,10 @@
 
                 </div>
                 <div class="column">
-                    <div class="card">
-                        <img src="img/purvesh.jpeg" alt="Purvesh" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-3">
+                    <div class="card-view-image">
+                        <img src="img/purvesh.jpeg" alt="Purvesh" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Purvesh Thakre</h4>
                             <h6 class="title">Data Scientist </h6>
@@ -551,8 +527,32 @@
 
                 </div>
                 <div class="column">
-                    <div class="card">
-                        <img src="img/indra.jpg" alt="Indra" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-3">
+                    <div class="card-view-image">
+                        <img src="img/default.jpg" alt="Purvesh" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Khushboo Galrani</h4>
+                            <h6 class="title">Data Scientist </h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li> Coffeeholic programmer</li>
+                                <li> Prefers dogs over humans</li>
+                                <li> Creative doodler</li>
+                            </ul>
+                            <div class="social-icon">
+                             
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card row-height-3">
+                    <div class="card-view-image">
+                        <img src="img/indra.jpg" alt="Indra" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> INDRA K. PRAJAPAT</h4>
                             <h6 class="title">Full Stack Developer</h6>
@@ -568,8 +568,10 @@
 
                 </div>
                 <div class="column">
-                    <div class="card">
-                        <img src="img/default.jpg" alt="Mohit" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-2">
+                    <div class="card-view-image">
+                        <img src="img/mohit-pic.jpg" alt="Mohit" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Mohit Purbia</h4>
                             <h6 class="title">Full Stack Developer</h6>
@@ -585,8 +587,29 @@
 
                 </div>
                 <div class="column">
-                    <div class="card">
-                        <img src="img/default.jpg" alt="Naresh" style="width:100%; height:270px; border-radius: 50%;">
+                    <div class="card row-height-2">
+                    <div class="card-view-image">
+                        <img src="img/sk.jpeg" alt="Sohel" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Sohel Khan Sindhi</h4>
+                            <h6 class="title">Full Stack Developer</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                            </ul>
+                            <div class="social-icon">
+                          
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                    <div class="card-view-image">
+                        <img src="img/default.jpg" alt="Naresh" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
                         <div class="container">
                             <h4 class="title title-name"> Naresh Yadav</h4>
                             <h6 class="title">Graphic Designer</h6>
@@ -600,6 +623,54 @@
 
                     </div>
 
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                    <div class="card-view-image">
+                        <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:auto;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name">SUHAS PATEL</h4>
+                            <h6 class="title">CEO</h6>
+                            <div class="short-line-team bg-red"></div>
+
+                            <ul class="ul-list">
+                                <li>14 years building startups in Germany</li>
+                                <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
+                                <li> Ex-President TiE Deutschland</li>
+                                <!-- <li>Makes them smarter using our AI Software</li> -->
+                            </ul>
+                            <div class="social-icon">
+
+                                <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="card row-height-2">
+                    <div class="card-view-image">
+                        <img src="img/rahul_circle.png" alt="Rahul" style="width:100%; height:auto;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name">RAHUL PRAJAPAT</h4>
+                            <h6 class="title">CTO</h6>
+                            <div class="short-line-team bg-red"></div>
+
+                            <ul class="ul-list">
+                                <li>M.Tech from IIT Mumbai & TU Darmstadt</li>
+                                <li>Work experience with NASA, NTT, Linde, IFM</li>
+                                <li> Awards from MIT GSW, Harvard project for Asia</li>
+                            </ul>
+                            <div class="social-icon">
+
+                                <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
           </div>
           </div>
@@ -867,6 +938,7 @@
         width: 100%;
         display: block;
     }
+ 
 }
 
 .card {
@@ -899,6 +971,51 @@
     margin-bottom: 15px;
     display: block;
 }
-</style>
+.row-height-1{
+    height: 500px;
+}
+.row-height-2{
+    height: 570px;
+}
+.row-height-3{
+    height: 510px;
+}
+.card-view-image{
+    margin:50px;
+}
+.row-height-4{
+    height: 550px;
+}
+
+@media  (min-width: 320px) {
+   .row-height-1 {
+    height: 650px;
+}
+.row-height-2{
+    height: 650px;
+}
+.row-height-3{
+    height: 650px;
+}
+.row-height-4{
+    height: 630px;
+}
+}
+@media (min-width: 600px) {
+.row-height-1 {
+    height: 580px;
+}
+.row-height-2{
+    height: 570px;
+}
+.row-height-3{
+    height: 480px;
+}
+.row-height-4{
+    height: 580px;
+}
+}
+
+ </style>
 
 </html>
