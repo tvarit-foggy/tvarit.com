@@ -447,10 +447,10 @@
                
                 <div class="column">
                     <div class="card">
-                        <img src="img/sumesh.png" alt="Sumesh" style="width:100%; height:270px; border-radius: 50%;">
+                        <img src="img/sumesh.jpg" alt="Sumesh" style="width:100%; height:270px; border-radius: 50%;">
                         <div class="container">
                             <h4 class="title title-name"> Sumesh K S</h4>
-                            <h6 class="title">Machine Learning Engineer</h6>
+                            <h6 class="title">Project Manager</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Binding fluid for the team</li>
