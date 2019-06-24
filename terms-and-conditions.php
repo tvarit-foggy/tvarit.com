@@ -194,7 +194,7 @@
                           <a href="#Vision" class="sub-Link">Vision</a>
                         </li>
                         <li>
-                          <a href="#Leadership" class="sub-Link">Leadership</a>
+                          <a href="#Team" class="sub-Link">Team</a>
                         </li>
                         <li>
                           <a href="#Philanthropy" class="sub-Link">Philanthropy</a>
