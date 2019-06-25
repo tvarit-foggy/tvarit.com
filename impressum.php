@@ -248,7 +248,7 @@
            Frankfurt am Main HRB 114845
          </p>    
          <p class="text-p">
-           Hiermit distanzieren sich die im Impressum Genannten ausdrucklich von allen Inhalten verlinkter Seiten oder Grafiken und machen sich diese keinesfalls zu eigen. Samtliche Verstobe gegen geltendes Recht, Sitte oder Moral, welche bekannt werden, haben die sofortige Loschung von Links, Beitragen, Eintragen, Grafiken oder Ahnlichem zur Folge.
+           Hiermit distanzieren sich die im Impressum Genannten ausdrücklich von allen Inhalten verlinkter Seiten oder Grafiken und machen sich diese keinesfalls zu eigen. Sämtliche Verstoße gegen geltendes Recht, Sitte oder Moral, welche bekannt werden, haben die sofortige Löschung von Links, Beiträgen, Einträgen, Grafiken oder Ähnlichem zur Folge.
          </p>
          <p class="text-p">
            Die auf dieser Website genannten Markennamen sind Eigentum der jeweiligen Rechteinhaber.
@@ -257,7 +257,7 @@
          <h4 class="red">Urheberrecht</h4>
 
          <p class="text-p">
-          Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfaltigung, Bearbeitung, Verbreitung und jede Art der Verwertung auberhalb der Grenzen des Urheberrechtes bedurfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur fur den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+          Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
          </p>
 
             
