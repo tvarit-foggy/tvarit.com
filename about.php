@@ -489,6 +489,7 @@
                         <div class="card-view-image">
                             <img src="img/naresh.jpg" alt="Naresh" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
+                         
                         <div class="container">
                             <h4 class="title title-name"> Naresh Yadav</h4>
                             <h6 class="title">Graphic Designer</h6>
@@ -503,9 +504,10 @@
                     </div>
 
                 </div>
+             
             </div>
-              <!-------- Custom Divider ------------>
-              <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
+            <!-------- Custom Divider ------------>
+            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
                 <div class="col-md-5">
                     <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
                 </div>
@@ -518,8 +520,8 @@
             </div>
             <!-------- Custom Divider ------------>
             <div class="row">
-            <div class="column">
-                    <div class="card">
+                <div class="column">
+                    <div class="card row-height-3">
                         <div class="card-view-image">
                             <img src="img/lucky.png" alt="Lucky" style="width:100%; height:auto; border-radius:50px;">
                         </div>
@@ -528,7 +530,8 @@
                             <h6 class="title">Technology Advisor</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-
+                                <li>19 Patents under his name</li>
+                                <li>Audio/image/video Processing domain expert</li>
                             </ul>
                             <div class="social-icon">
 
@@ -541,7 +544,7 @@
 
                 </div>
                 <div class="column">
-                    <div class="card">
+                    <div class="card row-height-3">
                         <div class="card-view-image">
                             <img src="img/indra.jpg" alt="Indra" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
@@ -557,10 +560,10 @@
                         </div>
                     </div>
                 </div>
-                
+
             </div>
-              <!-------- Custom Divider ------------>
-              <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
+            <!-------- Custom Divider ------------>
+            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
                 <div class="col-md-5">
                     <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
                 </div>
@@ -682,7 +685,7 @@
             </div>
             <!-------- Custom Divider ------------>
             <div class="row">
-            
+
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
@@ -731,8 +734,8 @@
                         </div>
                     </div>
                 </div>
-                </div>
-            
+            </div>
+
         </div>
     </div>
     <!------------------------ Automotives start --------------------->
@@ -1047,6 +1050,7 @@
 
 .card-view-image {
     margin: 50px;
+    height: 150px;
 }
 
 .row-height-4 {
@@ -1073,7 +1077,7 @@
 
 @media (min-width: 600px) {
     .row-height-1 {
-        height: 580px;
+        height: 550px;
     }
 
     .row-height-2 {
@@ -1085,7 +1089,7 @@
     }
 
     .row-height-4 {
-        height: 580px;
+        height: 550px;
     }
 }
 </style>
