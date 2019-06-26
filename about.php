@@ -1050,8 +1050,7 @@
 
 .card-view-image {
     margin: 50px;
-    height: 150px;
-}
+ }
 
 .row-height-4 {
     height: 550px;
@@ -1061,6 +1060,7 @@
     .row-height-1 {
         height: 650px;
     }
+
 
     .row-height-2 {
         height: 650px;
@@ -1073,11 +1073,12 @@
     .row-height-4 {
         height: 630px;
     }
+    
 }
 
 @media (min-width: 600px) {
     .row-height-1 {
-        height: 550px;
+        height: 580px;
     }
 
     .row-height-2 {
@@ -1091,6 +1092,7 @@
     .row-height-4 {
         height: 550px;
     }
+  
 }
 </style>
 
