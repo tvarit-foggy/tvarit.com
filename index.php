@@ -638,7 +638,7 @@
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/hannover-messe.png" class="img-fluid">
+                        <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
                     </div>
                 </div>
             </div>
