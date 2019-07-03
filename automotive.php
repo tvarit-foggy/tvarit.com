@@ -64,19 +64,19 @@
                           <a href="use_cases" class="sub-Link">Use Cases</a>
                           <ul class="ul-deep-menu">
                             <li>
-                              <a href="learn#Quality_Prediction" class="sub-Link">Quality Prediction</a>
+                              <a href="use_cases#Quality_Prediction" class="sub-Link">Quality Prediction</a>
                             </li>
                             <li>
-                              <a href="learn#Predictive_Maintenance" class="sub-Link">Predictive Maintenance</a>
+                              <a href="use_cases#Predictive_Maintenance" class="sub-Link">Predictive Maintenance</a>
                             </li>
                             <li>
-                              <a href="learn#Supply_Chain" class="sub-Link">Supply Chain</a>
+                              <a href="use_cases#Supply_Chain" class="sub-Link">Supply Chain</a>
                             </li>
                             <li>
-                              <a href="learn#Asset_and_Inventory_Management" class="sub-Link">Asset and Inventory Management</a>
+                              <a href="use_cases#Asset_and_Inventory_Management" class="sub-Link">Asset and Inventory Management</a>
                             </li>
                             <li>
-                              <a href="learn#Intra-plant_Logistics" class="sub-Link">Intra-plant Logistics</a>
+                              <a href="use_cases#Intra-plant_Logistics" class="sub-Link">Intra-plant Logistics</a>
                             </li>
                           </ul>
                         </li>
