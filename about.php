@@ -269,6 +269,29 @@
     </header>
     <!------------------------ header end --------------------------->
 
+
+    <!------------------------ tvarit start --------------------->
+    <div class="section-padding-both">
+        <div class="container">
+            <div class="white-box-shadow">
+                <div class="centerTitle">
+                    <div class="red text-big60"> Our Culture</div>
+                </div>
+
+                <div class="centerPharseContent text-p">
+                    Tvarit comes from Sanskrit language which means 'Fast'. Our company stands up to its name by valuing
+                    'Fast & Persistent' output. Further the letters A and I shows our strong knowledge in AI field. The
+                    very first letter of our name, the robotic arm shaped T, signifies that our customers are the
+                    manufacturing and automobile companies.
+                </div>
+            </div>
+        </div>
+    </div>
+    <!------------------------ tvarit end ----------------------->
+
+
+
+
     <div class="section-padding" id="Team">
         <div class="container">
             <div class="centerTitle">
@@ -489,7 +512,7 @@
                         <div class="card-view-image">
                             <img src="img/naresh.jpg" alt="Naresh" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
-                         
+
                         <div class="container">
                             <h4 class="title title-name"> Naresh Yadav</h4>
                             <h6 class="title">Graphic Designer</h6>
@@ -504,7 +527,7 @@
                     </div>
 
                 </div>
-             
+
             </div>
             <!-------- Custom Divider ------------>
             <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
@@ -938,24 +961,6 @@
                 ?>
     <!------------------------Automated slide end --------------------->
 
-    <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
-                </div>
-
-                <div class="centerPharseContent text-p">
-                    We’re based out of Frankfurt Germany having the perfect team composition - a German
-                    founder bringing vast know-how of machinery coupled with high-quality software expertise
-                    of the Indian founders.
-                </div>
-            </div>
-        </div>
-    </div>
-    <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
     <?php 
@@ -1050,7 +1055,7 @@
 
 .card-view-image {
     margin: 50px;
- }
+}
 
 .row-height-4 {
     height: 550px;
@@ -1073,7 +1078,7 @@
     .row-height-4 {
         height: 630px;
     }
-    
+
 }
 
 @media (min-width: 600px) {
@@ -1092,7 +1097,7 @@
     .row-height-4 {
         height: 550px;
     }
-  
+
 }
 </style>
 
