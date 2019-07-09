@@ -31,7 +31,7 @@ $("#btnsubmit").live("click", function() {
         } else {
             $.ajax({
                 type: "POST",
-                url: "/ttiAction.php",
+                url: "/ttiAction",
                 data: "company_name=" + company_name + '&person_name=' + person_name + '&plan=' + plan +
                     '&phone_number=' + phone_number + '&email=' + email + '&about_company' +
                     about_company,
