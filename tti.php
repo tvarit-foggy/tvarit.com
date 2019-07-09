@@ -417,7 +417,7 @@ $("#btnsubmit").live("click", function() {
                         <div class="featureBox border-grn">
 
 
-                            <p class="text-p offer-para">Our AI powered software plateform </p>
+                            <p class="text-p offer-para">Our AI powered software platform </p>
 
                             <div class="more">
 
@@ -429,7 +429,7 @@ $("#btnsubmit").live("click", function() {
                         <div class="featureBox border-org">
 
 
-                            <p class="text-p offer-para">Cloud storage credit from AWS, GCP and Microsoft </p>
+                            <p class="text-p offer-para">Cloud services credit from AWS, GCP and Microsoft </p>
 
                             <div class="more">
 
