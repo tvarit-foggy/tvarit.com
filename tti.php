@@ -1,39 +1,69 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-<?php
-/* Attempt MySQL server connection. Assuming you are running MySQL
-server with default setting (user 'root' with no password) */
-if(isset($_POST['company_name'])){
-$link = mysqli_connect("localhost", "tvarit_com", "7kXEMLVdBD2r6TJuUAR7D8vS", "tvarit_com");
- 
-// Check connection
-// if($link === false){
-//     die("ERROR: Could not connect. " . mysqli_connect_error());
-// }
- 
-// Escape user inputs for security
-// $first_name = mysqli_real_escape_string($link, $_REQUEST['first_name']);
-// $last_name = mysqli_real_escape_string($link, $_REQUEST['last_name']);
-// $email = mysqli_real_escape_string($link, $_REQUEST['email']);
-    $company_name = $_POST['company_name'];
-    $person_name = $_POST['person_name'];
-    $plan = $_POST['plan'];
-    $phone_no = $_POST['phone_number'];
-    $email_id = $_POST['email'];
-    $about_company = $_POST['about_company'];
-// Attempt insert query execution
-$sql = "INSERT INTO tbl_tti_requests (company_name, person_name, plan, phone_no, email_id, about_company) VALUES
- ('$company_name', '$person_name', '$plan', '$phone_no', '$email_id', '$about_company')";
-if(mysqli_query($link, $sql)){
-    echo "Records added successfully.";
-} else{
-    echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript" language="javascript">
+function IsEmail(email) {
+    var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    if (!regex.test(email)) {
+        return false;
+    } else {
+        return true;
+    }
 }
- 
-// Close connection
-mysqli_close($link);
-}
-?>
+
+$("#btnsubmit").live("click", function() {
+
+    var company_name = $("#company_name").val();
+    var person_name = $("#person_name").val();
+    var plan = $("#plan").val();
+    var phone_number = $("#phone_number").val();
+    var email = $("#email").val();
+    var about_company = $("#about_company").val();
+    var x = document.getElementById("snackbar");
+    if (company_name !== '' && person_name !== '' && email !== '') {
+        if (IsEmail($("#email").val()) != true) {
+            var y = document.getElementById("validationDemoInvalidEmail");
+            y.className = "show";
+            setTimeout(function() {
+                y.className = y.className.replace("show", "");
+            }, 3000);
+        } else {
+            $.ajax({
+                type: "POST",
+                url: "/ttiAction.php",
+                data: "company_name=" + company_name + '&person_name=' + person_name + '&plan=' + plan +
+                    '&phone_number=' + phone_number + '&email=' + email + '&about_company' +
+                    about_company,
+                success: function(data) {
+                    x.className = "show";
+                    setTimeout(function() {
+                        x.className = x.className.replace("show", "");
+                    }, 3000);
+                    $("#company_name").val('');
+                    $("#person_name").val('');
+                    $("#plan").val('');
+                    $("#phone_number").val('');
+                    $("#email").val('');
+                    $("#about_company").val('');
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    //         x.className = "show";
+                    // setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);  
+                }
+            });
+        }
+    } else {
+        var y = document.getElementById("validation");
+        y.className = "show";
+        setTimeout(function() {
+            y.className = y.className.replace("show", "");
+        }, 3000);
+    }
+
+
+});
+</script>
 
 <head>
 
@@ -449,49 +479,55 @@ mysqli_close($link);
             <div class="container ">
                 <div class="col-md-12 row">
                     <div class="col-md-12 tech-form">
-                         
+
                         <input type="button" value="Join Now" onclick="myFunction()"
-                            class="btn btn-round join-btn btn-red-grd">  
+                            class="btn btn-round join-btn btn-red-grd">
                     </div>
                     <div class="col-md-12 tech-form">
-                    <div class="red">By joining you agree to be contacted by us for TTI program</div>
+                        <div class="red">By joining you agree to be contacted by us for TTI program</div>
 
                     </div>
                     <div id="form1" class="back-form">
                         <form action="" name="myform" method="post">
 
                             <div class="col-md-12 tech-form selectWrapper">
-                                <input required type="text" name="company_name" class="selectBox"
-                                    placeholder="Name of Company">
+                                <input required type="text" id="company_name" class="selectBox"
+                                    placeholder="Name of Company *">
                             </div>
                             <div class="col-md-12 tech-form selectWrapper">
-                                <input required type="text" name="person_name" class="selectBox"
-                                    placeholder="Name of Person">
+                                <input required type="text" id="person_name" class="selectBox"
+                                    placeholder="Name of Person *">
                             </div>
                             <div class="col-md-12 tech-form selectWrapper">
-                                <select class="selectBox" name="plan">
+                                <select class="selectBox" id="plan">
                                     <option disabled selected value="">Select Plan</option>
                                     <option value="Basic" style="">Basic (Remote)</option>
                                     <option value="Professional">Professional (personalized)</option>
                                 </select>
                             </div>
                             <div class="col-md-12 tech-form selectWrapper">
-                                <input type="number" class="selectBox" name="phone_number" placeholder="Phone Number">
+                                <input type="number" class="selectBox" id="phone_number" placeholder="Phone Number">
                             </div>
                             <div class="col-md-12 tech-form selectWrapper">
-                                <input required type="email" class="selectBox" name="email" placeholder="Email ID">
+                                <input required type="email" class="selectBox" id="email" placeholder="Email ID *">
                             </div>
                             <div class="col-md-12 selectWrapper area-div">
-                                <textarea class="textArea" name="about_company"
+                                <textarea class="textArea" id="about_company"
                                     placeholder="About your company"></textarea>
                             </div>
                             <div>
                                 <div class="col-md-12 tech-form submit-btn">
-                                    <input required type="submit" value="Submit" id="btnDemo"
+                                    <input type="button" value="Submit" id="btnsubmit"
                                         class="btn btn-round join-btn btn-red-grd">
 
                                 </div>
                         </form>
+                        <div id="snackbar">We Will Contact You Shortly</div>
+                        <div class="validationDemoIfEmpty" id="validation">Fill all the mandatory fields</div>
+                        <div class="validationDemoIfEmpty" id="validationDemoIfEmpty">Please enter your email id</div>
+                        <div class="validationDemoIfEmpty" id="validationDemoInvalidEmail">Please enter a valid email id
+                        </div>
+
                     </div>
 
                 </div>
@@ -505,7 +541,7 @@ mysqli_close($link);
     function myFunction() {
         var x = document.getElementById("form1");
 
-        if (x.style.display === "none") {
+        if (x.style.display === "none" || x.style.display === "") {
             x.style.display = "block";
         } else {
             x.style.display = "none";
@@ -548,6 +584,96 @@ mysqli_close($link);
 </html>
 
 <style>
+#snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+#snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+#validation {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+#validation.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+#validationDemoIfEmpty {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+#validationDemoIfEmpty.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+
+}
+
+#validationDemoInvalidEmail {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+#validationDemoInvalidEmail.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+
+}
+
 .back-form {
     background: url('./img/linesbg.png');
     background-size: contain;
