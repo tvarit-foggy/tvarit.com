@@ -16,7 +16,7 @@ if(isset($_POST['company_name'])){
    
    if(mysqli_query($link, $sql)){
         $msg = $_POST["msg"];
-            $to = "$email";
+            $to = "$email_id";
             $message = "
             Dear $person_name,
                         Thank you very much for contacting us. here is your message. Our team will contact you soon.
