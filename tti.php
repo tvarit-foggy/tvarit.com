@@ -32,9 +32,8 @@ $("#btnsubmit").live("click", function() {
             $.ajax({
                 type: "POST",
                 url: "/ttiAction",
-                data: "company_name=" + company_name + '&person_name=' + person_name + '&plan=' + plan +
-                    '&phone_number=' + phone_number + '&email=' + email + '&about_company' +
-                    about_company,
+                data: 'company_name=' + company_name + '&person_name=' + person_name + '&plan=' + plan +
+                    '&phone_number=' + phone_number + '&email=' + email + '&about_company' + about_company,
                 success: function(data) {
                     x.className = "show";
                     setTimeout(function() {
