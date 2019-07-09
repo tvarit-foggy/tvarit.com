@@ -1,6 +1,39 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-
+<?php
+/* Attempt MySQL server connection. Assuming you are running MySQL
+server with default setting (user 'root' with no password) */
+if(isset($_POST['company_name'])){
+$link = mysqli_connect("localhost", "tvarit_com", "7kXEMLVdBD2r6TJuUAR7D8vS", "tvarit_com");
+ 
+// Check connection
+// if($link === false){
+//     die("ERROR: Could not connect. " . mysqli_connect_error());
+// }
+ 
+// Escape user inputs for security
+// $first_name = mysqli_real_escape_string($link, $_REQUEST['first_name']);
+// $last_name = mysqli_real_escape_string($link, $_REQUEST['last_name']);
+// $email = mysqli_real_escape_string($link, $_REQUEST['email']);
+    $company_name = $_POST['company_name'];
+    $person_name = $_POST['person_name'];
+    $plan = $_POST['plan'];
+    $phone_no = $_POST['phone_number'];
+    $email_id = $_POST['email'];
+    $about_company = $_POST['about_company'];
+// Attempt insert query execution
+$sql = "INSERT INTO tbl_tti_requests (company_name, person_name, plan, phone_no, email_id, about_company) VALUES
+ ('$company_name', '$person_name', '$plan', '$phone_number', '$email', '$about_company')";
+if(mysqli_query($link, $sql)){
+    echo "Records added successfully.";
+} else{
+    echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
+}
+ 
+// Close connection
+mysqli_close($link);
+}
+?>
 <head>
 
     <meta charset="utf-8">
@@ -134,7 +167,8 @@
 
                                         <li>
                                             <a href="consulting" class="sub-Link">Consulting</a>
-                                        </li>  <li>
+                                        </li>
+                                        <li>
                                             <a href="tti" class="sub-Link">Technology Incubation</a>
                                         </li>
                                     </ul>
@@ -394,71 +428,140 @@
                 <div class="title-grid centerTitle rerBg-grd">
                     Our Programs
                 </div>
-            <div class="col-md-12 programe-section-1">
+                <div class="col-md-12 programe-section-1">
 
-            <img class="prg-img" src="./img/prog-1.png">
+                    <img class="prg-img" src="./img/prog-1.png">
 
-            </div>
-            <div class="col-md-12 programe-section-2">
+                </div>
+                <div class="col-md-12 programe-section-2">
 
-            <img class="prg-img" src="./img/prog-2.png">
+                    <img class="prg-img" src="./img/prog-2.png">
 
-            </div>
+                </div>
 
-                
+
             </div>
         </div>
- 
+
         <!------------------------footer start --------------------->
         <div class="section-padding-both">
             <div class="container">
-            <div class="col-md-12">
-                <div class="col-md-12 tech-form">
-            <input  type="button" value="Join Now" id="btnDemo"  class="btn btn-round join-btn btn-red-grd">
-            </div>
-            <div class="col-md-12 tech-form">
-            <input type="text" class="form-fields" placeholder="Name of Company">
-            </div>
-            <div class="col-md-12 tech-form">
-            <input type="text" class="form-fields" placeholder="Name of Person">
-            </div>
-            <div class="col-md-12 tech-form">
-            <input type="text" class="form-fields" placeholder="Choose Plan">
-            </div>
-            <div class="col-md-12 tech-form">
-            <input type="text" class="form-fields" placeholder="Phone Number">
-            </div>
-            <div class="col-md-12 tech-form">
-            <input type="text" class="form-fields" placeholder="Email ID">
-            </div>
-            <div class="col-md-12 tech-form">
-                  <textarea class="form-fields area-text" rows="4"  placeholder="About your compant"></textarea>
+                <div class="col-md-12">
+                    <div class="col-md-12 tech-form">
+                        <input type="button" value="Join Now" onclick="myFunction()"
+                            class="btn btn-round join-btn btn-red-grd">
+                    </div>
+                    <div id="form1">
+                        <form action="" method="post">
+
+                            <div class="col-md-12 tech-form selectWrapper">
+                                <input type="text" name="company_name" class="selectBox" placeholder="Name of Company">
+                            </div>
+                            <div class="col-md-12 tech-form selectWrapper">
+                                <input type="text" name="person_name" class="selectBox" placeholder="Name of Person">
+                            </div>
+                            <div class="col-md-12 tech-form selectWrapper">
+                                <select class="selectBox" name="plan">
+                                <option disabled selected value="">Choose Plan</option>
+                                <option value="volvo">Volvo</option>
+                                <option value="saab">Saab</option>
+                                </select>
+                             </div>
+                            <div class="col-md-12 tech-form selectWrapper">
+                                <input type="number" class="selectBox" name="phone_number" placeholder="Phone Number">
+                            </div>
+                            <div class="col-md-12 tech-form selectWrapper">
+                                <input type="email" class="selectBox" name="email" placeholder="Email ID">
+                            </div>
+                            <div class="col-md-12 selectWrapper area-div">
+                                <textarea  class="textArea" name="about_company" 
+                                    placeholder="About your company"></textarea>
+                            </div>
+                            <div>
+                                <div class="col-md-12 tech-form submit-btn">
+                                    <input type="submit" value="Submit" id="btnDemo"
+                                        class="btn btn-round join-btn btn-red-grd">
+
+                                </div>
+                        </form>
+                    </div>
+
                 </div>
-            <div>
-                 
-           
-                
             </div>
         </div>
-        <!------------------------footer end --------------------->
-        <!-- script start -->
-        <script src="js/jquery.min.js"></script>
-        <script src="js/popper.min.js"></script>
+    </div>
+                     
+    <!------------------------footer end --------------------->
+    <!-- script start -->
+    <script>
+    function myFunction() {
+        var x = document.getElementById("form1");
+        
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+//     function setCaretPosition(ctrl, pos) {
+//   // Modern browsers
+//   if (ctrl.setSelectionRange) {
+//     ctrl.focus();
+//     ctrl.setSelectionRange(pos, pos);
+  
+//   // IE8 and below
+//   } else if (ctrl.createTextRange) {
+//     var range = ctrl.createTextRange();
+//     range.collapse(true);
+//     range.moveEnd('character', pos);
+//     range.moveStart('character', pos);
+//     range.select();
+//   }
+// }
 
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.easing.min.js"></script>
-        <script src="js/SmoothScroll.js"></script>
-        <script src="js/flickity.pkgd.min.js"></script>
-        <script src="js/readmore.js"></script>
-        <script src="js/counting.js"></script>
-        <script src="js/script.js"></script>
-        <script src="js/parallax.js"></script>
+// // Set the cursor position of the "#test-input" element to the end when the page loads
+// var input = document.getElementsById('pos');
+// setCaretPosition(input, input.value.length);
+    </script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
 
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/SmoothScroll.js"></script>
+    <script src="js/flickity.pkgd.min.js"></script>
+    <script src="js/readmore.js"></script>
+    <script src="js/counting.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/parallax.js"></script>
+   
 </body>
 
 </html>
 
 <style>
+#form1 {
+    display: none;
+}
+
+.selectWrapper{
+  border-radius:50px;
+  display:inline-block;
+  height: 65px;
+  width: 99%;
+  margin-left: 5px;
+  overflow:hidden;
+  background:#fff;
+  border:2px solid #ed1b4a;
+}
+.selectBox{
+  width:100%;
+  height:45px;
+  border:0px;
+  outline:none;
+  background: #fff;
+}
+
 .ttiBg {
     background: url('./img/ttibg.jpg')no-repeat top center;
     background-size: 100%;
@@ -561,44 +664,90 @@
 .featureBox {
     height: 95%
 }
-.programe-section-1{
+
+.programe-section-1 {
     background: url('./img/linesbg.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top right;
 }
-.prg-img{
+
+.prg-img {
     width: 100%;
     height: auto;
 }
-.programe-section-2{
+
+.programe-section-2 {
     background: url('./img/linesbg.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top left;
 }
-.join-btn{
+
+.join-btn {
     width: 30%;
 }
-.tech-form{
-    padding:10px;
+
+.tech-form {
+    padding: 10px;
 }
-input{
-    cursor: pointer;
-} 
-.form-fields{
+
+.form-fields {
     height: 65px;
     border: 2px solid #ed1b4a;
     border-radius: 50px;
-    width:100%;
+    width: 100%;
 }
-::placeholder {
-  color: black !important;
-  font-weight: 600;
-  padding:20px;
- }
-  .area-text{
-    height: 80px !important;  
-  }
 
+input::placeholder {
+    color: black !important;
+    font-weight: 600;
+    padding: 20px;
+}
+
+.area-text {
+    height: 80px !important;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+.submit-btn {
+    text-align: center;
+}
+.area-form{
+    padding: 0px;
+}
+.area-div{
+    padding: 15px;
+    height: 80px;
+    display: inline-block;
+}
+.textArea{
+    border: none;
+    width: 100%;
+}
+textarea::placeholder {
+    color: black !important;
+    font-weight: 600;
+}
+@media (max-width:500px){
+    .title-grid{
+        width:85%;
+    }
+    .text-big60{
+        font-size: 4vh;
+
+    }
+    .plateform-text {
+    font-size: 4vh;
+}
+.typography .text-2 {
+    font-size: 7vh;
+}
+}
 </style>
