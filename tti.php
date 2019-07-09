@@ -23,7 +23,7 @@ $link = mysqli_connect("localhost", "tvarit_com", "7kXEMLVdBD2r6TJuUAR7D8vS", "t
     $about_company = $_POST['about_company'];
 // Attempt insert query execution
 $sql = "INSERT INTO tbl_tti_requests (company_name, person_name, plan, phone_no, email_id, about_company) VALUES
- ('$company_name', '$person_name', '$plan', '$phone_number', '$email', '$about_company')";
+ ('$company_name', '$person_name', '$plan', '$phone_no', '$email_id', '$about_company')";
 if(mysqli_query($link, $sql)){
     echo "Records added successfully.";
 } else{
@@ -34,6 +34,7 @@ if(mysqli_query($link, $sql)){
 mysqli_close($link);
 }
 ?>
+
 <head>
 
     <meta charset="utf-8">
@@ -140,7 +141,7 @@ mysqli_close($link);
 
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item active">
                         <a class="nav-link" href="javascript://">Solutions</a>
                         <div class="submenu-div">
                             <div class="row">
@@ -257,7 +258,7 @@ mysqli_close($link);
             </div>
         </div>
     </li>
-    <li class="nav-item active">
+    <li class="nav-item ">
         <a class="nav-link" href="career">Careers</a>
     </li>
     <li class="nav-item">
@@ -444,42 +445,49 @@ mysqli_close($link);
         </div>
 
         <!------------------------footer start --------------------->
-        <div class="section-padding-both">
-            <div class="container">
-                <div class="col-md-12">
+        <div class="section-padding-both ">
+            <div class="container ">
+                <div class="col-md-12 row">
                     <div class="col-md-12 tech-form">
+                         
                         <input type="button" value="Join Now" onclick="myFunction()"
-                            class="btn btn-round join-btn btn-red-grd">
+                            class="btn btn-round join-btn btn-red-grd">  
                     </div>
-                    <div id="form1">
-                        <form action="" method="post">
+                    <div class="col-md-12 tech-form">
+                    <div class="red">By joining you agree to be contacted by us for TTI program</div>
+
+                    </div>
+                    <div id="form1" class="back-form">
+                        <form action="" name="myform" method="post">
 
                             <div class="col-md-12 tech-form selectWrapper">
-                                <input type="text" name="company_name" class="selectBox" placeholder="Name of Company">
+                                <input required type="text" name="company_name" class="selectBox"
+                                    placeholder="Name of Company">
                             </div>
                             <div class="col-md-12 tech-form selectWrapper">
-                                <input type="text" name="person_name" class="selectBox" placeholder="Name of Person">
+                                <input required type="text" name="person_name" class="selectBox"
+                                    placeholder="Name of Person">
                             </div>
                             <div class="col-md-12 tech-form selectWrapper">
                                 <select class="selectBox" name="plan">
-                                <option disabled selected value="">Choose Plan</option>
-                                <option value="volvo">Volvo</option>
-                                <option value="saab">Saab</option>
+                                    <option disabled selected value="">Select Plan</option>
+                                    <option value="Basic" style="">Basic (Remote)</option>
+                                    <option value="Professional">Professional (personalized)</option>
                                 </select>
-                             </div>
+                            </div>
                             <div class="col-md-12 tech-form selectWrapper">
                                 <input type="number" class="selectBox" name="phone_number" placeholder="Phone Number">
                             </div>
                             <div class="col-md-12 tech-form selectWrapper">
-                                <input type="email" class="selectBox" name="email" placeholder="Email ID">
+                                <input required type="email" class="selectBox" name="email" placeholder="Email ID">
                             </div>
                             <div class="col-md-12 selectWrapper area-div">
-                                <textarea  class="textArea" name="about_company" 
+                                <textarea class="textArea" name="about_company"
                                     placeholder="About your company"></textarea>
                             </div>
                             <div>
                                 <div class="col-md-12 tech-form submit-btn">
-                                    <input type="submit" value="Submit" id="btnDemo"
+                                    <input required type="submit" value="Submit" id="btnDemo"
                                         class="btn btn-round join-btn btn-red-grd">
 
                                 </div>
@@ -490,38 +498,38 @@ mysqli_close($link);
             </div>
         </div>
     </div>
-                     
+
     <!------------------------footer end --------------------->
     <!-- script start -->
     <script>
     function myFunction() {
         var x = document.getElementById("form1");
-        
+
         if (x.style.display === "none") {
             x.style.display = "block";
         } else {
             x.style.display = "none";
         }
     }
-//     function setCaretPosition(ctrl, pos) {
-//   // Modern browsers
-//   if (ctrl.setSelectionRange) {
-//     ctrl.focus();
-//     ctrl.setSelectionRange(pos, pos);
-  
-//   // IE8 and below
-//   } else if (ctrl.createTextRange) {
-//     var range = ctrl.createTextRange();
-//     range.collapse(true);
-//     range.moveEnd('character', pos);
-//     range.moveStart('character', pos);
-//     range.select();
-//   }
-// }
+    //     function setCaretPosition(ctrl, pos) {
+    //   // Modern browsers
+    //   if (ctrl.setSelectionRange) {
+    //     ctrl.focus();
+    //     ctrl.setSelectionRange(pos, pos);
 
-// // Set the cursor position of the "#test-input" element to the end when the page loads
-// var input = document.getElementsById('pos');
-// setCaretPosition(input, input.value.length);
+    //   // IE8 and below
+    //   } else if (ctrl.createTextRange) {
+    //     var range = ctrl.createTextRange();
+    //     range.collapse(true);
+    //     range.moveEnd('character', pos);
+    //     range.moveStart('character', pos);
+    //     range.select();
+    //   }
+    // }
+
+    // // Set the cursor position of the "#test-input" element to the end when the page loads
+    // var input = document.getElementsById('pos');
+    // setCaretPosition(input, input.value.length);
     </script>
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
@@ -534,32 +542,40 @@ mysqli_close($link);
     <script src="js/counting.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-   
+
 </body>
 
 </html>
 
 <style>
+.back-form {
+    background: url('./img/linesbg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
 #form1 {
     display: none;
 }
 
-.selectWrapper{
-  border-radius:50px;
-  display:inline-block;
-  height: 65px;
-  width: 99%;
-  margin-left: 5px;
-  overflow:hidden;
-  background:#fff;
-  border:2px solid #ed1b4a;
+.selectWrapper {
+    border-radius: 50px;
+    display: inline-block;
+    height: 65px;
+    width: 99%;
+    margin-left: 5px;
+    overflow: hidden;
+    background: #fff;
+    border: 2px solid #ed1b4a;
 }
-.selectBox{
-  width:100%;
-  height:45px;
-  border:0px;
-  outline:none;
-  background: #fff;
+
+.selectBox {
+    width: 100%;
+    height: 45px;
+    border: 0px;
+    outline: none;
+    background: #fff;
 }
 
 .ttiBg {
@@ -719,35 +735,43 @@ button:focus {
 .submit-btn {
     text-align: center;
 }
-.area-form{
+
+.area-form {
     padding: 0px;
 }
-.area-div{
+
+.area-div {
     padding: 15px;
     height: 80px;
     display: inline-block;
 }
-.textArea{
+
+.textArea {
     border: none;
     width: 100%;
 }
+
 textarea::placeholder {
     color: black !important;
     font-weight: 600;
 }
-@media (max-width:500px){
-    .title-grid{
-        width:85%;
+
+@media (max-width:500px) {
+    .title-grid {
+        width: 85%;
     }
-    .text-big60{
+
+    .text-big60 {
         font-size: 4vh;
 
     }
+
     .plateform-text {
-    font-size: 4vh;
-}
-.typography .text-2 {
-    font-size: 7vh;
-}
+        font-size: 4vh;
+    }
+
+    .typography .text-2 {
+        font-size: 7vh;
+    }
 }
 </style>
