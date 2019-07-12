@@ -490,6 +490,8 @@
                 </div>
             </div>
             <div class="row">
+            <div class="column">
+            </div>
                 <div class="column">
                     <div class="card ">
                         <div class="card-view-image">
@@ -545,6 +547,8 @@
             </div>
             <!-------- Custom Divider ------------>
             <div class="row">
+            <div class="column">
+            </div>
                 <div class="column">
                     <div class="card row-height-3">
                         <div class="card-view-image">
@@ -710,15 +714,22 @@
             </div>
             <!-------- Custom Divider ------------>
             <div class="row">
-
+            <div class="column">
+            </div>
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:auto;">
                         </div>
+                        
                         <div class="container">
+                        <div class="social-icon" >
+                            <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
+                            class="fab fa-linkedin-in" style="color: #0077B5"></i></a>
+                            </div>
                             <h4 class="title title-name">Suhas Patel</h4>
                             <h6 class="title">CEO</h6>
+                           
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
@@ -727,21 +738,24 @@
                                 <li> Ex-President TiE Deutschland</li>
                                 <!-- <li>Makes them smarter using our AI Software</li> -->
                             </ul>
-                            <div class="social-icon">
-
-                                <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
-                            </div>
+                          
                         </div>
                     </div>
                 </div>
 
                 <div class="column">
+                
                     <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/rahul_circle.png" alt="Rahul" style="width:100%; height:auto;">
                         </div>
                         <div class="container">
+                        <div class="social-icon">
+                            <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
+                                    class="fab fa-linkedin-in" style="color: #0077B5"></i></a>
+                        </div>
+
+
                             <h4 class="title title-name">Rahul Prajapat</h4>
                             <h6 class="title">CTO</h6>
                             <div class="short-line-team bg-red"></div>
@@ -751,11 +765,7 @@
                                 <li>Work experience with NASA, NTT, Linde, IFM</li>
                                 <li> Awards from MIT GSW, Harvard project for Asia</li>
                             </ul>
-                            <div class="social-icon">
-
-                                <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
-                                        class="fab fa-linkedin-in"></i></a>
-                            </div>
+                          
                         </div>
                     </div>
                 </div>
