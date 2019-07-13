@@ -699,6 +699,28 @@
                     </div>
 
                 </div>
+                <div class="column" style="width:37%">
+                </div>
+                <div class="column">
+                    <div class="card row-height-1">
+                        <div class="card-view-image">
+                            <img src="img/Johannes.jpeg" alt="Johannes" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Johannes Mathies</h4>
+                            <h6 class="title">Head of Cooperation</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                            <li>Business Transformer & Opportunity Creator</li>
+                            <li>Experience from Airbus</li>
+                            <li>Dipl.-Ing. Aerospace Engineering, MBA with focus on Strategy and Management</li>
+                            </ul>
+                            <div class="social-icon">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!-------- Custom Divider ------------>
             <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
