@@ -282,9 +282,9 @@
           <div class="hrline-main"></div>
           <div class="col-md-3">
             <div class="vr-line"></div>
-            <div class="ourBox">
+            <div class="ourBox" style="max-width:89%;">
               <div class="title mb-2">ETL</div>
-              <span class="bold red">Extract, Transform, Load</span>
+              <span class="bold red">Extract , Transform , Load</span>
               <div class="short-line bg-grey"></div>
               <div class="more">
                 <p class="text-p">
@@ -296,7 +296,7 @@
 
           <div class="col-md-3">
             <div class="vr-line"></div>
-            <div class="ourBox">
+            <div class="ourBox" style="max-width:89%;">
               <div class="title mb-2">ADC</div>
               <span class="bold red">Automated Data Cleanup</span>
               <div class="short-line bg-grey"></div>
@@ -311,8 +311,8 @@
 
           <div class="col-md-3">
             <div class="vr-line"></div>
-            <div class="ourBox">
-              <div class="title mb-2">AAG</div>
+            <div class="ourBox" style="max-width:89%;">
+              <div class="title mb-2" >AAG</div>
               <span class="bold red">Automated Alert Generation</span>
               <div class="short-line bg-grey"></div>
 
@@ -326,9 +326,9 @@
 
           <div class="col-md-3">
             <div class="vr-line"></div>
-            <div class="ourBox">
+            <div class="ourBox" style="max-width:89%;">
               <div class="title mb-2">ARG</div>
-              <span class="bold red">Automated Report Generation</span>
+              <span class="bold red" >Automated Report Generation</span>
               <div class="short-line bg-grey"></div>
 
               <div class="more">
