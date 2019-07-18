@@ -226,7 +226,9 @@ $("#btn").live("click",function(){
                         <li>
                           <a href="seminar_workshops" class="sub-Link">Seminar & Workshops</a>
                         </li>
-                        
+                        <li>
+                                            <a href="training" class="sub-Link">Training</a>
+                                        </li>
                         <li>
                           <a href="consulting" class="sub-Link">Consulting</a>
                         </li>

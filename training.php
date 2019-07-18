@@ -8,7 +8,7 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>wp-1</title>
+        <title>Training</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -47,7 +47,7 @@
               <i class="fas fa-arrow-right"></i>
             </a>
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link" href="javascript://">Explore</a>
                  <div class="submenu-div">
                   <div class="row">
@@ -100,7 +100,7 @@
                   
                 </div>
               </li>
-              <li class="nav-item">
+              <li class="nav-item active">
                 <a class="nav-link" href="javascript://">Solutions</a>
                 <div class="submenu-div">
                   <div class="row">
@@ -123,7 +123,9 @@
                         <li>
                           <a href="seminar_workshops" class="sub-Link">Seminar & Workshops</a>
                         </li>
-                        
+                        <li>
+                                            <a href="training" class="sub-Link">Training</a>
+                                        </li>
                         <li>
                           <a href="consulting" class="sub-Link">Consulting</a>
                         </li>
