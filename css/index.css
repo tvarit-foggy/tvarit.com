@@ -75,10 +75,11 @@ margin-top: 120px;
     .title-div{
     margin-top: 150px;
     }
-    .headerBg{
+    .headerBg {
     overflow: hidden;
     height: 125vh;
     }
+}
 @media ( min-width: 350px) and (max-width: 400px) {
 .title-div{
 margin-top: 150px;
