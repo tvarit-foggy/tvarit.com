@@ -499,7 +499,7 @@ $("#btnsubmit").live("click", function() {
                                 <input required type="text" id="person_name" class="selectBox"
                                     placeholder="Name of Person *">
                             </div>
-                            <div class="col-md-12 tech-form selectWrapper">
+                            <div class="col-md-12 tech-form selectWrapper" style="padding: 10px 10px 0px 24px;">
                                 <select class="selectBox" id="plan">
                                     <option disabled selected value="">Select Plan</option>
                                     <option value="Basic" style="">Basic (Remote)</option>
@@ -512,7 +512,7 @@ $("#btnsubmit").live("click", function() {
                             <div class="col-md-12 tech-form selectWrapper">
                                 <input required type="email" class="selectBox" id="email" placeholder="Email ID *">
                             </div>
-                            <div class="col-md-12 selectWrapper area-div">
+                            <div class="col-md-12 selectWrapper area-div" style="padding: 20px 20px 0px 30px;">
                                 <textarea class="textArea" id="about_company"
                                     placeholder="About your company"></textarea>
                             </div>
@@ -851,7 +851,9 @@ input::placeholder {
 .area-text {
     height: 80px !important;
 }
-
+select {
+    font-weight: 600;
+  }
 input:focus,
 select:focus,
 textarea:focus,
@@ -869,13 +871,14 @@ button:focus {
 
 .area-div {
     padding: 15px;
-    height: 80px;
+    height: 70px;
     display: inline-block;
 }
 
 .textArea {
     border: none;
     width: 100%;
+    height: 30px;
 }
 
 textarea::placeholder {
