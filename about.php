@@ -73,7 +73,8 @@
                                                         Prediction</a>
                                                 </li>
                                                 <li>
-                                                    <a href="use_cases#Predictive_Maintenance" class="sub-Link">Predictive
+                                                    <a href="use_cases#Predictive_Maintenance"
+                                                        class="sub-Link">Predictive
                                                         Maintenance</a>
                                                 </li>
                                                 <li>
@@ -84,7 +85,8 @@
                                                         class="sub-Link">Asset and Inventory Management</a>
                                                 </li>
                                                 <li>
-                                                    <a href="use_cases#Intra-plant_Logistics" class="sub-Link">Intra-plant
+                                                    <a href="use_cases#Intra-plant_Logistics"
+                                                        class="sub-Link">Intra-plant
                                                         Logistics</a>
                                                 </li>
                                             </ul>
@@ -137,7 +139,8 @@
 
                                         <li>
                                             <a href="consulting" class="sub-Link">Consulting</a>
-                                        </li>  <li>
+                                        </li>
+                                        <li>
                                             <a href="tti" class="sub-Link">Technology Incubation</a>
                                         </li>
                                     </ul>
@@ -490,27 +493,9 @@
                 </div>
             </div>
             <div class="row">
-            <div class="column">
-            </div>
-                <div class="column">
-                    <div class="card ">
-                        <div class="card-view-image">
-                            <img src="img/sk.jpeg" alt="Sohel" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Sohel Khan Sindhi</h4>
-                            <h6 class="title">Data Scientist</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
+                <div class="column" style="width:37%">
                 </div>
+               
                 <div class="column">
                     <div class="card ">
                         <div class="card-view-image">
@@ -547,8 +532,8 @@
             </div>
             <!-------- Custom Divider ------------>
             <div class="row">
-            <div class="column">
-            </div>
+                <div class="column">
+                </div>
                 <div class="column">
                     <div class="card row-height-3">
                         <div class="card-view-image">
@@ -704,16 +689,17 @@
                 <div class="column">
                     <div class="card row-height-1">
                         <div class="card-view-image">
-                            <img src="img/Johannes.jpeg" alt="Johannes" style="width:100%; height:auto; border-radius: 50%;">
+                            <img src="img/Johannes.jpeg" alt="Johannes"
+                                style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Johannes Mathies</h4>
                             <h6 class="title">Head of Cooperation</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                            <li>Business Transformer & Opportunity Creator</li>
-                            <li>Experience from Airbus</li>
-                            <li>Dipl.-Ing. Aerospace Engineering, MBA with focus on Strategy and Management</li>
+                                <li>Business Transformer & Opportunity Creator</li>
+                                <li>Experience from Airbus</li>
+                                <li>Dipl.-Ing. Aerospace Engineering, MBA with focus on Strategy and Management</li>
                             </ul>
                             <div class="social-icon">
 
@@ -736,22 +722,28 @@
             </div>
             <!-------- Custom Divider ------------>
             <div class="row">
-            <div class="column">
-            </div>
+                <div class="column">
+                </div>
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:auto;">
                         </div>
-                        
+
                         <div class="container">
-                        <div class="social-icon" >
-                            <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
-                            class="fab fa-linkedin-in" style="color: #0077B5"></i></a>
-                            </div>
                             <h4 class="title title-name">Suhas Patel</h4>
-                            <h6 class="title">CEO</h6>
-                           
+                            <div class="col-md-12 " style="padding-right:0px">
+                                <div class="row" style="margin-right: 0px;">
+                                    <div class="col-md-6 " style="padding-left:0px;">
+                                        <h6 class="title">CEO</h6>
+                                    </div>
+                                    <div class="col-md-6" style="padding-right:0px;">
+                                        <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
+                                                class="fab fa-linkedin-in"
+                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
@@ -760,26 +752,35 @@
                                 <li> Ex-President TiE Deutschland</li>
                                 <!-- <li>Makes them smarter using our AI Software</li> -->
                             </ul>
-                          
+
                         </div>
                     </div>
                 </div>
 
                 <div class="column">
-                
+
                     <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/rahul_circle.png" alt="Rahul" style="width:100%; height:auto;">
                         </div>
                         <div class="container">
-                        <div class="social-icon">
-                            <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
-                                    class="fab fa-linkedin-in" style="color: #0077B5"></i></a>
-                        </div>
+
 
 
                             <h4 class="title title-name">Rahul Prajapat</h4>
-                            <h6 class="title">CTO</h6>
+                            <div class="col-md-12" style="padding-right:0px">
+                                <div class="row" style="margin-right: 0px;">
+                                    <div class="col-md-6 " style="padding-left:0px;">
+                                        <h6 class="title">CTO</h6>
+                                    </div>
+                                    <div class="col-md-6" style="padding-right:0px;">
+
+                                        <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
+                                                class="fab fa-linkedin-in"
+                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
@@ -787,7 +788,7 @@
                                 <li>Work experience with NASA, NTT, Linde, IFM</li>
                                 <li> Awards from MIT GSW, Harvard project for Asia</li>
                             </ul>
-                          
+
                         </div>
                     </div>
                 </div>
