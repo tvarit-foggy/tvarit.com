@@ -80,7 +80,7 @@
                           </ul>
                         </li>
                         <li>
-                          <a href="white_paper" class="sub-Link">White Paper</a>
+                          <a href="whitepapers" class="sub-Link">White Paper</a>
                         </li>
                         <li>
                           <a href="blogs" class="sub-Link">Blogs</a>
@@ -412,7 +412,7 @@
               </div>
 
               <div>
-                <a href="white_paper" class="btn btn-round btn-black">Click Here</a>
+                <a href="whitepapers" class="btn btn-round btn-black">Click Here</a>
               </div>
             </div>
           </div>

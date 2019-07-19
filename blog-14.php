@@ -80,7 +80,7 @@ de<!DOCTYPE html>
                           </ul>
                         </li>
                         <li>
-                          <a href="white_paper" class="sub-Link">White Paper</a>
+                          <a href="whitepapers" class="sub-Link">White Paper</a>
                         </li>
                         <li>
                           <a href="blogs" class="sub-Link">Blogs</a>
