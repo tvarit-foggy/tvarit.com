@@ -2,7 +2,15 @@
    <html>  
      <head>
  <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>  
- 
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-143837547-1');
+</script>
 
 <script type="text/javascript" language="javascript">  
 function IsEmail(email) {
@@ -13,6 +21,7 @@ function IsEmail(email) {
     return true;
   }
 }
+
 $("#btn").live("click",function(){ 
   if($("#name").val() !== "" && $("#email").val() !=="" && $("#phone").val() !== "" && IsEmail($("#email").val())==true)
     {     
