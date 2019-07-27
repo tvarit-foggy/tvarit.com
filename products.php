@@ -273,6 +273,7 @@ gtag('config', 'UA-143837547-1');
           <div class="white-box-shadow text-center">
               <div class="mb-2">
                <div class="text-big60 fw-900">APA</div>
+               <div class="title mb-2" style="font-size: 1.5rem;margin-bottom: 0rem;">Automated Predictive Analytics</div>
               </div>
              
               <div class="short-line mx-auto bg-red"></div>
