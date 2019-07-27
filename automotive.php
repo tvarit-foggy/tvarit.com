@@ -89,10 +89,10 @@
                           </ul>
                         </li>
                         <li>
-                          <a href="whitepapers" class="sub-Link">White Paper</a>
+                          <a href="whitepapers/index" class="sub-Link">White Paper</a>
                         </li>
                         <li>
-                          <a href="blogs" class="sub-Link">Blogs</a>
+                          <a href="blogs/index" class="sub-Link">Blogs</a>
                         </li>
                         <li>
                           <a href="videos" class="sub-Link">Videos</a>
@@ -318,7 +318,7 @@
               </div>
 
               <div>
-                <a href="whitepapers" class="btn btn-round btn-black">Click Here</a>
+                <a href="whitepapers/index" class="btn btn-round btn-black">Click Here</a>
               </div>
             </div>
           </div>

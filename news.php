@@ -90,10 +90,10 @@ gtag('config', 'UA-143837547-1');
                           </ul>
                         </li>
                         <li>
-                          <a href="whitepapers" class="sub-Link">White Paper</a>
+                          <a href="whitepapers/index" class="sub-Link">White Paper</a>
                         </li>
                         <li>
-                          <a href="blogs" class="sub-Link">Blogs</a>
+                          <a href="blogs/index" class="sub-Link">Blogs</a>
                         </li>
                         <li>
                           <a href="videos" class="sub-Link">Videos</a>
@@ -528,7 +528,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="img/b-oil-gas.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="blog-1" target="_blank" class="title">The Oil & Gas Industry- How Partnering with Industry 4.0 will help?</a>
+                      <a href="blogs/the-oil-gas-industry-how-partnering-with-industry" target="_blank" class="title">The Oil & Gas Industry- How Partnering with Industry 4.0 will help?</a>
                     </div>
                   </div>
                 </div>
