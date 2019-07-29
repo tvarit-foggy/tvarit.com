@@ -40,7 +40,7 @@
     <!------------------------ main menu start ---------------------->
     <div class="main-menu sticky-top sticky fixed-menu">
         <nav class="navbar navbar-expand-lg navbar-light">
-          <a class="navbar-brand bold uppr" href="index">
+          <a class="navbar-brand bold uppr" href="../">
             <img src="../img/logo.png" class="img-fluid">
           </a>
 

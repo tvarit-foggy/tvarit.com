@@ -40,7 +40,7 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
-          <a class="navbar-brand bold uppr" href="index">
+          <a class="navbar-brand bold uppr" href="../">
             <img src="../img/logo.png" class="img-fluid">
           </a>
 
@@ -411,7 +411,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-oil-gas.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-oil-gas-industry-how-partnering-with-industry" target="_blank" class="title">The Oil & Gas Industry- How Partnering with Industry 4.0 will help?</a>
+                      <a href="the-oil-gas-industry-how-partnering-with-industry" class="title">The Oil & Gas Industry- How Partnering with Industry 4.0 will help?</a>
                     </div>
                   </div>
                 </div>
@@ -425,7 +425,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-avionics.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-ascending-flight-ai-in-aviation-industry" target="_blank" class="title">THE ASCENDING FLIGHT- AI IN AVIATION INDUSTRY</a>
+                      <a href="the-ascending-flight-ai-in-aviation-industry" class="title">THE ASCENDING FLIGHT- AI IN AVIATION INDUSTRY</a>
                     </div>
                   </div>
                 </div>
@@ -439,7 +439,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-pharmaceuticals.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-new-medicine-big-data-in-healthcare" target="_blank" class="title">the new medicine- Big Data in healthcare</a>
+                      <a href="the-new-medicine-big-data-in-healthcare" class="title">the new medicine- Big Data in healthcare</a>
                     </div>
                   </div>
                 </div>
@@ -453,7 +453,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/pic-4.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="industry-concreting-the-construction-industry" target="_blank" class="title">INDUSTRY 4.0 CONCRETING THE CONSTRUCTION INDUSTRY</a>
+                      <a href="industry-concreting-the-construction-industry" class="title">INDUSTRY 4.0 CONCRETING THE CONSTRUCTION INDUSTRY</a>
                     </div>
                   </div>
                 </div>
@@ -468,7 +468,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-energy.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="predictive-analytics-in-power-optimization" target="_blank" class="title">PREDICTIVE ANALYTICS IN POWER OPTIMIZATION</a>
+                      <a href="predictive-analytics-in-power-optimization" class="title">PREDICTIVE ANALYTICS IN POWER OPTIMIZATION</a>
                     </div>
                   </div>
                 </div>
@@ -482,7 +482,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-case-studies.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="optimizing-your-inventory-like-a-pro-heres-how-ai-does-it" target="_blank" class="title">Optimizing your Inventory like a pro- Here’s how AI does it</a>
+                      <a href="optimizing-your-inventory-like-a-pro-heres-how-ai-does-it" class="title">Optimizing your Inventory like a pro- Here’s how AI does it</a>
                     </div>
                   </div>
                 </div>
@@ -496,7 +496,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-case-studies.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-card-of-ace-what-is-apm" target="_blank" class="title">The card of ace- WHAT IS APM?</a>
+                      <a href="the-card-of-ace-what-is-apm" class="title">The card of ace- WHAT IS APM?</a>
                     </div>
                   </div>
                 </div>
@@ -510,7 +510,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-case-studies.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="machine-learning-in-supply-chain-management" target="_blank" class="title">Machine Learning in Supply Chain Management</a>
+                      <a href="machine-learning-in-supply-chain-management" class="title">Machine Learning in Supply Chain Management</a>
                     </div>
                   </div>
                 </div>
@@ -524,7 +524,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-case-studies.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-profitable-deal-how-ai-can-increase-your-revenue" target="_blank" class="title">The profitable deal- How AI can increase your Revenue?</a>
+                      <a href="the-profitable-deal-how-ai-can-increase-your-revenue" class="title">The profitable deal- How AI can increase your Revenue?</a>
                     </div>
                   </div>
                 </div>
@@ -538,7 +538,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-case-studies.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="revolutionizing-supply-chain-when-ai-plays-with-demand-cost" target="_blank" class="title">Revolutionizing supply chain- when AI plays with demand & cost</a>
+                      <a href="revolutionizing-supply-chain-when-ai-plays-with-demand-cost" class="title">Revolutionizing supply chain- when AI plays with demand & cost</a>
                     </div>
                   </div>
                 </div>
@@ -552,7 +552,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-energy.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-winds-of-change-ai-transforming-the-energy-industry" target="_blank" class="title">THE WINDS OF CHANGE- AI TRANSFORMING THE ENERGY INDUSTRY</a>
+                      <a href="the-winds-of-change-ai-transforming-the-energy-industry" class="title">THE WINDS OF CHANGE- AI TRANSFORMING THE ENERGY INDUSTRY</a>
                     </div>
                   </div>
                 </div>
@@ -566,7 +566,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-automotive.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-swifter-drive-ai-changing-the-transport-industry" target="_blank" class="title">The Swifter Drive- AI changing the transport industry</a>
+                      <a href="the-swifter-drive-ai-changing-the-transport-industry" class="title">The Swifter Drive- AI changing the transport industry</a>
                     </div>
                   </div>
                 </div>
@@ -580,7 +580,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-automotive.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="on-the-road-big-data-and-the-automobile-industry" target="_blank" class="title">On the Road- Big Data and the Automobile industry</a>
+                      <a href="on-the-road-big-data-and-the-automobile-industry" class="title">On the Road- Big Data and the Automobile industry</a>
                     </div>
                   </div>
                 </div>
@@ -594,7 +594,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-steel.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="shining-up-a-rusty-industry-with-artificial-intelligence" target="_blank" class="title">Shining Up a Rusty Industry with Artificial Intelligence</a>
+                      <a href="shining-up-a-rusty-industry-with-artificial-intelligence" class="title">Shining Up a Rusty Industry with Artificial Intelligence</a>
                     </div>
                   </div>
                 </div>
