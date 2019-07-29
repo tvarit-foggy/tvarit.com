@@ -528,7 +528,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="img/b-oil-gas.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="blog-1" target="_blank" class="title">The Oil & Gas Industry- How Partnering with Industry 4.0 will help?</a>
+                      <a href="blogs/the-oil-gas-industry-how-partnering-with-industry" target="_blank" class="title">The Oil & Gas Industry- How Partnering with Industry 4.0 will help?</a>
                     </div>
                   </div>
                 </div>
