@@ -100,10 +100,10 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="whitepapers/index" class="sub-Link">White Paper</a>
+                                            <a href="whitepapers" class="sub-Link">White Paper</a>
                                         </li>
                                         <li>
-                                            <a href="blogs/index" class="sub-Link">Blogs</a>
+                                            <a href="blogs" class="sub-Link">Blogs</a>
                                         </li>
                                         <li>
                                             <a href="videos" class="sub-Link">Videos</a>

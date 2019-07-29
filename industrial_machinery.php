@@ -88,10 +88,10 @@ gtag('config', 'UA-143837547-1');
                           </ul>
                         </li>
                         <li>
-                          <a href="whitepapers/index" class="sub-Link">White Paper</a>
+                          <a href="whitepapers" class="sub-Link">White Paper</a>
                         </li>
                         <li>
-                          <a href="blogs/index" class="sub-Link">Blogs</a>
+                          <a href="blogs" class="sub-Link">Blogs</a>
                         </li>
                         <li>
                           <a href="videos" class="sub-Link">Videos</a>
@@ -319,7 +319,7 @@ gtag('config', 'UA-143837547-1');
               </div>
 
               <div>
-                <a href="whitepapers/index" class="btn btn-round btn-black">Click Here</a>
+                <a href="whitepapers" class="btn btn-round btn-black">Click Here</a>
               </div>
             </div>
           </div>
