@@ -40,7 +40,7 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
-          <a class="navbar-brand bold uppr" href="index">
+          <a class="navbar-brand bold uppr" href="../">
             <img src="../img/logo.png" class="img-fluid">
           </a>
 
@@ -367,7 +367,7 @@ gtag('config', 'UA-143837547-1');
                     </div>
                     <div class="content">
                       <a href="the-smart-fruit-how-ai-is-reaping-in-the-agriculture-sector
-" target="_blank" class="title">The Smart Fruit- How AI is reaping in the Agriculture sector</a>
+" class="title">The Smart Fruit- How AI is reaping in the Agriculture sector</a>
                     </div>
                   </div>
                 </div>
@@ -383,7 +383,7 @@ gtag('config', 'UA-143837547-1');
                     <div class="content">
                       <a href="enhancing-cpg-with-ai-and-advanced-analytics
 
-" target="_blank" class="title">Enhancing CPG with AI and Advanced Analytics</a>
+" class="title">Enhancing CPG with AI and Advanced Analytics</a>
                     </div>
                   </div>
                 </div>
@@ -399,7 +399,7 @@ gtag('config', 'UA-143837547-1');
                     <div class="content">
                       <a href="fuel-efficiency-in-smart-vehicles
 
-" target="_blank" class="title">FUEL EFFICIENCY IN SMART VEHICLES</a>
+" class="title">FUEL EFFICIENCY IN SMART VEHICLES</a>
                     </div>
                   </div>
                 </div>
@@ -415,7 +415,7 @@ gtag('config', 'UA-143837547-1');
                     <div class="content">
                       <a href="construction-industry-in-partnership-with-industry
 
-" target="_blank" class="title">CONSTRUCTION INDUSTRY IN PARTNERSHIP WITH INDUSTRY 4.0</a>
+" class="title">CONSTRUCTION INDUSTRY IN PARTNERSHIP WITH INDUSTRY 4.0</a>
                     </div>
                   </div>
                 </div>
@@ -432,7 +432,7 @@ gtag('config', 'UA-143837547-1');
                       <a href="predictive-maintenance-the-next-pioneer-in-automotive-industry
 
 
-" target="_blank" class="title">PREDICTIVE MAINTENANCE- THE NEXT PIONEER IN AUTOMOTIVE INDUSTRY</a>
+" class="title">PREDICTIVE MAINTENANCE- THE NEXT PIONEER IN AUTOMOTIVE INDUSTRY</a>
                     </div>
                   </div>
                 </div>
