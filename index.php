@@ -32,7 +32,7 @@ gtag('config', 'UA-143837547-1');
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-
+    <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
     <!--[if lt IE 9]>
@@ -257,7 +257,7 @@ gtag('config', 'UA-143837547-1');
 
     <!------------------------ header start ------------------------->
     <header class="headerBg">
-        <a href="#Quality_Prediction" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
+        <a href="#WHATisAPA" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
         <video poster="img/indexVideoBg.jpg" autoplay="true" muted loop>
             <source src="video/indexBg.mp4" type="video/mp4">
         </video>
@@ -296,7 +296,7 @@ gtag('config', 'UA-143837547-1');
 
 
 
-    <div class="section-padding">
+    <div class="section-padding" id="WHATisAPA">
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
