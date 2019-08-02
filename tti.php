@@ -409,7 +409,23 @@ gtag('config', 'UA-143837547-1');
             </div>
         </div>
         <!------------------------ Automotives end --------------------->
+        <div class="section-padding">
+        <div class="container">
 
+            <div class="row align-items-center">
+            <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <div class="videoWrapper">
+                        <iframe class="videoFrame" src="https://www.youtube.com/embed/9hRdV3rxxhA" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+                
+            </div>
+        </div>
+    </div>
         <!------------------------ Automotives start --------------------->
         <div class="section-padding-both">
             <div class="container">
