@@ -357,7 +357,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
                             aria-expanded="false" aria-controls="acccrdn4">
-                            Business Development Manager
+                            Business Development Manager - Praktikum Werkstudent (3-6 Monate)
                         </a>
                     </div>
 
