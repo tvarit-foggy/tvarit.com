@@ -1,0 +1,50 @@
+<div class="section-padding-both">
+      <div class="container">
+        <div class="centerTitle text-big60">
+        <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> Nutzer           
+        </div>
+        <br>
+        <div class="client-carousel">
+          <div class="carousel-cell">
+            <div class="picBox w-90">
+              <img src="img/client_logo/aditya_birla.jpg" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox w-90">
+              <img src="img/client_logo/John_Deere_logo.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox w-90">
+              <img src="img/client_logo/intel.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/client_logo/NTT.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/client_logo/times-of-india.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/client_logo/e-opt.jpg" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/client_logo/Avrio.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/client_logo/siemens.png" class="img-fluid">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
