@@ -266,7 +266,7 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                            <span class="tvarit-black">About Tv<span class="color">a</span>r<span
+                            <span class="tvarit-black">ÜBER Tv<span class="color">a</span>r<span
                                     class="color">i</span>t</span>
                         </div>
                         <div class="text-big60 red">
@@ -275,10 +275,10 @@
                         <br>
                         <div class="more">
                             <p class="text-p">
-                                Tvarit GmbH takes pride in being an innovative & a customer-oriented company with
-                                reliable technical roots. We operate with an extensive nexus of technical and business
-                                professionals, withholding years of experience in establishing crucial projects with
-                                MNCs in Europe.
+                            Die Tvarit GmbH ist stolz darauf, ein innovatives und kundenorientiertes Unternehmen mit zuverlässigen 
+technischen Wurzeln zu sein. Wir arbeiten mit einem umfangreichen Netzwerk von technischen und 
+kaufmännischen Fachleuten zusammen, die über jahrelange Erfahrung bei der Durchführung wichtiger Projekte 
+mit MNCs in Europa verfügen.
                             </p>
                         </div>
 
@@ -295,14 +295,14 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="red text-big60"> Our Culture</div>
+                    <div class="red text-big60"> UNSERE KULTUR</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
-                    Tvarit comes from Sanskrit language which means 'Fast'. Our company stands up to its name by valuing
-                    'Fast & Persistent' output. Further the letters A and I shows our strong knowledge in AI field. The
-                    very first letter of our name, the robotic arm shaped T, signifies that our customers are the
-                    manufacturing and automobile companies.
+                Tvarit kommt aus dem Sanskrit, was soviel wie ""schnell"" bedeutet. Unser Unternehmen macht seinem Namen 
+alle Ehre, indem es den Output von ""Fast & Persistent"" bewertet. Weiterhin zeigen die Buchstaben A und I 
+unsere starken Kenntnisse im KI-Bereich. Der allererste Buchstabe unseres Namens, der Roboterarm in T-
+Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind.
                 </div>
             </div>
         </div>
@@ -315,7 +315,7 @@
     <div class="section-padding" id="Team">
         <div class="container">
             <div class="centerTitle">
-                <div class="red text-big60">MEET OUR TEAM</div>
+                <div class="red text-big60">TREFFEN SIE UNSER TEAM</div>
             </div>
             <br>
             <div class="row">
@@ -330,9 +330,9 @@
                             <h6 class="title"> Director Data Science</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Geekiest amongs geeks and an amateur physicist</li>
-                                <li>Hails from India's best institute: IIT Bombay</li>
-                                <li>2nd position at ASME competition at San Diego, California</li>
+                                <li>Geekiest amongs Geeks und ein Amateur-Physiker</li>
+                                <li>Ruft von Indiens bestem Institut: IIT Bombay</li>
+                                <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
                             </ul>
                             <div class="social-icon">
 
@@ -353,10 +353,10 @@
                             <h6 class="title">Project Manager</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Binding fluid for the team</li>
-                                <li>A Caffeine dependent life-form </li>
-                                <li>Determined dreamer</li>
-                                <li>Interns beware (He might just playfully rag you!)</li>
+                                <li>Bindungsflüssigkeit für das Team</li>
+                                <li>Eine koffeinabhängige Lebensform </li>
+                                <li>Entschlossener Träumer</li>
+                                <li>Praktikanten aufgepasst (Er könnte dich vielleicht spielerisch zerfetzen!)</li>
                             </ul>
                             <div class="social-icon">
 
@@ -375,12 +375,12 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Tanveer Sayyed</h4>
-                            <h6 class="title">Data Scientist</h6>
+                            <h6 class="title">Data Scientist (Datenwissenschaftler)</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li> Out-of-the-box solution hunter</li>
-                                <li> Knows how and why of insights</li>
-                                <li> Laugh aloud and sleep sound is his slogan of life</li>
+                                <li> Sofort einsatzbereiter Lösungssucher</li>
+                                <li> Kennt wie und warum von Erkenntnissen</li>
+                                <li> Lachen laut und Schlafgeräusche sind sein Lebensmotto</li>
                             </ul>
                             <div class="social-icon">
 
@@ -398,13 +398,13 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Rushang Gajjal</h4>
-                            <h6 class="title">Data Scientist</h6>
+                            <h6 class="title">Data Scientist (Datenwissenschaftler)</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Enthusiastic and Resilient</li>
-                                <li>Automating his way through life</li>
-                                <li>Lazy ScriptKiddie</li>
-                                <li>Music is his way out</li>
+                                <li>Enthusiastisch und widerstandsfähig</li>
+                                <li>Automatisierung seines Lebensweges</li>
+                                <li>Faulheit ScriptKiddie</li>
+                                <li>Musik ist sein Weg nach draußen.</li>
                             </ul>
                             <div class="social-icon">
 
@@ -425,12 +425,12 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Aditya Srivastava</h4>
-                            <h6 class="title">Data Scientist </h6>
+                            <h6 class="title">Data Scientist (Datenwissenschaftler) </h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li> A continuous learner</li>
-                                <li> Prefers tea over Coffee</li>
-                                <li> Not a ScriptKiddie</li>
+                                <li> Ein ständiger Begleiter</li>
+                                <li> Bevorzugt Tee über Kaffee</li>
+                                <li> Kein ScriptKiddie</li>
                             </ul>
                             <div class="social-icon">
 
@@ -448,12 +448,12 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Purvesh Thakre</h4>
-                            <h6 class="title">Data Scientist </h6>
+                            <h6 class="title">Data Scientist (Datenwissenschaftler) </h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li> Mathematician from IIT Bombay</li>
-                                <li> Research is his main domain</li>
-                                <li> Dnd when plugged in!</li>
+                                <li> Mathematiker vom IIT Bombay</li>
+                                <li> Forschung ist seine Hauptdomäne</li>
+                                <li> Und das beim Einstecken!</li>
                             </ul>
                             <div class="social-icon">
 
@@ -471,12 +471,12 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Khushboo Galrani</h4>
-                            <h6 class="title">Data Scientist </h6>
+                            <h6 class="title">Data Scientist (Datenwissenschaftler) </h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li> Coffeeholic programmer</li>
-                                <li> Prefers dogs over humans</li>
-                                <li> Creative doodler</li>
+                                <li> Coffeeholic Programmierer</li>
+                                <li> Bevorzugt Hunde gegenüber Menschen</li>
+                                <li> Kreativer Doodler</li>
                             </ul>
                             <div class="social-icon">
 
@@ -494,7 +494,7 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Mohit Purbia</h4>
-                            <h6 class="title">Data Scientist</h6>
+                            <h6 class="title">Data Scientist (Datenwissenschaftler)</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                             </ul>
@@ -519,7 +519,7 @@
 
                         <div class="container">
                             <h4 class="title title-name"> Naresh Yadav</h4>
-                            <h6 class="title">Graphic Designer</h6>
+                            <h6 class="title">Grafikdesigner</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                             </ul>
@@ -556,11 +556,11 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Lucky Khemani</h4>
-                            <h6 class="title">Technology Advisor</h6>
+                            <h6 class="title">Technologieberaterin</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>19 Patents under his name</li>
-                                <li>Audio/image/video Processing domain expert</li>
+                                <li>19 Patente unter seinem Namen</li>
+                                <li>Experte für die Audio-, Bild- und Videoverarbeitung</li>
                             </ul>
                             <div class="social-icon">
 
@@ -579,7 +579,7 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Indra K. Prajapat</h4>
-                            <h6 class="title">Technology Advisor</h6>
+                            <h6 class="title">Technologieberaterin</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                             </ul>
@@ -617,9 +617,9 @@
                             <h6 class="title">Business Development Manager</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li> Creating Value Propositions for Customers</li>
-                                <li>Hails from Business Administration background</li>
-                                <li>Work experience with Audi, Federal-Mogul</li>
+                                <li> Schaffung von Mehrwertangeboten für Kunden</li>
+                                <li>Aus dem Hintergrund der Betriebswirtschaftslehre</li>
+                                <li>Berufserfahrung bei Audi, Federal-Mogul</li>
                             </ul>
                             <div class="social-icon">
 
@@ -640,8 +640,8 @@
                             <h6 class="title">Business Development Manager</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li> Great at reading customer DNA</li>
-                                <li>Brings experience from Bosch, Liebherr, Trützschler </li>
+                                <li> Großartig im Lesen von Kunden-DNAs</li>
+                                <li>Bringt Erfahrungen von Bosch, Liebherr, Trützschler mit. </li>
                                 <li> TU Dresden Alumni</li>
                             </ul>
                             <div class="social-icon">
@@ -660,12 +660,12 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Hitesh Mittal</h4>
-                            <h6 class="title"> Director Sales & Marketing</h6>
+                            <h6 class="title"> Direktor Vertrieb & Marketing</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Bridge between customers and team</li>
-                                <li>AI in Control Systems at Continental, Reliance</li>
-                                <li>European Business School Alumni</li>
+                                <li>Brücke zwischen Kunden und Team</li>
+                                <li>KI in Kontrollsystemen bei Continental, Vertrauenswürdigkeit</li>
+                                <li>Alumni der European Business School</li>
                             </ul>
                             <div class="social-icon">
 
@@ -687,9 +687,9 @@
                             <h6 class="title">Marketing</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Doctoral research on sustainable investment</li>
-                                <li>Work experience in India, France, Denmark and Germany</li>
-                                <li> Recognized author on Industry 4.0</li>
+                                <li>Promotion zum Thema Nachhaltiges Investment</li>
+                                <li>Berufserfahrung in Indien, Frankreich, Dänemark und Deutschland</li>
+                                <li>Anerkannter Autor für Industry 4.0</li>
                             </ul>
                             <div class="social-icon">
 
@@ -712,9 +712,9 @@
                             <h6 class="title">Head of Cooperation</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Business Transformer & Opportunity Creator</li>
-                                <li>Experience from Airbus</li>
-                                <li>Dipl.-Ing. Aerospace Engineering, MBA with focus on Strategy and Management</li>
+                                <li>Unternehmenstransformator & Opportunity Creator</li>
+                                <li>Erfahrungen von Airbus</li>
+                                <li>Dipl.-Ing. Aerospace Engineering, MBA mit Schwerpunkt Strategie und Management</li>
                             </ul>
                             <div class="social-icon">
 
@@ -762,9 +762,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>14 years building startups in Germany</li>
-                                <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
-                                <li> Ex-President TiE Deutschland</li>
+                                <li>14 Jahre Aufbau von Start-ups in Deutschland</li>
+                                <li> Arbeitete mit Fortune-500-Unternehmen wie Intel, Qualcomm und anderen</li>
+                                <li> Ex-Präsident TiE Deutschland</li>
                                 <!-- <li>Makes them smarter using our AI Software</li> -->
                             </ul>
 
@@ -799,9 +799,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>M.Tech from IIT Mumbai & TU Darmstadt</li>
-                                <li>Work experience with NASA, NTT, Linde, IFM</li>
-                                <li> Awards from MIT GSW, Harvard project for Asia</li>
+                                <li>M.Tech vom IIT Mumbai & TU Darmstadt</li>
+                                <li>Berufserfahrung bei NASA, NTT, Linde, IFM, etc.</li>
+                                <li> Auszeichnungen von MIT GSW, Harvard-Projekt für Asien</li>
                             </ul>
 
                         </div>
@@ -824,24 +824,22 @@
                 <div class="col-md">
                     <div class="px-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefi</span><span
-                                    class="red">TS #1</span></div>
-                            <h4 class="red fs-18">Steel production- quicker, precise, easier. How?</h4>
+                            <div class="text-big60 fw-900"><span class="text-capitalize">Vorteile</span><span
+                                    class="red"> #1</span></div>
+                            <h4 class="red fs-18">Stahlproduktion - schneller, präziser, einfacher. Wie?</h4>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                                Tvarit AI, promising to make your life easier toiled to turn steel
-                                production smarter. Our team set up an APA tool to predict the quality of
-                                steel produced accurately and swifter. Earlier a gruesome huge batch of
-                                processing machines, fluxing iron ore, and scrap metal looked irksome. But
-                                our team helped envisage the precise amount of impurities such as nitrogen,
-                                silicon, phosphorus and excess carbon to be removed from the raw iron, and
-                                alloying elements such as manganese, nickel, chromium, and vanadium to be
-                                added to produce different grades of steel. Tvarit Solution helped company
-                                predicting the quality of steel being produced on a real-time basis and
-                                further gave actionable insights to reduce the number of defective coils
-                                thus changing the game.</p>
+                            Tvarit KI verspricht, Ihr Leben einfacher zu machen, um die Stahlproduktion intelligenter zu machen. Unser 
+Team richtete ein APA-Tool ein, um die Qualität des produzierten Stahls präzise und schnell vorherzusagen. 
+Früher sah eine unheimlich große Anzahl von Verarbeitungsmaschinen, die Eisenerz und Schrott schmelzen 
+ließen, lästig aus. Aber unser Team half dabei, die genaue Menge an Verunreinigungen wie Stickstoff, Silizium, 
+Phosphor und überschüssigem Kohlenstoff, die aus dem Roheisen entfernt werden müssen, sowie 
+Legierungselemente wie Mangan, Nickel, Chrom und Vanadium, die hinzugefügt werden müssen, um 
+verschiedene Stahlqualitäten herzustellen, zu ermitteln. Tvarit Solution half dem Unternehmen, die Qualität des 
+produzierten Stahls in Echtzeit vorherzusagen und lieferte weitere umsetzbare Erkenntnisse, um die Anzahl der 
+defekten Coils zu reduzieren und damit das Spiel zu verändern.</p>
                         </div>
                     </div>
                 </div>
@@ -858,24 +856,22 @@
                 <div class="col-md order-2 order-md-1">
                     <div class="px-4 box-content-right">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefi</span><span
-                                    class="red">TS #2</span></div>
-                            <h4 class="red fs-18">When will my machine break?</h4>
+                            <div class="text-big60 fw-900"><span class="text-capitalize">Vorteile</span><span
+                                    class="red"> #2</span></div>
+                            <h4 class="red fs-18">Wann wird meine Maschine ausfallen?</h4>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                                Predicting life expectancy is always harsh. When it comes to machines, it is
-                                rather important though. Tvarit on the cue helps reduce the wrinkles of
-                                doubts about when the machine or its component will get out of function. On
-                                the same lines, we executed our model for a construction company. The key
-                                challenge was to spot the failure patterns in various SPN IDs and FMI IDs
-                                coming in DTCs (diagnostic trouble codes) from CAN bus which is attached to
-                                machine’s engine. Next, we captured the sustaining time of a particular DTC.
-                                Once that was done, it was easy to apply ML / DL algorithms to predict the
-                                period a DTC persists, and whether the machine is going to breakdown or not
-                                and notify the responsible person. This is what Tvarit AIms for, upgrading
-                                your lives.</p>
+                            Die Vorhersage der Lebenserwartung ist immer hart. Wenn es um Maschinen geht, ist es jedoch ziemlich 
+wichtig. Tvarit hilft, die Unklarheiten zu reduzieren, die entstehen, wenn Zweifel darüber bestehen, wann die 
+Maschine oder ihre Komponente außer Betrieb genommen wird. In ähnlicher Weise haben wir unser Modell für 
+ein Bauunternehmen ausgeführt. Die größte Herausforderung bestand darin, die Fehlermuster in verschiedenen 
+SPN-IDs und FMI-IDs zu erkennen, die in DTCs (Diagnose-Fehlercodes) vom CAN-Bus kommen, der am 
+Maschinenmotor angeschlossen ist. Als nächstes haben wir die Haltezeit eines bestimmten DTCs erfasst. 
+Danach war es einfach, ML-/DL-Algorithmen anzuwenden, um den Zeitraum, in dem ein DTC fortbesteht, und 
+ob die Maschine ausfällt oder nicht, vorherzusagen und die verantwortliche Person zu informieren. Dafür gibt es 
+Tvarit AIms, die Ihr Leben verbessern.</p>
                         </div>
                     </div>
                 </div>
@@ -902,21 +898,21 @@
                 <div class="col-md">
                     <div class="px-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefi</span><span
-                                    class="red">TS #3</span></div>
-                            <h4 class="red fs-18">The truck and the backup battery</h4>
+                            <div class="text-big60 fw-900"><span class="text-capitalize">Vorteile</span><span
+                                    class="red">#3</span></div>
+                            <h4 class="red fs-18">Der LKW und die Backup-Batterie</h4>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                                A truck company approached us with a normal problem- we rent trucks and our
-                                backup battery cost is soaring. Basically, they wanted to reduce the backup
-                                battery cost for their fleet. One back up battery cost them 7000 euro and
-                                had its own restrictions. It could not be used in each and every truck. So,
-                                we tabulated the distance covered, fuel consumption in eco mode/start mode,
-                                battery voltage and current data to predict the need for a backup battery
-                                for a given truck. This solved their problem, was cost efficient, smarter
-                                and as promised, easier and upgraded by Tvarit AI. </p>
+                            Eine LKW-Firma hat sich mit einem normalen Problem an uns gewandt - wir mieten LKWs und unsere Kosten 
+für die Backup-Batterie steigen in die Höhe. Im Grunde genommen wollten sie die Kosten für die Backup-
+Batterie ihres Fuhrparks senken. Eine Backup-Batterie kostete sie 7000 Euro und hatte ihre eigenen 
+Einschränkungen. Es konnte nicht in jedem einzelnen LKW eingesetzt werden. So haben wir die zurückgelegte 
+Strecke, den Kraftstoffverbrauch im Eco-Modus/Start-Modus, die Batteriespannung und die aktuellen Daten 
+tabellarisch dargestellt, um den Bedarf an einer Backup-Batterie für einen bestimmten LKW vorherzusagen. 
+Dies löste ihr Problem, war kostengünstig, intelligenter und wie versprochen, einfacher und wurde von Tvarit KI 
+aufgewertet. </p>
                         </div>
                     </div>
                 </div>
@@ -1141,11 +1137,11 @@
     }
 
     .row-height-3 {
-        height: 480px;
+        height: 515px;
     }
 
     .row-height-4 {
-        height: 550px;
+        height: 570px;
     }
 
 }
