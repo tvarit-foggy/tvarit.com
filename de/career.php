@@ -20,7 +20,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
-    <title>Career</title>
+    <title>KARRIERE</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -260,19 +260,19 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                            Let's make your
+                        LASS UNS DEINE 
                         </div>
                         <div class="text-big60">
-                            Career
+                        KARRIERE MACHEN
                         </div>
                         <br>
                         <div class="more">
                             <p class="text-p">
-                                A team is the cog which completes the circle of our 3 Ts. We're a diverse set of
-                                individuals associating to design the wheel which will lead the change. We are not an
-                                organization, we are an organism - Alive and kicking, Changing form, Breeding concepts,
-                                Spreading happiness, Setting up special units for special requirements. Partnering with
-                                those who wish to do things uniquely.
+                            Ein Team ist das Zahnrad, das den Kreis unserer 3 Ts schließt. Wir sind eine Vielzahl von Personen, die sich 
+zusammenschließen, um das Rad zu entwerfen, das den Wandel vorantreibt. Wir sind keine Organisation, wir 
+sind ein Organismus - lebendig und kraftvoll, formwechselnd, Zuchtkonzepte, Freude verbreiten, spezielle 
+Einheiten für besondere Anforderungen aufbauen. Partnerschaft mit denen, die Dinge auf einzigartige Weise 
+tun wollen.
                             </p>
                         </div>
 
@@ -289,48 +289,49 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="ourBox">
-                        <div class="title">Our Mission</div>
+                        <div class="title">UNSERE MISSION</div>
                         <div class="short-line bg-grey"></div>
 
                         <div class="more">
                             <p class="text-p">
-                                Our Mission is to build scalable and sustainable Automated Predictive Analytics (APA)
-                                solutions which are invisible and assistive, allowing manufacturers to do what they love
-                                - efficient productions. We are rooted to give one simple solution to make any work
-                                easier, smarter and upgraded.
+                            Unsere Mission ist es, skalierbare und nachhaltige APA-Lösungen (Automated Predictive Analytics) zu 
+entwickeln, die unsichtbar und unterstützend sind und es Herstellern ermöglichen, das zu tun, was sie lieben - 
+effiziente Produktionen. Wir sind darauf spezialisiert, eine einfache Lösung zu bieten, die jede Arbeit einfacher, 
+intelligenter und aufrüstbarer macht.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="ourBox rerBg-grd">
-                        <div class="title">Our Culture</div>
+                        <div class="title">UNSERE KULTUR</div>
                         <div class="short-line bg-white"></div>
 
                         <div class="more">
                             <p class="text-p">
-                                How do you change the world? Bring people together. Where is the easiest big place to
-                                bring people together? In the work environment. Therefore we consistently strive to
-                                create the healthiest environment where our team can innovate, learn and grow without
-                                any push and pull. We cater to the needs of our employees with utmost affection as they
-                                belong with us. We care because you do.
+                            Wie verändert man die Welt? Bringen Sie Menschen zusammen. Und wo ist der am einfachsten zu erreichende 
+große Ort, um Menschen zusammenzubringen? In der Arbeitsumgebung. Deshalb sind wir konsequent 
+bestrebt, die gesündeste Umgebung zu schaffen, in der unser Team innovativ, lernfähig und 
+wachstumsorientiert sein kann, ohne dass es sich dabei um einen Push and Pull handelt. Wir gehen mit größter 
+Zuneigung auf die Bedürfnisse unserer Mitarbeiter ein, da sie zu uns gehören. Wir kümmern uns um dich, weil 
+du es tust.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="ourBox">
-                        <div class="title">Our Team</div>
+                        <div class="title">UNSER TEAM</div>
                         <div class="short-line bg-grey"></div>
 
                         <div class="more">
                             <p class="text-p">
-                                Creating something unique to solve someone's problem is a fascinating feeling. Industry
-                                4.0 has always been run by intellectual, enigmatic and dedicated professionals who push
-                                their limits to break through the technical walls. Wearing the armor of skill, these
-                                knights never fail to impress. Machine learning, time series databases, CI/CD tooling,
-                                coding, are a few of their weapons. If the same fire of passion burns inside you, you're
-                                welcome onboard. Remember, we've always been waiting for you.
+                            Etwas Einzigartiges zu schaffen, um das Problem eines Menschen zu lösen, ist ein faszinierendes Gefühl. 
+Industry 4.0 wurde schon immer von intellektuellen, enigmatischen und engagierten Fachleuten geleitet, die 
+ihre Grenzen ausreizen, um die technischen Mauern zu durchbrechen. Diese Ritter tragen die Rüstung der 
+Geschicklichkeit und beeindrucken immer wieder. Maschinelles Lernen, Zeitreihendatenbanken, CI/CD-Tools, 
+Programmierung, sind nur einige ihrer Waffen. Wenn das gleiche Feuer der Leidenschaft in dir brennt, bist du 
+an Bord willkommen. Denke daran, wir haben immer auf dich gewartet.
 
                             </p>
                         </div>
