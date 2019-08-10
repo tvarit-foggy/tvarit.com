@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Contact</title>
+        <title>Kontaktiere Uns</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -352,11 +352,13 @@ $("#btn").live("click",function(){
                 Let's Connect
               </div>
               <div class="text-big60">
-                Contact Us
+              Kontaktiere Uns
               </div>
               <br>
               <p class="text-p">
-                 Let us get connected and get you updated on how can we help you. Please fill the form below. We will contact you within 24 hours.
+              Lassen Sie uns in Kontakt treten und Sie darüber auf dem Laufenden halten, wie wir Ihnen helfen können. 
+Bitte füllen Sie das untenstehende Formular aus. 
+Wir werden Sie innerhalb von 24 Stunden kontaktieren.
               </p>
 
             </div>
@@ -370,7 +372,7 @@ $("#btn").live("click",function(){
         <div class="row justify-content-between formContent">
           <div class="col-md-7 mb-4 order-2 order-md-1">
             <div class="text-contact">
-              Contact Form
+            KONTAKTFORMULAR
             </div>
             <br>
             <div class="white-box-shadow">
@@ -408,7 +410,7 @@ $("#btn").live("click",function(){
           </div>
           <div class="col-md-4 order-1 order-md-2 mb-md-0">
             <div class="text-contact">
-              Contact Info
+            KONTAKTINFO
             </div>
             <br>
             <div class="ctnDetailBox">
