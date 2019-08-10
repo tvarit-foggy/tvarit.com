@@ -17,7 +17,7 @@ gtag('config', 'UA-143837547-1');
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img
 /favicon.png">
-        <title>FUEL EFFICIENCY IN SMART VEHICLES</title>
+        <title>KRAFTSTOFFEFFIZIENZ IN INTELLIGENTEN FAHRZEUGEN</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -244,33 +244,55 @@ gtag('config', 'UA-143837547-1');
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-          FUEL EFFICIENCY IN SMART VEHICLES
+        KRAFTSTOFFEFFIZIENZ IN INTELLIGENTEN FAHRZEUGEN
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-          By 2050, connected autonomous vehicles could decrease fuel consumption by as much as 44% for passenger vehicles and 18% for trucks, according to the latest study mentioned by reputed firms. "The largest influencer in potential fuel reduction ... stems from the vehicle and powertrain resizing," asserts the report, introducing a situation in which people no longer require to buy vehicles customized for every possible use.
+        Bis 2050 könnten vernetzte autonome Fahrzeuge den Kraftstoffverbrauch bei Pkw um bis zu 44% und bei Lkw 
+um bis zu 18% senken, so die neueste Studie von renommierte Unternehmen. 
+"Der größte Einflussfaktor für eine mögliche Kraftstoffeinsparung liegt in der Größenänderung von Fahrzeugen 
+und Antriebssträngen", so der Bericht, der eine Situation einleitet, in der die Menschen nicht mehr für jeden 
+möglichen Einsatzzweck maßgeschneiderte Fahrzeuge kaufen müssen.
 
         </p>
 
 
         <p class="text-p">
-          The problem however also lies in the existential ways of using cars or any other vehicle. People tend to accelerate or decelerate aggressively, producing more substantial energy wastage. Leaving the engine on during long traffic stops and instances of road rage are the loopholes for fuel efficiency. There have been multiple studies that point out that eco-driving practices like real-time traffic sensing, telematics, and behavior mapping can guarantee fuel savings to the tune of 10 to 12%. With the assessment of data on the same user behavior, smart preventive algorithms can be made. This can be a major revolution in increasing fuel efficiency of automobiles.
+        Das Problem liegt aber auch in den existenten Nutzungsweisen von Autos oder anderen Fahrzeugen. Menschen 
+neigen dazu, aggressiv zu beschleunigen oder zu verlangsamen, was zu einem erheblichen Energieverlust führt. 
+Das Anlassen des Motors bei langen Verkehrsunterbrechungen und Straßenrausch sind die Schwachstellen für 
+die Kraftstoffeffizienz. Es gibt mehrere Studien, die darauf hinweisen, dass umweltfreundliche Fahrweisen wie 
+Echtzeit-Verkehrsabtastung, Telematik und Verhaltenskartierung Kraftstoffeinsparungen in Höhe von 10 bis 12% 
+garantieren können. Mit der Auswertung von Daten über das gleiche Nutzerverhalten können intelligente 
+präventive Algorithmen entwickelt werden. Dies kann eine große Revolution bei der Steigerung der 
+Kraftstoffeffizienz von Automobilen sein.
         </p>
 
        <p class="text-p">
-         Traffic jams are also one of the biggest bottlenecks. Connected cars, assisted with algorithms can communicate with each other to keep themselves moving and valuable fuel that is consumed in idle time and revving up the engines can be circumvented. One other nice option is Platooning in which all the cars line up in a formation, subduing aerodynamic drag and consequently, decreasing fuel wastage. Platooning has lessened the aerodynamic drag to the number of 60% which can be a big boom for an economy that relies on non-renewable fossil fuels.
+       Staus sind auch einer der größten Engpässe. Vernetzte Autos, unterstützt von Algorithmen, können miteinander 
+kommunizieren, um sich in Bewegung zu halten, und wertvoller Kraftstoff, der in der Leerlaufphase verbraucht 
+wird und die Motoren auf Touren bringt, kann umgangen werden. Eine weitere sinnvolle Option ist das 
+Platooning, bei dem sich alle Autos in einer Formation aufstellen, den Luftwiderstand dämpfen und somit den 
+Kraftstoffverbrauch reduzieren. Durch das Platooning konnte der Luftwiderstand auf 60% reduziert werden, was 
+ein großer Boom für eine Wirtschaft sein kann, die auf nicht erneuerbare fossile Brennstoffe angewiesen ist.
 
        </p>
 
        <p class="text-p">
-         Predictive maintenance is one more fantastic feature that keeps the vehicle intact and in its best condition to perform efficiently. It saves a necessary amount of fuel.Another major issue that can be addressed is road safety. A study found that vehicle to vehicle communication helps unimpaired drivers avoid 80% of the crashes. 
+       Predictive Maintenance ist ein weiteres fantastisches Merkmal, das das Fahrzeug intakt und in seinem besten 
+Zustand hält, um effizient zu arbeiten. Ein weiteres wichtiges Thema, das angegangen werden kann, ist die 
+Verkehrssicherheit. Eine Studie ergab, dass die Fahrzeug-Fahrzeug-Kommunikation ungestörten Fahrern hilft, 
+80% der Unfälle zu vermeiden.
 
        </p>
 
        <p class="text-p">
-         With the advancement of the Industrial Revolution 4.0 and Artificial Intelligence, saving fuels for a greener footprint and economical driving can soon come to reality. Having done a few projects already in this field, Tvarit AI intends to keep on growing and make industries smarter and more straightforward. 
+       Mit der fortschreitenden Industrial Revolution 4.0 und der Künstlichen Intelligenz können Kraftstoffeinsparungen 
+für einen umweltfreundlicheren Fußabdruck und sparsames Fahren bald Realität werden. Nachdem Tvarit AI 
+bereits einige Projekte in diesem Bereich durchgeführt hat, will es weiter wachsen und die Industrie intelligenter 
+und einfacher machen.
        </p>
 
       </div>
@@ -280,95 +302,17 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ Automotives end --------------------->
 
 
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-    <?php 
-                include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
-    <!------------------------ tvarit end ----------------------->
+     <?php include 'tvarit_the_team.php';?> 
+     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
     <?php 

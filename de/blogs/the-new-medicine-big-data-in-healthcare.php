@@ -16,7 +16,7 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img/favicon.png">
-        <title>The new medicine: Big Data in Healthcare</title>
+        <title>DIE NEUE MEDIZIN: GROßE DATEN IM GESUNDHEITSBEREICH</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -243,52 +243,85 @@
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-         The new medicine: Big Data in Healthcare
+        DIE NEUE MEDIZIN: GROßE DATEN IM GESUNDHEITSBEREICH
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-        Currently, due to an increase in the supply of information accessible to healthcare companies due to incentives from insurers, payors, pharmaceutical companies, and public stakeholders.  Pharmaceutical companies offer their motivator by evaluating drugs’ capacity to enhance patients’ health as a basis for reimbursement. The energies of these healthcare providers have devised a growing need for Big Data.
+        Aufgrund der zunehmenden Verfügbarkeit von Informationen, die den Gesundheitsunternehmen aufgrund von 
+Anreizen von Versicherern, Kostenträgern, Pharmaunternehmen und öffentlichen Interessengruppen zugänglich 
+sind, bieten Pharmaunternehmen ihren Anreiz, indem sie die Fähigkeit von Medikamenten zur Verbesserung der 
+Gesundheit der Patienten als Grundlage für die Erstattung bewerten. Die Energien dieser 
+Gesundheitsdienstleister haben einen wachsenden Bedarf an Big Data entwickelt.
         </p>
 
         <br>
 
-        <h4>Here are a few applications of Big Data that we have seen in healthcare, both for business operations and health management:</h4>
+        <h4>Hier sind einige Anwendungen von Big Data, die wir im Gesundheitswesen beobachtet haben, sowohl für den 
+Geschäftsbetrieb als auch für das Gesundheitsmanagement:</h4>
 
         <br>
 
-        <h5 class="red">A. Prescriptive Analytics</h5>
+        <h5 class="red">A. Verschreibungspflichtige Analytik</h5>
         <p class="text-p">
-          Historical data and references from patients with similar conditions is collected and structured via real-time monitoring, IoT, social media, and medical databases. Machine learning is then pragmatic to this data, forecasting the course of a patient over time. These results help physicians intrude when a patient is expected to bend off the prescribed course, increasing the possibility of a treatment’s accomplishment.
+        Historische Daten und Referenzen von Patienten mit ähnlichen Erkrankungen werden über Echtzeit-Monitoring, 
+IoT, Social Media und medizinische Datenbanken gesammelt und strukturiert. Das maschinelle Lernen ist dann 
+pragmatisch zu diesen Daten und prognostiziert den Verlauf eines Patienten über die Zeit. Diese Ergebnisse 
+helfen Ärzten, einzuschreiten, wenn erwartet wird, dass ein Patient den vorgesehenen Verlauf nicht mehr einhält, 
+was die Möglichkeit der Durchführung einer Behandlung erhöht.
         </p>
         <br>
 
-        <h5 class="red">B. Advancing R & D</h5>
+        <h5 class="red">B. Fortgeschrittene F & E</h5>
         <p class="text-p">
-          The pharmaceutical industry has always been upbeat about predictive analytics. They use predictive analytics to create a data set which tells whether the patients are going to respond affirmative or negative to the treatment. Pharmaceutical companies will be able to gauge how well they’re doing in comparison to other companies, competitively & scientifically. And adding it all up, there is always scope to shine up the R&D. This explains why pharma companies are being high pulsed towards APA.
+        Die Pharmaindustrie ist seit jeher optimistisch, was die Predictive Analytics angeht. Sie verwenden Predictive 
+Analytics, um einen Datensatz zu erstellen, der sagt, ob die Patienten positiv oder negativ auf die Behandlung 
+eingehen werden. Pharmaunternehmen werden in der Lage sein, zu beurteilen, wie gut sie im Vergleich zu 
+anderen Unternehmen abschneiden, wettbewerbsfähig und wissenschaftlich. Zusammenfassend lässt sich 
+sagen, dass es immer Raum gibt, die F&E zu optimieren. Dies erklärt, warum Pharmaunternehmen auf dem Weg 
+zur APA stark gepulst sind.
         </p>
         <br>
 
-        <h5 class="red">C. Health Tracking</h5>
+        <h5 class="red">C. Gesundheits-Tracking</h5>
         <p class="text-p">
-          Apart from the primary wearables that can identify the patient’s sleep, heart rate, exercise, distance walked, etc. there are new medical reforms that can monitor the patient’s blood pressure, pulse Oximeters, glucose monitors, and more. The regular monitoring of the body vitals along with the sensor data compilation will permit healthcare companies to distinguish possible health issue and provide care before the situation goes worse.
+        Abgesehen von den primären Geräten, die den Schlaf, die Herzfrequenz, die Bewegung, die zurückgelegte 
+Entfernung usw. des Patienten identifizieren können, gibt es neue medizinische Innovationen, die den Blutdruck 
+des Patienten, wie z.B Pulsoximeter, Glukosemessgeräte und mehr überwachen können. Die regelmäßige 
+Überwachung der Vitalfunktionen des Körpers zusammen mit der Erfassung der Sensordaten wird es den 
+Gesundheitseinrichtungen ermöglichen, mögliche Gesundheitsprobleme zu erkennen und zu behandeln, bevor 
+sich die Situation verschlimmert.
         </p>
         <br>
 
-        <h5 class="red">D. Reducing Cost & Efficient Operations</h5>
+        <h5 class="red">D. Kostensenkung und effizienter Betrieb</h5>
         <p class="text-p">
-          Big Data is one of the best tools to cut operations cost. Predictive analysis can help the hospitals to predict the admission rates and help with staff allocation to prevent over or under recruitment. A definite amount of healthcare supplies can be bought after a precise analysis of the history of operations. This will reduce the ROI sustained by hospitals and in fact help employ their investment to the extreme. It can save waiting times for patients since the hospital will have adequate staff and beds prepared as per the analysis all the time.
+        Big Data ist eines der besten Werkzeuge, um die Betriebskosten zu senken. Predictive Analytics kann den 
+Krankenhäusern helfen, die Aufnahmezahlen vorherzusagen und bei der Personalzuweisung zu helfen, um Über- 
+oder Unterbesetzungen zu vermeiden. Nach einer genauen Analyse der Betriebsgeschichte kann eine bestimmte 
+Menge an Gesundheitsgütern gekauft werden. Dies wird den ROI der Krankenhäuser verringern und tatsächlich 
+dazu beitragen, ihre Investitionen auf ein Minimum zu reduzieren. Es kann den Patienten Wartezeiten ersparen, 
+da das Krankenhaus immer über ausreichend Personal und Betten verfügt, die gemäß der Analyse vorbereitet 
+sind.
         </p>
         <br>
 
-        <h5 class="red">E. Preventing Human Errors</h5>
+        <h5 class="red">E. Vorbeugung von menschlichen Fehlern</h5>
         <p class="text-p">
-          Numerous times we hear that doctors either prescribed a wrong medicine or a different medication by mistake. Such hazardous errors, in general, can be reduced since Big Data can be leveraged to analyze user data and the prescribed medication. It can be employed to validate the data flag potential out of place prescription to reduce mistakes and save lives. This technology can be really useful for doctors with a high number of patients.
+        Häufig hören wir, dass Ärzte entweder ein falsches oder ein anderes Medikament aus Versehen verschrieben 
+haben. Solche gefährlichen Fehler können im Allgemeinen reduziert werden, da Big Data zur Analyse von 
+Benutzerdaten und den verordneten Medikamenten genutzt werden kann. Es kann verwendet werden, um das 
+Datenmarkierungspotential außerhalb der Verschreibung zu validieren, um Fehler zu reduzieren und Leben zu 
+retten. Diese Technologie kann für Ärzte mit einer hohen Patientenzahl sehr nützlich sein.
         </p>
 
         <p class="text-p">
-          The possibilities to revolutionize Healthcare with the assistance of Big Data are infinite. Not only is it beneficial and crucial for the patients but also advantageous for the hospitals. Hospitals can reduce costs by assessing methods and treatments faster and keeping better track of their inventory. Therefore, it must be apt to say that Healthcare industry is considering Big Data and Analytics to be their new and efficient medicine.
+        Die Möglichkeiten, das Gesundheitswesen mit Hilfe von Big Data zu revolutionieren, sind unbegrenzt. Das ist 
+nicht nur für die Patienten von Vorteil und entscheidend, sondern auch für die Krankenhäuser. Krankenhäuser 
+können ihre Kosten senken, indem sie Methoden und Behandlungen schneller bewerten und ihren Bestand 
+besser verfolgen. Daher ist es durchaus angebracht zu sagen, dass die Gesundheitsbranche Big Data und 
+Analytics als ihre neue und effiziente Medizin betrachtet.
         </p>
        
 
@@ -298,95 +331,16 @@
    
     <!------------------------ Automotives end --------------------->
 
-
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-            <?php 
-                 include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

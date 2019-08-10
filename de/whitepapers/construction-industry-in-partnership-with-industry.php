@@ -17,7 +17,7 @@ gtag('config', 'UA-143837547-1');
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img
 /favicon.png">
-        <title>CONSTRUCTION INDUSTRY IN PARTNERSHIP WITH INDUSTRY 4.0</title>
+        <title>BAUWESEN IN PARTNERSCHAFT MIT DER INDUSTRIE 4.0</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -244,34 +244,56 @@ gtag('config', 'UA-143837547-1');
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-         CONSTRUCTION INDUSTRY IN PARTNERSHIP WITH INDUSTRY 4.0
+        BAUWESEN IN PARTNERSCHAFT MIT DER INDUSTRIE 4,0
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-          With the world trying so hard to walk hand in hand with Artificial Intelligence, it is a harsh realization that engineering and construction are behind the curve in achieving artificial intelligence solutions. The problem does not lie in the unavailability of resources though. Design and BIM data from the planning stages of a project, job site data collected by wearables, accounting and job progress data from the office, project management data from mobile devices and sensors on equipment/materials- are a few excellent sources to collect Big Data. The problem lies in the unavailability of proper means to parse and analyze the data in significant and useful ways.
+        Da die Welt so sehr versucht, Hand in Hand mit der Künstlichen Intelligenz zu gehen, ist es eine harte 
+Erkenntnis, dass Engineering und Bauwesen bei der Realisierung von Lösungen der Künstlichen Intelligenz 
+hinter der Kurve zurückliegen. Das Problem liegt jedoch nicht in der Nichtverfügbarkeit von Ressourcen. Design- 
+und BIM-Daten aus der Planungsphase eines Projekts, Baustellendaten, die von Wearables gesammelt werden, 
+Buchhaltungs- und Auftragsfortschrittsdaten aus dem Büro, Projektmanagementdaten von mobilen Geräten und 
+Sensoren an Geräten/Materialien - sind einige ausgezeichnete Quellen für die Erhebung von Big Data. Das 
+Problem liegt in der fehlenden Verfügbarkeit geeigneter Mittel, um die Daten auf signifikante und nützliche Weise 
+zu analysieren und zu analysieren.
         </p>
 
 
         <p class="text-p">
-          According to analysts, artificial intelligence (AI) in the construction market will register a CAGR of over 28% by 2023 with an approximation to earn around USD 2,011.4 million during the forecast period (2017-2023). The global market is expected to record 35% CAGR owing to the surging interest for safety considerations. 
+        Laut Analysten wird die künstliche Intelligenz im Bauwesen bis 2023 eine CAGR von über 28% 
+verzeichnen, was einem Gewinn von rund 2.011,4 Mio. USD im Prognosezeitraum (2017-2023) entspricht. Es 
+wird erwartet, dass der Weltmarkt aufgrund des steigenden Interesses an Sicherheitsaspekten 35% CAGR 
+erreichen wird.
         </p>
 
         <p class="text-p">
-          The major areas to be worked upon are- safety, value, and productivity. With the collected Big Data, useful insights can be drawn to acknowledge the same. Revamping productivity, search results can be collected quickly and sent to the site supervisor who in other cases requires a good deal of time.
+        Die Hauptbereiche, an denen gearbeitet werden muss, sind Sicherheit, Wert und Produktivität. Mit den 
+gesammelten Big Data, können nützliche Erkenntnisse gewonnen werden, um diese zu erkennen. Die 
+Produktivität wird verbessert, die Suchergebnisse können verbessert werden. schnell abgeholt und an den 
+Bauleiter weitergeleitet werden, der in anderen Fällen viel Zeit benötigt.
         </p>
 
         <p class="text-p">
-           Speaking of safety, operator assistance programs can be built which will use AI algorithms to detect and interpret specific objects using computer vision methods. In case of an anomaly, the operator will be alerted by the system reducing accident risks. Also, to further concrete the safety measures, some repetitive and dangerous labor-intensive tasks can be simplified and performed with AI assistance. 
+        Was die Sicherheit betrifft, so können Programme zur Unterstützung des Bedieners erstellt werden, die mit Hilfe 
+von KI-Algorithmen bestimmte Objekte mit Hilfe von Bildverarbeitungsmethoden erkennen und interpretieren. Im 
+Falle einer Anomalie wird der Bediener durch das System gewarnt, das das Unfallrisiko reduziert. Um die 
+Sicherheitsmaßnahmen weiter zu konkretisieren, können einige repetitive und gefährliche arbeitsintensive 
+Aufgaben vereinfacht und mit Hilfe der KI durchgeführt werden.
         </p>
 
         <p class="text-p">
-         Adding value, AI algorithms can survey a proposed construction site to collect sufficient information to create 3D maps, blueprints, and construction plans on a more precise scale and in a lesser amount of time. The historical data on past projects can be analyzed to provide smart insights. This can help AI systems advise and present a case for how the particular project should proceed in a more systematic, productive and efficient manner.
+        KI-Algorithmen können eine geplante Baustelle vermessen, die ausreichende Informationen sammelt, um 3D-
+Karten, Blaupausen und Baupläne in einem genaueren Maßstab und in kürzerer Zeit zu erstellen. Die Daten aus 
+vergangenen Projekten können analysiert werden, um intelligente Erkenntnisse zu gewinnen. Dies kann dazu 
+beitragen, dass KI-Systeme beraten und einen Fall darstellen, wie das jeweilige Projekt systematischer, 
+produktiver und effizienter ablaufen soll.
         </p>
 
         <p class="text-p">
-          All of this is at the expense of Predictive Analytics by the usage of Big Data. It is highly anticipated that the fourth Industrial Revolution will further concrete the construction industry.
+        All dies geht zu Lasten von Predictive Analytics durch die Verwendung von Big Data. Es ist zu erwarten, dass die 
+vierte industrielle Revolution die Bauindustrie weiter konkretisieren wird.
         </p>
 
       </div>
@@ -281,95 +303,17 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ Automotives end --------------------->
 
 
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-    <?php 
-                include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
-    <!------------------------ tvarit end ----------------------->
+     <?php include 'tvarit_the_team.php';?>
+     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
     <?php 

@@ -330,94 +330,16 @@ gtag('config', 'UA-143837547-1');
     </div>
     <!------------------------ Automotives end --------------------->
 
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-                <?php 
-                include 'change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

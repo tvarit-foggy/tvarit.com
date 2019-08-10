@@ -16,7 +16,7 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img/favicon.png">
-        <title>The Oil & Gas Industry- How Partnering with Industry 4.0 will help?</title>
+        <title>DIE ÖL- UND GASINDUSTRIE - WIE KANN EINE PARTNERSCHAFT MIT DER INDUSTRIE 4.0 HELFEN?</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -243,46 +243,65 @@
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-          The Oil & Gas Industry- How Partnering with Industry 4.0 will help?
+        DIE ÖL- UND GASINDUSTRIE - WIE KANN EINE PARTNERSCHAFT MIT DER INDUSTRIE 4.0 HELFEN?
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-          The price of oil has shown slow growth since its 2014 wreck. Although the adoption of new technologies like directional drilling and hydraulic fracturing has improved yields, the industry remains to explore solutions to boost business, and many see AI as the answer. 
+        Der Ölpreis ist seit seinem Absturz im Jahr 2014 nur langsam gestiegen. Obwohl die Einführung neuer 
+Technologien wie Richtbohrungen und hydraulisches Frakturieren die Erträge verbessert hat, muss die Industrie 
+weiterhin nach Lösungen suchen, um das Geschäft anzukurbeln, und viele sehen KI als Antwort.
         </p>
 
         <br>
 
-        <h5 class="red">1. The Exploration & Production (E&P) sector</h5>
+        <h5 class="red">1. Der Bereich Exploration & Produktion (E&P)</h5>
 
         <p class="text-p">
-         It involves locating and extracting crude oil or natural gas. Most drilling and production wells dwell in isolated areas, and sending workers there raises expenses. The operational costs can be cut by utilizing sensors and the Internet of Things (IoT) powered by AI to manage data collection and system control in real time.
+        Dazu gehört die Suche und Förderung von Erdöl oder Erdgas. Die meisten Bohr- und Produktionsbohrungen 
+befinden sich in abgelegenen Gebieten, und die Entsendung von Arbeitern dorthin verursacht Kosten. Die 
+Betriebskosten können durch den Einsatz von Sensoren und dem von der KI betriebenen Internet of Things (IoT) 
+zur Verwaltung der Datenerfassung und Systemsteuerung in Echtzeit gesenkt werden.
         </p>
          <br>
 
-        <h5 class="red">2. Safety</h5>
+        <h5 class="red">2. Sicherheit</h5>
 
         <p class="text-p">
-         Retrofitting railcars and tracks with smart sensors and thermal detectors can give real-time geolocation data and monitor key safety characteristics to depreciate the risk of derailments. Pipelines with smart sensors can detect leaks quick and observe pressure, temperature, and any irregularities in the pipeline’s infrastructure.
+        Die Nachrüstung von Triebwagen und Gleisen mit intelligenten Sensoren und thermischen Detektoren kann 
+Geolokalisierungsdaten in Echtzeit liefern und wichtige Sicherheitsmerkmale überwachen, um das Risiko von 
+Entgleisungen abzuschätzen. Pipelines mit intelligenten Sensoren können Lecks schnell erkennen und Druck, 
+Temperatur und Unregelmäßigkeiten in der Infrastruktur der Pipeline beobachten.
         </p>
          <br>
 
-        <h5 class="red">3. Environmental concern</h5>
+        <h5 class="red">3. Umweltbewusstsein</h5>
 
         <p class="text-p">
-          It's undeniable that climate change and the potential environmental risks go hand-in-hand with the oil and gas industry. Given the challenges in consolidating current technologies in the energy model, it is crucial that the existing methods and processes of exploration and production should grow to make the industry more productive and to minimize its latent environmental consequences.
+        Es ist unbestreitbar, dass der Klimawandel und die potenziellen Umweltrisiken mit der Öl- und Gasindustrie 
+einhergehen. Angesichts der Herausforderungen bei der Zusammenführung der derzeitigen Technologien im 
+Energiemodell ist es von entscheidender Bedeutung, dass die bestehenden Methoden und Prozesse der 
+Exploration und Produktion wachsen, um die Industrie produktiver zu machen und ihre latenten Umweltfolgen zu 
+minimieren.
         </p>
          <br>
 
-        <h5 class="red">4. The downstream sector</h5>
+        <h5 class="red">4. Der Downstream-Sektor</h5>
 
         <p class="text-p">
-          It includes oil refineries, petrochemical plants, petroleum product distributors, and natural gas distribution companies. This sector generates many products including gasoline, diesel, jet fuel, lubricants, plastics, fertilizers, natural gas, and propane. Downstream refiners must streamline their refinery and petroleum delivery operations to stimulate revenue growth. AI can build several technologies which can improve modeling speed and project financials through scenario analysis, dropping operating costs.
+        Dazu gehören Ölraffinerien, petrochemische Anlagen, Mineralölprodukthändler und 
+Erdgasvertriebsunternehmen. In diesem Sektor werden viele Produkte hergestellt, darunter Benzin, Diesel, 
+Flugkraftstoff, Schmierstoffe, Kunststoffe, Düngemittel, Erdgas und Propan. Nachgeschaltete Raffinerien müssen 
+ihre Raffinerie- und Ölliefergeschäfte rationalisieren, um das Umsatzwachstum zu stimulieren. Die KI kann 
+mehrere Technologien entwickeln, die die Modellierungsgeschwindigkeit und die Projektfinanzen durch 
+Szenarioanalysen verbessern und die Betriebskosten senken können.
         </p>
 
         <p class="text-p">
-         With the coming together of the Oil & Gas Industry and Industry 4.0, significant reforms and enhancements can be anticipated. Tvarit AI, Researchers, and Businessmen along with the government are eagerly looking forward to the same. 
+        Mit dem Zusammenschluss der Öl- und Gasindustrie und der Industrie 4.0 sind bedeutende Reformen und 
+Verbesserungen zu erwarten. Tvarit , Forscher und Geschäftsleute sowie die Regierung sind begeistert und 
+freuen sich auf diese Entwicklung.
         </p>
        
 
@@ -292,95 +311,16 @@
    
     <!------------------------ Automotives end --------------------->
 
-
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-              <?php 
-                 include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

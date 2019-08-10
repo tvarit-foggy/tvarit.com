@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img/favicon.png">
-        <title>Optimizing your Inventory like a pro- Here’s how AI does it</title>
+        <title>OPTIMIEREN SIE IHR INVENTAR WIE EIN PRO- HIER IST, WIE KI ES MACHT.</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -243,153 +243,108 @@ gtag('config', 'UA-143837547-1');
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-         Optimizing your Inventory like a pro- Here’s how AI does it
+        OPTIMIEREN SIE IHR INVENTAR WIE EIN PRO- HIER IST, WIE KI ES MACHT.
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-         Before we jump to any conclusion, it's mandatory to know what Inventory Optimization is?<br>
-         Inventory optimization is the operation of lessening inventory malformation, a difficulty that arises from out-of-stock and overstock inventory situations. Excellent inventory management branches out of a single dispute: storing just enough stock in the warehouse such that the business keeps running but not excess stock to deplete its restrained cash reserves.
+        Bevor wir zu einer Schlussfolgerung kommen, ist es zwingend erforderlich zu wissen, was Bestandsoptimierung ist?<br>
+        Die Bestandsoptimierung ist der Vorgang der Verringerung von Fehlbildungen im Lagerbestand, eine 
+Schwierigkeit, die sich aus Situationen ergibt, in denen der Lagerbestand nicht mehr vorrätig ist oder zu hoch ist. 
+Hervorragendes Bestandsmanagement verzweigt sich aus einem einzigen Konflikt: gerade so viel Lagerbestand 
+zu lagern, dass das Unternehmen weiterläuft, aber nicht zu viel Lagerbestand hat, um seine zurückhaltenden 
+Barreserven zu erschöpfen.
         </p>
 
         <br>
 
-        <h5 class="red">And why does it bother us?</h5>
+        <h5 class="red">Und warum beschäftigt es uns?</h5>
 
         <p class="text-p">
-         Passed are the days of manually checking inventory. Artificial Intelligence helps companies leverage this task and invest their human resource in other productive businesses. For example- a facility manager can keep track of a product in real-time without even putting efforts manually. AI is now extensively used as a duplicate for the refrigerator and individual shelf level. This gives a chance for companies to keep track of total purchase orders and also to guarantee that inventory is in the optimization stage. When there is an inventory drop, AI will send out a repurchase order without any manual interference. This enhances functioning efficiency.
+        Die Tage der manuellen Bestandskontrolle sind vergangen. Künstliche Intelligenz hilft Unternehmen, diese 
+Aufgabe zu nutzen und ihre Personalressourcen in andere produktive Unternehmen zu investieren. Zum Beispiel 
+kann ein Facility Manager ein Produkt in Echtzeit verfolgen, ohne auch nur einen manuellen Aufwand zu 
+betreiben. Die KI wird heute weitgehend als Duplikat für den Kühlschrank und die einzelne Regalebene 
+verwendet. Dies gibt Unternehmen die Möglichkeit, den Überblick über die Gesamtzahl der Bestellungen zu 
+behalten und gleichzeitig zu gewährleisten, dass sich der Bestand in der Optimierungsphase befindet. Wenn es 
+zu einem Bestandsabfall kommt, sendet die KI einen Rückkaufauftrag ohne manuelle Eingriffe aus. Dies erhöht 
+die Funktionstüchtigkeit.
         </p>
 
         <p class="text-p">
-         Smart Managers always tend to avoid hurdles like excess inventory costs because it is highly unproductive and seldom results in poor returns. Their liquidation strategies typically attempt to liquidate stock for max return or at minimal expense.
+        Smart Managers sind immer bestrebt, Hürden wie Überlagerungskosten zu vermeiden, da sie sehr unproduktiv 
+sind und selten zu schlechten Renditen führen. Ihre Liquidationsstrategien versuchen in der Regel, Bestände mit 
+maximaler Rendite oder mit minimalem Aufwand zu liquidieren.
         </p>
         <br>
 
-        <h5 class="red">How can it surge your profit margins?</h5>
+        <h5 class="red">Wie kann es Ihre Gewinnmargen steigern?</h5>
 
         <p class="text-p">
-        Brands which can evade the dependency of third-party discount retailers/e-tailers will experience an accession in brand value and profit margins both online and offline.In the race of optimizing Inventory costs, brands which keep discount in-house through a factory outlet owned-asset structure are leading with a huge margin. 
+        Marken, die sich der Abhängigkeit von Drittanbietern entziehen können, werden einen Anstieg des Markenwerts 
+und der Gewinnmargen sowohl online als auch offline erleben: Im Wettlauf um die Optimierung der 
+Lagerhaltungskosten führen Marken, die den Rabatt über eine Factory-Outlet-eigene Asset-Struktur im eigenen 
+Haus halten, mit großer Marge. 
 
         </p>
         
         <p class="text-p">
-          Consider the case of Amazon- Amazon has intertwined Artificial Intelligence very profoundly in their supply chains. In almost every phase of their operations, AI technologies like time series prediction and reinforcement learning systems are being used. User demand, supplier backorders, warehouse optimization, stock levels are all being controlled by either machine learning or more complex artificial intelligence systems. 
+        Betrachten wir den Fall von Amazon - Amazon hat die Künstliche Intelligenz in ihren Lieferketten sehr tief 
+verwoben. In fast jeder Phase ihres Betriebs werden KI-Technologien wie Zeitreihenvorhersage und 
+Verstärkungslehrsysteme eingesetzt. Benutzernachfrage, Lieferantenrückstände, Lageroptimierung, 
+Lagerbestände werden alle entweder durch maschinelles Lernen oder komplexere Systeme der künstlichen 
+Intelligenz gesteuert. 
         </p>
         <br>
 
-        <h5 class="red">The game of demands</h5>
+        <h5 class="red">Das Spiel der Forderungen</h5>
 
         <p class="text-p">
-          The greatest relief that has come with the deployment of AI is Accurate Demand Forecast. The basic framework revolves around the structuring of a time series prediction model to calculate what demand will be like for the following days across all items in your inventory. The perks of having such a model include the facility to incorporate external data sources into the system to measure if they have a positive impact on demand. 
+        Die größte Erleichterung, die mit dem Einsatz von KI verbunden ist, ist die genaue Nachfrageprognose. Das 
+Grundgerüst dreht sich um die Strukturierung eines Zeitreihenvorhersagemodells, um zu berechnen, wie die 
+Nachfrage für die folgenden Tage über alle Artikel in Ihrem Bestand hinweg aussehen wird. Zu den Vorteilen 
+eines solchen Modells gehört die Möglichkeit, externe Datenquellen in das System zu integrieren, um zu messen, 
+ob sie sich positiv auf die Nachfrage auswirken.
         </p>
 
         <p class="text-p">
-         One of the tricky aspects in inventory optimization is the variable nature of inventory items. Each item is different and needs to be managed differently. Some elements may be highly predictable and regular in their movement, whereas some items are maybe highly unpredictable and irregular but equally indispensable to keep in stock. Undertaking significance testing former to creating any artificial intelligence implementations enables you to learn what external data is essential and filter the list of items to be predicted.
+        Einer der kniffligen Aspekte bei der Bestandsoptimierung ist die variable Natur der Lagerpositionen. Jedes 
+Element ist anders und muss unterschiedlich verwaltet werden. Einige Elemente können sehr vorhersehbar und 
+regelmäßig in ihrer Bewegung sein, während andere Elemente vielleicht sehr unvorhersehbar und unregelmäßig 
+sind, aber ebenso unerlässlich, um sie auf Lager zu halten. Die Durchführung von Signifikanztests zur Erstellung 
+von Implementierungen künstlicher Intelligenz ermöglicht es Ihnen, zu erfahren, welche externen Daten 
+wesentlich sind, und die Liste der vorherzusagenden Elemente zu filtern.
         </p>
         <br>
 
-        <h5 class="red">Reinforcement Learning- the next step</h5>
+        <h5 class="red">Verstärkung lernen - der nächste Schritt</h5>
 
-        <p class="text-p">However, further Advanced Artificial Intelligence can also be deployed to optimize the inventory operations and cost. According to study, a company used Reinforcement Learning which cut their 32% operation cost. Reinforcement Learning is a domain in artificial intelligence where the models don’t merely make predictions or classifications but act on these predictions. It is a more advanced artificial intelligence strategy that comprises a model taking a fast charge of the inventory operations, with human checks and insights.</p>
+        <p class="text-p">Es können aber auch weitere fortschrittliche künstliche Intelligenz eingesetzt werden, um den Lagerbetrieb und 
+die Kosten zu optimieren. Laut Studie hat ein Unternehmen Reinforcement Learning eingesetzt, um seine 
+Betriebskosten um 32% zu senken. Reinforcement Learning ist eine Domäne der künstlichen Intelligenz, in der 
+die Modelle nicht nur Vorhersagen oder Klassifizierungen vornehmen, sondern auf diese Vorhersagen reagieren. 
+Es handelt sich um eine fortschrittlichere Strategie der künstlichen Intelligenz, die ein Modell umfasst, das eine 
+schnelle Übernahme der Inventurvorgänge mit menschlichen Kontrollen und Erkenntnissen ermöglicht.</p>
 
-        <p class="text-p">On a concluding note, it’s undebatable that Artificial Intelligence along with Predictive Analytics holds power to transform and ameliorate the future. Therefore, the smart managers are already on the roll to infuse this technology and soar their businesses to grand heights.</p>
+        <p class="text-p">Abschließend sei gesagt, dass es unbestreitbar ist, dass die Künstliche Intelligenz zusammen mit der Predictive 
+Analytics die Macht hat, die Zukunft zu verändern und zu verbessern. Daher sind die klugen Manager bereits auf 
+dem Vormarsch, um diese Technologie zu nutzen und ihr Unternehmen auf große Höhe zu bringen.</p>
 
       </div>
-    </div>
-
-   
+    </div>   
     <!------------------------ Automotives end --------------------->
 
-
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-               <?php 
-                 include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

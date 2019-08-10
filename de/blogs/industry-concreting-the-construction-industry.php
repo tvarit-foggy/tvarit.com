@@ -16,7 +16,7 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img/favicon.png">
-        <title>INDUSTRY 4.0 CONCRETING THE CONSTRUCTION INDUSTRY</title>
+        <title>INDUSTRIE 4.0 BETONIERUNG DER BAUINDUSTRIE</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -243,43 +243,61 @@
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-         INDUSTRY 4.0 CONCRETING THE CONSTRUCTION INDUSTRY
+        INDUSTRIE 4.0 BETONIERUNG DER BAUINDUSTRIE
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-         With the allurement of predictive analytics and the emergence of IoT and AI in the fourth Industrial Revolution, the construction industry has taken great benefits from it.
+        Mit der Attraktivität der Predictive Analytics und dem Aufkommen von IoT und KI in der vierten industriellen 
+Revolution hat die Bauindustrie großen Nutzen daraus gezogen.
         </p>
 
         <br>
 
-        <h5 class="mb-3">The construction industry suffers from the following common challenges:</h5>
+        <h5 class="mb-3">Die Bauwirtschaft leidet unter den folgenden gemeinsamen Herausforderungen:</h5>
         <ul class="ul-list-bullet">
-          <li>Repetitive reporting</li>
-          <li>Multiple data systems</li>
-          <li>Unprioritized and unorganized data</li>
-          <li>Largely paper-based reporting</li>
-          <li>Lack of system connectivity</li>
+          <li>Wiederholte Meldungen</li>
+          <li>Mehrere Datensysteme</li>
+          <li>Nicht priorisierte und unorganisierte Daten</li>
+          <li>Vorwiegend papierbasiertes Berichterstellung</li>
+          <li>Fehlende Systemkonnektivität</li>
         </ul>
 
         <br>
 
         <p class="text-p">
-         All of which makes it difficult for construction owners to find deep insights across their portfolio, reducing on-time, and on-budget performance. However, artificial intelligence can keep engineers up-to-date on the soundest approaches to employ for projects, all credits to the power-packed big data. For instance, if engineers were working on a proposed new bridge, AI systems would be capable of advising and proffering a case for how the bridge should be constructed.
+        All dies erschwert es den Bauherren, tiefe Einblicke in ihr Portfolio zu gewinnen, was die Termintreue und das 
+Budget reduziert. Künstliche Intelligenz kann die Ingenieure jedoch über die fundiertesten Ansätze, die sie für 
+Projekte einsetzen können, auf dem Laufenden halten, was alles auf die kraftvollen, großen Daten 
+zurückzuführen ist. Wenn beispielsweise Ingenieure an einer vorgeschlagenen neuen Brücke arbeiten würden, 
+wären KI-Systeme in der Lage, einen Fall zu beraten und zu liefern, wie die Brücke gebaut werden soll.
         </p>
         <br>
 
-        <h5 class="mb-3">Advanced Predictive Analytics, IIoT, and Industry 4.0 are all the big names helping this industry strengthen in the following ways-</h5>
+        <h5 class="mb-3">Advanced Predictive Analytics, IIoT und Industry 4.0 sind allesamt große Namen, die dieser Branche helfen, sich 
+auf folgende Weise zu stärken.</h5>
 
        <ul class="ul-list-bullet black-bullet" >
-         <li>The data collected is vast, inconsistent and unstructured which can be filtered and aggregated directly from the AI tools. Paper-based reports can be collected, read, and analyzed, and the information can then be input into the database. Hard data and numbers can be assigned to useful and concise visuals, pushing efficiency, insight, and effectiveness. This way,  even transparency can be enhanced for project owners, producing reliable and insightful metrics to analyze their full portfolio of projects creating powerful managers.</li>
+         <li>Die gesammelten Daten sind umfangreich, inkonsistent und unstrukturiert, die direkt aus den KI-Tools heraus 
+gefiltert und aggregiert werden können. Papierbasierte Berichte können gesammelt, gelesen und analysiert 
+werden, und die Informationen können dann in die Datenbank eingegeben werden. Harte Daten und Zahlen 
+können nützlichen und prägnanten Visualisierungen zugeordnet werden, um die Effizienz, Einsicht und 
+Effektivität zu steigern. Auf diese Weise kann sogar die Transparenz für die Projektverantwortlichen verbessert 
+werden, indem zuverlässige und aussagekräftige Kennzahlen erstellt werden, um ihr gesamtes Portfolio an 
+Projekten zu analysieren und so die Leistungsfähigkeit der Manager zu erhöhen.</li>
 
-         <li>The construction analytics solutions analyze real-time data against performance thresholds–assessing trends over time and transforming information into insight, enhancing decision-making and improving overall project delivery.</li>
+         <li>Die Lösungen für die Bauanalytik analysieren Echtzeitdaten anhand von Leistungsschwellen - sie bewerten 
+Trends im Zeitablauf und wandeln Informationen in Erkenntnisse um, verbessern die Entscheidungsfindung und 
+verbessern die Gesamtprojektabwicklung.</li>
 
-         <li>Systems can be configured to give alerts and notifications on specific keywords. If a supervisor says “delay” or “safety” this can trigger an alarm to inform the project manager or safety manager of any possible concerns. These alerts help important project stakeholders stay acquainted in real-time even if they are not physically present on the field.<br>
+         <li>Systeme können so konfiguriert werden, dass sie Warnmeldungen und Benachrichtigungen zu bestimmten 
+Keywords ausgeben. Wenn ein Vorgesetzter "Verzögerung" oder "Sicherheit" sagt, kann dies einen Alarm 
+auslösen, um den Projektleiter oder Sicherheitsbeauftragten über mögliche Bedenken zu informieren. Diese 
+Warnmeldungen helfen wichtigen Projektbeteiligten, in Echtzeit informiert zu bleiben, auch wenn sie nicht 
+physisch vor Ort sind.<br>
           <br>
-          It is explicit that the advances made by big data have catalyzed innovation in construction. Tvarit AI strives to be a part of it and looks forward to making more technological developments.
+          Es ist klar, dass die Fortschritte der großen Datenmengen Innovationen im Baugewerbe ausgelöst haben. Tvarit ist bestrebt, ein Teil davon zu sein und freut sich auf weitere technologische Entwicklungen.
 
          </li>
 
@@ -288,99 +306,18 @@
 
       </div>
     </div>
-
-   
     <!------------------------ Automotives end --------------------->
 
-
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-            <?php 
-                 include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
