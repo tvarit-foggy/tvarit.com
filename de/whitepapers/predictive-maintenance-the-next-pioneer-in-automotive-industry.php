@@ -17,7 +17,7 @@ gtag('config', 'UA-143837547-1');
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img
 /favicon.png">
-        <title>PREDICTIVE MAINTENANCE- THE NEXT PIONEER IN AUTOMOTIVE INDUSTRY</title>
+        <title>PREDICTIVE MAINTENANCE - DER NÄCHSTE PIONIER IN DER AUTOMOBILINDUSTRIE</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -244,43 +244,71 @@ gtag('config', 'UA-143837547-1');
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-         PREDICTIVE MAINTENANCE- THE NEXT PIONEER IN AUTOMOTIVE INDUSTRY
+        PREDICTIVE MAINTENANCE - DER NÄCHSTE PIONIER IN DER AUTOMOBILINDUSTRIE
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-         As attention seeking as it sounds, each connected vehicle is liable to generate more than 25 gigabytes per hour as numerous cloud-based services come online. Why? Honestly because these fancy connected cars frequently stream data into the cloud from infotainment systems, telematics systems, smart IoT sensors, and all other smart services making them such a big powerhouse of user data. The key to managing this deluge of data lies in vehicle data analytics — and predictive analytics, in particular. 
+        So auffällig es klingen mag, jedes vernetzte Fahrzeug kann mehr als 25 Gigabyte pro Stunde erzeugen, da 
+zahlreiche Cloud-basierte Dienste online gehen. Warum? Ehrlich gesagt, weil diese ausgefallenen vernetzten 
+Autos häufig Daten von Infotainmentsystemen, Telematiksystemen, intelligenten IoT-Sensoren und allen anderen 
+intelligenten Diensten in die Cloud streamen, was sie zu einem so großen Kraftpaket für Benutzerdaten macht. 
+Der Schlüssel zum Management dieser Datenflut liegt in der Fahrzeugdatenanalyse - und insbesondere in der 
+prädiktiven Analytik.
         </p>
 
 
         <p class="text-p">
-         Predictive maintenance intends to distinguish vehicle maintenance issues before they happen. Predictive data analytics can forge significant relationships that would be tough for a human to notice using and connecting data from warranty repairs with current vehicle sensor data. It's obviously an intelligent and faster way to do things.
+        Die Predictive Maintenance zielt darauf ab, Probleme bei der Fahrzeugwartung zu identifizieren, bevor sie 
+auftreten. Prädiktive Datenanalyse kann signifikante Verknüpfungen herstellen, die für einen Menschen schwer 
+zu erkennen sind, wenn er Daten aus der Gewährleistungsreparatur verwendet und mit aktuellen 
+Fahrzeugsensordaten verknüpft. Es ist offensichtlich ein intelligenter und schnellerer Weg, um die Dinge zu 
+erledigen.
         </p>
 
 
        <p class="text-p">
-        Below is the market size of predictive maintenance globally, in all industries. It is noticeable that automotive holds a big share in it
+       Nachfolgend finden Sie die Marktgröße der vorausschauenden Instandhaltung weltweit und in allen Branchen. 
+Auffallend ist, dass die Automobilindustrie einen großen Anteil daran hat.
        </p>
 
         <img src="../img/wp-5-img.png" class="img-fluid">
 
        <p class="text-p">
-        Oil, spark plug, fuel filter, and coolant fluid changes are the major concerns in vehicle maintenance. All are essential to keep an engine working. Auto technicians state that around 2 million engines are repaired, restored or substituted each year.Taking the preventive maintenance steps will help ensure the reliability and security of your car, and they'll also aid increase gas mileage.
+       Öl, Zündkerze, Kraftstofffilter und Kühlmittelwechsel sind die Hauptanliegen bei der Fahrzeugwartung. Alle sind 
+unerlässlich, um einen Motor am Laufen zu halten. Laut Autotechnikern werden jedes Jahr rund 2 Millionen 
+Motoren repariert, restauriert oder ausgetauscht.Die Durchführung der vorbeugenden Wartungsmaßnahmen trägt 
+dazu bei, die Zuverlässigkeit und Sicherheit Ihres Fahrzeugs zu gewährleisten, und sie tragen auch dazu bei, die 
+Kilometerleistung zu erhöhen.
        </p>
 
        <p class="text-p">
-        Coming to the heavy statistics, an average car is designed and built to run for approximately 100,000 miles, over an average of 16 years and serve four to five different owners. It also claims that regular service and maintenance can extend the life of a vehicle by 50%.To further revamp the statistics, with the continued alliance of technology, gauges and valves will be substituted with a digital interface that supports for over-the-air updates, indicating owners don’t have to leave their driveways for routine car maintenance. This is other terms will introduce remote servicing.
+       In Bezug auf die Statistiken, ein durchschnittliches Auto ist so entworfen und gebaut, dass es für ca. 100.000 
+Meilen, über einen Durchschnitt von 16 Jahren und vier bis fünf verschiedene Besitzer betrieben zu werden. 
+Darüber hinaus wird behauptet, dass regelmäßige Wartung und Instandhaltung die Lebensdauer eines 
+Fahrzeugs um 50% verlängern kann. Um die Statistiken weiter zu modernisieren, werden im Rahmen der 
+fortgesetzten Allianz von Technologie, Messgeräten und Ventilen durch eine digitale Schnittstelle ersetzt, die 
+Over-the-Air-Updates unterstützt, was darauf hindeutet, dass die Besitzer ihre Fahrwege nicht für die 
+routinemäßige Wartung ihrer Autos verlassen müssen. Dies ist eine andere Bedingung, um die Fernwartung 
+einzuführen.
 
        </p>
 
        <p class="text-p">
-         With a wide range of application, predictive aptitude isn’t just restricted to cars and personal vehicles. The trucking industry is already contemplating a related drive powered by sensor technologies and IoT that permits companies to watch data to warrant truck safety, fuel optimization and even monitoring of cargo.
+       Mit einem breiten Anwendungsspektrum ist die prädiktive Eignung nicht nur auf Autos und Personenkraftwagen 
+beschränkt. Die Trucking-Branche denkt bereits über einen entsprechenden Antrieb nach, der auf 
+Sensortechnologien und IoT basiert und es Unternehmen ermöglicht, Daten zu überwachen, um die Sicherheit 
+des Trucks, die Kraftstoffoptimierung und sogar die Überwachung der Ladung zu gewährleisten.
 
        </p>
 
        <p class="text-p">
-         Why should you be interested in? Well, because eight out of ten automotive companies are currently working on predictive maintenance projects to improve the cost-performance ratio of products, equipment, and systems. Predictive analytics use in the automotive industry is forecasted to be a profitable market. Therefore, to keep up the edge, its crucial to partner up with Advanced Predictive Analytics and gear up the auto game.
+       Warum sollten Sie sich dafür interessieren? Nun, denn acht von zehn Automobilunternehmen arbeiten derzeit an 
+Projekten zur vorausschauenden Instandhaltung, um das Preis-Leistungs-Verhältnis von Produkten, Anlagen und 
+Systemen zu verbessern. Der Einsatz von Predictive Analytics in der Automobilindustrie wird als profitabler Markt 
+prognostiziert. Um den Vorsprung aufrechtzuerhalten, ist es daher entscheidend, mit Advanced Predictive 
+Analytics zusammenzuarbeiten und das Auto Game zu trainieren.
        </p>
 
       </div>
@@ -290,94 +318,16 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ Automotives end --------------------->
 
 
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-              <?php 
-                include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>   
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

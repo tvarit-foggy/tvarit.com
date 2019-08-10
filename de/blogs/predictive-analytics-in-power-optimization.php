@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img/favicon.png">
-        <title>PREDICTIVE ANALYTICS IN POWER OPTIMIZATION</title>
+        <title>PREDICTIVE ANALYTICS BEI DER LEISTUNGSOPTIMIERUNG</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -243,137 +243,85 @@ gtag('config', 'UA-143837547-1');
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-         PREDICTIVE ANALYTICS IN POWER OPTIMIZATION
+        PREDICTIVE ANALYTICS BEI DER LEISTUNGSOPTIMIERUNG
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-         The striking fact about the decades ahead is that we are beginning a perpetual global energy crisis and it will transform everything about how we live. Therefore, it’s quintessential that we optimize our power production and distribution to minimize losses and use our energy resources judiciously. 
+        Das Auffällige an den kommenden Jahrzehnten ist, dass wir eine ewige globale Energiekrise beginnen und sie 
+alles darüber verändern wird, wie wir leben. Deshalb ist es von zentraler Bedeutung, dass wir unsere 
+Stromerzeugung und -verteilung optimieren, um Verluste zu minimieren und unsere Energieressourcen sinnvoll 
+zu nutzen.
         </p>
 
         <br>
 
-        <h4>Here is how Industry 4.0 has come to the rescue</h4>
+        <h4>So ist Industry 4.0 zur Rettung gekommen</h4>
 
         <br>
 
-        <h5 class="red">1. Optimizing Power Consumption</h5>
+        <h5 class="red">1. Optimierung des Stromverbrauchs</h5>
         <p class="text-p">
-         One of the most primary challenges faced by the energy sector is the looming exhaustion of resources used for power generation, namely the non-renewable fossil fuels. The alternative sources - nuclear energy, wind, solar energy, etc.  are still either costly or dangerous. Therefore, its high time to shift the focus on efficient energy management by power producers, distributors, and consumers. On this road, smart grids are being installed to improve performance and maintenance. The smart grid is fundamentally an automated system that connects all entities in the power sector, enabling them to associate with each other in real-time. These smart grids study the historical data to analyze and identify fuel consumption patterns to detect any irregularity in the system. Also, these grids can recognize the circumstances under which the breakdown happens. During maintenance, staging equipment can be utilized to depreciate, or even diminish, downtime. Real-time waveform monitoring and additional predictive analytics methods can be used to create timely insights on equipment performance and help dodge downtime occurring due to overloading, voltage fluctuations, and damages to ancillary equipment. These measures ensure that power usage is efficient and not disturbed by any equipment inefficiency.
+        Eine der größten Herausforderungen für den Energiesektor ist die sich abzeichnende Erschöpfung der zur 
+Stromerzeugung eingesetzten Ressourcen, nämlich der nicht erneuerbaren fossilen Brennstoffe. Die alternativen 
+Quellen - Kernenergie, Wind, Solarenergie usw. - sind immer noch kostspielig oder gefährlich. Daher ist es 
+höchste Zeit, den Fokus auf ein effizientes Energiemanagement von Stromerzeugern, -verteilern und -
+verbrauchern zu verlagern. Auf dieser Straße werden Smart Grids installiert, um Leistung und Wartung zu 
+verbessern. Das Smart Grid ist im Grunde genommen ein automatisiertes System, das alle Einheiten des 
+Energiesektors verbindet und es ihnen ermöglicht, in Echtzeit miteinander zu kommunizieren. Diese Smart Grids 
+untersuchen die historischen Daten, um Kraftstoffverbrauchsmuster zu analysieren und zu identifizieren, um 
+Unregelmäßigkeiten im System zu erkennen. Außerdem können diese Netze die Umstände erkennen, unter 
+denen der Ausfall stattfindet. Während der Wartung können Staging-Equipment eingesetzt werden, um 
+Ausfallzeiten abzuschreiben oder sogar zu reduzieren. Echtzeit-Wellenformüberwachung und zusätzliche 
+prädiktive Analysemethoden können verwendet werden, um zeitnahe Einblicke in die Geräteleistung zu erhalten 
+und Ausfallzeiten aufgrund von Überlastung, Spannungsschwankungen und Schäden an Zusatzgeräten zu 
+vermeiden. Diese Maßnahmen stellen sicher, dass der Stromverbrauch effizient ist und nicht durch ineffiziente 
+Geräte gestört wird.
         </p>
         <br>
 
-        <h5 class="red">2. Patching the loopholes in Transmission & Distribution</h5>
+        <h5 class="red">2. Ausbessern der Schlupflöcher in der Übertragung und Verteilung</h5>
         <p class="text-p">
-         Even in 2020, many countries like India, face huge T&D losses. According to a study, India still faces 20% T&D losses, albeit the fact that it faces a worrisome power deficit. However, with accelerated technological advances and the rise of IoT, it is becoming easier to track and monitor disruptions in supply. With the deployment of Predictive Analytics, data from equipment such as sensors, smart meters, and other communications devices can be studied to generate actionable insights for T&D companies. This method is called "asset analytics."  It assists T&D companies in enhancing productivity based on measures such as asset health, criticality, and maintenance schedule.
+        Auch im Jahr 2020 erleiden viele Länder wie Indien enorme Verluste im Bereich Forschung und Entwicklung. 
+Laut einer Studie hat Indien immer noch 20% T&D-Verluste zu verzeichnen, allerdings mit einem 
+besorgniserregenden Energiedefizit. Mit dem beschleunigten technologischen Fortschritt und dem Anstieg des 
+IoT wird es jedoch immer einfacher, Versorgungsstörungen zu verfolgen und zu überwachen. Mit dem Einsatz 
+von Predictive Analytics können Daten von Geräten wie Sensoren, intelligenten Zählern und anderen 
+Kommunikationsgeräten untersucht werden, um umsetzbare Erkenntnisse für T&D-Unternehmen zu gewinnen. 
+Diese Methode wird als "Asset Analytics" bezeichnet. Es unterstützt T&D-Unternehmen bei der Steigerung der 
+Produktivität auf der Grundlage von Maßnahmen wie Anlagenzustand, Kritikalität und Wartungsplan.
         </p>
         <br>
 
-        <h5 class="red">3. Giving the consumers their consumption insights</h5>
+        <h5 class="red">3. Den Verbrauchern ihre Konsumeinblicke geben</h5>
         <p class="text-p">
-        The Big Data generated by meters, costs, business policies, production figures, asset operations when assessed will prove to be a sustainable solution to handle the energy requirement for the future. With the availability of reliable data and actionable insights, consumers or the ordinary people can be persuaded of the urgent necessity to replace or repair energy-inefficient devices by presenting the details on long-term cost indications using predictive analytics. This will be a significant step to raise public awareness as well as minimize power requirements.
+        Die Big Data, die durch Zähler, Kosten, Geschäftspolitik, Produktionszahlen und Anlagenbetrieb erzeugt werden, 
+werden sich als nachhaltige Lösung für den Energiebedarf der Zukunft erweisen. Mit der Verfügbarkeit 
+zuverlässiger Daten und umsetzungsfähiger Erkenntnisse können Verbraucher oder die Durchschnittsbürger von 
+der dringenden Notwendigkeit überzeugt werden, energieineffiziente Geräte zu ersetzen oder zu reparieren, 
+indem sie die Details zu langfristigen Kostenindikatoren mittels prädiktiver Analytik darstellen. Dies wird ein 
+wichtiger Schritt sein, um das öffentliche Bewusstsein zu schärfen und den Stromverbrauch zu minimieren.
         </p>
         
         <p class="text-p">
-          With both the industries working together, there is hope for improvement and solution to the energy crisis.
+        Durch die Zusammenarbeit beider Branchen besteht Hoffnung auf Verbesserung und Lösung der Energiekrise.
         </p>
 
       </div>
     </div>
-
-   
     <!------------------------ Automotives end --------------------->
 
-
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-    <?php 
-                 include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

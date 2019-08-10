@@ -250,48 +250,86 @@ gtag('config', 'UA-143837547-1');
         <br>
 
         <p class="text-medium fw-700">
-          Artificial intelligence holds the baton of driving an agricultural revolution at a time when the world must produce more food using fewer resources. Speaking from the statistics, agriculture employs 20% of the world’s population with a $3 trillion valuation. However, with the population increasing so rapidly, a 600% crop yield rise has been registered in the past 100 years. With land being a constant value and climate changing unfavorably it is going to get worse. The population is predicted to surge by 2 billion by 2050 with only an additional 4% of agricultural land. To sustain our food security along with environmental safety, it will be unavoidable to increase crop productivity further, decrease the use of water, fertilizer, and pesticides.
+        Die künstliche Intelligenz hält den Stab für eine Agrarrevolution in seinen Händen, während die Welt immer mehr 
+Nahrungsmittel mit immer weniger werdenden Ressourcen produzieren muss. Über 20% der Weltbevölkerung 
+wird durch Landwirtschaft beschäftigt, was einen Gesamtwert von über 3 Billionen USD ausmacht. Durch den 
+Anstieg des Bevölkerungswachstums, ist in den letzten 100 Jahren eine Ernteertragssteigerung von 600% zu 
+verzeichnen. Es wird erwartet, dass die Bevölkerung bis 2050 um weitere 2 Milliarden wachsen wird, wobei nur 
+4% landwirtschaftliche Nutzfläche hinzu kommen wird und der Klimawandel ebenfalls dazu beiträgt, dass immer 
+weniger Land bewirtschaftet werden kann. Um unsere Ernährungssicherheit und die Umwelt zu erhalten, wird es 
+unvermeidlich sein, die Ernteerträge weiter zu steigern und den Einsatz von Wasser, Düngemitteln und 
+Pestiziden zu reduzieren.
         </p>
 
         <br>
 
         <p class="text-p">
-           Therefore, it’s extremely crucial that we employ the assistance if AI in Agriculture. Here are a few applications of the same
+        Deshalb ist es unerlässlich, Künstliche Intelligenz in der Landwirtschaft einzusetzen. 
+Hier einige Beispiele
         </p>
 
         <br>
 
-        <h5 class="red">A. Precision Agriculture</h5>
+        <h5 class="red">Precision Agriculture (Präzisisonslandwirtschaft)</h5>
         <p class="text-p">
-          This technology benefits from guidance systems and sensors will allow farmers to customize their practices to generate greater yield. Coming to the technological aspects, Precision agriculture uses a comprehensive set of information technologies that rely on site-specific field information to vary production and management practices across the entire farm. So far, these advanced solutions have and are predicted to increase the efficiency of farming.
+        Diese Technologie profitiert von Leitsystemen und Sensoren, die es den Landwirten ermöglichen, ihre Methoden 
+so anzupassen, dass sie mehr Ertrag erzielen. Was die technologischen Aspekte betrifft, so verwendet die 
+Präzisionslandwirtschaft ein umfassendes Spektrum an Informationstechnologien, die auf standortspezifischen 
+Feldinformationen basieren, um die Produktions- und Managementmethoden im gesamten Betrieb zu variieren 
+und die Effizienz von Landwirtschaft zu steigern
         </p>
         <br>
 
-        <h5 class="red">B. Advanced Agricultural Machinery</h5>
+        <h5 class="red">Automatisierte Arbeitskraft</h5>
         <p class="text-p">
-         With the growing needs, it’s a prerequisite to have smarter and upgraded machines. The accuracy of seed placement, their alignment, status, the health of saplings, the composition of the soil (organic matter, nitrogen, moisture), GPS auto-guidance with line-of-sight to make sure row planting doesn’t overlap with neighboring row borders, calling out for needed refills- are a few tasks which need attention. All of this can be done quickly in the fourth Industrial Revolution, and a few unique projects have been run for the same.
+        Mit den wachsenden Anforderungen sind intelligentere und moderene Maschinen unerlässlich.
+Die Genauigkeit der Saatgutablage, ihre Ausrichtung, ihr Zustand, die Gesundheit der Setzlinge, die 
+Zusammensetzung des Bodens (organische Substanz, Stickstoff, Feuchtigkeit), die automatische GPS-
+Steuerung mit Sichtlinie, um sicherzustellen, dass die Reihenbepflanzung nicht mit benachbarten Reihengrenzen 
+überlappt und nach notwendigen Nachfüllungen verlangt, sind einige Aufgaben, die Aufmerksamkeit erfordern. All 
+dies kann in der vierten industriellen Revolution schnell geschehen, und es wurden einige einzigartige Projekte 
+für dasselbe Projekt durchgeführt
         </p>
         <br>
 
-        <h5 class="red">C. Automated Workforce</h5>
+        <h5 class="red">Automatisierte Arbeitskraft</h5>
         <p class="text-p">
-          According to research studies, 66% of the global population would inhabit urban areas by the end of 2050. It will create a workforce shortage in rural areas where the agricultural industry majorly exists. Adopting the latest technologies is the best way to address this situation. Using automated processes empowered by artificial intelligence, many agricultural operations can be remotely done which will help farmers to make faster and smarter decisions.
+        Laut Forschungsstudien würden 66% der Weltbevölkerung bis Ende 2050 in städtischen Gebieten leben. 
+Dies wird zu einem Arbeitskräftemangel in ländlichen Gebieten führen,  wo überwiegend Landwirtschaft betrieben 
+wird.  Der Einsatz modernster Technologien ist der beste Weg, um dieser Situation entgegenzuwirken. 
+Durch automatisierte Prozesse, die durch künstliche Intelligenz unterstützt werden, können viele 
+landwirtschaftliche Betriebe aus der Ferne durchgeführt werden, was den Landwirten helfen wird, 
+schnellere und intelligentere Entscheidungen zu treffen.
         </p>
         <br>
 
-        <h5 class="red">D. Predicting Soil Requirements</h5>
+        <h5 class="red">Vorhersage der Bodenanforderungen</h5>
         <p class="text-p">
-          Forecasting an ever-variable subject is a hard task. In the case of soil, take an example of Nitrogen. Nitrogen is one of the greatest contributors to increasing crop yield. Due to its comparatively economical cost and huge potential return, farmers seldom use excessive amounts to maximize yield which isn’t very eco-friendly. To solve this problem and cut the investment, next-generation cloud computing infrastructure, big-data analysis techniques, high-resolution climate data, soil characteristics are combined with the latest crop and Precision Nitrogen Management (PNM) models to predict soil nitrogen requirements on a dynamic basis.
+        Die Vorhersage eines immer wieder variierenden Themas ist eine schwierige Aufgabe. Im Falle von Boden, 
+haben wir ein Beispiel für Stickstoff. Stickstoff trägt am meisten zur Steigerung des Ernteertrags bei. Aufgrund der 
+vergleichsweise günstigen Kosten und des enormen Ertragspotenzials verwenden die Landwirte übermäßige, 
+umweltschädliche Mengen, um den Ertrag zu maximieren. Um dieses Problem zu lösen und die damit 
+verbundenen Aufwendungen zu senken, bieten wir Ihnen eine Cloud-Computing-Infrastruktur der nächsten 
+Generation, Big Data Analyseverfahren, hochauflösende Klimadaten und Bodeneigenschaften werden mit den 
+neuesten Modellen für das Pflanzen- und Präzisionsstickstoffmanagement (PNM) kombiniert, um den 
+Stickstoffbedarf im Boden dynamisch vorherzusagen.
         </p>
         <br>
 
-        <h5 class="red">E. Livestock Farming</h5>
+        <h5 class="red">Viehzucht</h5>
         <p class="text-p">
-          Livestock farming is old as well as hard practice. It requires a lot of monitoring to ensure healthy growth. To address this problem, computer vision systems can be devised for the identification and tracking of individual animals. Also, analysis of animal weight via an intelligent camera application can be done. It will be productive, efficient and time-saving.
+        Die Viehzucht ist nicht nur eine alte, sondern auch eine schwierige Praxis. Es bedarf einer umfangreichen 
+Überwachung, um ein gesundes Wachstum zu gewährleisten. Um dieses Problem zu lösen, können Computer 
+Vision Systeme zur Identifizierung und Verfolgung einzelner Tiere entwickelt werden. Auch die Analyse des 
+Tiergewichts über eine intelligente Kameraanwendung kann durchgeführt werden. Es wird produktiv, effizient und 
+zeitsparend sein.
         </p>
 
         <p class="text-p">
-         As, the farmers always say- “You shall reap what you sow.” It’s high time that the Agriculture industry combines with Industry 4.0 to match with the pace of the world, solve the existential crisis and produce fruitful results. With the same belief, Tvarit AI is marching and researching dedicatedly to contribute to the upcoming agricultural revolution.
+        Wie die Bauern immer sagen: " Man wird ernten, was man sät." Es ist höchste Zeit, dass die Agrarindustrie mit 
+der Industrie 4.0 zusammenarbeitet, um dem Tempo der Welt gerecht zu werden, die existenzielle Krise zu lösen 
+und fruchtbare Ergebnisse zu erzielen. Mit dem gleichen Glauben marschiert und forscht die Tvarit KI engagiert, 
+um zur bevorstehenden landwirtschaftlichen Revolution beizutragen.
         </p>
         
 
@@ -302,95 +340,17 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ Automotives end --------------------->
 
 
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-    <?php 
-                include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
-    <!------------------------ tvarit end ----------------------->
+     <?php include 'tvarit_the_team.php';?>
+     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
     <?php 

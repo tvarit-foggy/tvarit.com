@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img/favicon.png">
-        <title>The card of ace- WHAT IS APM?</title>
+        <title>DIE KARTE DES ASSES - WAS IST APM?</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -243,45 +243,66 @@ gtag('config', 'UA-143837547-1');
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-         The card of ace- WHAT IS APM?
+        DIE KARTE DES ASSES - WAS IST APM?
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-         The concept of APM was established decades ago. However, it needs to be advanced by powerful data science capabilities that are purpose-built to solve industrial-scale problems. The current confluence of Operational Technology (OT) and Information Technology (IT) — beside the emergence of the Industrial Internet of Things (IIoT), big data and machine learning — has given life to the next generation of APM software that capitalizes on these areas of opportunity. It has the power to link asset management and maintenance methods keeping the entrance of predictive capabilities possible which was otherwise unattainable.  
+        Das Konzept des APM wurde vor Jahrzehnten entwickelt. Sie muss jedoch durch leistungsstarke 
+datenwissenschaftliche Fähigkeiten vorangetrieben werden, die speziell zur Lösung von Problemen im 
+industriellen Maßstab entwickelt wurden. Das aktuelle Zusammenwachsen von Operational Technology (OT) und 
+Information Technology (IT) - neben dem Aufkommen des Industrial Internet of Things (IIoT), Big Data und 
+Machine Learning - hat der nächsten Generation von APM-Software, die diese Chancen nutzt, Leben 
+eingehaucht. Sie hat die Fähigkeit, Asset-Management- und Instandhaltungsmethoden zu verknüpfen, die den 
+Zugang zu prädiktiven Fähigkeiten ermöglichen, die sonst unerreichbar wären.
         </p>
 
         <br>
 
-        <h5 class="red">HOW DOES APM BENEFIT YOUR BUSINESS?</h5>
+        <h5 class="red">WIE PROFITIERT IHR UNTERNEHMEN VON APM?</h5>
 
         <p class="text-p">
-         APM financially optimizes maintenance programs. It analyses the historical performance data to recognize the trends and prevent unplanned downtime. Preventive Maintenance helps run the industry smoothly and also increase the performance lifetime of machines. APM makes sure that all the industrial assets are accessible whenever required. It maximizes their uptime, minimizing delays caused by failures and reducing any operational setbacks.
+        APM optimiert Instandhaltungsprogramme finanziell. Es analysiert die historischen Leistungsdaten, um die 
+Trends zu erkennen und ungeplante Ausfallzeiten zu vermeiden. Preventive Maintenance hilft, die Industrie 
+reibungslos zu betreiben und die Lebensdauer von Maschinen zu erhöhen. APM stellt sicher, dass alle 
+Industrieanlagen jederzeit zugänglich sind. Es maximiert die Betriebszeit, minimiert Verzögerungen durch 
+Ausfälle und reduziert betriebliche Rückschläge.
         </p>
 
         <p class="text-p">
-        The generation of sensor-based technology and data collection copulated with databases of deep industry knowledge, critical asset behaviors, and failure modes now make it feasible to deliver financially optimized business outcomes.
+        Die Entwicklung sensorgestützter Technologien und Datenerfassungssysteme, die mit Datenbanken mit 
+fundiertem Branchenwissen, kritischen Asset-Verhalten und Ausfallmodi ausgestattet sind, machen es nun 
+möglich, finanziell optimierte Geschäftsergebnisse zu liefern.
         </p>
 
         <br>
 
-        <h5 class="red">WHAT ARE THE KEY BENEFITS?</h5>
+        <h5 class="red">WAS SIND DIE WICHTIGSTEN VORTEILE?</h5>
 
         <p class="text-p">
-        Flexible integration: AI-driven management solution can seamlessly integrate with every process historian found in the global market. On-demand insights: Interactive, easy-to-use dashboards and alerts are obtainable anywhere, granting extended mobility.
+        Flexible Integration: KI-gesteuerte Managementlösung kann sich nahtlos in jeden Prozesshistoriker auf dem 
+Weltmarkt integrieren. Einblicke auf Abruf: Interaktive, einfach zu bedienende Dashboards und Warnmeldungen 
+sind überall verfügbar und ermöglichen eine erweiterte Mobilität.
         </p>
 
         <p class="text-p">
-          Deep analysis and intelligence: The AI-powered solutions can effortlessly connect to multiple data streams to generate actionable insights on the costs, risks, and latent efficiencies to deliver optimal performance.
+        Tiefe Analyse und Intelligenz: Die KI-basierten Lösungen können mühelos mit mehreren Datenströmen 
+verbunden werden, um aussagekräftige Erkenntnisse über Kosten, Risiken und latente Effizienzen zu gewinnen 
+und so eine optimale Leistung zu erzielen.
         </p>
 
         <br>
         
-        <h5 class="red">WHY SHOULD YOU USE APM?</h5>
+        <h5 class="red">WARUM SOLLTEN SIE APM NUTZEN?</h5>
 
         <p class="text-p">
-        In the competitive world, it’s extremely essential to partner up with an APM 4.0 provider. Because on the path of growth, optimizing asset maintenance strategies and increasing operational performance is highly crucial. However, despite the financial shots that APM 4.0 solutions can help unhitch, various industrial companies are yet to benefit the technology entirely. For those that are or want to Tvarit AI is there to assist to make them swiftly attaining an edge over the other competitors.
+        Im Wettbewerb ist es äußerst wichtig, mit einem APM 4.0-Anbieter zusammenzuarbeiten. Denn auf dem Weg 
+des Wachstums ist die Optimierung der Instandhaltungsstrategien und die Steigerung der operativen Leistung 
+von entscheidender Bedeutung. Trotz der Finanzspritzen, die APM 4.0-Lösungen beim Abkoppeln helfen können, 
+profitieren verschiedene Industrieunternehmen jedoch noch nicht vollständig von der Technologie. Für diejenigen, 
+die Tvarits KI wollen, ist Tvarit, um ihnen zu helfen, sich schnell einen Vorteil gegenüber den anderen 
+Wettbewerbern zu verschaffen.
         </p>
 
       </div>
@@ -290,95 +311,16 @@ gtag('config', 'UA-143837547-1');
    
     <!------------------------ Automotives end --------------------->
 
-
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-            <?php 
-                 include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

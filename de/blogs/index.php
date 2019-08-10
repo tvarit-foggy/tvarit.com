@@ -167,13 +167,13 @@ gtag('config', 'UA-143837547-1');
                           <a href="../automotive" class="sub-Link">Automotive</a>
                         </li>
                         <li>
-                          <a href="../avionics" class="sub-Link">Avionics</a>
+                          <a href="../avionics" class="sub-Link">Avionik</a>
                         </li>
                         <li>
                           <a href="../chemicals" class="sub-Link">Chemicals</a>
                         </li>
                         <li>
-                          <a href="../construction" class="sub-Link">Construction</a>
+                          <a href="../construction" class="sub-Link">Bauausführung</a>
                         </li>
                         <li>
                           <a href="../industrial_machinery" class="sub-Link">Industrial Machinery</a>
@@ -182,13 +182,13 @@ gtag('config', 'UA-143837547-1');
                       <ul class="ul-sub-menu">
                         </li>
                         <li>
-                          <a href="../oil_gas" class="sub-Link">Oil & Gas</a>
+                          <a href="../oil_gas" class="sub-Link">Öl und Gas</a>
                         </li>
                         <li>
-                          <a href="../pharmaceuticals" class="sub-Link">Pharmaceuticals</a>
+                          <a href="../pharmaceuticals" class="sub-Link">Pharmazeutisch</a>
                         </li>
                         <li>
-                          <a href="../steel" class="sub-Link">Steel</a>
+                          <a href="../steel" class="sub-Link">Stahl</a>
                         </li>
                         <li>
                           <a href="../textiles" class="sub-Link">Textiles</a>
@@ -254,7 +254,8 @@ gtag('config', 'UA-143837547-1');
               </div>
               <br>
               <p class="text-p">
-                For a concise and brief study, refer to our blogs and gather crisp knowledge on the industry
+              Für eine kurze und knappe Studie besuchen Sie unsere Blogs und sammeln Sie fundiertes Wissen über die 
+Branche.
               </p>
               <br>
 
@@ -314,49 +315,49 @@ gtag('config', 'UA-143837547-1');
                          <div class="form-group">
                           <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="Avionics" value=".Avionics" >
-                            <label class="custom-control-label" for="Avionics" >Avionics</label>
+                            <label class="custom-control-label" for="Avionics" >Avionik</label>
                           </div>
                         </div>
 
                         <div class="form-group">
                           <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="Construction" value=".Construction">
-                            <label class="custom-control-label" for="Construction" >Construction</label>
+                            <label class="custom-control-label" for="Construction" >Bauausführung</label>
                           </div>
                         </div>
 
                         <div class="form-group">
                           <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="Energy" value=".Energy">
-                            <label class="custom-control-label" for="Energy" >Energy</label>
+                            <label class="custom-control-label" for="Energy" >Energie</label>
                           </div>
                         </div>
 
                         <div class="form-group">
                           <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="oil_gas" value=".OilGas">
-                            <label class="custom-control-label" for="oil_gas" >Oil & Gas</label>
+                            <label class="custom-control-label" for="oil_gas" >Öl und Gas</label>
                           </div>
                         </div>
 
                         <div class="form-group">
                           <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="Pharmaceuticals" value=".Pharmaceuticals">
-                            <label class="custom-control-label" for="Pharmaceuticals" >Pharmaceuticals</label>
+                            <label class="custom-control-label" for="Pharmaceuticals" >Pharmazeutisch</label>
                           </div>
                         </div>
 
                         <div class="form-group">
                           <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="Steel" value=".Steel">
-                            <label class="custom-control-label" for="Steel" >Steel</label>
+                            <label class="custom-control-label" for="Steel" >Stahl</label>
                           </div>
                         </div>
                     </div>
                   </li>
                   
                   <li>
-                    <a class="toggle" href="javascript:void(0);">Case Studies </a>
+                    <a class="toggle" href="javascript:void(0);">Fallstudien</a>
                     <div class="inner">
                       <div class="form-group">
                           <div class="custom-control custom-checkbox">
@@ -416,7 +417,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-oil-gas.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-oil-gas-industry-how-partnering-with-industry" class="title">The Oil & Gas Industry- How Partnering with Industry 4.0 will help?</a>
+                      <a href="the-oil-gas-industry-how-partnering-with-industry" class="title">DIE ÖL- UND GASINDUSTRIE - WIE KANN EINE PARTNERSCHAFT MIT DER INDUSTRIE 4.0 HELFEN?</a>
                     </div>
                   </div>
                 </div>
@@ -425,12 +426,12 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                        Avionics
+                      Avionik
                       </div>
                       <img src="../img/b-avionics.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-ascending-flight-ai-in-aviation-industry" class="title">THE ASCENDING FLIGHT- AI IN AVIATION INDUSTRY</a>
+                      <a href="the-ascending-flight-ai-in-aviation-industry" class="title">DIE AUFSTEIGENDE FLUG-KI IN DER LUFTFAHRTINDUSTRIE</a>
                     </div>
                   </div>
                 </div>
@@ -439,12 +440,12 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                        Pharmaceuticals
+                      Pharmazeutisch
                       </div>
                       <img src="../img/b-pharmaceuticals.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-new-medicine-big-data-in-healthcare" class="title">the new medicine- Big Data in healthcare</a>
+                      <a href="the-new-medicine-big-data-in-healthcare" class="title">DIE NEUE MEDIZIN: GROßE DATEN IM GESUNDHEITSBEREICH</a>
                     </div>
                   </div>
                 </div>
@@ -453,12 +454,12 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                        Construction
+                      Bauausführung
                       </div>
                       <img src="../img/pic-4.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="industry-concreting-the-construction-industry" class="title">INDUSTRY 4.0 CONCRETING THE CONSTRUCTION INDUSTRY</a>
+                      <a href="industry-concreting-the-construction-industry" class="title">INDUSTRIE 4.0 BETONIERUNG DER BAUINDUSTRIE</a>
                     </div>
                   </div>
                 </div>
@@ -468,12 +469,12 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                       Energy
+                      Energie
                       </div>
                       <img src="../img/b-energy.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="predictive-analytics-in-power-optimization" class="title">PREDICTIVE ANALYTICS IN POWER OPTIMIZATION</a>
+                      <a href="predictive-analytics-in-power-optimization" class="title">PREDICTIVE ANALYTICS BEI DER LEISTUNGSOPTIMIERUNG</a>
                     </div>
                   </div>
                 </div>
@@ -487,7 +488,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-case-studies.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="optimizing-your-inventory-like-a-pro-heres-how-ai-does-it" class="title">Optimizing your Inventory like a pro- Here’s how AI does it</a>
+                      <a href="optimizing-your-inventory-like-a-pro-heres-how-ai-does-it" class="title">OPTIMIEREN SIE IHR INVENTAR WIE EIN PRO- HIER IST, WIE KI ES MACHT.</a>
                     </div>
                   </div>
                 </div>
@@ -501,7 +502,7 @@ gtag('config', 'UA-143837547-1');
                       <img src="../img/b-case-studies.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
-                      <a href="the-card-of-ace-what-is-apm" class="title">The card of ace- WHAT IS APM?</a>
+                      <a href="the-card-of-ace-what-is-apm" class="title">DIE KARTE DES ASSES - WAS IST APM?</a>
                     </div>
                   </div>
                 </div>
@@ -552,7 +553,7 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                        Energy
+                      Energie
                       </div>
                       <img src="../img/b-energy.jpg" class="img-fluid"> 
                     </div>
@@ -566,7 +567,7 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                        Automotive
+                      Automobil
                       </div>
                       <img src="../img/b-automotive.jpg" class="img-fluid"> 
                     </div>
@@ -580,7 +581,7 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                        Automotive
+                      Automobil
                       </div>
                       <img src="../img/b-automotive.jpg" class="img-fluid"> 
                     </div>
@@ -594,7 +595,7 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                        Steel
+                      Stahl
                       </div>
                       <img src="../img/b-steel.jpg" class="img-fluid"> 
                     </div>
@@ -613,95 +614,16 @@ gtag('config', 'UA-143837547-1');
 
     <!------------------------ Automotives end --------------------->
 
-
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-            <?php 
-                 include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

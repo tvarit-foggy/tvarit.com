@@ -490,104 +490,19 @@ gtag('config', 'UA-143837547-1');
 
 
     <!------------------------Countdown start --------------------->
-    <div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-        <div class="container">
-            <div class="centerTitle text-big60 text-white">
-                Was wir verändert <span class="fw-900">haben</span>
-            </div>
-            <div class="row">
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="22">0</span> <small>+</small></div>
-                        <div class="text">Die höchste Anzahl an Algorithmen</div>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="97.2">0</span> <small>%</small></div>
-                        <div class="text">Genauigkeit von APA-Modellen</div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="0">100</span> <small class="x"></small>
-                        </div>
-                        <div class="text">Zeit des Transfer-Lernens von einer zu N Maschinen </div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="30">0</span> <small>Minuten</small></div>
-                        <div class="text">Um Ihr KI-Modell zu erstellen</div>
-                    </div>
-                </div>
-            </div>
-            <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-                Unsere geprüften <span class="fw-900">Ergebnisse</span>
-            </div>
-            <div class="row">
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="13">0</span> <small>%</small></div>
-                        <div class="text">Erhöhung der GAE</div>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="30">0</span> <small>%</small></div>
-                        <div class="text">Verringerung von Lieferzeiten</div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="12">0</span> <small>%</small></div>
-                        <div class="text">Verringerung von Energiekosten </div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="25">0</span> <small>%</small></div>
-                        <div class="text">Reduzierung von Qualitätsmängeln</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
 
     <!------------------------Automated slide start --------------------->
-    <?php 
-                include 'change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
     <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="text-big60">Das Team hinter <span class="tvarit-black"> Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span></div>
-                </div>
-
-                <div class="centerPharseContent text-p">
-                    Wir haben unseren Sitz in Niedernhausen, Deutschland, und verfügen über die perfekte 
-                Teamzusammensetzung - ein deutscher Gründer, der eine Menge Know-how in Bezug auf Maschinen 
-                besitzt gepaart mit hochqualifiziertem Software-Know-how der Indischen Gründer.
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
-                include 'using-tvarit.php';
-                ?>
+    <?php include 'using-tvarit.php';?>
     <!------------------------Client logo slide end --------------------->
 
     <!------------------------try demo start --------------------->
@@ -657,9 +572,7 @@ gtag('config', 'UA-143837547-1');
     <!------------------------try demo end --------------------->
 
     <!------------------------footer start --------------------->
-    <?php
-    include 'footer.php';
-    ?>
+    <?php include 'footer.php';?>
     <!------------------------footer end --------------------->
 
 

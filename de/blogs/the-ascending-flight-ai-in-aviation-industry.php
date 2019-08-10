@@ -16,7 +16,7 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="../img/favicon.png">
-        <title>THE ASCENDING FLIGHT- AI IN AVIATION INDUSTRY</title>
+        <title>DIE AUFSTEIGENDE FLUG-KI IN DER LUFTFAHRTINDUSTRIE</title>
          
         <link rel="stylesheet" href="../css/bootstrap.min.css">
         <link rel="stylesheet" href="../css/style.css">
@@ -243,48 +243,74 @@
     <div class="section-padding-both-2x" id="downClick">
       <div class="container">
         <div class="text-big60">
-         THE ASCENDING FLIGHT- AI IN AVIATION INDUSTRY
+        DIE AUFSTEIGENDE FLUG-KI IN DER LUFTFAHRTINDUSTRIE
         </div>
 
         <br>
 
         <p class="text-medium fw-700">
-         The aviation industry has never been a passive player. With the allurement of predictive analytics and the emergence of IoT and AI in the fourth Industrial Revolution, avionics has taken great benefits from it. AI will impact aviation in many ways from passenger experience to flight operations. Here is a quick summary of how
+        Die Luftfahrtindustrie war noch nie ein passiver Akteur. Mit der Attraktivität der Prädiktive Analytics und dem 
+Aufkommen von IoT und KI in der vierten industriellen Revolution hat die Avionik große Vorteile daraus gezogen. 
+Die KI wird den Luftverkehr in vielerlei Hinsicht beeinflussen, von der Passagiererfahrung bis zum Flugbetrieb. 
+Hier ist eine kurze Übersicht.
         </p>
 
         <br>
 
-        <h5 class="red">1. Ticketing System</h5>
+        <h5 class="red">1. Ticketsystem</h5>
         <p class="text-p">
-          The price of the tickets can be dynamic. The multiple factors involved make it complicated to make a precise conclusion. Factors like flight distance, seasonality, oil price, competition, purchase date,  airline reputation and more, impact airline ticket pricing. This is where AI comes to rescue. It deduces precise results from the data set and is supporting the aviation industry execute prototypes like expected marginal seat revenue (EMSR) and ancillary price optimization. This helps the aviation industry cut the cost and enhance customer services.
+        Der Preis der Tickets kann dynamisch sein. Die Vielzahl der Faktoren macht es kompliziert, eine genaue 
+Einschätzung zu treffen. Faktoren wie Flugdistanz, Saisonalität, Ölpreis, Wettbewerb, Kaufdatum, Reputation der 
+Fluggesellschaft und vieles mehr beeinflussen die Preise von Flugtickets. Hier kommt die KI ins Spiel. Es 
+ermittelt präzise Ergebnisse aus dem Datensatz und unterstützt die Luftfahrtindustrie dabei, Prototypen wie 
+erwartete Marginsitzumsätze (EMSR) und zusätzliche Preisoptimierung durchzuführen. Dies hilft der 
+Luftfahrtindustrie, die Kosten zu senken und den Kundenservice zu verbessern.
         </p>
         <br>
 
-        <h5 class="red">2. Fuel Efficiency</h5>
+        <h5 class="red">2. Kraftstoffeffizienz</h5>
         <p class="text-p">
-          The largest operational costs for any airline is fuel. Airlines can use machine learning algorithms to assemble and analyze data about aircraft weights, flight routes, distances, altitudes, number of passengers, etc. This data can help AI Algorithms to deduce the optimum amount of fuel necessary for each flight. Also, it can reduce carbon emissions and prove to be an ecological step. Therefore, reducing fuel wastage is an important objective for the aviation industry.
+        Die größten Betriebskosten für eine Fluggesellschaft sind Treibstoff. Fluggesellschaften können maschinelle 
+Lernalgorithmen verwenden, um Daten über Flugzeuggewichte, Flugrouten, Entfernungen, Höhen, 
+Passagierzahlen usw. zusammenzustellen und zu analysieren. Diese Daten können KI-Algorithmen helfen, die 
+optimale Treibstoffmenge für jeden Flug zu ermitteln. Außerdem kann es die CO2-Emissionen reduzieren und 
+sich als ökologischer Fortschritt erweisen. Die Reduzierung der Treibstoffverschwendung ist daher ein wichtiges 
+Ziel für die Luftfahrtindustrie.
         </p>
         <br>
 
-        <h5 class="red">3. Flight Maintenance</h5>
+        <h5 class="red">3. Flugwartung</h5>
         <p class="text-p">
-         Airlines have to be very punctual in their maintenance schedules. Airplanes being huge and always mobile, it is tough to move their mechanical parts and efficiently maintain them. Any unplanned maintenance can follow in flight cancellations and delays which cut our pockets. This has led airlines to adopt AI-based predictive analytics to plan the maintenance needs of several parts of an aircraft beforehand. This technology is called predictive maintenance. It helps cut huge maintenance and operational costs.
+        Die Fluggesellschaften müssen in ihren Wartungsplänen sehr pünktlich sein. Da Flugzeuge riesig und immer 
+mobil sind, ist es schwierig, ihre mechanischen Teile zu bewegen und effizient zu warten. Jede ungeplante 
+Wartung kann zu Flugannullierungen und Verspätungen führen, die die Kosten für uns in die Höhe treiben. Dies 
+hat die Fluggesellschaften veranlasst, KI-basierte Vorhersageanalysen einzusetzen, um den Wartungsbedarf 
+mehrerer Teile eines Flugzeugs im Voraus zu planen. Diese Technologie wird als Predictive Maintenance 
+bezeichnet. Es hilft, die enormen Wartungs- und Betriebskosten zu senken.
         </p>
         <br>
 
-        <h5 class="red">4. Luggage Tracking</h5>
+        <h5 class="red">4. Gepäckverfolgung</h5>
         <p class="text-p">
-          Managing track of passenger luggage is a primary character of air transportation. Commonly, most airlines still use paper tags for luggage tracking. An electronic tag system that looks like a paper tag but displays the information electronically can be used. Passengers can then connect to the tag through Bluetooth devices and set up all check-in parameters.
+        Die Verwaltung des Passagiergepäcks ist ein wesentliches Merkmal des Luftverkehrs. In der Regel verwenden 
+die meisten Fluggesellschaften immer noch Papieranhänger zur Gepäckverfolgung. Ein elektronisches 
+Tagsystem, das wie ein Papieretikett aussieht, aber die Informationen elektronisch anzeigt, könnte verwendet 
+werden. Die Fahrgäste können sich dann über Bluetooth-Geräte mit dem Tag verbinden und alle Check-in-
+Parameter einstellen.
         </p>
         <br>
 
-        <h5 class="red">5. In-flight experience</h5>
+        <h5 class="red">5. Flugerfahrung</h5>
         <p class="text-p">
-          IoT devices are being used everywhere to customize and improve the customer experience. The aviation industry is deploying creative measures for the same. Connected IoT LEDs and microphones to the uniforms of the crew members give a message- flight number and emergency guidance. The microphones assist the crew to directly communicate with passengers.
+        IoT-Geräte werden überall eingesetzt, um das Kundenerlebnis anzupassen und zu verbessern. Die 
+Luftfahrtindustrie setzt dafür kreative Maßnahmen ein. Angeschlossene IoT-LEDs und Mikrofone an die 
+Uniformen der Besatzungsmitglieder geben eine Nachricht - Flugnummer und Notfallführung. Die Mikrofone 
+unterstützen die Besatzung bei der direkten Kommunikation mit den Fahrgästen.
         </p>
 
         <p class="text-p">
-          All of these clubbed together have been of great advantage to the aviation industry. Therefore, AI technologies are considered very useful for various aspects of airline operation management.
+        Alle diese Faktoren zusammengenommen waren für die Luftfahrtindustrie von großem Vorteil. Daher werden KI-
+Technologien als sehr nützlich für verschiedene Aspekte des Flugbetriebsmanagements angesehen.
         </p>
        
 
@@ -294,95 +320,16 @@
    
     <!------------------------ Automotives end --------------------->
 
-
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-            <?php 
-                 include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

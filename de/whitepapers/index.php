@@ -170,7 +170,7 @@ gtag('config', 'UA-143837547-1');
                           <a href="../chemicals" class="sub-Link">Chemicals</a>
                         </li>
                         <li>
-                          <a href="../construction" class="sub-Link">Construction</a>
+                          <a href="../construction" class="sub-Link">Konstruktion</a>
                         </li>
                         <li>
                           <a href="../industrial_machinery" class="sub-Link">Industrial Machinery</a>
@@ -251,7 +251,8 @@ gtag('config', 'UA-143837547-1');
               </div>
               <br>
               <p class="text-p">
-                For a detailed and technical analysis and reading, refer to our white papers, customized specifically for you.
+              Eine detaillierte und technische Analyse und Lektüre finden Sie in unseren Whitepapers, die speziell auf Sie 
+zugeschnitten sind.
               </p>
               <br>
 
@@ -273,7 +274,7 @@ gtag('config', 'UA-143837547-1');
               <div class="searchDiv">
                 <div class="form-group mb-0">
                   <div class="addon">
-                    <input type="text" class="form-control" placeholder="Search" >
+                    <input type="text" class="form-control" placeholder="Suchen" >
                     <a href="javascript://" class="addon-item btn-fab red"><i class="fas fa-search"></i></a>
                   </div>
                 </div>
@@ -292,7 +293,7 @@ gtag('config', 'UA-143837547-1');
                 <div class="form-group">
                   <div class="custom-control custom-checkbox">
                     <input type="checkbox" class="custom-control-input" id="checkAll" value="all" checked="">
-                    <label class="custom-control-label" for="checkAll">All</label>
+                    <label class="custom-control-label" for="checkAll">Alle</label>
                   </div>
                 </div>
 
@@ -310,7 +311,7 @@ gtag('config', 'UA-143837547-1');
                         <div class="form-group">
                           <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="Construction" value=".Construction">
-                            <label class="custom-control-label" for="Construction" >Construction</label>
+                            <label class="custom-control-label" for="Construction" >Konstruktion</label>
                           </div>
                         </div>
 
@@ -318,7 +319,7 @@ gtag('config', 'UA-143837547-1');
                   </li>
                   
                   <li>
-                    <a class="toggle" href="javascript:void(0);">Case Studies </a>
+                    <a class="toggle" href="javascript:void(0);">Fallstudien</a>
                     <div class="inner">
                       <div class="form-group">
                           <div class="custom-control custom-checkbox">
@@ -363,7 +364,7 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                        Case Studies
+                      Fallstudien
                       </div>
                       <img src="../img/b-case-studies.jpg" class="img-fluid"> 
                     </div>
@@ -378,14 +379,14 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                        Case Studies
+                      Fallstudien
                       </div>
                       <img src="../img/b-case-studies.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
                       <a href="enhancing-cpg-with-ai-and-advanced-analytics
 
-" class="title">Enhancing CPG with AI and Advanced Analytics</a>
+" class="title">VERBESSERUNG VON CPG MIT KI UND ADVANCED ANALYTICS</a>
                     </div>
                   </div>
                 </div>
@@ -394,14 +395,14 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                       Automotive
+                      Automobil
                       </div>
                       <img src="../img/b-automotive.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
                       <a href="fuel-efficiency-in-smart-vehicles
 
-" class="title">FUEL EFFICIENCY IN SMART VEHICLES</a>
+" class="title">KRAFTSTOFFEFFIZIENZ IN INTELLIGENTEN FAHRZEUGEN</a>
                     </div>
                   </div>
                 </div>
@@ -410,14 +411,14 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                       Construction
+                      Konstruktion
                       </div>
                       <img src="../img/pic-4.jpg" class="img-fluid"> 
                     </div>
                     <div class="content">
                       <a href="construction-industry-in-partnership-with-industry
 
-" class="title">CONSTRUCTION INDUSTRY IN PARTNERSHIP WITH INDUSTRY 4.0</a>
+" class="title">BAUWESEN IN PARTNERSCHAFT MIT DER INDUSTRIE 4.0</a>
                     </div>
                   </div>
                 </div>
@@ -426,7 +427,7 @@ gtag('config', 'UA-143837547-1');
                   <div class="blogBox">
                     <div class="blogPic">
                       <div class="industiesText">
-                       Automotive
+                      Automobil
                       </div>
                       <img src="../img/b-automotive.jpg" class="img-fluid"> 
                     </div>
@@ -434,7 +435,7 @@ gtag('config', 'UA-143837547-1');
                       <a href="predictive-maintenance-the-next-pioneer-in-automotive-industry
 
 
-" class="title">PREDICTIVE MAINTENANCE- THE NEXT PIONEER IN AUTOMOTIVE INDUSTRY</a>
+" class="title">PREDICTIVE MAINTENANCE - DER NÄCHSTE PIONIER IN DER AUTOMOBILINDUSTRIE</a>
                     </div>
                   </div>
                 </div>
@@ -450,94 +451,16 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ Automotives end --------------------->
 
 
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-          <?php 
-                include '../change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
+     <?php include 'tvarit_the_team.php';?>  
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->

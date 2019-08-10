@@ -795,28 +795,9 @@ gtag('config', 'UA-143837547-1');
         </div>
        </div>
     </div>
-    <!------------------------Countdown end --------------------->
-    <!------------------------Automated slide start --------------------->
-              <?php 
-                include 'change_we_bring.php';
-                ?>
-    <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
-    <!------------------------ tvarit end ----------------------->
+     <?php include 'tvarit_the_team.php';?>    <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
     <?php 

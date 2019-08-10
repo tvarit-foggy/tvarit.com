@@ -273,13 +273,20 @@ gtag('config', 'UA-143837547-1');
           <div class="col-md">
             <div class="px-4 box-content-left" >
               <div class="title">
-               <div class="text-big60 fw-900">Quality Prediction</div>
+               <div class="text-big60 fw-900">Qualitätsvorhersage</div>
               </div>
              
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
                 <p class="text-p">
-                Predictive analytics has already been shining high and bright with the merging of Industry 4.0 in custom businesses. With the collection of big data, it can easily forecast whether a product requires how much material input with high precision, maintaining certain quality standards and cutting operational costs. Also, even the minute defects can be detected. As an industry, it is important to focus quality efforts on those points in the process that are most critical in determining the final product quality. AI does the same for you in minimal time. Therefore, we at Tvarit AI, are consistently developing high end products to assist your business and make it simpler and upgraded.</p>
+                Predictive Analytics hat mit dem Zusammenschluss von Industry 4.0 in Custom Business bereits einen hohen
+Stellenwert erlangt. Mit der Erfassung großer Datenmengen kann leicht vorhergesagt werden, wie viel
+Materialeinsatz ein Produkt benötigen wird, ob es bestimmte Qualitätsstandards einhält und kann die 
+Betriebskosten senken. Außerdem können bereits kleinste Fehler erkannt werden. Als Branche ist es wichtig, 
+die Qualitätsbemühungen auf die Punkte im Prozess zu konzentrieren, die für die Bestimmung der 
+Endproduktqualität am wichtigsten sind. Die KI macht ganu das für Sie in kürzester Zeit. Deshalb entwickeln wir 
+bei Tvarit AI konsequent High-End-Produkte, um Ihr Unternehmen zu unterstützen und es einfacher und besser 
+zu machen.</p>
               </div>
             </div>
           </div>
@@ -301,7 +308,14 @@ gtag('config', 'UA-143837547-1');
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
                 <p class="text-p">
-                Predictive maintenance is a maintenance strategy driven by predictive analytics. The solutions we develop are used for detecting failure patterns or anomalies, but are only deployed when there is high probability of imminent failure. This helps in deploying limited resources, maximizing device or equipment uptime, enhancing quality and supply chain processes, and thus improving the overall satisfaction for all the stakeholders involved. It can be implemented in any industry be it construction or pharmaceuticals. We at Tvarit AI, offer various services for the same to make your business simpler and upgraded. </p>
+                Predictive Maintenance ist eine Instandhaltungsstrategie, die auf der Grundlage der prädiktiven Analytik 
+entwickelt wurde. Die von uns entwickelten Lösungen dienen der Erkennung von Ausfallmustern oder 
+Anomalien, werden aber nur bei hoher Wahrscheinlichkeit eines drohenden Ausfalls eingesetzt. Dies trägt dazu 
+bei, begrenzte Ressourcen einzusetzen, die Betriebszeit von Geräten oder Anlagen zu maximieren, die Qualität 
+und die Prozesse in der Lieferkette zu verbessern und damit die Gesamtzufriedenheit aller Beteiligten zu 
+verbessern. Es kann in jeder Branche eingesetzt werden, sei es im Bauwesen oder in der Pharmazie. Wir von 
+Tvarit AI bieten verschiedene Dienstleistungen an für Ihr Unternehmen an um es einfacher und besser zu 
+machen.</p>
               </div>
             </div>
           </div>
@@ -327,13 +341,19 @@ gtag('config', 'UA-143837547-1');
           <div class="col-md">
             <div class="px-4 box-content-left" >
               <div class="title">
-               <div class="text-big60 fw-900">Supply Chain</div>
+               <div class="text-big60 fw-900">Lieferkette</div>
               </div>
              
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
                 <p class="text-p">
-                The potential of AI enhancing everyday business activities and strategies hasn’t just sparked the interest of people and organizations globally, but has initiated rapid implementation. When it comes to SCM, AI does the same. You can create chatbots for operational management, create autonomous smart vehicles, forecast the delivery time, best delivery task and operational costs, anything which makes SCM efficient. McKinsey estimates that firms could gain $1.3 trillion to $2 trillion a year from using AI in supply chain and manufacturing. Undoubtedly, when cost can be cut, efficiency and productivity can be increased,demands can be forecasted, and customer experience can be enhanced, no true businessman wants to stay back. </p>
+                Das Potenzial der KI zur Verbesserung der alltäglichen Geschäftsaktivitäten und -strategien hat nicht nur das 
+Interesse von Menschen und Organisationen weltweit geweckt, sondern auch eine schnelle Umsetzung 
+eingeleitet. Sie können Chatbots für die Betriebsführung erstellen, autonome intelligente Fahrzeuge erstellen, die
+Lieferzeit, die beste Lieferaufgabe und die Betriebskosten prognostizieren. McKinsey schätzt, dass Unternehmen
+durch den Einsatz von KI in der Lieferkette und in der Fertigung jährlich 1,3 Billionen bis 2 Billionen Dollar 
+gewinnen könnten. Zweifellos will kein echter Geschäftsmann zurückbleiben, wenn Kosten gesenkt, Effizienz 
+und Produktivität gesteigert, Anforderungen prognostiziert und die Kundenzufriedenheit gesteigert werden kann.</p>
               </div>
             </div>
           </div>
@@ -349,13 +369,23 @@ gtag('config', 'UA-143837547-1');
           <div class="col-md order-2 order-md-1">
             <div class="px-4 box-content-right" >
               <div class="title">
-               <div class="text-big60 fw-900">Asset and Inventory Management</div>
+               <div class="text-big60 fw-900">Anlagen- und Bestandsmanagement</div>
               </div>
               
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
                 <p class="text-p">
-                  Conventionally, asset management revolves around the concept that a business has physical assets that it owns and uses to finance and run its operations. To minimize wastage and restrain costs, the company must have a distinct knowledge of its assets and of processes to manage and renew them as they depreciate with time. However, with the rise of Industry 4.0, Asset and Inventory management are one of the hotshot applications of Advanced Predictive Analytics. For instance, we worked with a truck company and gave them a predictive algorithm to predict the truck's requirement for a backup battery. Tabulating and analyzing data of fuel consumption, distance covered, average speed, Tvarit AI's software forecasted the need for a backup battery. A single backup battery costs 7890 USD and is not retrofittable on every truck. The smart software cut their operational costs and refined their inventory.
+                Im Allgemeinen dreht sich das Asset Management um das Konzept, dass ein Unternehmen über physische
+Vermögenswerte verfügt, die es zur Finanzierung und Durchführung seiner Geschäftstätigkeit verwendet. Um 
+Kosten einzudämmen, muss das Unternehmen über ein ausgeprägtes Wissen über seine Vermögenswerte und
+über die Prozesse zu deren Verwaltung und Erneuerung verfügen, da sie mit der Zeit abnehmen. Mit dem
+Aufkommen von Industry 4.0 sind Asset und Inventory Management jedoch eine der wichtigsten Anwendungen 
+der Advanced Predictive Analytics. Zum Beispiel haben wir mit einem LKW-Unternehmen zusammengearbeitet 
+und ihm unsere APA-Software zur Verfügung gestellt, um den Bedarf des LKWs für eine Backup-Batterie 
+vorherzusagen. Die Software von Tvarit AI tabelliert und analysiert Daten über Kraftstoffverbrauch, 
+zurückgelegte Entfernung, Durchschnittsgeschwindigkeit und prognostiziert den Bedarf an einer Backup-Batterie. 
+Eine einzelne Backup-Batterie kostet 7890 USD und ist nicht an jedem LKW nachrüstbar. 
+Die intelligente Software senkte ihre Betriebskosten und verfeinerte ihren Bestand.
                 </p>
               </div>
             </div>
@@ -382,13 +412,19 @@ gtag('config', 'UA-143837547-1');
           <div class="col-md">
             <div class="px-4 box-content-left" >
               <div class="title">
-               <div class="text-big60 fw-900">Intra-plant Logistics</div>
+               <div class="text-big60 fw-900">Intra-Plant Logistik  (Innerbetriebliche Logistik)</div>
               </div>
              
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
                 <p class="text-p">
-                Headways in technology have eventually led to a remote workforce; it can also be stated that humans no longer attend the purpose they once did, especially in manufacturing. With the evolution of the Fourth Industrial Revolution, autonomous intra-plant logistics in factory settings are the new trend. Automated machinery which is devoid of human interference and can do some heavy lifting, shifting and transporting without any supervision is being widely used. Having great precision and high safety statistics, this technology is expected to hold more substantial grounds in the global manufacturing market. Applications are also anticip</p>
+                Technologische Fortschritte haben schließlich zu einer entfernten Belegschaft geführt; es kann auch festgestellt 
+werden, dass der Mensch nicht mehr den Zweck erfüllt, den er früher hatte, insbesondere in der Fertigung. Mit 
+der Entwicklung der Vierten Industriellen Revolution liegt die autonome innerbetriebliche Logistik im 
+Werksbereich im Trend. Automatisierte Maschinen, die frei von menschlichen Eingriffen sind und ohne Aufsicht 
+schwere Lasten heben, verschieben und transportieren können, werden häufig eingesetzt. Aufgrund der hohen 
+Präzision und der hohen Sicherheitsstatistiken wird erwartet, dass diese Technologie auf dem globalen 
+Fertigungsmarkt eine bedeutendere Stellung einnehmen wird. Es werden auch Bewerbungen erwartet.</p>
               </div>
             </div>
           </div>
@@ -406,23 +442,23 @@ gtag('config', 'UA-143837547-1');
           <div class="col-md-6">
             <div class="lookingBox rerBg-grd">
               <div class="text text-white">
-                <span class="fs-18  fw-400">If you're looking for</span>
-                <h3  class="fw-900">a concise overview</h3>
+                <span class="fs-18  fw-400">WENN SIE EINEN</span>
+                <h3  class="fw-900">KOMPAKTEN ÜBERBLICK SUCHEN</h3>
               </div>
               <div>
-                <a href="blogs" class="btn btn-round btn-white">Click Here</a>
+                <a href="blogs" class="btn btn-round btn-white">Klicken Sie hier</a>
               </div>
             </div>
           </div>
           <div class="col-md-6">
             <div class="lookingBox brdr-black">
               <div class="text">
-                <span class="fs-18  fw-400">If you're looking for</span>
-                <h3  class="fw-900">in-depth  knowledge</h3>
+                <span class="fs-18  fw-400">WENN SIE AUF DER SUCHE NACH</span>
+                <h3  class="fw-900"> FUNDIERTEM WISSEN SIND</h3>
               </div>
 
               <div>
-                <a href="whitepapers" class="btn btn-round btn-black">Click Here</a>
+                <a href="whitepapers" class="btn btn-round btn-black">Klicken Sie hier</a>
               </div>
             </div>
           </div>
@@ -431,96 +467,17 @@ gtag('config', 'UA-143837547-1');
       </div>
     </div>
 
-
-<!------------------------Countdown start --------------------->
-<div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-      <div class="container">
-        <div class="centerTitle text-big60 text-white">
-          The change we <span class="fw-900">brought</span>
-        </div>
-        <div class="row">
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="22">0</span> <small>+</small></div>
-              <div class="text">Highest number of algorithms</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="97.2">0</span> <small>%</small></div>
-              <div class="text">Accuracy of APA models</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="0">100</span> <small class="x"></small></div>
-              <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>Mins</small></div>
-              <div class="text">To Build your AI model</div>
-            </div>
-          </div>
-        </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-          Our  Proven <span class="fw-900">Results</span>
-        </div>
-        <div class="row">
-        <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="13">0</span> <small>%</small></div>
-              <div class="text">Increase in OEE</div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="30">0</span> <small>%</small></div>
-              <div class="text">Decrease in delivery time</div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="12">0</span> <small >%</small></div>
-              <div class="text">Decrease in energy costs </div>
-            </div>
-          </div>
-
-          <div class="col-md">
-            <div class="countBox">
-              <div class="figure"><span class="figureNum"data-count="25">0</span> <small>%</small></div>
-              <div class="text">Reduction in quality defects</div>
-            </div>
-          </div>
-        </div>
-       </div>
-    </div>
+    <!------------------------Countdown start --------------------->
+    <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->
+
     <!------------------------Automated slide start --------------------->
-            <?php 
-                include 'change_we_bring.php';
-                ?>
+    <?php include 'change_we_bring.php';?>
     <!------------------------Automated slide end --------------------->
 
      <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="white-box-shadow">
-          <div class="centerTitle">
-           <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div>
-          </div>
-          
-          <div class="centerPharseContent text-p">
-            We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
-          </div>
-        </div>
-      </div>
-    </div>
-    <!------------------------ tvarit end ----------------------->
+     <?php include 'tvarit_the_team.php';?>
+     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
     <?php 
