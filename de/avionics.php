@@ -16,7 +16,7 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Avionics</title>
+        <title>LUFTFAHRTSTECHNIK</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -33,7 +33,11 @@
         <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
-        
+        <style>
+        .text-big60 {
+          font-size: 45px;
+        }
+        </style>
 </head>
 
     <body>
@@ -239,8 +243,8 @@
 
 
 
-    <!------------------------ header start ------------------------->
-    <header class="headerBg avionicsBg">
+     <!------------------------ header start ------------------------->
+     <header class="headerBg avionicsBg">
       <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
@@ -250,11 +254,12 @@
                 APA in
               </div>
               <div class="text-big60">
-                Avionics
+              LUFTFAHRTSTECHNIK
               </div>
               <br>
               <p class="text-p">
-                 Target marketing, risk management, load forecasting, flight safety, predictive maintenance. We want you to Keep flying high.
+              Zielgerichtetes Marketing, Risikomanagement, Lastprognosen, Flugsicherheit, vorausschauende 
+Instandhaltung. Wir wollen, dass du weiter in der Luft bleibst.
               </p>
               <br>
 
@@ -280,11 +285,20 @@
             <div class="col-md">
             <div class="px-4 box-content-left" >
               <div class="title">
-               <span class="text-big60 red fw-900">Avionics</span>
+               <span class="text-big60 red fw-900">Avionik</span>
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-                <p class="text-p">The aviation industry has never been a passive player. With the glamor of predictive analytics, avionics has taken great benefits from it. Be it target marketing, risk management, load forecasting, flight safety, everything has been covered under it. By predictive analytics of the collected data set, airlines can offer its travelers the best rates and experiences possible and allow them to offer personalized offers to customers based on their behavior patterns. The development of an effective and holistic forecasting model to regularly assess the impact of options and alternatives such as increasing aircraft seats available, adjusting fares, introducing new routes etc. can be done for comparison against budgets and prior year performance. Also, predictive maintenance and security can be employed to be alerted prior to the damage. </p>
+                <p class="text-p">Die Luftfahrtindustrie war noch nie ein passiver Akteur. Mit dem Glanz der prädiktiven Analytik hat die Avionik 
+große Vorteile daraus gezogen. Ob Zielmarketing, Risikomanagement, Lastprognose, Flugsicherheit, alles ist
+ abgedeckt. Durch die Predictive Analytics des gesammelten Datensatzes können die Fluggesellschaften 
+ihren Reisenden die bestmöglichen Tarife und Erlebnisse bieten und es ihnen ermöglichen, den Kunden 
+personalisierte Angebote auf der Grundlage ihres Verhaltensmusters anzubieten. Die Entwicklung eines 
+effektiven und ganzheitlichen Prognosemodells zur regelmäßigen Bewertung der Auswirkungen von 
+Optionen und Alternativen, wie z.B. Erhöhung der verfügbaren Flugzeugsitze, Anpassung der Flugpreise, 
+Einführung neuer Strecken usw., kann zum Vergleich mit den Budgets und der Vorjahresleistung 
+durchgeführt werden. Außerdem kann eine vorausschauende Wartung und Sicherheit eingesetzt werden, 
+um vor dem Schaden alarmiert zu werden. </p>
               </div>
             </div>
           </div>

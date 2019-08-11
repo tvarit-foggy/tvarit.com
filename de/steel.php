@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Steel</title>
+        <title>STAHL</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -239,8 +239,8 @@ gtag('config', 'UA-143837547-1');
 
 
 
-    <!------------------------ header start ------------------------->
-    <header class="headerBg steelBg">
+     <!------------------------ header start ------------------------->
+     <header class="headerBg steelBg">
       <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
@@ -250,11 +250,12 @@ gtag('config', 'UA-143837547-1');
                 APA in
               </div>
               <div class="text-big60">
-                Steel
+              STAHL
               </div>
               <br>
               <p class="text-p">
-                 Predictive maintenance, capital investment decisions, customer insights. We know you like to stand strong.
+              Predictive Maintenance, Investitionsentscheidungen, Customer Insights. Wir wissen, dass du gerne stark 
+bleibst.
               </p>
               <br>
 
@@ -280,11 +281,20 @@ gtag('config', 'UA-143837547-1');
             <div class="col-md">
            <div class="px-4 box-content-left" >
               <div class="title">
-               <span class="text-big60 red fw-900">Steel</span>
+               <span class="text-big60 red fw-900">STAHL</span>
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-                <p class="text-p">The steel industry has always aimed to stand tough and strong. When it came to the use of predictive analytics in doing so, they've never been passive towards it. Predictive analytics offers predictive maintenance, capital investment decisions, customer insights and a lot more. With the help of it, a precise amount of components can be easily added in the raw material during production to increase quality and cut the losses. Also, predictive maintenance can notify the operations manager beforehand about when the machinery will need repair and under what circumstances to minimize the chances of damage, decrease downtime and hence increase efficiency, productivity, and profit. No wonder why the steel industry is keen on the use of analytics and manufacturers are calling it a sharp deal.</p>
+                <p class="text-p">Die Stahlindustrie hat es sich immer zum Ziel gesetzt, standhaft und stark zu bleiben. Wenn es um den 
+Einsatz von Predictive Analytics dabei ging, waren sie nie passiv gegenüber dieser Thematik. Predictive 
+Analytics bietet Predictive Maintenance, Investitionsentscheidungen, Customer Insights und vieles mehr. 
+Mit seiner Hilfe kann dem Rohmaterial während der Produktion leicht eine bestimmte Menge an 
+Komponenten zugegeben werden, um die Qualität zu erhöhen und die Verluste zu reduzieren. Außerdem 
+kann Predictive Maintenance den Betriebsleiter im Voraus darüber informieren, wann die Maschinen 
+repariert werden müssen und unter welchen Umständen, um die Wahrscheinlichkeit von Schäden zu 
+minimieren, Ausfallzeiten zu verringern und damit Effizienz, Produktivität und Gewinn zu steigern. Kein 
+Wunder, dass die Stahlindustrie auf den Einsatz von Analytik setzt und die Hersteller es als einen scharfen 
+Deal bezeichnen.</p>
               </div>
             </div>
           </div>
@@ -296,6 +306,7 @@ gtag('config', 'UA-143837547-1');
       </div>
     </div>
     <!------------------------ Automotives end --------------------->
+
 
     <!------------------------ Automotives start --------------------->
     <div class="section-padding-both">

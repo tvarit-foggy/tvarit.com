@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Industrial Machinery</title>
+        <title>INDUSTRIEMASCHINEN</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -239,8 +239,8 @@ gtag('config', 'UA-143837547-1');
 
 
 
-    <!------------------------ header start ------------------------->
-    <header class="headerBg industryBg">
+   <!------------------------ header start ------------------------->
+   <header class="headerBg industryBg">
       <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
@@ -250,11 +250,11 @@ gtag('config', 'UA-143837547-1');
                 APA in
               </div>
               <div class="text-big60">
-                Industrial Machinery
+              INDUSTRIE MASCHINEN
               </div>
               <br>
               <p class="text-p">
-                Knowledge is power. Understand your machines to boom your business.
+              Wissen ist Macht. Verstehen Sie Ihre Maschinen, um Ihr Unternehmen zu stärken.
               </p>
               <br>
 
@@ -284,7 +284,16 @@ gtag('config', 'UA-143837547-1');
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-                <p class="text-p">Predictive analytics the wizarding potion of IoT, cloud, and analytic technology to monitor machine conditions is certainly a trick not to be missed. When certain conditions match up to part or machine failures, the analytics use that data to predict future failures. This leads to the knowledge of circumstances under which more damage can be done and enables the manufacturer to make a repair with minimal downtime for the assembly line. The best part is once a data is created, it can be prototyped for future developments and new innovations. Also, upgradation of old machinery can be done to improve quality. Not to mention, huge losses can be prevented and operational cost can be minimized. This is why there has been a surge in the number of companies using it to be competitively on the grid.</p>
+                <p class="text-p">Die Predictive Analytik, der Zaubertrank der IoT-, Cloud- und Analyse-Technologie zur Überwachung von 
+Maschinenzuständen, ist sicherlich ein nicht zu verpassender Stich. Wenn bestimmte Bedingungen bis hin 
+zu Bauteil- oder Maschinenausfällen erfüllt sind, verwendet die Analytik diese Daten, um zukünftige Ausfälle
+vorherzusagen. Dies führt zur Kenntnis der Umstände, unter denen mehr Schaden entstehen kann und
+ermöglicht es dem Hersteller, eine Reparatur mit minimalen Ausfallzeiten für das Fließband durchzuführen. 
+Das Beste daran ist, dass nach der Erstellung der Daten diese für zukünftige Entwicklungen und neue 
+Innovationen prototypisch aufbereitet werden können. Auch die Modernisierung alter Maschinen kann zur 
+Qualitätsverbesserung durchgeführt werden. Ganz zu schweigen davon, dass große Verluste vermieden 
+und Betriebskosten minimiert werden können. Deshalb ist die Zahl der Unternehmen, die es nutzen, um 
+wettbewerbsfähig am Netz zu sein, stark gestiegen.</p>
               </div>
             </div>
           </div>

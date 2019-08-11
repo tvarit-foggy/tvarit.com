@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Pharmaceuticals</title>
+        <title>PHARMAZEUTIKA</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -238,8 +238,8 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ main menu end ------------------------>
 
 
-    <!------------------------ header start ------------------------->
-    <header class="headerBg pharmaBg">
+      <!------------------------ header start ------------------------->
+      <header class="headerBg pharmaBg">
       <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
@@ -249,11 +249,11 @@ gtag('config', 'UA-143837547-1');
                 APA in
               </div>
               <div class="text-big60">
-                Pharmaceuticals
+              PHARMAZEUTIKA
               </div>
               <br>
               <p class="text-p">
-                 Attend and understand your patient better. Revolutionize with us now.
+              Betreuen und verstehen Sie Ihren Patienten besser. Revolutionieren Sie jetzt mit uns.
               </p>
               <br>
 
@@ -279,11 +279,19 @@ gtag('config', 'UA-143837547-1');
             <div class="col-md">
            <div class="px-4 box-content-left" >
               <div class="title">
-               <span class="text-big60 red fw-900">Pharmaceuticals</span>
+               <span class="text-big60 red fw-900">PHARMAZEUTIKA</span>
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-                <p class="text-p">The pharmaceutical industry has always been upbeat about predictive analytics. When it comes to how, they’ve set a straightforward model. They use predictive analytics to create a data set which tells whether the patients are going to respond affirmative or negative to the treatment. Also, they can actually prevent things happening by using sensor data to spot the biomarker and predict the trends and symptoms. Pharmaceutical companies will be able to gauge how well they’re doing in comparison to other companies, competitively & scientifically. And adding it all up, there is always scope to shine up the R&D. This explains why pharma companies have always been high pulsed towards APA.</p>
+                <p class="text-p">Die Pharmaindustrie ist seit jeher optimistisch, wenn es um Predictive Analytics geht. Wenn es darum geht, 
+wie, haben sie ein unkompliziertes Modell entwickelt. Sie verwenden Predictive Analytics, um einen 
+Datensatz zu erstellen, der sagt, ob die Patienten positiv oder negativ auf die Behandlung ansprechen 
+werden. Außerdem können sie tatsächlich verhindern, dass etwas passiert, indem sie Sensordaten 
+verwenden, um den Biomarker zu erkennen und die Trends und Symptome vorherzusagen. 
+Pharmaunternehmen werden in der Lage sein, zu beurteilen, wie gut sie im Vergleich zu anderen 
+Unternehmen abschneiden, sowohl wettbewerbsfähig als auch wissenschaftlich. Zusammenfassend lässt 
+sich sagen, dass es immer Raum gibt, die F&E zu bereichern. Dies erklärt, warum Pharmaunternehmen 
+schon immer sehr aufmerksam auf die APA reagiert haben.</p>
               </div>
             </div>
           </div>

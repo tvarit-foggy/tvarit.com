@@ -17,7 +17,7 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Automotive</title>
+        <title>AUTOMOBIL</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -251,11 +251,12 @@
                 APA in
               </div>
               <div class="text-big60">
-                Automotive
+              AUTOMOBIL
               </div>
               <br>
               <p class="text-p">
-                 Predictive Maintenance, Connected Car Cyber Security, Auto Marketing, and Predictive Collision Avoidance. We’ve got you covered.
+              Predictive Maintenance, Connected Car Cyber Security, Auto Marketing und Predictive Collision Avoidance. 
+Wir haben alles im Blick.
               </p>
               <br>
 
@@ -280,11 +281,15 @@
           <div class="col-md">
            <div class="px-4 box-content-left" >
               <div class="title">
-               <span class="text-big60 red fw-900">Automotives</span>
+               <span class="text-big60 red fw-900">Automobiles</span>
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-                <p class="text-p">When it comes to the automotive industry, they certainly have a thing for sci-fi movies. Considering its tech love, the automotive industry has indulged into predictive analytics for- Predictive Maintenance, Connected Car Cyber Security, Auto Marketing, and Predictive Collision Avoidance. Predictive maintenance just as it sounds, notifies when and under what circumstances is the automobile going to require maintenance. </p>
+                <p class="text-p">Wenn es um die Automobilindustrie geht, haben die Leute sicherlich eine Faible für Sci-Fi-Filme. In 
+Anbetracht seiner technologischen Liebe hat sich die Automobilindustrie der Predictive Analytics 
+verschrieben - Predictive Maintenance, Connected Car Cyber Security, Auto Marketing und Predictive 
+Collision Avoidance. Die Predictive Maintenance benachrichtigt, wann und unter welchen Umständen das 
+Fahrzeug gewartet werden muss.</p>
               </div>
             </div>
           </div>

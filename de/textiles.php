@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Textiles</title>
+        <title>TEXTIL</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -238,8 +238,8 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ main menu end ------------------------>
 
 
-    <!------------------------ header start ------------------------->
-    <header class="headerBg textilesBg">
+   <!------------------------ header start ------------------------->
+   <header class="headerBg textilesBg">
       <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
@@ -249,11 +249,12 @@ gtag('config', 'UA-143837547-1');
                 APA in
               </div>
               <div class="text-big60">
-                Textile
+              TEXTIL
               </div>
               <br>
               <p class="text-p">
-                 Maximize overall equipment effectiveness, reduce downtimes & wastage, get a complete asset performance management. We help you stay trendy.
+              Maximieren Sie die Effektivität Ihrer gesamten Anlagen, reduzieren Sie Ausfallzeiten und Verluste und 
+erhalten Sie ein komplettes Asset Performance Management. Wir helfen Ihnen, im Trend zu bleiben.
               </p>
               <br>
 
@@ -279,11 +280,19 @@ gtag('config', 'UA-143837547-1');
             <div class="col-md">
            <div class="px-4 box-content-left" >
               <div class="title">
-               <span class="text-big60 red fw-900">Textile</span>
+               <span class="text-big60 red fw-900">TEXTIL</span>
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-                <p class="text-p">Clothing and fashion already demand a lot of attention making the manufacturing deserve a sigh of relief. Aiming to do so, textile industries are favoring the use of predictive analytics for predictive maintenance. It aims to maximize overall equipment effectiveness, reduce downtimes and wastage and provide factories with a complete asset performance management. It has the ability to track machine performance and anticipate failures before they occur and smarten up the factory. Considering how much work the textile industry does to stay on the grid, one single failure can rip the operations and management apart. Needless to say, that is why the textile industry is fabricating tech solutions to brighten its color and maintain the edge. </p>
+                <p class="text-p">Kleidung und Mode erfordern bereits viel Aufmerksamkeit, so dass die Herstellung einen Aufatmen verdient. 
+Um dies zu erreichen, favorisiert die Textilindustrie den Einsatz von predictive analytics für die Predictive 
+Maintenance. Ziel ist es, die Effektivität der gesamten Anlagen zu maximieren, Ausfallzeiten und Verluste zu 
+reduzieren und den Fabriken ein komplettes Asset Performance Management zu bieten. Es ist in der Lage, 
+die Maschinenleistung zu verfolgen und Ausfälle zu erkennen, bevor sie auftreten, und die Fabrik zu 
+verschönern. Wenn man bedenkt, wie viel Arbeit die Textilindustrie leistet, um am Netz zu bleiben, kann ein 
+einziger Ausfall die Betriebsabläufe und das Management zerlegen. Es ist selbstverständlich, dass die 
+Textilindustrie deshalb technische Vorkehrungen trifft, um ihre Farbe aufzuhellen und den Vorsprung zu 
+erhalten.</p>
               </div>
             </div>
           </div>

@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Oil & Gas</title>
+        <title>ÖL & GAS</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -250,11 +250,12 @@ gtag('config', 'UA-143837547-1');
                 APA in
               </div>
               <div class="text-big60">
-                Oil & Gas
+              ÖL & GAS
               </div>
               <br>
               <p class="text-p">
-                 Track historical operations, compare it to the real-time operational data & detect even the precise changes in equipment behavior.
+              Verfolgen Sie die vergangenen Vorgänge, vergleichen Sie sie mit den Echtzeit-Betriebsdaten und erkennen 
+Sie selbst die genauen Veränderungen im Anlagenverhalten.
               </p>
               <br>
 
@@ -280,11 +281,18 @@ gtag('config', 'UA-143837547-1');
             <div class="col-md">
            <div class="px-4 box-content-left" >
               <div class="title">
-               <span class="text-big60 red fw-900">Oil & Gas</span>
+               <span class="text-big60 red fw-900">ÖL & GAS</span>
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-                <p class="text-p">According to a report in 2017, a typical offshore platform runs at about 77% of its maximum production potential. To fix the offsets, the Oil & Gas industry has decided to set its foot in predictive analysis namely- predictive maintenance, predicting supply & demand, and streamlining routine processes. Predictive Analytics along with Predictive Maintenance helps track historical operations of each asset and compares it to the real-time operational data to detect even the precise changes in equipment behavior. Together, this helps the plant to be proactive and reduce unscheduled downtime.  Altogether, this can help them be extravagantly efficient and reduce the operational cost.</p>
+                <p class="text-p">Laut einem Bericht aus dem Jahr 2017 liegt eine typische Offshore-Plattform bei etwa 77% ihres 
+Produktionspotenzials. Um die Offsets zu beheben, hat sich die Öl- und Gasindustrie entschlossen, ihren 
+Fuß in die prädiktive Analyse zu setzen, namentlich in die prädiktive Instandhaltung, die Vorhersage von 
+Angebot und Nachfrage und die Rationalisierung von Routineprozessen. Predictive Analytics zusammen mit
+Predictive Maintenance hilft bei der Verfolgung historischer Vorgänge jeder Anlage und vergleicht sie mit den 
+Echtzeit-Betriebsdaten, um selbst die genauen Veränderungen im Anlagenverhalten zu erkennen. 
+Zusammengenommen hilft dies der Anlage, proaktiv zu sein und ungeplante Ausfallzeiten zu reduzieren. 
+Insgesamt kann dies dazu beitragen, dass sie extravagant effizient sind und die Betriebskosten senken.</p>
               </div>
             </div>
           </div>
