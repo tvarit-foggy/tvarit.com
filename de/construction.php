@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Construction</title>
+        <title>Bauwesen</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -238,8 +238,8 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ main menu end ------------------------>
 
 
-    <!------------------------ header start ------------------------->
-    <header class="headerBg constructionBg">
+   <!------------------------ header start ------------------------->
+   <header class="headerBg constructionBg">
       <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
@@ -249,11 +249,12 @@ gtag('config', 'UA-143837547-1');
                 APA in
               </div>
               <div class="text-big60">
-                Construction
+              Bauwesen
               </div>
               <br>
               <p class="text-p">
-                 One miscalculation hurts? Managing finance, maintenance, predicting workload, cutting costs, increasing efficiency, we’re here.
+            Eine Fehleinschätzung tut weh? Ob es um das Management von Finanzen, Wartung, Arbeitsauslastung, 
+oder um Kostensenkung und Effizienzsteigerung geht, wir sind für Sie da.
               </p>
               <br>
 
@@ -279,11 +280,21 @@ gtag('config', 'UA-143837547-1');
             <div class="col-md">
            <div class="px-4 box-content-left" >
               <div class="title">
-               <span class="text-big60 red fw-900">Construction</span>
+               <span class="text-big60 red fw-900">Bauwesen</span>
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-                <p class="text-p">In construction, even the slightest slip-up or miscalculation can lead to millions of dollars lost or not finishing a project on time. Using predictive analysis, jobs can be completed more efficiently and on time. Also, with no haphazard trends and problems that may occur can be identified with it. It’s so vital to keep upright records of purchase orders and that too in precise quantity. Analytics can also help with your supply chain and where to place your materials at any point in time. Predictive analytics can assist your yearly budget, accurately determine the weather and climate. As the construction industry can be seasonal, this will help mark the busy seasons as well as the grim ones. Managing finance, managing maintenance, predicting workload, cutting costs, managing materials, increasing efficiency, sounds so amazing to ignore, hence steeping the inclination towards predictive analytics.</p>
+                <p class="text-p">"Im Baugewerbe kann schon der kleinste Fehler oder die kleinste Fehleinschätzung zu Millionen von Euros 
+führen, die verloren gehen oder ein Projekt nicht rechtzeitig abschließen. Mit Hilfe der Predictive Analysis 
+können Aufträge effizienter und pünktlicher erledigt werden. Auch zufällige Trends und Probleme, die 
+auftreten können, können damit identifiziert werden. Es ist unerlässlich, die Bestellungen aufrechtzuerhalten
+und auch die Menge genau zu erfassen. Die Analytik kann auch bei Ihrer Lieferkette helfen und wo Sie Ihre
+Materialien zu einem beliebigen Zeitpunkt platzieren können. Predictive Analytics kann Ihr Jahresbudget 
+unterstützen und das Wetter und Klima genau bestimmen. Da die Bauwirtschaft saisonal sein kann, wird 
+dies dazu beitragen, sowohl die Haupt- als auch die Nebensaison zu markieren. Das Verwalten von 
+Finanzen, das Verwalten von Wartungsarbeiten, das Voraussagen des Arbeitsaufwands, das Reduzieren 
+von Kosten, das Verwalten von Materialien, das Steigern der Effizienz, klingt zu erstaunlich, um es 
+ignorieren zu können, was die Neugierde auf Predictive Analytics steigert."</p>
               </div>
             </div>
           </div>
