@@ -238,6 +238,7 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ main menu end ------------------------>
 
 
+   
     <!------------------------ header start ------------------------->
     <header class="headerBg consultingBg">
       <div class="container">
@@ -252,12 +253,14 @@ gtag('config', 'UA-143837547-1');
               <br>
              <div class="more">
                 <p class="text-p">
-                  Sharing knowledge can seem like a burden to some but on the contrary, it is a reflection of teamwork and Team. With the same belief and fire, we are always eager to assist you in whatever manner possible. Tvarit AI with its team is looking forward to answering all your queries.
+                Der Austausch von Wissen kann für manche wie eine Bürde erscheinen, ist aber im Gegenteil ein Ausdruck 
+von Teamarbeit. Mit dem gleichen Glauben und Feuer sind wir immer bestrebt, Ihnen auf jede erdenkliche 
+Weise zu helfen.  Das Team von Tvarit freut sich darauf, alle Ihre Fragen zu beantworten.
                 </p>
              </div>
               <br>
 
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">30 Tage kostenlos testen</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
             </div>
           </div>
         </div>
@@ -282,7 +285,15 @@ gtag('config', 'UA-143837547-1');
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-               <p class="text-p">Tvarit AI is always eager to help. If you need any guidance in understanding the latest technological requirements and infrastructure along with its impact on your organization, we have multiple resources to assist you. Tvarit AI has a vast experience in developing a variety of large and complex projects using heterogeneous technologies and software development methodologies. Our customized expert consulting services are specifically designed to provide you with all necessary resources be it Expert manpower, technological expertise, Quality services or R&D services to make you meet all the ends without any hassle. We offer a broad range of services to fill any workspace gaps and accomplish a successful software project.</p>
+               <p class="text-p">Tvarit AI ist stets hilfsbereit. Wenn Sie Unterstützung beim Verständnis der neuesten technologischen 
+Anforderungen und Infrastrukturen sowie deren Auswirkungen auf Ihr Unternehmen benötigen, stehen Ihnen 
+mehrere Ressourcen zur Verfügung. Tvarit AI hat langjährige Erfahrung in der Entwicklung von einer Vielzahl 
+von großen und komplexen Projekten unter Verwendung heterogener Technologien und 
+Softwareentwicklungsmethoden. Unsere maßgeschneiderten Beratungsleistungen sind speziell darauf 
+ausgerichtet, Ihnen alle notwendigen Ressourcen zur Verfügung zu stellen, sei es Fachpersonal, 
+technologische Kompetenz, Qualitätsdienstleistungen oder F&E-Dienstleistungen, damit Sie alle 
+Anforderungen ohne Probleme erfüllen können. Wir bieten ein breites Spektrum an Dienstleistungen, um 
+Lücken im Arbeitsbereich zu schließen und ein erfolgreiches Softwareprojekt durchzuführen.</p>
               </div>
             </div>
           </div>
@@ -295,32 +306,37 @@ gtag('config', 'UA-143837547-1');
     <div class="section-padding-both">
         <div class="container">
           <div class="text-md-center text-left">
-            <div class="red text-big60">Our spectrum </div>
-            <h3 class="bold uppr">of consulting services include</h3>
+            <div class="red text-big60">UNSER SPEKTRUM </div>
+            <h3 class="bold uppr">DER BERATUNGSLEISTUNGEN UMFASST</h3>
           </div>
           <br>
           <div class="row">
             <div class="col-md">
                <ul class="ul-list-bullet">
-                <li>End to End Project Management</li>
-                <li>Research & Development Services</li>
-                <li>Technology Advisory Services</li>
-                <li>Software Architecture ( Design and Review of existing one)</li>
-                <li>Quality Services (Code Review, testing, TDD, BDD)</li>
-                <li>Agile software development principles and practices</li>
-                <li>On-site & Remote software consultancy</li>
+                <li>End-to-End-Projektmanagement</li>
+                <li>Forschungs- und Entwicklungsdienstleistungen</li>
+                <li>Technologieberatung</li>
+                <li>Software-Architektur (Design und Bewertung)</li>
+                <li>Qualitätsdienstleistungen (Code Review, Test, TDD, BDD)</li>
+                <li>Agile Prinzipien und Praktiken der Softwareentwicklung</li>
+                <li>Vor-Ort- und Remote-Softwareberatung</li>
               </ul>
             </div>
             <div class="col-md">
               <div class="white-box-shadow left-border">
                 <p class="text-p">
-                  We strongly believe that to make a project successful, it is extremely crucial to have a competent, expert & trustable partner. Therefore, we are ready to follow your development methodologies, protocols, work-flows, and tools whenever required. For further queries, please contact us stating your requirements, we assure to provide our expert's views of your requirements as a complimentary service.
+                Wir sind der festen Überzeugung, dass es für den Erfolg eines Projekts äußerst wichtig ist, einen 
+kompetenten und vertrauenswürdigen Partner zu haben. Deshalb sind wir bereit, Ihre 
+Entwicklungsmethoden, Protokolle, Workflows und Tools bei Bedarf zu befolgen. Für weitere Fragen 
+kontaktieren Sie uns bitte unter Angabe Ihrer Anforderungen, wir versichern Ihnen, dass wir unsere 
+Expertenmeinungen zu Ihren Anforderungen als kostenlosen Service anbieten.
                 </p>
               </div>
             </div>
           </div>
        </div>
     </div>
+
 
     <!------------------------Countdown start --------------------->
     <?php include 'change_we_brought_stats.php';?>
