@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Seminar & Workshops</title>
+        <title>Seminare und Workshops</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -246,17 +246,19 @@ gtag('config', 'UA-143837547-1');
           <div class="col-md-6">
             <div class="typography">
               <div class="text-big60">
-                Seminar & Workshops
+              Seminare und Workshops
               </div>
               <br>
              <div class="more">
                 <p class="text-p">
-                  Sharing knowledge can seem like a burden to some but on the contrary, it is a reflection of teamwork and Team. With the same belief and fire, we are always eager to assist you in whatever manner possible. Tvarit AI with its team is looking forward to answering all your queries.
+                Der Austausch von Wissen kann für manche wie eine Bürde erscheinen, ist aber im Gegenteil ein Ausdruck 
+von Teamarbeit. Mit dem gleichen Glauben und Feuer sind wir immer bestrebt, Ihnen auf jede erdenkliche 
+Weise zu helfen.  Das Team von Tvarit freut sich darauf, alle Ihre Fragen zu beantworten.
                 </p>
              </div>
               <br>
 
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">30 Tage kostenlos testen</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
             </div>
           </div>
         </div>
@@ -268,33 +270,34 @@ gtag('config', 'UA-143837547-1');
     <div class="section-padding" id="downClick">
         <div class="container">
           <div class="text-left text-md-center">
-            <div class="red text-big60">SEMINARS & WORKSHOPS</div>
-            <p class="bold uppr w-75 w-md-50 m-md-auto">We hold a plethora of seminars both for those interested in technical and non-technical fields.A few of them are</p>
+            <div class="red text-big60">Seminare und Workshops</div>
+            <p class="bold uppr w-75 w-md-50 m-md-auto">WIR VERANSTALTEN EINE VIELZAHL VON SEMINAREN SOWOHL FÜR INTERESSENTEN AUS DEM
+TECHNISCHEN ALS AUCH DEM NICHT-TECHNISCHEN BEREICH. EINIGE DAVON SIND</p>
           </div>
           <br>
           <div class="row">
             <div class="col-md">
 
-              <h4 class="red">Non-Technical Seminars</h4>
+              <h4 class="red">Nicht-technische Seminare</h4>
               <br>
               <ul class="ul-list-bullet">
-                <li>Adoption of Artificial Intelligence (AI) in the Manufacturing Industry</li>
-                <li>AI vs Globalization: How would AI not replace humans but will assist</li>
-                <li>Role of AI in Industry 4.0</li>
-                <li>Use cases of AI in Manufacturing </li>
-                <li>How AI fits into the value chain of Industry 4.0 </li>
-                <li>On-site & Remote software consultancy</li>
+                <li>Einsatz der Künstlichen Intelligenz (KI) in der Fertigungsindustrie</li>
+                <li>KI vs. Globalisierung: Wie würde die KI den Menschen nicht ersetzen, sondern ihm helfen?</li>
+                <li>Rolle der KI in der Industrie 4.0</li>
+                <li>Anwendungsfälle der KI in der Fertigung</li>
+                <li>Wie KI in die Wertschöpfungskette von Industrie 4.0 passt</li>
+                <li>Vor-Ort- und Remote-Softwareberatung</li>
               </ul>
             </div>
             <div class="col-md">
               <div class="white-box-shadow left-md-border top-border">
-                <h4 class="red">Technical Seminars</h4>
+                <h4 class="red">Technische Seminare</h4>
                 <br>
                 <ul class="ul-list-bullet black-bullet">
-                  <li>Achieving AI via Machine Learning (ML)</li>
-                  <li>Ways of formulating ML problems in the context of Manufacturing</li>
-                  <li>Kinds of data coming from Manufacturing plants</li>
-                  <li>ML Algorithms for tabular, text, audio, image data</li>
+                  <li>Erreichen der KI mittels Machine Learning (ML)</li>
+                  <li>Wege zur Formulierung von ML-Problemen im Rahmen der Fertigung</li>
+                  <li>Arten von Daten, die von Produktionsstätten stammen.</li>
+                  <li>ML Algorithmen für Tabellen-, Text-, Audio- und Bilddaten</li>
                 </ul>
               </div>
             </div>
@@ -307,53 +310,53 @@ gtag('config', 'UA-143837547-1');
             <div class="row justify-content-between">
 
               <div class="col-md-4 flex-center">
-                <div class="red text-big40">Also, we hold multiple workshops.<br><div class="short-line bg-grey"></div></div>
+                <div class="red text-big40">AUßERDEM FÜHREN WIR MEHRERE WORKSHOPS DURCH.<br><div class="short-line bg-grey"></div></div>
 
               </div>
               <div class="col-md-4 white-box-shadow">
-                <h4 class="bold">Machine Learning Applied</h4>
+                <h4 class="bold">Angewandtes Machine-Learning</h4>
                 <br>
                 <ul class="ul-list">
-                  <li>Why does pre-processing matter? - Building ETL pipeline</li>
-                  <li>Tree based algorithms</li>
-                  <li>Neural Networks for text data, time series data, images, video processing</li>
+                  <li>Warum ist die Vorverarbeitung wichtig? - Bau einer ETL-Pipeline</li>
+                  <li>Baum-basierte Algorithmen</li>
+                  <li>Neuronale Netze für Textdaten, Zeitreihendaten, Bilder, Videobearbeitung</li>
                 </ul>
               </div>
 
               <div class="col-md-4 white-box-shadow">
-                <h4 class="bold">Machine Learning Research</h4>
+                <h4 class="bold">Forschung zum Machine Learning</h4>
                 <br>
                 <ul class="ul-list">
-                  <li>Reducing hyperparameter tuning time</li>
-                  <li>Utilizing Transfer Learning for scaling up</li>
+                  <li>Verkürzung der Abstimmzeit für Hyperparameter</li>
+                  <li>Nutzung von Transfer Learning zur Vergrößerung der Skalierbarkeit</li>
                 </ul>
               </div>
 
               <div class="col-md-4 white-box-shadow">
-                <h4 class="bold">Integration with PaaS</h4>
+                <h4 class="bold">Integration mit PaaS</h4>
                 <br>
                 <ul class="ul-list">
-                  <li>Building a machine learning pipeline using AWS Sagemaker</li>
-                  <li>Predictive Analytics using Microsoft Azure ML PaaS</li>
+                  <li>Aufbau einer maschinellen Lernpipeline mit AWS Sagemaker</li>
+                  <li>Predictive Analytics mit Microsoft Azure ML PaaS</li>
                 </ul>
               </div>
 
               <div class="col-md-4 white-box-shadow">
-                <h4 class="bold">Chatbots and Automated Ticket Responding System</h4>
+                <h4 class="bold">Chatbots und automatisiertes Ticket-Reaktionssystem</h4>
                 <br>
                 <ul class="ul-list">
-                  <li>Auto responding using computational narrative intelligence: Chatbots</li>
-                  <li>Tree based algorithms</li>
-                  <li>Neural Networks for text data, time series data, images, video processing</li>
+                  <li>Automatische Reaktion mit computergestützter narrativer Intelligenz: Chatbots</li>
+                  <li>Baum-basierte Algorithmen</li>
+                  <li>Neuronale Netze für Textdaten, Zeitreihendaten, Bilder, Videobearbeitung</li>
                 </ul>
               </div>
 
               <div class="col-md-4 white-box-shadow">
-                <h4 class="bold">Big Data</h4>
+                <h4 class="bold">Große Daten</h4>
                 <br>
                 <ul class="ul-list">
-                  <li>Migrating big data into Hadoop</li>
-                  <li>Running distributed pipeline using Spark</li>
+                  <li>Migration großer Datenmengen nach Hadoop</li>
+                  <li>Betreiben einer verteilten Pipeline mit Spark</li>
                 </ul>
               </div>
 
@@ -368,10 +371,11 @@ gtag('config', 'UA-143837547-1');
         <div class="row">
            <div class="col-md-4">
             <div class="leftSideFilter checkbox-filter white-box-shadow cstmInput">             
-            <div class="red text-big40" style="font-size:25px;">Talk-cum-Workshop<br><div class="short-line bg-grey"></div>
+            <div class="red text-big40" style="font-size:25px;">GESPRÄCHS-WORKSHOP<br><div class="short-line bg-grey"></div>
             </div>
             <p>
-            Frankfurt Indian Scholars Association(FISA) organised a Talk-cum-Workshop in coordination with Consulate General of India (CGI) in Frankfurt. 
+            Die Frankfurt Indian Scholars Association (FISA) organisierte in Abstimmung mit dem Generalkonsulat 
+Indiens (CGI) in Frankfurt einen Gesprächs-Workshop.
             </p>
             </div>
           </div>
@@ -443,7 +447,6 @@ gtag('config', 'UA-143837547-1');
       </div>
     </div>
     <!---------------------Seminar Event End ------------------->
-
     <!------------------------Countdown start --------------------->
     <?php include 'change_we_brought_stats.php';?>
     <!------------------------Countdown end --------------------->

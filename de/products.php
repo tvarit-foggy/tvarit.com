@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Product</title>
+        <title>Produkt</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -239,6 +239,7 @@ gtag('config', 'UA-143837547-1');
 
 
 
+    
     <!------------------------ header start ------------------------->
     <header class="headerBg productsBg">
       <div class="container">
@@ -250,17 +251,19 @@ gtag('config', 'UA-143837547-1');
                 <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>
               </div>
               <div class="text-big60">
-                Product
+              Produkt
               </div>
               <br>
              <div class="more">
                 <p class="text-p">
-                 The value is in what gets used, not what gets built. Therefore Tvarit AI dedicatedly strives to build wonderful and useful products to solve your industrial problems and make your life simpler and upgraded.
+                Der Wert liegt in dem, was genutzt wird, nicht in dem, was gebaut wird. Deshalb ist Tvarit KI bestrebt, 
+                  wunderbare und nützliche Produkte zu entwickeln, um Ihre industriellen Probleme zu lösen und Ihr 
+                  Leben einfacher und besser zu machen.
                 </p>
              </div>
               <br>
 
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">30 Tage kostenlos testen</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
             </div>
           </div>
         </div>
@@ -281,7 +284,9 @@ gtag('config', 'UA-143837547-1');
               <div class="short-line mx-auto bg-red"></div>
               <div class="imgW-more">
                 <p class="text-p">
-                With the assimilation of digital and human world, the future beholds a manufacturing metamorphosis. Preparing and contributing for the revolution, Tvarit AI extends it's services in APA to offer the following:</p>
+                Mit der Assimilation der digitalen und menschlichen Welt ist eine Industriemetamorphose unerlässlich. 
+Mit der Vorbereitung und dem Beitrag zur Veränderung erweitert TvaritAI seine Dienstleistungen in der APA 
+um folgende Dienstleistungen</p>
               </div>
           </div>
       </div>
@@ -301,7 +306,10 @@ gtag('config', 'UA-143837547-1');
               <div class="short-line bg-grey"></div>
               <div class="more">
                 <p class="text-p">
-                  MapReduce technologies are savior when it comes to handling legacy databases. For instance, many of our manufacturing customers have been using SQL based databases for years now and it has become really difficult for them to move to new data analytics compatible databases. Using our APA’s ETL component, customers can get their migration done within a matter of few days.
+                MapReduce-Technologien sind der Retter im Umgang mit Legacy-Datenbanken. Zum Beispiel verwenden 
+viele unserer Fertigungskunden seit Jahren SQL-basierte Datenbanken und es ist für sie wirklich schwierig 
+geworden, auf neue, mit Datenanalyse kompatible Datenbanken umzusteigen. Mit der ETL-Komponente 
+unserer APA können Kunden ihre Migration innerhalb weniger Tage durchführen.
                 </p>
               </div>
             </div>
@@ -316,7 +324,12 @@ gtag('config', 'UA-143837547-1');
 
               <div class="more">
                 <p class="text-p">
-                  92% of the organizations face the data cleansing related problems as per a BCG report, attributed to various reasons such as hardware interfacing bugs, databases migration issues etc. We utilize techniques like mahalanobis distances, similarity learning, bregman divergences, limit based clustering etc to separate out sane data and buggy data. Further, with the help of anomaly detection, we identify the outliers in the data which may be seen as buggy data.
+                "Gemäß einem Bericht der BCG stehen 92% der Unternehmen vor Problemen im Zusammenhang mit der
+Datenbereinigung gemäß einem BCG-Bericht, der auf verschiedene Gründe zurückgeführt wird, wie z.B. 
+Hardware-Schnittstellenfehler, Probleme bei der Migration von Datenbanken usw. Wir verwenden Techniken 
+wie Mahalanobis-Distanzen, Ähnlichkeitslernen, Bregman-Divergenzen, limitbasiertes Clustering etc. zur 
+Trennung von gesunden Daten und fehlerhaften Daten.  Darüber hinaus identifizieren wir mit Hilfe der
+Anomalieerkennung die Ausreißer in den Daten, die als fehlerhafte Daten angesehen werden können."
                 </p>
               </div>
             </div>
@@ -331,7 +344,11 @@ gtag('config', 'UA-143837547-1');
 
               <div class="more">
                 <p class="text-p">
-                  Huge amount of predictions may be very difficult for engineers to analyze or it may consume huge amount of time of CXOs. APA’s AAG component can ingest any number of rules related to machines failures, products’ quality assurance, supply chain, inventory shortages etc. It can be easily configured by you, once configured it can send you the alerts and notifications on favorite chatting application, to your phone or your inbox.
+                Eine große Anzahl von Vorhersagen kann für Ingenieure sehr schwierig zu analysieren sein, oder es kann 
+eine große Menge an Zeit von CXOs in Anspruch nehmen. Die AAG-Komponente der APA kann eine 
+beliebige Anzahl von Regeln in Bezug auf Maschinenausfälle, Qualitätssicherung der Produkte, Lieferkette, 
+Bestandslücken usw. aufnehmen. Es kann einfach von Ihnen konfiguriert werden, sobald dies getan ist, 
+kann es Ihnen die Benachrichtigungen an Ihr Telefon oder Ihren Posteingang senden.
                 </p>
               </div>
             </div>
@@ -346,7 +363,11 @@ gtag('config', 'UA-143837547-1');
 
               <div class="more">
                 <p class="text-p">
-                  Once our models have crunched highly accurate results, we transform it into business statements and use cases. Our ARG component of APA utilizes Natural Language Processing to figure the most important questions coming from a specific user, analyse it, labels the problem automatically and responds in an interactive storytelling manner. Be it the CXOs or plant heads or the shop floor engineers, ARG has your desired results on its fingertips.
+                Sobald unsere Modelle hochpräzise Ergebnisse erzielt haben, wandeln wir diese in Business Statements und 
+Use Cases um. Unsere ARG-Komponente der APA nutzt Natural Language Processing, um die wichtigsten 
+Fragen eines bestimmten Benutzers zu ermitteln, zu analysieren, das Problem automatisch zu kennzeichnen 
+und interaktiv zu beantworten. Ob CXOs, Werksleiter oder Fertigungsingenieure, ARG hat Ihre gewünschten 
+Ergebnisse auf den Fingerspitzen.
                 </p>
               </div>
             </div>
@@ -462,9 +483,9 @@ machines smarter.</p>
         <div class="row justify-content-center">
           <div class="col-md-8 white-box-shadow flex-center-between">
             <h5 class="red">
-             For more information and demo please contact us
+            Kontaktieren Sie uns gerne für weitere Informationen oder eine Demo
             </h5>
-            <a href="contact" class="btn btn-round btn-red-grd">Kontakt Us</a>
+            <a href="contact" class="btn btn-round btn-red-grd">Kontaktieren SIe uns</a>
           </div>
         </div>
       </div>
