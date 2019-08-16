@@ -283,7 +283,7 @@
     </header>
     <!------------------------ header end --------------------------->
     <!------------------------ Automotives start --------------------->
-    <div class="section-padding-both">
+    <div class="section-padding-both" id="downClick">
         <div class="container">
 
             <div class="centerTitle text-big60">
@@ -762,7 +762,7 @@
     </div>
     <!------------------------ Automotives end --------------------->
     <!------------------------ Automotives start --------------------->
-    <div class="section-padding" id="downClick">
+    <div class="section-padding" >
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
