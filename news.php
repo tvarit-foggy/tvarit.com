@@ -42,7 +42,14 @@
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
-
+<style>
+.news-content {
+    top: 0px;
+}
+.read-more-link:hover {
+    color: blue;
+}
+</style>
 </head>
 
 <body>
@@ -317,25 +324,26 @@
                 </div>-->
 
                 <div class="item">
-                    <a href="javascript://" class="newsBox">
+                    <a href="https://www.iaa.de/" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/logo_zvei.png" class="img-fluid">
+                            <img src="img/partners_img/Logo_IAA.png" class="img-fluid">
                         </div>
                         <div class="news-content">
-                            <div class="text-sub">ZVEI Jahreskongress Berlin</div>
-                            <h4 class="title">Tvarit has been invited to showcase its ‘AI for Manufacturing’ software at
-                                Germany’s biggest electronics association annual conference</h4>
+                            <div class="text-sub">IAA Motorshow</div>
+                            <h4 class="title"> </h4>
                             <div class="post-text">
-                                News Post <span class="date">22-23th May</span>
+                                <span class="date">11-13 September frankfurt</span>
+                                <br><br>
+                                <span class="read-more-link">Read More</span>
                             </div>
                         </div>
                     </a>
                 </div>
 
                 <div class="item">
-                    <a href="javascript://" class="newsBox">
+                    <a href="https://www.ifa-berlin.com/" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/IFA_Logo_2019.png" style="height: 137px;" class="img-fluid">
+                            <img src="img/partners_img/IFA_Logo_2019.png" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">IFA 2019</div>
@@ -345,6 +353,9 @@
                             </h4>
                             <div class="post-text">
                                 <span class="date">6-11 Sept. 2019 Berlin</span>
+                                <br><br>
+                                <span class="read-more-link">Read More</span>
+
                             </div>
                         </div>
                     </a>
@@ -367,7 +378,21 @@
             <br>
 
             <div class="news-carousel past-event owl-carousel owl-theme">
-
+            <div class="item">
+                    <a href="javascript://" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/partners_img/logo_zvei.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">ZVEI Jahreskongress Berlin</div>
+                            <h4 class="title">Tvarit has been invited to showcase its ‘AI for Manufacturing’ software at
+                                Germany’s biggest electronics association annual conference</h4>
+                            <div class="post-text">
+                                 <!-- <span class="date">22-23th May</span> -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
                 <!--<div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
@@ -441,7 +466,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/bauma_logo.jpg" class="img-fluid">
+                            <img src="img/partners_img/bauma_logo.png" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">Bauma Munich</div>
