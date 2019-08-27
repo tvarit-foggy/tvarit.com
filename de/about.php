@@ -466,7 +466,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                 <div class="column">
                     <div class="card row-height-3">
                         <div class="card-view-image">
-                            <img src="img/kushboo.png" alt="Purvesh"
+                            <img src="img/kushboo.jpg" alt="Purvesh"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -609,7 +609,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                 <div class="column">
                     <div class="card row-height-1">
                         <div class="card-view-image">
-                            <img src="img/marvin_circle.png" alt="Marvin"
+                            <img src="img/marvin_circle.jpg" alt="Marvin"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -632,7 +632,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                 <div class="column">
                     <div class="card row-height-1">
                         <div class="card-view-image">
-                            <img src="img/lenoid.jpeg" alt="Leonid"
+                            <img src="img/lenoid.jpg" alt="Leonid"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -679,7 +679,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                 <div class="column">
                     <div class="card row-height-1">
                         <div class="card-view-image">
-                            <img src="img/anirudh_circle.png" alt="Anirudh"
+                            <img src="img/anirudh_circle.jpg" alt="Anirudh"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -704,7 +704,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                 <div class="column">
                     <div class="card row-height-1">
                         <div class="card-view-image">
-                            <img src="img/Johannes.jpeg" alt="Johannes"
+                            <img src="img/Johannes.jpg" alt="Johannes"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -776,7 +776,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
 
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/rahul_circle.png" alt="Rahul" style="width:100%; height:auto;">
+                            <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto;">
                         </div>
                         <div class="container">
 
