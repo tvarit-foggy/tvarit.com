@@ -415,7 +415,7 @@ Wir werden Sie innerhalb von 24 Stunden kontaktieren.
             <br>
             <div class="ctnDetailBox">
               <h4 class="red">Address</h4>
-              <p class="text-p">Gundelandstr. 5,<br> 60435 Frankfurt am Main</p>
+              <p class="text-p">Hanauer Landstraße 521,<br> 60386 Frankfurt am Main<br> Germany</p>
             </div>
 
             <div class="ctnDetailBox">
