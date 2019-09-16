@@ -248,8 +248,8 @@ gtag('config', 'UA-143837547-1');
        
          <p class="text-p">
            Tvarit GmbH<br>
-           Gundelandstr. 5,<br>
-           60435 Frankfurt am Main<br><br>
+           Hanauer Landstraße 521,<br>
+           60386 Frankfurt am Main<br>Germany<br>
            
            Telefon: +49 (0) 69 2731 668 70<br>
            eMail:   info (at) tvarit.com
