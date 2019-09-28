@@ -3,28 +3,44 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-54KB6CV');</script>
-<!-- End Google Tag Manager -->
- <!-- Global site tag (gtag.js) - Google Analytics -->
- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
+    <!-- Google Tag Manager -->
+    <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-54KB6CV');
+    </script>
+    <!-- End Google Tag Manager -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-gtag('config', 'UA-143837547-1');
-</script>
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-143837547-1');
+    </script>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="site" content="tvarit.com"/>
-    <meta name="description" content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation"/>
-    <meta name="keywords" content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop"/>
+    <meta name="site" content="tvarit.com" />
+    <meta name="description"
+        content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
+    <meta name="keywords"
+        content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop" />
     <!-- Favicons -->
     <link rel="icon" href="./img/favicon.png">
     <title>Tvarit AI</title>
@@ -55,14 +71,14 @@ gtag('config', 'UA-143837547-1');
 </head>
 
 <body onload="ReadCookie()">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54KB6CV"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js" ></script>
-<noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
-<script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js" ></script>
-<noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54KB6CV" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
+    <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
+    <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
+    <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
 
     <!------SPLASH SCREEN----->
 
@@ -106,7 +122,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                         Prediction</a>
                                                 </li>
                                                 <li>
-                                                    <a href="use_cases#Predictive_Maintenance" class="sub-Link">Predictive
+                                                    <a href="use_cases#Predictive_Maintenance"
+                                                        class="sub-Link">Predictive
                                                         Maintenance</a>
                                                 </li>
                                                 <li>
@@ -117,7 +134,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                         class="sub-Link">Asset and Inventory Management</a>
                                                 </li>
                                                 <li>
-                                                    <a href="use_cases#Intra-plant_Logistics" class="sub-Link">Intra-plant
+                                                    <a href="use_cases#Intra-plant_Logistics"
+                                                        class="sub-Link">Intra-plant
                                                         Logistics</a>
                                                 </li>
                                             </ul>
@@ -172,10 +190,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         </li>
                                         <li>
                                             <a href="consulting" class="sub-Link">Consulting</a>
-                                        </li>  <li>
+                                        </li>
+                                        <li>
                                             <a href="tti" class="sub-Link">Technology Incubation</a>
                                         </li>
-                                        
+
                                     </ul>
                                 </div>
                             </div>
@@ -619,7 +638,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!------------------------try demo start --------------------->
 
     <!------------------------ Reference start --------------------->
-    
+
     <div class="section-padding-both">
         <div class="container">
             <div class="centerTitle text-big60">
@@ -627,7 +646,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <br>
             <div class="client-carousel">
-               
+            <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/ibm.jpg" class="img-fluid">
+                    </div>
+                </div>
+                <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/mindsphere.jpg" class="img-fluid">
+                    </div>
+                </div>
+            <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/openpower.jpg" class="img-fluid">
+                    </div>
+                </div>
+            <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/microsoft.jpg" class="img-fluid">
+                    </div>
+                </div>
                 <div class="carousel-cell">
                     <div class="picBox">
                         <img src="img/partners_img/tud_logo_web_druck.png" class="img-fluid">
