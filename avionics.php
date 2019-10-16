@@ -107,6 +107,9 @@
                         <li>
                           <a href="news"  class="sub-Link">News</a>
                         </li>
+                        <li>
+                          <a href="survey"  class="sub-Link">Survey</a>
+                        </li>
                       </ul>
                     </div>
                   </div>
