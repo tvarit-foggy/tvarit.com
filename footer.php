@@ -260,7 +260,7 @@ $("#btn").live("click",function(){
             </div>
  
             <div class="copyright text-normal pt-5">
-             &copy;2019 Tvarit GmbH | <a href="./sitemap.xml" target="blank"> Sitemap </a> 
+             &copy;2019 Tvarit GmbH 
             </div>
 
           </div>
