@@ -111,11 +111,11 @@
 <a href="#" class="sub-Link">Survey</a>
                                             <ul class="ul-deep-menu">
                                                 <li>
-                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
+                                                    <a href="../ai_for_manufacturing" class="sub-Link">AI for
                                                         Manufacturing</a>
                                                 </li>
                                                 <li>
-                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
+                                                    <a href="../ai_as_a_product" class="sub-Link">AI as a
                                                         Product </a>
                                                 </li>
                                                 <br><br><br><br><br><br><br>
