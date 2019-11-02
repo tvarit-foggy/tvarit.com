@@ -19,7 +19,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Survey</title>
+        <title>AI as a Product</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -107,9 +107,19 @@ gtag('config', 'UA-143837547-1');
                         <li>
                           <a href="news"  class="sub-Link">News</a>
                         </li>
-                        <li>
-                          <a href="survey"  class="sub-Link">Survey</a>
-                        </li>
+                          <li>
+<a href="#" class="sub-Link">Survey</a>
+                                            <ul class="ul-deep-menu">
+                                                <li>
+                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
+                                                        Manufacturing</a>
+                                                </li>
+                                                <li>
+                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
+                                                        Product </a>
+                                                </li>
+                                                <br><br><br><br><br><br><br>
+                                        </li>
                       </ul>
                     </div>
                   </div>
@@ -246,7 +256,7 @@ gtag('config', 'UA-143837547-1');
         <!------------------------ google docs ------------------------>
         <div class="section-padding" >
         <div class="container">
-        <iframe style="width:100%;height:100vh;" src="https://docs.google.com/forms/d/e/1FAIpQLSc9rGv7JY3Mo-hTsZRu05QgO42N3a2Xl4l-s9tHvFHiMMGSIg/viewform?embedded=true"  frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <iframe style="width:100%;height:100vh;" src="https://docs.google.com/forms/d/e/1FAIpQLSfeLYH77uvWgIqLriAGdcY8zmrK8u3zGu990cz7lsIsIUoZFQ/viewform?embedded=true"  frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
        </div>
     </div>
         <!------------------------ google docs ------------------------>
