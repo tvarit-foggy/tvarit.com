@@ -201,6 +201,11 @@
         text-align: center;
         color: #ed1b4a;
     }
+    .footerBg {
+        background: url('./img/SPS_Banner.jpg')no-repeat center;
+        background-size: cover; 
+        height: 65vh;
+    }
  
     </style>
 
@@ -454,7 +459,7 @@
 
     <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="row justify-content-between formContent ">
+            <div class="row justify-content-between formContent">
                 <div class="col-md-7 mb-4 order-2 order-md-1">
                     <br>
                     <div class="white-box-shadow">
@@ -824,11 +829,18 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 order-1 order-md-2 mb-md-0 ">
+                <div class="col-md-5 order-1 order-md-2 mb-md-0 ">
+                <br>
+                <div class="white-box-shadow ">
+                    <img src="./img/SPS_Banner.jpg">
+                <div class="formBox w-100">
+
+                </div>
+                </div>
                     <!-- <div class="text-contact">
                         Contact Info
                     </div> -->
-                    <br>
+                    <!-- <br>
                     <div class="ctnDetailBox">
                         <h4 class="red">Stand Location</h4>
                         <p class="text-p">exhibition hall 6,<br> at booth 150M<br>Nuremberg, Germany </p>
@@ -842,7 +854,7 @@
                     <div class="ctnDetailBox">
                         <h4 class="red">E-mail</h4>
                         <p class="text-p">info@tvarit.com</p>
-                    </div>
+                    </div> -->
 
                     <!-- <div class="ctnDetailBox">
                         <div class="ft-social">
@@ -867,11 +879,11 @@
                         </div>
                     </div> -->
 
-                    <div class="ctnDetailBox">
+                    <!-- <div class="ctnDetailBox">
                         <p class="text-p">
                             &copy;2019 Tvarit GmbH
                         </p>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
