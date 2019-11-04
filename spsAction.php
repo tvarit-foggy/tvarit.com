@@ -23,7 +23,7 @@ if(isset($_POST['company'])){
     }
     }
     
-   if(mysqli_query($link, $sql)){
+   if(mysqli_query($link, $register_voucher)){
             $msg = $_POST["msg"];
             $to = "$email";
             $message = "

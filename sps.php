@@ -67,9 +67,8 @@
                 type: "POST",
                 url: "/spsAction",
                 data: "name=" + name + '&email=' + email + '&phone=' + phone + '&company=' +
-                    company + '&city' + city + '&country' + country + '&jobrole' + jobrole +
-                    '&industry' + industry +
-                    '&address' + address,
+                    company + '&city=' + city + '&country=' + country + '&jobrole=' + jobrole +
+                    '&industry=' + industry + '&address=' + address,
                 success: function(data) {
                     x.className = "show";
                     setTimeout(function() {
