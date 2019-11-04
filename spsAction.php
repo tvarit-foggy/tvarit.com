@@ -14,14 +14,19 @@ if(isset($_POST['company'])){
         $industry = $_POST['industry'];
         $address = $_POST['address'];
     // Attempt insert query execution
-    $sql = "INSERT INTO tbl_sps_2019 (user_name, email_id, company_name, address, country, city, job_role, industry) VALUES
+    $sql = "INSERT INTO `tbl_sps_2019` (user_name, email_id, company_name, address, country, city, job_role, industry) VALUES
      ('$name', '$email', '$company', '$phone_no', '$address', '$country', '$city', '$jobrole', '$industry')";
+     echo "$sql";
+     if(mysqli_query($link, $sql)) {
     $voucher = "SELECT * FROM `tbl_sps_vouchers` WHERE `is_used` = 0 LIMIT 1";
+        echo "$voucher";
+    }
     if ($res = mysqli_query($link, $voucher)) {
         if(mysqli_num_rows($res) > 0) {
         $register_voucher = "UPDATE `tbl_sps_vouchers` SET is_used=1,user_email='$email' WHERE voucher_id_pk = '$res[voucher_id_pk]'";
+        echo "$register_voucher";
     }
-    }
+}
     
    if(mysqli_query($link, $register_voucher)){
             $msg = $_POST["msg"];
