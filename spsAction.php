@@ -14,7 +14,7 @@ if(isset($_POST['company'])){
         $industry = $_POST['industry'];
         $address = $_POST['address'];
     // Attempt insert query execution
-    $sql = "INSERT INTO `tbl_sps_2019` (user_name, email_id, company_name, address, country, city, job_role, industry) VALUES
+    $sql = "INSERT INTO `tbl_sps_2019` (user_name, email_id, company_name, 'phone_no', address, country, city, job_role, industry) VALUES
      ('$name', '$email', '$company', '$phone_no', '$address', '$country', '$city', '$jobrole', '$industry')";
      echo "$sql";
      if(mysqli_query($link, $sql)) {
