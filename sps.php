@@ -515,7 +515,7 @@
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select id="country" class="form-control" name="country" id="country">
+                                        <select class="form-control" id="country">
                                             <option value="" disabled selected>Select Country</option>
                                             <option value="Afganistan">Afghanistan</option>
                                             <option value="Albania">Albania</option>
@@ -768,16 +768,16 @@
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select id="job_role" class="form-control" name="jobrole" id="jobrole">
+                                        <select class="form-control" id="jobrole">
                                             <option value="" disabled selected>Job Role</option>
-                                            <option value="Component Engineer">Component Engineer</option>
-                                            <option value="Design Engineer">Design Engineer</option>
-                                            <option value="Distributor Purchasing">Distributor - Purchasing</option>
-                                            <option value="Distributor Sales">Distributor - Sales</option>
+                                            <option value="Component_Engineer">Component Engineer</option>
+                                            <option value="Design_Engineer">Design Engineer</option>
+                                            <option value="Distributor_Purchasing">Distributor - Purchasing</option>
+                                            <option value="Distributor_Sales">Distributor - Sales</option>
                                             <option value="Engineering">Engineering</option>
-                                            <option value="Inventory Control">Inventory Control</option>
-                                            <option value="Manufacturing Engineer">Manufacturing Engineer</option>
-                                            <option value="Product Manager">Product Manager</option>
+                                            <option value="Inventory_Control">Inventory Control</option>
+                                            <option value="Manufacturing_Engineer">Manufacturing Engineer</option>
+                                            <option value="Product_Manager">Product Manager</option>
                                             <option value="Purchasing">Purchasing</option>
                                             <option value="Other">Other/Unknown</option>
                                         </select>
@@ -787,7 +787,7 @@
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select id="industry" class="form-control" name="industry" id="industry">
+                                        <select class="form-control" id="industry">
                                             <option disabled selected value="">Industry or Area Of Interest</option>
                                             <option value="Aerospace/Defense/Marine">Aerospace/Defense/Marine</option>
                                             <option value="Alternative Energy">Alternative Energy</option>
