@@ -9,13 +9,14 @@ if(isset($_POST['company'])){
         $phone = $_POST['phone'];
         $email = $_POST['email'];
         $city = $_POST['city'];
+        $phone = $_POST['phone'];
         $country = $_POST['country'];
         $jobrole = $_POST['jobrole'];
         $industry = $_POST['industry'];
         $address = $_POST['address'];
     // Attempt insert query execution
     $sql = "INSERT INTO `tbl_sps_2019` (user_name, email_id, company_name, 'phone_no', address, country, city, job_role, industry) VALUES
-     ('$name', '$email', '$company', '$phone_no', '$address', '$country', '$city', '$jobrole', '$industry')";
+     ('$name', '$email', '$company', '$phone', '$address', '$country', '$city', '$jobrole', '$industry')";
      echo "$sql";
      if(mysqli_query($link, $sql)) {
     $voucher = "SELECT * FROM `tbl_sps_vouchers` WHERE `is_used` = 0 LIMIT 1";
