@@ -192,21 +192,21 @@
     }
 
     .spsBgimg {
-    background: url('./img/sps_cloud.png')no-repeat;
-    background-size: contain;
-        }
+        background: url('./img/ImageA_cloud.png')top right no-repeat;
+        background-size: contain;
+    }
 
     .heading-form {
         font-size: large;
         text-align: center;
         color: #ed1b4a;
     }
+
     .footerBg {
-        background: url('./img/SPS_Banner.jpg')no-repeat center;
-        background-size: cover; 
+        background: url('./img/SPS_event_Banner.jpg')no-repeat center;
+        background-size: cover;
         height: 65vh;
     }
- 
     </style>
 
 </head>
@@ -830,13 +830,10 @@
                     </div>
                 </div>
                 <div class="col-md-5 order-1 order-md-2 mb-md-0 ">
-                <br>
-                <div class="white-box-shadow ">
-                    <img src="./img/SPS_Banner.jpg">
-                <div class="formBox w-100">
-
-                </div>
-                </div>
+                    <br><br>
+                    <div class="white-box-shadow ">
+                        <img src="./img/SPS_event_Banner.jpg" style="width:100%; height:auto;">
+                    </div>
                     <!-- <div class="text-contact">
                         Contact Info
                     </div> -->
