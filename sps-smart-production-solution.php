@@ -477,7 +477,7 @@
                             SPS 2019
                         </div>
                         <div class="text-1">
-                            Smart Production Solution
+                            Smart Production Solutions
                         </div>
 
                         <br>
@@ -772,7 +772,7 @@
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0;" id="country"
+                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px;" id="country"
                                             data-role="none">
                                             <option value="" disabled selected>Select Country</option>
                                             <option value="Afganistan">Afghanistan</option>
@@ -1026,7 +1026,7 @@
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0;" id="jobrole"
+                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px;" id="jobrole"
                                             data-role="none">
                                             <option value="" disabled selected>Job Role</option>
                                             <option value="Component_Engineer">Component Engineer</option>
@@ -1046,7 +1046,7 @@
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0;" id="industry"
+                                        <select class="form-control" style="padding: 8px 0;margin-top: 11px;" id="industry"
                                             data-role="none">
                                             <option disabled selected value="">Industry or Area Of Interest</option>
                                             <option value="Aerospace/Defense/Marine">Aerospace/Defense/Marine</option>
@@ -1080,7 +1080,7 @@
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group text-right">
-                                        <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
+                                        <input type="button" value="Submit" style="margin-top: 10px;" id="btn" class="btn btn-round btn-red-grd">
                                     </div>
                                 </div>
                             </div>

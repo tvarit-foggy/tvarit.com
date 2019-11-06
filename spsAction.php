@@ -55,7 +55,7 @@ if(isset($_POST['company'])){
         Tvarit GmbH<br>
         Gundelandstrasse 5<br>
         60435 Frankfurt am Main<br>
-        <p>
+        <p style='font-size: small;font-weight: 500;'>
         <b>IMPRESSUM</b><br>
 
             Die in dieser Email und deren Anlagen enthaltenen Informationen sind
@@ -68,7 +68,7 @@ if(isset($_POST['company'])){
             Haftung für die fehlerfreie und vollständige Übertragung dieser
             Nachricht.
         </p>
-        <p>
+        <p style='font-size: small;font-weight: 500;'>
         <b>DISCLAIMER</b><br>
 
             The information contained in this e-mail and any attachments is
