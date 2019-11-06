@@ -52,6 +52,9 @@
 .read-more-link:hover {
     color: blue;
 }
+#new-carousel .item {
+    width: 325px;
+} 
 </style>
 </head>
 
