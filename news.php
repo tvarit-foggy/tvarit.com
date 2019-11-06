@@ -322,7 +322,7 @@
 
             <br>
 
-            <div class="news-carousel up-event owl-carousel owl-theme">
+            <div class="news-carousel up-event owl-carousel owl-theme" id="new-carousel">
 
                 <!--<div class="item">
                     <a href="javascript://" class="newsBox">
@@ -936,6 +936,14 @@
      ?>
     <!------------------------footer end --------------------->
     <!-- script start -->
+    <script>
+    $(document).ready(function() {
+    $("#new-carousel").owlCarousel({
+    // items : 1,
+    singleItem : true,
+    });
+});
+    </script>
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
