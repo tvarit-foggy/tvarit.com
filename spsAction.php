@@ -24,33 +24,72 @@ if(isset($_POST['company'])){
         $register_voucher = "UPDATE `tbl_sps_vouchers` SET `is_used` = 1, `user_email` = '$email' WHERE `voucher_id_pk` = '$value->voucher_id_pk'";
     }
     if(mysqli_query($link, $register_voucher)){
-        $subject = "Einladung/Invitation von/from Tvarit GmbH zur/for SPS 2019";
+        $subject = "Invitation from Tvarit GmbH for SPS 2019";
         $to = "$email";
         $message = "
-        Dear $name,
-                   From 26 -28 November 2019 SPS, the leading exhibition on smart and digital
-        automation, will take place in Nuremberg, Germany.
-        We, Tvarit Gmbh, are delighted to invite you to visit our booth 150M in hall 6.
-        Create your personal admission ticket to the exhibition with the following link:
-        
-        '$value->url'
-
+        <html>
+        <head>
+        <title><img src='https://tvarit.com/img/logo.png'></title>
+        </head>
+        <body>
+        <img src='https://tvarit.com/img/logo.png' style='width: 150px;margin-left: 5%;margin-bottom: 1%;margin-top: 1%;'>
+        <div style=' margin-left:5%; margin-right:5%; width:90%; font-size:15px; padding:20px; border:2px solid #ed1b4a; font-weight: 600;'>
+        Dear <b>$name</b>, <br>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From 26 -28 November 2019 SPS, the leading exhibition on smart and digital
+        automation, will take place in Nuremberg, Germany.<br>
+        We, Tvarit Gmbh, are delighted to invite you to visit our Stand 150M in hall 6.<br>
+        Please use the following link to create your personalized Exhibition admission ticket.:</p>
+        <div style='text-align:center'>
+         <button style='width:130px; height:50px; background-color: #ed1b4a; border-radius:10px;font-size: 14px;'>
+         <a style='color:#fff;' href='$value->url' target='_blank' class='btn'>Accept Invitation</a> </button>
+         </div>
+        <br><br>
         If you have any question regarding the registration, please contact the Mesago Messe
-        Frankfurt team on +49711 or at tickets@mesago.com
-
+        Frankfurt team on +49 (0) 69 2731 668 70 or at office@tvarit.com
+        <br>
         We look forward to your visit!
-        
-        Kind Regards,
-        Tvarit Team
+        <br><br>
+        Kind Regards,<br>
+        Tvarit Team<br><br>
 
-        Tvarit GmbH
-        Gundelandstrasse 5
-        60435 Frankfurt am Main
+        Tvarit GmbH<br>
+        Gundelandstrasse 5<br>
+        60435 Frankfurt am Main<br>
+        <p>
+        <b>IMPRESSUM</b><br>
+
+            Die in dieser Email und deren Anlagen enthaltenen Informationen sind
+            vertraulich und nur für den vorgesehenen Empfänger bestimmt. Jegliche
+            unauthorisierte Verbreitung, Verwendung oder das Kopieren dieser
+            Nachricht und deren Anlagen sind nicht gestattet. Sollten Sie nicht
+            der richtige Adressat sein oder diese E-Mail irrtümlich erhalten
+            haben, informieren Sie bitte sofort den Absender und entfernen Sie
+            diese Email umgehend aus Ihrem System. Tvarit GmbH übernimmt keine
+            Haftung für die fehlerfreie und vollständige Übertragung dieser
+            Nachricht.
+        </p>
+        <p>
+        <b>DISCLAIMER</b><br>
+
+            The information contained in this e-mail and any attachments is
+            confidential, may be subject to legal privilege, and is intended
+            solely for the use of the addressee. Any unauthorised dissemination or
+            copying of this e-mail or its attachments, and any use or disclosure
+            of any information contained in them, is strictly prohibited and may
+            be illegal. If you have received this e-mail in error, please notify
+            us immediately. The e-mail transmission and any attachments, must be
+            deleted from your system. Tvarit GmbH does not bear any responsibility
+            for the accuracy or completeness of its transmission.
+    </p>
+        </div>
+        </body>
+        </html>
         ";
+        $headers = "MIME-Version: 1.0" . "\r\n";
+        $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
-        $headers  = "From: info@tvarit.com\r\n" .
-        "X-Mailer: php\r\n";
-        $headers .= "Bcc: info@tvarit.com\r\n";
+        $headers .= "From: info@tvarit.com" . "\r\n";
+        $headers .= "Bcc: info@tvarit.com" . "\r\n";
 
          mail($to,$subject,$message,$headers);
         }

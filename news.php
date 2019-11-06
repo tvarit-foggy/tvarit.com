@@ -325,8 +325,45 @@
                         </div>
                     </a>
                 </div>-->
-
                 <div class="item">
+                    <a href="https://sps.mesago.com/" target="_blank" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/SPS-2019.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">SPS 2019</div>
+                            <h4 class="title">Smart Production Solutions is Europe's number 1 exhibition for automation.
+                            SPS 2019 will take place from 26 to 28 November at Nurnberg Messe.
+                            </h4>
+                            <div class="post-text">
+                                <span class="date">26 to 28 November 2019 Nurnberg Messe</span>
+                                <br><br>
+                                <span class="read-more-link">Read More</span>
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="section-padding-both  bg-light-section">
+        <div class="container">
+
+            <div class="title md-center-title">
+                <div class="text-first red">Past</div>
+                <div class="text-big60">Events</div>
+                <div class="short-line bg-red"></div>
+            </div>
+
+            <br>
+
+            <div class="news-carousel past-event owl-carousel owl-theme">
+            <div class="item">
                     <a href="https://www.iaa.de/" target="_blank" class="newsBox">
                         <div class="news-pic">
                             <img src="img/partners_img/Logo_IAA.png" class="img-fluid">
@@ -363,24 +400,6 @@
                         </div>
                     </a>
                 </div>
-
-            </div>
-
-        </div>
-    </div>
-
-    <div class="section-padding-both  bg-light-section">
-        <div class="container">
-
-            <div class="title md-center-title">
-                <div class="text-first red">Past</div>
-                <div class="text-big60">Events</div>
-                <div class="short-line bg-red"></div>
-            </div>
-
-            <br>
-
-            <div class="news-carousel past-event owl-carousel owl-theme">
             <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
