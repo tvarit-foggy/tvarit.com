@@ -342,7 +342,7 @@
                     </a>
                 </div>-->
                 <div class="item">
-                    <a href="https://sps.mesago.com/" target="_blank" class="newsBox">
+                    <a href="/sps-smart-production-solution" target="_blank" class="newsBox">
                         <div class="news-pic">
                             <img src="img/SPS-2019.png" class="img-fluid">
                         </div>

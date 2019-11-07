@@ -49,14 +49,93 @@
 
 
     <script type="text/javascript" language="javascript">
-    function IsEmail(email) {
-    var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-    if (!regex.test(email)) {
-        return false;
-    } else {
-        return true;
+    var options =
+[
+  {
+    "text"  : "10 - 11 AM",
+    "value" : "10"
+  },
+  {
+    "text"     : "11 - 12 AM",
+    "value"    : "11",
+    "selected" : true
+  },
+  {
+    "text"  : "12 - 01 PM",
+    "value" : "12"
+  },
+  {
+    "text"  : "01 - 02 PM",
+    "value" : "1"
+  },
+  {
+    "text"     : "02 - 03 PM",
+    "value"    : "2",
+  },
+  {
+    "text"  : "03 - 04 PM",
+    "value" : "3"
+  },
+  {
+    "text"  : "04 - 05 PM",
+    "value" : "4"
+  },
+  {
+    "text"     : "05 - 06 PM",
+    "value"    : "5",
+  },
+];
+    $(document).ready(function() {
+        $(".appointment-div").hide();
+        changeDate();
+    });
+
+    function changeAppointment() {
+        if ($('#appointment').is(":checked")) {
+            $(".appointment-div").show();
+        } else {
+            $(".appointment-div").hide();
+        }
+    }
+
+    function changeDate() {
+        var date = $("#date-time-picker").val();
+        if (date) {
+            $.ajax({
+                type: "POST",
+                url: "spsSlots",
+                data: "date=" + date,
+                success: function(data) {
+                    changeOption(data);
+                    
+                }
+            });
+        }
+    }
+    function changeOption(data) {
+        if(data) {
+            var arr = JSON.parse(data);
+            for(var i = 0, l = arr.length; i < l; i++) {
+            var option = arr[i];
+            if(option.count == 3) {
+                options = options.filter(el => el.value !== option.time_slot);
+            }
+            }
+            for(var i = 0, l = options.length; i < l; i++){
+            var option = options[i];
+            time_slot.options.add( new Option(option.text, option.value, option.selected));
+            }  
     }
 }
+
+    function IsEmail(email) {
+        var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        if (!regex.test(email)) {
+            return false;
+        } else {
+            return true;
+        }
+    }
     $("#btn").live("click", function() {
 
         if ($("#name").val() !== "" && $("#email").val() !== "" && $("#phone").val() !== "" &&
@@ -71,37 +150,49 @@
             var jobrole = $("#jobrole").val();
             var industry = $("#industry").val();
             var address = $("#address").val();
+            var date = $("#date-time-picker").val();
+            var slot = $("#time_slot").val();
             var x = document.getElementById("snackbar");
+            var ex = document.getElementById("email_exist");
             if (IsEmail($("#email").val()) != true) {
-            var y = document.getElementById("validationDemoInvalidEmail");
-            y.className = "show";
-            setTimeout(function() {
-                y.className = y.className.replace("show", "");
-            }, 3000);
+                var y = document.getElementById("validationDemoInvalidEmail");
+                y.className = "show";
+                setTimeout(function() {
+                    y.className = y.className.replace("show", "");
+                }, 3000);
             } else {
-            $.ajax({
-                type: "POST",
-                url: "/spsAction",
-                data: "name=" + name + '&email=' + email + '&phone=' + phone + '&company=' +
-                    company + '&city=' + city + '&country=' + country + '&jobrole=' + jobrole +
-                    '&industry=' + industry + '&address=' + address,
-                success: function(data) {
-                    x.className = "show";
-                    setTimeout(function() {
-                        x.className = x.className.replace("show", "");
-                    }, 3000);
-                    $('#name').val('');
-                    $('#email').val('');
-                    $('#phone').val('');
-                    $("#company").val('');
-                    $("#city").val('');
-                    $("#country").val('');
-                    $("#jobrole").val('');
-                    $("#industry").val('');
-                    $("#address").val();
+                $.ajax({
+                    type: "POST",
+                    url: "spsAction",
+                    data: "name=" + name + '&email=' + email + '&phone=' + phone + '&company=' +
+                        company + '&city=' + city + '&country=' + country + '&jobrole=' + jobrole +
+                        '&industry=' + industry + '&address=' + address + '&date=' + date + '&slot=' +
+                        slot,
+                    success: function(data) {
+                        if(data == '0' || data == ''){ 
+                            x.className = "show";
+                        setTimeout(function() {
+                            x.className = x.className.replace("show", "");
+                        }, 3000);
+                        $('#name').val('');
+                        $('#email').val('');
+                        $('#phone').val('');
+                        $("#company").val('');
+                        $("#city").val('');
+                        $("#country").val('');
+                        $("#jobrole").val('');
+                        $("#industry").val('');
+                        $("#address").val();
+                    }else {
+                        
+                        ex.className = "show";
+                        setTimeout(function() {
+                            ex.className = x.className.replace("show", "");
+                        }, 3000);
+                    }
                 }
-            });
-        }
+                });
+            }
         } else {
             var y = document.getElementById("validation");
             y.className = "show";
@@ -134,6 +225,27 @@
         -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
         animation: fadein 0.5s, fadeout 0.5s 2.5s;
     }
+    #email_exist {
+        visibility: hidden;
+        min-width: 250px;
+        margin-left: -125px;
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        border-radius: 2px;
+        padding: 16px;
+        position: fixed;
+        z-index: 1;
+        left: 50%;
+        bottom: 30px;
+        font-size: 17px;
+    }
+
+    #email_exist.show {
+        visibility: visible;
+        -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+        animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    }
 
     #validation {
         visibility: hidden;
@@ -157,28 +269,29 @@
         animation: fadein 0.5s, fadeout 0.5s 2.5s;
 
     }
+
     #validationDemoInvalidEmail {
-    visibility: hidden;
-    min-width: 250px;
-    margin-left: -125px;
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    border-radius: 2px;
-    padding: 16px;
-    position: fixed;
-    z-index: 1;
-    left: 50%;
-    bottom: 30px;
-    font-size: 17px;
-}
+        visibility: hidden;
+        min-width: 250px;
+        margin-left: -125px;
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        border-radius: 2px;
+        padding: 16px;
+        position: fixed;
+        z-index: 1;
+        left: 50%;
+        bottom: 30px;
+        font-size: 17px;
+    }
 
-#validationDemoInvalidEmail.show {
-    visibility: visible;
-    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
-    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    #validationDemoInvalidEmail.show {
+        visibility: visible;
+        -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+        animation: fadein 0.5s, fadeout 0.5s 2.5s;
 
-}
+    }
 
 
     @-webkit-keyframes fadein {
@@ -244,6 +357,47 @@
         background: url('./img/SPS_event_Banner.jpg')no-repeat center;
         background-size: cover;
         height: 65vh;
+    }
+
+    .form-group label {
+        position: relative;
+        cursor: pointer;
+    }
+
+    .form-group input[type=checkbox] {
+        padding: 0;
+        height: initial;
+        width: initial;
+        margin-bottom: 0;
+        display: none;
+        cursor: pointer;
+    }
+
+    .form-group label:before {
+        content: '';
+        -webkit-appearance: none;
+        background-color: transparent;
+        border: 2px solid #ed1b4a;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+        padding: 10px;
+        display: inline-block;
+        position: relative;
+        vertical-align: middle;
+        cursor: pointer;
+        margin-right: 5px;
+    }
+
+    .form-group input:checked+label:after {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 2px;
+        left: 9px;
+        width: 6px;
+        height: 14px;
+        border: solid #ed1b4a;
+        border-width: 0 2px 2px 0;
+        transform: rotate(45deg);
     }
     </style>
 
@@ -526,8 +680,8 @@
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group row" style="margin-left: 0px;">
-                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px; width:25%" id="countryCode"
-                                            data-role="none">
+                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px; width:25%"
+                                            id="countryCode" data-role="none">
                                             <option value="213"> +213</option>
                                             <option value="376"> +376</option>
                                             <option value="244"> +244</option>
@@ -743,8 +897,8 @@
                                             <option value="260"> +260</option>
                                             <option value="263"> +263</option>
                                         </select>
-                                        <input type="number" class="form-control" style="width:70%" name="phone" id="phone"
-                                            placeholder="Phone *">
+                                        <input type="number" class="form-control" style="width:70%" name="phone"
+                                            id="phone" placeholder="Phone *">
                                     </div>
                                 </div>
                                 <div class="col-md">
@@ -772,8 +926,8 @@
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px;" id="country"
-                                            data-role="none">
+                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px;"
+                                            id="country" data-role="none">
                                             <option value="" disabled selected>Select Country</option>
                                             <option value="Afganistan">Afghanistan</option>
                                             <option value="Albania">Albania</option>
@@ -1026,8 +1180,8 @@
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px;" id="jobrole"
-                                            data-role="none">
+                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px;"
+                                            id="jobrole" data-role="none">
                                             <option value="" disabled selected>Job Role</option>
                                             <option value="Component_Engineer">Component Engineer</option>
                                             <option value="Design_Engineer">Design Engineer</option>
@@ -1046,8 +1200,8 @@
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0;margin-top: 11px;" id="industry"
-                                            data-role="none">
+                                        <select class="form-control" style="padding: 8px 0;margin-top: 11px;"
+                                            id="industry" data-role="none">
                                             <option disabled selected value="">Industry or Area Of Interest</option>
                                             <option value="Aerospace/Defense/Marine">Aerospace/Defense/Marine</option>
                                             <option value="Alternative Energy">Alternative Energy</option>
@@ -1079,15 +1233,40 @@
                                     </div>
                                 </div>
                                 <div class="col-md">
-                                    <div class="form-group text-right">
-                                        <input type="button" value="Submit" style="margin-top: 10px;" id="btn" class="btn btn-round btn-red-grd">
+                                    <div class="form-group" style="margin-top: 1rem;">
+                                        <input type="checkbox" id="appointment" onchange="changeAppointment()">
+                                        <label for="appointment">Book Appointment</label>
                                     </div>
                                 </div>
                             </div>
+                            <div class="form-row appointment-div">
+                                <div class="col-md ">
+                                    <div class="form-group">
+                                        <input type="date" class="form-control" name="date" id="date-time-picker"
+                                            value="2019-11-26" min="2019-11-26" max="2019-11-28"
+                                            placeholder="Event Date" onchange="changeDate()">
+                                    </div>
+                                </div>
+                                <div class="col-md">
+                                    <div class="form-group">
+                                        <select class="form-control" style="padding: 8px 0;margin-top: 11px;"
+                                            id="time_slot" data-role="none">
+                                        
+                                            <select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="form-group text-right">
+                                    <input type="button" value="Submit" style="margin-top: 10px;" id="btn"
+                                        class="btn btn-round btn-red-grd">
+                                </div>
+                            </div>
                             <div id="snackbar">We Will Contact you Shortly</div>
+                            <div id="email_exist">Email Already Exits</div>
                             <div id="validation">Fill All the Mandatory Fields</div>
                             <div class="validation" id="validationDemoInvalidEmail">Please enter a valid email id
-                        </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1096,54 +1275,6 @@
                     <div class="white-box-shadow ">
                         <img src="./img/SPS_event_Banner.jpg" style="width:100%; height:auto;">
                     </div>
-                    <!-- <div class="text-contact">
-                        Contact Info
-                    </div> -->
-                    <!-- <br>
-                    <div class="ctnDetailBox">
-                        <h4 class="red">Stand Location</h4>
-                        <p class="text-p">exhibition hall 6,<br> at booth 150M<br>Nuremberg, Germany </p>
-                    </div>
-
-                    <div class="ctnDetailBox">
-                        <h4 class="red">Phone</h4>
-                        <p class="text-p">+49 173 835 1380</p>
-                    </div>
-
-                    <div class="ctnDetailBox">
-                        <h4 class="red">E-mail</h4>
-                        <p class="text-p">info@tvarit.com</p>
-                    </div> -->
-
-                    <!-- <div class="ctnDetailBox">
-                        <div class="ft-social">
-                            <h3>Disclaimer</h3>
-                            <div class="ft-links">
-                                <a href="impressum">Impressum</a>
-                                <a href="datenschutz">Datenschutz</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="ft-social">
-                        <div class="social-icon">
-                            <a href="https://www.facebook.com/tvaritAI" target="blank"><i
-                                    class="fab fa-facebook-f"></i></a>
-                            <a href="https://www.xing.com/xbp/pages/tvarit-gmbh" target="blank"><i
-                                    class="fab fa-xing"></i></a>
-                            <a href="https://twitter.com/TvaritAI" target="blank"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.linkedin.com/company/tvarit/" target="blank"><i
-                                    class="fab fa-linkedin-in"></i></a>
-                            <a href="https://www.youtube.com/playlist?list=PLqOwcayv0lYbbyKLjn6-A0w3Es4CKZpGr"
-                                target="blank"><i class="fab fa-youtube"></i></a>
-                        </div>
-                    </div> -->
-
-                    <!-- <div class="ctnDetailBox">
-                        <p class="text-p">
-                            &copy;2019 Tvarit GmbH
-                        </p>
-                    </div> -->
-
                 </div>
             </div>
         </div>
@@ -1161,6 +1292,7 @@
     <script src="js/readmore.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
+
 
 
 </body>

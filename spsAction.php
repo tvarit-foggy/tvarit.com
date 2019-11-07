@@ -13,10 +13,20 @@ if(isset($_POST['company'])){
         $jobrole = $_POST['jobrole'];
         $industry = $_POST['industry'];
         $address = $_POST['address'];
+        $date = $_POST['date'];
+        $slot = $_POST['slot'];
     // Attempt insert query execution
-    $sql = "INSERT INTO `tbl_sps_2019` (user_name, email_id, company_name, phone_no, address, country, city, job_role, industry) VALUES
-     ('$name', '$email', '$company', '$phone', '$address', '$country', '$city', '$jobrole', '$industry')";
-     echo $sql;
+    $is_email = "SELECT * FROM `tbl_sps_2019` WHERE `email_id` = '$email'";
+    $iemail = mysqli_query($link, $is_email);
+    $rowCount = mysqli_num_rows($iemail);
+    if($rowCount > 1) {
+        echo json_encode($rowCount);
+        mysqli_close($link);
+        die;
+    }
+     
+    $sql = "INSERT INTO `tbl_sps_2019` (user_name, email_id, company_name, phone_no, address, country, city, job_role, industry, appointment_date, time_slot) VALUES
+     ('$name', '$email', '$company', '$phone', '$address', '$country', '$city', '$jobrole', '$industry', '$date', $slot)";
      if(mysqli_query($link, $sql)) {
     $voucher = "SELECT * FROM `tbl_sps_vouchers` WHERE `is_used` = 0 LIMIT 1";
         if($res = mysqli_query($link, $voucher)){
@@ -94,6 +104,7 @@ if(isset($_POST['company'])){
          mail($to,$subject,$message,$headers);
         }
     }
+
 } else {
         echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
     }
