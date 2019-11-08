@@ -164,8 +164,8 @@
             var date = $("#date-time-picker").val();
             var slot = $("#time_slot").val();
             if(isbookappointment == false) {
-                date = 'Null';
-                slot = 'Null';
+                date = '0000-00-00';
+                slot = '00';
             }
             var x = document.getElementById("snackbar");
             var ex = document.getElementById("email_exist");
@@ -197,7 +197,8 @@
                             $("#country").val('');
                             $("#jobrole").val('');
                             $("#industry").val('');
-                            $("#address").val();
+                            $("#address").val('');
+                            changeDate();
                         } else {
 
                             ex.className = "show";
