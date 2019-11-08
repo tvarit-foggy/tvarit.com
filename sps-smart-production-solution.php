@@ -223,6 +223,7 @@
     input[type=number]::-webkit-inner-spin-button,
     input[type=number]::-webkit-outer-spin-button {
         -webkit-appearance: none;
+        -moz-appearance: none;
         margin: 0;
     }
 
@@ -703,7 +704,7 @@
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group row" style="margin-left: 0px;">
-                                        <select class="form-control" style="padding: 8px 0; width:25%; height: 49px;"
+                                        <select class="form-control countryCode" style="padding: 8px 0; width:25%; "
                                             id="countryCode" data-role="none">
                                             <option value="213"> +213</option>
                                             <option value="376"> +376</option>
@@ -1272,9 +1273,8 @@
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0;margin-top: 11px;"
+                                        <select class="form-control timeSlots" style="padding: 8px 0;"
                                             id="time_slot" data-role="none">
-
                                             <select>
                                     </div>
                                 </div>
