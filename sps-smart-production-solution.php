@@ -49,52 +49,56 @@
 
 
     <script type="text/javascript" language="javascript">
-    var options =
-[
-  {
-    "text"  : "10 - 11 AM",
-    "value" : "10"
-  },
-  {
-    "text"     : "11 - 12 AM",
-    "value"    : "11",
-    "selected" : true
-  },
-  {
-    "text"  : "12 - 01 PM",
-    "value" : "12"
-  },
-  {
-    "text"  : "01 - 02 PM",
-    "value" : "1"
-  },
-  {
-    "text"     : "02 - 03 PM",
-    "value"    : "2",
-  },
-  {
-    "text"  : "03 - 04 PM",
-    "value" : "3"
-  },
-  {
-    "text"  : "04 - 05 PM",
-    "value" : "4"
-  },
-  {
-    "text"     : "05 - 06 PM",
-    "value"    : "5",
-  },
-];
+    var options = [{
+            "text": "10 - 11 AM",
+            "value": "10",
+            "selected": true
+        },
+        {
+            "text": "11 - 12 AM",
+            "value": "11",
+        },
+        {
+            "text": "12 - 01 PM",
+            "value": "12"
+        },
+        {
+            "text": "01 - 02 PM",
+            "value": "1"
+        },
+        {
+            "text": "02 - 03 PM",
+            "value": "2",
+        },
+        {
+            "text": "03 - 04 PM",
+            "value": "3"
+        },
+        {
+            "text": "04 - 05 PM",
+            "value": "4"
+        },
+        {
+            "text": "05 - 06 PM",
+            "value": "5",
+        },
+    ];
+    var isbookappointment = false;
     $(document).ready(function() {
         $(".appointment-div").hide();
+        $(document).on("wheel", "input[type=number]", function(e) {
+            $(this).blur();
+        });
         changeDate();
     });
 
     function changeAppointment() {
         if ($('#appointment').is(":checked")) {
             $(".appointment-div").show();
+            isbookappointment = true;
         } else {
             $(".appointment-div").hide();
+            isbookappointment = false;
         }
     }
 
@@ -107,26 +111,32 @@
                 data: "date=" + date,
                 success: function(data) {
                     changeOption(data);
-                    
+
                 }
             });
         }
     }
+
     function changeOption(data) {
-        if(data) {
-            var arr = JSON.parse(data);
-            for(var i = 0, l = arr.length; i < l; i++) {
-            var option = arr[i];
-            if(option.count == 3) {
-                options = options.filter(el => el.value !== option.time_slot);
-            }
-            }
-            for(var i = 0, l = options.length; i < l; i++){
+        time_slot.options.length = 0;
+        for (var i = 0, l = options.length; i < l; i++) {
             var option = options[i];
-            time_slot.options.add( new Option(option.text, option.value, option.selected));
-            }  
+            time_slot.options.add(new Option(option.text, option.value, option.selected));
+        }
+        if (data !== 'null' && data !== 'ERROR: Could not able to execute . ') {
+            var arr = JSON.parse(data);
+            for (var i = 0, l = arr.length; i < l; i++) {
+                var option = arr[i];
+                if (option.count == 3) {
+                    options = options.filter(el => el.value !== option.time_slot);
+                }
+            }
+            for (var i = 0, l = options.length; i < l; i++) {
+                var option = options[i];
+                time_slot.options.add(new Option(option.text, option.value, option.selected));
+            }
+        }
     }
-}
 
     function IsEmail(email) {
         var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
@@ -152,6 +162,10 @@
             var address = $("#address").val();
             var date = $("#date-time-picker").val();
             var slot = $("#time_slot").val();
+            if(isbookappointment == false) {
+                date = '0000-00-00';
+                slot = '00';
+            }
             var x = document.getElementById("snackbar");
             var ex = document.getElementById("email_exist");
             if (IsEmail($("#email").val()) != true) {
@@ -169,28 +183,28 @@
                         '&industry=' + industry + '&address=' + address + '&date=' + date + '&slot=' +
                         slot,
                     success: function(data) {
-                        if(data == '0' || data == ''){ 
+                        if (data == '0' || data == '') {
                             x.className = "show";
-                        setTimeout(function() {
-                            x.className = x.className.replace("show", "");
-                        }, 3000);
-                        $('#name').val('');
-                        $('#email').val('');
-                        $('#phone').val('');
-                        $("#company").val('');
-                        $("#city").val('');
-                        $("#country").val('');
-                        $("#jobrole").val('');
-                        $("#industry").val('');
-                        $("#address").val();
-                    }else {
-                        
-                        ex.className = "show";
-                        setTimeout(function() {
-                            ex.className = x.className.replace("show", "");
-                        }, 3000);
+                            setTimeout(function() {
+                                x.className = x.className.replace("show", "");
+                            }, 3000);
+                            $('#name').val('');
+                            $('#email').val('');
+                            $('#phone').val('');
+                            $("#company").val('');
+                            $("#city").val('');
+                            $("#country").val('');
+                            $("#jobrole").val('');
+                            $("#industry").val('');
+                            $("#address").val();
+                        } else {
+
+                            ex.className = "show";
+                            setTimeout(function() {
+                                ex.className = x.className.replace("show", "");
+                            }, 3000);
+                        }
                     }
-                }
                 });
             }
         } else {
@@ -204,6 +218,12 @@
     });
     </script>
     <style>
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+
     #snackbar {
         visibility: hidden;
         min-width: 250px;
@@ -225,6 +245,7 @@
         -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
         animation: fadein 0.5s, fadeout 0.5s 2.5s;
     }
+
     #email_exist {
         visibility: hidden;
         min-width: 250px;
@@ -680,7 +701,7 @@
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group row" style="margin-left: 0px;">
-                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px; width:25%"
+                                        <select class="form-control" style="padding: 8px 0; width:25%; height: 49px;"
                                             id="countryCode" data-role="none">
                                             <option value="213"> +213</option>
                                             <option value="376"> +376</option>
@@ -1251,7 +1272,7 @@
                                     <div class="form-group">
                                         <select class="form-control" style="padding: 8px 0;margin-top: 11px;"
                                             id="time_slot" data-role="none">
-                                        
+
                                             <select>
                                     </div>
                                 </div>
