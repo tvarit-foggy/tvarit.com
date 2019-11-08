@@ -19,7 +19,7 @@ if(isset($_POST['company'])){
     $is_email = "SELECT * FROM `tbl_sps_2019` WHERE `email_id` = '$email'";
     $iemail = mysqli_query($link, $is_email);
     $rowCount = mysqli_num_rows($iemail);
-    if($rowCount > 1) {
+    if($rowCount > 0) {
         echo json_encode($rowCount);
         mysqli_close($link);
         die;
