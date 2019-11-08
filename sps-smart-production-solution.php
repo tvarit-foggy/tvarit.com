@@ -131,6 +131,7 @@
                     options = options.filter(el => el.value !== option.time_slot);
                 }
             }
+            time_slot.options.length = 0;
             for (var i = 0, l = options.length; i < l; i++) {
                 var option = options[i];
                 time_slot.options.add(new Option(option.text, option.value, option.selected));
@@ -163,8 +164,8 @@
             var date = $("#date-time-picker").val();
             var slot = $("#time_slot").val();
             if(isbookappointment == false) {
-                date = '0000-00-00';
-                slot = '00';
+                date = 'Null';
+                slot = 'Null';
             }
             var x = document.getElementById("snackbar");
             var ex = document.getElementById("email_exist");
