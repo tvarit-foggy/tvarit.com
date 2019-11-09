@@ -520,7 +520,7 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Kamal Galrani</h4>
-                            <h6 class="title"> Director Data Science</h6>
+                            <h6 class="title">Data Science</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Geekiest amongs geeks and an amateur physicist</li>
