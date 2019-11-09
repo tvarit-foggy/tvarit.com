@@ -358,14 +358,14 @@
                             <h4 class="title title-name">Suhas Patel</h4>
                             <div class="col-md-12 " style="padding-right:0px">
                                 <div class="row" style="margin-right: 0px;">
-                                    <div class="col-md-6 " style="padding-left:0px;">
+                                    <!-- <div class="col-md-6 " style="padding-left:0px;"> -->
                                         <h6 class="title">CEO & Data Strategy Expert</h6>
-                                    </div>
-                                    <div class="col-md-6" style="padding-right:0px;">
-                                        <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
+                                    <!-- </div> -->
+                                    <!-- <div class="col-md-6" style="padding-right:0px;"> -->
+                                        <!-- <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
                                                 class="fab fa-linkedin-in"
-                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a>
-                                    </div>
+                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a> -->
+                                    <!-- </div> -->
                                 </div>
                             </div>
                             <div class="short-line-team bg-red"></div>
@@ -383,15 +383,17 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/avatar.png" alt="Juergen"
+                            <img src="img/juergen.jpeg" alt="Juergen"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
-                            <h4 class="title title-name"> Juergen</h4>
+                            <h4 class="title title-name"> Juergen Halt</h4>
                             <h6 class="title">R&D Advisor</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-
+                            <li>Business Transformation by utilizing R&D</li>
+                            <li>Brings huge experience from SAP and HP</li>
+                            <li>Research Background from Fraunhofer</li>
                             </ul>
                             <div class="social-icon">
 
@@ -490,6 +492,29 @@
             <div class="column">
                     <div class="card row-height-4">
                         <div class="card-view-image">
+                            <img src="img/hitesh.jpeg" alt="Hitesh"
+                                style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Hitesh Mittal</h4>
+                            <h6 class="title"> Director Sales & Marketing</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>Bridge between customers and team</li>
+                                <li>AI in Control Systems at Continental, Reliance</li>
+                                <li>European Business School Alumni</li>
+                            </ul>
+                            <div class="social-icon">
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            <div class="column">
+                    <div class="card row-height-4">
+                        <div class="card-view-image">
 
                             <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
@@ -542,39 +567,20 @@
                         </div>
                     </div>
                 </div>
+               
                 <div class="column">
                     <div class="card row-height-4">
                         <div class="card-view-image">
-                            <img src="img/hitesh.jpeg" alt="Hitesh"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Hitesh Mittal</h4>
-                            <h6 class="title"> Director Sales & Marketing</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Bridge between customers and team</li>
-                                <li>AI in Control Systems at Continental, Reliance</li>
-                                <li>European Business School Alumni</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-                    <div class="card row-height-4">
-                        <div class="card-view-image">
-                            <img src="img/avatar.png" alt="Peter" style="width:100%; height:auto; border-radius: 50%;">
+                            <img src="img/peter.jpeg" alt="Peter" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Peter Spinks</h4>
                             <h6 class="title">Industry 4.0 Reporting</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
+                                <li>Experienced writing for the BBC, the Guardian</li>
+                                <li>Master's Degree in Research Psychology</li>
+                                <li>Popular for running workshops on Advanced Technologies</li>
                             </ul>
                             <div class="social-icon">
 
