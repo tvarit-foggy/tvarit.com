@@ -748,7 +748,7 @@
      <a href="sps-smart-production-solution" target="_blank" class="btn btn-round btn-shadow btn-red-grd voucher">Get Free Voucher</a>
      </div>
      <div class="col-md-6" style="text-align:center">
-     <a href="sps-smart-production-solution" target="_blank" class="btn btn-round btn-shadow btn-red-grd voucher">Book an Appiontment</a>
+     <a href="sps-smart-production-solution" target="_blank" class="btn btn-round btn-shadow btn-red-grd voucher">Book an Appointment</a>
      </div>
     </div>
     </div>
