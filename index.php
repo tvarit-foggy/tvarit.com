@@ -41,6 +41,7 @@
         content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
     <meta name="keywords"
         content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop" />
+    <meta name="keywords" content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, "/>
     <!-- Favicons -->
     <link rel="icon" href="./img/favicon.png">
     <title>Tvarit AI</title>
@@ -742,8 +743,12 @@
     <div class="modal-content">
     <span onclick="closeModal()" class="close_modal">&times;</span>
       <img src="img/SPS_event_Banner_D.jpg" style="width:100%;height:auto;max-height: 70vh;">
-      <div style="text-align:center">
+      <div class="col-md-12 row">
+      <div class="col-md-6" style="text-align:center">
      <a href="sps-smart-production-solution" target="_blank" class="btn btn-round btn-shadow btn-red-grd voucher">Get Free Voucher</a>
+     </div>
+     <div class="col-md-6" style="text-align:center">
+     <a href="sps-smart-production-solution" target="_blank" class="btn btn-round btn-shadow btn-red-grd voucher">Book an Appointment</a>
      </div>
     </div>
     </div>
@@ -821,6 +826,10 @@
 }
 </style>
 <script>
+    $(document).ready(function() {
+        $("#myModal").show();
+    });
+
 // Get the modal
 var modal = document.getElementById("myModal");
 
@@ -831,9 +840,7 @@ var btn = document.getElementById("myBtn");
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal 
-window.onload = function() {
-  modal.style.display = "block";
-}
+ 
 document.onkeydown = function(e) {
     if(e.key === "Escape") {
         modal.style.display = "none";
