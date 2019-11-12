@@ -100,6 +100,7 @@ if(isset($_POST['company'])){
 
         $headers .= "From: info@tvarit.com" . "\r\n";
         $headers .= "Bcc: info@tvarit.com" . "\r\n";
+        $headers .= "CC: hitesh@tvarit.com" . "\r\n";
 
          mail($to,$subject,$message,$headers);
         }
