@@ -226,7 +226,7 @@ $("#btn").live("click",function(){
         <div class="row">
           <div class="col-md-4 section-padding">
             <div class="ft-about">
-              <h3>Wir arbeiten für Dich!</h3>
+              <h3>Wir arbeiten für Sie!</h3>
               <div class="ftaboutmore">
                 <p class="text-p">
                 Das Maß für Wachstum ist die Fähigkeit zur Veränderung. Industrie 4.0 ist mehr als nur ein auffälliges
@@ -234,7 +234,7 @@ $("#btn").live("click",function(){
                 gemacht werden, neu zu gestalten. Mit anderen Worten Maschinen, die die Selbstoptimierung, die 
                 Selbstkonfiguration beherschen und sogar künstliche Intelligenz verwenden, um komplexe Aufgaben 
                 zu erledigen. Für die meisten Unternehmen sind diese Konzepte jedoch weit entfernt von der heutigen 
-                Realität, in der viele Unternehmen noch nicht mal die Automatisierungstechnologien von Industrie 3.0 
+                Realität, in dem viele Unternehmen noch nicht mal die Automatisierungstechnologien von Industrie 3.0 
                 vollständig übernommen haben.
                 </p>
                 <p class="text-p">
