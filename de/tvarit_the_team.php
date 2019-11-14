@@ -9,7 +9,7 @@
             <div class="centerPharseContent text-p">
                 Wir haben unseren Sitz in Niedernhausen, Deutschland, und verfügen über die perfekte 
             Teamzusammensetzung - ein deutscher Gründer, der eine Menge Know-how in Bezug auf Maschinen 
-            besitzt gepaart mit hochqualifiziertem Software-Know-how der Indischen Gründer.
+            besitzt gepaart mit hochqualifiziertem Software-Know-how der indischen Gründer.
             </div>
         </div>
     </div>

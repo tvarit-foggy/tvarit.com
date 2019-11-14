@@ -294,8 +294,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <br>
                         <ul class="ul-list">
-                            <li>Versteht sie mit unserer Data Science Expertise</li>
-                            <li>Macht sie schlauer durch unsere KI-Software - Automated Predictive Analytics (APA)</li>
+                            <li>versteht sie mit unserer Data Science Expertise</li>
+                            <li>macht sie schlauer durch unsere KI-Software - Automated Predictive Analytics (APA)</li>
                         </ul>
                         <br>
                         <a href="http://cloud.tvarit.com" target="_blank"
@@ -303,7 +303,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <br>
                     <div class="text-head">
-                    Tvarit KI ist die beste Lösung für intelligente Herstellung, clevere Maschinen und digitale Transformation
+                    Tvarit KI ist die beste Lösung für intelligente Herstellung, intelligente Maschinen und digitale Transformation
                     </div>
                 </div>
 
@@ -324,13 +324,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
 
                 <div class="centerPharseContent text-p">
-                Wir haben eine Hochmoderne, auf KI-basierende Technologie entwickelt.
+                Wir haben eine hochmoderne, auf KI-basierende Technologie entwickelt.
                 Tvarits "Automated Predeictive Analysis" (APA) erweitert den Raum für KI-Anwendungen mit über 22 
-                Algorithmen, entwickelt von unserem hauseigenen Team von Industrieexperten. Wir ermöglichen es
-                Unternehmen kluge und auf Informationen basierende Entscheidungen zu treffen, indem wir aus einem 
-                Meer aus Daten umsetzbare und wertvolle Erkenntnisse gewinnen.  Es kann implementiert werden,
+                Algorithmen, entwickelt von unserem hauseigenem Team von Industrieexperten. Wir ermöglichen es
+                Unternehmen, intelligente und fundierte Entscheidungen zu treffen, indem wir aus einem 
+                Meer von Daten umsetzbare und wertvolle Erkenntnisse ableiten.  Es kann implementiert werden,
                 um das Asset Management, das Supply Chain Inventory Management,
-                Qualitätsmanagement und Workflow-Verteilungsprozess in der Fertigung zu Optimieren.
+                Qualitätsmanagement und Workflow-Verteilungsprozess in der Fertigung zu optimieren.
                 </div>
             </div>
         </div>
@@ -360,10 +360,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="short-line bg-red"></div>
                         <div class="whyapamore">
                             <p class="text-p">
-                            Ein kurzer Einblick in der Welt von APA: APA ist der Schlüssel geschäfliche Mühen zu vermeiden und um 
-                            die Effizienz und die Genauigkeit zu erhöhen. Anstatt rückblickend die Frage zu stellen,  was passiert ist,
-                            hilft Predictive Analytics dem Anwender die Frage "Was kommt als nächstes" und "Was soll dafür/dagegen 
-                            getan werden" zu beantworten. Die Assimilation der digitalen und der realen Welt beeinhaltet ebenfalls eine
+                            Ein kurzer Einblick in der Welt von APA: APA ist der Schlüssel, geschäfliche Mühen zu vermeiden und um 
+                            die Effizienz und die Genauigkeit zu erhöhen. Anstatt die Frage zu stellen "Was passiert ist?", ermöglicht APA dem Anwender einen Schritt voraus zu denken und Frage wie z.B. "Was kommt als nächstes?" und "Was soll dafür/dagegen gemacht werden?" zu beantworten. Die Assimilation der digitalen und der realen Welt beeinhaltet ebenfalls eine
                             Metamorphose in der Herstellung.  Tvarit AI bereitet sich auf die Revolution und leistet mit APA  seinen 
                             Beitrag dazu: Entdecke die Welt von Predictive Analytics jetzt mit uns! </p>
                         </div>
@@ -399,11 +397,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <div class="more">
                             <p class="text-p">Wir haben überwachte und nicht-überwachte ML Algotrithmen entwickelt, welche sowohl stukturierte
-                            als auch unstrukturierte Daten analysiert um Fehler mit einer Echtzeit-Genauigkeit von 97,2% 
+                            als auch unstrukturierte Daten analysiern, um Fehler mit einer Echtzeit-Genauigkeit von 97,2% 
                             vorherzusagen. Diese stellen umsetzbare Informationen über die aktuellen Umstände zur Verfügung, 
-                            unter denen ein echter Zusammenbruch passieren würde und warnt sie früh genug, um diesen 
+                            unter denen ein echter Zusammenbruch passieren würde und warnt Sie früh genug, um diesen 
                             zu verhindern. Es  hilft außerdem bei der Senkung der Betriebs- und Kapitalkosten und sorgt für einen 
-                            besseren, strafferen Arbeitsablauf.</p>
+                            besser gestrafften Arbeitsablauf.</p>
                         </div>
 
                     </div>
@@ -417,7 +415,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <p class="title">Inventaroptimierung</p>
 
                         <div class="more">
-                            <p class="text-p">Wir haben eine erstklassige Lösung zur Bestandsoptimierung entwickelt, die nicht nur mehrstrukturierte
+                            <p class="text-p">Wir haben eine Weltklasse-Lösung zur Bestandsoptimierung entwickelt, die nicht nur mehrstrukturierte
                             Daten analysiert, sondern auch kontinuierlich daraus lernt. Mit unserer Lösung können Sie 
                             Live-Empfehlungen erhalten, Lagerkosten senken und zukünftige Unsicherheiten besser erkennen.
                             </p>
@@ -435,7 +433,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <div class="more">
                             <p class="text-p">
-                            Unsere Lösung ermöglicht es Ihnen, die Wartungskosten zu senken und die Kundenzufriedenheit zu 
+                            Unsere Lösung ermöglicht es Ihnen, die Wartungskosten der Sensoren zu senken und die Kundenzufriedenheit zu 
                             steigern, indem Sie Probleme einfach und schnell lösen. Sie erhalten außerdem die Prioritätsliste der 
                             Sensoren, die in naher Zukunft ausfallen werden
                             </p>
@@ -498,7 +496,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <div class="centerPharseContent text-p">
                 Unsere Vision ist es, skalierbare und nachhaltige Lösungen zu entwickeln, die unsichtbar und 
-                unterstützend sind und es Herstellern ermöglichen, das zu tun, was sie lieben - effiziente Produktionen.
+                unterstützend sind und es Herstellern ermöglichen, Ihr angesterbtes Ziel zu erreichen - effiziente Produktionen.
                 </div>
             </div>
         </div>
