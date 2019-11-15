@@ -301,6 +301,11 @@
     <li class="nav-item">
         <a class="nav-link" href="contact">Contact</a>
     </li>
+    <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
+        <a style="padding-right:5px;" class="nav-link lang-link" href="de/index">DE</a>
+        <a style="padding-right:3px;padding-left:3px;" class="nav-link lang-link">|<a>
+        <a style="padding-left:5px;pointer-events: none;" class="nav-link lang-link" href="./">EN</a>
+    </li>
     </ul>
     </div>
     </nav>
@@ -823,6 +828,9 @@
     .close_modal {
         font-size: 15px;
     }
+}
+.main-menu .navbar-nav .nav-item a.lang-link:hover:before {
+    background: #fff !important;
 }
 </style>
 <script>
