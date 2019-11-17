@@ -48,10 +48,10 @@ if(isset($_POST['company'])){
         <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From 26 -28 November 2019 SPS, the leading exhibition on smart and digital
         automation, will take place in Nuremberg, Germany.<br>
         We, Tvarit Gmbh, are delighted to invite you to visit our Stand 150M in hall 6.<br>
-        Please use the following link to create your personalized Exhibition admission ticket.:</p>
+        Please use the following link to get your FREE Exhibition Ticket.:</p>
         <div style='text-align:center'>
          <button style='width:130px; height:50px; background-color: #ed1b4a; border-radius:10px;font-size: 14px;'>
-         <a style='color:#fff;' href='$value->url' target='_blank' class='btn'>Accept Invitation</a> </button>
+         <a style='color:#fff;' href='$value->url' target='_blank' class='btn'>Get Ticket</a> </button>
          </div>
         <br><br>
         If you have any question regarding the registration, please contact the Mesago Messe
