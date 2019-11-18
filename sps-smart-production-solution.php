@@ -91,6 +91,7 @@
             $(this).blur();
         });
         changeDate();
+        changeCode();
     });
 
     function changeAppointment() {
@@ -167,18 +168,19 @@
 
         if ($("#name").val() !== "" && $("#email").val() !== "" && $("#phone").val() !== "" &&
             $("#company").val() !== "" && $("#city").val() !== "" && $("#country").val() !== "" &&
-            $("#jobrole").val() !== "" && $("#industry").val() !== "") {
+            $("#industry").val() !== "") {
             var name = $("#name").val();
             var email = $("#email").val();
             var phone = $("#countryCode").val() + $("#phone").val();
             var company = $("#company").val();
             var city = $("#city").val();
             var country = $("#country").val();
-            var jobrole = $("#jobrole").val();
+            var jobrole = '';
             var industry = $("#industry").val();
-            var address = $("#address").val();
+            var address = '';
             var date = $("#date-time-picker").val();
             var slot = $("#time_slot").val();
+            var msg = $("#msg").val();
             if(isbookappointment == false) {
                 date = '0000-00-00';
                 slot = '00';
@@ -198,7 +200,7 @@
                     data: "name=" + name + '&email=' + email + '&phone=' + phone + '&company=' +
                         company + '&city=' + city + '&country=' + country + '&jobrole=' + jobrole +
                         '&industry=' + industry + '&address=' + address + '&date=' + date + '&slot=' +
-                        slot,
+                        slot + '&msg=' + msg,
                     success: function(data) {
                         if (data == '0' || data == '') {
                             x.className = "show";
@@ -214,9 +216,9 @@
                             $("#jobrole").val('');
                             $("#industry").val('');
                             $("#address").val('');
+                            $("#msg").val('');
                             changeDate();
                         } else {
-
                             ex.className = "show";
                             setTimeout(function() {
                                 ex.className = x.className.replace("show", "");
@@ -723,7 +725,7 @@
                                     <div class="form-group row" style="margin-left: 0px;">
                                         <select class="form-control countryCode" style="padding: 8px 0; width:30%; "
                                             id="countryCode" data-role="none" onchange="changeCode()">
-                                                    <option dataCountryCode="UK" value="44">+44 UK</option>
+                                                    <option dataCountryCode="Germany" value="49">+49 Germany</option>
                                                     <option dataCountryCode="Algeria" value="213">+213 Algeria</option>
                                             		<option dataCountryCode="Andorra" value="376">+376 Andorra</option>
                                             		<option dataCountryCode="Angola" value="244">+244 Angola</option>
@@ -792,7 +794,6 @@
                                             		<option dataCountryCode="Gabon" value="241">+241 Gabon</option>
                                             		<option dataCountryCode="Gambia" value="220">+220 Gambia</option>
                                             		<option dataCountryCode="Georgia" value="7880">+7880 Georgia</option>
-                                            		<option dataCountryCode="Germany" value="49">+49 Germany</option>
                                             		<option dataCountryCode="Ghana" value="233">+233 Ghana</option>
                                             		<option dataCountryCode="Gibraltar" value="350">+350 Gibraltar</option>
                                             		<option dataCountryCode="Greece" value="30">+30 Greece</option>
@@ -921,7 +922,7 @@
                                             		<option dataCountryCode="Turks" value="1649">+1649 Turks &amp; Caicos Islands </option>
                                             		<option dataCountryCode="Tuvalu" value="688">+688 Tuvalu </option>
                                             		<option dataCountryCode="Uganda" value="256">+256 Uganda </option>
-                                            		
+                                                    <option dataCountryCode="UK" value="44">+44 UK</option>
                                             		<option dataCountryCode="Ukraine" value="380">+380 Ukraine</option>
                                             		<option dataCountryCode="United_Arab_Emirates" value="971">+971 United Arab Emirates </option>
                                             		<option dataCountryCode="Uruguay" value="598">+598 Uruguay </option>
@@ -951,10 +952,16 @@
                                 </div>
                             </div>
                             <div class="form-row">
-                                <div class="col-md">
+                                <!-- <div class="col-md">
                                     <div class="form-group">
                                         <input type="text" class="form-control" name="address" id="address"
                                             placeholder="Address">
+                                    </div>
+                                </div> -->
+                                <div class="col-md">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" name="msg" id="msg"
+                                            placeholder="Message">
                                     </div>
                                 </div>
                                 <div class="col-md">
@@ -970,7 +977,7 @@
                                     <div class="form-group">
                                         <select class="form-control" style="padding: 8px 0; margin-top: 11px;"
                                             id="country" data-role="none">
-                                            <option value="" disabled selected>Select Country</option>
+                                            <option value="" disabled selected>Country</option>
                                                     <option  value="Algeria">Algeria </option>
                                             		<option  value="Andorra">Andorra </option>
                                             		<option  value="Angola">Angola </option>
@@ -1190,26 +1197,6 @@
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px;"
-                                            id="jobrole" data-role="none">
-                                            <option value="" disabled selected>Job Role</option>
-                                            <option value="Component_Engineer">Component Engineer</option>
-                                            <option value="Design_Engineer">Design Engineer</option>
-                                            <option value="Distributor_Purchasing">Distributor - Purchasing</option>
-                                            <option value="Distributor_Sales">Distributor - Sales</option>
-                                            <option value="Engineering">Engineering</option>
-                                            <option value="Inventory_Control">Inventory Control</option>
-                                            <option value="Manufacturing_Engineer">Manufacturing Engineer</option>
-                                            <option value="Product_Manager">Product Manager</option>
-                                            <option value="Purchasing">Purchasing</option>
-                                            <option value="Other">Other/Unknown</option>
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="form-row">
-                                <div class="col-md">
-                                    <div class="form-group">
                                         <select class="form-control" style="padding: 8px 0;margin-top: 11px;"
                                             id="industry" data-role="none">
                                             <option disabled selected value="">Industry or Area Of Interest</option>
@@ -1242,6 +1229,27 @@
                                         </select>
                                     </div>
                                 </div>
+                                <!-- <div class="col-md">
+                                    <div class="form-group">
+                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px;"
+                                            id="jobrole" data-role="none">
+                                            <option value="" disabled selected>Job Role</option>
+                                            <option value="Component_Engineer">Component Engineer</option>
+                                            <option value="Design_Engineer">Design Engineer</option>
+                                            <option value="Distributor_Purchasing">Distributor - Purchasing</option>
+                                            <option value="Distributor_Sales">Distributor - Sales</option>
+                                            <option value="Engineering">Engineering</option>
+                                            <option value="Inventory_Control">Inventory Control</option>
+                                            <option value="Manufacturing_Engineer">Manufacturing Engineer</option>
+                                            <option value="Product_Manager">Product Manager</option>
+                                            <option value="Purchasing">Purchasing</option>
+                                            <option value="Other">Other/Unknown</option>
+                                        </select>
+                                    </div>
+                                </div> -->
+                            </div>
+                            <div class="form-row">
+                               
                                 <div class="col-md">
                                     <div class="form-group" style="margin-top: 1rem;">
                                         <input type="checkbox" id="appointment" onchange="changeAppointment()">
