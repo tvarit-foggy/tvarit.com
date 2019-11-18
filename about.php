@@ -520,7 +520,7 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Kamal Galrani</h4>
-                            <h6 class="title">Data Science</h6>
+                            <h6 class="title">Data Scientist</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Geekiest amongs geeks and an amateur physicist</li>
@@ -545,15 +545,15 @@
                             <h4 class="title title-name">Rahul Prajapat</h4>
                             <div class="col-md-12" style="padding-right:0px">
                                 <div class="row" style="margin-right: 0px;">
-                                    <div class="col-md-6 " style="padding-left:0px;">
+                                    <div class="col-md-12" style="padding-left:0px;">
                                         <h6 class="title">Data Scientist</h6>
                                     </div>
-                                    <div class="col-md-6" style="padding-right:0px;">
+                                    <!-- <div class="col-md-6" style="padding-right:0px;">
 
                                         <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
                                                 class="fab fa-linkedin-in"
                                                 style="color: #0077B5; float: right; font-size: 1.2rem"></i></a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <div class="short-line-team bg-red"></div>

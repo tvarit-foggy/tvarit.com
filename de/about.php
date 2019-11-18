@@ -319,118 +319,69 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
             </div>
             <br>
             <div class="row">
-                <div class="column">
-                    <div class="card row-height-4">
+            <div class="column">
+                    <div class="card row-height-2">
                         <div class="card-view-image">
-
-                            <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Kamal Galrani</h4>
-                            <h6 class="title"> Director Data Science</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Geekiest amongs Geeks und ein Amateur-Physiker</li>
-                                <li>Ruft von Indiens bestem Institut: IIT Bombay</li>
-                                <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="column">
-                    <div class="card row-height-4">
-                        <div class="card-view-image">
-                            <img src="img/sumesh.jpg" alt="Sumesh" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Sumesh K S</h4>
-                            <h6 class="title">Project Manager</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Bindungsflüssigkeit für das Team</li>
-                                <li>Eine koffeinabhängige Lebensform </li>
-                                <li>Entschlossener Träumer</li>
-                                <li>Praktikanten aufgepasst (Er könnte dich vielleicht spielerisch zerfetzen!)</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="column">
-                    <div class="card row-height-4">
-                        <div class="card-view-image">
-                            <img src="img/Tanveer1.jpg" alt="Tanveer"
+                            <img src="img/Johannes.jpg" alt="Johannes"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
-                            <h4 class="title title-name"> Tanveer Sayyed</h4>
-                            <h6 class="title">Data Scientist (Datenwissenschaftler)</h6>
+                            <h4 class="title title-name"> Johannes Mathies</h4>
+                            <h6 class="title">Head of Cooperation</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li> Sofort einsatzbereiter Lösungssucher</li>
-                                <li> Kennt wie und warum von Erkenntnissen</li>
-                                <li> Lachen laut und Schlafgeräusche sind sein Lebensmotto</li>
+                                <li>Unternehmenstransformator & Opportunity Creator</li>
+                                <li>Erfahrungen von Airbus</li>
+                                <li>Dipl.-Ing. Aerospace Engineering, MBA mit Schwerpunkt Strategie und Management</li>
                             </ul>
                             <div class="social-icon">
 
                             </div>
                         </div>
-
                     </div>
+                </div>
+                
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:auto;">
+                        </div>
 
+                        <div class="container">
+                            <h4 class="title title-name">Suhas Patel</h4>
+                            <div class="col-md-12 " style="padding-right:0px">
+                                <div class="row" style="margin-right: 0px;">
+                                    <div class="col-md-12 " style="padding-left:0px;">
+                                        <h6 class="title">& Data Strategy Expert</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="short-line-team bg-red"></div>
+
+                            <ul class="ul-list">
+                                <li>14 Jahre Aufbau von Start-ups in Deutschland</li>
+                                <li> Arbeitete mit Fortune-500-Unternehmen wie Intel, Qualcomm und anderen</li>
+                                <li> Ex-Präsident TiE Deutschland</li>
+                                <!-- <li>Makes them smarter using our AI Software</li> -->
+                            </ul>
+
+                        </div>
+                    </div>
                 </div>
                 <div class="column">
-                    <div class="card row-height-4">
+                    <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/rushang.jpg" alt="Rushang"
+                            <img src="img/juergen.jpeg" alt="Juergen"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
-                            <h4 class="title title-name"> Rushang Gajjal</h4>
-                            <h6 class="title">Data Scientist (Datenwissenschaftler)</h6>
+                            <h4 class="title title-name"> Juergen Halt</h4>
+                            <h6 class="title">R&D Advisor</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Enthusiastisch und widerstandsfähig</li>
-                                <li>Automatisierung seines Lebensweges</li>
-                                <li>Faulheit ScriptKiddie</li>
-                                <li>Musik ist sein Weg nach draußen.</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-            <div class="row">
-
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/Aaditya.jpeg" alt="Aaditya"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Aditya Srivastava</h4>
-                            <h6 class="title">Data Scientist (Datenwissenschaftler) </h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li> Ein ständiger Begleiter</li>
-                                <li> Bevorzugt Tee über Kaffee</li>
-                                <li> Kein ScriptKiddie</li>
+                            <li>Geschäftsumwandlung durch Nutzung von F & E</li>
+                            <li>Bringt große Erfahrung von SAP und HP mit</li>
+                            <li>Forschungshintergrund von Fraunhofer</li>
                             </ul>
                             <div class="social-icon">
 
@@ -441,173 +392,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
 
                 </div>
                 <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/purvesh.jpeg" alt="Purvesh"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Purvesh Thakre</h4>
-                            <h6 class="title">Data Scientist (Datenwissenschaftler) </h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li> Mathematiker vom IIT Bombay</li>
-                                <li> Forschung ist seine Hauptdomäne</li>
-                                <li> Und das beim Einstecken!</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/kushboo.jpg" alt="Purvesh"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Khushboo Galrani</h4>
-                            <h6 class="title">Data Scientist (Datenwissenschaftler) </h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li> Coffeeholic Programmierer</li>
-                                <li> Bevorzugt Hunde gegenüber Menschen</li>
-                                <li> Kreativer Doodler</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/mohit-pic.jpg" alt="Mohit"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Mohit Purbia</h4>
-                            <h6 class="title">Data Scientist (Datenwissenschaftler)</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-            <div class="row">
-                <div class="column" style="width:37%">
-                </div>
-               
-                <div class="column">
-                    <div class="card ">
-                        <div class="card-view-image">
-                            <img src="img/naresh.jpg" alt="Naresh" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-
-                        <div class="container">
-                            <h4 class="title title-name"> Naresh Yadav</h4>
-                            <h6 class="title">Grafikdesigner</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-            <!-------- Custom Divider ------------>
-            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
-                </div>
-                <div class="col-md-2">
-                    <img src="img/fav32.png" style="margin-right: auto;  margin-left: auto;  display: block;">
-                </div>
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
-                </div>
-            </div>
-            <!-------- Custom Divider ------------>
-            <div class="row">
-                <div class="column">
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/lucky.png" alt="Lucky" style="width:100%; height:auto; border-radius:50px;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Lucky Khemani</h4>
-                            <h6 class="title">Technologieberaterin</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>19 Patente unter seinem Namen</li>
-                                <li>Experte für die Audio-, Bild- und Videoverarbeitung</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-
-
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/indra.jpg" alt="Indra" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Indra K. Prajapat</h4>
-                            <h6 class="title">Technologieberaterin</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <!-------- Custom Divider ------------>
-            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
-                </div>
-                <div class="col-md-2">
-                    <img src="img/fav32.png" style="margin-right: auto;  margin-left: auto;  display: block;">
-                </div>
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
-                </div>
-            </div>
-            <!-------- Custom Divider ------------>
-            <div class="row">
-
-                <div class="column">
-                    <div class="card row-height-1">
+                    <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/marvin_circle.jpg" alt="Marvin"
                                 style="width:100%; height:auto; border-radius: 50%;">
@@ -629,31 +414,24 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                     </div>
 
                 </div>
-                <div class="column">
-                    <div class="card row-height-1">
-                        <div class="card-view-image">
-                            <img src="img/lenoid.jpg" alt="Leonid"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Leonid Ravin</h4>
-                            <h6 class="title">Business Development Manager</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li> Großartig im Lesen von Kunden-DNAs</li>
-                                <li>Bringt Erfahrungen von Bosch, Liebherr, Trützschler mit. </li>
-                                <li> TU Dresden Alumni</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
+            </div>
+            <!-------- Custom Divider ------------>
+            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
                 </div>
-                <div class="column">
-                    <div class="card row-height-1">
+                <div class="col-md-2">
+                    <img src="img/fav32.png" style="margin-right: auto;  margin-left: auto;  display: block;">
+                </div>
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
+                </div>
+            </div>
+            <!-------- Custom Divider ------------>
+            
+            <div class="row">
+            <div class="column">
+                    <div class="card row-height-4">
                         <div class="card-view-image">
                             <img src="img/hitesh.jpeg" alt="Hitesh"
                                 style="width:100%; height:auto; border-radius: 50%;">
@@ -675,124 +453,38 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                     </div>
 
                 </div>
-
-                <div class="column">
-                    <div class="card row-height-1">
+            <div class="column">
+                    <div class="card row-height-4">
                         <div class="card-view-image">
-                            <img src="img/anirudh_circle.jpg" alt="Anirudh"
-                                style="width:100%; height:auto; border-radius: 50%;">
+
+                            <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
-                            <h4 class="title title-name"> Anirudh Agrawal</h4>
-                            <h6 class="title">Marketing</h6>
+                            <h4 class="title title-name"> Kamal Galrani</h4>
+                            <h6 class="title"> Data Scientist</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Promotion zum Thema Nachhaltiges Investment</li>
-                                <li>Berufserfahrung in Indien, Frankreich, Dänemark und Deutschland</li>
-                                <li>Anerkannter Autor für Industry 4.0</li>
+                                <li>Geekiest amongs Geeks und ein Amateur-Physiker</li>
+                                <li>Ruft von Indiens bestem Institut: IIT Bombay</li>
+                                <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
                             </ul>
                             <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column" style="width:37%">
-                </div>
-                <div class="column">
-                    <div class="card row-height-1">
-                        <div class="card-view-image">
-                            <img src="img/Johannes.jpg" alt="Johannes"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Johannes Mathies</h4>
-                            <h6 class="title">Head of Cooperation</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Unternehmenstransformator & Opportunity Creator</li>
-                                <li>Erfahrungen von Airbus</li>
-                                <li>Dipl.-Ing. Aerospace Engineering, MBA mit Schwerpunkt Strategie und Management</li>
-                            </ul>
-                            <div class="social-icon">
-
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <!-------- Custom Divider ------------>
-            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
-                </div>
-                <div class="col-md-2">
-                    <img src="img/fav32.png" style="margin-right: auto;  margin-left: auto;  display: block;">
-                </div>
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
-                </div>
-            </div>
-            <!-------- Custom Divider ------------>
-            <div class="row">
+                
                 <div class="column">
-                </div>
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:auto;">
-                        </div>
-
-                        <div class="container">
-                            <h4 class="title title-name">Suhas Patel</h4>
-                            <div class="col-md-12 " style="padding-right:0px">
-                                <div class="row" style="margin-right: 0px;">
-                                    <div class="col-md-6 " style="padding-left:0px;">
-                                        <h6 class="title">CEO</h6>
-                                    </div>
-                                    <div class="col-md-6" style="padding-right:0px;">
-                                        <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
-                                                class="fab fa-linkedin-in"
-                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="short-line-team bg-red"></div>
-
-                            <ul class="ul-list">
-                                <li>14 Jahre Aufbau von Start-ups in Deutschland</li>
-                                <li> Arbeitete mit Fortune-500-Unternehmen wie Intel, Qualcomm und anderen</li>
-                                <li> Ex-Präsident TiE Deutschland</li>
-                                <!-- <li>Makes them smarter using our AI Software</li> -->
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>
-
-                <div class="column">
-
                     <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto;">
                         </div>
                         <div class="container">
-
-
-
                             <h4 class="title title-name">Rahul Prajapat</h4>
                             <div class="col-md-12" style="padding-right:0px">
                                 <div class="row" style="margin-right: 0px;">
-                                    <div class="col-md-6 " style="padding-left:0px;">
-                                        <h6 class="title">CTO</h6>
-                                    </div>
-                                    <div class="col-md-6" style="padding-right:0px;">
-
-                                        <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
-                                                class="fab fa-linkedin-in"
-                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a>
+                                    <div class="col-md-12 " style="padding-left:0px;">
+                                        <h6 class="title">Data Scientist</h6>
                                     </div>
                                 </div>
                             </div>
@@ -807,7 +499,45 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                         </div>
                     </div>
                 </div>
+                <div class="column">
+                    <div class="card row-height-4">
+                        <div class="card-view-image">
+                            <img src="img/peter.jpeg" alt="Peter" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Peter Spinks</h4>
+                            <h6 class="title">Industry 4.0 Reporting</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>Erfahrenes Schreiben für die BBC, den Guardian</li>
+                                <li>Master in Forschungspsychologie</li>
+                                <li>Beliebt für Workshops zu Advanced Technologies</li>
+                            </ul>
+                            <div class="social-icon">
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+ 
+                
             </div>
+            <!-------- Custom Divider ------------>
+            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
+                </div>
+                <div class="col-md-2">
+                    <img src="img/fav32.png" style="margin-right: auto;  margin-left: auto;  display: block;">
+                </div>
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
+                </div>
+            </div>
+            <!-------- Custom Divider ------------>
+            
 
         </div>
     </div>
