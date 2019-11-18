@@ -800,6 +800,7 @@
   border: 1px solid #888;
   width: 80%; /* Could be more or less, depending on screen size */
   height: auto;
+  display: block;
 }
 
 /* The Close Button */
