@@ -167,13 +167,13 @@
     $("#btn").live("click", function() {
 
         if ($("#name").val() !== "" && $("#email").val() !== "" && $("#phone").val() !== "" &&
-            $("#company").val() !== "" && $("#city").val() !== "" && $("#country").val() !== "" &&
+            $("#company").val() !== "" && $("#country").val() !== "" &&
             $("#industry").val() !== "") {
             var name = $("#name").val();
             var email = $("#email").val();
             var phone = $("#countryCode").val() + $("#phone").val();
             var company = $("#company").val();
-            var city = $("#city").val();
+            var city = '';
             var country = $("#country").val();
             var jobrole = '';
             var industry = $("#industry").val();
@@ -965,17 +965,8 @@
                                     </div>
                                 </div>
                                 <div class="col-md">
-
                                     <div class="form-group">
-                                        <input type="text" class="form-control" name="city" id="city"
-                                            placeholder="City *">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="form-row">
-                                <div class="col-md">
-                                    <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0; margin-top: 11px;"
+                                        <select class="form-control" style="padding: 8px 0;"
                                             id="country" data-role="none">
                                             <option value="" disabled selected>Country</option>
                                                     <option  value="Algeria">Algeria </option>
@@ -1195,9 +1186,12 @@
                                         </select>
                                     </div>
                                 </div>
+                            </div>
+                            <div class="form-row">
+                                
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0;margin-top: 11px;"
+                                        <select class="form-control" style="padding: 8px 0;"
                                             id="industry" data-role="none">
                                             <option disabled selected value="">Industry or Area Of Interest</option>
                                             <option value="Aerospace/Defense/Marine">Aerospace/Defense/Marine</option>
@@ -1247,16 +1241,14 @@
                                         </select>
                                     </div>
                                 </div> -->
-                            </div>
-                            <div class="form-row">
-                               
                                 <div class="col-md">
-                                    <div class="form-group" style="margin-top: 1rem;">
+                                    <div class="form-group" style="margin-top: 0.5rem;">
                                         <input type="checkbox" id="appointment" onchange="changeAppointment()">
                                         <label for="appointment">Book Appointment</label>
                                     </div>
                                 </div>
                             </div>
+                             
                             <div class="form-row appointment-div">
                                 <div class="col-md ">
                                     <div class="form-group">
