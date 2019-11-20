@@ -17,7 +17,7 @@ window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 
-<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0"/>
 <meta name="site" content="tvarit.com"/>                   
 <meta name="keywords" content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, "/>
 <meta name="description" content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation"/>
@@ -594,7 +594,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!------------------------footer start --------------------->
     <?php include 'footer.php';?>
     <!------------------------footer end --------------------->
-
+    <div id="myModal" class="modal">
+    <div class="modal-content">
+    <span onclick="closeModal()" class="close_modal">&times;</span>
+      <img src="img/SPS_event_Banner_D.jpg" style="width:100%;height:auto;max-height: 70vh;">
+      <div class="col-md-12 row">
+      <div class="col-md-6" style="text-align:center">
+     <a href="sps-smart-production-solution" target="_blank" class="btn btn-round btn-shadow btn-red-grd voucher">Freier Gutschein</a>
+     </div>
+     <div class="col-md-6" style="text-align:center">
+     <a href="sps-smart-production-solution" target="_blank" class="btn btn-round btn-shadow btn-red-grd voucher">Vereinbare einen Termin</a>
+     </div>
+    </div>
+    </div>
 
     <div class="cookieFooter bg-red-grd" id="cookieDiv">
         <div class="container">
@@ -624,6 +636,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         background: #fff !important;
       }
     </style>
+    <script>
+    $(document).ready(function() {
+        $("#myModal").show();
+    });
+
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+ 
+document.onkeydown = function(e) {
+    if(e.key === "Escape") {
+        modal.style.display = "none";
+    }
+}
+ // When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+function closeModal() {
+    modal.style.display = "none";  
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
 
@@ -659,7 +707,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         }
     }
     </script>
+    <style>
+    .modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
 
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto; /* 15% from the top and centered */
+  padding: 10px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+  height: auto;
+  display: block;
+}
+
+/* The Close Button */
+.close_modal {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.close_modal:hover,
+.close_modal:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+    </style>
 
 </body>
 
