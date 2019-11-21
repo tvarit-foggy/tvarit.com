@@ -102,119 +102,137 @@
                     <i class="fas fa-arrow-right"></i>
                 </a>
                 <ul class="navbar-nav ml-auto">
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Explore</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="javascript://">Services</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                        <div class="textBig">Explore<span class="red">.</span></div>
-                                        <p class="text-normal">See for yourself, the potential Industry 4.0 holds and be
+                                        <div class="textBig">Services<span class="red">.</span></div>
+                                        <!-- <p class="text-normal">See for yourself, the potential Industry 4.0 holds and be
                                             a part of the AI revolution with us. Exploration is really the essence of
-                                            the human spirit.</p>
+                                            the human spirit.</p> -->
                                     </div>
                                 </div>
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="use_cases" class="sub-Link">Use Cases</a>
+                                            <a href="use_cases" class="sub-Link">Data Analysis</a>
                                             <ul class="ul-deep-menu">
                                                 <li>
-                                                    <a href="use_cases#Quality_Prediction" class="sub-Link">Quality
-                                                        Prediction</a>
+                                                    <a href="use_cases#Quality_Prediction" class="sub-Link">Retail Data
+                                                        Analytics</a>
                                                 </li>
                                                 <li>
-                                                    <a href="use_cases#Predictive_Maintenance"
-                                                        class="sub-Link">Predictive
-                                                        Maintenance</a>
+                                                    <a href="use_cases#Predictive_Maintenance" class="sub-Link">Sensor
+                                                        Data Analytics</a>
                                                 </li>
                                                 <li>
-                                                    <a href="use_cases#Supply_Chain" class="sub-Link">Supply Chain</a>
+                                                    <a href="use_cases#Supply_Chain" class="sub-Link">Predictive
+                                                        Analytics</a>
                                                 </li>
-                                                <li>
-                                                    <a href="use_cases#Asset_and_Inventory_Management"
-                                                        class="sub-Link">Asset and Inventory Management</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Intra-plant_Logistics"
-                                                        class="sub-Link">Intra-plant
-                                                        Logistics</a>
-                                                </li>
+
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="whitepapers" class="sub-Link">White Paper</a>
+                                            <a href="whitepapers" class="sub-Link">Resource Planning and
+                                                Optimisation</a>
                                         </li>
                                         <li>
-                                            <a href="blogs" class="sub-Link">Blogs</a>
-                                        </li>
-                                        <li>
-                                            <a href="videos" class="sub-Link">Videos</a>
-                                        </li>
-                                        <li>
-                                            <a href="http://cloud.tvarit.com" target="_blank" class="sub-Link">Demo</a>
-                                        </li>
-                                        <li>
-                                            <a href="news" class="sub-Link">News</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="sub-Link">Survey</a>
+                                            <a href="blogs" class="sub-Link">Digital partnership</a>
                                             <ul class="ul-deep-menu">
-                                                <li>
-                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
-                                                        Manufacturing</a>
-                                                </li>
-                                                <li>
-                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
-                                                        Product </a>
-                                                </li>
-                                                <br><br><br><br><br><br><br>
+                                                <li><a href="use_cases#Supply_Chain" class="sub-Link">Analog to
+                                                        Cloud</a></li>
+                                                <li><a href="use_cases#Supply_Chain" class="sub-Link">Cloud
+                                                        Deployment</a></li>
+                                                <li><a href="use_cases#Supply_Chain" class="sub-Link">Cloud Solutions
+                                                    </a> </li>
+                                            </ul>
                                         </li>
-                                    </ul>
                                 </div>
                             </div>
 
                         </div>
-                    </li> -->
-                    <!-- <li class="nav-item">
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Products</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                        <div class="textBig">Products<span class="red">.</span></div>
+                                        <!-- <p class="text-normal">Exploration is curiosity put into action. Look at the
+                                            transformation we can make and allow us to partner up with you.</p> -->
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="products" class="sub-Link">APA</a>
+
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="javascript://">Solutions</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
                                         <div class="textBig">Solutions<span class="red">.</span></div>
-                                        <p class="text-normal">Exploration is curiosity put into action. Look at the
-                                            transformation we can make and allow us to partner up with you.</p>
+                                        <!-- <p class="text-normal">Exploration is curiosity put into action. Look at the
+                                            transformation we can make and allow us to partner up with you.</p> -->
                                     </div>
                                 </div>
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="products" class="sub-Link">Product</a>
+                                            <a href="products" class="sub-Link">Predictive Maintenance</a>
+
+                                        </li>
+                                        <li>
+                                            <a href="seminar_workshops" class="sub-Link">Customer Analytics</a>
+                                        </li>
+                                        <li>
+                                            <a href="training" class="sub-Link">Sales Optimization</a>
+                                        </li>
+                                        <li>
+                                            <a href="consulting" class="sub-Link">Resource planning and Optimization</a>
                                             <ul class="ul-deep-menu">
                                                 <li>
-                                                    <a href="products#APA" class="sub-Link">APA</a>
+                                                    <a href="products#APA" class="sub-Link">Inventory Optimization</a>
                                                 </li>
+                                                <li>
+                                                    <a href="products#APA" class="sub-Link">Process Planning</a>
+                                                </li>
+                                                <li>
+                                                    <a href="products#APA" class="sub-Link">Supply chain and logistic
+                                                        solutions</a>
+                                                </li>
+
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="seminar_workshops" class="sub-Link">Seminar & Workshops</a>
+                                            <a href="tti" class="sub-Link">Sensor deployment</a>
                                         </li>
                                         <li>
-                                            <a href="training" class="sub-Link">Training</a>
+                                            <a href="tti" class="sub-Link">Energy Savings</a>
                                         </li>
                                         <li>
-                                            <a href="consulting" class="sub-Link">Consulting</a>
+                                            <a href="tti" class="sub-Link">Manufacturing Quality Management
+                                                Solutions</a>
                                         </li>
                                         <li>
-                                            <a href="tti" class="sub-Link">Technology Incubation</a>
+                                            <a href="tti" class="sub-Link">Sensor Health Management</a>
                                         </li>
-
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                    </li> -->
+                    </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link" href="javascript://">Industries</a>
                         <div class="submenu-div">
@@ -266,8 +284,42 @@
 
                     </li> -->
                     <li class="nav-item">
+                        <a class="nav-link" href="/">Company</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                        <div class="textBig">Company<span class="red">.</span></div>
+                                        <!-- <p class="text-normal">Exploration is curiosity put into action. Look at the
+                                            transformation we can make and allow us to partner up with you.</p> -->
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a class="sub-Link" href="about">About Us</a>
+
+                                        </li>
+                                        <li>
+                                            <a class="sub-Link" href="career">Knowledge</a>
+                                        </li>
+                                        <li>
+                                            <a class="sub-Link" href="about#Team">Team</a>
+                                        </li>
+                                        <li>
+                                            <a class="sub-Link" href="career">Careers</a>
+                                        </li>
+                                        <li>
+                                            <a class="sub-Link" href="contact">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="about">About Us</a>
-                        <!-- <div class="submenu-div">
+                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
@@ -296,20 +348,9 @@
                                     </ul>
                                 </div>
                             </div>
-                        </div> -->
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="career">Knowledge</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about#Team">Team</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="career">Careers</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact">Contact</a>
-                    </li>
+                        </div> 
+                    </li>-->
+
                     <!-- <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
                         <a style="padding-right:5px;" class="nav-link lang-link" href="de/index">DE</a>
                         <a style="padding-right:3px;padding-left:3px;" class="nav-link lang-link">|<a>
@@ -359,120 +400,7 @@
         </div>
     </header>
     <!------------------------ header end --------------------------->
-    <div class="col-md-12 row">
-    <div class="col-md-4">
-    <div class="section-padding" id="Quality_Prediction">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-big60 fw-900">Services</div>
-                        </div>
-
-                        <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
-                            <p class="text-p">
-                                <ul class="ul-list-bullet">
-                                    <li>Data Analysis
-                                        <ul class="ul-list-bullet black-bullet">
-                                            <li>Retail Data Analytics</li>
-                                            <li>Sensor Data Analytics</li>
-                                            <li>Predictive Analytics</li>
-                                        </ul>
-                                    </li>
-                                    <li>Resource Planning and Optimisation
-                                    </li>
-                                    <li>Digital partnership
-                                        <ul class="ul-list-bullet black-bullet">
-                                            <li> Analog to Cloud </li>
-                                            <li> Cloud Deployment </li>
-                                            <li> Cloud Solutions </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-        </div>
-        <div class="col-md-4">
-    <div class="section-padding" id="Predictive_Maintenance">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md order-2 order-md-1">
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-big60 fw-900">Products</div>
-                        </div>
-
-                        <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
-                            <p class="text-p">
-                                <ul class="ul-list-bullet ">
-                                    <li>APA</li>
-                                </ul>
-                                We have developed a state-of-the-art technology which is powered by AI. Tvarit's
-                                Automated Predictive Analysis (APA) tool has widened the space for AI applications with
-                                22+ algorithms developed by our in-house team of industry experts. We enable businesses
-                                to make smart and informed decisions by deriving actionable and valuable insights from a
-                                sea of data. It can be implemented to optimize asset management, supply chain
-                                management, inventory management, quality management, and workflow distribution process
-                                in manufacturing.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                
-            </div>
-        </div>
-    </div>
-        </div>
-        <div class="col-md-4">
-    <div class="section-padding" id="Supply_Chain">
-        <div class="container">
-
-            <div class="row align-items-center">
-                 
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-big60 fw-900">Solutions</div>
-                        </div>
-
-                        <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
-                            <p class="text-p">
-                                <ul class="ul-list-bullet ">
-                                    <li>Predictive Maintenance</li>
-                                    <li>Customer Analytics</li>
-                                    <li>Sales Optimization</li>
-                                    <li>Resource planning and Optimization
-                                        <ul class="ul-list-bullet black-bullet">
-                                            <li>Inventory Optimization</li>
-                                            <li>Process Planning</li>
-                                            <li>Supply chain and logistic solutions</li>
-                                        </ul>
-                                    </li>
-                                    <li>Sensor deployment</li>
-                                    <li>Energy Savings</li>
-                                    <li>Manufacturing Quality Management Solutions</li>
-                                    <li>Sensor Health Management</li>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    </div>
-</div>
+     
     <!------------------------Automated slide start --------------------->
     <?php 
                 include 'change_we_bring.php';
