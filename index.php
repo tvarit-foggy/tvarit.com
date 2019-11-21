@@ -661,7 +661,7 @@
         <script src="http://beta.tvarit.com/js/jquery.min.js"></script>
         <script src="http://beta.tvarit.com/js/popper.min.js"></script>
 
-        <script src="http://beta.tvarit.com/bootstrap.min.js"></script>
+        <script src="http://beta.tvarit.com/js/bootstrap.min.js"></script>
         <script src="http://beta.tvarit.com/js/jquery.easing.min.js"></script>
         <script src="http://beta.tvarit.com/js/SmoothScroll.js"></script>
         <script src="http://beta.tvarit.com/js/flickity.pkgd.min.js"></script>
