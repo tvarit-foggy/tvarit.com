@@ -386,7 +386,7 @@
                             <li>Makes them smarter using our AI Software - Automated Predictive Analytics (APA)</li>
                         </ul>
                         <br>
-                        <a href="http://cloud.tvarit.com" target="_blank"
+                        <a href="https://cloud.tvarit.com" target="_blank"
                             class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                     <br>
@@ -658,17 +658,17 @@
         }
         </script> -->
         <!-- script start -->
-        <script src="http://beta.tvarit.com/js/jquery.min.js"></script>
-        <script src="http://beta.tvarit.com/js/popper.min.js"></script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
 
-        <script src="http://beta.tvarit.com/js/bootstrap.min.js"></script>
-        <script src="http://beta.tvarit.com/js/jquery.easing.min.js"></script>
-        <script src="http://beta.tvarit.com/js/SmoothScroll.js"></script>
-        <script src="http://beta.tvarit.com/js/flickity.pkgd.min.js"></script>
-        <script src="http://beta.tvarit.com/js/readmore.js"></script>
-        <script src="http://beta.tvarit.com/js/counting.js"></script>
-        <script src="http://beta.tvarit.com/js/script.js"></script>
-        <script src="http://beta.tvarit.com/js/parallax.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.easing.min.js"></script>
+        <script src="js/SmoothScroll.js"></script>
+        <script src="js/flickity.pkgd.min.js"></script>
+        <script src="js/readmore.js"></script>
+        <script src="js/counting.js"></script>
+        <script src="js/script.js"></script>
+        <script src="js/parallax.js"></script>
         <script type="text/javascript">
         function WriteCookie() {
             if (document.myform.customer.value == "") {
