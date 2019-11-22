@@ -33,7 +33,17 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
         <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
-
+        <script>
+       var language;
+    if (window.navigator.languages) {
+      language = window.navigator.languages[0];
+    } else {
+      language = window.navigator.userLanguage || window.navigator.language;
+    }
+    if(language.indexOf('de') == 0) {
+      window.location.href = "https://de.tvarit.com";
+    }
+    </script>
         <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
