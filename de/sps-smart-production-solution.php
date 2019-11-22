@@ -452,7 +452,7 @@
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="./">
+            <a class="navbar-brand bold uppr" href="#">
                 <img src="img/logo.png" class="img-fluid">
             </a>
 
@@ -468,12 +468,12 @@
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Explore</a>
+                        <a class="nav-link" href="javascript://">Erkunden</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                        <div class="textBig">Explore<span class="red">.</span></div>
+                                        <div class="textBig">Erkunden<span class="red">.</span></div>
                                         <p class="text-normal">See for yourself, the potential Industry 4.0 holds and be
                                             a part of the AI revolution with us. Exploration is really the essence of
                                             the human spirit.</p>
@@ -490,7 +490,8 @@
                                                 </li>
                                                 <li>
                                                     <a href="use_cases#Predictive_Maintenance"
-                                                        class="sub-Link">Predictive Maintenance</a>
+                                                        class="sub-Link">Predictive
+                                                        Maintenance</a>
                                                 </li>
                                                 <li>
                                                     <a href="use_cases#Supply_Chain" class="sub-Link">Supply Chain</a>
@@ -501,7 +502,8 @@
                                                 </li>
                                                 <li>
                                                     <a href="use_cases#Intra-plant_Logistics"
-                                                        class="sub-Link">Intra-plant Logistics</a>
+                                                        class="sub-Link">Intra-plant
+                                                        Logistics</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -520,9 +522,6 @@
                                         <li>
                                             <a href="news" class="sub-Link">News</a>
                                         </li>
-                                        <li>
-                                            <a href="survey" class="sub-Link">Survey</a>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -530,12 +529,12 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Solutions</a>
+                        <a class="nav-link" href="javascript://">Lösungen</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                        <div class="textBig">Solutions<span class="red">.</span></div>
+                                        <div class="textBig">Lösungen<span class="red">.</span></div>
                                         <p class="text-normal">Exploration is curiosity put into action. Look at the
                                             transformation we can make and allow us to partner up with you.</p>
                                     </div>
@@ -569,12 +568,12 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Industries</a>
+                        <a class="nav-link" href="javascript://">Industrien</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                        <div class="textBig">Industries<span class="red">.</span></div>
+                                        <div class="textBig">Industrien<span class="red">.</span></div>
                                         <p class="text-normal">Simplicity is about subtracting the obvious and adding
                                             the meaningful. Wander and wonder over the widespread applications of our
                                             solutions.</p>
@@ -619,12 +618,12 @@
 
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="about">About Us</a>
+        <a class="nav-link" href="about">Über Uns</a>
         <div class="submenu-div">
             <div class="row">
                 <div class="col">
                     <div class="menuQuote">
-                        <div class="textBig">About us<span class="red">.</span></div>
+                        <div class="textBig">Über Uns<span class="red">.</span></div>
                         <p class="text-normal">We believe in the transfusion of technology & humanity for imperative
                             growth and work invariably to deliver tech-savvy APA products which help make your business
                             simpler and upgraded.</p>
@@ -650,10 +649,16 @@
         </div>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="career">Careers</a>
+        <a class="nav-link" href="career">Karriere</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="contact">Contact</a>
+        <a class="nav-link" href="contact">Kontakt</a>
+    </li>
+    <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
+        <a style="padding-right:5px;pointer-events: none;color:#f74785 !important;" class="nav-link lang-link"
+            href="de/index"><b>DE</b></a>
+        <a style="padding-right:3px;padding-left:3px;" class="nav-link lang-link">|<a>
+                <a style="padding-left:5px;" class="nav-link lang-link" href="https://tvarit.com/"><b>EN</b></a>
     </li>
     </ul>
     </div>
@@ -725,7 +730,7 @@ Smart Production Solutions ist Europas Leitmesse für Automatisierung.
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group row" style="margin-left: 0px; ">
-                                        <select class="form-control countryCode" style="padding: 8px 0; width:30%; margin-top: 0.7rem; "
+                                        <select class="form-control countryCode" style="padding: 8px 0; width:30%; "
                                             id="countryCode" data-role="none" onchange="changeCode()">
                                                     <option dataCountryCode="Germany" value="49">+49 Germany</option>
                                                     <option dataCountryCode="Algeria" value="213">+213 Algeria</option>

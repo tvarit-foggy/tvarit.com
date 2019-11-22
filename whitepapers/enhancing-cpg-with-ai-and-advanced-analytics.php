@@ -249,6 +249,11 @@ gtag('config', 'UA-143837547-1');
               <li class="nav-item">
                 <a class="nav-link" href="../contact">Contact</a>
               </li>
+              <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
+<a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
+        <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
+        <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link" href="./"><b>EN</b></a>
+    </li>
             </ul>
           </div>
         </nav>

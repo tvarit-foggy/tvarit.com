@@ -17,10 +17,13 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="site" content="tvarit.com"/>                   
-<meta name="keywords" content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, "/>
-    <meta name="description" content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation"/>
-    <meta name="keywords" content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop"/>
+    <meta name="site" content="tvarit.com" />
+    <meta name="keywords"
+        content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
+    <meta name="description"
+        content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
+    <meta name="keywords"
+        content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop" />
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
@@ -46,17 +49,19 @@
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
-<style>
-.news-content {
-    top: 0px;
-}
-.read-more-link:hover {
-    color: blue;
-}
-#new-carousel .item {
-    width: 325px;
-} 
-</style>
+    <style>
+    .news-content {
+        top: 0px;
+    }
+
+    .read-more-link:hover {
+        color: blue;
+    }
+
+    #new-carousel .item {
+        width: 325px;
+    }
+    </style>
 </head>
 
 <body>
@@ -134,7 +139,7 @@
                                             <a href="news" class="sub-Link">News</a>
                                         </li>
                                         <li>
-                                                <a href="#" class="sub-Link">Survey</a>
+                                            <a href="#" class="sub-Link">Survey</a>
                                             <ul class="ul-deep-menu">
                                                 <li>
                                                     <a href="ai_for_manufacturing" class="sub-Link">AI for
@@ -278,6 +283,13 @@
     <li class="nav-item">
         <a class="nav-link" href="contact">Contact</a>
     </li>
+    <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
+<a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
+        <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
+                <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link"
+                    href="./"><b>EN</b></a>
+    </li>
+    </li>
     </ul>
     </div>
     </nav>
@@ -350,7 +362,7 @@
                         <div class="news-content">
                             <div class="text-sub">SPS 2019</div>
                             <h4 class="title">Smart Production Solutions is Europe's number 1 exhibition for automation.
-                            SPS 2019 will take place from 26 to 28 November at Nurnberg Messe.
+                                SPS 2019 will take place from 26 to 28 November at Nurnberg Messe.
                             </h4>
                             <div class="post-text">
                                 <span class="date">26 to 28 November 2019 Nurnberg Messe</span>
@@ -361,7 +373,7 @@
                         </div>
                     </a>
                 </div>
-                
+
 
             </div>
 
@@ -380,7 +392,7 @@
             <br>
 
             <div class="news-carousel past-event owl-carousel owl-theme">
-            <div class="item">
+                <div class="item">
                     <a href="https://www.iaa.de/" target="_blank" class="newsBox">
                         <div class="news-pic">
                             <img src="img/partners_img/Logo_IAA.png" class="img-fluid">
@@ -417,7 +429,7 @@
                         </div>
                     </a>
                 </div>
-            <div class="item">
+                <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
                             <img src="img/partners_img/logo_zvei.png" class="img-fluid">
@@ -427,7 +439,7 @@
                             <h4 class="title">Tvarit has been invited to showcase its ‘AI for Manufacturing’ software at
                                 Germany’s biggest electronics association annual conference</h4>
                             <div class="post-text">
-                                 <!-- <span class="date">22-23th May</span> -->
+                                <!-- <span class="date">22-23th May</span> -->
                             </div>
                         </div>
                     </a>
@@ -449,7 +461,7 @@
                     </a>
                 </div>-->
 
-              <!--   <div class="item">
+                <!--   <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
                             <img src="img/pic-2.jpg" class="img-fluid">
@@ -942,11 +954,11 @@
     <!-- script start -->
     <script>
     $(document).ready(function() {
-    $("#new-carousel").owlCarousel({
-    // items : 1,
-    singleItem : true,
+        $("#new-carousel").owlCarousel({
+            // items : 1,
+            singleItem: true,
+        });
     });
-});
     </script>
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
