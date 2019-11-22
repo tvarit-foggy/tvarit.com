@@ -366,9 +366,6 @@
     <!------------------------ header start ------------------------->
     <header class="headerBg">
         <a href="#Quality_Prediction" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
-        <video poster="img/indexVideoBg.jpg" autoplay="true" muted loop>
-            <source src="video/indexBg.mp4" type="video/mp4">
-        </video>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6 title-div">
@@ -658,8 +655,8 @@
         }
         </script> -->
         <!-- script start -->
-        <script src="js/jquery.min.js"></script>
-        <script src="js/popper.min.js"></script>
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/popper.min.js"></script>
 
         <script src="js/bootstrap.min.js"></script>
         <script src="js/jquery.easing.min.js"></script>
