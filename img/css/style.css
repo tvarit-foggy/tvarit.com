@@ -330,6 +330,9 @@ p
 {
     background: #ed1b4a;
 }
+.main-menu .navbar-nav .nav-item a.nav-link lang-link:hover:before {
+    background: #fff !important;
+}
 .fixed-menu
 {
     position: fixed;

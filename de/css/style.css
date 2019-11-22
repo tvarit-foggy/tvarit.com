@@ -327,6 +327,9 @@ p
 {
     background: #ed1b4a;
 }
+.main-menu .navbar-nav .nav-item a.lang-link:hover:before {
+    background: #fff !important;
+}
 .fixed-menu
 {
     position: fixed;
@@ -1881,4 +1884,33 @@ ul.accordion li a.toggle:hover {
 {
     max-height: 500px;
     overflow: auto;
+}
+.countryCode {
+    height: 49px;
+}
+.timeSlots {
+    margin-top: 11px;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) and (min-color-index:0) {
+    /*
+      Define here the CSS styles applied only to the Safari 6 and 7 versions when
+      running them in any device (computers, iPhone, iPad, ...)
+     */
+     .formBox .form-control {
+        padding: 0px 0;
+     }
+     .countryCode {
+        height: unset;
+    }
+    .timeSlots {
+        margin-top: unset;
+    }
+}
+@media screen and (-moz-min-device-pixel-ratio:0) {
+    .countryCode {
+        height: unset;
+    }
+    .timeSlots {
+        margin-top: unset;
+    }
 }
