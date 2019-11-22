@@ -730,7 +730,7 @@ Smart Production Solutions ist Europas Leitmesse für Automatisierung.
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group row" style="margin-left: 0px; ">
-                                        <select class="form-control countryCode" style="padding: 8px 0; width:30%; "
+                                        <select class="form-control countryCode" style="padding: 8px 0; width:30%; margin-top: 0.7rem; "
                                             id="countryCode" data-role="none" onchange="changeCode()">
                                                     <option dataCountryCode="Germany" value="49">+49 Germany</option>
                                                     <option dataCountryCode="Algeria" value="213">+213 Algeria</option>
@@ -973,7 +973,7 @@ Smart Production Solutions ist Europas Leitmesse für Automatisierung.
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0; " 
+                                        <select class="form-control" style="padding: 8px 0;margin-top: 0.7rem; " 
                                             id="country" data-role="none">
                                             <option value="" disabled selected>Country</option>
                                                     <option  value="Algeria">Algeria </option>
@@ -1198,7 +1198,7 @@ Smart Production Solutions ist Europas Leitmesse für Automatisierung.
                                 
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control" style="padding: 8px 0;"
+                                        <select class="form-control" style="padding: 8px 0; margin-top: 0.7rem;"
                                             id="industry" data-role="none">
                                             <option disabled selected value="">Industry or Area Of Interest</option>
                                             <option value="Aerospace/Defense/Marine">Aerospace/Defense/Marine</option>
@@ -1266,7 +1266,7 @@ Smart Production Solutions ist Europas Leitmesse für Automatisierung.
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group">
-                                        <select class="form-control timeSlots" style="padding: 8px 0;"
+                                        <select class="form-control timeSlots" style="padding: 8px 0;margin-top: 0.7rem;"
                                             id="time_slot" data-role="none">
                                             <select>
                                     </div>
