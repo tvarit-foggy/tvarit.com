@@ -299,6 +299,10 @@ p
     background: #222;
     display: none;
 }
+.main-menu .navbar-nav .nav-item a.lang-link:before
+{
+    background: #fff !important;
+}
 .main-menu .navbar-nav .nav-item.active a.nav-link:before
 {
     display: block;
@@ -368,6 +372,10 @@ p
 .fixed-menu .navbar-nav .nav-item.active a.nav-link:before
 {
     background: #222;
+}
+.fixed-menu .navbar-nav .nav-item.active a.lang-link:before
+{
+    background: #fff !important;
 }
 .main-menu .navbar-nav li.show .submenu-div
 { 
