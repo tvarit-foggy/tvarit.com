@@ -150,7 +150,8 @@
                                                 </li>
                                                 <li>
                                                     <a href="use_cases#Intra-plant_Logistics"
-                                                        class="sub-Link">Intra-Plant Logistik  (Innerbetriebliche Logistik)</a>
+                                                        class="sub-Link">Intra-Plant Logistik (Innerbetriebliche
+                                                        Logistik)</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -656,7 +657,7 @@
     <div id="myModal" class="modal">
         <div class="modal-content">
             <span onclick="closeModal()" class="close_modal">&times;</span>
-            <img src="img/SPS_event_Banner_D.jpg" style="width:100%;height:auto;max-height: 70vh;">
+            <img src="img/SPS__Banner.jpg" style="width:100%;height:auto;max-height: 70vh;">
             <div class="col-md-12 row">
                 <div class="col-md-6" style="text-align:center">
                     <a href="sps-smart-production-solution" target="_blank"
