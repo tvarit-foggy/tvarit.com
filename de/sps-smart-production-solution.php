@@ -948,7 +948,7 @@ Smart Production Solutions ist Europas Leitmesse für Automatisierung.
                                             		<option dataCountryCode="Zimbabwe" value="263">+263 Zimbabwe</option>
                                         </select>
                                         <input type="number" class="form-control" style="width:65%" name="phone"
-                                            id="phone" placeholder="Phone *">
+                                            id="phone" placeholder="Telefon *">
                                     </div>
                                 </div>
                                 <div class="col-md">
@@ -968,7 +968,7 @@ Smart Production Solutions ist Europas Leitmesse für Automatisierung.
                                 <div class="col-md">
                                     <div class="form-group">
                                         <input type="text" class="form-control" name="msg" id="msg"
-                                            placeholder="Message">
+                                            placeholder="Nachricht">
                                     </div>
                                 </div>
                                 <div class="col-md">
@@ -1274,7 +1274,7 @@ Smart Production Solutions ist Europas Leitmesse für Automatisierung.
                             </div>
                             <div class="">
                                 <div class="form-group text-right">
-                                    <input type="button" value="Submit" style="margin-top: 10px;" id="btn"
+                                    <input type="button" value="Abschicken" style="margin-top: 10px;" id="btn"
                                         class="btn btn-round btn-red-grd">
                                 </div>
                             </div>

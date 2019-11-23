@@ -404,22 +404,22 @@ Wir werden Sie innerhalb von 24 Stunden kontaktieren.
                   <div class="form-row">
                     <div class="col-md">
                       <div class="form-group">
-                        <input type="text" class="form-control" name="subject" id="sub" placeholder="Subject">
+                        <input type="text" class="form-control" name="subject" id="sub" placeholder="Betreff">
                       </div>
                     </div>
                     <div class="col-md">
                       <div class="form-group">
-                        <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone *">
+                        <input type="text" class="form-control" name="phone" id="phone" placeholder="Telefon *">
                       </div>
                     </div>
                   </div>
                   
                   <div class="form-group">
-                    <textarea class="form-control" rows="3"  name="msg" id="msg" placeholder="Message"></textarea>
+                    <textarea class="form-control" rows="3"  name="msg" id="msg" placeholder="Nachricht"></textarea>
                   </div>
                   <br>
                   <div class="form-group text-right">
-                        <input   type="button" value="Submit" id="btn"   class="btn btn-round btn-red-grd">
+                        <input   type="button" value="Abschicken" id="btn"   class="btn btn-round btn-red-grd">
                   </div>
                     <div id="snackbar">We Will Contact you Shortly</div>
                   <div id="validation">Fill All the Mandatory Fields</div>

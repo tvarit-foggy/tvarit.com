@@ -278,7 +278,7 @@ Weise zu helfen.  Das Team von Tvarit freut sich darauf, alle Ihre Fragen zu bea
              </div>
               <br>
 
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">30 Tage kostenlos testen</a>
             </div>
           </div>
         </div>
