@@ -357,6 +357,9 @@ p
 {
     background: #222;
 }
+.fixed-menu.sticky .navbar-nav .nav-item.active a.lang-link:before {
+    background: #fff !important;
+}
 .fixed-menu .navbar-nav .nav-link,.fixed-menu .navbar-nav .nav-item.active .nav-link,.fixed-menu .navbar-brand
 {
     color: #222;

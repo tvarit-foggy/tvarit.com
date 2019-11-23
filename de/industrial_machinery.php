@@ -298,7 +298,7 @@ gtag('config', 'UA-143837547-1');
             <div class="col-md">
            <div class="px-4 box-content-left" >
               <div class="title">
-               <span class="text-big60 red fw-900">Industrial Machinery</span>
+               <span class="text-big60 red fw-900">INDUSTRIEMASCHINEN</span>
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">

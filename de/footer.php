@@ -261,7 +261,7 @@ $("#btn").live("click",function(){
             <br>
 
              <div class="ft-social">
-              <h3>Disclaimer</h3>
+              <h3>Haftungsausschluss</h3>
               <div class="ft-links">
                 <a href="impressum">Impressum</a>
                 <a href="datenschutz">Datenschutz</a>
