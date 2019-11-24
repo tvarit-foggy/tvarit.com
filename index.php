@@ -104,7 +104,7 @@
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="services">Services</a>
+                        <a class="nav-link" href="services.php">Services</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
@@ -156,7 +156,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="products">Products</a>
+                        <a class="nav-link" href="products.php">Products</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
@@ -169,7 +169,7 @@
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="products" class="sub-Link">APA</a>
+                                            <a href="products.php" class="sub-Link">APA</a>
 
                                         </li>
                                     </ul>
@@ -178,7 +178,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="solutions">Solutions</a>
+                        <a class="nav-link" href="solutions.php">Solutions</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
