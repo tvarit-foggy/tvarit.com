@@ -104,7 +104,7 @@
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Services</a>
+                        <a class="nav-link" href="services">Services</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
@@ -156,7 +156,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Products</a>
+                        <a class="nav-link" href="products">Products</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
@@ -178,7 +178,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Solutions</a>
+                        <a class="nav-link" href="solutions">Solutions</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
