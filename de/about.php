@@ -374,40 +374,42 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
+                            <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name">Rahul Prajapat</h4>
+                            <div class="col-md-12" style="padding-right:0px">
+                                <div class="row" style="margin-right: 0px;">
+                                    <div class="col-md-12 " style="padding-left:0px;">
+                                        <h6 class="title">CTO</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="short-line-team bg-red"></div>
+
+                            <ul class="ul-list">
+                                <li>M.Tech vom IIT Mumbai & TU Darmstadt</li>
+                                <li>Berufserfahrung bei NASA, NTT, Linde, IFM, etc.</li>
+                                <li> Auszeichnungen von MIT GSW, Harvard-Projekt für Asien</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
                             <img src="img/juergen.jpeg" alt="Juergen"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Juergen Halt</h4>
-                            <h6 class="title">R&D Advisor</h6>
+                            <h6 class="title">R&D Director</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                             <li>Geschäftsumwandlung durch Nutzung von F & E</li>
                             <li>Bringt große Erfahrung von SAP und HP mit</li>
                             <li>Forschungshintergrund von Fraunhofer</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/marvin_circle.jpg" alt="Marvin"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Marvin Dadischeck</h4>
-                            <h6 class="title">Business Development Manager</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li> Schaffung von Mehrwertangeboten für Kunden</li>
-                                <li>Aus dem Hintergrund der Betriebswirtschaftslehre</li>
-                                <li>Berufserfahrung bei Audi, Federal-Mogul</li>
                             </ul>
                             <div class="social-icon">
 
@@ -456,6 +458,29 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                     </div>
 
                 </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/marvin_circle.jpg" alt="Marvin"
+                                style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Marvin Dadischeck</h4>
+                            <h6 class="title">Business Development Manager</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li> Schaffung von Mehrwertangeboten für Kunden</li>
+                                <li>Aus dem Hintergrund der Betriebswirtschaftslehre</li>
+                                <li>Berufserfahrung bei Audi, Federal-Mogul</li>
+                            </ul>
+                            <div class="social-icon">
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>            
             <div class="column">
                     <div class="card row-height-4">
                         <div class="card-view-image">
@@ -477,31 +502,6 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                     </div>
                 </div>
                 
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name">Rahul Prajapat</h4>
-                            <div class="col-md-12" style="padding-right:0px">
-                                <div class="row" style="margin-right: 0px;">
-                                    <div class="col-md-12 " style="padding-left:0px;">
-                                        <h6 class="title">Data Scientist</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="short-line-team bg-red"></div>
-
-                            <ul class="ul-list">
-                                <li>M.Tech vom IIT Mumbai & TU Darmstadt</li>
-                                <li>Berufserfahrung bei NASA, NTT, Linde, IFM, etc.</li>
-                                <li> Auszeichnungen von MIT GSW, Harvard-Projekt für Asien</li>
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>
                 <div class="column">
                     <div class="card row-height-4">
                         <div class="card-view-image">

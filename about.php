@@ -397,6 +397,38 @@
                     </div>
                 </div>
                 <div class="column">
+
+                    <div class="card row-height-4">
+                        <div class="card-view-image">
+                            <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name">Rahul Prajapat</h4>
+                            <div class="col-md-12" style="padding-right:0px">
+                                <div class="row" style="margin-right: 0px;">
+                                    <div class="col-md-12" style="padding-left:0px;">
+                                        <h6 class="title">CTO</h6>
+                                    </div>
+                                    <!-- <div class="col-md-6" style="padding-right:0px;">
+
+                                        <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
+                                                class="fab fa-linkedin-in"
+                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a>
+                                    </div> -->
+                                </div>
+                            </div>
+                            <div class="short-line-team bg-red"></div>
+
+                            <ul class="ul-list">
+                                <li>M.Tech from IIT Mumbai & TU Darmstadt</li>
+                                <li>Work experience with NASA, NTT, Linde, IFM</li>
+                                <li> Awards from MIT GSW, Harvard project for Asia</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/juergen.jpeg" alt="Juergen"
@@ -404,7 +436,7 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Juergen Halt</h4>
-                            <h6 class="title">R&D Advisor</h6>
+                            <h6 class="title">R&D Director</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                             <li>Business Transformation by utilizing R&D</li>
@@ -418,31 +450,7 @@
 
                     </div>
 
-                </div>
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/marvin_circle.jpg" alt="Marvin"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Marvin Dadischeck</h4>
-                            <h6 class="title">Business Development Manager</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li> Creating Value Propositions for Customers</li>
-                                <li>Hails from Business Administration background</li>
-                                <li>Work experience with Audi, Federal-Mogul</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-                
+                </div>                
             </div>
 
             <!-------- Custom Divider ------------>
@@ -528,6 +536,30 @@
                     </div>
 
                 </div>
+            
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/marvin_circle.jpg" alt="Marvin"
+                                style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Marvin Dadischeck</h4>
+                            <h6 class="title">Business Development Manager</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li> Creating Value Propositions for Customers</li>
+                                <li>Hails from Business Administration background</li>
+                                <li>Work experience with Audi, Federal-Mogul</li>
+                            </ul>
+                            <div class="social-icon">
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>            
             <div class="column">
                     <div class="card row-height-4">
                         <div class="card-view-image">
@@ -550,40 +582,7 @@
 
                     </div>
 
-                </div>
-                <div class="column">
-
-                    <div class="card row-height-4">
-                        <div class="card-view-image">
-                            <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name">Rahul Prajapat</h4>
-                            <div class="col-md-12" style="padding-right:0px">
-                                <div class="row" style="margin-right: 0px;">
-                                    <div class="col-md-12" style="padding-left:0px;">
-                                        <h6 class="title">Data Scientist</h6>
-                                    </div>
-                                    <!-- <div class="col-md-6" style="padding-right:0px;">
-
-                                        <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
-                                                class="fab fa-linkedin-in"
-                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a>
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="short-line-team bg-red"></div>
-
-                            <ul class="ul-list">
-                                <li>M.Tech from IIT Mumbai & TU Darmstadt</li>
-                                <li>Work experience with NASA, NTT, Linde, IFM</li>
-                                <li> Awards from MIT GSW, Harvard project for Asia</li>
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>
-               
+                </div>               
                 <div class="column">
                     <div class="card row-height-4">
                         <div class="card-view-image">
