@@ -330,25 +330,7 @@
             <br>
 
             <div class="news-carousel up-event owl-carousel owl-theme" id="new-carousel">
-                <div class="item">
-                    <a href="sps-smart-production-solution" target="_blank" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/SPS-2019.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">SPS 2019</div>
-                            <h4 class="title">Smart Production Solutions is Europe's number 1 exhibition for automation.
-                                SPS 2019 will take place from 26 to 28 November at Nurnberg Messe.
-                            </h4>
-                            <div class="post-text">
-                                <span class="date">26 to 28 November 2019 Nurnberg Messe</span>
-                                <br><br>
-                                <span class="read-more-link">Read More</span>
-
-                            </div>
-                        </div>
-                    </a>
-                </div>
+              
                 <!-- <div class="item">
             <a href="javascript://" class="newsBox">
               <div class="news-pic">
@@ -411,6 +393,25 @@
             <br>
 
             <div class="news-carousel past-event owl-carousel owl-theme">
+            <div class="item">
+                    <a href="sps-smart-production-solution" target="_blank" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/SPS-2019.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">SPS 2019</div>
+                            <h4 class="title">Smart Production Solutions is Europe's number 1 exhibition for automation.
+                                SPS 2019 will take place from 26 to 28 November at Nurnberg Messe.
+                            </h4>
+                            <div class="post-text">
+                                <span class="date">26 to 28 November 2019 Nurnberg Messe</span>
+                                <br><br>
+                                <span class="read-more-link">Read More</span>
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
                 <div class="item">
                     <a href="https://www.iaa.de/" target="_blank" class="newsBox">
                         <div class="news-pic">

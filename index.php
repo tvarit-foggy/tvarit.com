@@ -753,19 +753,7 @@
     include 'footer.php';
     ?>
     <!------------------------footer end --------------------->
-    <div id="myModal" class="modal">
-    <div class="modal-content">
-    <span onclick="closeModal()" class="close_modal">&times;</span>
-      <img src="img/SPS_event_Banner_D.jpg" style="width:100%;height:auto;max-height: 70vh;">
-      <div class="col-md-12 row">
-      <div class="col-md-6" style="text-align:center">
-     <a href="sps-smart-production-solution" target="_blank" class="btn btn-round btn-shadow btn-red-grd voucher">Get Free Voucher</a>
-     </div>
-     <div class="col-md-6" style="text-align:center">
-     <a href="sps-smart-production-solution" target="_blank" class="btn btn-round btn-shadow btn-red-grd voucher">Book an Appointment</a>
-     </div>
-    </div>
-    </div>
+    
     <div class="cookieFooter bg-red-grd" id="cookieDiv">
         <div class="container">
             <div class="row justify-content-between">
@@ -787,96 +775,8 @@
         </div>
     </div>
 
-<style>
-.modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  left: 0;
-  top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-}
-
-/* Modal Content/Box */
-.modal-content {
-  background-color: #fefefe;
-  margin: 5% auto; /* 15% from the top and centered */
-  padding: 10px;
-  border: 1px solid #888;
-  width: 80%; /* Could be more or less, depending on screen size */
-  height: auto;
-  display: block;
-}
-
-/* The Close Button */
-.close_modal {
-  color: #aaa;
-  float: right;
-  font-size: 28px;
-  font-weight: bold;
-  text-align: right;
-}
-
-.close_modal:hover,
-.close_modal:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-.voucher {
-    margin: 10px;
-}
-
-@media (max-width:500px) {
-    .modal {
-    margin-top: 15%;
-    }
-    .close_modal {
-        font-size: 15px;
-    }
-}
-
-</style>
-<script>
-    $(document).ready(function() {
-        $("#myModal").show();
-    });
-
-// Get the modal
-var modal = document.getElementById("myModal");
-
-// Get the button that opens the modal
-var btn = document.getElementById("myBtn");
-
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-
-// When the user clicks the button, open the modal 
  
-document.onkeydown = function(e) {
-    if(e.key === "Escape") {
-        modal.style.display = "none";
-    }
-}
- // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-}
-function closeModal() {
-    modal.style.display = "none";  
-}
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-</script>
+ 
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
