@@ -1,18 +1,14 @@
 <div class="section-padding-both">
       <div class="container">
         <div class="centerTitle text-big60">
-          Using <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>
+        References 
+        <!-- <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> -->
         </div>
         <br>
         <div class="client-carousel">
           <div class="carousel-cell">
             <div class="picBox w-90">
               <img src="img/client_logo/aditya_birla.jpg" class="img-fluid">
-            </div>
-          </div>
-          <div class="carousel-cell">
-            <div class="picBox w-90">
-              <img src="img/client_logo/John_Deere_logo.png" class="img-fluid">
             </div>
           </div>
           <div class="carousel-cell">
