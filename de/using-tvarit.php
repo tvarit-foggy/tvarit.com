@@ -38,7 +38,7 @@
           </div>
           <div class="carousel-cell">
             <div class="picBox">
-              <img src="img/client_logo/siemens.png" class="img-fluid">
+              <img src="img/client_logo/Siemens.png" class="img-fluid">
             </div>
           </div>
         </div>
