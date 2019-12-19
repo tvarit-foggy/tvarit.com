@@ -1,7 +1,7 @@
 <div class="section-padding-both">
       <div class="container">
         <div class="centerTitle text-big60">
-        Verweise
+        Referenz
         <!-- <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> Nutzer            -->
         </div>
         <br>
