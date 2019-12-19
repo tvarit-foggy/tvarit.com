@@ -42,14 +42,14 @@
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script>
-       var language;
+    var language;
     if (window.navigator.languages) {
-      language = window.navigator.languages[0];
+        language = window.navigator.languages[0];
     } else {
-      language = window.navigator.userLanguage || window.navigator.language;
+        language = window.navigator.userLanguage || window.navigator.language;
     }
-    if(language.indexOf('de') == 0) {
-      window.location.href = "https://de.tvarit.com";
+    if (language.indexOf('de') == 0) {
+        window.location.href = "https://de.tvarit.com";
     }
     </script>
     <!--[if lt IE 9]>
@@ -266,12 +266,13 @@
         <a class="nav-link" href="career">Careers</a>
     </li>
     <li class="nav-item">
-         <a class="nav-link" href="contact">Contact</a>
+        <a class="nav-link" href="contact">Contact</a>
     </li>
     <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
-<a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
+        <a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
         <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
-        <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link" href="./"><b>EN</b></a>
+                <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link"
+                    href="./"><b>EN</b></a>
     </li>
     </li>
     </ul>
@@ -375,10 +376,10 @@
                             <div class="col-md-12 " style="padding-right:0px">
                                 <div class="row" style="margin-right: 0px;">
                                     <!-- <div class="col-md-6 " style="padding-left:0px;"> -->
-                                        <h6 class="title">CEO & Data Strategy Expert</h6>
+                                    <h6 class="title">CEO & Data Strategy Expert</h6>
                                     <!-- </div> -->
                                     <!-- <div class="col-md-6" style="padding-right:0px;"> -->
-                                        <!-- <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
+                                    <!-- <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
                                                 class="fab fa-linkedin-in"
                                                 style="color: #0077B5; float: right; font-size: 1.2rem"></i></a> -->
                                     <!-- </div> -->
@@ -397,8 +398,31 @@
                     </div>
                 </div>
                 <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/juergen.jpeg" alt="Juergen"
+                                style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Juergen Halt</h4>
+                            <h6 class="title">R&D Director</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>Business Transformation by utilizing R&D</li>
+                                <li>Brings huge experience from SAP and HP</li>
+                                <li>Research Background from Fraunhofer</li>
+                            </ul>
+                            <div class="social-icon">
 
-                    <div class="card row-height-4">
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+
+                    <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto;">
                         </div>
@@ -428,29 +452,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/juergen.jpeg" alt="Juergen"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Juergen Halt</h4>
-                            <h6 class="title">R&D Director</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                            <li>Business Transformation by utilizing R&D</li>
-                            <li>Brings huge experience from SAP and HP</li>
-                            <li>Research Background from Fraunhofer</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>                
+                
             </div>
 
             <!-------- Custom Divider ------------>
@@ -513,8 +515,8 @@
             </div> -->
 
             <div class="row">
-            <div class="column">
-                    <div class="card row-height-4">
+                <div class="column">
+                    <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/hitesh.jpeg" alt="Hitesh"
                                 style="width:100%; height:auto; border-radius: 50%;">
@@ -536,7 +538,7 @@
                     </div>
 
                 </div>
-            
+
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
@@ -559,9 +561,9 @@
 
                     </div>
 
-                </div>            
-            <div class="column">
-                    <div class="card row-height-4">
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
                         <div class="card-view-image">
 
                             <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
@@ -582,9 +584,9 @@
 
                     </div>
 
-                </div>               
+                </div>
                 <div class="column">
-                    <div class="card row-height-4">
+                    <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/peter.jpeg" alt="Peter" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
@@ -608,7 +610,7 @@
 
 
 
-                
+
             </div>
             <!-------- Custom Divider ------------>
             <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">

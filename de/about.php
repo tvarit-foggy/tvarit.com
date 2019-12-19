@@ -2,15 +2,18 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
- <!-- Global site tag (gtag.js) - Google Analytics -->
- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-        gtag('config', 'UA-143837547-1');
-        </script>
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-143837547-1');
+    </script>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -40,10 +43,10 @@
 
 </head>
 
-  <body>
-  <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js" ></script>
-<noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
- 
+<body>
+    <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
+    <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
+
 
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
@@ -81,7 +84,8 @@
                                             <a href="use_cases" class="sub-Link">Use Case (Anwendungsfälle)</a>
                                             <ul class="ul-deep-menu">
                                                 <li>
-                                                    <a href="use_cases#Quality_Prediction" class="sub-Link">Qualitätsvorhersage</a>
+                                                    <a href="use_cases#Quality_Prediction"
+                                                        class="sub-Link">Qualitätsvorhersage</a>
                                                 </li>
                                                 <li>
                                                     <a href="use_cases#Predictive_Maintenance"
@@ -97,7 +101,8 @@
                                                 </li>
                                                 <li>
                                                     <a href="use_cases#Intra-plant_Logistics"
-                                                        class="sub-Link">Intra-Plant Logistik  (Innerbetriebliche Logistik)</a>
+                                                        class="sub-Link">Intra-Plant Logistik (Innerbetriebliche
+                                                        Logistik)</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -245,15 +250,16 @@
     <li class="nav-item">
         <a class="nav-link" href="career">Karriere</a>
     </li>
-     <li class="nav-item">
+    <li class="nav-item">
         <a class="nav-link" href="contact">Kontakt</a>
     </li>
     <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
-        <a style="padding-right:5px;pointer-events: none;color:#f74785 !important;" class="nav-link lang-link" href="de/index"><b>DE</b></a>
+        <a style="padding-right:5px;pointer-events: none;color:#f74785 !important;" class="nav-link lang-link"
+            href="de/index"><b>DE</b></a>
         <a style="padding-right:3px;padding-left:3px;" class="nav-link lang-link">|<a>
- <a style="padding-left:5px;" class="nav-link lang-link" href="https://tvarit.com/"><b>EN</b></a>
-    </li>                                                                                                
- </ul>
+                <a style="padding-left:5px;" class="nav-link lang-link" href="https://tvarit.com/"><b>EN</b></a>
+    </li>
+    </ul>
     </div>
     </nav>
     </div>
@@ -278,10 +284,13 @@
                         <br>
                         <div class="more">
                             <p class="text-p">
-                            Die Tvarit GmbH ist stolz darauf, ein innovatives und kundenorientiertes Unternehmen mit zuverlässigen 
-technischen Wurzeln zu sein. Wir arbeiten mit einem umfangreichen Netzwerk von technischen und 
-kaufmännischen Fachleuten zusammen, die über jahrelange Erfahrung bei der Durchführung wichtiger Projekte 
-mit MNCs in Europa verfügen.
+                                Die Tvarit GmbH ist stolz darauf, ein innovatives und kundenorientiertes Unternehmen mit
+                                zuverlässigen
+                                technischen Wurzeln zu sein. Wir arbeiten mit einem umfangreichen Netzwerk von
+                                technischen und
+                                kaufmännischen Fachleuten zusammen, die über jahrelange Erfahrung bei der Durchführung
+                                wichtiger Projekte
+                                mit MNCs in Europa verfügen.
                             </p>
                         </div>
 
@@ -302,10 +311,13 @@ mit MNCs in Europa verfügen.
                 </div>
 
                 <div class="centerPharseContent text-p">
-                Tvarit kommt aus dem Sanskrit, was soviel wie ""schnell"" bedeutet. Unser Unternehmen macht seinem Namen 
-alle Ehre, indem es den Output von ""Fast & Persistent"" bewertet. Weiterhin zeigen die Buchstaben A und I 
-unsere starken Kenntnisse im KI-Bereich. Der allererste Buchstabe unseres Namens, der Roboterarm in T-
-Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind.
+                    Tvarit kommt aus dem Sanskrit, was soviel wie ""schnell"" bedeutet. Unser Unternehmen macht seinem
+                    Namen
+                    alle Ehre, indem es den Output von ""Fast & Persistent"" bewertet. Weiterhin zeigen die Buchstaben A
+                    und I
+                    unsere starken Kenntnisse im KI-Bereich. Der allererste Buchstabe unseres Namens, der Roboterarm in
+                    T-
+                    Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind.
                 </div>
             </div>
         </div>
@@ -322,7 +334,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
             </div>
             <br>
             <div class="row">
-            <div class="column">
+                <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/Johannes.jpg" alt="Johannes"
@@ -343,7 +355,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
@@ -374,6 +386,29 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
+                            <img src="img/juergen.jpeg" alt="Juergen"
+                                style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Juergen Halt</h4>
+                            <h6 class="title">R&D Director</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>Geschäftsumwandlung durch Nutzung von F & E</li>
+                                <li>Bringt große Erfahrung von SAP und HP mit</li>
+                                <li>Forschungshintergrund von Fraunhofer</li>
+                            </ul>
+                            <div class="social-icon">
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
                             <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto;">
                         </div>
                         <div class="container">
@@ -396,29 +431,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                         </div>
                     </div>
                 </div>
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/juergen.jpeg" alt="Juergen"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Juergen Halt</h4>
-                            <h6 class="title">R&D Director</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                            <li>Geschäftsumwandlung durch Nutzung von F & E</li>
-                            <li>Bringt große Erfahrung von SAP und HP mit</li>
-                            <li>Forschungshintergrund von Fraunhofer</li>
-                            </ul>
-                            <div class="social-icon">
 
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
             </div>
             <!-------- Custom Divider ------------>
             <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
@@ -433,10 +446,10 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                 </div>
             </div>
             <!-------- Custom Divider ------------>
-            
+
             <div class="row">
-            <div class="column">
-                    <div class="card row-height-4">
+                <div class="column">
+                    <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/hitesh.jpeg" alt="Hitesh"
                                 style="width:100%; height:auto; border-radius: 50%;">
@@ -480,9 +493,9 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
 
                     </div>
 
-                </div>            
-            <div class="column">
-                    <div class="card row-height-4">
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
                         <div class="card-view-image">
 
                             <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
@@ -501,9 +514,9 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="column">
-                    <div class="card row-height-4">
+                    <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/peter.jpeg" alt="Peter" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
@@ -524,8 +537,8 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                     </div>
 
                 </div>
- 
-                
+
+
             </div>
             <!-------- Custom Divider ------------>
             <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
@@ -540,7 +553,7 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                 </div>
             </div>
             <!-------- Custom Divider ------------>
-            
+
 
         </div>
     </div>
@@ -564,15 +577,23 @@ Form, bedeutet, dass unsere Kunden die Fertigungs- und Automobilunternehmen sind
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Tvarit KI verspricht, Ihr Leben einfacher zu machen, um die Stahlproduktion intelligenter zu machen. Unser 
-Team richtete ein APA-Tool ein, um die Qualität des produzierten Stahls präzise und schnell vorherzusagen. 
-Früher sah eine unheimlich große Anzahl von Verarbeitungsmaschinen, die Eisenerz und Schrott schmelzen 
-ließen, lästig aus. Aber unser Team half dabei, die genaue Menge an Verunreinigungen wie Stickstoff, Silizium, 
-Phosphor und überschüssigem Kohlenstoff, die aus dem Roheisen entfernt werden müssen, sowie 
-Legierungselemente wie Mangan, Nickel, Chrom und Vanadium, die hinzugefügt werden müssen, um 
-verschiedene Stahlqualitäten herzustellen, zu ermitteln. Tvarit Solution half dem Unternehmen, die Qualität des 
-produzierten Stahls in Echtzeit vorherzusagen und lieferte weitere umsetzbare Erkenntnisse, um die Anzahl der 
-defekten Coils zu reduzieren und damit das Spiel zu verändern.</p>
+                                Tvarit KI verspricht, Ihr Leben einfacher zu machen, um die Stahlproduktion
+                                intelligenter zu machen. Unser
+                                Team richtete ein APA-Tool ein, um die Qualität des produzierten Stahls präzise und
+                                schnell vorherzusagen.
+                                Früher sah eine unheimlich große Anzahl von Verarbeitungsmaschinen, die Eisenerz und
+                                Schrott schmelzen
+                                ließen, lästig aus. Aber unser Team half dabei, die genaue Menge an Verunreinigungen wie
+                                Stickstoff, Silizium,
+                                Phosphor und überschüssigem Kohlenstoff, die aus dem Roheisen entfernt werden müssen,
+                                sowie
+                                Legierungselemente wie Mangan, Nickel, Chrom und Vanadium, die hinzugefügt werden
+                                müssen, um
+                                verschiedene Stahlqualitäten herzustellen, zu ermitteln. Tvarit Solution half dem
+                                Unternehmen, die Qualität des
+                                produzierten Stahls in Echtzeit vorherzusagen und lieferte weitere umsetzbare
+                                Erkenntnisse, um die Anzahl der
+                                defekten Coils zu reduzieren und damit das Spiel zu verändern.</p>
                         </div>
                     </div>
                 </div>
@@ -596,15 +617,23 @@ defekten Coils zu reduzieren und damit das Spiel zu verändern.</p>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Die Vorhersage der Lebenserwartung ist immer hart. Wenn es um Maschinen geht, ist es jedoch ziemlich 
-wichtig. Tvarit hilft, die Unklarheiten zu reduzieren, die entstehen, wenn Zweifel darüber bestehen, wann die 
-Maschine oder ihre Komponente außer Betrieb genommen wird. In ähnlicher Weise haben wir unser Modell für 
-ein Bauunternehmen ausgeführt. Die größte Herausforderung bestand darin, die Fehlermuster in verschiedenen 
-SPN-IDs und FMI-IDs zu erkennen, die in DTCs (Diagnose-Fehlercodes) vom CAN-Bus kommen, der am 
-Maschinenmotor angeschlossen ist. Als nächstes haben wir die Haltezeit eines bestimmten DTCs erfasst. 
-Danach war es einfach, ML-/DL-Algorithmen anzuwenden, um den Zeitraum, in dem ein DTC fortbesteht, und 
-ob die Maschine ausfällt oder nicht, vorherzusagen und die verantwortliche Person zu informieren. Dafür gibt es 
-Tvarit AIms, die Ihr Leben verbessern.</p>
+                                Die Vorhersage der Lebenserwartung ist immer hart. Wenn es um Maschinen geht, ist es
+                                jedoch ziemlich
+                                wichtig. Tvarit hilft, die Unklarheiten zu reduzieren, die entstehen, wenn Zweifel
+                                darüber bestehen, wann die
+                                Maschine oder ihre Komponente außer Betrieb genommen wird. In ähnlicher Weise haben wir
+                                unser Modell für
+                                ein Bauunternehmen ausgeführt. Die größte Herausforderung bestand darin, die
+                                Fehlermuster in verschiedenen
+                                SPN-IDs und FMI-IDs zu erkennen, die in DTCs (Diagnose-Fehlercodes) vom CAN-Bus kommen,
+                                der am
+                                Maschinenmotor angeschlossen ist. Als nächstes haben wir die Haltezeit eines bestimmten
+                                DTCs erfasst.
+                                Danach war es einfach, ML-/DL-Algorithmen anzuwenden, um den Zeitraum, in dem ein DTC
+                                fortbesteht, und
+                                ob die Maschine ausfällt oder nicht, vorherzusagen und die verantwortliche Person zu
+                                informieren. Dafür gibt es
+                                Tvarit AIms, die Ihr Leben verbessern.</p>
                         </div>
                     </div>
                 </div>
@@ -638,14 +667,21 @@ Tvarit AIms, die Ihr Leben verbessern.</p>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Eine LKW-Firma hat sich mit einem normalen Problem an uns gewandt - wir mieten LKWs und unsere Kosten 
-für die Backup-Batterie steigen in die Höhe. Im Grunde genommen wollten sie die Kosten für die Backup-
-Batterie ihres Fuhrparks senken. Eine Backup-Batterie kostete sie 7000 Euro und hatte ihre eigenen 
-Einschränkungen. Es konnte nicht in jedem einzelnen LKW eingesetzt werden. So haben wir die zurückgelegte 
-Strecke, den Kraftstoffverbrauch im Eco-Modus/Start-Modus, die Batteriespannung und die aktuellen Daten 
-tabellarisch dargestellt, um den Bedarf an einer Backup-Batterie für einen bestimmten LKW vorherzusagen. 
-Dies löste ihr Problem, war kostengünstig, intelligenter und wie versprochen, einfacher und wurde von Tvarit KI 
-aufgewertet. </p>
+                                Eine LKW-Firma hat sich mit einem normalen Problem an uns gewandt - wir mieten LKWs und
+                                unsere Kosten
+                                für die Backup-Batterie steigen in die Höhe. Im Grunde genommen wollten sie die Kosten
+                                für die Backup-
+                                Batterie ihres Fuhrparks senken. Eine Backup-Batterie kostete sie 7000 Euro und hatte
+                                ihre eigenen
+                                Einschränkungen. Es konnte nicht in jedem einzelnen LKW eingesetzt werden. So haben wir
+                                die zurückgelegte
+                                Strecke, den Kraftstoffverbrauch im Eco-Modus/Start-Modus, die Batteriespannung und die
+                                aktuellen Daten
+                                tabellarisch dargestellt, um den Bedarf an einer Backup-Batterie für einen bestimmten
+                                LKW vorherzusagen.
+                                Dies löste ihr Problem, war kostengünstig, intelligenter und wie versprochen, einfacher
+                                und wurde von Tvarit KI
+                                aufgewertet. </p>
                         </div>
                     </div>
                 </div>
