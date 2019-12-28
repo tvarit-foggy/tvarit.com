@@ -82,7 +82,8 @@
                                             <a href="use_cases" class="sub-Link">Use Case (Anwendungsfälle)</a>
                                             <ul class="ul-deep-menu">
                                                 <li>
-                                                    <a href="use_cases#Quality_Prediction" class="sub-Link">Qualitätsvorhersage</a>
+                                                    <a href="use_cases#Quality_Prediction"
+                                                        class="sub-Link">Qualitätsvorhersage</a>
                                                 </li>
                                                 <li>
                                                     <a href="use_cases#Predictive_Maintenance"
@@ -97,7 +98,8 @@
                                                 </li>
                                                 <li>
                                                     <a href="use_cases#Intra-plant_Logistics"
-                                                        class="sub-Link">Intra-Plant Logistik  (Innerbetriebliche Logistik)</a>
+                                                        class="sub-Link">Intra-Plant Logistik (Innerbetriebliche
+                                                        Logistik)</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -242,15 +244,16 @@
     <li class="nav-item active">
         <a class="nav-link" href="career">Karriere</a>
     </li>
-     <li class="nav-item">
+    <li class="nav-item">
         <a class="nav-link" href="contact">Kontakt</a>
     </li>
     <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
-        <a style="padding-right:5px;pointer-events: none;color:#f74785 !important;" class="nav-link lang-link" href="de/index"><b>DE</b></a>
+        <a style="padding-right:5px;pointer-events: none;color:#f74785 !important;" class="nav-link lang-link"
+            href="de/index"><b>DE</b></a>
         <a style="padding-right:3px;padding-left:3px;" class="nav-link lang-link">|<a>
- <a style="padding-left:5px;" class="nav-link lang-link" href="https://tvarit.com/"><b>EN</b></a>
-    </li>                                                                                                
- </ul>
+                <a style="padding-left:5px;" class="nav-link lang-link" href="https://tvarit.com/"><b>EN</b></a>
+    </li>
+    </ul>
     </div>
     </nav>
     </div>
@@ -264,19 +267,23 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                        LASS UNS DEINE 
+                            LASS UNS DEINE
                         </div>
                         <div class="text-big60">
-                        KARRIERE MACHEN
+                            KARRIERE MACHEN
                         </div>
                         <br>
                         <div class="more">
                             <p class="text-p">
-                            Ein Team ist das Zahnrad, das den Kreis unserer 3 Ts schließt. Wir sind eine Vielzahl von Personen, die sich 
-zusammenschließen, um das Rad zu entwerfen, das den Wandel vorantreibt. Wir sind keine Organisation, wir 
-sind ein Organismus - lebendig und kraftvoll, formwechselnd, Zuchtkonzepte, Freude verbreiten, spezielle 
-Einheiten für besondere Anforderungen aufbauen. Partnerschaft mit denen, die Dinge auf einzigartige Weise 
-tun wollen.
+                                Ein Team ist das Zahnrad, das den Kreis unserer 3 Ts schließt. Wir sind eine Vielzahl
+                                von Personen, die sich
+                                zusammenschließen, um das Rad zu entwerfen, das den Wandel vorantreibt. Wir sind keine
+                                Organisation, wir
+                                sind ein Organismus - lebendig und kraftvoll, formwechselnd, Zuchtkonzepte, Freude
+                                verbreiten, spezielle
+                                Einheiten für besondere Anforderungen aufbauen. Partnerschaft mit denen, die Dinge auf
+                                einzigartige Weise
+                                tun wollen.
                             </p>
                         </div>
 
@@ -298,10 +305,13 @@ tun wollen.
 
                         <div class="more">
                             <p class="text-p">
-                            Unsere Mission ist es, skalierbare und nachhaltige APA-Lösungen (Automated Predictive Analytics) zu 
-entwickeln, die unsichtbar und unterstützend sind und es Herstellern ermöglichen, das zu tun, was sie lieben - 
-effiziente Produktionen. Wir sind darauf spezialisiert, eine einfache Lösung zu bieten, die jede Arbeit einfacher, 
-intelligenter und aufrüstbarer macht.
+                                Unsere Mission ist es, skalierbare und nachhaltige APA-Lösungen (Automated Predictive
+                                Analytics) zu
+                                entwickeln, die unsichtbar und unterstützend sind und es Herstellern ermöglichen, das zu
+                                tun, was sie lieben -
+                                effiziente Produktionen. Wir sind darauf spezialisiert, eine einfache Lösung zu bieten,
+                                die jede Arbeit einfacher,
+                                intelligenter und aufrüstbarer macht.
                             </p>
                         </div>
                     </div>
@@ -313,12 +323,17 @@ intelligenter und aufrüstbarer macht.
 
                         <div class="more">
                             <p class="text-p">
-                            Wie verändert man die Welt? Bringen Sie Menschen zusammen. Und wo ist der am einfachsten zu erreichende 
-große Ort, um Menschen zusammenzubringen? In der Arbeitsumgebung. Deshalb sind wir konsequent 
-bestrebt, die gesündeste Umgebung zu schaffen, in der unser Team innovativ, lernfähig und 
-wachstumsorientiert sein kann, ohne dass es sich dabei um einen Push and Pull handelt. Wir gehen mit größter 
-Zuneigung auf die Bedürfnisse unserer Mitarbeiter ein, da sie zu uns gehören. Wir kümmern uns um dich, weil 
-du es tust.
+                                Wie verändert man die Welt? Bringen Sie Menschen zusammen. Und wo ist der am einfachsten
+                                zu erreichende
+                                große Ort, um Menschen zusammenzubringen? In der Arbeitsumgebung. Deshalb sind wir
+                                konsequent
+                                bestrebt, die gesündeste Umgebung zu schaffen, in der unser Team innovativ, lernfähig
+                                und
+                                wachstumsorientiert sein kann, ohne dass es sich dabei um einen Push and Pull handelt.
+                                Wir gehen mit größter
+                                Zuneigung auf die Bedürfnisse unserer Mitarbeiter ein, da sie zu uns gehören. Wir
+                                kümmern uns um dich, weil
+                                du es tust.
                             </p>
                         </div>
                     </div>
@@ -330,12 +345,17 @@ du es tust.
 
                         <div class="more">
                             <p class="text-p">
-                            Etwas Einzigartiges zu schaffen, um das Problem eines Menschen zu lösen, ist ein faszinierendes Gefühl. 
-Industry 4.0 wurde schon immer von intellektuellen, enigmatischen und engagierten Fachleuten geleitet, die 
-ihre Grenzen ausreizen, um die technischen Mauern zu durchbrechen. Diese Ritter tragen die Rüstung der 
-Geschicklichkeit und beeindrucken immer wieder. Maschinelles Lernen, Zeitreihendatenbanken, CI/CD-Tools, 
-Programmierung, sind nur einige ihrer Waffen. Wenn das gleiche Feuer der Leidenschaft in dir brennt, bist du 
-an Bord willkommen. Denke daran, wir haben immer auf dich gewartet.
+                                Etwas Einzigartiges zu schaffen, um das Problem eines Menschen zu lösen, ist ein
+                                faszinierendes Gefühl.
+                                Industry 4.0 wurde schon immer von intellektuellen, enigmatischen und engagierten
+                                Fachleuten geleitet, die
+                                ihre Grenzen ausreizen, um die technischen Mauern zu durchbrechen. Diese Ritter tragen
+                                die Rüstung der
+                                Geschicklichkeit und beeindrucken immer wieder. Maschinelles Lernen,
+                                Zeitreihendatenbanken, CI/CD-Tools,
+                                Programmierung, sind nur einige ihrer Waffen. Wenn das gleiche Feuer der Leidenschaft in
+                                dir brennt, bist du
+                                an Bord willkommen. Denke daran, wir haben immer auf dich gewartet.
 
                             </p>
                         </div>
@@ -358,6 +378,123 @@ an Bord willkommen. Denke daran, wir haben immer auf dich gewartet.
             <br>
 
             <div id="accordion">
+            <div class="card">
+                    <div class="card-header" id="headingFour">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
+                            aria-expanded="false" aria-controls="acccrdnSaleMang">
+                            Sales Manager - Full-Time
+                        </a>
+                    </div>
+
+                    <div id="acccrdnSaleMang" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit GmbH is a rising German startup in the field of Industrial AI. Awarded in top 16
+                                out of 490 AI companies from EU, Tvarit brings a robust and state-of-the-art Industrial
+                                AI Software for German Manufacturing and Automobile companies. With techies from strong
+                                R&D background and universities such as TU Darmstadt, Stanford, NASA etc, Tvarit is on a
+                                voyage to become next unicorn.<br>
+
+                                Our software’s end objective is to achieve efficient processes management for factories
+                                and plants, increasing the yield, increasing the accuracy and reliability by bringing
+                                data-driven decisions, shorten the time frame of delivery, and hence direct reflection
+                                in terms of profit to the enterprise.<br>
+
+                                You will be responsible for creating and improving the communication with customers,
+                                market position of the organization and achieve financial growth. You will be involved
+                                in defining long-term organizational strategic goals, building key customer
+                                relationships etc.<br>
+
+                            </p>
+
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li><b>Sales Targets:</b> Achieving growth and hitting sales targets by successfully
+                                    managing the sales team. Designing and implementing a strategic sales plan that
+                                    expands the company's customer base and ensures it’s strong presence by visiting
+                                    exhibitions and other sales events.</li>
+                                <li><b>Work with manufacturing clients:</b> Understanding various problems and business
+                                    use cases such as failures prediction in machinery/plant, forecasting the number of
+                                    defective items coming from a production facility</li>
+                                <li><b>Meetings and Pitches to the CXOs:</b> Set up meetings between client decision
+                                    makers and company’s leaders/Principals. Plan approaches and pitches. Work with team
+                                    to develop proposals that speak to the client’s needs, concerns, and objectives.
+                                </li>
+                                <li><b>Cost-Benefit Analysis: </b> Participate in pricing the solution/service. Handle
+                                    objections by clarifying, emphasizing agreements and working through differences to
+                                    a positive conclusion. Use a variety of styles to persuade or negotiate
+                                    appropriately. Present an image that mirrors that of the client.</li>
+                                <li>Create feedback channel between customer and engineering team </li>
+                                <li> Collaborate well with other professionals in the design team </li>
+                                <li>Marketing one’s services effectively to attract additional clients</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>ROLE REQUIREMENTS:</h4>
+                            <ul class="ul-list">
+                                <li>We are looking for a self-motivated individual with a positive can-do attitude and
+                                    excellent verbal & written communication skills in German and English
+                                </li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Required skills:</h4>
+                            <ul class="ul-list">
+                                <li>Bachelor or master’s degree in Business Administration specializing in Sales &
+                                    Marketing, Business Informatics, Economics, or similar</li>
+                                <li>Multiple years of experience with sales and marketing
+                                </li>
+                                <li>Experience working with Manufacturing companies especially in German-speaking region
+                                </li>
+                                <li>Experience with end to end sales process (Initial contact → POC → Deal Completion →
+                                    Delivery & feedback)</li>
+                                <li> Experience creating appropriate sales and marketing content and material. </li>
+                                <li> Flexible with travelling </li>
+                            </ul>
+                            <br>
+                            <h4>Preferred skills:</h4>
+                            <ul class="ul-list">
+                                <li>Domain Knowledge of AI in the manufacturing industry is a great plus</li>
+                                <li>Working Knowledge of Industry used ERP solutions e.g. SAP S4Hana, SAP ERP, etc</li>
+                                <li>Working knowledge of MS office tools</li>
+                                <li>Working knowledge with CRM solutions like Zoho CRM, Salesforce CRM</li>
+                            </ul>
+                            <br>
+                            <h4>Work Experience:</h4>
+                            <ul class="ul-list">
+                                <li>3+ years of experience in marketing and sales </li>
+                            </ul>
+                            <h4>What do we offer:</h4>
+                            <ul class="ul-list">
+                                <li>Vibrant team culture</li>
+                                <li>Attractive salary and target incentives</li>
+                                <li>Flexible and Dynamic Work Environment to enhance the creativity</li>
+                                <li>Flexible Working Hours</li>
+                                <li>Options for further personal development</li>
+                                <li>Full flexibility to bring your creative ideas in productive use</li>
+                            </ul>
+                            <br>
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide start-of-the-art hands-­on statistical solutions for the automotive and
+                                    manufacturing industry in Germany to highlight trends and generate insights</li>
+                                <li>We have closely worked with Fortune 500 Manufacturing Firms creating AI for machines
+                                    health, predicting defective pieces and recognizing weak areas hence increasing the
+                                    efficiency and yield</li>
+                                <li>We act as the primary point of contact for business forecasting, delivering
+                                    metrics/analytics that drives the organization and helps senior management taking
+                                    data-driven business decisions</li>
+                            </ul>
+                            <hr>
+                            <p class="red">To apply, please send a cover letter and CV, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Frankfurt am Main</p>
+                        </div>
+                    </div>
+                </div>
                 <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
