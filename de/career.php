@@ -380,6 +380,75 @@
             <div id="accordion">
             <div class="card">
                     <div class="card-header" id="headingFour">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
+                            aria-expanded="false" aria-controls="acccrdnMLR">
+                            Machine Learning Researcher
+                        </a>
+                    </div>
+
+                    <div id="acccrdnMLR" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit opens up a new Artificial Intelligence division with a vision to help
+                                manufacturing companies transform their businesses by leveraging AI. We strive to
+                                achieve efficient processes management for factories and plants, increasing the yield,
+                                increasing the accuracy and reliability by bringing data-driven decisions, shorten the
+                                time frame of delivery, and hence direct reflection in terms of profit to the
+                                enterprise. This is a chance for you to get in on the ground floor of an exciting AI
+                                company.<br>
+
+                                You will be responsible for building AI / Machine Learning applications for our
+                                manufacturing clients. We expect you to have strong programming skills, and background
+                                of statistical engineering, data mining. You should have a strong growth mindset and a
+                                strong work ethic.
+
+
+                            </p>
+
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Work with manufacturing clients, understanding various problems and failures in different kinds of high tech machines.</li>
+
+                                <li>Working with manufacturing machines data formats, data cleaning and defining performance measures based on pre-processing of data</li>
+                                <li>Define a set of features on the basis of hundreds of sensors signals coming from a single machine, work on building time series forecasting and other cross metric ML models
+                                </li>
+                                <li>Search for the latest research papers as per use case and make POC.</li>
+                                <li>Collaborate with production engineers to deploy the results of your research.</li>
+                                <li> Develop evaluation techniques to gauge the performance and accuracy of the models you build. </li>
+                                <li>Write production-ready code in Python / R for above models, further write unit tests, integration tests, end to end tests</li>
+                            </ul>
+                            <br>
+                            <h4>Your Background:</h4>
+                            <ul class="ul-list">
+                                <li>Know-how of machine learning algorithms e.g., ARIMA, Linear Regression, Neural Networks and the math needed to for this such as linear algebra, probability, statistics.
+                                </li>
+                                <li>Strong hands­-on skills with time series databases InfluxDB, SQL, Postgres etc.</li>
+                                <li>Ability to write code in a scripting language (Python, Perl, Bash etc).</li>
+                                <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it is also important that you're able to write clean, efficient code in Python (with a focus on testability and using OOP) on a Linux platform.</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams
+                                </li>
+                                <li>Experience working with Manufacturing companies especially in German-speaking region
+                                </li>
+                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                        </div>
+                    </div>
+                </div>
+
+                
+            <div class="card">
+                    <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
                             aria-expanded="false" aria-controls="acccrdnSaleMang">
                             Sales Manager - Full-Time
