@@ -41,7 +41,8 @@
         content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
     <meta name="keywords"
         content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop" />
-    <meta name="keywords" content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, "/>
+    <meta name="keywords"
+        content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
     <!-- Favicons -->
     <link rel="icon" href="./img/favicon.png">
     <title>Tvarit AI</title>
@@ -63,15 +64,24 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
     <script>
-       var language;
-    if (window.navigator.languages) {
-      language = window.navigator.languages[0];
-    } else {
-      language = window.navigator.userLanguage || window.navigator.language;
+    var lang = window.localStorage.getItem('lang');
+    if (!lang) {
+        if (window.navigator.languages) {
+            lang = window.navigator.languages[0];
+        } else {
+            lang = window.navigator.userLanguage || window.navigator.language;
+        }
+        window.localStorage.setItem('lang', lang);
+        if (lang.indexOf('de') == 0) {
+            window.location.href = "https://de.tvarit.com";
+        }       
     }
-    if(language.indexOf('de') == 0) {
-      window.location.href = "https://de.tvarit.com";
+    window.onbeforeunload = function (e) {
+    window.onunload = function () {
+        window.localStorage.removeItem("lang");
     }
+    return undefined;
+    };
     </script>
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -306,15 +316,16 @@
         <a class="nav-link" href="career">Careers</a>
     </li>
     <li class="nav-item">
-         <a class="nav-link" href="contact">Contact</a>
+        <a class="nav-link" href="contact">Contact</a>
     </li>
     <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
-        <a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
+        <a style="padding-right:5px;" class="nav-link lang-link" href="https://tvarit.com/de/"><b>DE</b></a>
         <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
-        <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link" href="./"><b>EN</b></a>
+                <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link"
+                    href="https://tvarit.com"><b>EN</b></a>
     </li>
     </li>
-    
+
     </ul>
     </div>
     </nav>
@@ -674,7 +685,7 @@
             </div>
             <br>
             <div class="client-carousel">
-            <div class="carousel-cell">
+                <div class="carousel-cell">
                     <div class="picBox">
                         <img src="img/partners_img/ibm.jpg" class="img-fluid">
                     </div>
@@ -684,12 +695,12 @@
                         <img src="img/partners_img/mindsphere.jpg" class="img-fluid">
                     </div>
                 </div>
-            <div class="carousel-cell">
+                <div class="carousel-cell">
                     <div class="picBox">
                         <img src="img/partners_img/openpower.jpg" class="img-fluid">
                     </div>
                 </div>
-            <div class="carousel-cell">
+                <div class="carousel-cell">
                     <div class="picBox">
                         <img src="img/partners_img/microsoft.jpg" class="img-fluid">
                     </div>
@@ -753,7 +764,7 @@
     include 'footer.php';
     ?>
     <!------------------------footer end --------------------->
-    
+
     <div class="cookieFooter bg-red-grd" id="cookieDiv">
         <div class="container">
             <div class="row justify-content-between">
@@ -775,8 +786,8 @@
         </div>
     </div>
 
- 
- 
+
+
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
