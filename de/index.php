@@ -306,7 +306,7 @@
         <a style="padding-right:5px;pointer-events: none;color:#f74785 !important;" class="nav-link lang-link"
             href="https://tvarit.com/de/"><b>DE</b></a>
         <a style="padding-right:3px;padding-left:3px;" class="nav-link lang-link">|<a>
-                <a style="padding-left:5px;" class="nav-link lang-link" href="https://tvarit.com"><b>EN</b></a>
+                <a style="padding-left:5px;" class="nav-link lang-link" href="https://tvarit.com/"><b>EN</b></a>
     </li>
     </ul>
     </div>
@@ -707,7 +707,6 @@
         }
 
         function ReadCookie() {
-            window.localStorage.setItem('lang', 'de');
             document.getElementById('cookieDiv').style.visibility = 'hidden';
             var allcookies = document.cookie;
             cookiearray = allcookies.split(';');
