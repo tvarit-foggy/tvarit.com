@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
+<script src="js/navigationDE.js"></script>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
     <script>
@@ -47,26 +49,7 @@
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
-        <script>
-         var lang = window.localStorage.getItem('lang');
-    if (!lang) {
-        if (window.navigator.languages) {
-            lang = window.navigator.languages[0];
-        } else {
-            lang = window.navigator.userLanguage || window.navigator.language;
-        }
-        window.localStorage.setItem('lang', lang);
-        if (lang.indexOf('de') == 0) {
-            window.location.href = "https://de.tvarit.com";
-        }       
-    }
-    window.onbeforeunload = function (e) {
-    window.onunload = function () {
-        window.localStorage.removeItem("lang");
-    }
-    return undefined;
-    };
-    </script>
+         
 </head>
 
 <body>

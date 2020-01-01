@@ -3,6 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
+    <script src="js/navigationDE.js"></script>
+
     <!-- Google Tag Manager -->
     <script>
     (function(w, d, s, l, i) {
@@ -63,26 +65,7 @@
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
-    <script>
-    var lang = window.localStorage.getItem('lang');
-    if (!lang) {
-        if (window.navigator.languages) {
-            lang = window.navigator.languages[0];
-        } else {
-            lang = window.navigator.userLanguage || window.navigator.language;
-        }
-        window.localStorage.setItem('lang', lang);
-        if (lang.indexOf('de') == 0) {
-            window.location.href = "https://de.tvarit.com";
-        }       
-    }
-    window.onbeforeunload = function (e) {
-    window.onunload = function () {
-        window.localStorage.removeItem("lang");
-    }
-    return undefined;
-    };
-    </script>
+   
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
