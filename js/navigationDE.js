@@ -20,7 +20,7 @@
     }
     if(!isSaved && lang== 'de') {
             document.cookie = 'lang=' + lang + ";path=/";
-            window.location.href = "http://localhost:8888/tvarit.com/de";
+            window.location.href = "https://tvarit.com/de";
         }
     window.onbeforeunload = function(e) {
         window.onunload = function() {
