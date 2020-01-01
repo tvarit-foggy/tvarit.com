@@ -1,7 +1,7 @@
 de<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<script src="js/navigationDE.js"></script>
+<script src="../js/navigationDE.js"></script>
 
  <!-- Global site tag (gtag.js) - Google Analytics -->
  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
