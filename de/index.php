@@ -707,7 +707,7 @@
         }
 
         function ReadCookie() {
-            document.cookie = 'lang=en'+ ";path=/";
+            document.cookie ='lang=en'+ ";path=/";
             document.getElementById('cookieDiv').style.visibility = 'hidden';
             var allcookies = document.cookie;
             cookiearray = allcookies.split(';');
