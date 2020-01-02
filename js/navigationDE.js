@@ -14,14 +14,14 @@
         name = arr[i].split('=')[0];
         value = arr[i].split('=')[1];
         console.log(name + '+++' + value);
-        if (name == 'lang' && value == lang) {
+        if (name == 'lang' && value == 'en') {
          isSaved = true;
         }
     }
     if(!isSaved && lang== 'de') {
-            document.cookie = 'lang=' + lang + ";path=/";
-            window.location.href = "https://tvarit.com/de";
-        }
+            // document.cookie = 'lang=' + lang + ";path=/";
+            window.location.href = "https://tvarit.com/de/";
+    }
     window.onbeforeunload = function(e) {
         window.onunload = function() {
             document.cookie = 'lang=' + lang + '; expires=Thu, 18 Dec 2013 12:00:00 UTC';
