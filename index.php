@@ -301,6 +301,71 @@
     <li class="nav-item">
         <a class="nav-link" href="contact">Contact</a>
     </li>
+    
+    <!--AI Software Solutions-->
+    <li class="nav-item">
+        <a class="nav-link" href="javascript://">AI Software Solutions</a>
+            <div class="submenu-div">
+                <div class="row">
+                    <div class="col">
+                        <div class="menuQuote">
+                            <div class="textBig">AI Software Solutions<span class="red">.</span></div>
+                            <p class="text-normal"> ..... </p>
+                        </div>
+                    </div>
+                    <div class="col">
+                    <ul class="ul-sub-menu">
+                            <li>
+                                <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize OEE for Steel and Metal Manufacturing companies</a>
+                            </li>
+                            <li>
+                                <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive Maintenance for  Industrial Electric Motors</a>
+                            </li>
+                            <li>
+                                <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies" class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing Companies</a>
+                            </li>
+                            <li>
+                                <a href="preductive_quality_for_injection_moulding_machines" class="sub-Link">Preductive Quality for Injection Moulding Machines</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul class="ul-sub-menu">
+                                <li>
+                                <a href="ai_software_solution#./img/plus_ai.png" class="sub-Link" style="padding-left: 92px;">
+                                    <img class="ai_solutions_img" src="./img/plus_ai.png" alt="Achieve More Tvarit AI Solutions" widht="100px" height="120px" />
+                                    <div class="ai_solution_tb textBig">
+                                    <p class="" style="align-item: center;"> Achieve More Tvarit AI Solutions </p>
+                                    </a>
+                                    </div>
+                            </li>
+                        </ul>
+                    </div>
+                    </div>
+                </div>
+            </a>
+    </li>
+    <li class="nav-item">
+            <a class="nav-link" href="ai_consultion">AI Consultion</a>
+            <div class="submenu-div">
+                <div class="row">
+                    <div class="col">
+                        <div class="menuQuote">
+                            <div class="textBig">AI Consultion<span class="red">.</span></div>
+                            <p class="text-normal"> ..... </p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <ul class="ul-sub-menu">
+                            <li>
+                                <a href="ai_consultion#menu1" class="sub-Link">menu1</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+    </li>
+    <!--AI Consultion-->
     <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
         <a style="padding-right:5px;" class="nav-link lang-link" href="https://tvarit.com/de/"><b>DE</b></a>
         <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>

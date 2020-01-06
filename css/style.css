@@ -1924,4 +1924,10 @@ ul.accordion li a.toggle:hover {
         margin-top: unset;
     }
 }
+/**/
 
+
+
+span.text-big60.red.fw-300.ai_preductive {
+    font-size: 35px;
+}
