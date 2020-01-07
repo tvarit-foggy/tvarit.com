@@ -1931,3 +1931,51 @@ ul.accordion li a.toggle:hover {
 span.text-big60.red.fw-300.ai_preductive {
     font-size: 35px;
 }
+.brdr-right-brown {
+    border-right-style: solid;
+    border-right-color: coral;
+}
+.brdr-right-green {
+    border-right-style: solid;
+    border-right-color: greenyellow;
+}
+.brdr-right-red {
+    border-right-style: solid;
+    border-right-color: mediumvioletred;
+}
+.brdr-right-blue {
+    border-right-style: solid;
+    border-right-color: navy;
+}
+.rerBg-grd-brown {
+    background: linear-gradient(to right, #f97d4ed9 0%,#f77646 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.rerBg-grd-green {
+    background: linear-gradient(to right, #66a00c 0%,#9ef11f 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.rerBg-grd-red {
+    background: linear-gradient(to right, #d41a8fad 0%,#d41a8f 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.rerBg-grd-blue {
+    background: linear-gradient(to right, #2c2cf1b5 0%,#2c2cf1 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.title-grid {
+    height: auto;
+    width: 70%;
+    text-align: left;
+    color: #fff;
+    text-transform: inherit;
+    font-size: 5vh;
+    font-weight: 500;
+    padding: 13px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
