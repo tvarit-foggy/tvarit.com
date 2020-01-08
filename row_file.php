@@ -346,7 +346,7 @@
             </a>
     </li>
     <li class="nav-item">
-            <a class="nav-link" href="ai_consultion">AI Consultion</a>
+            <a class="nav-link" href="consulting">AI Consultion</a>
             <div class="submenu-div">
                 <div class="row">
                     <div class="col">

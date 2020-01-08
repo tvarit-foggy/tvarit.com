@@ -362,7 +362,7 @@
         </a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="ai_consultion">AI Consultion</a>
+        <a class="nav-link" href="consulting">AI Consultion</a>
     </li>
 
     <!--AI Consultion-->
@@ -378,23 +378,21 @@
     </nav>
     </div>
     <!------------------------ main menu end ------------------------>
-    <header class="headerBg seminarBg">
+    <header class="headerBg oeeSteal">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="typography">
-                        <div class="text-big60" style="font-size:45px">
-                            Optimize OEE for Steel Coil Manufacturing</div>
-                        <br>
-                        <div class="more">
-                            <p class="text-p">
-
-                            </p>
+                    <div class="text-1">
+                        Optimize OEE for
                         </div>
                         <br>
-                        <!--a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a-->
+                        <div class="text-big60" style="font-size:45px">
+                             Steel Coil Manufacturing</div>
+                        <br>
+                        <a href="http://cloud.tvarit.com" target="_blank"
+                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                 </div>
             </div>
@@ -448,7 +446,7 @@
         </div>
     </div>
     <!---------------------Seminar Event ------------------->
-    <div class="section-padding-both" id="downClick">
+    <!-- <div class="section-padding-both" id="downClick">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
@@ -494,6 +492,63 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div> -->
+    <div class="section-padding" id="Benefits">
+        <div class="container">
+
+            <div class="row align-items-center">
+                <div class="col-md">
+                    <div class="AmimgBox">
+                        <img src="img/ab-1.jpg" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="px-4 box-content-left">
+                        <div class="title">
+                            <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span></div>
+                        </div>
+                        <div class="short-line bg-red"></div>
+                        <div class="imgW-more">
+                            <p class="text-p">
+                            Predicting the quality status of steel coils. Capacity: 500,000 tons per year.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="section-padding">
+        <div class="container">
+
+            <div class="row align-items-center">
+
+                <div class="col-md order-2 order-md-1">
+                    <div class="px-4 ">
+                        <div class="title">
+                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefits</span></div>
+                        </div>
+                        <div class="short-line bg-red"></div>
+                        <div class="imgW-more">
+                        <ul class="ul-list-bullet">
+                                <li>Reduce number of defected coils from 5% to 1.2 %</li>
+                                <li>Real time production view</li>
+                                <li>Increased know-how</li>
+                                <li>Measurable economic benefits</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md order-1 order-md-2">
+                    <div class="AmimgBox">
+                        <img src="img/ab-2.jpg" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
     <!---------------------Seminar Event End ------------------->

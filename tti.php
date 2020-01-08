@@ -318,8 +318,8 @@ $("#btnsubmit").live("click", function() {
     <li class="nav-item">
         <a class="nav-link" href="contact">Contact</a>
     </li>
-     <!--AI Software Solutions-->
-     <li class="nav-item">
+    <!--AI Software Solutions-->
+    <li class="nav-item">
         <a class="nav-link" href="javascript://">AI Software Solutions</a>
         <div class="submenu-div">
             <div class="row">
@@ -369,7 +369,7 @@ $("#btnsubmit").live("click", function() {
         </a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="ai_consultion">AI Consultion</a>
+        <a class="nav-link" href="consulting">AI Consultion</a>
     </li>
 
     <!--AI Consultion-->

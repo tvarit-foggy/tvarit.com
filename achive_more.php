@@ -322,7 +322,7 @@
         </a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="ai_consultion">AI Consultion</a>
+        <a class="nav-link" href="consulting">AI Consultion</a>
     </li>
 
     <!--AI Consultion-->
@@ -342,7 +342,7 @@
 
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg avionicsBg">
+    <header class="headerBg achivemoreBg">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
@@ -477,7 +477,8 @@
             </div>
             <br>
             <div class="centerTitle">
-                <h4>We take only 4 weeks to make and implement AI software solutions for your factory.</h4>
+                <h4><b> We take only 4 weeks </b> </h4>
+                <h4> to make and implement AI software solutions for your factory.</h4>
             </div>
         </div>
     </div>
