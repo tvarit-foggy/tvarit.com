@@ -1930,6 +1930,7 @@ ul.accordion li a.toggle:hover {
 
 span.text-big60.red.fw-300.ai_preductive {
     font-size: 35px;
+    text-align: center;
 }
 .brdr-right-brown {
     border-right-style: solid;
@@ -1978,4 +1979,22 @@ span.text-big60.red.fw-300.ai_preductive {
     padding: 13px;
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
+}
+.rerBg-grd-darkblue {
+    background: linear-gradient(to right, #6c757d70 0%,#6c757da3 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.rerBg-grd-yellow {
+    background: linear-gradient(to right, #6c757d70 0%,#6c757da3 99%);
+    font-size: 2vh !important;
+    width: 100% !important;
+}
+.brdr-right-yellow {
+    border-right-style: solid;
+    border-right-color: yellow;
+}
+.brdr-right-darkblue {
+    border-right-style: solid;
+    border-right-color: darkblue;
 }

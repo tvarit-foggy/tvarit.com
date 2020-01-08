@@ -33,7 +33,8 @@ $("#btnsubmit").live("click", function() {
                 type: "POST",
                 url: "/ttiAction",
                 data: 'company_name=' + company_name + '&person_name=' + person_name + '&plan=' + plan +
-                    '&phone_number=' + phone_number + '&email=' + email + '&about_company' + about_company,
+                    '&phone_number=' + phone_number + '&email=' + email + '&about_company' +
+                    about_company,
                 success: function(data) {
                     x.className = "show";
                     setTimeout(function() {
@@ -65,24 +66,30 @@ $("#btnsubmit").live("click", function() {
 </script>
 
 <head>
-<script src="js/navigationDE.js"></script>
+    <script src="js/navigationDE.js"></script>
 
- <!-- Global site tag (gtag.js) - Google Analytics -->
- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-gtag('config', 'UA-143837547-1');
-</script>
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-143837547-1');
+    </script>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="site" content="tvarit.com"/>                   
-<meta name="keywords" content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, "/>
-    <meta name="description" content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation"/>
-    <meta name="keywords" content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop"/>
+    <meta name="site" content="tvarit.com" />
+    <meta name="keywords"
+        content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
+    <meta name="description"
+        content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
+    <meta name="keywords"
+        content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop" />
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
@@ -102,16 +109,16 @@ gtag('config', 'UA-143837547-1');
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
-    
+
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
 
 </head>
 
-  <body>
-  <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js" ></script>
-<noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
+<body>
+    <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
+    <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
@@ -309,12 +316,68 @@ gtag('config', 'UA-143837547-1');
         <a class="nav-link" href="career">Careers</a>
     </li>
     <li class="nav-item">
-         <a class="nav-link" href="contact">Contact</a>
+        <a class="nav-link" href="contact">Contact</a>
     </li>
+     <!--AI Software Solutions-->
+     <li class="nav-item">
+        <a class="nav-link" href="javascript://">AI Software Solutions</a>
+        <div class="submenu-div">
+            <div class="row">
+                <div class="col">
+                    <div class="menuQuote">
+                        <div class="textBig">AI Software Solutions<span class="red">.</span></div>
+                        <p class="text-normal"> ..... </p>
+                    </div>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li>
+                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
+                                OEE for Steel and Metal Manufacturing companies</a>
+                        </li>
+                        <li>
+                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                Maintenance for Industrial Electric Motors</a>
+                        </li>
+                        <li>
+                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
+                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
+                                Companies</a>
+                        </li>
+                        <li>
+                            <a href="preductive_quality_for_injection_moulding_machines" class="sub-Link">Preductive
+                                Quality for Injection Moulding Machines</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li style="text-align: center;">
+                            <a href="achive_more" class="sub-Link"
+                                style="padding-left:0px; color:red; align-item: center;">
+                                <img class="ai_solutions_img" src="./img/plus_ai.png"
+                                    alt="Achieve More Tvarit AI Solutions" />
+                                <div class="textBig" style="font-size: 900;">
+                                    Achieve More Tvarit AI Solutions
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="ai_consultion">AI Consultion</a>
+    </li>
+
+    <!--AI Consultion-->
     <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
-<a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
+        <a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
         <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
-        <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link" href="./"><b>EN</b></a>
+                <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link"
+                    href="./"><b>EN</b></a>
     </li>
     </li>
     </ul>
@@ -424,22 +487,22 @@ gtag('config', 'UA-143837547-1');
         </div>
         <!------------------------ Automotives end --------------------->
         <div class="section-padding">
-        <div class="container">
+            <div class="container">
 
-            <div class="row align-items-center">
-            <div class="col-md-2"></div>
-                <div class="col-md-8">
-                    <div class="videoWrapper">
-                        <iframe class="videoFrame" src="https://www.youtube.com/embed/9hRdV3rxxhA" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                <div class="row align-items-center">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8">
+                        <div class="videoWrapper">
+                            <iframe class="videoFrame" src="https://www.youtube.com/embed/9hRdV3rxxhA" frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                        </div>
                     </div>
+                    <div class="col-md-2"></div>
+
                 </div>
-                <div class="col-md-2"></div>
-                
             </div>
         </div>
-    </div>
         <!------------------------ Automotives start --------------------->
         <div class="section-padding-both">
             <div class="container">
@@ -889,9 +952,11 @@ input::placeholder {
 .area-text {
     height: 80px !important;
 }
+
 select {
     font-weight: 600;
-  }
+}
+
 input:focus,
 select:focus,
 textarea:focus,

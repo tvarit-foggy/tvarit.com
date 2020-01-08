@@ -294,54 +294,61 @@
                         <a class="nav-link" href="contact">Contact</a>
                     </li>
 
-                    <!--AI Software Solutions-->
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript://">AI Software Solutions</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                        <div class="textBig">AI Software Solutions<span class="red">.</span></div>
-                                        <p class="text-normal"> ..... </p>
-                                    </div>
+                  <!--AI Software Solutions-->
+    <li class="nav-item">
+        <a class="nav-link" href="javascript://">AI Software Solutions</a>
+        <div class="submenu-div">
+            <div class="row">
+                <div class="col">
+                    <div class="menuQuote">
+                        <div class="textBig">AI Software Solutions<span class="red">.</span></div>
+                        <p class="text-normal"> ..... </p>
+                    </div>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li>
+                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
+                                OEE for Steel and Metal Manufacturing companies</a>
+                        </li>
+                        <li>
+                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                Maintenance for Industrial Electric Motors</a>
+                        </li>
+                        <li>
+                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
+                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
+                                Companies</a>
+                        </li>
+                        <li>
+                            <a href="preductive_quality_for_injection_moulding_machines" class="sub-Link">Preductive
+                                Quality for Injection Moulding Machines</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li style="text-align: center;">
+                            <a href="achive_more" class="sub-Link"
+                                style="padding-left:0px; color:red; align-item: center;">
+                                <img class="ai_solutions_img" src="./img/plus_ai.png"
+                                    alt="Achieve More Tvarit AI Solutions" />
+                                <div class="textBig" style="font-size: 900;">
+                                    Achieve More Tvarit AI Solutions
                                 </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize OEE for Steel and Metal Manufacturing companies</a>
-                                        </li>
-                                        <li>
-                                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive Maintenance for  Industrial Electric Motors</a>
-                                        </li>
-                                        <li>
-                                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies" class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing Companies</a>
-                                        </li>
-                                        <li>
-                                            <a href="preductive_quality_for_injection_moulding_machines" class="sub-Link">Preductive Quality for Injection Moulding Machines</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="img/plus_ai.png" class="sub-Link" style="padding-left:0px; color:red; align-item: center;">
-                                                <img class="ai_solutions_img" src="./img/plus_ai.png" alt="Achieve More Tvarit AI Solutions" style="width: 70px; height: 70px;" />
-                                                <div class="textBig">
-                                                    Achieve More Tvarit AI Solutions
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="ai_consultion">AI Consultion</a>
-                    </li>
-                    
-                    <!--AI Consultion-->
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="ai_consultion">AI Consultion</a>
+    </li>
+
+    <!--AI Consultion-->
                     <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
                         <a style="padding-right:5px;" class="nav-link lang-link" href="https://tvarit.com/de/"><b>DE</b></a>
                         <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
@@ -382,8 +389,8 @@
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="title">
-                <span class="text-big60 red fw-300 ai_preductive">AI based Production Planning solution for Cable Manufacturing</span>
+            <div class="title centerTitle">
+                <span class="text-big60 red fw-300 ai_preductive">AI based Production Planning solution for <br> Cable Manufacturing</span>
             </div>
             <br>
             <br>
@@ -424,7 +431,7 @@
         </div>
     </div>
     <!---------------------Seminar Event ------------------->
-                    <div class="section-padding-both" id="downClick">
+                    <!-- <div class="section-padding-both" id="downClick">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-4">
@@ -473,8 +480,33 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                            <!---------------------Seminar Event End ------------------->
+                    </div> -->
+    <!---------------------Seminar Event End ------------------->
+    <div class="section-padding-both"  id="downClick">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md">
+            <div class="AmimgBox">
+              <img src="img/cns-1.jpg" class="img-fluid" style="width:100%">
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="px-4 box-content-left" >
+              <div class="title">
+               <div class="text-big60 fw-900 red">USE-CASE</div>
+              </div>
+              <div class="short-line bg-red"></div>
+              <div class="imgW-more">
+               <p class="text-p">AI based production planning system for cable manufacturer. Price of each motor: Capacity of factory: 100,000 Cu tons/year.
+               </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
                             <!------------------------footer start --------------------->
                             <?php
                     include 'footer.php';
