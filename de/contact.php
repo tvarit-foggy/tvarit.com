@@ -173,22 +173,22 @@ $("#btn").live("click",function(){
                     <div class="col">
                       <ul class="ul-sub-menu">
                        <li>
-                          <a href="use_cases" class="sub-Link">Use Cases</a>
+                          <a href="use_cases" class="sub-Link">Use Case (Anwendungsfälle)</a>
                           <ul class="ul-deep-menu">
                             <li>
-                              <a href="use_cases#Quality_Prediction" class="sub-Link">Quality Prediction</a>
+                              <a href="use_cases#Quality_Prediction" class="sub-Link">Qualitätsvorhersage</a>
                             </li>
                             <li>
                               <a href="use_cases#Predictive_Maintenance" class="sub-Link">Predictive Maintenance</a>
                             </li>
                             <li>
-                              <a href="use_cases#Supply_Chain" class="sub-Link">Supply Chain</a>
+                              <a href="use_cases#Supply_Chain" class="sub-Link">Lieferkette</a>
                             </li>
                             <li>
-                              <a href="use_cases#Asset_and_Inventory_Management" class="sub-Link">Asset and Inventory Management</a>
+                              <a href="use_cases#Asset_and_Inventory_Management" class="sub-Link">Anlagen- und Bestandsmanagement</a>
                             </li>
                             <li>
-                              <a href="use_cases#Intra-plant_Logistics" class="sub-Link">Intra-plant Logistics</a>
+                              <a href="use_cases#Intra-plant_Logistics" class="sub-Link">Intra-Plant Logistik  (Innerbetriebliche Logistik)</a>
                             </li>
                           </ul>
                         </li>
@@ -239,7 +239,7 @@ $("#btn").live("click",function(){
                     <div class="col">
                       <ul class="ul-sub-menu">
                         <li>
-                          <a href="products" class="sub-Link">Product</a>
+                          <a href="products" class="sub-Link">Produkt </a>
                           <ul class="ul-deep-menu">
                             <li>
                               <a href="products#APA" class="sub-Link">APA</a>
@@ -247,7 +247,7 @@ $("#btn").live("click",function(){
                           </ul>
                         </li>
                         <li>
-                          <a href="seminar_workshops" class="sub-Link">Seminar & Workshops</a>
+                          <a href="seminar_workshops" class="sub-Link">SEMINARE UND WORKSHOPS </a>
                         </li>
                         <li>
                                             <a href="training" class="sub-Link">Training</a>
@@ -277,34 +277,34 @@ $("#btn").live("click",function(){
                     <div class="col d-flex">
                       <ul class="ul-sub-menu">
                         <li>
-                          <a href="automotive" class="sub-Link">Automotive</a>
+                          <a href="automotive" class="sub-Link">AUTOMOBIL</a>
                         </li>
                         <li>
-                          <a href="avionics" class="sub-Link">Avionics</a>
+                          <a href="avionics" class="sub-Link">LUFTFAHRTSTECHNIK </a>
                         </li>
                         <li>
-                          <a href="chemicals" class="sub-Link">Chemicals</a>
+                          <a href="chemicals" class="sub-Link">CHEMIKALIEN </a>
                         </li>
                         <li>
-                          <a href="construction" class="sub-Link">Construction</a>
+                          <a href="construction" class="sub-Link">Bauwesen </a>
                         </li>
                         <li>
-                          <a href="industrial_machinery" class="sub-Link">Industrial Machinery</a>
+                          <a href="industrial_machinery" class="sub-Link">INDUSTRIEMASCHINEN </a>
                         </li>
                       </ul>
                       <ul class="ul-sub-menu">
                         </li>
                         <li>
-                          <a href="oil_gas" class="sub-Link">Oil & Gas</a>
+                          <a href="oil_gas" class="sub-Link">ÖL & GAS </a>
                         </li>
                         <li>
-                          <a href="pharmaceuticals" class="sub-Link">Pharmaceuticals</a>
+                          <a href="pharmaceuticals" class="sub-Link">PHARMAZEUTIKA </a>
                         </li>
                         <li>
-                          <a href="steel" class="sub-Link">Steel</a>
+                          <a href="steel" class="sub-Link">STAHL </a>
                         </li>
                         <li>
-                          <a href="textiles" class="sub-Link">Textiles</a>
+                          <a href="textiles" class="sub-Link">TEXTIL </a>
                         </li>
                       </ul>
                     </div>
@@ -347,6 +347,11 @@ $("#btn").live("click",function(){
               <li class="nav-item active">
                 <a class="nav-link" href="contact">Kontakt</a>
               </li>
+              <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
+        <a style="padding-right:5px;pointer-events: none;color:#f74785 !important;" class="nav-link lang-link" href="de/index"><b>DE</b></a>
+        <a style="padding-right:3px;padding-left:3px;" class="nav-link lang-link">|<a>
+ <a style="padding-left:5px;" class="nav-link lang-link" href="https://tvarit.com/"><b>EN</b></a>
+    </li>
             </ul>
           </div>
         </nav>
@@ -399,22 +404,22 @@ Wir werden Sie innerhalb von 24 Stunden kontaktieren.
                   <div class="form-row">
                     <div class="col-md">
                       <div class="form-group">
-                        <input type="text" class="form-control" name="subject" id="sub" placeholder="Subject">
+                        <input type="text" class="form-control" name="subject" id="sub" placeholder="Betreff">
                       </div>
                     </div>
                     <div class="col-md">
                       <div class="form-group">
-                        <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone *">
+                        <input type="text" class="form-control" name="phone" id="phone" placeholder="Telefon *">
                       </div>
                     </div>
                   </div>
                   
                   <div class="form-group">
-                    <textarea class="form-control" rows="3"  name="msg" id="msg" placeholder="Message"></textarea>
+                    <textarea class="form-control" rows="3"  name="msg" id="msg" placeholder="Nachricht"></textarea>
                   </div>
                   <br>
                   <div class="form-group text-right">
-                        <input   type="button" value="Submit" id="btn"   class="btn btn-round btn-red-grd">
+                        <input   type="button" value="Abschicken" id="btn"   class="btn btn-round btn-red-grd">
                   </div>
                     <div id="snackbar">We Will Contact you Shortly</div>
                   <div id="validation">Fill All the Mandatory Fields</div>

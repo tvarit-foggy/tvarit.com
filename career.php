@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
+<script src="js/navigationDE.js"></script>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
     <script>
@@ -17,10 +19,13 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="site" content="tvarit.com"/>                   
-<meta name="keywords" content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, "/>
-    <meta name="description" content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation"/>
-    <meta name="keywords" content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop"/>
+    <meta name="site" content="tvarit.com" />
+    <meta name="keywords"
+        content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
+    <meta name="description"
+        content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
+    <meta name="keywords"
+        content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop" />
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
@@ -41,6 +46,7 @@
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
 
+     
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -250,6 +256,68 @@
     <li class="nav-item">
         <a class="nav-link" href="contact">Contact</a>
     </li>
+     <!--AI Software Solutions-->
+     <li class="nav-item">
+        <a class="nav-link" href="javascript://">AI Software Solutions</a>
+        <div class="submenu-div">
+            <div class="row">
+                <div class="col">
+                    <div class="menuQuote">
+                        <div class="textBig">AI Software Solutions<span class="red">.</span></div>
+                        <p class="text-normal"> ..... </p>
+                    </div>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li>
+                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
+                                OEE for Steel and Metal Manufacturing companies</a>
+                        </li>
+                        <li>
+                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                Maintenance for Industrial Electric Motors</a>
+                        </li>
+                        <li>
+                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
+                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
+                                Companies</a>
+                        </li>
+                        <li>
+                            <a href="preductive_quality_for_injection_moulding_machines" class="sub-Link">Preductive
+                                Quality for Injection Moulding Machines</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li style="text-align: center;">
+                            <a href="achive_more" class="sub-Link"
+                                style="padding-left:0px; color:red; align-item: center;">
+                                <img class="ai_solutions_img" src="./img/plus_ai.png"
+                                    alt="Achieve More Tvarit AI Solutions" />
+                                <div class="textBig" style="font-size: 900;">
+                                    Achieve More Tvarit AI Solutions
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="consulting">AI Consultion</a>
+    </li>
+
+    <!--AI Consultion-->
+    <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
+        <a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
+        <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
+                <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link"
+                    href="./"><b>EN</b></a>
+    </li>
+    </li>
     </ul>
     </div>
     </nav>
@@ -298,6 +366,128 @@
             <br>
 
             <div id="accordion">
+                
+
+
+                <div class="card">
+                    <div class="card-header" id="headingFour">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
+                            aria-expanded="false" aria-controls="acccrdnSaleMang">
+                            Sales Manager - Full-Time
+                        </a>
+                    </div>
+
+                    <div id="acccrdnSaleMang" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit GmbH is a rising German startup in the field of Industrial AI. Awarded in top 16
+                                out of 490 AI companies from EU, Tvarit brings a robust and state-of-the-art Industrial
+                                AI Software for German Manufacturing and Automobile companies. With techies from strong
+                                R&D background and universities such as TU Darmstadt, Stanford, NASA etc, Tvarit is on a
+                                voyage to become next unicorn.<br>
+
+                                Our software’s end objective is to achieve efficient processes management for factories
+                                and plants, increasing the yield, increasing the accuracy and reliability by bringing
+                                data-driven decisions, shorten the time frame of delivery, and hence direct reflection
+                                in terms of profit to the enterprise.<br>
+
+                                You will be responsible for creating and improving the communication with customers,
+                                market position of the organization and achieve financial growth. You will be involved
+                                in defining long-term organizational strategic goals, building key customer
+                                relationships etc.<br>
+
+                            </p>
+
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li><b>Sales Targets:</b> Achieving growth and hitting sales targets by successfully
+                                    managing the sales team. Designing and implementing a strategic sales plan that
+                                    expands the company's customer base and ensures it’s strong presence by visiting
+                                    exhibitions and other sales events.</li>
+                                <li><b>Work with manufacturing clients:</b> Understanding various problems and business
+                                    use cases such as failures prediction in machinery/plant, forecasting the number of
+                                    defective items coming from a production facility</li>
+                                <li><b>Meetings and Pitches to the CXOs:</b> Set up meetings between client decision
+                                    makers and company’s leaders/Principals. Plan approaches and pitches. Work with team
+                                    to develop proposals that speak to the client’s needs, concerns, and objectives.
+                                </li>
+                                <li><b>Cost-Benefit Analysis: </b> Participate in pricing the solution/service. Handle
+                                    objections by clarifying, emphasizing agreements and working through differences to
+                                    a positive conclusion. Use a variety of styles to persuade or negotiate
+                                    appropriately. Present an image that mirrors that of the client.</li>
+                                <li>Create feedback channel between customer and engineering team </li>
+                                <li> Collaborate well with other professionals in the design team </li>
+                                <li>Marketing one’s services effectively to attract additional clients</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>ROLE REQUIREMENTS:</h4>
+                            <ul class="ul-list">
+                                <li>We are looking for a self-motivated individual with a positive can-do attitude and
+                                    excellent verbal & written communication skills in German and English
+                                </li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Required skills:</h4>
+                            <ul class="ul-list">
+                                <li>Bachelor or master’s degree in Business Administration specializing in Sales &
+                                    Marketing, Business Informatics, Economics, or similar</li>
+                                <li>Multiple years of experience with sales and marketing
+                                </li>
+                                <li>Experience working with Manufacturing companies especially in German-speaking region
+                                </li>
+                                <li>Experience with end to end sales process (Initial contact → POC → Deal Completion →
+                                    Delivery & feedback)</li>
+                                <li> Experience creating appropriate sales and marketing content and material. </li>
+                                <li> Flexible with travelling </li>
+                            </ul>
+                            <br>
+                            <h4>Preferred skills:</h4>
+                            <ul class="ul-list">
+                                <li>Domain Knowledge of AI in the manufacturing industry is a great plus</li>
+                                <li>Working Knowledge of Industry used ERP solutions e.g. SAP S4Hana, SAP ERP, etc</li>
+                                <li>Working knowledge of MS office tools</li>
+                                <li>Working knowledge with CRM solutions like Zoho CRM, Salesforce CRM</li>
+                            </ul>
+                            <br>
+                            <h4>Work Experience:</h4>
+                            <ul class="ul-list">
+                                <li>3+ years of experience in marketing and sales </li>
+                            </ul>
+                            <h4>What do we offer:</h4>
+                            <ul class="ul-list">
+                                <li>Vibrant team culture</li>
+                                <li>Attractive salary and target incentives</li>
+                                <li>Flexible and Dynamic Work Environment to enhance the creativity</li>
+                                <li>Flexible Working Hours</li>
+                                <li>Options for further personal development</li>
+                                <li>Full flexibility to bring your creative ideas in productive use</li>
+                            </ul>
+                            <br>
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide start-of-the-art hands-­on statistical solutions for the automotive and
+                                    manufacturing industry in Germany to highlight trends and generate insights</li>
+                                <li>We have closely worked with Fortune 500 Manufacturing Firms creating AI for machines
+                                    health, predicting defective pieces and recognizing weak areas hence increasing the
+                                    efficiency and yield</li>
+                                <li>We act as the primary point of contact for business forecasting, delivering
+                                    metrics/analytics that drives the organization and helps senior management taking
+                                    data-driven business decisions</li>
+                            </ul>
+                            <hr>
+                            <p class="red">To apply, please send a cover letter and CV, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Frankfurt am Main</p>
+                        </div>
+                    </div>
+                </div>
+
+
                 <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
@@ -378,10 +568,12 @@
                                 “Praktikum/
                                 Werkstudent”</p>
                             <br>
-                            <p class="red">Location: Frankfurt</p>
+                            <p class="red">Location: Frankfurt am Main</p>
                         </div>
                     </div>
                 </div>
+
+
                 <div class="card">
                     <div class="card-header" id="headingTwo">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
@@ -470,9 +662,13 @@
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
+                                    <br>
+                                    <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
+
+
                 <div class="card">
                     <div class="card-header" id="headingThree">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn3"
@@ -559,9 +755,82 @@
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
+                                    <br>
+                                    <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
+                
+                <div class="card">
+                    <div class="card-header" id="headingFour">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
+                            aria-expanded="false" aria-controls="acccrdnMLR">
+                            Machine Learning Researcher
+                        </a>
+                    </div>
+
+                    <div id="acccrdnMLR" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit opens up a new Artificial Intelligence division with a vision to help
+                                manufacturing companies transform their businesses by leveraging AI. We strive to
+                                achieve efficient processes management for factories and plants, increasing the yield,
+                                increasing the accuracy and reliability by bringing data-driven decisions, shorten the
+                                time frame of delivery, and hence direct reflection in terms of profit to the
+                                enterprise. This is a chance for you to get in on the ground floor of an exciting AI
+                                company.<br>
+
+                                You will be responsible for building AI / Machine Learning applications for our
+                                manufacturing clients. We expect you to have strong programming skills, and background
+                                of statistical engineering, data mining. You should have a strong growth mindset and a
+                                strong work ethic.
+
+
+                            </p>
+
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Work with manufacturing clients, understanding various problems and failures in different kinds of high tech machines.</li>
+
+                                <li>Working with manufacturing machines data formats, data cleaning and defining performance measures based on pre-processing of data</li>
+                                <li>Define a set of features on the basis of hundreds of sensors signals coming from a single machine, work on building time series forecasting and other cross metric ML models
+                                </li>
+                                <li>Search for the latest research papers as per use case and make POC.</li>
+                                <li>Collaborate with production engineers to deploy the results of your research.</li>
+                                <li> Develop evaluation techniques to gauge the performance and accuracy of the models you build. </li>
+                                <li>Write production-ready code in Python / R for above models, further write unit tests, integration tests, end to end tests</li>
+                            </ul>
+                            <br>
+                            <h4>Your Background:</h4>
+                            <ul class="ul-list">
+                                <li>Know-how of machine learning algorithms e.g., ARIMA, Linear Regression, Neural Networks and the math needed to for this such as linear algebra, probability, statistics.
+                                </li>
+                                <li>Strong hands­-on skills with time series databases InfluxDB, SQL, Postgres etc.</li>
+                                <li>Ability to write code in a scripting language (Python, Perl, Bash etc).</li>
+                                <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it is also important that you're able to write clean, efficient code in Python (with a focus on testability and using OOP) on a Linux platform.</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams
+                                </li>
+                                <li>Experience working with Manufacturing companies especially in German-speaking region
+                                </li>
+                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                                    <br>
+                                    <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="card">
                     <div class="card-header" id="headingFive">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn5"
@@ -659,10 +928,14 @@
                             <br>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
-                            <br>
+
+                             <br>
+                                    <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
+
+
                 <div class="card">
                     <div class="card-header" id="headingOne">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
@@ -757,6 +1030,8 @@
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
+                                    <br>
+                                    <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
@@ -766,7 +1041,7 @@
     </div>
     <!------------------------ Automotives end --------------------->
     <!------------------------ Automotives start --------------------->
-    <div class="section-padding" >
+    <div class="section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">

@@ -36,20 +36,20 @@ $('.toggle').click(function(e) {
       $('.more').readmore({
         speed: 200,
         collapsedHeight: 80,
-        moreLink: '<a href="#" class="readmorebtn">Read more...</a>',
-        lessLink: '<a href="#" class="readmorebtn">Read less</a>'
+        moreLink: '<a href="#" class="readmorebtn">Weiterlesen...</a>',
+        lessLink: '<a href="#" class="readmorebtn">Zuklappen</a>'
       });
       $('.whyapamore,.ftaboutmore').readmore({
         speed: 200,
         collapsedHeight: 60,
-        moreLink: '<a href="#" class="readmorebtn">Read more...</a>',
-        lessLink: '<a href="#" class="readmorebtn">Read less</a>'
+        moreLink: '<a href="#" class="readmorebtn">Weiterlesen...</a>',
+        lessLink: '<a href="#" class="readmorebtn">Zuklappen</a>'
       });
       $('.imgW-more').readmore({
         speed: 200,
         collapsedHeight: 110,
-        moreLink: '<a href="#" class="readmorebtn">Read more...</a>',
-        lessLink: '<a href="#" class="readmorebtn">Read less</a>'
+        moreLink: '<a href="#" class="readmorebtn">Weiterlesen...</a>',
+        lessLink: '<a href="#" class="readmorebtn">Zuklappen</a>'
       });
 
 

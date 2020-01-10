@@ -299,6 +299,9 @@ p
     background: #222;
     display: none;
 }
+.main-menu .navbar-nav .nav-item a.lang-link:before {
+    background: #fff !important;
+}
 .main-menu .navbar-nav .nav-item.active a.nav-link:before
 {
     display: block;
@@ -327,6 +330,9 @@ p
 {
     background: #ed1b4a;
 }
+.main-menu .navbar-nav .nav-item a.lang-link:hover:before {
+    background: #fff !important;
+}
 .fixed-menu
 {
     position: fixed;
@@ -354,6 +360,9 @@ p
 {
     background: #222;
 }
+.fixed-menu.sticky .navbar-nav .nav-item.active a.lang-link:before {
+    background: #fff !important;
+}
 .fixed-menu .navbar-nav .nav-link,.fixed-menu .navbar-nav .nav-item.active .nav-link,.fixed-menu .navbar-brand
 {
     color: #222;
@@ -362,6 +371,10 @@ p
 .fixed-menu .navbar-nav .nav-item.active a.nav-link:before
 {
     background: #222;
+}
+.fixed-menu .navbar-nav .nav-item.active a.lang-link:before
+{
+    background: #fff !important;
 }
 .main-menu .navbar-nav li.show .submenu-div
 { 
@@ -570,6 +583,26 @@ p
 .seminarBg
 {
     background: url('../img/seminarBg.jpg');
+    background-size: contain;
+}
+.cableManfBg {
+    background: url('../img/cableBg.png');
+    background-size: contain;
+}
+.injectionModBg {
+    background: url('../img/injectionmouldingBg.png');
+    background-size: contain;
+}
+.oeeSteal {
+    background: url('../img/oEEinSteelBg.png');
+    background-size: contain;
+}
+.electricMotorBg {
+    background: url('../img/predictiveMaintBg.png');
+    background-size: contain;
+}
+.achivemoreBg {
+    background: url('../img/achiee_moreBg.png');
     background-size: contain;
 }
 .consultingBg
@@ -1910,4 +1943,78 @@ ul.accordion li a.toggle:hover {
     .timeSlots {
         margin-top: unset;
     }
+}
+/**/
+
+
+
+span.text-big60.red.fw-300.ai_preductive {
+    font-size: 35px;
+    text-align: center;
+}
+.brdr-right-brown {
+    border-right-style: solid;
+    border-right-color: coral;
+}
+.brdr-right-green {
+    border-right-style: solid;
+    border-right-color: greenyellow;
+}
+.brdr-right-red {
+    border-right-style: solid;
+    border-right-color: mediumvioletred;
+}
+.brdr-right-blue {
+    border-right-style: solid;
+    border-right-color: navy;
+}
+.rerBg-grd-brown {
+    background: linear-gradient(to right, #f97d4ed9 0%,#f77646 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.rerBg-grd-green {
+    background: linear-gradient(to right, #66a00c 0%,#9ef11f 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.rerBg-grd-red {
+    background: linear-gradient(to right, #d41a8fad 0%,#d41a8f 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.rerBg-grd-blue {
+    background: linear-gradient(to right, #2c2cf1b5 0%,#2c2cf1 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.title-grid {
+    height: auto;
+    width: 70%;
+    text-align: left;
+    color: #fff;
+    text-transform: inherit;
+    font-size: 5vh;
+    font-weight: 500;
+    padding: 13px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.rerBg-grd-darkblue {
+    background: linear-gradient(to right, #6c757d70 0%,#6c757da3 99%);
+    font-size: 2vh !important;
+    width: 90% !important;
+}
+.rerBg-grd-yellow {
+    background: linear-gradient(to right, #6c757d70 0%,#6c757da3 99%);
+    font-size: 2vh !important;
+    width: 100% !important;
+}
+.brdr-right-yellow {
+    border-right-style: solid;
+    border-right-color: yellow;
+}
+.brdr-right-darkblue {
+    border-right-style: solid;
+    border-right-color: darkblue;
 }
