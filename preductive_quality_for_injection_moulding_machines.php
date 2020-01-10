@@ -409,8 +409,8 @@
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="title">
-                <span class="text-big60 red fw-300 ai_preductive">Preductive Quality for Injection Moulding
+            <div class="title centerTitle">
+                <span class="text-big60 red fw-300 ai_preductive">Preductive Quality for <br> Injection Moulding
                     Machines</span>
             </div>
             <br>
@@ -562,6 +562,41 @@
     <br>
     <!---------------------Seminar Event End ------------------->
 
+    <!--------------------- Buttons  ------------------->
+    <div class="section-padding-both">
+        <div class="container white-box-shadow">
+
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="lookingBox rerBg-grd">
+                        <div class="text text-white">
+                            <span class="fs-18  fw-400">Request for</span>
+                            <h3 class="fw-900">a full case study</h3>
+                        </div>
+                        <div>
+                            <a href="#" data-toggle="modal" data-target="#exampleModal"
+                                class="btn btn-round btn-white">Click Here</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="lookingBox brdr-black">
+                        <div class="text">
+                            <span class="fs-18  fw-400">for more details</span>
+                            <h3 class="fw-900">Contact us</h3>
+                        </div>
+
+                        <div>
+                            <a href="#form1" class="btn btn-round btn-red-grd">Click Here</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--------------------- Buttons  ------------------->
+
     <!------------------------footer start --------------------->
     <?php
                     include 'footer.php';
@@ -588,6 +623,9 @@
             </div>
         </div>
     </div>
+    <?php
+        include 'case-study-modal.php';
+    ?>
 
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
