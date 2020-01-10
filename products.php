@@ -43,8 +43,9 @@
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
+
     <script src="js/navigationDE.js"></script>
-    <!--[if lt IE 9]>
+  <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
 
@@ -56,7 +57,9 @@
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
+
             <a class="navbar-brand bold uppr" href="./">
+
                 <img src="img/logo.png" class="img-fluid">
             </a>
 
@@ -72,15 +75,19 @@
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
+
                         <a class="nav-link" href="javascript://">Explore</a>
+
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
+
                                         <div class="textBig">Explore<span class="red">.</span></div>
                                         <p class="text-normal">See for yourself, the potential Industry 4.0 holds and be
                                             a part of the AI revolution with us. Exploration is really the essence of
                                             the human spirit.</p>
+
                                     </div>
                                 </div>
                                 <div class="col">
@@ -126,16 +133,22 @@
                                         </li>
                                         <li>
                                             <a href="#" class="sub-Link">Survey</a>
+
                                             <ul class="ul-deep-menu">
                                                 <li>
-                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
-                                                        Manufacturing</a>
+                                                    <a href="use_cases#Quality_Prediction" class="sub-Link">Retail Data
+                                                        Analytics</a>
                                                 </li>
                                                 <li>
-                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
-                                                        Product </a>
+                                                    <a href="use_cases#Predictive_Maintenance" class="sub-Link">Sensor
+                                                        Data Analytics</a>
                                                 </li>
-                                                <br><br><br><br><br><br><br>
+                                                <li>
+                                                    <a href="use_cases#Supply_Chain" class="sub-Link">Predictive
+                                                        Analytics</a>
+                                                </li>
+
+                                            </ul>
                                         </li>
                                     </ul>
                                 </div>
@@ -175,14 +188,93 @@
                                         </li>
                                         <li>
                                             <a href="tti" class="sub-Link">Technology Incubation</a>
-                                        </li>
 
+                                        </li>
+                                </div>
+                            </div>
+
+                        </div>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="products.php">Products</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                        <div class="textBig">Products<span class="red">.</span></div>
+                                        <!-- <p class="text-normal">Exploration is curiosity put into action. Look at the
+                                            transformation we can make and allow us to partner up with you.</p> -->
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="products.php" class="sub-Link">APA</a>
+
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="solutions.php">Solutions</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                        <div class="textBig">Solutions<span class="red">.</span></div>
+                                        <!-- <p class="text-normal">Exploration is curiosity put into action. Look at the
+                                            transformation we can make and allow us to partner up with you.</p> -->
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="products" class="sub-Link">Predictive Maintenance</a>
+
+                                        </li>
+                                        <li>
+                                            <a href="seminar_workshops" class="sub-Link">Customer Analytics</a>
+                                        </li>
+                                        <li>
+                                            <a href="training" class="sub-Link">Sales Optimization</a>
+                                        </li>
+                                        <li>
+                                            <a href="consulting" class="sub-Link">Resource planning and Optimization</a>
+                                            <ul class="ul-deep-menu">
+                                                <li>
+                                                    <a href="products#APA" class="sub-Link">Inventory Optimization</a>
+                                                </li>
+                                                <li>
+                                                    <a href="products#APA" class="sub-Link">Process Planning</a>
+                                                </li>
+                                                <li>
+                                                    <a href="products#APA" class="sub-Link">Supply chain and logistic
+                                                        solutions</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="tti" class="sub-Link">Sensor deployment</a>
+                                        </li>
+                                        <li>
+                                            <a href="tti" class="sub-Link">Energy Savings</a>
+                                        </li>
+                                        <li>
+                                            <a href="tti" class="sub-Link">Manufacturing Quality Management
+                                                Solutions</a>
+                                        </li>
+                                        <li>
+                                            <a href="tti" class="sub-Link">Sensor Health Management</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="javascript://">Industries</a>
                         <div class="submenu-div">
                             <div class="row">
@@ -334,6 +426,7 @@
     </ul>
     </div>
     </nav>
+
     </div>
     <!------------------------ main menu end ------------------------>
 
