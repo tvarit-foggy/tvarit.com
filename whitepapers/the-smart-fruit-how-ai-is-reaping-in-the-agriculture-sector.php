@@ -45,74 +45,95 @@ gtag('config', 'UA-143837547-1');
     <body>
   <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js" ></script>
 <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
-    <!------------------------ main menu start ---------------------->
-    <div class="main-menu fixed-menu sticky-top sticky">
+<!------------------------ main menu start ---------------------->
+<div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
-          <a class="navbar-brand bold uppr" href="../">
-            <img src="../img/logo.png" class="img-fluid">
-          </a>
-
-          <a href="javascript://" class="menu-togglebar" >
-            <span></span>
-            <span></span>
-            <span></span>
-          </a>
-          
-          <div class="navbar-collapse" id="navbarText">
-            <a href="javascript://" class="menuclose d-block d-md-none">
-              <i class="fas fa-arrow-right"></i>
+            <a class="navbar-brand bold uppr" href="#">
+                <img src="img/logo.png" class="img-fluid">
             </a>
-            <ul class="navbar-nav ml-auto">
-              <li class="nav-item active">
-                <a class="nav-link" href="javascript://">Explore</a>
-                 <div class="submenu-div">
-                  <div class="row">
-                    <div class="col">
-                      <div class="menuQuote">
-                        <div class="textBig">Explore<span class="red">.</span></div>
-                        <p class="text-normal">See for yourself, the potential Industry 4.0 holds and be a part of the AI revolution with us. Exploration is really the essence of the human spirit.</p>
-                      </div>
-                    </div>
-                    <div class="col">
-                      <ul class="ul-sub-menu">
-                       <li>
-                          <a href="../use_cases" class="sub-Link">Use Cases</a>
-                          <ul class="ul-deep-menu">
-                            <li>
-                              <a href="../use_cases#Quality_Prediction" class="sub-Link">Quality Prediction</a>
-                            </li>
-                            <li>
-                              <a href="../use_cases#Predictive_Maintenance" class="sub-Link">Predictive Maintenance</a>
-                            </li>
-                            <li>
-                              <a href="../use_cases#Supply_Chain" class="sub-Link">Supply Chain</a>
-                            </li>
-                            <li>
-                              <a href="../use_cases#Asset_and_Inventory_Management" class="sub-Link">Asset and Inventory Management</a>
-                            </li>
-                            <li>
-                              <a href="../use_cases#Intra-plant_Logistics" class="sub-Link">Intra-plant Logistics</a>
-                            </li>
-                          </ul>
-                        </li>
-                        <li>
-                          <a href="../whitepapers" class="sub-Link">White Paper</a>
-                        </li>
-                        <li>
-                          <a href="../blogs" class="sub-Link">Blogs</a>
-                        </li>
-                        <li>
-                          <a href="../videos" class="sub-Link">Videos</a>
-                        </li>
-                        <li>
-                          <a href="http://cloud.tvarit.com" target="_blank" class="sub-Link">Demo</a>
-                        </li>
-                        <li>
-                          <a href="../news"  class="sub-Link">News</a>
-                        </li>
-                          <li>
-<a href="#" class="sub-Link">Survey</a>
+
+            <a href="javascript://" class="menu-togglebar">
+                <span></span>
+                <span></span>
+                <span></span>
+            </a>
+
+            <div class="navbar-collapse" id="navbarText">
+                <a href="javascript://" class="menuclose d-block d-md-none">
+                    <i class="fas fa-arrow-right"></i>
+                </a>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index">AI Software</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index">AI Platform</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index">AI Consulting</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                        <div class="textBig">AI Consulting<span class="red">.</span></div>
+                                        <p class="text-normal"> </p>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="#" class="sub-Link">AI and Data Academy</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about">More</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                        <div class="textBig">More<span class="red">.</span></div>
+                                        <p class="text-normal"></p>
+                                    </div>
+                                </div>
+                                <div class="col d-flex">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="../about#Vision" class="sub-Link">About Us</a>
+                                        </li>
+                                        <li>
+                                            <a class="sub-Link" href="../career">Careers</a>
+                                        </li>
+                                        <li>
+                                            <a href="../news" class="sub-Link">News</a>
+                                        </li>
+                                        <li>
+                                            <a class="sub-Link" href="../contact">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="index" class="sub-Link">White Paper</a>
+                                        </li>
+                                        <li>
+                                            <a href="../videos" class="sub-Link">Videos</a>
+                                        </li>
+                                        <li>
+                                            <a href="../blogs" class="sub-Link">Blogs</a>
+                                        </li>
+                                        <li>
+                                        <li>
+                                            <a href="#" class="sub-Link">Survey</a>
                                             <ul class="ul-deep-menu">
+                                                <br><br><br>
                                                 <li>
                                                     <a href="../ai_for_manufacturing" class="sub-Link">AI for
                                                         Manufacturing</a>
@@ -121,146 +142,18 @@ gtag('config', 'UA-143837547-1');
                                                     <a href="../ai_as_a_product" class="sub-Link">AI as a
                                                         Product </a>
                                                 </li>
-                                                <br><br><br><br><br><br><br>
-                                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                  
-                </div>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="javascript://">Solutions</a>
-                <div class="submenu-div">
-                  <div class="row">
-                    <div class="col">
-                      <div class="menuQuote">
-                        <div class="textBig">Solutions<span class="red">.</span></div>
-                        <p class="text-normal">Exploration is curiosity put into action. Look at the transformation we can make and allow us to partner up with you.</p>
-                      </div>
-                    </div>
-                    <div class="col">
-                      <ul class="ul-sub-menu">
-                        <li>
-                          <a href="../products" class="sub-Link">Product</a>
-                          <ul class="ul-deep-menu">
-                            <li>
-                              <a href="../products#APA" class="sub-Link">APA</a>
-                            </li>
-                          </ul>
-                        </li>
-                        <li>
-                          <a href="../seminar_workshops" class="sub-Link">Seminar & Workshops</a>
-                        </li>
-                        <li>
-                                            <a href="../training" class="sub-Link">Training</a>
-                                        </li>
-                        <li>
-                          <a href="../consulting" class="sub-Link">Consulting</a>
-                        </li>
-                        <li>
-                                            <a href="../tti" class="sub-Link">Technology Incubation</a>
-                                        </li>
 
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="javascript://">Industries</a>
-                <div class="submenu-div">
-                  <div class="row">
-                    <div class="col">
-                      <div class="menuQuote">
-                        <div class="textBig">Industries<span class="red">.</span></div>
-                        <p class="text-normal">Simplicity is about subtracting the obvious and adding the meaningful. Wander and wonder over the widespread applications of our solutions.</p>
-                      </div>
-                    </div>
-                    <div class="col d-flex">
-                      <ul class="ul-sub-menu">
-                        <li>
-                          <a href="../automotive" class="sub-Link">Automotive</a>
-                        </li>
-                        <li>
-                          <a href="../avionics" class="sub-Link">Avionics</a>
-                        </li>
-                        <li>
-                          <a href="../chemicals" class="sub-Link">Chemicals</a>
-                        </li>
-                        <li>
-                          <a href="../construction" class="sub-Link">Construction</a>
-                        </li>
-                        <li>
-                          <a href="../industrial_machinery" class="sub-Link">Industrial Machinery</a>
-                        </li>
-                      </ul>
-                      <ul class="ul-sub-menu">
-                        </li>
-                        <li>
-                          <a href="../oil_gas" class="sub-Link">Oil & Gas</a>
-                        </li>
-                        <li>
-                          <a href="../pharmaceuticals" class="sub-Link">Pharmaceuticals</a>
-                        </li>
-                        <li>
-                          <a href="../steel" class="sub-Link">Steel</a>
-                        </li>
-                        <li>
-                          <a href="../textiles" class="sub-Link">Textiles</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../about">About Us</a>
-                <div class="submenu-div">
-                  <div class="row">
-                    <div class="col">
-                      <div class="menuQuote">
-                        <div class="textBig">About us<span class="red">.</span></div>
-                        <p class="text-normal">We believe in the transfusion of technology & humanity for imperative growth and work invariably to deliver tech-savvy APA products which help make your business simpler and upgraded.</p>
-                      </div>
-                    </div>
-                    <div class="col">
-                      <ul class="ul-sub-menu">
-                        <li>
-                          <a href="../about#Vision" class="sub-Link">Vision</a>
-                        </li>
-                        <li>
-                          <a href="../about#Team" class="sub-Link">Team</a>
-                        </li>
-                        <li>
-                          <a href="../about#Philanthropy" class="sub-Link">Philanthropy</a>
-                        </li>
-                        <li>
-                          <a href="../about#Benefits" class="sub-Link">Benefits</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../career">Careers</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="../contact">Contact</a>
-              </li>
-              <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
-<a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
-        <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
-        <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link" href="./"><b>EN</b></a>
-    </li>
-            </ul>
-          </div>
+                                            </ul>
+                                        </li>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </nav>
     </div>
     <!------------------------ main menu end ------------------------>
-
 
 
      <!------------------------ Automotives start --------------------->
