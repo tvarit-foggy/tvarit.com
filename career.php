@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-<script src="js/navigationDE.js"></script>
+    <script src="js/navigationDE.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
@@ -46,7 +46,7 @@
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
 
-     
+
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -128,9 +128,9 @@
                                             <a class="sub-Link" href="contact">Contact</a>
                                         </li>
                                     </ul>
-                                 </div>
+                                </div>
                                 <div class="col">
-                                    <ul class="ul-sub-menu">  
+                                    <ul class="ul-sub-menu">
                                         <li>
                                             <a href="whitepapers" class="sub-Link">White Paper</a>
                                         </li>
@@ -144,7 +144,7 @@
                                         <li>
                                             <a href="#" class="sub-Link">Survey</a>
                                             <ul class="ul-deep-menu">
-                                            <br><br><br>
+                                                <br><br><br>
                                                 <li>
                                                     <a href="ai_for_manufacturing" class="sub-Link">AI for
                                                         Manufacturing</a>
@@ -208,7 +208,7 @@
             <br>
 
             <div id="accordion">
-                
+
 
 
                 <div class="card">
@@ -504,8 +504,8 @@
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
-                                    <br>
-                                    <p class="red">Location: Mumbai</p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
@@ -597,12 +597,12 @@
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
-                                    <br>
-                                    <p class="red">Location: Mumbai</p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
@@ -632,43 +632,57 @@
 
                             <h4>Key responsibilities:</h4>
                             <ul class="ul-list">
-                                <li>Work with manufacturing clients, understanding various problems and failures in different kinds of high tech machines.</li>
+                                <li>Work with manufacturing clients, understanding various problems and failures in
+                                    different kinds of high tech machines.</li>
 
-                                <li>Working with manufacturing machines data formats, data cleaning and defining performance measures based on pre-processing of data</li>
-                                <li>Define a set of features on the basis of hundreds of sensors signals coming from a single machine, work on building time series forecasting and other cross metric ML models
+                                <li>Working with manufacturing machines data formats, data cleaning and defining
+                                    performance measures based on pre-processing of data</li>
+                                <li>Define a set of features on the basis of hundreds of sensors signals coming from a
+                                    single machine, work on building time series forecasting and other cross metric ML
+                                    models
                                 </li>
                                 <li>Search for the latest research papers as per use case and make POC.</li>
                                 <li>Collaborate with production engineers to deploy the results of your research.</li>
-                                <li> Develop evaluation techniques to gauge the performance and accuracy of the models you build. </li>
-                                <li>Write production-ready code in Python / R for above models, further write unit tests, integration tests, end to end tests</li>
+                                <li> Develop evaluation techniques to gauge the performance and accuracy of the models
+                                    you build. </li>
+                                <li>Write production-ready code in Python / R for above models, further write unit
+                                    tests, integration tests, end to end tests</li>
                             </ul>
                             <br>
                             <h4>Your Background:</h4>
                             <ul class="ul-list">
-                                <li>Know-how of machine learning algorithms e.g., ARIMA, Linear Regression, Neural Networks and the math needed to for this such as linear algebra, probability, statistics.
+                                <li>Know-how of machine learning algorithms e.g., ARIMA, Linear Regression, Neural
+                                    Networks and the math needed to for this such as linear algebra, probability,
+                                    statistics.
                                 </li>
                                 <li>Strong hands­-on skills with time series databases InfluxDB, SQL, Postgres etc.</li>
                                 <li>Ability to write code in a scripting language (Python, Perl, Bash etc).</li>
-                                <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it is also important that you're able to write clean, efficient code in Python (with a focus on testability and using OOP) on a Linux platform.</li>
+                                <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it
+                                    is also important that you're able to write clean, efficient code in Python (with a
+                                    focus on testability and using OOP) on a Linux platform.</li>
                             </ul>
 
                             <br>
 
                             <h4>Our Team Culture:</h4>
                             <ul class="ul-list">
-                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams
+                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing
+                                    industry in Germany to highlight trends and generate insights.</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines
+                                    health and work closely with their backend databases and data engineering teams
                                 </li>
                                 <li>Experience working with Manufacturing companies especially in German-speaking region
                                 </li>
-                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions</li>
+                                <li>We act as the primary point of contact for business forecasting, delivering
+                                    metrics/analytics that drives the organization and helps senior management taking
+                                    data-driven business decisions</li>
                             </ul>
                             <br>
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
-                                    <br>
-                                    <p class="red">Location: Mumbai</p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
@@ -771,8 +785,8 @@
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
 
-                             <br>
-                                    <p class="red">Location: Mumbai</p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
@@ -872,8 +886,8 @@
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
-                                    <br>
-                                    <p class="red">Location: Mumbai</p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
@@ -945,7 +959,7 @@
     <!------------------------Countdown start --------------------->
     <?php 
                 include 'change_we_brought.php';
-                ?>  
+                ?>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
     <?php 

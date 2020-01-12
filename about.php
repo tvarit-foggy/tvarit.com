@@ -235,15 +235,19 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            We are German company based in Frankfurt, Germany. We build and provide AI solutions to solve all
-                    kinds of manufacturing problems and data science needs. We enable businesses to make smart and
-                    informed decisions by deriving actionable and valuable insights from a sea of data.
+                                We are German company based in Frankfurt, Germany. We build and provide AI solutions to
+                                solve all
+                                kinds of manufacturing problems and data science needs. We enable businesses to make
+                                smart and
+                                informed decisions by deriving actionable and valuable insights from a sea of data.
 
-                    We provide AI software solutions, AI platform and AI consulting services to successfully complete
-                    your all AI and data science projects.
+                                We provide AI software solutions, AI platform and AI consulting services to successfully
+                                complete
+                                your all AI and data science projects.
 
-                    Recently, we have achieved many prestigious awards for which we were recognized as the most
-                    innovative AI company in Europe and Germany.</p>
+                                Recently, we have achieved many prestigious awards for which we were recognized as the
+                                most
+                                innovative AI company in Europe and Germany.</p>
                         </div>
                     </div>
                 </div>
@@ -251,7 +255,7 @@
 
         </div>
     </div>
-     
+
     <!------------------------ Who we are ----------------------->
 
 
@@ -670,7 +674,7 @@
     <!------------------------Countdown start --------------------->
     <?php 
                 include 'change_we_brought.php';
-                ?>  
+                ?>
     <!------------------------Countdown end --------------------->
 
     <!------------------------Automated slide start --------------------->

@@ -77,7 +77,7 @@
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index">Home</a>
+                        <a class="nav-link" href="../index">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="index">AI Software</a>
@@ -86,7 +86,7 @@
                         <a class="nav-link" href="index">AI Platform</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ai-consulting">AI Consulting</a>
+                        <a class="nav-link" href="../ai-consulting">AI Consulting</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
