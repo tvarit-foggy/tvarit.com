@@ -109,7 +109,7 @@
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="about#Vision" class="sub-Link">AI and Data Academy</a>
+                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
                                         </li>
                                     </ul>
                                 </div>

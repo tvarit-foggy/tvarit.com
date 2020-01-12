@@ -29,7 +29,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
-    <title>AI as a Product</title>
+    <title>AI Academy</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/ai_consulting.css">
@@ -96,7 +96,7 @@
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="about#Vision" class="sub-Link">AI and Data Academy</a>
+                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -170,7 +170,7 @@
     <!------------------------ header start ------------------------->
     <header class="headerBg aiconsultingBg parallax-bg parallax" data-diff="100">
       <div class="container">
-        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
+        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown white-arrow"></i></a>
         <div class="row align-items-center">
           <div class="col-12">
             <div class="typography">
@@ -479,12 +479,17 @@
     </div>
 
 
-    <!------------------------ google docs ------------------------>
-
-    <!------------------------ google docs ------------------------>
-    <?php
+   <!------------------------Countdown start --------------------->
+<?php
     include 'change_we_brought.php'
     ?>
+    <!------------------------Countdown end --------------------->
+
+    <!------------------------Automated slide start --------------------->
+    <?php
+    include 'change_we_bring.php'
+    ?>
+    
 
     <!------------------------footer start --------------------->
     <?php

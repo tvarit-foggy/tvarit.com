@@ -387,6 +387,37 @@ only screen and (min-device-pixel-ratio: 1.5){
         padding-left: 25px;
     }
 }
+@media (max-width:767px) {
+    .aiconsultingBg
+    {
+        padding-top: 100px;
+    }
+    .countingNumBox .icon {
+        margin-right: 0;
+    }
+    .countingNumBox {
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+        position: relative;
+    }
+
+    .avantage-sec .automBox
+    {
+        margin-bottom: 30px;
+        height: auto;
+    }
+
+}
+
+
+@media (min-width: 768px) {
+    .headerBg
+    {
+        padding-top: 0;
+    }
+    
+}
 
 
 

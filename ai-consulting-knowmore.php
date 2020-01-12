@@ -8,10 +8,9 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./assets/img/kit/free/favicon.png">
-        <title>Ai Consulting</title>
+        <title>Knowmore</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/ai_consulting.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/responsive.css">
                 <link rel="stylesheet" href="css/flickity.css">
@@ -30,8 +29,8 @@
 </head>
 
   <body>
-     <!------------------------ main menu start ---------------------->
-     <div class="main-menu fixed-menu sticky-top sticky">
+    <!------------------------ main menu start ---------------------->
+    <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand bold uppr" href="#">
                 <img src="img/logo.png" class="img-fluid">
@@ -141,41 +140,41 @@
     <!------------------------ main menu end ------------------------>
 
 
-    <!------------------------ header start ------------------------->
-    <header class="headerBg aiconsultingBg parallax-bg parallax" data-diff="100">
-      <div class="container">
-        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
-        <div class="row align-items-center">
-          <div class="col-12">
-            <div class="typography">
-              <div class="text-1 mb-0">
-                <span class="red fw-600">Accelerate and flawlessly</span> 
-              </div>
-              <div class="text-big60">complete your Data <br>Science Projects</div>
-              <div class="subtext">
-                <div class="text-s1">With innovative task based  pricing:</div>
-                <div class="text-s2">DSaaS (Data Science as a service)</div>
-              </div>
-             
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-    <!------------------------ header end --------------------------->
-
      <!------------------------ CONSULTING start --------------------->
-    <div class="section-padding-both" id="downClick">
+    <div class="section-padding mt-5" id="downClick">
       <div class="container">
-        <div class="text text-center white-box-shadow">
-          <span class="bold red uppr">successfully complete your data science projects fast and easy with</span>
-          <h3 class="text-big60 uppr"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> CONSULTING</h3>
-          <br>
-          <div class="centerPharseContent text-p">
-          Our experts help you at every stage of your data science projects. We help you in solving key issues of data extraction, data preparation, data labelling, predictive analytics. We provide both on-site and remote based consulting services  
+              
+        <div class="row">
+          <div class="col-lg-6">
+           <div class="title">
+              <div class="text-first red">Data Extraction and</div>
+              <div class="text-big60">Integration:</div>
+            </div>
+            <div class="short-line bg-red"></div>
+          </div>
+          <div class="col-lg-6">
+            <p class="bold fs-16">
+              Tvarit brings know-how of various data sources available in a factory. They can be Historians, Energy Meters, Lab Quality Systems, MES, ERP, PLCs, SpreadSheets, Logs, SQL, PCs, Batch Reports, MTConnect, OPC-UA, etc. Data Extraction Consultancy is categorized mainly into four parts:
+            </p>
           </div>
         </div>
-
+        <ul class="ul-list">
+           <li>
+             Control Systems Data Extraction: Tvarit expertise helps you extract the data from various hardware controller systems such as PLC, SCADA, DCS, etc. 
+           </li>
+           <li>
+              Integration via Bus Systems: Tvarit experts bring the know-how of various bus systems such as J-bus, Mod-bus, ProfiBus, EthNet, EthCat, CAN bus, etc. 
+           </li>
+           <li>
+             IT Systems: Integration with IT systems is done either using REST/SOAP APIs or JDBC/ODBC connectors are utilized. Some of the systems we have experience in are SAP ERP, PP, WM, MES, SPS Control, APC, etc.
+           </li>
+           <li>
+             Data Storage Systems Integration: We support our clients with various DBMS technologies such as MySQL, Postgres, NoSQL databases like MongoDB, InfluxDB, ElasticSearch, Hadoop, etc. Further, we help them set up data lakes and data warehouses using various DBMS technologies.
+           </li>
+           <li>
+              E. Communication Protocols Integration: This section includes the integration of the data stream via various data communication protocols such as TCP/IP, FTP,    OPC-UA, MQTT, MTConnect, PI AI systems, etc.
+           </li>
+         </ul>
       </div>
     </div>
     <!------------------------ CONSULTING end --------------------->
@@ -183,252 +182,102 @@
     <!------------------------ CONSULTING start --------------------->
     <div class="section-padding">
       <div class="container">
-        <div class="row">
-
-          <div class="col-md-3">
-            <div class="countingNumBox">
-              <div class="icon">
-                <i class="fas fa-cubes"></i>
-              </div>
-              <div class="content">
-                <div class="numbers">200+</div>
-                <div class="text">
-                  Data Science Projects
-                </div>
-              </div>
-            </div>
+        <div class="text-center">
+          <div class="title">
+            <div class="text-big60">Data Preparation:</div>
           </div>
-
-          <div class="col-md-3">
-            <div class="countingNumBox">
-              <div class="icon">
-                <i class="fas fa-user-clock"></i>
-              </div>
-              <div class="content">
-                <div class="numbers">54+</div>
-                <div class="text">
-                 Human years of experience
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="countingNumBox">
-              <div class="icon">
-                <i class="fas fa-map-marked-alt"></i>
-              </div>
-              <div class="content">
-                <div class="numbers">2+</div>
-                <div class="text">
-                  Locations present in Germany
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="countingNumBox">
-              <div class="icon">
-                <i class="fas fa-user-tie"></i>
-              </div>
-              <div class="content">
-                <div class="numbers">20+</div>
-                <div class="text">
-                  Employees
-                </div>
-              </div>
-            </div>
-          </div>
-          
+          <div class="short-line mx-auto bg-red"></div>
+          <p class="text-p">
+            The data which is collected from different sources may have dirty data, cleaning of data should be done before the data is loaded. The problem with polluted data is that there is no fixed way of dealing with it, and the problem is universal. The polluted values affect our performance and predictive capacity. They have the potential to change all our statistical parameters. The way they interact with outliers once again affect our statistics. Conclusions can thus be misleading. 
+          </p>
         </div>
+        <br>
+        <div class="row mb-4 align-items-center">
+          <div class="col-lg">
+            <div class="AmimgBox">
+              <img src="img/pic-1.jpg" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg">
+           <div class="p-lg-4 pt-4 text-lg-left" >
+                <ul class="ul-list-bullet">
+                  <li>There can be various causes of the bad and dirty data:</li>
+                  <li>Bug in PLC due to power failures which gives rise to missing data.</li>
+                  <li>Wrong configuration of machine controllers gives rise to out-of-permissible values for a sensor.</li>
+                  <li>Network issues like 3G, 4G, Wi-Fi etc. give rise to incomplete data.</li>
+                  <li>Wrong queries written for extracting the data from databases.</li>
+                  <li>Bugs arising while merging the data coming from multiple data sources.</li>
+                </ul>
+            </div>
+          </div>
+        </div>
+        <br>
+        <h4 class="mb-4">
+          Many times, work order or product quality results are being captured manually, whereas automated systems are in place for sensors data, so combining the data creates logs of bad data
+        </h4>
+        <p class="text-p">
+          Tvarit experts comes with a very powerful data clean up tool kit. It includes pre-written data-cleanup algorithmic modules such as sanity handling, missing handling, multicollinearity analysis, mahalanobis distance, data distribution check, infer best bucket etc. Once the data have been cleaned, it will produce precise results when the ML/DL algorithms are applied. Hence consistent data is essential and reliable for decision making. We at Tvarit sanitise the data as surgically as possible to obtain the best possible solution.
+        </p>
       </div>
     </div>
     <!------------------------ CONSULTING end --------------------->
 
-
-
-
-    <!------------------------ Automotives start --------------------->
     <div class="section-padding">
       <div class="container">
-
-
-
-        <div class="row justify-content-center">
-          <div class="col-md-4">
-            <div class="bxSqtp">
-             <div class="bxSqtp-container">
-                <div class="icon">
-                  <img src="img/1.png" class="img-fluid">
-                </div>
-                <div class="title">
-                  DATA EXTRACTION AND ENGINEERING
-                </div>
-                <div class="content">
-                  <div>
-                    <p class="text-p">
-                      Main tasks related to the movement of data to and from systems and enablmenent of data pipelines, workflows, systems and processes to facilitate data science operations.
-                    </p>
-                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire now</a>
-                  </div>
-                </div>
-             </div>
-            </div>
+        <div class="white-box-shadow">
+          <div class="centerTitle">
+           <div class="text-big60 red">Data Labelling</div>
           </div>
-
-          <div class="col-md-4">
-            <div class="bxSqtp">
-             <div class="bxSqtp-container">
-                <div class="icon">
-                  <img src="img/2.png" class="img-fluid">
-                </div>
-                <div class="title">
-                  DATA <br>PREPARATION
-                </div>
-                <div class="content">
-                 <div>
-                    <p class="text-p">
-                     Tasks used to ensure that the data fed into and train machine learning models are clean and for machine learning purposes
-                    </p>
-                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire now</a>
-                 </div>
-                </div>
-             </div>
-            </div>
+          <div class="centerPharseContent text-p">
+           Tvarit provides Managed Data Labelling teams. Enrich your massive amounts of data in a transparent and agile approach with high levels of accuracy, consistency and speed. We provide labelling to all kinds of data image, text, video, sensor and time-series data.
           </div>
-
-          <div class="col-md-4">
-            <div class="bxSqtp">
-             <div class="bxSqtp-container">
-                <div class="icon">
-                  <img src="img/3.png" class="img-fluid">
-                </div>
-                <div class="title">
-                 DATA <br>LABELLING
-                </div>
-                <div class="content">
-                 <div>
-                    <p class="text-p">
-                     Tasks used to ensure that the relevant data has been appropriately labelled with the required output that needs to be learned
-                    </p>
-                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire now</a>
-                 </div>
-                </div>
-             </div>
-            </div>
-          </div>
-
-          <div class="col-md-4">
-            <div class="bxSqtp">
-             <div class="bxSqtp-container">
-                <div class="icon">
-                  <img src="img/4.png" class="img-fluid">
-                </div>
-                <div class="title">
-                 DATA <br>HARMONIZATION
-                </div>
-                <div class="content">
-                 <div>
-                    <p class="text-p">
-                      Tasks used to ensure that the data fed into and train machine learning models are complete and releveant for machine learning purposes
-                    </p>
-                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire now</a>
-                 </div>
-                </div>
-             </div>
-            </div>
-          </div>
-
-          <div class="col-md-4">
-            <div class="bxSqtp">
-             <div class="bxSqtp-container">
-                <div class="icon">
-                  <img src="img/5.png" class="img-fluid">
-                </div>
-                <div class="title">
-                  AI MODEL & <br>INSIGHT CREATION
-                </div>
-                <div class="content">
-                 <div>
-                    <p class="text-p">
-                      Tasks used to perform AI powered predicitve analytics, alerts and other features like tweaker, what-if analysis, root cause analysis,  etc
-                    </p>
-                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire now</a>
-                 </div>
-                </div>
-             </div>
-            </div>
-          </div>
-
         </div>
-        <br>
+      </div>
+    </div>
+
+    <div class="section-padding">
+      <div class="container">
         <div class="text-center">
-          <a href="ai-consulting-knowmore" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Know more</a>
+          <div class="title">
+            <div class="text-big60">Data Harmonization</div>
+          </div>
+          <div class="short-line mx-auto bg-red"></div>
+          <p class="text-p">
+            The wave of Digitization and Data collection in the past couple of years has forced every single company to focus on Data Collection. The biggest pain point of manufacturing companies as of today is to figure out which data is most fruitful. Further big data is being produced from Machinery as well, as thousands of sensors in your plant collect the data at the rate of every 1 second, sometimes even 1 millisecond. Real power lies in “The Fruitful Data”, not in “Big Data”.  
+          </p>
         </div>
-
-      </div>
-    </div>
-    <!------------------------ Automotives end --------------------->
-
-     <div class="section-padding">
-      <div class="container" >
-         <div class="centerTitle text-big60">
-         YOUR ADVANTAGES
-        </div>
-        
         <br>
-
-        <div class="row avantage-sec">
-          <div class="col-md-3">
-            <div class="automBox">
-                <div class="automPic">
-                  <img src="img/ai_1.jpg" class="img-fluid">
-                </div>
-                <div class="automText">
-                  Experience from over 200 Industrial Projects with Fortune 500 companies and National institutions like NASA
-                </div>
-              </div>
+        <div class="row mb-4 p-0 no-gutters white-box-shadow align-items-center">
+          <div class="col-lg order-2 order-lg-1">
+           <div class="p-4 text-lg-right" >
+              <p class="text-p fw-700 fs-12">
+                Intelligent Transformations such as FFT, Wavelet, Approximate Entropy etc can be applied on high-frequency data. For example, you are capturing Vibration data from a CNC Machine Spindle at the rate of 2KHZ which translates to a couple of GBs within a day. Applying “slot aggregation” becomes much easier as you can easily see that ~99% of times your CNC Machine Spindle is behaving normally and this “normal” data can be safely aggregated to the higher bucket (say 1 data point every 1 min), assuming no information loss. Now, the rest of the ~1% of the time, your CNC Machine Spindle is capturing Anomalies (during worn-out conditions or tool breaking conditions) which should not be aggregated at all, as that is “the Fruitful Data” and dropping the same will lead to information loss. This will allow this Data Compression from a couple of GBs to couple of MBs without compromising accuracy
+              </p>
+            </div>
           </div>
-          <div class="col-md-3">
-            <div class="automBox">
-                <div class="automPic">
-                  <img src="img/ai_2.jpg" class="img-fluid">
-                </div>
-                <div class="automText">
-                 Our Task-based pricing gives you more economic benefits than traditional hour-based pricing for consulting services
-                </div>
-              </div>
-          </div>
-          <div class="col-md-3">
-            <div class="automBox">
-                <div class="automPic">
-                  <img src="img/ai_3.jpg" class="img-fluid">
-                </div>
-                <div class="automText">
-                  Agile and use-case based consulting services
-                </div>
-              </div>
-          </div>
-          <div class="col-md-3">
-            <div class="automBox">
-                <div class="automPic">
-                  <img src="img/ai_4.jpg" class="img-fluid">
-                </div>
-                <div class="automText">
-                  54+ Human years of experience of academic and real-world experience in solving complex data science problems by developing practical solutions
-                </div>
-              </div>
+          <div class="col-lg order-1 order-lg-2">
+            <div class="AmimgBox">
+              <img src="img/pic-1.jpg" class="img-fluid">
+            </div>
           </div>
         </div>
-
       </div>
     </div>
 
-
-    
-
-
+    <div class="section-padding">
+      <div class="container">
+        <div class="text-center">
+          <div class="text-center title">
+            <div class="text-big60 mb-0"><span class="red">AI</span> Powered data</div>
+            <p class="text-first red">recommendation system</p>
+          </div>
+          <p class="text-p">
+           Tvarit Experts have prior experience in process engineering plants where calculation of precise set point of various parameters is very important to avoid any future anomaly. Tvarit data scientists has built ML/DL assisted recommendation engine to achieve that. Further, the Confidence Level of these AI predicted/prescribed setpoints are given while recommending users (shop floor engineers) with these action items. Limits of input tweakable parameters are taken into consideration while creating these recommendation engines. Hence domain knowledge is incorporated in ML/DL model and provision to users with sensible action items is ensured.
+          </p>
+        </div>
+      </div>
+    </div>
+   
 
     <!------------------------ Automotives end --------------------->
 
@@ -464,8 +313,6 @@
       </div>
     </div>
 
-
-
 <!------------------------Countdown start --------------------->
 <?php
     include 'change_we_brought.php'
@@ -477,8 +324,6 @@
     include 'change_we_bring.php'
     ?>
     <!------------------------Automated slide end --------------------->
-
-     
     <!------------------------footer start --------------------->
     <?php
     include 'footer.php'

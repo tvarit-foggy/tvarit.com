@@ -1,7 +1,9 @@
 /*-----------css 11-01-2020 --------*/
+
 .headerBg
 {
     margin-bottom: 60px;
+    padding-top: 60px;
 }
 
 .aiconsultingBg
@@ -198,4 +200,23 @@
 .typography .subtext .text-s2
 {
     font-weight: bold;
+}
+
+.title .text-first {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.list-12
+{
+    font-size: 12px;
+}
+
+.fs-12
+{
+    font-size: 12px;
+}
+.hdrscrollArrow i {
+    color: #fff !important;
 }
