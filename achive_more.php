@@ -29,7 +29,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
-    <title>Training</title>
+    <title>Achieve More</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -210,16 +210,254 @@
     </div>
     <!------------------------ main menu end ------------------------>
 
-    <!------------------------ google docs ------------------------>
-    <div class="section-padding">
+
+
+    <!------------------------ header start ------------------------->
+    <header class="headerBg achivemoreBg">
         <div class="container">
-            <iframe style="width:100%;height:100vh;"
-                src="https://docs.google.com/document/d/e/2PACX-1vTsCdto4lF1vxliF2-SrdGkvY8q7jYFvAr4pwE-LV9gcb2uAPYYLneDPJBGzmshHfrt-ax6TRxp1ftG/pub?embedded=true">
-            </iframe>
+            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="typography">
+                        <div class="text-big60">
+                            Achieve More
+                        </div>
+                        <div class="text-1">
+                            with Tvarit AI Solutions
+                        </div>
+                        <br>
+                        <!-- <p class="text-p">
+                 Target marketing, risk management, load forecasting, flight safety, predictive maintenance. We want you to Keep flying high.
+              </p> -->
+                        <br>
+
+                        <a href="http://cloud.tvarit.com" target="_blank"
+                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!------------------------ header end --------------------------->
+
+
+
+    <!------------------------ Automotives start --------------------->
+    <div class="section-padding-both">
+        <div class="white-box-shadow">
+            <div class="centerTitle">
+                <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
+                            class="color">i</span>t</span></div>
+                <div class="red text-big40" style="font-size:25px; text-align: center">AI Solution<br>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 brdr-right-darkblue">
+                    <ul class="ul-list-bullet">
+                        <li>Business Use-Case identification</li>
+                        <li>Break down the KPI
+                            Objective</li>
+                        <li>Data Extraction and
+                            integration</li>
+                        <li>Enablement of data
+                            pipelines, workflows,
+                            systems and
+                            processes to facilitate
+                            data science
+                            operations</li>
+
+                    </ul>
+                    <div class="title-grid centerTitle rerBg-grd-darkblue">
+                        Estimated time duration: 2 weeks(approx.)
+                    </div>
+                </div>
+                <div class="col-md-2 brdr-right-brown">
+                    <ul class="ul-list-bullet">
+                        <li>Data Preparation:
+                            Tasks used to ensure
+                            that the data fed into
+                            and train machine
+                            learning models are
+                            clean and accurate</li>
+                    </ul>
+                    <div class="title-grid centerTitle rerBg-grd-brown">
+                        Week 1
+                    </div>
+                </div>
+                <div class="col-md-2 brdr-right-green">
+                    <ul class="ul-list-bullet">
+                        <li>Data
+                            Harmonization:
+                            Tasks used to
+                            ensure that the data
+                            is complete and
+                            relevant for
+                            machine learning
+                            purposes </li>
+                    </ul>
+                    <div class="title-grid centerTitle rerBg-grd-green">
+                        Week 2
+                    </div>
+                </div>
+                <div class="col-md-2 brdr-right-red">
+                    <ul class="ul-list-bullet">
+                        <li> Data Labelling:
+                            Tasks used to ensure
+                            that the data has
+                            been properly labelled
+                            with the required
+                            output that needs to
+                            be learned</li>
+
+                    </ul>
+                    <div class="title-grid centerTitle rerBg-grd-red">
+                        Week 3
+                    </div>
+                </div>
+                <div class="col-md-2 brdr-right-blue">
+                    <ul class="ul-list-bullet">
+                        <li>AI driven predictive
+                            analytics, root-cause,
+                            what-if analysis and
+                            set-points for
+                            controllers</li>
+
+                    </ul>
+                    <div class="title-grid centerTitle rerBg-grd-blue">
+                        Week 4
+                    </div>
+                </div>
+                <div class="col-md-2 brdr-right-yellow">
+                    <ul class="ul-list-bullet">
+                        <li>Measurement of
+                            impact of AI driven
+                            decision in terms of
+                            both financial and
+                            non-financial benefits</li>
+                        <li>Identification of
+                            closed-loop learnings
+                            to be incorporated
+                            into AI model</li>
+                    </ul>
+                    <div class="title-grid centerTitle rerBg-grd-yellow">
+                        Estimated time duration: 2 weeks(approx.)
+                    </div>
+                </div>
+
+            </div>
+            <br>
+            <div class="centerTitle">
+                <h4><b> We take only 4 weeks </b> </h4>
+                <h4> to make and implement AI software solutions for your factory.</h4>
+            </div>
         </div>
     </div>
-    <!------------------------ google docs ------------------------>
+    <!------------------------ Automotives end --------------------->
 
+    <!------------------------Countdown start --------------------->
+    <div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
+        <div class="container">
+            <div class="centerTitle text-big60 text-white">
+                The change we <span class="fw-900">brought</span>
+            </div>
+            <div class="row">
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="22">0</span> <small>+</small></div>
+                        <div class="text">Highest number of algorithms</div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="97.2">0</span> <small>%</small></div>
+                        <div class="text">Accuracy of APA models</div>
+                    </div>
+                </div>
+
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="0">100</span> <small class="x"></small>
+                        </div>
+                        <div class="text">Time of Transfer Learning from 1 to n Machines </div>
+                    </div>
+                </div>
+
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="30">0</span> <small>Mins</small></div>
+                        <div class="text">To Build your AI model</div>
+                    </div>
+                </div>
+            </div>
+            <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
+                Our Proven <span class="fw-900">Results</span>
+            </div>
+            <div class="row">
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="13">0</span> <small>%</small></div>
+                        <div class="text">Increase in OEE</div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="30">0</span> <small>%</small></div>
+                        <div class="text">Decrease in delivery time</div>
+                    </div>
+                </div>
+
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="12">0</span> <small>%</small></div>
+                        <div class="text">Decrease in energy costs </div>
+                    </div>
+                </div>
+
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="25">0</span> <small>%</small></div>
+                        <div class="text">Reduction in quality defects</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!------------------------Countdown end --------------------->
+
+    <!------------------------Automated slide start --------------------->
+    <?php 
+                include 'change_we_bring.php';
+                ?>
+    <!------------------------Automated slide end --------------------->
+
+    <!------------------------ tvarit start --------------------->
+    <div class="section-padding-both">
+        <div class="container">
+            <div class="white-box-shadow">
+                <div class="centerTitle">
+                    <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
+                                class="color">i</span>t</span> The Team</div>
+                </div>
+
+                <div class="centerPharseContent text-p">
+                    We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing
+                    vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
+                </div>
+            </div>
+        </div>
+    </div>
+    <!------------------------ tvarit end ----------------------->
+
+    <!------------------------Client logo slide start --------------------->
+    <?php 
+                include 'using-tvarit.php';
+                ?>
+    <!------------------------Client logo slide end --------------------->
+
+    <!------------------------try demo start --------------------->
+
+    <!------------------------try demo end --------------------->
 
     <!------------------------footer start --------------------->
     <?php
@@ -238,7 +476,13 @@
     <script src="js/counting.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-
+    <script>
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d");
+    ctx.beginPath();
+    ctx.arc(100, 75, 50, 0, 2 * Math.PI);
+    ctx.stroke();
+    </script>
 
 </body>
 

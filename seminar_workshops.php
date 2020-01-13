@@ -76,7 +76,52 @@
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index">AI Software</a>
+                        <a class="nav-link" href="#">AI Software</a>
+                        <div class="submenu-div">
+            <div class="row">
+                <div class="col">
+                    <div class="menuQuote">
+                        <div class="textBig">AI Software Solutions<span class="red">.</span></div>
+                        <!-- <p class="text-normal"> ..... </p> -->
+                    </div>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li>
+                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
+                                OEE for Steel and Metal Manufacturing companies</a>
+                        </li>
+                        <li>
+                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                Maintenance for Industrial Electric Motors</a>
+                        </li>
+                        <li>
+                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
+                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
+                                Companies</a>
+                        </li>
+                        <li>
+                            <a href="preductive_quality_for_injection_moulding_machines" class="sub-Link">Preductive
+                                Quality for Injection Moulding Machines</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li style="text-align: center;">
+                            <a href="achive_more" class="sub-Link"
+                                style="padding-left:0px; color:red; align-item: center;">
+                                <img class="ai_solutions_img" src="./img/plus_ai.png"
+                                    alt="Achieve More Tvarit AI Solutions" />
+                                <div class="textBig" style="font-size: 900;">
+                                    Achieve More Tvarit AI Solutions
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="ai-platform">AI Platform</a>
