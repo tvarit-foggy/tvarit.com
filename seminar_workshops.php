@@ -87,8 +87,8 @@
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                        <div class="textBig">AI Consulting<span class="red">.</span></div>
-                                        <p class="text-normal"> </p>
+                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"> </p> -->
                                     </div>
                                 </div>
                                 <div class="col">
@@ -107,8 +107,8 @@
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                        <div class="textBig">More<span class="red">.</span></div>
-                                        <p class="text-normal"></p>
+                                         <div class="textBig">More<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"></p> -->
                                     </div>
                                 </div>
                                 <div class="col d-flex">

@@ -64,7 +64,7 @@
                                 <div class="col">
                                     <div class="menuQuote">
                                         <div class="textBig">AI Consulting<span class="red">.</span></div>
-                                        <p class="text-normal"> </p>
+                                        <!-- <p class="text-normal"> </p> -->
                                     </div>
                                 </div>
                                 <div class="col">
@@ -84,7 +84,7 @@
                                 <div class="col">
                                     <div class="menuQuote">
                                         <div class="textBig">More<span class="red">.</span></div>
-                                        <p class="text-normal"></p>
+                                        <!-- <p class="text-normal"></p> -->
                                     </div>
                                 </div>
                                 <div class="col d-flex">
@@ -163,13 +163,13 @@
                 <span class="red">AI</span> Platform
               </div>
              <div class="more">
-                <p class="text-p">
+                <p class="text-p" style="font-size:18px">
                  World’s most advanced AI platform for manufacturing data analytics
                 </p>
              </div>
               <br>
 
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn Tvarit AI Platform</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform works for you</a>
             </div>
           </div>
           

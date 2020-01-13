@@ -117,8 +117,8 @@
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                        <div class="textBig">AI Consulting<span class="red">.</span></div>
-                                        <p class="text-normal"> </p>
+                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"> </p> -->
                                     </div>
                                 </div>
                                 <div class="col">
@@ -137,8 +137,8 @@
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                        <div class="textBig">More<span class="red">.</span></div>
-                                        <p class="text-normal"></p>
+                                         <div class="textBig">More<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"></p> -->
                                     </div>
                                 </div>
                                 <div class="col d-flex">
@@ -321,7 +321,7 @@
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="videoWrapper">
-              <iframe  class="videoFrame" src="https://www.youtube.com/embed/GVqSTylrl5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
 
@@ -438,7 +438,7 @@
     <div class="section-padding-both">
       <div class="container">
         <div class="centerTitle text-big60">
-          Using <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>
+        REFERENCES
         </div>
         <br>
         <div class="client-carousel">

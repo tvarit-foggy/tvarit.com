@@ -244,7 +244,6 @@
              free teaser for one day
              </div>
              <br>
-              
          </div>
      </div>
      <!------------------------try demo end --------------------->

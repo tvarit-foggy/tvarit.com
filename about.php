@@ -88,7 +88,7 @@
                                 <div class="col">
                                     <div class="menuQuote">
                                         <div class="textBig">AI Consulting<span class="red">.</span></div>
-                                        <p class="text-normal"> </p>
+                                        <!-- <p class="text-normal"> </p> -->
                                     </div>
                                 </div>
                                 <div class="col">
@@ -108,7 +108,7 @@
                                 <div class="col">
                                     <div class="menuQuote">
                                         <div class="textBig">More<span class="red">.</span></div>
-                                        <p class="text-normal"></p>
+                                        <!-- <p class="text-normal"></p> -->
                                     </div>
                                 </div>
                                 <div class="col d-flex">
@@ -167,7 +167,7 @@
 
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg aboutBg" id="visiom">
+    <!-- <header class="headerBg aboutBg" id="visiom">
         <div class="container">
             <a href="#Team" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
@@ -194,46 +194,30 @@
                 </div>
             </div>
         </div>
-    </header>
+    </header> -->
     <!------------------------ header end --------------------------->
 
 
-    <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="red text-big60"> Our Culture</div>
-                </div>
-
-                <div class="centerPharseContent text-p">
-                    Tvarit comes from Sanskrit language which means 'Fast'. Our company stands up to its name by valuing
-                    'Fast & Persistent' output. Further the letters A and I shows our strong knowledge in AI field. The
-                    very first letter of our name, the robotic arm shaped T, signifies that our customers are the
-                    manufacturing and automobile companies.
-                </div>
-            </div>
-        </div>
-    </div>
-    <!------------------------ tvarit end ----------------------->
+    
 
     <!------------------------ Who we are --------------------->
     <div class="section-padding" id="Benefits">
         <div class="container">
-
             <div class="row align-items-center">
-                <div class="col-md">
+                <!-- <div class="col-md">
                     <div class="AmimgBox">
                         <img src="img/ab-1.jpg" class="img-fluid">
                     </div>
-                </div>
+                </div> -->
+                <br>
                 <div class="col-md">
                     <div class="px-4 box-content-left">
+                        <br><br>
                         <div class="title">
                             <div class="text-big60 fw-900"><span class="text-capitalize">Who we are?</span></div>
                         </div>
                         <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
+                        <div class="">
                             <p class="text-p">
                                 We are German company based in Frankfurt, Germany. We build and provide AI solutions to
                                 solve all
@@ -538,7 +522,7 @@
 
             </div>
             <!-------- Custom Divider ------------>
-            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
+            <!-- <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
                 <div class="col-md-5">
                     <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
                 </div>
@@ -548,126 +532,13 @@
                 <div class="col-md-5">
                     <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
                 </div>
-            </div>
+            </div> -->
             <!-------- Custom Divider ------------>
 
-
+    <br><br>
         </div>
     </div>
-    <!------------------------ Automotives start --------------------->
-    <div class="section-padding" id="Benefits">
-        <div class="container">
-
-            <div class="row align-items-center">
-                <div class="col-md">
-                    <div class="AmimgBox">
-                        <img src="img/ab-1.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefi</span><span
-                                    class="red">TS #1</span></div>
-                            <h4 class="red fs-18">Steel production- quicker, precise, easier. How?</h4>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
-                            <p class="text-p">
-                                Tvarit AI, promising to make your life easier toiled to turn steel
-                                production smarter. Our team set up an APA tool to predict the quality of
-                                steel produced accurately and swifter. Earlier a gruesome huge batch of
-                                processing machines, fluxing iron ore, and scrap metal looked irksome. But
-                                our team helped envisage the precise amount of impurities such as nitrogen,
-                                silicon, phosphorus and excess carbon to be removed from the raw iron, and
-                                alloying elements such as manganese, nickel, chromium, and vanadium to be
-                                added to produce different grades of steel. Tvarit Solution helped company
-                                predicting the quality of steel being produced on a real-time basis and
-                                further gave actionable insights to reduce the number of defective coils
-                                thus changing the game.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-    <div class="section-padding">
-        <div class="container">
-
-            <div class="row align-items-center">
-
-                <div class="col-md order-2 order-md-1">
-                    <div class="px-4 box-content-right">
-                        <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefi</span><span
-                                    class="red">TS #2</span></div>
-                            <h4 class="red fs-18">When will my machine break?</h4>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
-                            <p class="text-p">
-                                Predicting life expectancy is always harsh. When it comes to machines, it is
-                                rather important though. Tvarit on the cue helps reduce the wrinkles of
-                                doubts about when the machine or its component will get out of function. On
-                                the same lines, we executed our model for a construction company. The key
-                                challenge was to spot the failure patterns in various SPN IDs and FMI IDs
-                                coming in DTCs (diagnostic trouble codes) from CAN bus which is attached to
-                                machine’s engine. Next, we captured the sustaining time of a particular DTC.
-                                Once that was done, it was easy to apply ML / DL algorithms to predict the
-                                period a DTC persists, and whether the machine is going to breakdown or not
-                                and notify the responsible person. This is what Tvarit AIms for, upgrading
-                                your lives.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md order-1 order-md-2">
-                    <div class="AmimgBox">
-                        <img src="img/ab-2.jpg" class="img-fluid">
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-    <div class="section-padding-both">
-        <div class="container">
-
-            <div class="row align-items-center">
-                <div class="col-md">
-                    <div class="AmimgBox">
-                        <img src="img/ab-3.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefi</span><span
-                                    class="red">TS #3</span></div>
-                            <h4 class="red fs-18">The truck and the backup battery</h4>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
-                            <p class="text-p">
-                                A truck company approached us with a normal problem- we rent trucks and our
-                                backup battery cost is soaring. Basically, they wanted to reduce the backup
-                                battery cost for their fleet. One back up battery cost them 7000 euro and
-                                had its own restrictions. It could not be used in each and every truck. So,
-                                we tabulated the distance covered, fuel consumption in eco mode/start mode,
-                                battery voltage and current data to predict the need for a backup battery
-                                for a given truck. This solved their problem, was cost efficient, smarter
-                                and as promised, easier and upgraded by Tvarit AI. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <!------------------------ Automotives end --------------------->
+   
 
 
 
@@ -677,17 +548,45 @@
                 ?>
     <!------------------------Countdown end --------------------->
 
-    <!------------------------Automated slide start --------------------->
-    <?php 
-                include 'change_we_bring.php';
-                ?>
-    <!------------------------Automated slide end --------------------->
+     
 
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
-                include 'using-tvarit.php';
-                ?>
+    <div class="section-padding-both">
+      <div class="container">
+        <div class="centerTitle text-big60">
+        REFERENCES
+        </div>
+        <br>
+        <div class="client-carousel">
+          <div class="carousel-cell">
+            <div class="picBox w-90">
+              <img src="img/client_logo/aditya_birla.jpg" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox w-90">
+              <img src="img/client_logo/DB.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox w-90">
+              <img src="img/client_logo/intel.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/client_logo/NTT.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-cell">
+            <div class="picBox">
+              <img src="img/client_logo/times-of-india.png" class="img-fluid">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <!------------------------Client logo slide end --------------------->
 
     <!------------------------try demo start --------------------->

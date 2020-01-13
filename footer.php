@@ -240,11 +240,11 @@
      <!------------------------try demo start --------------------->
      <div class="tryDemobg">
          <div class="container text-center">
-             <div class="centerTitle text-white text-big60">
+             <!-- <div class="centerTitle text-white text-big60">
                  TRY DEMO <span class="fw-900">NOW</span>
-             </div>
+             </div> -->
              <br>
-             <div class="row justify-content-center">
+             <!-- <div class="row justify-content-center">
                  <div class="col-md-8">
                      <div class="form-group">
                          <div class="addon">
@@ -253,7 +253,7 @@
                          </div>
                      </div>
                  </div>
-             </div>
+             </div> -->
          </div>
      </div>
      <!------------------------try demo end --------------------->
