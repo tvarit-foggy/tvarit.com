@@ -59,7 +59,7 @@
                         <a class="nav-link" href="index">AI Software</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index">AI Platform</a>
+                        <a class="nav-link" href="ai-platform">AI Platform</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="ai-consulting">AI Consulting</a>
@@ -275,7 +275,7 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Main tasks related to the movement of data to and from systems and enablmenent
+                                        The movement of data to and from systems and enablmenent
                                         of data pipelines, workflows, systems and processes to facilitate data science
                                         operations.
                                     </p>
@@ -299,7 +299,7 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Tasks used to ensure that the data fed into and train machine learning models
+                                        Ensure that the data fed into and train machine learning models
                                         are clean and for machine learning purposes
                                     </p>
                                     <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire
@@ -322,7 +322,7 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Tasks used to ensure that the relevant data has been appropriately labelled with
+                                        Ensure that the relevant data has been appropriately labelled with
                                         the required output that needs to be learned
                                     </p>
                                     <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire
@@ -345,7 +345,7 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Tasks used to ensure that the data fed into and train machine learning models
+                                        Ensure that the data fed into and train machine learning models
                                         are complete and releveant for machine learning purposes
                                     </p>
                                     <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire
@@ -368,7 +368,7 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Tasks used to perform AI powered predicitve analytics, alerts and other features
+                                        Perform AI powered predicitve analytics, alerts and other features
                                         like tweaker, what-if analysis, root cause analysis, etc
                                     </p>
                                     <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire

@@ -220,3 +220,186 @@
 .hdrscrollArrow i {
     color: #fff !important;
 }
+.timelineSteps-warpper
+{
+    position: relative;
+}
+.vline {
+    position: absolute;
+    height: 100%;
+    width: 2px;
+    top: -50px;
+    left: 0;
+    margin: auto;
+    right: 0;
+    background: #222;
+}
+.timelineStep
+{
+    padding: 30px;
+    position: relative;
+}
+.timelineStep.right
+{
+    text-align: right;
+}
+.timelineStep.fillbox
+{
+    background: #ed1b4a;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 9px 38px #0000003d;
+}
+.timelineStep.fillbox .title
+{
+    color: #fff;
+}
+.timelineStep .title
+{
+    color: #ed1b4a;
+}
+.timelineStep .ul-list-bullet {
+    padding-left: 0;
+}
+.timelineStep .ul-list-bullet li
+{
+    margin-bottom: 6px;
+}
+
+
+.timelineStep.fillbox .ul-list-bullet li:after {
+    background: #ffffff;
+    box-shadow: 0 0 0 3px #ed1b4a, 0 0 0 4px #ffffff;
+}
+
+
+.timelineStep.fillbox:after {
+    position: absolute;
+    content: '';
+    background: #000;
+    height: 2px;
+    width: 50%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.timelineSteps-warpper .line-left:after
+{
+    right: -50%;
+}
+
+.timelineSteps-warpper .line-right:after
+{
+    left: -50%;
+}
+.timelineSteps-warpper .line-right:before,.timelineSteps-warpper .line-left:before
+{
+    position: absolute;
+    content: '';
+    width: 20px;
+    height: 20px;
+    background: #ed1b4a;
+    margin: auto;
+     top: 0;
+    bottom: 0;
+    z-index: 1;
+}
+.timelineSteps-warpper .line-left:before
+{
+    right: -27%;
+}
+
+.timelineSteps-warpper .line-right:before
+{
+    left: -27%;
+}
+
+.ul-list-50 li
+{
+    width: 46%;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+
+.Benefits-sec .featureBox .text-p {
+    line-height: 1.5;
+    font-weight: bold;
+    font-size: 18px;
+    width: 75%;
+    margin: auto;
+}
+.macbook-sec {
+    overflow-x: hidden;
+    height: 100%;
+    padding-top: 120px !important;
+    min-height: 90vh;
+}
+.macbook-sec .bg-light-gray
+{
+    position: absolute;
+    bottom:0;
+    left: 0;
+    right: 0;
+    width: 100%;
+   height: 40%;
+    z-index: -1;
+}
+.macbook-position
+{
+    position: absolute;
+    right: 10%;
+    top: 10%;
+    width: 100%;
+    height: 370px;
+    max-width: 596px;
+    border-radius: 2px;
+}
+.macbook-wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0px auto;
+    height: 100%;
+    background: #fff;
+}
+.macbook-wrapper .macbook-lapi {
+    display: block;
+    position: absolute;
+    left: -21.8%;
+    top: -12.3%;
+    width: 144%;
+    height: auto;
+    z-index: -1;
+}
+
+
+.macbook-video
+{
+    height: 100%;
+    width: 100%;
+    box-shadow: none;
+    
+    border: none;
+}
+
+.logo-box
+{
+    background: #fff;
+    box-shadow: 0 9px 38px #0000003d;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.logo-box img
+{
+    height: 100px;
+}
+.logotext
+{
+    padding: 10px 0;
+    position: relative;
+    color: #fff;
+    background: #ed1b4a;
+}
