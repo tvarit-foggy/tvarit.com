@@ -2,12 +2,12 @@
     <div class="row align-items-center">
         <div class="col-md-6 pdn-l-col">
             <div class="title md-center-title">
-                <div class="text-first red">The change</div>
-                <div class="text-big60">we can Bring</div>
-                <div class="short-line bg-red"></div>
+                <!-- <div class="text-first red">The change</div> -->
+                <!-- <div class="text-big60">Try Demo Now</div> -->
+                <!-- <div class="short-line bg-red"></div> -->
             </div>
         </div>
-        <div class="col-md-6">
+        <!-- <div class="col-md-6">
             <div class="automtv-carousel">
                 <div class="carousel-cell">
                     <a href="automotive" class="automBox">
@@ -83,6 +83,6 @@
                 </div>
 
             </div>
-        </div>
+        </div> -->
     </div>
 </div>

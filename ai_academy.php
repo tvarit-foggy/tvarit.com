@@ -169,25 +169,25 @@
 
     <!------------------------ header start ------------------------->
     <header class="headerBg aiconsultingBg parallax-bg parallax" data-diff="100">
-        <div class="container">
-            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown white-arrow"></i></a>
-            <div class="row align-items-center">
-                <div class="col-12">
-                    <div class="typography">
-                        <div class="text-1 mb-0">
-                            <span class="red fw-600">Make AI understandable</span>
-                        </div>
-                        <div class="text-big60">for your employees</div>
-                        <div class="subtext">
-                            <div class="text-s1">by learning from the best AI experts</div>
-                            <div class="text-s2">in the Germany</div>
-                        </div>
-
-                    </div>
-
-                </div>
+      <div class="container">
+        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
+        <div class="row align-items-center">
+          <div class="col-12">
+            <div class="typography">
+              <div class="text-1 mb-0">
+                <span class="red fw-600">Make AI understandable</span> 
+              </div>
+              <div class="text-big60" style="font-size: 50px; margin-bottom: 30px;">for your employees</div>
+              <div class="subtext">
+                <div class="text-s1  animated infinite pulse slower" style="font-size:30px;">by learning from the best AI experts</div>
+                <div class="text-s2 animated infinite pulse slower">in the Germany</div>
+              </div>
+             
             </div>
+            
+          </div>
         </div>
+      </div>
     </header>
     <!------------------------ header end --------------------------->
 
@@ -449,43 +449,8 @@
 
         </div>
     </div>
-
-
-
+    <br>
     <!------------------------ Automotives end --------------------->
-
-    <div class="section-padding-both">
-        <div class="container white-box-shadow">
-
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="lookingBox rerBg-grd">
-                        <div class="text text-white">
-                            <span class="fs-18  fw-400">If you're looking for</span>
-                            <h3 class="fw-900">a concise overview</h3>
-                        </div>
-                        <div>
-                            <a href="blogs.html" class="btn btn-round btn-white">Click Here</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="lookingBox brdr-black">
-                        <div class="text">
-                            <span class="fs-18  fw-400">If you're looking for</span>
-                            <h3 class="fw-900">in-depth knowledge</h3>
-                        </div>
-
-                        <div>
-                            <a href="white_paper.html" class="btn btn-round btn-black">Click Here</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
 
     <!------------------------Countdown start --------------------->
     <?php

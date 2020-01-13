@@ -629,7 +629,7 @@ p
     right: 0;
     width: 75%;
     height: auto;
-    z-index: -100;
+    /* z-index: -100; */
     transition: 1s opacity;
 }
 .red
@@ -710,7 +710,7 @@ p
 .text-normal,.text-p
 {
     color: #555555;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 2;
 }
 .text-medium

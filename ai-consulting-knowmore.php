@@ -251,8 +251,9 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60 red">Data Labelling</div>
+                    <div class="text-big60">Data Labelling</div>
                 </div>
+                <div class="short-line mx-auto bg-red"></div>
                 <div class="centerPharseContent text-p">
                     Tvarit provides Managed Data Labelling teams. Enrich your massive amounts of data in a transparent
                     and agile approach with high levels of accuracy, consistency and speed. We provide labelling to all
@@ -323,41 +324,7 @@
             </div>
         </div>
     </div>
-
-
-    <!------------------------ Automotives end --------------------->
-
-    <div class="section-padding-both">
-        <div class="container white-box-shadow">
-
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="lookingBox rerBg-grd">
-                        <div class="text text-white">
-                            <span class="fs-18  fw-400">If you're looking for</span>
-                            <h3 class="fw-900">a concise overview</h3>
-                        </div>
-                        <div>
-                            <a href="blogs.html" class="btn btn-round btn-white">Click Here</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="lookingBox brdr-black">
-                        <div class="text">
-                            <span class="fs-18  fw-400">If you're looking for</span>
-                            <h3 class="fw-900">in-depth knowledge</h3>
-                        </div>
-
-                        <div>
-                            <a href="white_paper.html" class="btn btn-round btn-black">Click Here</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
+    <br>
 
     <!------------------------Countdown start --------------------->
     <?php

@@ -141,14 +141,15 @@
     <!------------------------ main menu end ------------------------>
 
 
+  
      <!------------------------ header start ------------------------->
-    <header class="headerBg macbook-sec">
+     <header class="headerBg macbook-sec">
       <div class="container">
         <div class="row align-items-center">
           <div class="macbook-position">
             <div class="macbook-wrapper">
               <div class="macbook-lapi">
-                <img src="img/macbook.png" class="img-fluid">
+                <img src="img/lapi-2.png" class="img-fluid">
               </div>
               <iframe class="macbook-video" src="https://www.youtube.com/embed/J0CnupBDA74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
@@ -168,7 +169,7 @@
              </div>
               <br>
 
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn Tvarit AI Platform</a>
             </div>
           </div>
           
@@ -181,6 +182,7 @@
     <div id="downClick">
       <div class="container">
         <div class="text text-center white-box-shadow">
+        <div class="text-big60 mb-0">Witness the most complete and true <span class="red">AI</span> Platform</div>
           <div class="centerPharseContent text-p">
             Tvarit AI is an award winning AI platform. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques to enable you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models as per your needs. It also gives world-class user experience in the form of simple and sleek design by leveraging the state-of-the-art technology.
           </div>
@@ -188,7 +190,11 @@
 
       </div>
     </div>
+    <br>
     <!------------------------ CONSULTING end --------------------->
+    <div class="text text-center mb-0">
+    <h2 class="title red">Overview of working</h2>
+    </div>
     <section class="section-padding">
       <div class="container timelineSteps-warpper">
         <div class="vline"></div>
@@ -197,9 +203,9 @@
             <div class="timelineStep fillbox line-left">
                 <h4 class="title">Data Extraction</h4>
                 <br>
-                <p class="fs-14">
-                  Receive data from all kinds of IT systems and other business process systems used in the manufacturing units
-                </p>
+                <ul class="ul-list-bullet">
+                <li>  Receive data from all kinds of IT systems and other business process systems used in the manufacturing units </li>
+              </ul>
             </div>
           </div>
           <div class="col-md-2"></div>
@@ -207,15 +213,15 @@
             <div class="timelineStep">
                 <h4 class="title">Supports:</h4>
                 <br>
-                <p class="fs-14">
-                  Receive data from all kinds of IT systems and other business process systems used in the manufacturing units
-                </p>
+                <ul class="ul-list-bullet">
+                <li>  Receive data from all kinds of IT systems and other business process systems used in the manufacturing units </li>
+              </ul>
             </div>
           </div>
         </div>
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5 order-3 order-md-1">
-            <div class="timelineStep right">
+            <div class="timelineStep">
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
@@ -275,7 +281,7 @@
         </div>
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5 order-3 order-md-1">
-            <div class="timelineStep right">
+            <div class="timelineStep">
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
@@ -326,7 +332,7 @@
         </div>
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5 order-3 order-md-1">
-            <div class="timelineStep right">
+            <div class="timelineStep">
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
@@ -368,16 +374,16 @@
             <div class="timelineStep">
                 <h4 class="title">Automatically </h4>
                 <br>
-                <p class="text-p">
-                  Suggests business to gauge the effectiveness of the predictions as they would be cautioned in advance to rely or not to rely on the novelty and non-novelty points. 
-                </p>
+                <ul class="ul-list-bullet">
+                 <li> Suggests business to gauge the effectiveness of the predictions as they would be cautioned in advance to rely or not to rely on the novelty and non-novelty points. </li>
+              </ul>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="section-padding">
+    <section class="section-padding keyFeatures">
       <div class="container">
           <div class="white-box-shadow">
             <div class="title">
@@ -388,7 +394,7 @@
             <br>
             <ul class="ul-list-bullet ul-list-50">
               <li>
-                Available in all flavours On-Premise, cloud and edge-computing
+                Available in all flavours : On-Premise, cloud and edge-computing
               </li>
               <li>
                 More than 100 ready to use modules for data preparation and labelling jobs
@@ -403,154 +409,288 @@
                  Supports following data connectors
               </li>
             </ul>
+            <br>
+            <ul class="ul-logobox">
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/1.png" class="img-fluid">
+                  <div class="logotext">
+                    Amazon S3
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/2.png" class="img-fluid">
+                  <div class="logotext">
+                    HDFS
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/3.png" class="img-fluid">
+                  <div class="logotext">
+                    POSTGRE SQL
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/4.png" class="img-fluid">
+                  <div class="logotext">
+                    GOOGLE ANALYTICS
+                  </div>
+                </div>
+              </li>
+              <li>
+                 <div class="logo-box">
+                  <img src="img/logoImg/5.png" class="img-fluid">
+                  <div class="logotext">
+                    MONFODB
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/7.png" class="img-fluid">
+                  <div class="logotext">
+                    AMAZON REDSHIFT
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/8.png" class="img-fluid">
+                  <div class="logotext">
+                    IMPALA
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/9.png" class="img-fluid">
+                  <div class="logotext">
+                    CASSANDRA
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/10.png" class="img-fluid">
+                  <div class="logotext">
+                    ELASTIC SEARCH
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/11.png" class="img-fluid">
+                  <div class="logotext">
+                    MS SQL
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/12.png" class="img-fluid">
+                  <div class="logotext">
+                    SNOWFLAKE
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/13.png" class="img-fluid">
+                  <div class="logotext">
+                    ORACLE
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/6.png" class="img-fluid">
+                  <div class="logotext">
+                  MEMSQL
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/14.png" class="img-fluid">
+                  <div class="logotext">
+                    MYSQL
+                  </div>
+                </div>
+              </li>
+              <li>
+                 <div class="logo-box">
+                  <img src="img/logoImg/15.png" class="img-fluid">
+                  <div class="logotext">
+                    SALESFORCE
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="logo-box">
+                  <img src="img/logoImg/16.png" class="img-fluid">
+                  <div class="logotext">
+                    HIVE
+                  </div>
+                </div>
+              </li>
+            </ul>
+
+
+<!-- 
+            <div class="row no-gutters">
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/1.png" class="img-fluid">
+                  <div class="logotext">
+                    Amazon S3
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/2.png" class="img-fluid">
+                  <div class="logotext">
+                    HDFS
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/3.png" class="img-fluid">
+                  <div class="logotext">
+                    POSTGRE SQL
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/4.png" class="img-fluid">
+                  <div class="logotext">
+                    GOOGLE ANALYTICS
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/5.png" class="img-fluid">
+                  <div class="logotext">
+                    MONFODB
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/6.png" class="img-fluid">
+                  <div class="logotext">
+                    MEMSQL
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/7.png" class="img-fluid">
+                  <div class="logotext">
+                    AMAZON REDSHIFT
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/8.png" class="img-fluid">
+                  <div class="logotext">
+                    IMPALA
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/9.png" class="img-fluid">
+                  <div class="logotext">
+                    CASSANDRA
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/10.png" class="img-fluid">
+                  <div class="logotext">
+                    ELASTIC SEARCH
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/11.png" class="img-fluid">
+                  <div class="logotext">
+                    MS SQL
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/12.png" class="img-fluid">
+                  <div class="logotext">
+                    SNOWFLAKE
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/13.png" class="img-fluid">
+                  <div class="logotext">
+                    ORACLE
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/14.png" class="img-fluid">
+                  <div class="logotext">
+                    MYSQL
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/15.png" class="img-fluid">
+                  <div class="logotext">
+                    SALESFORCE
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="logo-box">
+                  <img src="img/logoImg/16.png" class="img-fluid">
+                  <div class="logotext">
+                    HIVE
+                  </div>
+                </div>
+              </div>
+            </div> -->
           </div>
       </div>
     </section>
 
     <section class="section-padding">
       <div class="container">
-        <div class="row">
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/1.png" class="img-fluid">
-              <div class="logotext">
-                Amazon S3
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/2.png" class="img-fluid">
-              <div class="logotext">
-                HDFS
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/3.png" class="img-fluid">
-              <div class="logotext">
-                POSTGRE SQL
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/4.png" class="img-fluid">
-              <div class="logotext">
-                GOOGLE ANALYTICS
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/5.png" class="img-fluid">
-              <div class="logotext">
-                MONFODB
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/6.png" class="img-fluid">
-              <div class="logotext">
-                MEMSQL
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/7.png" class="img-fluid">
-              <div class="logotext">
-                AMAZON REDSHIFT
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/8.png" class="img-fluid">
-              <div class="logotext">
-                IMPALA
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/9.png" class="img-fluid">
-              <div class="logotext">
-                CASSANDRA
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/10.png" class="img-fluid">
-              <div class="logotext">
-                ELASTIC SEARCH
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/11.png" class="img-fluid">
-              <div class="logotext">
-                MS SQL
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/12.png" class="img-fluid">
-              <div class="logotext">
-                SNOWFLAKE
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/13.png" class="img-fluid">
-              <div class="logotext">
-                ORACLE
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/14.png" class="img-fluid">
-              <div class="logotext">
-                MYSQL
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/15.png" class="img-fluid">
-              <div class="logotext">
-                SALESFORCE
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/logoImg/16.png" class="img-fluid">
-              <div class="logotext">
-                HIVE
-              </div>
-            </div>
-          </div>
-
-        </div>
+       
       </div>
     </section>
 
@@ -670,7 +810,7 @@
 
     <!------------------------footer start --------------------->
     <?php
-    include 'footer.php'
+    include 'footer_platform.php'
     ?>
     <!------------------------footer end --------------------->
     <!-- script start -->
