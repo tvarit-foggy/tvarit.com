@@ -81,7 +81,7 @@
             <div class="row">
                 <div class="col">
                     <div class="menuQuote">
-                        <div class="textBig">AI Software Solutions<span class="red">.</span></div>
+                        <div class="textBig">Ai Solutions<span class="red">.</span></div>
                         <!-- <p class="text-normal"> ..... </p> -->
                     </div>
                 </div>
@@ -270,7 +270,7 @@
                                 smart and
                                 informed decisions by deriving actionable and valuable insights from a sea of data.
 
-                                We provide AI software solutions, AI platform and AI consulting services to successfully
+                                We provide Ai Solutions, AI platform and AI consulting services to successfully
                                 complete
                                 your all AI and data science projects.
 

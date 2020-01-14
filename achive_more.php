@@ -82,7 +82,7 @@
             <div class="row">
                 <div class="col">
                     <div class="menuQuote">
-                        <div class="textBig">AI Software Solutions<span class="red">.</span></div>
+                        <div class="textBig">Ai Solutions<span class="red">.</span></div>
                         <!-- <p class="text-normal"> ..... </p> -->
                     </div>
                 </div>
@@ -349,7 +349,7 @@
             <br>
             <div class="centerTitle">
                 <h4><b> We take only 4 weeks </b> </h4>
-                <h4> to make and implement AI software solutions for your factory.</h4>
+                <h4> to make and implement Ai Solutions for your factory.</h4>
             </div>
         </div>
     </div>

@@ -70,7 +70,7 @@ gtag('config', 'UA-143837547-1');
             <div class="row">
                 <div class="col">
                     <div class="menuQuote">
-                        <div class="textBig">AI Software Solutions<span class="red">.</span></div>
+                        <div class="textBig">Ai Solutions<span class="red">.</span></div>
                         <!-- <p class="text-normal"> ..... </p> -->
                     </div>
                 </div>
