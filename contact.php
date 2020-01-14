@@ -207,7 +207,7 @@ $("#btn").live("click",function(){
                                 style="padding-left:0px; color:red; align-item: center;">
                                 <img class="ai_solutions_img" src="./img/plus_ai.png"
                                     alt="Achieve More Tvarit AI Solutions" />
-                                <div class="textBig" style="font-size: 900;">
+                                <div class="bold text-big20 tvarit-black">
                                     Achieve More Tvarit AI Solutions
                                 </div>
                             </a>
