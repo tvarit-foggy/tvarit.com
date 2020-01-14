@@ -480,41 +480,7 @@
     </section>
 
     <!------------------------Client logo slide start --------------------->
-    <div class="section-padding-both">
-      <div class="container">
-        <div class="centerTitle text-big60">
-        REFERENCES
-        </div>
-        <br>
-        <div class="client-carousel">
-          <div class="carousel-cell">
-            <div class="picBox w-90">
-              <img src="img/client_logo/aditya_birla.jpg" class="img-fluid">
-            </div>
-          </div>
-          <div class="carousel-cell">
-            <div class="picBox w-90">
-              <img src="img/client_logo/DB.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="carousel-cell">
-            <div class="picBox w-90">
-              <img src="img/client_logo/intel.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="carousel-cell">
-            <div class="picBox">
-              <img src="img/client_logo/NTT.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="carousel-cell">
-            <div class="picBox">
-              <img src="img/client_logo/times-of-india.png" class="img-fluid">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <?php include 'using-tvarit.php';?>
     <!------------------------Client logo slide end --------------------->
 
     <!------------------------try demo start --------------------->
@@ -528,26 +494,6 @@
             </div>
             <br>
             <div class="client-carousel">
-                <div class="carousel-cell">
-                    <div class="picBox">
-                        <img src="img/partners_img/ibm.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="carousel-cell">
-                    <div class="picBox">
-                        <img src="img/partners_img/mindsphere.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="carousel-cell">
-                    <div class="picBox">
-                        <img src="img/partners_img/openpower.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="carousel-cell">
-                    <div class="picBox">
-                        <img src="img/partners_img/microsoft.jpg" class="img-fluid">
-                    </div>
-                </div>
                 <div class="carousel-cell">
                     <div class="picBox">
                         <img src="img/partners_img/tud_logo_web_druck.png" class="img-fluid">
