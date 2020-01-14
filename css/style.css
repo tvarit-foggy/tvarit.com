@@ -149,6 +149,20 @@ a,a:hover,a:visited
     font-weight: 900;
     text-transform: uppercase;
 }
+.text-big20
+{
+    font-size: 20px;
+    line-height: 1;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.text-big10
+{
+    font-size: 10px;
+    line-height: 1;
+    font-weight: 900;
+    text-transform: uppercase;
+}
 
 .flex-center
 {

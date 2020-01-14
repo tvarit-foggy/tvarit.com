@@ -114,7 +114,7 @@
                                 style="padding-left:0px; color:red; align-item: center;">
                                 <img class="ai_solutions_img" src="./img/plus_ai.png"
                                     alt="Achieve More Tvarit AI Solutions" />
-                                <div class="textBig" style="font-size: 900;">
+                                <div class="bold text-big20 tvarit-black" >
                                     Achieve More Tvarit AI Solutions
                                 </div>
                             </a>
@@ -243,7 +243,7 @@
 
 
     <!------------------------ Automotives start --------------------->
-    <div class="section-padding-both">
+    <div class="section-padding-both" id="downClick">
         <div class="white-box-shadow">
             <div class="centerTitle">
                 <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span

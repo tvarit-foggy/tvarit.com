@@ -378,8 +378,8 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                                Predicting the shutdown of big motor drives used in printing press while they are in
-                                operation. Price of each motor: 15000 euros.
+                            Predicting the quality status of wheel coming from injection moulding
+machine for next batches. Price of each motor: 15000 euros
                             </p>
                         </div>
                     </div>
@@ -402,9 +402,9 @@
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <ul class="ul-list-bullet">
-                                <li>Increased motor uptime.</li>
-                                <li>Reduced inventory costs.</li>
-                                <li>Live production dashboard with predictive alerts.</li>
+                                <li>Reduce number of defected pieces by 76%.</li>
+                                <li>Real time production view.</li>
+                                <li>Increased know-how.</li>
                                 <li>Measurable economic benefits.</li>
                             </ul>
                         </div>
