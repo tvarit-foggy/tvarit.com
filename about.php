@@ -76,7 +76,7 @@
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Software</a>
+                        <a class="nav-link" href="#">Ai Solutions</a>
                         <div class="submenu-div">
             <div class="row">
                 <div class="col">
@@ -344,7 +344,7 @@
                                 <li>14 years building startups in Germany</li>
                                 <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
                                 <li> Ex-President TiE Deutschland</li>
-                                <!-- <li>Makes them smarter using our AI Software</li> -->
+                                <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
                         </div>

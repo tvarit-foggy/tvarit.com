@@ -107,7 +107,7 @@
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Software</a>
+                        <a class="nav-link" href="#">Ai Solutions</a>
                         <div class="submenu-div">
             <div class="row">
                 <div class="col">
@@ -400,7 +400,7 @@
                             <div class="text-big60 fw-900"><span class="text-capitalize">Benefits</span></div>
                         </div>
                         <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
+                        <div class="">
                             <ul class="ul-list-bullet">
                                 <li>Increased motor uptime.</li>
                                 <li>Reduced inventory costs.</li>

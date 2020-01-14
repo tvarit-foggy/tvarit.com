@@ -106,7 +106,7 @@
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Software</a>
+                        <a class="nav-link" href="#">Ai Solutions</a>
                         <div class="submenu-div">
             <div class="row">
                 <div class="col">
@@ -246,7 +246,33 @@
         <source src="video/index-video.mp4" type="video/mp4">
       </video>
       <div class="container">
+      <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
+          <div class="row align-items-center">
+          <div class="col-12">
+            <div class="typography">
+              <div class="text-big60 text-white">TVARIT INDUSTRIAL <span class="red"> AI </span></div>
+               <div class="text-1 mb-3">
+                <span class="red fw-600">Fast and customized solutions for all your manufacturing problems and data science needs</span> 
+              </div>
+              <div class="subtext">
+                <div class="text-s1 mb-3">AI MADE IN GERMANY </div>
+                <br>
+                 <ul class="ul-list">
+                  <li>
+                    Remove inefficiencies and failures of your production units and business processes
+                  </li>
+                  <li>
+                    Reduce the failure rate of all your AI/Data Science Projects
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>  
+      </div>
+        <a href="#downClick" class="hdrscrollArrow" >
+          <i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row ">
           <div class="col-12">
             <div class="typography">
@@ -274,33 +300,7 @@
         </div>
       </div>
 
-      <!-- <div class="container">
-        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
-          <div class="row align-items-center">
-          <div class="col-12">
-            <div class="typography">
-              <div class="text-big60 text-white">TVARIT INDUSTRIAL <span class="red"> AI </span></div>
-               <div class="text-1 mb-3">
-                <span class="red fw-600">Fast and customized solutions for all your manufacturing problems and data science needs</span> 
-              </div>
-              <div class="subtext">
-                <div class="text-s1 mb-3">AI MADE IN GERMANY </div>
-                <br>
-                 <ul class="ul-list">
-                  <li>
-                    Remove inefficiencies and failures of your production units and business processes
-                  </li>
-                  <li>
-                    Reduce the failure rate of all your AI/Data Science Projects
-                  </li>
-                </ul>
-              </div>
-             
-             
-            </div>
-          </div>
-        </div>  
-      </div> -->
+     
 
     </header>
     <!------------------------ header end --------------------------->
@@ -320,7 +320,7 @@
                 <img src="img/ai-solution.png" class="img-fluid" style = "height: 180px;width: 100%;">
               </div>
 
-              <p class="title">Ai Solutions</p>
+              <p class="title">AI Solutions</p>
               <div class="short-line bg-red"></div>
               <ul class="ul-list">
                 <li>

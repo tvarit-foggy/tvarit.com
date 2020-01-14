@@ -78,7 +78,7 @@
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Software</a>
+                        <a class="nav-link" href="#">Ai Solutions</a>
                         <div class="submenu-div">
             <div class="row">
                 <div class="col">
@@ -269,7 +269,7 @@
                             <p class="text-p">
                                 Tvarit GmbH is a rising German startup in the field of Industrial AI. Awarded in top 16
                                 out of 490 AI companies from EU, Tvarit brings a robust and state-of-the-art Industrial
-                                AI Software for German Manufacturing and Automobile companies. With techies from strong
+                                Ai Solutions for German Manufacturing and Automobile companies. With techies from strong
                                 R&D background and universities such as TU Darmstadt, Stanford, NASA etc, Tvarit is on a
                                 voyage to become next unicorn.<br>
 

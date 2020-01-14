@@ -65,7 +65,7 @@ gtag('config', 'UA-143837547-1');
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Software</a>
+                        <a class="nav-link" href="#">Ai Solutions</a>
                         <div class="submenu-div">
             <div class="row">
                 <div class="col">

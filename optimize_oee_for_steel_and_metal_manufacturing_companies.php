@@ -107,7 +107,7 @@
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Software</a>
+                        <a class="nav-link" href="#">Ai Solutions</a>
                         <div class="submenu-div">
             <div class="row">
                 <div class="col">
@@ -321,7 +321,7 @@
                             <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span></div>
                         </div>
                         <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
+                        <div class="">
                             <p class="text-p">
                                 Predicting the quality status of steel coils. Capacity: 500,000 tons per year.</p>
                         </div>
@@ -343,7 +343,7 @@
                             <div class="text-big60 fw-900"><span class="text-capitalize">Benefits</span></div>
                         </div>
                         <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
+                        <div class="">
                             <ul class="ul-list-bullet">
                                 <li>Reduce number of defected coils from 5% to 1.2 %</li>
                                 <li>Real time production view</li>
