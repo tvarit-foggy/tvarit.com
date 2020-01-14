@@ -1960,7 +1960,12 @@ span.text-big60.red.fw-300.ai_preductive {
 }
 .brdr-right-red {
     border-right-style: solid;
-    border-right-color: mediumvioletred;
+    -webkit-border-image: -webkit-gradient(linear, left top, left bottom, from(#ed1b4a), to(#fff))0 100% 0 0 stretch;
+
+    /* border-right-color: #ed1b4a;
+    border-right-color: -moz-linear-gradient(right, #f86e9f 0%, #ed1b4a 99%);
+    border-right-color: -webkit-linear-gradient(right, #f86e9f 0%,#ed1b4a 99%);
+    border-right-color: linear-gradient(to right, #f86e9f 0%,#ed1b4a 99%);  */
 }
 .brdr-right-blue {
     border-right-style: solid;
@@ -1977,7 +1982,10 @@ span.text-big60.red.fw-300.ai_preductive {
     width: 90% !important;
 }
 .rerBg-grd-red {
-    background: linear-gradient(to right, #d41a8fad 0%,#d41a8f 99%);
+    background: #f74785; /* Old browsers */
+    background: -moz-linear-gradient(right, #f86e9f 0%, #ed1b4a 99%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #f86e9f 0%,#ed1b4a 99%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #f86e9f 0%,#ed1b4a 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     font-size: 2vh !important;
     width: 90% !important;
 }

@@ -253,7 +253,10 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-2 brdr-right-darkblue">
+                <div class="col-md-2 brdr-right-red">
+                <div class="title-grid centerTitle rerBg-grd-darkblue">
+                        Estimated time duration: 2 weeks(approx.)
+                    </div>
                     <ul class="ul-list-bullet">
                         <li>Business Use-Case identification</li>
                         <li>Break down the KPI
@@ -268,11 +271,11 @@
                             operations</li>
 
                     </ul>
-                    <div class="title-grid centerTitle rerBg-grd-darkblue">
-                        Estimated time duration: 2 weeks(approx.)
-                    </div>
                 </div>
-                <div class="col-md-2 brdr-right-brown">
+                <div class="col-md-2 brdr-right-red">
+                    <div class="title-grid centerTitle rerBg-grd-red">
+                        Week 1
+                    </div>
                     <ul class="ul-list-bullet">
                         <li>Data Preparation:
                             Tasks used to ensure
@@ -281,11 +284,11 @@
                             learning models are
                             clean and accurate</li>
                     </ul>
-                    <div class="title-grid centerTitle rerBg-grd-brown">
-                        Week 1
-                    </div>
                 </div>
-                <div class="col-md-2 brdr-right-green">
+                <div class="col-md-2 brdr-right-red">
+                    <div class="title-grid centerTitle rerBg-grd-red">
+                        Week 2
+                    </div>
                     <ul class="ul-list-bullet">
                         <li>Data
                             Harmonization:
@@ -296,11 +299,11 @@
                             machine learning
                             purposes </li>
                     </ul>
-                    <div class="title-grid centerTitle rerBg-grd-green">
-                        Week 2
-                    </div>
                 </div>
                 <div class="col-md-2 brdr-right-red">
+                    <div class="title-grid centerTitle rerBg-grd-red">
+                        Week 3
+                    </div>
                     <ul class="ul-list-bullet">
                         <li> Data Labelling:
                             Tasks used to ensure
@@ -311,11 +314,11 @@
                             be learned</li>
 
                     </ul>
-                    <div class="title-grid centerTitle rerBg-grd-red">
-                        Week 3
-                    </div>
                 </div>
-                <div class="col-md-2 brdr-right-blue">
+                <div class="col-md-2 brdr-right-red">
+                    <div class="title-grid centerTitle rerBg-grd-red">
+                        Week 4
+                    </div>
                     <ul class="ul-list-bullet">
                         <li>AI driven predictive
                             analytics, root-cause,
@@ -324,11 +327,11 @@
                             controllers</li>
 
                     </ul>
-                    <div class="title-grid centerTitle rerBg-grd-blue">
-                        Week 4
-                    </div>
                 </div>
-                <div class="col-md-2 brdr-right-yellow">
+                <div class="col-md-2">
+                    <div class="title-grid centerTitle rerBg-grd-yellow">
+                        Estimated time duration: 2 weeks(approx.)
+                    </div>
                     <ul class="ul-list-bullet">
                         <li>Measurement of
                             impact of AI driven
@@ -340,16 +343,19 @@
                             to be incorporated
                             into AI model</li>
                     </ul>
-                    <div class="title-grid centerTitle rerBg-grd-yellow">
-                        Estimated time duration: 2 weeks(approx.)
-                    </div>
                 </div>
 
             </div>
             <br>
+        <div class="container">
+            <div class="white-box-shadow">
+                <div class="centerTitle">
+                    <div class="text-big40"><span class="tvarit-black">We take only <span class="color">4 weeks </span></span> </div>
+                    <h3 class="text-center">to make and implement Ai Solutions for your factory.</h3>
+                </div>
+            </div>
+    </div>
             <div class="centerTitle">
-                <h4><b> We take only 4 weeks </b> </h4>
-                <h4> to make and implement Ai Solutions for your factory.</h4>
             </div>
         </div>
     </div>
