@@ -216,12 +216,15 @@
     <!------------------------ CONSULTING start --------------------->
     <div class="section-padding-both" id="downClick">
         <div class="container">
-            <div class="text text-center white-box-shadow">
-                <span class="bold red uppr">successfully complete your data science projects fast and easy with</span>
-                <h3 class="text-big60 uppr"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                            class="color">i</span>t</span> CONSULTING</h3>
-                <br>
-                <div class="centerPharseContent text-p">
+            <div class="text">
+            <span class="text-big40 uppr">successfully complete your data science projects</span>
+            <span class="text-big40 uppr">fast and easy with</span>
+                <span class="text-big40 uppr">
+                    <span class="tvarit-black">Tv<span class="color">a</span>r<span
+                            class="color">i</span>t</span> CONSULTING</span>
+                
+                <div class="short-line bg-red"></div>
+                <div class="text-p">
                     Our experts help you at every stage of your data science projects. We help you in solving key issues
                     of data extraction, data preparation, data labelling and predictive analytics. We provide both on-site
                     and remote based consulting services
@@ -321,7 +324,7 @@
                                         of data pipelines, workflows, systems and processes to facilitate data science
                                         operations.
                                     </p>
-                                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire
+                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         now</a>
                                 </div>
                             </div>
@@ -344,7 +347,7 @@
                                         Ensure that the data fed into and train machine learning models
                                         are clean and for machine learning purposes
                                     </p>
-                                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire
+                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         now</a>
                                 </div>
                             </div>
@@ -367,7 +370,7 @@
                                         Ensure that the relevant data has been appropriately labelled with
                                         the required output that needs to be learned
                                     </p>
-                                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire
+                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         now</a>
                                 </div>
                             </div>
@@ -390,7 +393,7 @@
                                         Ensure that the data fed into and train machine learning models
                                         are complete and releveant for machine learning purposes
                                     </p>
-                                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire
+                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         now</a>
                                 </div>
                             </div>
@@ -413,7 +416,7 @@
                                         Perform AI powered predicitve analytics, alerts and other features
                                         like tweaker, what-if analysis, root cause analysis, etc
                                     </p>
-                                    <a href="javascript://" target="_blank" class="btn btn-round btn-white">Enquire
+                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         now</a>
                                 </div>
                             </div>
@@ -503,7 +506,7 @@
     ?>
     <!------------------------Automated slide end --------------------->
 
-
+    <br id="contact_us"/>
     <!------------------------footer start --------------------->
     <?php
     include 'footer_cons.php'

@@ -247,7 +247,36 @@
       </video>
       <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
-        <!-- <div class="row align-items-center">
+        <div class="row ">
+          <div class="col-12">
+            <div class="typography">
+              <div id="typed-strings1">
+                <div class="text-big60 text-white" >TVARIT INDUSTRIAL AI</div>
+              </div>
+              <div id="typed-strings2">
+                <div class="text-big50 red mb-3">AI MADE IN GERMANY </div>
+              </div>
+               <div id="typed-strings3">
+                <p class="text-p fs-20">Remove inefficiencies and failures of your production units and business processes</p>
+                <p class="text-p fs-20">Reduce the failure rate of all your AI/Data Science Projects</p>
+              </div>
+              <span id="typed"></span>
+              <div class="text-big60 text-white"><span id="typed1"></span></div>
+              <div class="text-big50 red mb-3"><span class="mr-2" id="typed2"></span> <img src="img/flag.png" class="img-fluid flag"></div>
+
+                <p class="fs-20 text-white bold p-half">
+                  <span  id="typed3"></span>
+                </p>
+             
+             
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- <div class="container">
+        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
+          <div class="row align-items-center">
           <div class="col-12">
             <div class="typography">
               <div class="text-big60 text-white">TVARIT INDUSTRIAL <span class="red"> AI </span></div>
@@ -270,8 +299,8 @@
              
             </div>
           </div>
-        </div> -->
-      </div>
+        </div>  
+      </div> -->
 
     </header>
     <!------------------------ header end --------------------------->
@@ -286,13 +315,13 @@
 
         <div class="row justify-content-center weOfferBox">
           <div class="col-md-4">
-            <a href="javascript://" class="featureBox">
-              <div class="icon">
-                <img src="img/weOfferIcn/01.png" class="img-fluid">
+            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="featureBox">
+              <div class="icon" >
+                <img src="img/ai-solution.png" class="img-fluid" style = "height: 180px;width: 100%;">
               </div>
 
               <p class="title">Ai Solutions</p>
-
+              <div class="short-line bg-red"></div>
               <ul class="ul-list">
                 <li>
                   We have already developed ready to use software solutions for most impactful business use-cases
@@ -303,19 +332,19 @@
                 <li>
                   Available on On-Premise, Cloud and edge-computing
                 </li>
-              </ul>
+              </ul>               
                </a>
           </div>
          
 
           <div class="col-md-4">
-            <a href="javascript://" class="featureBox">
+            <a href="ai-platform"  target="_blank" class="featureBox">
               <div class="icon">
-                <img src="img/weOfferIcn/02.png" class="img-fluid">
+                <img src="img/ai-platform.png" class="img-fluid"  style = "height: 180px;width: 100%;">
               </div>
 
               <p class="title">AI Platform</p>
-
+              <div class="short-line bg-red"></div>
               <ul class="ul-list">
                 <li>
                  Award winning AI Platform for your Data Scientists
@@ -332,13 +361,13 @@
           </div>
 
           <div class="col-md-4">
-            <a href="javascript://" class="featureBox">
+            <a href="ai-consulting"  target="_blank" class="featureBox">
               <div class="icon">
-                <img src="img/weOfferIcn/03.png" class="img-fluid">
+                <img src="img/ai-consulting.png" class="img-fluid"  style = "height: 180px;width: 100%;">
               </div>
 
               <p class="title">AI Consulting</p>
-
+              <div class="short-line bg-red"></div>
               <ul class="ul-list">
                 <li>
                   Covers all your needs like development and implementation of project, data extraction, data preparation, data labelling, data harmonization and AI powered predictive analytics
@@ -575,7 +604,11 @@
         </div>
     </div>
 
-
+    <!------------------------sticky contact button start --------------------->
+<div class="sticky-contact-bar">
+  <a href="contact" target="_blank" class="sticky-contact"> <img src="img/sticky_contact.png" class="img-fluid"></a>    
+</div>
+<!------------------------sticky contact button end --------------------->
 
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
@@ -587,6 +620,7 @@
     <script src="js/flickity.pkgd.min.js"></script>
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
+    <script src="js/typed.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
     <script type="text/javascript">

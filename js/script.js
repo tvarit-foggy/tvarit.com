@@ -201,6 +201,37 @@ $('[data-fancybox]').fancybox({
       });
 
 });
+var typed1 = new Typed('#typed1', {
+    stringsElement: '#typed-strings1',
+     typeSpeed: 40,
+    backSpeed: 0,
+    startDelay: 400,
+    fadeOut: true,
+    showCursor: false,
+    loop: false
+  });
 
+  var typed2 = new Typed('#typed2', {
+    stringsElement: '#typed-strings2',
+    typeSpeed: 60,
+    backSpeed: 0,
+    startDelay: 1000,
+    fadeOut: true,
+    showCursor: false,
+    loop: false
+  });
+
+  var typed2 = new Typed('#typed3', {
+    stringsElement: '#typed-strings3',
+    typeSpeed: 40,
+    backSpeed: 40,
+    startDelay: 2000,
+    fadeOut: true,
+    showCursor: true,
+    loop: true,
+    backDelay:500
+  });
+
+  
 
 

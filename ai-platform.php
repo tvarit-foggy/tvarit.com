@@ -226,15 +226,18 @@
      <!------------------------ CONSULTING start --------------------->
     <div id="downClick">
       <div class="container">
-        <div class="text text-center white-box-shadow">
+        <div class="text">
         <div class="text-big60 mb-0">Witness the most complete and true <span class="red">AI</span> Platform</div>
-          <div class="centerPharseContent text-p">
+        <div class="short-line bg-red"></div>
+          <div class="text-p">
             Tvarit AI is an award winning AI platform. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques to enable you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models as per your needs. It also gives world-class user experience in the form of simple and sleek design by leveraging the state-of-the-art technology.
           </div>
         </div>
 
       </div>
     </div>
+    <br>
+    <br>
     <br>
     <!------------------------ CONSULTING end --------------------->
     <div class="text text-center mb-0">

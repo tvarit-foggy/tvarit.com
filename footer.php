@@ -317,7 +317,7 @@
                  <div class="col-md-8">
                      <form method="post">
                          <div class="contactBox">
-                             <div class="text-contact">
+                             <div class="text-contact" id="contact_us">
                                  Contact Us
                              </div>
                              <div class="formBox">

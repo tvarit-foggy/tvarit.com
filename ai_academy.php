@@ -239,11 +239,12 @@
     <!------------------------ CONSULTING start --------------------->
     <div class="section-padding-both" id="downClick">
         <div class="container">
-            <div class="text text-center white-box-shadow">
+            <div class="text">
                 <h3 class="text-big60 uppr">Welcome to the <span class="red">AI</span> Academy</h3>
-                <br>
-                <div class="centerPharseContent text-p mb-0">
-                    <p class="text-p">
+                
+                <div class="text-p mb-0">
+                <div class="short-line bg-red"></div>
+                  <p class="text-p">
                         We understand the increasing demand and importance given by the companies to know all about the
                         possibilities of using AI and data. In our training workshops you will learn about the most
                         innovative and best solutions to overcome all kinds of challenges which you face in your AI

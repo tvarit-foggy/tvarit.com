@@ -377,7 +377,7 @@
                             <h3 class="fw-900">a full case study</h3>
                         </div>
                         <div>
-                            <a href="#" data-toggle="modal" data-target="#exampleModal"
+                            <a href="#contact_us" data-toggle="modal" data-target="#exampleModal"
                                 class="btn btn-round btn-white">Click Here</a>
                         </div>
                     </div>
@@ -390,7 +390,7 @@
                         </div>
 
                         <div>
-                            <a href="#form1" class="btn btn-round btn-red-grd">Click Here</a>
+                            <a href="#contact_us" class="btn btn-round btn-red-grd">Click Here</a>
                         </div>
                     </div>
                 </div>
@@ -399,7 +399,7 @@
         </div>
     </div>
     <!--------------------- Buttons  ------------------->
-
+<br id="contact_us"/>
     <!------------------------footer start --------------------->
     <?php
                     include 'footer.php';
