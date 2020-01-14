@@ -2025,9 +2025,21 @@ span.text-big60.red.fw-300.ai_preductive {
     display: block;
     text-decoration: none;
     color: #222;
-    padding: 40px;
+    padding: 0px;
     box-shadow: 0 3px 50px #0000003d;
     height: 100%;
+}
+
+.weOfferBox .inner-container
+{
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+.weOfferBox .inner-container .short-line
+{
+    margin-top:5px;
 }
 
 .weOfferBox .featureBox.primary-box
@@ -2045,12 +2057,23 @@ span.text-big60.red.fw-300.ai_preductive {
 {
     background: #f5f5f5 !important;
 }
+.weOfferBox .featureBox .icon
+{
+    margin-bottom: 0px;
+}
+.weOfferBox .featureBox .icon img
+{
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
 .weOfferBox .featureBox .title
 {
     font-weight: bold;
     font-size: 40px;
     line-height: 1;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-transform: capitalize;   
 }
 .weOfferBox .featureBox:hover

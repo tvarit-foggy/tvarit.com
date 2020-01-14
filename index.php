@@ -317,9 +317,9 @@
           <div class="col-md-4">
             <div  class="featureBox" style="position:relative">
               <div class="icon" >
-                <img src="img/ai-solution-1.png" class="img-fluid" style = "height: 180px;width: 100%;">
+                <img src="img/ai-solution-1.png" >
               </div>
-
+              <div class="inner-container">
               <p class="title">AI Solutions</p>
               <div class="short-line bg-red"></div>
               <ul class="ul-list">
@@ -335,15 +335,16 @@
               </ul>
               <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd"  style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
             </div>
+            </div>
           </div>
          
 
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/ai-platform-1.png" class="img-fluid"  style = "height: 180px;width: 100%;">
+                <img src="img/ai-platform-1.png">
               </div>
-
+              <div class="inner-container">
               <p class="title">AI Platform</p>
               <div class="short-line bg-red"></div>
               <ul class="ul-list">
@@ -358,14 +359,16 @@
                 </li>
               </ul>
               <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%"> Know More</a>               
-            </div>
+              </div>
+              </div>
           </div>
 
           <div class="col-md-4">
             <div href="ai-consulting"  target="_blank" class="featureBox">
               <div class="icon">
-                <img src="img/ai-consulting-1.png" class="img-fluid"  style = "height: 180px;width: 100%;">
+                <img src="img/ai-consulting-1.png" >
               </div>
+              <div class="inner-container">
 
               <p class="title">AI Consulting</p>
               <div class="short-line bg-red"></div>
@@ -381,6 +384,7 @@
                 </li>
               </ul>
               <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
+    </div>
     </div>
           </div>
 
