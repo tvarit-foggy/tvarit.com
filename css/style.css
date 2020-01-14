@@ -2055,8 +2055,8 @@ span.text-big60.red.fw-300.ai_preductive {
 }
 .weOfferBox .featureBox:hover
 {
-    background: #ed1b4a !important;
-    color: #fff !important;
+    /* background: #ed1b4a !important;
+    color: #fff !important; */
 }
 .box-content-right .ul-list-bullet li {
     padding-left: 0;

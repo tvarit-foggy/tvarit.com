@@ -366,6 +366,12 @@
 
 
      </footer>
+              <!------------------------sticky contact button start --------------------->
+<div class="sticky-contact-bar">
+  <a href="contact" target="_blank" class="sticky-contact"> <img src="img/sticky_contact.png" class="img-fluid"></a>    
+</div>
+<!------------------------sticky contact button end --------------------->
+
  </body>
 
  </html>

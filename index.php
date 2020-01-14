@@ -313,11 +313,11 @@
         
         <br>
 
-        <div class="row justify-content-center weOfferBox">
+        <div class="row justify-content-center weOfferBox" style="position:relative">
           <div class="col-md-4">
-            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="featureBox">
+            <div  class="featureBox" style="position:relative">
               <div class="icon" >
-                <img src="img/ai-solution.png" class="img-fluid" style = "height: 180px;width: 100%;">
+                <img src="img/ai-solution-1.png" class="img-fluid" style = "height: 180px;width: 100%;">
               </div>
 
               <p class="title">AI Solutions</p>
@@ -332,15 +332,16 @@
                 <li>
                   Available on On-Premise, Cloud and edge-computing
                 </li>
-              </ul>               
-               </a>
+              </ul>
+              <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd"  style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
+            </div>
           </div>
          
 
           <div class="col-md-4">
-            <a href="ai-platform"  target="_blank" class="featureBox">
+            <div class="featureBox">
               <div class="icon">
-                <img src="img/ai-platform.png" class="img-fluid"  style = "height: 180px;width: 100%;">
+                <img src="img/ai-platform-1.png" class="img-fluid"  style = "height: 180px;width: 100%;">
               </div>
 
               <p class="title">AI Platform</p>
@@ -356,14 +357,14 @@
                  Available on On-Premise, Cloud and edge-computing
                 </li>
               </ul>
-
-            </a>
+              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%"> Know More</a>               
+            </div>
           </div>
 
           <div class="col-md-4">
-            <a href="ai-consulting"  target="_blank" class="featureBox">
+            <div href="ai-consulting"  target="_blank" class="featureBox">
               <div class="icon">
-                <img src="img/ai-consulting.png" class="img-fluid"  style = "height: 180px;width: 100%;">
+                <img src="img/ai-consulting-1.png" class="img-fluid"  style = "height: 180px;width: 100%;">
               </div>
 
               <p class="title">AI Consulting</p>
@@ -379,8 +380,8 @@
                   Innovative task based pricing
                 </li>
               </ul>
-
-            </a>
+              <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
+    </div>
           </div>
 
         </div>
@@ -603,12 +604,6 @@
             </div>
         </div>
     </div>
-
-    <!------------------------sticky contact button start --------------------->
-<div class="sticky-contact-bar">
-  <a href="contact" target="_blank" class="sticky-contact"> <img src="img/sticky_contact.png" class="img-fluid"></a>    
-</div>
-<!------------------------sticky contact button end --------------------->
 
     <!-- script start -->
     <script src="js/jquery.min.js"></script>

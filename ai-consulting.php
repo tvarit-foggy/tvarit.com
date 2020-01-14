@@ -217,11 +217,11 @@
     <div class="section-padding-both" id="downClick">
         <div class="container">
             <div class="text">
-            <span class="text-big40 uppr">successfully complete your data science projects</span>
-            <span class="text-big40 uppr">fast and easy with</span>
+            <span class="text-big40 uppr">successfully complete your data science projects &nbsp;</span>
+            <span class="text-big40 uppr">fast and easy with &nbsp;</span>
                 <span class="text-big40 uppr">
-                    <span class="tvarit-black">Tv<span class="color">a</span>r<span
-                            class="color">i</span>t</span> CONSULTING</span>
+                    <span class="tvarit-black"><span class="color">TV<span class="tvarit-black">A</span>R<span class="tvarit-black">I</span>T</span>&nbsp;<span
+                            class="color">CONSULTING</span></span></span>
                 
                 <div class="short-line bg-red"></div>
                 <div class="text-p">

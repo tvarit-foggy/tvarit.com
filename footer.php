@@ -351,8 +351,6 @@
                                  <br>
                                  <div class="form-group">
                                      <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
-
-                                     <!-- <button type="button"   name="submit" class="btn btn-round btn-red-grd">send </button> -->
                                  </div>
                                  <div id="snackbar">We Will Contact You Shortly</div>
 
@@ -376,6 +374,14 @@
 
 
      </footer>
+
+         <!------------------------sticky contact button start --------------------->
+<div class="sticky-contact-bar">
+<a href="contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>    
+<a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>    
+</div>
+<!------------------------sticky contact button end --------------------->
+
  </body>
 
  </html>
