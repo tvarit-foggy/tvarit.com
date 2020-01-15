@@ -957,5 +957,88 @@ only screen and (min-device-pixel-ratio: 1.5){
         padding-left: 25px;
     }
 }
+@media screen and (max-width: 574px){
+    .hdr-tvarit {
+        font-size: 90px;
+    }
+    .hdr-industrial {
+        font-size: 44px;
+    }
+    .hdr-germany {
+        font-size: 16px;
+    }
+    .flag {
+        width: 78px;
+    }
+}
 
+@media (max-width:767px) {
+    .hdr-prgf, .hdr-prgf2r {
+        width: 100% ;
+    }
+    .hdr-germany {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1198px) {
+
+    
+
+   .hdr-tvarit {
+    font-size: 95px;
+}
+
+    .hdr-industrial {
+    font-size: 46px;
+}
+
+    .hdr-germany {
+        font-size: 16px;
+        width: 100%;
+    }
+    .hdr-prgf, .hdr-prgf2r {
+        width: 100%;
+    }
+    .typography.right {
+        padding-top: 93px;
+    }
+    
+}
+
+@media (min-width: 768px) {
+    .headerBg
+    {
+        padding-top: 0;
+    }
+
+    
+    .bringSlideSection .container
+    {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+    .md-center-title .short-line
+    {
+        margin-left: 0;
+    }
+    .left-md-border
+    {
+        border-left:3px solid #222;
+    }
+    .w-md-50
+    {
+        width: 50% !important;
+    }
+    .timelineStep.right .ul-list-bullet li
+    {
+        padding-right: 20px;
+    }
+    .timelineStep.right .ul-list-bullet li:after {
+        position: absolute;
+       left: auto;
+       right: 0;
+    }
+}
 

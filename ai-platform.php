@@ -188,7 +188,7 @@
 
   
      <!------------------------ header start ------------------------->
-     <header class="headerBg macbook-sec">
+     <header class="headerBg aiplatformBg macbook-sec">
       <div class="container">
         <div class="row align-items-center">
           <div class="macbook-position">
@@ -207,13 +207,21 @@
               <div class="text-big60">
                 <span class="red">AI</span> Platform
               </div>
-             <div class="more">
-                <p class="text-p" style="font-size:18px">
-                 World’s most advanced AI platform for manufacturing data analytics
+             <div class="">
+                <p class="text-p" style="width:100%;font-size:18px" >
+                 <div id="prgf-strings">
+                <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
+              </div>
+                 World’s most advanced AI platform <br/>for manufacturing data analytics
                 </p>
              </div>
               <br>
-
+              <div class="hdr-industrial" id="typed-industrial">
+              </div>
+              <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
+              <div class="hdr-prgf" >
+                <span id="typed-prgf"></span>
+              </div>                
               <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform works for you</a>
             </div>
           </div>
@@ -871,6 +879,7 @@
     <script src="js/flickity.pkgd.min.js"></script>
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
+    <script src="js/typed.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
     

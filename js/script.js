@@ -201,6 +201,60 @@ $('[data-fancybox]').fancybox({
       });
 
 });
+
+var tvarit = new Typed('#typed-tvarit', {
+  stringsElement: '#tvarit-strings',
+   typeSpeed: 20,
+  backSpeed: 0,
+  startDelay: 400,
+  fadeOut: true,
+  showCursor: false,
+  loop: false
+});
+
+var industrial = new Typed('#typed-industrial', {
+  stringsElement: '#industrial-strings',
+  typeSpeed: 40,
+  backSpeed: 0,
+  startDelay: 1000,
+  fadeOut: true,
+  showCursor: false,
+  loop: false
+});
+var prgf = new Typed('#typed-prgf', {
+  stringsElement: '#prgf-strings',
+  typeSpeed: 40,
+  backSpeed: 0,
+  startDelay: 1000,
+  fadeOut: true,
+  showCursor: false,
+  loop: true
+});
+var germany = new Typed('#typed-germany', {
+  stringsElement: '#germany-strings',
+  typeSpeed: 40,
+  backSpeed: 40,
+  startDelay: 2000,
+  fadeOut: true,
+  showCursor: false,
+  loop: false,
+  backDelay:500,
+  smartBackspace: true,
+});
+
+var germany = new Typed('#typed-prgf2r', {
+  stringsElement: '#prgf2r-strings',
+  typeSpeed: 40,
+  backSpeed: 40,
+  startDelay: 2000,
+  fadeOut: true,
+  showCursor: true,
+  loop: true,
+  backDelay:500,
+  smartBackspace: true,
+});
+
+
 var typed1 = new Typed('#typed1', {
     stringsElement: '#typed-strings1',
      typeSpeed: 40,

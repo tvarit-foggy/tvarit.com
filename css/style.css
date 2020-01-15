@@ -134,6 +134,13 @@ a,a:hover,a:visited
     font-weight: 900;
 }
 
+.text-big80
+{
+    font-size: 80px;
+    line-height: 1;
+    font-weight: 900;
+    text-transform: uppercase;
+}
 .text-big60
 {
     font-size: 60px;
@@ -141,7 +148,6 @@ a,a:hover,a:visited
     font-weight: 900;
     text-transform: uppercase;
 }
-
 .text-big40
 {
     font-size: 40px;
@@ -725,6 +731,7 @@ p
     font-weight: bold;
     color: #ed1b4a;
     text-transform: uppercase;
+    background-color: #ffffffa0;
 }
 .typography .text-2
 {
@@ -738,7 +745,7 @@ p
 {
     color: #222;
     font-size: 14px;
-    width: 70%;
+    width: 35%;
 }
 .headerBg .container,.headerBg .row
 {
@@ -807,7 +814,7 @@ p
     padding:20px;
     box-shadow:0 12px 70px #0000003d;
     border-radius: 10px;
-    width: 260px;
+    width: 300px;
     margin: 10px;
     position: relative;
     display: inline-block;
@@ -2080,8 +2087,6 @@ span.text-big60.red.fw-300.ai_preductive {
 }
 
 /*-----------css 11-01-2020 --------*/
-
-
 .weOfferBox .featureBox
 {
     display: block;
@@ -2147,10 +2152,6 @@ span.text-big60.red.fw-300.ai_preductive {
     padding-left: 0;
     padding-right: 15px;
 }
-.flag
-{
-    width: 45px;
-}
 .text-big30
 {
     font-size: 30px;
@@ -2189,7 +2190,73 @@ span.text-big60.red.fw-300.ai_preductive {
     color: #fff;
     box-shadow: 0 3px 50px #0000003d;
 }
+/*-----------css 15-01-2020 --------*/
+.aiplatformBg
+{
+    background:#000000 url('../img/tvarit-ai-platform-bg.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    height: 60vh; 
+    z-index: -1;
+}
+.hdr-tvarit {
+    font-size: 124px;
+    color: #fff;
+    font-weight: bold;
+}
+.hdr-industrial {
+    font-size: 58px;
+    color: #fff;
+    font-weight: bold;
+}
+.lh-1
+{
+    line-height: 1;
+}
 
+.hdr-prgf,.hdr-prgf2r
+{
+    /* background:#ffffff45; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    font-size: 24px;
+    /* width: 90%; */
+    min-height: 130px;
+}
+
+.hdr-prgf2r
+{
+    /* background:#ed1b4a ; */
+    text-align: right;
+}
+.typography.left
+{
+    text-align: left;
+    left:0;
+}
+.typography.right
+{
+    padding-top: 150px;
+}
+
+.hdr-germany {
+    background: #ffffff;
+    padding: 0 20px;
+    /* width: 90%; */
+    padding-right: 0;
+    font-size: 28px;
+    font-weight: 900;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flag {
+    width: 77px;
+    margin-left: 20px;
+}
+ 
 /*stick contact icon */
 .sticky-contact-bar {
     position: fixed;
