@@ -370,7 +370,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="img/ab-1.jpg" class="img-fluid">
+                        <img src="img/USE-CASE_Electric motor_Printing-press.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
@@ -415,7 +415,7 @@
 
                 <div class="col-md order-1 order-md-2">
                     <div class="AmimgBox">
-                        <img src="img/ab-2.jpg" class="img-fluid">
+                        <img src="img/benefits-electric-motor-printing-press.jpg" class="img-fluid">
                     </div>
                 </div>
             </div>

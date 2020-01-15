@@ -666,6 +666,46 @@ p
     /* z-index: -100; */
     transition: 1s opacity;
 }
+.headerBg video { 
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 75%;
+    height: auto;
+    /* z-index: -100; */
+    transition: 1s opacity;
+}
+ 
+  .headerBg .section {
+    width: 100%;
+  }
+  
+  .headerBg .article {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    padding: 1rem;
+    text-align: center;
+    transform: translate(-50%, -50%);
+  }
+  
+  .headerBg .h1 {
+    font-size: 1.75rem;
+    margin: 0 0 0.75rem 0;
+  }
+  
+  /* Pattern styles */
+  .headerBg .left-half {
+    background-color: #ff9e2c;
+    float: left;
+    width: 50%;
+  }
+  .headerBg .right-half {
+    background-color: #b6701e;
+    float: left;
+    width: 50%;
+  }
+
 .red
 {
      color: #ed1b4a;
