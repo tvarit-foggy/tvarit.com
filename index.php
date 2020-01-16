@@ -267,23 +267,21 @@
             <div class="typography right lh-1">
               <div id="germany-strings" class="stringText">
                 <span>AI MADE IN GERMANY</span>
-              </div>
-              <div id="prgf2r-strings" class="stringText">
-                <span>Remove inefficiencies and failures of your production units and business processes</span>
-                <span>Reduce the failure rate of all your AI/Data Science Projects</span>
-              </div>
-
-              <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
-
+              </div>                                 
+               <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
               <div class="hdr-prgf2r">
                 <span id="typed-prgf2r"></span>
+                <div class="rw-words-1">
+                  <span>Remove inefficiencies and failures of your production units and business processes</span>
+                  <span>Reduce the failure rate of all your AI/Data Science Projects</span>
+                </div>   
               </div>
-              
+             
             </div>
           </div>
         </div>
       </div>
-
+      
       <!-- <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
@@ -673,7 +671,57 @@
         }
     }
     </script>
+<style>   
+.rw-words-1 span{
+	/* position: absolute; */
+	opacity: 0;
+	overflow: hidden;
+	/* color: #6b969d; */
+	-webkit-animation: rotateWord 13s linear infinite 0s;
+	-ms-animation: rotateWord 13s linear infinite 0s;
+	animation: rotateWord 13s linear infinite 0s;
+}
+.rw-words-1 span:nth-child(2) { 
+    -webkit-animation-delay: 6s; 
+	-ms-animation-delay: 6s; 
+	animation-delay: 6s; 
+	/* color: #6b889d; */
+} 
+@-webkit-keyframes rotateWord {
+    0% { opacity: 0; }
+    2% { opacity: 0; -webkit-transform: translateY(-30px); }
+	5% { opacity: 0; -webkit-transform: translateY(0px);}
+    17% { opacity: 0; -webkit-transform: translateY(0px); }
+	20% { opacity: 1; -webkit-transform: translateY(30px); }
+	80% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@-ms-keyframes rotateWord {
+    0% { opacity: 0; }
+    2% { opacity: 0; -ms-transform: translateY(-30px); }
+	5% { opacity: 0; -ms-transform: translateY(0px);}
+    17% { opacity: 0; -ms-transform: translateY(0px); }
+	20% { opacity: 1; -ms-transform: translateY(30px); }
+	80% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@keyframes rotateWord {
+    0% { opacity: 0; }
+    2% { opacity: 0; -webkit-transform: translateY(-30px); transform: translateY(-30px); }
+	5% { opacity: 0; -webkit-transform: translateY(0px); transform: translateY(0px);}
+    17% { opacity: 0; -webkit-transform: translateY(0px); transform: translateY(0px); }
+	20% { opacity: 1; -webkit-transform: translateY(30px); transform: translateY(30px); }
+	80% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@media screen and (max-width: 768px){
+	.rw-sentence { font-size: 18px; }
+}
+@media screen and (max-width: 320px){
+	.rw-sentence { font-size: 9px; }
+}
 
+  </style>
 
 </body>
 
