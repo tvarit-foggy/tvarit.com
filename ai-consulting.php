@@ -193,7 +193,7 @@
 
     <!------------------------ header start ------------------------->
     <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
-      <video style="width:100%;" autoplay="true" muted loop style="z-index=-1">
+      <video autoplay="true" muted loop >
         <source src="video/abstract-line-conv.mp4" type="video/mp4">
       </video>
       <div class="container">
@@ -209,9 +209,9 @@
                     </span>
                 </h1>
               </div>
-              <div class="text-big60" style="font-size:50px; margin-bottom: 30px;">complete your Data <br>Science Projects</div>
+              <div class="text-big60 mb-2">complete your Data <br>Science Projects</div>
               <div class="subtext">
-                <div class="text-s1 animated infinite pulse slower-6s" style="font-size:40px;">With innovative task based  pricing</div>
+                <div class="text-s1 animated infinite pulse slower-6s">With innovative task based  pricing</div>
                 <div class="text-s2 animated infinite pulse slower">DSaaS (Data Science as a service)</div>
               </div>
              

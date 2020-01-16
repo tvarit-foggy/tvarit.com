@@ -247,15 +247,15 @@
       <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
-          <div class="col-md-5">
-            <div class="typography lh-1 left"  style="text-align: left">
-              <div id="tvarit-strings">
+          <div class="col-md-6">
+            <div class="typography lh-1 left" >
+              <div id="tvarit-strings" class="stringText">
                 <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
               </div>
-              <div id="industrial-strings">
+              <div id="industrial-strings" class="stringText">
                 <span>INDUSTRIAL <span class="red">AI</span> </span>
               </div>
-              <div id="prgf-strings">
+              <div id="prgf-strings" class="stringText">
                 <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
               </div>
               <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
@@ -263,13 +263,12 @@
               <div class="hdr-prgf" ><span id="typed-prgf"></span></div>
             </div>
           </div>
-          <div class="col-md-2"></div>
-          <div class="col-md-5">
+          <div class="col-md-6">
             <div class="typography right lh-1">
-              <div id="germany-strings">
+              <div id="germany-strings" class="stringText">
                 <span>AI MADE IN GERMANY</span>
               </div>
-              <div id="prgf2r-strings">
+              <div id="prgf2r-strings" class="stringText">
                 <span>Remove inefficiencies and failures of your production units and business processes</span>
                 <span>Reduce the failure rate of all your AI/Data Science Projects</span>
               </div>
@@ -277,7 +276,7 @@
               <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
 
               <div class="hdr-prgf2r">
-                <span  id="typed-prgf2r"></span>
+                <span id="typed-prgf2r"></span>
               </div>
               
             </div>

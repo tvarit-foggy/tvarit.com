@@ -244,24 +244,19 @@
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <div class="typography">
-                        <div class="text-1"  style="background-color:#fff;padding-left:15px">
+                    <div class="typography optiBgTrns">
+                        <div class="text-1" >
                             Preductive Quality for
                         </div>
-                        <div style="background-color:#0005;padding:15px">
-                        <div class="text-big60" style="color:#fff">
-                            Injection
-                        </div>
-                        <div class="text-big40" style="color:#fff">
+                        <div class="content">
+                            <div class="text-big60" style="color:#fff">
+                                Injection
+                            </div>
+                            <div class="text-big40" style="color:#fff">
                             Moulding Process
                             </div>
-                            </div>
-                        <br>
-                        <div class="more">
-                            <p class="text-p">
-
-                            </p>
                         </div>
+                      
                         <br>
                         <a href="http://cloud.tvarit.com" target="_blank"
                             class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
