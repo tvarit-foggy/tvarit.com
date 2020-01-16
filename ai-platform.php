@@ -34,7 +34,7 @@
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="#">
+            <a class="navbar-brand bold uppr" href="index">
                 <img src="img/logo.png" class="img-fluid">
             </a>
 
