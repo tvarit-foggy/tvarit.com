@@ -31,7 +31,8 @@
     .flag {
         width: 78px;
     }
-   
+
+
 }
 
 @media (max-width:767px) {
@@ -254,26 +255,7 @@
         margin-bottom: 30px;
         height: auto;
     }
-    .macbook-sec
-    {
-        top: 0;
-    }
-    .macbook-sec .typography {
-        text-align: center;
-        top: 0;
-    }
-    .macbook-sec .typography .text-p {
-        margin: auto;
-    }
-    .macbook-position {
-        height: 270px;
-        max-width: 430px !important;
-        position: relative;
-        right: 0;
-        margin-bottom: 60px !important;
-        margin: auto;
-    }
-
+   
     .timelineStep {
         margin-left: 40px;
     }
@@ -349,6 +331,11 @@
     .text-big40 {
         font-size: 20px;
     }
+
+    .ul-list-50 li {
+        width: 96%;
+    }
+   
 }
 
 @media (min-width: 768px) and (max-width: 1198px) {
@@ -361,12 +348,7 @@
     .bringSlideSection .pdn-l-col {
         padding-left: 80px;
     }
-    .macbook-position {
-        right: 12%;
-        top: 27%;
-        height: 270px;
-        max-width: 440px;
-    }
+    
    .hdr-tvarit {
         font-size: 95px;
     }
@@ -559,6 +541,33 @@
         right: -31%;
     }
     
+    .macbook-sec {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        margin-bottom: 60px;
+    }
+
+     .macbook-sec
+    {
+        top: 60px;
+    }
+    .macbook-sec .typography {
+        text-align: center;
+        top: 0;
+    }
+    .macbook-sec .typography .text-p {
+        margin: auto;
+    }
+    .macbook-position {
+        height: 270px;
+        max-width: 430px !important;
+        position: relative;
+        right: 0;
+        margin-bottom: 60px !important;
+        margin: auto;
+    }
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -608,7 +617,9 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px) 
 and (orientation : portrait) 
 and (-webkit-min-device-pixel-ratio: 1) {
-    
+    .indexMainBg {
+    height: 50vh;
+}
    
 
  }
@@ -649,6 +660,10 @@ and (-webkit-min-device-pixel-ratio: 1) {
         left: -23.8%;
         top: -13.3%;
         width: 149%;
+    }
+        .timelineSteps-warpper .line-left:before, .timelineSteps-warpper .line-right:before {
+        left: -15% !important;
+        right: auto !important;
     }
 }
 

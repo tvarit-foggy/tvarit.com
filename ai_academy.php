@@ -214,7 +214,7 @@
 
     <!------------------------ header start ------------------------->
     <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
-      <video style="width:100%;" autoplay="true" muted loop style="z-index=-1">
+      <video autoplay="true" muted loop >
         <source src="video/abstarct-lines-conv.mp4" type="video/mp4">
       </video>
       <div class="container">
@@ -230,9 +230,9 @@
                     </span>
                 </h1>
               </div>
-              <div class="text-big60" style="font-size: 50px; margin-bottom: 30px;">for your employees</div>
+              <div class="text-big60">for your employees</div>
               <div class="subtext">
-                <div class="text-s1  animated infinite pulse slower" style="font-size:30px;">by learning from the best AI experts</div>
+                <div class="text-s1  animated infinite pulse slower" >by learning from the best AI experts</div>
                 <div class="text-s2 animated infinite pulse slower">in the Germany</div>
               </div>
              
@@ -456,7 +456,7 @@
     </div>
     <!------------------------ Automotives end --------------------->
 
-    <div class="section-padding">
+    <div class="section-padding-both">
         <div class="container">
 
             <div class="centerTitle text-big60">
