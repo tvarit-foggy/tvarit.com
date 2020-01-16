@@ -242,15 +242,20 @@
     <header class="headerBg cableManfBg">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
-            <div class="row align-items-center">
+            <div class="row align-items-center left">
                 <div class="col-md-6">
                     <div class="typography">
-                        <div class="text-1">
+                        <div class="text-1" style="background-color:#fff;padding-left:15px">
                             AI based Production Planning solution for
                         </div>
-                        <div class="text-big60" style="font-size:45px">
-                            Cable Manufacturing
+                        <div style="background-color:#0002;padding:15px">
+                        <div class="text-big80" style="color:#fff">
+                            Cable
                         </div>
+                        <div class="text-big40" style="color:#fff">
+                            Manufacturing
+                            </div>
+                            </div>
                         <br>
                         <div class="more">
                             <p class="text-p">

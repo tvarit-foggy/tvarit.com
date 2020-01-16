@@ -213,14 +213,22 @@
 
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg aiconsultingBg parallax-bg parallax" data-diff="100">
+    <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
+      <video style="width:100%;" autoplay="true" muted loop style="z-index=-1">
+        <source src="video/abstarct-lines-conv.mp4" type="video/mp4">
+      </video>
       <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
           <div class="col-12">
             <div class="typography">
               <div class="text-1 mb-0">
-                <span class="red fw-600">Make AI understandable</span> 
+              <h1 class="ml11">
+                    <span class="text-wrapper">
+                        <span class="line line1"></span>
+                        <span class="letters red fw-600">Make AI understandable</span>
+                    </span>
+                </h1>
               </div>
               <div class="text-big60" style="font-size: 50px; margin-bottom: 30px;">for your employees</div>
               <div class="subtext">
@@ -526,7 +534,42 @@
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/anime.min.js"></script>
     <script src="js/parallax.js"></script>
+    <script> 
+        // Wrap every letter in a span
+    var textWrapper = document.querySelector('.ml11 .letters');
+    textWrapper.innerHTML = textWrapper.textContent.replace(/([^\x00-\x80]|\w)/g, "<span class='letter'>$&</span>");
+
+    anime.timeline({loop: true})
+    .add({
+        targets: '.ml11 .line',
+        scaleY: [0,1],
+        opacity: [0.5,1],
+        easing: "easeOutExpo",
+        duration: 100
+    })
+    .add({
+        targets: '.ml11 .line',
+        translateX: [0, document.querySelector('.ml11 .letters').getBoundingClientRect().width + 20],
+        easing: "easeOutExpo",
+        duration: 1000,
+        delay: 1000
+    }).add({
+        targets: '.ml11 .letter',
+        opacity: [0,1],
+        easing: "easeOutExpo",
+        duration: 2000,
+        offset: '-=775',
+        delay: (el, i) => 34 * (i+1)
+    }).add({
+        targets: '.ml11',
+        opacity: 0,
+        duration: 1000,
+        easing: "easeOutExpo",
+        delay: 1000
+    });
+    </script>
 
 
 </body>

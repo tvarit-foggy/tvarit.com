@@ -245,11 +245,16 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="typography">
-                        <div class="text-1">
+                        <div class="text-1" style="background-color:#fff;padding-left:15px">
                             Predictive Maintenance for
                         </div>
-                        <div class="text-big60" style="font-size: 45px">
-                            Industrial Electric Motors
+                        <div style="background-color:#0005;padding:15px">
+                        <div class="text-big60"  style="color:#fff">
+                            Industrial
+                        </div>
+                        <div class="text-big40"  style="color:#fff">
+                            Electric Motors
+                        </div>
                         </div>
                         <br>
                         <div class="more">
@@ -271,8 +276,9 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="text-big60 red fw-300 ai_preductive">Predictive Maintenance for <br> Industrial Electric
-                    Motors</span>
+                <span class="text-big60 red fw-300 ai_preductive">Predictive Maintenance for 
+                    <br>
+                 Industrial Electric Motors</span>
             </div>
             <br>
             <br>

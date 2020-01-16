@@ -66,8 +66,7 @@
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
-
-    <!--[if lt IE 9]>
+     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
 </head>
@@ -242,65 +241,94 @@
     <!------------------------ header start ------------------------->
     
    <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
-      <video autoplay="true" muted loop>
+      <video autoplay="true" muted loop style="z-index=-1">
         <source src="video/index-video.mp4" type="video/mp4">
       </video>
       <div class="container">
-      <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
-          <div class="row align-items-center">
-          <div class="col-12">
-            <div class="typography">
-              <div class="text-big60 text-white">TVARIT INDUSTRIAL <span class="red"> AI </span></div>
-               <div class="text-1 mb-3">
-                <span class="red fw-600">Fast and customized solutions for all your manufacturing problems and data science needs</span> 
+        <div class="row align-items-center">
+          <div class="col-md-5">
+            <div class="typography lh-1 left"  style="text-align: left">
+              <div id="tvarit-strings">
+                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
               </div>
-              <div class="subtext">
-                <div class="text-s1 mb-3">AI MADE IN GERMANY </div>
-                <br>
-                 <ul class="ul-list">
-                  <li>
-                    Remove inefficiencies and failures of your production units and business processes
-                  </li>
-                  <li>
-                    Reduce the failure rate of all your AI/Data Science Projects
-                  </li>
-                </ul>
+              <div id="industrial-strings">
+                <span>INDUSTRIAL <span class="red">AI</span> </span>
               </div>
+              <div id="prgf-strings">
+                <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
+              </div>
+              <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
+              <div class="hdr-industrial" id="typed-industrial"></div>
+              <div class="hdr-prgf" ><span id="typed-prgf"></span></div>
             </div>
           </div>
-        </div>  
-      </div>
-        <a href="#downClick" class="hdrscrollArrow" >
-          <i class="icon ion-ios-arrow-dropdown"></i></a>
-        <div class="row ">
-          <div class="col-12">
-            <div class="typography">
-              <div id="typed-strings1">
-                <div class="text-big60 text-white" >TVARIT INDUSTRIAL AI</div>
+          <div class="col-md-2"></div>
+          <div class="col-md-5">
+            <div class="typography right lh-1">
+              <div id="germany-strings">
+                <span>AI MADE IN GERMANY</span>
               </div>
-              <div id="typed-strings2">
-                <div class="text-big50 red mb-3">AI MADE IN GERMANY </div>
+              <div id="prgf2r-strings">
+                <span>Remove inefficiencies and failures of your production units and business processes</span>
+                <span>Reduce the failure rate of all your AI/Data Science Projects</span>
               </div>
-               <div id="typed-strings3">
-                <p class="text-p fs-20">Remove inefficiencies and failures of your production units and business processes</p>
-                <p class="text-p fs-20">Reduce the failure rate of all your AI/Data Science Projects</p>
-              </div>
-              <span id="typed"></span>
-              <div class="text-big60 text-white"><span id="typed1"></span></div>
-              <div class="text-big50 red mb-3"><span class="mr-2" id="typed2"></span> <img src="img/flag.png" class="img-fluid flag"></div>
 
-                <p class="fs-20 text-white bold p-half">
-                  <span  id="typed3"></span>
-                </p>
-             
-             
+              <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
+
+              <div class="hdr-prgf2r">
+                <span  id="typed-prgf2r"></span>
+              </div>
+              
             </div>
           </div>
         </div>
       </div>
 
-     
+      <!-- <div class="container">
+        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
+        <div class="row align-items-center">
+          <div class="col-md-5">
+            <div class="typography lh-1 left"  style="float:left">
+              <div id="tvarit-strings" >
+                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
+              </div>
+              <div id="industrial-strings">
+                <span>INDUSTRIAL <span class="red">AI</span> </span>
+              </div>
+              <div id="prgf-strings">
+                <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
+              </div>
+              <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
+              <div class="hdr-industrial" id="typed-industrial">
+              </div>
+              <div class="hdr-prgf" >
+                <span id="typed-prgf"></span>
+              </div>
+                
+            </div>
+          </div>
+          <div class="col-md-2"></div>
+          <div class="col-md-5">
+            <div class="typography right lh-1">
+              <div id="germany-strings">
+                <span>AI MADE IN GERMANY &nbsp;</span>
+              </div>
+              <div id="prgf2r-strings">
+                <span>Remove inefficiencies and failures of your production units and business processes</span>
+                <span>Reduce the failure rate of all your AI/Data Science Projects</span>
+              </div>
+
+              <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
+
+              <div class="hdr-prgf2r">
+                <span  id="typed-prgf2r"></span>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </div> -->
 
     </header>
     <!------------------------ header end --------------------------->

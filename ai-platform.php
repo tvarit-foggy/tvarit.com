@@ -209,19 +209,10 @@
               </div>
              <div class="">
                 <p class="text-p" style="width:100%;font-size:18px" >
-                 <div id="prgf-strings">
-                <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
-              </div>
                  World’s most advanced AI platform <br/>for manufacturing data analytics
                 </p>
              </div>
               <br>
-              <div class="hdr-industrial" id="typed-industrial">
-              </div>
-              <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
-              <div class="hdr-prgf" >
-                <span id="typed-prgf"></span>
-              </div>                
               <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform works for you</a>
             </div>
           </div>

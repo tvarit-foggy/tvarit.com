@@ -239,18 +239,22 @@
         </nav>
     </div>
     <!------------------------ main menu end ------------------------>
-    <header class="headerBg oeeSteal">
+    <header class="headerBg oeeSteal ">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
-                <div class="col-md-6">
+                <div class="col-md-5">
                     <div class="typography">
-                        <div class="text-1">
+                        <div class="text-1" style="background-color:#fff;padding-left:15px">
                             Optimize OEE for
                         </div>
-                        <br>
-                        <div class="text-big60" style="font-size:45px">
-                            Steel Coil Manufacturing</div>
+                        <div style="background-color:#0005;padding:15px">
+                        <div class="text-big60" style="color:#fff;">
+                            Steel Coil</div>
+                        <div class="text-big40" style="color:#fff">
+                            Manufacturing
+                        </div>
+                        </div>
                         <br>
                         <a href="http://cloud.tvarit.com" target="_blank"
                             class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>

@@ -148,6 +148,13 @@ a,a:hover,a:visited
     font-weight: 900;
     text-transform: uppercase;
 }
+.text-big50
+{
+    font-size: 50px;
+    line-height: 1;
+    font-weight: 900;
+    text-transform: uppercase;
+}
 .text-big40
 {
     font-size: 40px;
@@ -606,20 +613,28 @@ p
     background-size: contain;
 }
 .cableManfBg {
-    background: url('../img/cableBg.png');
-    background-size: contain;
+    background: url('../img/bg-cable-manufacturing.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    height: 60vh; 
 }
 .injectionModBg {
-    background: url('../img/injectionmouldingBg.png');
-    background-size: contain;
+    background: url('../img/bg-injection-moulding-machineg.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    height: 60vh; 
 }
 .oeeSteal {
-    background: url('../img/oEEinSteelBg.png');
-    background-size: contain;
+    background: url('../img/bg-steel-coil.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    height: 60vh; 
 }
 .electricMotorBg {
-    background: url('../img/predictiveMaintBg.png');
-    background-size: contain;
+    background: url('../img/bg-electric-motor.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    height: 60vh; 
 }
 .achivemoreBg {
     background: url('../img/achiee_moreBg.png');
@@ -671,17 +686,8 @@ p
     height: auto;
     /* z-index: -100; */
     transition: 1s opacity;
-}
-.headerBg video { 
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 75%;
-    height: auto;
-    /* z-index: -100; */
-    transition: 1s opacity;
-}
- 
+} 
+
   .headerBg .section {
     width: 100%;
   }
@@ -731,7 +737,7 @@ p
     font-weight: bold;
     color: #ed1b4a;
     text-transform: uppercase;
-    background-color: #ffffffa0;
+    /* background-color: #ffffffa0; */
 }
 .typography .text-2
 {
@@ -2282,4 +2288,38 @@ span.text-big60.red.fw-300.ai_preductive {
     color: white;
     /* width: 30px;
     height: 30px; */
+  }
+
+  /* animation text */
+  .ml11 {
+    font-weight: 700;
+    font-size: 1.5em;
+  }
+  
+  .ml11 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.1em;
+    padding-right: 0.05em;
+    padding-bottom: 0.15em;
+  }
+  
+  .ml11 .line {
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 3px;
+    background-color: #fff;
+    transform-origin: 0 50%;
+  }
+  
+  .ml11 .line1 { 
+    top: 0; 
+    left: 0;
+  }
+  
+  .ml11 .letter {
+    display: inline-block;
+    line-height: 1em;
   }
