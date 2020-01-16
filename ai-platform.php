@@ -11,10 +11,11 @@
         <title>AI Platform</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/ai_consulting.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/responsive.css">
         <link rel="stylesheet" href="css/flickity.css">
-        <link rel="stylesheet" href="css/ai_consulting.css">
+        
         <link rel="stylesheet" href="css/animate.css">
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300i,400,400i,700,700i" rel="stylesheet">
@@ -199,7 +200,7 @@
               <iframe class="macbook-video" src="https://www.youtube.com/embed/J0CnupBDA74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
-          <div class="col-md-6">
+          <div class="col-lg-6">
             <div class="typography">
               <div class="text-1 mb-0">
                 <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>
@@ -223,7 +224,7 @@
     <!------------------------ header end --------------------------->
 
      <!------------------------ CONSULTING start --------------------->
-    <div class="section-padding" id="downClick">
+    <div id="downClick">
       <div class="container">
         <div class="text">
         <div class="text-big60 mb-0">Witness the most complete and true <span class="red">AI</span> Platform</div>

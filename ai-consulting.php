@@ -249,7 +249,7 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-md-3">
+                <div class="col-md-6 col-lg-3">
                     <div class="countingNumBox">
                         <div class="icon">
                             <i class="fas fa-cubes"></i>
@@ -263,7 +263,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-6 col-lg-3">
                     <div class="countingNumBox">
                         <div class="icon">
                             <i class="fas fa-user-clock"></i>
@@ -277,7 +277,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-6 col-lg-3">
                     <div class="countingNumBox">
                         <div class="icon">
                             <i class="fas fa-map-marked-alt"></i>
@@ -291,7 +291,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-6 col-lg-3">
                     <div class="countingNumBox">
                         <div class="icon">
                             <i class="fas fa-user-tie"></i>
@@ -317,7 +317,7 @@
     <div class="section-padding">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-md-4">
+                <div class="col-md-6 col-lg-4">
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
@@ -341,7 +341,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-6 col-lg-4">
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
@@ -364,7 +364,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-6 col-lg-4">
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
@@ -387,7 +387,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-6 col-lg-4">
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
@@ -410,7 +410,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-6 col-lg-4">
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
@@ -444,7 +444,7 @@
     </div>
     <!------------------------ Automotives end --------------------->
 
-    <div class="section-padding">
+    <div class="section-padding-both">
         <div class="container">
             <div class="centerTitle text-big60">
                 YOUR ADVANTAGES

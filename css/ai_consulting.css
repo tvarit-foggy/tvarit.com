@@ -173,7 +173,10 @@
 {
     box-shadow: none;
 }
-
+.avantage-sec .automBox
+{
+    margin-bottom: 30px;
+}
 .avantage-sec .automText
 {
     font-size: 15px;
