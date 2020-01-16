@@ -453,7 +453,7 @@
 
     <!------------------------Countdown start --------------------->
     <?php
-    include 'change_we_brought'
+    include 'change_we_brought.php'
     ?>
     <!------------------------Countdown end --------------------->
 
@@ -609,7 +609,7 @@
 
     <!------------------------footer start --------------------->
     <?php
-    include 'footer';
+    include 'footer.php';
     ?>
     <!------------------------footer end --------------------->
 
