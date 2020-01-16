@@ -327,66 +327,7 @@
     width: 75%;
     margin: auto;
 }
-.macbook-sec {
-    overflow-x: hidden;
-    height: 100%;
-    padding-top: 120px !important;
-    min-height: 90vh;
-}
-.macbook-sec .bg-light-gray
-{
-    position: absolute;
-    bottom:0;
-    left: 0;
-    right: 0;
-    width: 100%;
-   height: 40%;
-    z-index: -1;
-}
-.macbook-position {
-    position: absolute;
-    right: 10%;
-    top: 10%;
-    width: 100%;
-    height: 360px;
-    max-width: 590px;
-    border-radius: 2px;
-}
-.macbook-wrapper {
-    display: block;
-    position: relative;
-    width: 100%;
-    margin: 0px auto;
-    height: 100%;
-    background: #fff;
-}
-/*.macbook-wrapper .macbook-lapi {
-    display: block;
-    position: absolute;
-    left: -21.8%;
-    top: -12.3%;
-    width: 144%;
-    height: auto;
-    z-index: -1;
-}
-*/
-.macbook-wrapper .macbook-lapi {
-    display: block;
-    position: absolute;
-    left: -25.8%;
-    top: -9.3%;
-    width: 153%;
-    height: auto;
-    z-index: -1;
-}
-.macbook-video
-{
-    height: 100%;
-    width: 100%;
-    box-shadow: none;
-    
-    border: none;
-}
+
 .keyFeatures .logo-box
 {
     border-radius: 0;
@@ -446,10 +387,7 @@
     position: relative;
     overflow: hidden;
 }
-.indexMainBg video
-{
-    width: 100%;
-}
+
 .indexMainBg:after
 {
     position: absolute;

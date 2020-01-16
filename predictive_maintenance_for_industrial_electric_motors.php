@@ -244,17 +244,17 @@
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <div class="typography">
-                        <div class="text-1" style="background-color:#fff;padding-left:15px">
+                    <div class="typography optiBgTrns">
+                        <div class="text-1" >
                             Predictive Maintenance for
                         </div>
-                        <div style="background-color:#0005;padding:15px">
-                        <div class="text-big60"  style="color:#fff">
-                            Industrial
-                        </div>
-                        <div class="text-big40"  style="color:#fff">
-                            Electric Motors
-                        </div>
+                        <div class="content">
+                            <div class="text-big60"  style="color:#fff">
+                                Industrial
+                            </div>
+                            <div class="text-big40"  style="color:#fff">
+                                Electric Motors
+                            </div>
                         </div>
                         <br>
                         <div class="more">

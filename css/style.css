@@ -674,6 +674,7 @@ p
     background-repeat: no-repeat;
     height: 90vh;
     top: 60px;
+    margin-bottom: 60px;
     position: relative;
     background-position: top right;
 }
@@ -682,7 +683,7 @@ p
     position: absolute;
     top: 0;
     right: 0;
-    width: 75%;
+    width: 100%;
     height: auto;
     /* z-index: -100; */
     transition: 1s opacity;
@@ -2199,21 +2200,56 @@ span.text-big60.red.fw-300.ai_preductive {
 /*-----------css 15-01-2020 --------*/
 .aiplatformBg
 {
-    background:#000000 url('../img/tvarit-ai-platform-bg.jpg');
+    background:#fff url('../img/tvarit-ai-platform-bg.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
-    height: 60vh; 
     z-index: -1;
 }
+.macbook-position {
+    position: absolute;
+    right: 13%;
+    top: 10%;
+    width: 100%;
+    height: 360px;
+    max-width: 590px;
+    border-radius: 2px;
+}
+.macbook-wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0px auto;
+    height: 100%;
+    background: #fff;
+}
+
+.macbook-wrapper .macbook-lapi {
+    display: block;
+    position: absolute;
+    left: -25.8%;
+    top: -9.3%;
+    width: 153%;
+    height: auto;
+    z-index: -1;
+}
+.macbook-video
+{
+    height: 100%;
+    width: 100%;
+    box-shadow: none;
+    border: none;
+}
 .hdr-tvarit {
-    font-size: 124px;
+    font-size: 114px;
     color: #fff;
     font-weight: bold;
 }
 .hdr-industrial {
-    font-size: 58px;
+    font-size: 56px;
     color: #fff;
     font-weight: bold;
+    margin-bottom: 20px;
 }
 .lh-1
 {
@@ -2222,47 +2258,75 @@ span.text-big60.red.fw-300.ai_preductive {
 
 .hdr-prgf,.hdr-prgf2r
 {
-    /* background:#ffffff45; */
-    padding-top: 20px;
-    padding-bottom: 20px;
     color: #fff;
     font-size: 24px;
-    /* width: 90%; */
-    min-height: 130px;
+    width: 100%;
+    min-height: 80px;
 }
 
 .hdr-prgf2r
 {
-    /* background:#ed1b4a ; */
     text-align: right;
 }
-.typography.left
-{
-    text-align: left;
-    left:0;
+.typography.left {
+    text-align: left !important;
 }
 .typography.right
 {
-    padding-top: 150px;
 }
 
 .hdr-germany {
     background: #ffffff;
     padding: 0 20px;
-    /* width: 90%; */
+    width: 100%;
     padding-right: 0;
-    font-size: 28px;
+    font-size: 29px;
     font-weight: 900;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .flag {
     width: 77px;
     margin-left: 20px;
 }
- 
+.stringText
+{
+    display: none;
+}
+.indexMainBg
+{
+    margin-bottom: 60px;
+}
+.indexMainBg .container
+{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.indexMainBg .container .row
+{
+    width: 100%;
+    align-items: flex-end !important;
+    height: auto;
+}
+.optiBgTrns
+{
+    display: inline-block;
+}
+.optiBgTrns .text-1
+{
+    background-color:#fff;
+    padding:5px 15px;
+}
+.optiBgTrns .content
+{
+    background-color:#0005;
+    padding:15px;
+}
 /*stick contact icon */
 .sticky-contact-bar {
     position: fixed;
@@ -2293,7 +2357,7 @@ span.text-big60.red.fw-300.ai_preductive {
   /* animation text */
   .ml11 {
     font-weight: 700;
-    font-size: 1.5em;
+    font-size: 30px;
   }
   
   .ml11 .text-wrapper {

@@ -243,17 +243,17 @@
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
-                <div class="col-md-5">
-                    <div class="typography">
-                        <div class="text-1" style="background-color:#fff;padding-left:15px">
+                <div class="col-lg-6">
+                    <div class="typography optiBgTrns">
+                        <div class="text-1">
                             Optimize OEE for
                         </div>
-                        <div style="background-color:#0005;padding:15px">
-                        <div class="text-big60" style="color:#fff;">
-                            Steel Coil</div>
-                        <div class="text-big40" style="color:#fff">
-                            Manufacturing
-                        </div>
+                        <div class="content">
+                            <div class="text-big60" style="color:#fff;">
+                                Steel Coil</div>
+                            <div class="text-big40" style="color:#fff">
+                                Manufacturing
+                            </div>
                         </div>
                         <br>
                         <a href="http://cloud.tvarit.com" target="_blank"

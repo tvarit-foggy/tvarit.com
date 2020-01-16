@@ -188,7 +188,7 @@
 
   
      <!------------------------ header start ------------------------->
-     <header class="headerBg aiplatformBg macbook-sec">
+    <header class="headerBg aiplatformBg macbook-sec">
       <div class="container">
         <div class="row align-items-center">
           <div class="macbook-position">
@@ -223,7 +223,7 @@
     <!------------------------ header end --------------------------->
 
      <!------------------------ CONSULTING start --------------------->
-    <div id="downClick">
+    <div class="section-padding" id="downClick">
       <div class="container">
         <div class="text">
         <div class="text-big60 mb-0">Witness the most complete and true <span class="red">AI</span> Platform</div>
