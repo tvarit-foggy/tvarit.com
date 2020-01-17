@@ -56,7 +56,7 @@
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="#">
+            <a class="navbar-brand bold uppr" href="index">
                 <img src="img/logo.png" class="img-fluid">
             </a>
 
@@ -126,7 +126,7 @@
                         <a class="nav-link" href="ai-platform">AI Platform</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ai-consulting">AI Consulting</a>
+                        <a class="nav-link" href="#">AI Consulting</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
@@ -137,6 +137,9 @@
                                 </div>
                                 <div class="col">
                                     <ul class="ul-sub-menu">
+                                    <li>
+                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
+                                        </li>
                                         <li>
                                             <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
                                         </li>
@@ -146,7 +149,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about">More</a>
+                        <a class="nav-link" href="#">More</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">

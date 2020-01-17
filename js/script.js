@@ -249,7 +249,7 @@ var tvarit = new Typed('#typed-tvarit', {
     backSpeed: 40,
     startDelay: 2000,
     fadeOut: true,
-    showCursor: true,
+    showCursor: false,
     loop: true,
     backDelay:500,
     smartBackspace: true,
@@ -282,7 +282,7 @@ var typed2 = new Typed('#typed3', {
   backSpeed: 40,
   startDelay: 2000,
   fadeOut: true,
-  showCursor: true,
+  showCursor: false,
   loop: true,
   backDelay:500
 });

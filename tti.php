@@ -115,7 +115,7 @@ gtag('config', 'UA-143837547-1');
        <!------------------------ main menu start ---------------------->
        <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="#">
+            <a class="navbar-brand bold uppr" href="index">
                 <img src="img/logo.png" class="img-fluid">
             </a>
 
@@ -185,7 +185,7 @@ gtag('config', 'UA-143837547-1');
                         <a class="nav-link" href="ai-platform">AI Platform</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ai-consulting">AI Consulting</a>
+                        <a class="nav-link" href="#">AI Consulting</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
@@ -205,7 +205,7 @@ gtag('config', 'UA-143837547-1');
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about">More</a>
+                        <a class="nav-link" href="#">More</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
