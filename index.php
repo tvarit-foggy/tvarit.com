@@ -340,33 +340,33 @@
         
         <br>
 
-        <div class="row justify-content-center weOfferBox" style="position:relative">
-          <div class="col-md-4">
-            <div  class="featureBox" style="position:relative">
+        <div class="row justify-content-center weOfferBox" >
+          <div class="col-lg-4">
+            <div  class="featureBox">
               <div class="icon" >
                 <img src="img/ai-solution-1.png" >
               </div>
               <div class="inner-container">
-              <p class="title">AI Solutions</p>
-              <div class="short-line bg-red"></div>
-              <ul class="ul-list">
-                <li>
-                  We have already developed ready to use software solutions for most impactful business use-cases
-                </li>
-                <li>
-                  Scalable and already proven technology
-                </li>
-                <li>
-                  Available on On-Premise, Cloud and edge-computing
-                </li>
-              </ul>
-              <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd"  style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
-            </div>
+                  <p class="title">AI Solutions</p>
+                  <div class="short-line bg-red"></div>
+                  <ul class="ul-list mb-3">
+                    <li>
+                      We have already developed ready to use software solutions for most impactful business use-cases
+                    </li>
+                    <li>
+                      Scalable and already proven technology
+                    </li>
+                    <li>
+                      Available on On-Premise, Cloud and edge-computing
+                    </li>
+                  </ul>
+                  <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd" >Know More</a>
+                </div>
             </div>
           </div>
          
 
-          <div class="col-md-4">
+          <div class="col-lg-4">
             <div class="featureBox">
               <div class="icon">
                 <img src="img/ai-platform-1.png">
@@ -374,7 +374,7 @@
               <div class="inner-container">
               <p class="title">AI Platform</p>
               <div class="short-line bg-red"></div>
-              <ul class="ul-list">
+              <ul class="ul-list mb-3">
                 <li>
                  Award winning AI Platform for your Data Scientists
                 </li>
@@ -385,12 +385,12 @@
                  Available on On-Premise, Cloud and edge-computing
                 </li>
               </ul>
-              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%"> Know More</a>               
+              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd"> Know More</a>               
               </div>
               </div>
           </div>
 
-          <div class="col-md-4">
+          <div class="col-lg-4">
             <div href="ai-consulting"  target="_blank" class="featureBox">
               <div class="icon">
                 <img src="img/ai-consulting-1.png" >
@@ -399,7 +399,7 @@
 
               <p class="title">AI Consulting</p>
               <div class="short-line bg-red"></div>
-              <ul class="ul-list">
+              <ul class="ul-list mb-3">
                 <li>
                   Covers all your needs like development and implementation of project, data extraction, data preparation, data labelling, data harmonization and AI powered predictive analytics
                 </li>
@@ -410,9 +410,9 @@
                   Innovative task based pricing
                 </li>
               </ul>
-              <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
-    </div>
-    </div>
+              <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd">Know More</a>
+            </div>
+            </div>
           </div>
 
         </div>
@@ -421,19 +421,19 @@
     <!------------------------ Features end --------------------->
 
     <!------------------------ why needed start --------------------->
-    <div class="section-padding">
+    <div class="section-padding-both">
       <div class="container">
         
-        <div class="row align-items-center">
-          <div class="col-md-6">
+        <div class="row align-items-center whyusbox">
+          <div class="col-lg-6">
             <div class="videoWrapper">
               <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
 
-          <div class="col-md-6">
+          <div class="col-lg-6">
 
-            <div class="px-4 box-content-left">
+            <div class="px-4 box-content-left ">
               <div class="title">
                <div class="text-first red">Why</div>
                <div class="text-big60">Us?</div>

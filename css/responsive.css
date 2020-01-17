@@ -68,8 +68,8 @@
         padding: 10px 20px;
     }
 
-    .featureBox,.featureBox .icon,.featureBox .title,.featureBox .text-p {
-        text-align: center;
+    .featureBox {
+        text-align: left;
     }
     .contactBox {
         display: block;
@@ -278,11 +278,12 @@
 
     .indexMainBg video
     {
-        height: 200%;
+        height: 100%;
         width: auto;
         right: 0;
         left: 0;
         position: absolute;
+        z-index: -1;
     }
     .indexMainBg .typography {
         padding-top: 50px;
@@ -307,13 +308,27 @@
     .weOfferBox .featureBox
     {
         text-align: left;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .weOfferBox .featureBox .title
+    {
+        text-align: left;
+    }
+    .weOfferBox .inner-container .short-line {
+        margin: 20px 0;
+    }
+    .weOfferBox .inner-container .btn
+    {
+        position: relative;
+        bottom: 0;
     }
     .ul-logobox li {
         width: 49%;
         list-style: none;
     }
 
-        
+    
     .hdr-tvarit {
         font-size: 138px;
     }
@@ -323,6 +338,9 @@
     }
     .hdr-germany {
         font-size: 32px;
+    }
+    .hdr-prgf2r {
+        text-align: left;
     }
      .ml11 {
         font-size: 20px;
@@ -567,6 +585,23 @@
         margin-bottom: 60px !important;
         margin: auto;
     }
+    .whyusbox .videoWrapper 
+    {
+        margin-bottom: 20px;
+    }
+    
+    .whyusbox,.whyusbox .title,.whyusbox p
+    {
+        text-align: center;
+    }
+    .whyusbox .short-line {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .whyusbox .title div
+    {
+        display: inline-block;
+    }
 
 }
 
@@ -609,6 +644,11 @@ and (-webkit-min-device-pixel-ratio: 1)  {
     .hdr-germany {
         font-size: 18px;
     }
+    .indexMainBg {
+        height: 60vh !important;
+    }
+
+
     
 }
 
@@ -617,11 +657,29 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px) 
 and (orientation : portrait) 
 and (-webkit-min-device-pixel-ratio: 1) {
-    .indexMainBg {
-    height: 50vh;
-}
-   
+    
+   .indexMainBg {
+        height: 60vh !important;
+    }
 
+    .weOfferBox .featureBox
+    {
+        text-align: left;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .weOfferBox .featureBox .title
+    {
+        text-align: left;
+    }
+    .weOfferBox .inner-container .short-line {
+        margin: 20px 0;
+    }
+    .weOfferBox .inner-container .btn
+    {
+        position: relative;
+        bottom: 0;
+    }
  }
 
 /* ----------- iPhone 4, 5, 6 ----------- */
@@ -643,7 +701,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
         font-size: 34px !important;
     }
     .hdr-germany {
-        font-size: 16px !important;
+        font-size: 20px !important;
     }
     .flag {
         width: 40px;
@@ -667,13 +725,16 @@ and (-webkit-min-device-pixel-ratio: 1) {
     }
 }
 
-/* Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 573px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: landscape) { 
-    
-  
+/* ----------- iPad pro----------- */
+/* ----------- portrait ----------- */
 
-}
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1366px) 
+  and (-webkit-min-device-pixel-ratio: 2) 
+  and (orientation: portrait)
+  {
+    .indexMainBg {
+        height: 40vh !important;
+    }
+  }

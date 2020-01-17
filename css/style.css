@@ -1,5 +1,8 @@
 
-
+:root
+{
+    --shadow:rgba(0, 0, 0, 0.22);
+}
 body {
 
     font-size: 14px;
@@ -14,17 +17,29 @@ body {
 ::-webkit-scrollbar {
     width: 6px;
 }
- 
+
 ::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.3);
      border-radius:20px !important;
 }
- 
+
 ::-webkit-scrollbar-thumb {
     background-color: #124654;
-     border-radius:20px !important;
+    border-radius:20px !important;
     outline: 1px solid white;
+}
 
+::-moz-scrollbar {
+    width: 6px;
+}
+::-moz-scrollbar-track {
+    -moz-box-shadow: inset 0 0 3px rgba(0,0,0,0.3);
+    border-radius:20px !important;
+}
+::-moz-scrollbar-thumb {
+    background-color: #124654;
+    border-radius:20px !important;
+    outline: 1px solid white;
 }
 
 a,a:hover,a:visited
@@ -213,7 +228,7 @@ p
 }
 .btn-shadow
 {
-    box-shadow: 1px 7px 40px #0000003b;
+    box-shadow: 1px 7px 40px var(--shadow);
 }
 .btn-round
 {
@@ -376,7 +391,7 @@ p
     right: 0;
     z-index: 2;
     background: #fff;
-    box-shadow: 0 0 10px #0000002d;
+    box-shadow: 0 0 10px var(--shadow);
 }
 
 .fixed-menu.sticky .nav-link, .fixed-menu.sticky .navbar-nav .nav-item.active .nav-link, .fixed-menu.sticky .navbar-brand {
@@ -413,7 +428,7 @@ p
     display: none;
     padding: 30px 70px;
     background: #fff;
-    box-shadow: 0 7px 30px #0000003d;
+    box-shadow: 0 7px 30px var(--shadow);
     position: absolute;
     left: auto;
     right: 0;
@@ -819,7 +834,7 @@ p
 .cardblock
 {
     padding:20px;
-    box-shadow:0 12px 70px #0000003d;
+    box-shadow:0 12px 70px var(--shadow);
     border-radius: 10px;
     width: 300px;
     margin: 10px;
@@ -879,7 +894,7 @@ p
     padding: 5px;
     background: #fff;
     line-height: 0;
-    box-shadow:0 6px 20px #0000003d;
+    box-shadow:0 6px 20px var(--shadow);
 }
 .videoWrapper .videoFrame
 {
@@ -939,7 +954,7 @@ p
 }
 .featureBox:hover
 {
-    box-shadow:0 3px 50px #0000003d;
+    box-shadow:0 3px 50px var(--shadow);
 }
 .featureBox .icon
 {
@@ -999,7 +1014,7 @@ p
     display: block;
     width: 100%;
     height: 100%;
-    box-shadow:0 7px 30px #0000003d;
+    box-shadow:0 7px 30px var(--shadow);
 
     overflow: hidden;
     transition: all 0.35s;
@@ -1060,7 +1075,7 @@ p
 
 .automtv-carousel .flickity-button{
     opacity: 1;
-    box-shadow:0 5px 20px #0000003d;
+    box-shadow:0 5px 20px var(--shadow);
     background: hsla(0, 0%, 100%, 1);
 }
 
@@ -1131,7 +1146,7 @@ p
     border-radius:0px;
     width: 100%;
     height: 100%;
-    box-shadow:0 12px 60px #0000003d;
+    box-shadow:0 12px 60px var(--shadow);
     overflow: hidden;
     position: relative;
     top: -40px;
@@ -1337,7 +1352,7 @@ p
 {
     width: 100%;
     height: auto;
-    box-shadow:0 12px 60px #0000003d;
+    box-shadow:0 12px 60px var(--shadow);
     overflow: hidden;
     position: relative;
 }
@@ -1370,7 +1385,7 @@ p
 {
    padding: 30px;
     background: #fff;
-    box-shadow: 0 9px 38px #0000003d;
+    box-shadow: 0 9px 38px var(--shadow);
 }
 
 .lookingBox
@@ -1467,7 +1482,7 @@ p
     transition: all 0.35s;
     text-align: center;
     margin-bottom: 10px;
-    box-shadow:0 3px 50px #0000003d;
+    box-shadow:0 3px 50px var(--shadow);
 }
 
 .ourBox.rerBg-grd *
@@ -1515,7 +1530,7 @@ p
     border: none; 
     border-radius: 0;
     margin-bottom: 10px;
-    box-shadow: 0 2px 10px #00000030;
+    box-shadow: 0 2px 10px var(--shadow);
 }
 
 .card-body
@@ -1541,7 +1556,7 @@ p
 {
     display: flex;
     align-items: center;
-    box-shadow: 0 2px 14px #0000003d;
+    box-shadow: 0 2px 14px var(--shadow);
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -1625,7 +1640,7 @@ p
     padding: 10px 20px;
     height: 44px;
     border-radius: 50px;
-    box-shadow: 0 1px 7px #00000030;
+    box-shadow: 0 1px 7px var(--shadow);
     padding-right: 60px;
     border: none;
     font-size: 14px;
@@ -1665,7 +1680,7 @@ p
 {
     background: #fff;
     margin-bottom: 20px;
-    box-shadow: 0 9px 38px #0000003d;
+    box-shadow: 0 9px 38px var(--shadow);
 }
 .blogBox .blogPic
 {
@@ -1800,7 +1815,7 @@ p
     z-index: 1;
     color: #fff;
     text-decoration: none;
-    box-shadow: 0 0 20px #0000003d;
+    box-shadow: 0 0 20px var(--shadow);
     
 }
 
@@ -1851,7 +1866,7 @@ ul.accordion li a.toggle {
     display: block;
     position: relative;
     background: #fff;
-    box-shadow: 0 2px 10px #00000030;
+    box-shadow: 0 2px 10px var(--shadow);
     color: #222;
     font-weight: bold;
     padding: 0.75em;
@@ -1898,7 +1913,7 @@ ul.accordion li a.toggle:hover {
     width: 90%;
     margin: auto;
     background: #fff;
-    box-shadow: 0px 3px 16px #0000003d;
+    box-shadow: 0px 3px 16px var(--shadow);
     top: -10px;
     position: relative;
     padding: 15px;
@@ -2101,10 +2116,22 @@ span.text-big60.red.fw-300.ai_preductive {
     text-decoration: none;
     color: #222;
     padding: 0px;
-    box-shadow: 0 3px 50px #0000003d;
+    box-shadow: 0 3px 50px var(--shadow);
     height: 100%;
+    
 }
 
+.weOfferBox .inner-container .btn
+{
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    width: auto;
+    display: inline-block;
+    margin: auto;
+    max-width: 150px;
+}
 .weOfferBox .inner-container
 {
     padding-top: 30px;
@@ -2114,7 +2141,7 @@ span.text-big60.red.fw-300.ai_preductive {
 }
 .weOfferBox .inner-container .short-line
 {
-    margin-top:5px;
+    margin: 20px auto;
 }
 
 .weOfferBox .featureBox.primary-box
@@ -2149,7 +2176,8 @@ span.text-big60.red.fw-300.ai_preductive {
     font-size: 40px;
     line-height: 1;
     margin-bottom: 10px;
-    text-transform: capitalize;   
+    text-transform: capitalize; 
+    text-align: center;  
 }
 .weOfferBox .featureBox:hover
 {
@@ -2196,7 +2224,7 @@ span.text-big60.red.fw-300.ai_preductive {
     justify-content: center;
     font-size: 30px;
     color: #fff;
-    box-shadow: 0 3px 50px #0000003d;
+    box-shadow: 0 3px 50px var(--shadow);
 }
 /*-----------css 15-01-2020 --------*/
 .aiplatformBg
@@ -2300,6 +2328,16 @@ span.text-big60.red.fw-300.ai_preductive {
 .indexMainBg
 {
     margin-bottom: 60px;
+    overflow: hidden;
+}
+.indexMainBg video
+{
+    width: 100%;
+    object-fit: cover;
+    right: 0;
+    left: 0;
+    position: absolute;
+    z-index: -1;
 }
 .indexMainBg .container
 {
