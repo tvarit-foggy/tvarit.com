@@ -558,6 +558,7 @@
     }
     .macbook-sec .typography .text-p {
         margin: auto;
+        font-weight: 700;
     }
     .macbook-position {
         height: 270px;
