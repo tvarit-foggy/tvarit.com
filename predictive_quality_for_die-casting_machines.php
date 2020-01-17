@@ -107,12 +107,12 @@
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Ai Solutions</a>
+                        <a class="nav-link" href="#">AI Solutions</a>
                         <div class="submenu-div">
             <div class="row">
                 <div class="col">
                     <div class="menuQuote">
-                        <div class="textBig">Ai Solutions<span class="red">.</span></div>
+                        <div class="textBig">AI Solutions<span class="red">.</span></div>
                         <!-- <p class="text-normal"> ..... </p> -->
                     </div>
                 </div>
@@ -132,8 +132,8 @@
                                 Companies</a>
                         </li>
                         <li>
-                            <a href="preductive_quality_for_injection_moulding_machines" class="sub-Link">Preductive
-                                Quality for Injection Moulding Machines</a>
+                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
+                                Quality for Die-casting Machines</a>
                         </li>
                     </ul>
                 </div>
@@ -249,14 +249,14 @@
                 <div class="col-md-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1" >
-                            Preductive Quality for
+                            Predictive Quality for
                         </div>
                         <div class="content">
                             <div class="text-big60" style="color:#fff">
-                                Injection
+                                Die-casting
                             </div>
                             <div class="text-big40" style="color:#fff">
-                            Moulding Process
+                             Process
                             </div>
                         </div>
                       
@@ -274,7 +274,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="text-big60 red fw-300 ai_preductive">Preductive Quality for <br> Injection Moulding
+                <span class="text-big60 red fw-300 ai_predictive">Predictive Quality for <br> Die-casting
                     Process</span>
             </div>
             <br>
@@ -282,7 +282,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="./img/preductive_quality.png" class="img-fluid">
+                        <img src="./img/predictive_quality.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
@@ -370,7 +370,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="img/Use-case_Injection-moulding-Motor_B.jpg" class="img-fluid">
+                        <img src="img/Use-case_die-casting-Motor_B.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
@@ -381,7 +381,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Predicting the quality status of wheel coming from injection moulding
+                            Predicting the quality status of wheel coming from die-casting
 machine for next batches. Price of each motor: 15000 euros
                             </p>
                         </div>
@@ -416,7 +416,7 @@ machine for next batches. Price of each motor: 15000 euros
 
                 <div class="col-md order-1 order-md-2">
                     <div class="AmimgBox">
-                        <img src="img/benefits-Injection-moulding-machine.jpg" class="img-fluid">
+                        <img src="img/benefits-die-casting-machine.jpg" class="img-fluid">
                     </div>
                 </div>
             </div>

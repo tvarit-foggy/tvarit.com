@@ -619,7 +619,7 @@ p
     height: 60vh; 
 }
 .injectionModBg {
-    background: url('../img/bg-injection-moulding-machineg.jpg');
+    background: url('../img/bg-die-casting-machineg.jpg');
     background-repeat: no-repeat;
     position: relative;
     height: 60vh; 
@@ -2018,7 +2018,7 @@ ul.accordion li a.toggle:hover {
 
 
 
-span.text-big60.red.fw-300.ai_preductive {
+span.text-big60.red.fw-300.ai_predictive {
     font-size: 35px;
     text-align: center;
 }
