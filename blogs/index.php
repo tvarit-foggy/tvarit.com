@@ -83,7 +83,7 @@
                         <a class="nav-link" href="index">Ai Solutions</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ai-platform">AI Platform</a>
+                        <a class="nav-link" href="../ai-platform">AI Platform</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="../ai-consulting">AI Consulting</a>
