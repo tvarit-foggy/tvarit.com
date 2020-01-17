@@ -52,6 +52,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/ai_consulting.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/flickity.css">
     <link rel="stylesheet" href="css/animate.css">
@@ -65,8 +66,7 @@
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
-   
-    <!--[if lt IE 9]>
+     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
 </head>
@@ -86,7 +86,7 @@
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="#">
+            <a class="navbar-brand bold uppr" href="index">
                 <img src="img/logo.png" class="img-fluid">
             </a>
 
@@ -102,63 +102,124 @@
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Explore</a>
+                        <a class="nav-link" href="index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">AI Solutions</a>
+                        <div class="submenu-div">
+            <div class="row">
+                <div class="col">
+                    <div class="menuQuote">
+                        <div class="textBig">AI Solutions<span class="red">.</span></div>
+                        <!-- <p class="text-normal"> ..... </p> -->
+                    </div>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li>
+                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
+                                OEE for Steel and Metal Manufacturing companies</a>
+                        </li>
+                        <li>
+                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                Maintenance for Industrial Electric Motors</a>
+                        </li>
+                        <li>
+                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
+                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
+                                Companies</a>
+                        </li>
+                        <li>
+                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
+                                Quality for Die-casting Machines</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li style="text-align: center;">
+                            <a href="achive_more" class="sub-Link"
+                                style="padding-left:0px; color:red; align-item: center;">
+                                <img class="ai_solutions_img" src="./img/plus_ai.png"
+                                    alt="Achieve More Tvarit AI Solutions" />
+                                <div class="bold text-big20 tvarit-black">
+                                    Achieve More Tvarit AI Solutions
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="ai-platform">AI Platform</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">AI Consulting</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                        <div class="textBig">Explore<span class="red">.</span></div>
-                                        <p class="text-normal">See for yourself, the potential Industry 4.0 holds and be
-                                            a part of the AI revolution with us. Exploration is really the essence of
-                                            the human spirit.</p>
+                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"> </p> -->
                                     </div>
                                 </div>
                                 <div class="col">
                                     <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="use_cases" class="sub-Link">Use Cases</a>
-                                            <ul class="ul-deep-menu">
-                                                <li>
-                                                    <a href="use_cases#Quality_Prediction" class="sub-Link">Quality
-                                                        Prediction</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Predictive_Maintenance"
-                                                        class="sub-Link">Predictive
-                                                        Maintenance</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Supply_Chain" class="sub-Link">Supply Chain</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Asset_and_Inventory_Management"
-                                                        class="sub-Link">Asset and Inventory Management</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Intra-plant_Logistics"
-                                                        class="sub-Link">Intra-plant
-                                                        Logistics</a>
-                                                </li>
-                                            </ul>
+                                    <li>
+                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
                                         </li>
                                         <li>
-                                            <a href="whitepapers" class="sub-Link">White Paper</a>
+                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">More</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                         <div class="textBig">More<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"></p> -->
+                                    </div>
+                                </div>
+                                <div class="col d-flex">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="about#Vision" class="sub-Link">About Us</a>
                                         </li>
                                         <li>
-                                            <a href="blogs" class="sub-Link">Blogs</a>
-                                        </li>
-                                        <li>
-                                            <a href="videos" class="sub-Link">Videos</a>
-                                        </li>
-                                        <li>
-                                            <a href="http://cloud.tvarit.com" target="_blank" class="sub-Link">Demo</a>
+                                            <a class="sub-Link" href="career">Careers</a>
                                         </li>
                                         <li>
                                             <a href="news" class="sub-Link">News</a>
                                         </li>
                                         <li>
+                                            <a class="sub-Link" href="contact">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="whitepapers" class="sub-Link">White Paper</a>
+                                        </li>
+                                        <li>
+                                            <a href="videos" class="sub-Link">Videos</a>
+                                        </li>
+                                        <li>
+                                            <a href="blogs" class="sub-Link">Blogs</a>
+                                        </li>
+                                        <li>
+                                        <li>
                                             <a href="#" class="sub-Link">Survey</a>
                                             <ul class="ul-deep-menu">
+                                                <br><br><br>
                                                 <li>
                                                     <a href="ai_for_manufacturing" class="sub-Link">AI for
                                                         Manufacturing</a>
@@ -167,494 +228,321 @@
                                                     <a href="ai_as_a_product" class="sub-Link">AI as a
                                                         Product </a>
                                                 </li>
-                                                <br><br><br><br><br><br><br>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
 
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Solutions</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                        <div class="textBig">Solutions<span class="red">.</span></div>
-                                        <p class="text-normal">Exploration is curiosity put into action. Look at the
-                                            transformation we can make and allow us to partner up with you.</p>
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="products" class="sub-Link">Product</a>
-                                            <ul class="ul-deep-menu">
-                                                <li>
-                                                    <a href="products#APA" class="sub-Link">APA</a>
-                                                </li>
                                             </ul>
                                         </li>
-                                        <li>
-                                            <a href="seminar_workshops" class="sub-Link">Seminar & Workshops</a>
-                                        </li>
-                                        <li>
-                                            <a href="training" class="sub-Link">Training</a>
-                                        </li>
-                                        <li>
-                                            <a href="consulting" class="sub-Link">Consulting</a>
-                                        </li>
-                                        <li>
-                                            <a href="tti" class="sub-Link">Technology Incubation</a>
-                                        </li>
-
-                                    </ul>
                                 </div>
                             </div>
                         </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Industries</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                        <div class="textBig">Industries<span class="red">.</span></div>
-                                        <p class="text-normal">Simplicity is about subtracting the obvious and adding
-                                            the meaningful. Wander and wonder over the widespread applications of our
-                                            solutions.</p>
-                                    </div>
-                                </div>
-                                <div class="col d-flex">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="automotive" class="sub-Link">Automotive</a>
-                                        </li>
-                                        <li>
-                                            <a href="avionics" class="sub-Link">Avionics</a>
-                                        </li>
-                                        <li>
-                                            <a href="chemicals" class="sub-Link">Chemicals</a>
-                                        </li>
-                                        <li>
-                                            <a href="construction" class="sub-Link">Construction</a>
-                                        </li>
-                                        <li>
-                                            <a href="industrial_machinery" class="sub-Link">Industrial Machinery</a>
-                                        </li>
-                                    </ul>
-                                    <ul class="ul-sub-menu">
-                    </li>
-                    <li>
-                        <a href="oil_gas" class="sub-Link">Oil & Gas</a>
-                    </li>
-                    <li>
-                        <a href="pharmaceuticals" class="sub-Link">Pharmaceuticals</a>
-                    </li>
-                    <li>
-                        <a href="steel" class="sub-Link">Steel</a>
-                    </li>
-                    <li>
-                        <a href="textiles" class="sub-Link">Textiles</a>
                     </li>
                 </ul>
             </div>
-    </div>
-    </div>
-
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="about">About Us</a>
-        <div class="submenu-div">
-            <div class="row">
-                <div class="col">
-                    <div class="menuQuote">
-                        <div class="textBig">About us<span class="red">.</span></div>
-                        <p class="text-normal">We believe in the transfusion of technology & humanity for imperative
-                            growth and work invariably to deliver tech-savvy APA products which help make your business
-                            simpler and upgraded.</p>
-                    </div>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li>
-                            <a href="about#Vision" class="sub-Link">Vision</a>
-                        </li>
-                        <li>
-                            <a href="about#Team" class="sub-Link">Team</a>
-                        </li>
-                        <li>
-                            <a href="about#Philanthropy" class="sub-Link">Philanthropy</a>
-                        </li>
-                        <li>
-                            <a href="about#Benefits" class="sub-Link">Benefits</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="career">Careers</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="contact">Contact</a>
-    </li>
-    <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
-        <a style="padding-right:5px;" class="nav-link lang-link" href="https://tvarit.com/de/"><b>DE</b></a>
-        <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
-        <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link"
-                    href="https://tvarit.com"><b>EN</b></a>
-    </li>
-    </li>
-
-    </ul>
-    </div>
-    </nav>
+        </nav>
     </div>
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg">
-        <a href="#WHATisAPA" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
-        <video poster="img/indexVideoBg.jpg" autoplay="true" muted loop>
-            <source src="video/indexBg.mp4" type="video/mp4">
-        </video>
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-6 title-div">
-                    <div class="typography">
-                        <div class="text-big60">
-                            <span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                    class="color">i</span>t</span> TALKS
-                        </div>
-                        <div class="text-1">
-                            TO YOUR MACHINES
-                        </div>
-                        <br>
-                        <ul class="ul-list">
-                            <li>Understands them with our Data Science expertise</li>
-                            <li>Makes them smarter using our AI Software - Automated Predictive Analytics (APA)</li>
-                        </ul>
-                        <br>
-                        <a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
-                    </div>
-                    <br>
-                    <div class="text-head">
-                        Tvarit AI is the best solution for smart manufacturing, smart machines and digital
-                        transformation
-                    </div>
-                </div>
-
+    
+   <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
+      <video autoplay="true" muted loop style="z-index=-1">
+        <source src="video/index-video.mp4" type="video/mp4">
+      </video>
+      <div class="container">
+        <a href="#downClick" class="hdrscrollArrow" style="bottom:5%" ><i class="icon ion-ios-arrow-dropdown"></i></a>
+        <div class="row align-items-center">
+          <div class="col-md-6">
+            <div class="typography lh-1 left" >
+              <div id="tvarit-strings" class="stringText">
+                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
+              </div>
+              <div id="industrial-strings" class="stringText">
+                <span>INDUSTRIAL <span class="red">AI</span> </span>
+              </div>
+              <div id="prgf-strings" class="stringText">
+                <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
+              </div>
+              <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
+              <div class="hdr-industrial" id="typed-industrial"></div>
+              <div class="hdr-prgf" ><span id="typed-prgf"></span></div>
             </div>
+          </div>
+          <div class="col-md-6">
+            <div class="typography right lh-1">
+              <div id="germany-strings" class="stringText">
+                <span>AI MADE IN GERMANY</span>
+              </div>                                 
+               <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
+              <div class="hdr-prgf2r">
+                <span id="typed-prgf2r"></span>
+                <div class="rw-words-1">
+                  <span>Remove inefficiencies and failures of your production units and business processes</span>
+                  <span>Reduce the failure rate of all your AI/Data Science Projects</span>
+                </div>   
+              </div>
+             
+            </div>
+          </div>
         </div>
+      </div>
+      
+      <!-- <div class="container">
+        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
+        <div class="row align-items-center">
+          <div class="col-md-5">
+            <div class="typography lh-1 left"  style="float:left">
+              <div id="tvarit-strings" >
+                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
+              </div>
+              <div id="industrial-strings">
+                <span>INDUSTRIAL <span class="red">AI</span> </span>
+              </div>
+              <div id="prgf-strings">
+                <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
+              </div>
+              <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
+              <div class="hdr-industrial" id="typed-industrial">
+              </div>
+              <div class="hdr-prgf" >
+                <span id="typed-prgf"></span>
+              </div>
+                
+            </div>
+          </div>
+          <div class="col-md-2"></div>
+          <div class="col-md-5">
+            <div class="typography right lh-1">
+              <div id="germany-strings">
+                <span>AI MADE IN GERMANY &nbsp;</span>
+              </div>
+              <div id="prgf2r-strings">
+                <span>Remove inefficiencies and failures of your production units and business processes</span>
+                <span>Reduce the failure rate of all your AI/Data Science Projects</span>
+              </div>
+
+              <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
+
+              <div class="hdr-prgf2r">
+                <span  id="typed-prgf2r"></span>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </div> -->
+
     </header>
     <!------------------------ header end --------------------------->
-
-
-
-
-    <div class="section-padding" id="WHATisAPA">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">WHAT is APA?</span> </div>
-                    <h3 class="bold red text-center">TECHNOLOGY</h3>
-                </div>
-
-                <div class="centerPharseContent text-p">
-                    We have developed a state-of-the-art technology which is powered by AI. Tvarit's
-                    Automated Predictive Analysis (APA) tool has widened the space for AI applications with 22+
-                    algorithms developed by our
-                    in-house team of industry experts.&nbsp;&nbsp; We enable businesses to make smart and informed
-                    decisions by deriving actionable and valuable
-                    insights from a sea of data. It can be implemented to optimize asset management, supply chain
-                    management, inventory
-                    management, quality management, and workflow distribution process in manufacturing.
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-    <!------------------------ why needed start --------------------->
-    <div class="section-padding">
-        <div class="container">
-
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="videoWrapper">
-                        <iframe class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
-                    </div>
-                </div>
-
-                <div class="col-md-6">
-
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-first red">Why</div>
-                            <div class="text-big60">APA?</div>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="whyapamore">
-                            <p class="text-p">
-                                An insight into the world of APA-APA is the key to ease all the business hassle, to
-                                increase all the efficiency, to add all the precision. Instead of looking backward to
-                                analyze "what happened?" predictive analytics help executives answer "What's next?" and
-                                "What should we do about it?" With the assimilation of the digital and human world, the
-                                future beholds a manufacturing metamorphosis. Preparing and contributing for the
-                                revolution, Tvarit AI extends it's services in APA to offer the following: Explore the
-                                world of Predictive Analytics with us now! </p>
-                        </div>
-                        <div class="clearfix"></div>
-                        <br>
-                        <a href="products" class="btn btn-round btn-shadow btn-red-grd">SEE ALL SERVICES</a>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <!------------------------ why needed end ----------------------->
-
     <!------------------------ Features start --------------------->
-    <div class="section-padding">
-        <div class="container">
-            <div class="centerTitle text-big60">
-                Benefits of <span class="red fw-900">APA</span>
-            </div>
-
-            <br>
-
-            <div class="row justify-content-center">
-
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-2.png" class="img-fluid">
-                        </div>
-
-                        <p class="title">PREDICTIVE MAINTENANCE</p>
-
-                        <div class="more">
-                            <p class="text-p">We have developed supervised & non- supervised ML algorithms which
-                                analysis all structured and non-structured data to predict
-                                failure with 97.2% real-time accuracy. They provide actionable information on real time
-                                circumstances under which real breakdown
-                                is going to happen and alert you much before the time to take suitable action. It can
-                                help you in increasing uptime, reducing
-                                operational and capital expenses and better streamlining of workflow.</p>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-1.png" class="img-fluid">
-                        </div>
-
-                        <p class="title">Inventory Optimization</p>
-
-                        <div class="more">
-                            <p class="text-p">We have developed word-class solution for inventory optimization which not
-                                only analysis multi-structured data but also learns from
-                                them in continuous manner. By using our solution, you will be able to get live
-                                recommendations, reduce inventory costs and better
-                                visibility of future uncertainties.
-                            </p>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-3.png" class="img-fluid">
-                        </div>
-
-                        <p class="title"> Sensors Health Maintenance</p>
-
-                        <div class="more">
-                            <p class="text-p">
-                                Our solution enables you to reduce maintenance expenses and increase customer
-                                satisfaction by resolving issues in a remote and
-                                quick manner. It gives you the priority list of sensors which are going to fail in near
-                                future.
-                            </p>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-4.png" class="img-fluid">
-                        </div>
-
-                        <p class="title"> Energy Saving</p>
-
-                        <div class="more">
-                            <p class="text-p">Our solution enables you to optimize energy management by utilizing
-                                highest number of AI algorithms. It generates better energy
-                                demand predictive models and gives you better visibility to see future uncertainties and
-                                energy saving opportunities. It enables you to
-                                automatically manage and optimize operations in real time. It can help you in achieving
-                                your carbon emission and sustainability goals.</p>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-5.png" class="img-fluid">
-                        </div>
-
-                        <p class="title"> Quality Management </p>
-
-                        <div class="more">
-                            <p class="text-p">Our smart and simple solution enables you to increase the precision,
-                                efficiency and speed of your quality control process. It can help
-                                you in reducing the number of faulty parts and the high costs resulting from them by
-                                proactively identifying the mistakes and faults
-                                that negatively affects your production process and quality of your products. We do this
-                                by making your manufacturing process and
-                                machines smarter.</p>
-                        </div>
-
-                    </div>
-                </div>
-
-            </div>
+    <div class="section-padding" id="downClick">
+      <div class="container">
+        <div class="centerTitle text-big60">
+          we  <span class="red fw-900">offer</span>
         </div>
+        
+        <br>
+
+        <div class="row justify-content-center weOfferBox" style="position:relative">
+          <div class="col-md-4">
+            <div  class="featureBox" style="position:relative">
+              <div class="icon" >
+                <img src="img/ai-solution-1.png" >
+              </div>
+              <div class="inner-container">
+              <p class="title">AI Solutions</p>
+              <div class="short-line bg-red"></div>
+              <ul class="ul-list">
+                <li>
+                  We have already developed ready to use software solutions for most impactful business use-cases
+                </li>
+                <li>
+                  Scalable and already proven technology
+                </li>
+                <li>
+                  Available on On-Premise, Cloud and edge-computing
+                </li>
+              </ul>
+              <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd"  style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
+            </div>
+            </div>
+          </div>
+         
+
+          <div class="col-md-4">
+            <div class="featureBox">
+              <div class="icon">
+                <img src="img/ai-platform-1.png">
+              </div>
+              <div class="inner-container">
+              <p class="title">AI Platform</p>
+              <div class="short-line bg-red"></div>
+              <ul class="ul-list">
+                <li>
+                 Award winning AI Platform for your Data Scientists
+                </li>
+                <li>
+                  Analyse manufacturing data and make new use-cases on your own
+                </li>
+                <li>
+                 Available on On-Premise, Cloud and edge-computing
+                </li>
+              </ul>
+              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%"> Know More</a>               
+              </div>
+              </div>
+          </div>
+
+          <div class="col-md-4">
+            <div href="ai-consulting"  target="_blank" class="featureBox">
+              <div class="icon">
+                <img src="img/ai-consulting-1.png" >
+              </div>
+              <div class="inner-container">
+
+              <p class="title">AI Consulting</p>
+              <div class="short-line bg-red"></div>
+              <ul class="ul-list">
+                <li>
+                  Covers all your needs like development and implementation of project, data extraction, data preparation, data labelling, data harmonization and AI powered predictive analytics
+                </li>
+                <li>
+                  Managed outside teams and hire  data science experts within hours.
+                </li>
+                <li>
+                  Innovative task based pricing
+                </li>
+              </ul>
+              <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
+    </div>
+    </div>
+          </div>
+
+        </div>
+      </div>
     </div>
     <!------------------------ Features end --------------------->
 
-    <!------------------------ WHY NOW start --------------------->
-    <div class="section-padding-both">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="text-big60">WHY <span class="fw-900">NOW ?</span></div>
-                    <h3 class="bold text-center red">TIMING</h3>
-                </div>
-
-                <div class="centerPharseContent text-p">
-                    Our vision is to build scalable and sustainable Automated Predictive Analytics (APA) solutions which
-                    are invisible and assistive, allowing manufacturers to do what they love - efficient productions.
-                </div>
+    <!------------------------ why needed start --------------------->
+    <div class="section-padding">
+      <div class="container">
+        
+        <div class="row align-items-center">
+          <div class="col-md-6">
+            <div class="videoWrapper">
+              <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
+          </div>
+
+          <div class="col-md-6">
+
+            <div class="px-4 box-content-left">
+              <div class="title">
+               <div class="text-first red">Why</div>
+               <div class="text-big60">Us?</div>
+              </div>
+              <div class="short-line bg-red"></div>
+                <p class="text-p">
+                Our products and services have been built and designed on the basis of 34+ years of experience  in fortune 500 manufacturing companies. We provide fast and customizable AI solutions for discrete and process manufacturing. We are continuously improving our solutions by heavily investing into R&D. We have developed most advanced AI algorithms and ready to use AI modules to solve all your complex manufacturing problems and needs.</p>
+              <br>
+            </div>
+           
+          </div>
         </div>
+      </div>
     </div>
-    <!------------------------ WHY NOW end ----------------------->
+    <!------------------------ why needed end ----------------------->
+
+    
 
 
     <!------------------------Countdown start --------------------->
-    <div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-        <div class="container">
-            <div class="centerTitle text-big60 text-white">
-                The change we <span class="fw-900">brought</span>
-            </div>
-            <div class="row">
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="22">0</span> <small>+</small></div>
-                        <div class="text">Highest number of algorithms</div>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="97.2">0</span> <small>%</small></div>
-                        <div class="text">Accuracy of APA models</div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="0">100</span> <small class="x"></small>
-                        </div>
-                        <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="30">0</span> <small>Mins</small></div>
-                        <div class="text">To Build your AI model</div>
-                    </div>
-                </div>
-            </div>
-            <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-                Our Proven <span class="fw-900">Results</span>
-            </div>
-            <div class="row">
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="13">0</span> <small>%</small></div>
-                        <div class="text">Increase in OEE</div>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="30">0</span> <small>%</small></div>
-                        <div class="text">Decrease in delivery time</div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="12">0</span> <small>%</small></div>
-                        <div class="text">Decrease in energy costs </div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="25">0</span> <small>%</small></div>
-                        <div class="text">Reduction in quality defects</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php
+    include 'change_we_brought.php'
+    ?>
     <!------------------------Countdown end --------------------->
 
+   
+
+
     <!------------------------Automated slide start --------------------->
-    <?php 
-                include 'change_we_bring.php';
-                ?>
+     
     <!------------------------Automated slide end --------------------->
 
-    <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
-                </div>
+    
 
-                <div class="centerPharseContent text-p">
-                    We’re based out of Frankfurt Germany having the perfect team composition - a German founder
-                    bringing vast know-how of machinery coupled with high-quality software expertise of the Indian
-                    founders.
-                </div>
-            </div>
+    <section class="section-padding">
+      <div class="container">
+        <div class="centerTitle">
+          <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
+          <div class="text-big60">Manufacturing companies</div>
         </div>
-    </div>
-    <!------------------------ tvarit end ----------------------->
+        <br>
+        <div class="row">
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/1.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/2.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/3.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/4.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/5.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/6.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/7.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/8.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/9.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/10.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/11.png" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="logo-box">
+              <img src="img/HomeAiLogo/12.png" class="img-fluid">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
-                include 'using-tvarit.php';
-                ?>
+    <?php include 'using-tvarit.php';?>
     <!------------------------Client logo slide end --------------------->
 
     <!------------------------try demo start --------------------->
@@ -668,26 +556,6 @@
             </div>
             <br>
             <div class="client-carousel">
-                <div class="carousel-cell">
-                    <div class="picBox">
-                        <img src="img/partners_img/ibm.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="carousel-cell">
-                    <div class="picBox">
-                        <img src="img/partners_img/mindsphere.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="carousel-cell">
-                    <div class="picBox">
-                        <img src="img/partners_img/openpower.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="carousel-cell">
-                    <div class="picBox">
-                        <img src="img/partners_img/microsoft.jpg" class="img-fluid">
-                    </div>
-                </div>
                 <div class="carousel-cell">
                     <div class="picBox">
                         <img src="img/partners_img/tud_logo_web_druck.png" class="img-fluid">
@@ -769,8 +637,6 @@
         </div>
     </div>
 
-
-
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
@@ -781,6 +647,7 @@
     <script src="js/flickity.pkgd.min.js"></script>
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
+    <script src="js/typed.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
     <script type="text/javascript">
@@ -807,7 +674,57 @@
         }
     }
     </script>
+<style>   
+.rw-words-1 span{
+	/* position: absolute; */
+	opacity: 0;
+	overflow: hidden;
+	/* color: #6b969d; */
+	-webkit-animation: rotateWord 13s linear infinite 0s;
+	-ms-animation: rotateWord 13s linear infinite 0s;
+	animation: rotateWord 13s linear infinite 0s;
+}
+.rw-words-1 span:nth-child(2) { 
+    -webkit-animation-delay: 6s; 
+	-ms-animation-delay: 6s; 
+	animation-delay: 6s; 
+	/* color: #6b889d; */
+} 
+@-webkit-keyframes rotateWord {
+    0% { opacity: 0; }
+    2% { opacity: 0; -webkit-transform: translateY(-30px); }
+	5% { opacity: 0; -webkit-transform: translateY(0px);}
+    17% { opacity: 0; -webkit-transform: translateY(0px); }
+	20% { opacity: 1; -webkit-transform: translateY(30px); }
+	80% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@-ms-keyframes rotateWord {
+    0% { opacity: 0; }
+    2% { opacity: 0; -ms-transform: translateY(-30px); }
+	5% { opacity: 0; -ms-transform: translateY(0px);}
+    17% { opacity: 0; -ms-transform: translateY(0px); }
+	20% { opacity: 1; -ms-transform: translateY(30px); }
+	80% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@keyframes rotateWord {
+    0% { opacity: 0; }
+    2% { opacity: 0; -webkit-transform: translateY(-30px); transform: translateY(-30px); }
+	5% { opacity: 0; -webkit-transform: translateY(0px); transform: translateY(0px);}
+    17% { opacity: 0; -webkit-transform: translateY(0px); transform: translateY(0px); }
+	20% { opacity: 1; -webkit-transform: translateY(30px); transform: translateY(30px); }
+	80% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@media screen and (max-width: 768px){
+	.rw-sentence { font-size: 18px; }
+}
+@media screen and (max-width: 320px){
+	.rw-sentence { font-size: 9px; }
+}
 
+  </style>
 
 </body>
 

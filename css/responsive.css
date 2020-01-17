@@ -1,17 +1,56 @@
-@media
-only screen and (-webkit-min-device-pixel-ratio: 1.5),
-only screen and (-o-min-device-pixel-ratio: 3/2),
-only screen and (min--moz-device-pixel-ratio: 1.5),
-only screen and (min-device-pixel-ratio: 1.5){
+
+@media screen and (max-width: 574px){
+
+  
+   .macbook-position {
+        height: 146px;
+        max-width: 260px !important;
+        position: relative;
+        right: 0;
+        margin-bottom: 60px !important;
+        margin: auto;
+    }
+    .macbook-wrapper .macbook-lapi {
+        left: -23.8%;
+        top: -13.3%;
+        width: 149%;
+    }
+
+    .hdr-tvarit {
+        font-size: 86px !important;
+        }
+
+    .hdr-industrial {
+        font-size: 42px !important;
+    }
+
+    .hdr-germany {
+        font-size: 16px !important;
+    }
+
+    .flag {
+        width: 78px;
+    }
 
 
-    
 }
 
 @media (max-width:767px) {
 
+    .headerBg {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        margin-bottom: 60px;
+    }
+    .aiconsultingBg
+    {
+        padding-top: 100px;
+    }
     .headerBg video {
         width: 100%;
+        margin: auto;
+        position: relative;
     }
 
     .main-menu .navbar {
@@ -200,24 +239,133 @@ only screen and (min-device-pixel-ratio: 1.5){
         color: #ccc;
         z-index: 3;
     }
+    
+    .countingNumBox .icon {
+        margin-right: 0;
+    }
+    .countingNumBox {
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+        position: relative;
+    }
 
+    .avantage-sec .automBox
+    {
+        margin-bottom: 30px;
+        height: auto;
+    }
+   
+    .timelineStep {
+        margin-left: 40px;
+    }
+    .vline {
+        left: 5%;
+        right: auto;
+    }
+    .timelineSteps-warpper .line-left:after,.timelineSteps-warpper .line-right:after {
+        right: auto;
+        left: -8%;
+        width: 8%;
+    }
+    .timelineStep.right {
+        text-align: left;
+    }
+    .timelineSteps-warpper .line-left:before, .timelineSteps-warpper .line-right:before{
+        left: -8%  !important;
+        right: auto !important;
+    }
+
+    .indexMainBg video
+    {
+        height: 200%;
+        width: auto;
+        right: 0;
+        left: 0;
+        position: absolute;
+    }
+    .indexMainBg .typography {
+        padding-top: 50px;
+    }
+    .indexMainBg .typography .text-1,.aiconsultingBg .typography .text-1 {
+        font-size: 18px;
+        width: 100%;
+    }
+    .typography .subtext .text-s1,.typography .subtext .text-s2
+    {
+        font-size: 14px;
+        padding: 10px 20px;
+        line-height: 1.2;
+    }
+
+    .indexMainBg .ul-list li
+    {
+        width: 80%;
+        padding-left: 0;
+    }
+    
+    .weOfferBox .featureBox
+    {
+        text-align: left;
+    }
+    .ul-logobox li {
+        width: 49%;
+        list-style: none;
+    }
+
+        
+    .hdr-tvarit {
+        font-size: 138px;
+    }
+
+    .hdr-industrial {
+        font-size: 67px;
+    }
+    .hdr-germany {
+        font-size: 32px;
+    }
+     .ml11 {
+        font-size: 20px;
+      }
+
+    .text-big40 {
+        font-size: 20px;
+    }
+
+    .ul-list-50 li {
+        width: 96%;
+    }
+   
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
-
+@media (min-width: 768px) and (max-width: 1198px) {
+    .headerBg {
+            margin-bottom: 60px;
+        }
     .main-menu .navbar {
-        max-width: 720px;
         margin: auto;
     }
     .bringSlideSection .pdn-l-col {
         padding-left: 80px;
     }
     
+   .hdr-tvarit {
+        font-size: 95px;
+    }
+
+    .hdr-industrial {
+        font-size: 46px;
+    }
+
+    .hdr-germany {
+        font-size: 16px;
+    }
+    
+    
 }
 
 @media (min-width: 768px) {
-
-    
+  
     .bringSlideSection .container
     {
         width: 100%;
@@ -239,6 +387,17 @@ only screen and (min-device-pixel-ratio: 1.5){
         width: 50% !important;
     }
     
+
+    .timelineStep.right .ul-list-bullet li
+    {
+        padding-right: 20px;
+    }
+
+    .timelineStep.right .ul-list-bullet li:after {
+        position: absolute;
+       left: auto;
+       right: 0;
+    }
 
 
 }
@@ -350,12 +509,22 @@ only screen and (min-device-pixel-ratio: 1.5){
 
     /*------------- menu css close ----------------*/
 
-
+    .typography {
+        margin-bottom: 20px;
+        position: relative;
+    }
     .text-big60 {
-        font-size: 38px;
+        font-size: 30px;
     }
     .typography .text-1 {
-        font-size: 28px;
+        font-size: 18px;
+    }
+    .typography .text-2 {
+        font-size: 16px;
+    }
+    .typography .ul-list li {
+        margin-bottom: 15px;
+        font-size: 12px;
     }
     h3
     {
@@ -365,14 +534,50 @@ only screen and (min-device-pixel-ratio: 1.5){
         width: 100%;
     }
 
+    .timelineSteps-warpper .line-right:before {
+        left: -31%;
+    }
+    .timelineSteps-warpper .line-left:before {
+        right: -31%;
+    }
     
+    .macbook-sec {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        margin-bottom: 60px;
+    }
+
+     .macbook-sec
+    {
+        top: 60px;
+    }
+    .macbook-sec .typography {
+        text-align: center;
+        top: 0;
+    }
+    .macbook-sec .typography .text-p {
+        margin: auto;
+        font-weight: 700;
+    }
+    .macbook-position {
+        height: 270px;
+        max-width: 430px !important;
+        position: relative;
+        right: 0;
+        margin-bottom: 60px !important;
+        margin: auto;
+    }
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
    
    .headerBg video {
-        width: 100%;
+        width: 150%;
     }
+
+
     
 }
 
@@ -389,5 +594,97 @@ only screen and (min-device-pixel-ratio: 1.5){
 }
 
 
+/* iPads and iphones  (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio: 1)  { 
+    
+    .hdr-tvarit {
+        font-size: 72px;
+    }
+    .hdr-industrial {
+        font-size: 35px;
+    }
+    .hdr-germany {
+        font-size: 18px;
+    }
+    
+}
 
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) 
+and (-webkit-min-device-pixel-ratio: 1) {
+    .indexMainBg {
+    height: 50vh;
+}
+   
 
+ }
+
+/* ----------- iPhone 4, 5, 6 ----------- */
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 573px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+    .macbook-sec {
+        margin-bottom: 60px;
+        padding-top: 100px !important;
+    }
+    .hdr-tvarit {
+        font-size: 70px !important;
+    }
+    .hdr-industrial {
+        font-size: 34px !important;
+    }
+    .hdr-germany {
+        font-size: 16px !important;
+    }
+    .flag {
+        width: 40px;
+    }
+    .macbook-position {
+        height: 146px;
+        max-width: 260px !important;
+        position: relative;
+        right: 0;
+        margin-bottom: 60px !important;
+        margin: auto;
+    }
+    .macbook-wrapper .macbook-lapi {
+        left: -23.8%;
+        top: -13.3%;
+        width: 149%;
+    }
+        .timelineSteps-warpper .line-left:before, .timelineSteps-warpper .line-right:before {
+        left: -15% !important;
+        right: auto !important;
+    }
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 573px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+    
+  
+
+}
+@media (min-width: 1270px) and (max-width: 1290px) {
+    .indexMainBg {
+        height: 75vh;
+    }
+}
+@media (min-width: 1024px) and (max-width: 1250px) {
+    .indexMainBg {
+        height: 42vh;
+    }
+}

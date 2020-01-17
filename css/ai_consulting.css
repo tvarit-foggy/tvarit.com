@@ -1,0 +1,487 @@
+/*-----------css 11-01-2020 --------*/
+.headerBg
+{
+    margin-bottom: 60px;
+    padding-top: 60px;
+}
+
+.aiconsultingBg
+{
+    background:#000000 url('../img/AI_Consulting_Banner.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    height: 60vh; 
+    z-index: -1;
+}
+.aiconsultingBg:after
+{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    opacity: 0.5;
+    background: #000000;
+}
+
+.aiconsultingBg .typography
+{
+    text-align: center;
+    color: #fff;
+}
+
+.aiconsultingBg .typography .text-1 {
+    color: #fff;
+    font-size: 36px;
+}
+.aiconsultingBg .typography .subtext
+{
+    font-size: 28px;
+}
+
+.capt
+{
+    text-transform: capitalize !important;
+}
+.countingNumBox
+{
+    display: flex;
+    align-items: flex-start;
+    margin: auto;
+}
+.countingNumBox .icon
+{
+    font-size: 60px;
+    margin-right: 20px;
+    color: #ed1b4a;
+}
+.countingNumBox .numbers
+{
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 1;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.countingNumBox .text
+{
+    font-size: 15px;
+}
+
+
+.bxSqtp
+{
+    padding: 20px;
+    border-radius: 10px;
+    background: #fff;
+    margin-bottom: 30px;
+    box-shadow: 0 3px 50px #0000003d;
+    min-height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+.bxSqtp .bxSqtp-container
+{
+    text-align: center;
+}
+
+.bxSqtp .icon
+{
+    opacity: 1;
+    margin-bottom: 20px;
+}
+.bxSqtp .icon img
+{
+    width: 80px;
+}
+.bxSqtp .title
+{
+    color: #ed1b4a;
+    font-size: 18px;
+    opacity: 1;
+    width: 100%;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.bxSqtp .text-p
+{
+    line-height: 1.4;
+    margin-bottom: 0;
+
+}
+.bxSqtp .content .btn
+{
+    margin-top: 20px;
+}
+
+.bxSqtp .content {
+    color: #fff;
+    background:#ed1b4a;
+    height: auto;
+    opacity: 0;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.25s linear;
+}
+
+.bxSqtp:hover .content
+{
+    opacity: 1;
+}
+.bxSqtp:hover .content p
+{
+    color: #fff;
+}
+
+.Advantages-sec .featureBox
+{
+    text-align: center;
+}
+.Advantages-sec .icon {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background: #fff;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.15);
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.Advantages-sec .featureBox:hover
+{
+    box-shadow: none;
+}
+.avantage-sec .automBox
+{
+    margin-bottom: 30px;
+}
+.avantage-sec .automText
+{
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.avantage-sec .automPic img
+{
+    width: 100%;
+}
+
+.typography .subtext .text-s1
+{
+    background: #ed1b4a;
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.typography .subtext
+{
+    line-height: 2;
+}
+.typography .subtext .text-s2
+{
+    font-weight: bold;
+}
+
+.title .text-first {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.list-12
+{
+    font-size: 12px;
+}
+
+.fs-12
+{
+    font-size: 12px;
+}
+.timelineSteps-warpper
+{
+    position: relative;
+}
+.vline {
+    position: absolute;
+    height: 100%;
+    width: 2px;
+    top: -50px;
+    left: 0;
+    margin: auto;
+    right: 0;
+    background: #222;
+}
+.timelineStep
+{
+    padding: 30px;
+    position: relative;
+}
+.timelineStep.right
+{
+    text-align: right;
+}
+.timelineStep.fillbox
+{
+    background: #ed1b4a;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 9px 38px #0000003d;
+}
+.timelineStep.fillbox .title
+{
+    color: #fff;
+}
+.timelineStep .title
+{
+    color: #ed1b4a;
+}
+.timelineStep .ul-list-bullet {
+    padding-left: 0;
+}
+.timelineStep .ul-list-bullet li
+{
+    margin-bottom: 6px;
+}
+
+
+.timelineStep.fillbox .ul-list-bullet li:after {
+    background: #ffffff;
+    box-shadow: 0 0 0 3px #ed1b4a, 0 0 0 4px #ffffff;
+}
+
+
+.timelineStep.fillbox:after {
+    position: absolute;
+    content: '';
+    background: #000;
+    height: 2px;
+    width: 50%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.timelineSteps-warpper .line-left:after
+{
+    right: -50%;
+}
+
+.timelineSteps-warpper .line-right:after
+{
+    left: -50%;
+}
+.timelineSteps-warpper .line-right:before,.timelineSteps-warpper .line-left:before
+{
+    position: absolute;
+    content: '';
+    width: 20px;
+    height: 20px;
+    background: #ed1b4a;
+    margin: auto;
+     top: 0;
+    bottom: 0;
+    z-index: 1;
+}
+.timelineSteps-warpper .line-left:before
+{
+    right: -27%;
+}
+
+.timelineSteps-warpper .line-right:before
+{
+    left: -27%;
+}
+
+.ul-list-50 li
+{
+    width: 46%;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+
+.Benefits-sec .featureBox .text-p {
+    line-height: 1.5;
+    font-weight: bold;
+    font-size: 18px;
+    width: 75%;
+    margin: auto;
+}
+
+.keyFeatures .logo-box
+{
+    border-radius: 0;
+    margin-bottom: 0;
+    box-shadow: 0 0px 2px #0000003d;
+}
+
+.keyFeatures .logo-box .logotext
+{
+    background: none;
+    color: #222;
+    font-weight: bold;
+    font-size: 12px;
+    transform: translateY(-10px);
+    text-transform: uppercase;
+}
+.ul-logobox
+{
+    margin: 0;
+    padding: 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.ul-logobox li {
+    width: 20%;
+    list-style: none;
+}
+.logo-box
+{
+    background: #fff;
+    box-shadow: 0 9px 38px #0000003d;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.logo-box img
+{
+    height: 100px;
+}
+.logotext
+{
+    padding: 10px 0;
+    position: relative;
+    color: #fff;
+    background: #ed1b4a;
+}
+
+.client-carousel .carousel-cell .picBox img
+{
+}
+
+.indexMainBg
+{
+    height: 90vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.indexMainBg:after
+{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    opacity: 0.5;
+    background: #000000;
+}
+
+.indexMainBg .typography .text-1 {
+    color: #fff;
+    font-size: 26px;
+    width: 70%;
+    margin: auto;
+}
+.text-white
+{
+    color: #fff;
+}
+.indexMainBg .typography
+{
+    text-align: center;
+    color: #fff;
+}
+
+.indexMainBg .typography .text-1 {
+    color: #fff;
+    font-size: 24px;
+}
+.indexMainBg .typography .subtext
+{
+    font-size: 20px;
+}
+
+.indexMainBg .ul-list {
+    padding: 0;
+    margin: auto;
+}
+.indexMainBg .ul-list li:before
+{
+    position: absolute;
+    content: '';
+    border-left: 1px solid #fff;
+    height: 100%;
+    width: 2px;
+    left: 0;
+}
+.indexMainBg .ul-list li:first-child:before
+{
+    display: none;
+}
+.indexMainBg .ul-list li {
+    width: 28%;
+    padding-left: 20px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 15px;
+    vertical-align: text-top;
+    text-align: left;
+    line-height: 1.4;
+    position: relative;
+}
+
+
+.weOfferBox .featureBox
+{
+    display: block;
+    text-decoration: none;
+    color: #222;
+}
+
+
+.plant-rl
+{
+    position: absolute;
+    right: -22%;
+    height: 300px;
+    z-index: -1;
+}
+.plant-tp
+{
+    position: absolute;
+    left: 2%;
+    height: 300px;
+    z-index: -1;
+}
+.hdrscrollArrow i {
+    color: #fff !important;
+}

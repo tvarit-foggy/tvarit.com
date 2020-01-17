@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-<script src="js/navigationDE.js"></script>
+    <script src="js/navigationDE.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
@@ -43,7 +43,7 @@
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
-     
+
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -54,11 +54,10 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
 
-
     <!------------------------ main menu start ---------------------->
     <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="./">
+            <a class="navbar-brand bold uppr" href="index">
                 <img src="img/logo.png" class="img-fluid">
             </a>
 
@@ -74,209 +73,149 @@
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Explore</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                        <div class="textBig">Explore<span class="red">.</span></div>
-                                        <p class="text-normal">See for yourself, the potential Industry 4.0 holds and be
-                                            a part of the AI revolution with us. Exploration is really the essence of
-                                            the human spirit.</p>
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="use_cases" class="sub-Link">Use Cases</a>
-                                            <ul class="ul-deep-menu">
-                                                <li>
-                                                    <a href="use_cases#Quality_Prediction" class="sub-Link">Quality
-                                                        Prediction</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Predictive_Maintenance"
-                                                        class="sub-Link">Predictive
-                                                        Maintenance</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Supply_Chain" class="sub-Link">Supply Chain</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Asset_and_Inventory_Management"
-                                                        class="sub-Link">Asset and Inventory Management</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Intra-plant_Logistics"
-                                                        class="sub-Link">Intra-plant
-                                                        Logistics</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="whitepapers" class="sub-Link">White Paper</a>
-                                        </li>
-                                        <li>
-                                            <a href="blogs" class="sub-Link">Blogs</a>
-                                        </li>
-                                        <li>
-                                            <a href="videos" class="sub-Link">Videos</a>
-                                        </li>
-                                        <li>
-                                            <a href="http://cloud.tvarit.com" target="_blank" class="sub-Link">Demo</a>
-                                        </li>
-                                        <li>
-                                            <a href="news" class="sub-Link">News</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                        </div>
+                        <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Solutions</a>
+                        <a class="nav-link" href="#">AI Solutions</a>
                         <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                        <div class="textBig">Solutions<span class="red">.</span></div>
-                                        <p class="text-normal">Exploration is curiosity put into action. Look at the
-                                            transformation we can make and allow us to partner up with you.</p>
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="products" class="sub-Link">Product</a>
-                                            <ul class="ul-deep-menu">
-                                                <li>
-                                                    <a href="products#APA" class="sub-Link">APA</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="seminar_workshops" class="sub-Link">Seminar & Workshops</a>
-                                        </li>
-                                        <li>
-                                            <a href="training" class="sub-Link">Training</a>
-                                        </li>
-
-                                        <li>
-                                            <a href="consulting" class="sub-Link">Consulting</a>
-                                        </li>
-                                        <li>
-                                            <a href="tti" class="sub-Link">Technology Incubation</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Industries</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                        <div class="textBig">Industries<span class="red">.</span></div>
-                                        <p class="text-normal">Simplicity is about subtracting the obvious and adding
-                                            the meaningful. Wander and wonder over the widespread applications of our
-                                            solutions.</p>
-                                    </div>
-                                </div>
-                                <div class="col d-flex">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="automotive" class="sub-Link">Automotive</a>
-                                        </li>
-                                        <li>
-                                            <a href="avionics" class="sub-Link">Avionics</a>
-                                        </li>
-                                        <li>
-                                            <a href="chemicals" class="sub-Link">Chemicals</a>
-                                        </li>
-                                        <li>
-                                            <a href="construction" class="sub-Link">Construction</a>
-                                        </li>
-                                        <li>
-                                            <a href="industrial_machinery" class="sub-Link">Industrial Machinery</a>
-                                        </li>
-                                    </ul>
-                                    <ul class="ul-sub-menu">
-                    </li>
-                    <li>
-                        <a href="oil_gas" class="sub-Link">Oil & Gas</a>
-                    </li>
-                    <li>
-                        <a href="pharmaceuticals" class="sub-Link">Pharmaceuticals</a>
-                    </li>
-                    <li>
-                        <a href="steel" class="sub-Link">Steel</a>
-                    </li>
-                    <li>
-                        <a href="textiles" class="sub-Link">Textiles</a>
-                    </li>
-                </ul>
-            </div>
-    </div>
-    </div>
-
-    </li>
-    <li class="nav-item active">
-        <a class="nav-link" href="about">About Us</a>
-        <div class="submenu-div">
             <div class="row">
                 <div class="col">
                     <div class="menuQuote">
-                        <div class="textBig">About us<span class="red">.</span></div>
-                        <p class="text-normal">We believe in the transfusion of technology & humanity for imperative
-                            growth and work invariably to deliver tech-savvy APA products which help make your business
-                            simpler and upgraded.</p>
+                        <div class="textBig">AI Solutions<span class="red">.</span></div>
+                        <!-- <p class="text-normal"> ..... </p> -->
                     </div>
                 </div>
                 <div class="col">
                     <ul class="ul-sub-menu">
                         <li>
-                            <a href="#Vision" class="sub-Link">Vision</a>
+                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
+                                OEE for Steel and Metal Manufacturing companies</a>
                         </li>
                         <li>
-                            <a href="#Team" class="sub-Link">Team</a>
+                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                Maintenance for Industrial Electric Motors</a>
                         </li>
                         <li>
-                            <a href="#Philanthropy" class="sub-Link">Philanthropy</a>
+                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
+                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
+                                Companies</a>
                         </li>
                         <li>
-                            <a href="#Benefits" class="sub-Link">Benefits</a>
+                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
+                                Quality for Die-casting Machines</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul class="ul-sub-menu">
+                        <li style="text-align: center;">
+                            <a href="achive_more" class="sub-Link"
+                                style="padding-left:0px; color:red; align-item: center;">
+                                <img class="ai_solutions_img" src="./img/plus_ai.png"
+                                    alt="Achieve More Tvarit AI Solutions" />
+                                <div class="bold text-big20 tvarit-black" style="font-size: 900;">
+                                    Achieve More Tvarit AI Solutions
+                                </div>
+                            </a>
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="career">Careers</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="contact">Contact</a>
-    </li>
-    <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
-        <a style="padding-right:5px;" class="nav-link lang-link" href="https://de.tvarit.com/"><b>DE</b></a>
-        <a style="padding-right:3px;pointer-events: none;padding-left:3px;" class="nav-link lang-link">|<a>
-                <a style="padding-left:5px;pointer-events: none; color:#f74785 !important;" class="nav-link lang-link"
-                    href="./"><b>EN</b></a>
-    </li>
-    </li>
-    </ul>
-    </div>
-    </nav>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="ai-platform">AI Platform</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">AI Consulting</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"> </p> -->
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                    <li>
+                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
+                                        </li>
+                                        <li>
+                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">More</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                         <div class="textBig">More<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"></p> -->
+                                    </div>
+                                </div>
+                                <div class="col d-flex">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="about#Vision" class="sub-Link">About Us</a>
+                                        </li>
+                                        <li>
+                                            <a class="sub-Link" href="career">Careers</a>
+                                        </li>
+                                        <li>
+                                            <a href="news" class="sub-Link">News</a>
+                                        </li>
+                                        <li>
+                                            <a class="sub-Link" href="contact">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="whitepapers" class="sub-Link">White Paper</a>
+                                        </li>
+                                        <li>
+                                            <a href="videos" class="sub-Link">Videos</a>
+                                        </li>
+                                        <li>
+                                            <a href="blogs" class="sub-Link">Blogs</a>
+                                        </li>
+                                        <li>
+                                        <li>
+                                            <a href="#" class="sub-Link">Survey</a>
+                                            <ul class="ul-deep-menu">
+                                                <br><br><br>
+                                                <li>
+                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
+                                                        Manufacturing</a>
+                                                </li>
+                                                <li>
+                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
+                                                        Product </a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
     </div>
     <!------------------------ main menu end ------------------------>
 
 
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg aboutBg" id="visiom">
+    <!-- <header class="headerBg aboutBg" id="visiom">
         <div class="container">
             <a href="#Team" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
@@ -303,28 +242,53 @@
                 </div>
             </div>
         </div>
-    </header>
+    </header> -->
     <!------------------------ header end --------------------------->
 
 
-    <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="red text-big60"> Our Culture</div>
-                </div>
+    
 
-                <div class="centerPharseContent text-p">
-                    Tvarit comes from Sanskrit language which means 'Fast'. Our company stands up to its name by valuing
-                    'Fast & Persistent' output. Further the letters A and I shows our strong knowledge in AI field. The
-                    very first letter of our name, the robotic arm shaped T, signifies that our customers are the
-                    manufacturing and automobile companies.
+    <!------------------------ Who we are --------------------->
+    <div class="section-padding" id="Benefits">
+        <div class="container">
+            <div class="row align-items-center">
+                <!-- <div class="col-md">
+                    <div class="AmimgBox">
+                        <img src="img/ab-1.jpg" class="img-fluid">
+                    </div>
+                </div> -->
+                <br>
+                <div class="col-md">
+                    <div class="px-4 box-content-left">
+                        <br><br>
+                        <div class="title">
+                            <div class="text-big60 fw-900"><span class="text-capitalize">Who we are?</span></div>
+                        </div>
+                        <div class="short-line bg-red"></div>
+                        <div class="">
+                            <p class="text-p">
+                                We are German company based in Frankfurt, Germany. We build and provide AI solutions to
+                                solve all
+                                kinds of manufacturing problems and data science needs. We enable businesses to make
+                                smart and
+                                informed decisions by deriving actionable and valuable insights from a sea of data.
+
+                                We provide Ai Solutions, AI platform and AI consulting services to successfully
+                                complete
+                                your all AI and data science projects.
+
+                                Recently, we have achieved many prestigious awards for which we were recognized as the
+                                most
+                                innovative AI company in Europe and Germany.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
+
         </div>
     </div>
-    <!------------------------ tvarit end ----------------------->
+
+    <!------------------------ Who we are ----------------------->
 
 
 
@@ -383,7 +347,7 @@
                                 <li>14 years building startups in Germany</li>
                                 <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
                                 <li> Ex-President TiE Deutschland</li>
-                                <!-- <li>Makes them smarter using our AI Software</li> -->
+                                <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
                         </div>
@@ -416,7 +380,8 @@
 
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto; border-radius: 50%;">
+                            <img src="img/rahul_circle.jpg" alt="Rahul"
+                                style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name">Rahul Prajapat</h4>
@@ -444,7 +409,7 @@
                         </div>
                     </div>
                 </div>
-                
+
             </div>
 
             <!-------- Custom Divider ------------>
@@ -605,7 +570,7 @@
 
             </div>
             <!-------- Custom Divider ------------>
-            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
+            <!-- <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
                 <div class="col-md-5">
                     <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
                 </div>
@@ -615,217 +580,27 @@
                 <div class="col-md-5">
                     <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
                 </div>
-            </div>
+            </div> -->
             <!-------- Custom Divider ------------>
 
-
+    <br><br>
         </div>
     </div>
-    <!------------------------ Automotives start --------------------->
-    <div class="section-padding" id="Benefits">
-        <div class="container">
-
-            <div class="row align-items-center">
-                <div class="col-md">
-                    <div class="AmimgBox">
-                        <img src="img/ab-1.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefi</span><span
-                                    class="red">TS #1</span></div>
-                            <h4 class="red fs-18">Steel production- quicker, precise, easier. How?</h4>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
-                            <p class="text-p">
-                                Tvarit AI, promising to make your life easier toiled to turn steel
-                                production smarter. Our team set up an APA tool to predict the quality of
-                                steel produced accurately and swifter. Earlier a gruesome huge batch of
-                                processing machines, fluxing iron ore, and scrap metal looked irksome. But
-                                our team helped envisage the precise amount of impurities such as nitrogen,
-                                silicon, phosphorus and excess carbon to be removed from the raw iron, and
-                                alloying elements such as manganese, nickel, chromium, and vanadium to be
-                                added to produce different grades of steel. Tvarit Solution helped company
-                                predicting the quality of steel being produced on a real-time basis and
-                                further gave actionable insights to reduce the number of defective coils
-                                thus changing the game.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-    <div class="section-padding">
-        <div class="container">
-
-            <div class="row align-items-center">
-
-                <div class="col-md order-2 order-md-1">
-                    <div class="px-4 box-content-right">
-                        <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefi</span><span
-                                    class="red">TS #2</span></div>
-                            <h4 class="red fs-18">When will my machine break?</h4>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
-                            <p class="text-p">
-                                Predicting life expectancy is always harsh. When it comes to machines, it is
-                                rather important though. Tvarit on the cue helps reduce the wrinkles of
-                                doubts about when the machine or its component will get out of function. On
-                                the same lines, we executed our model for a construction company. The key
-                                challenge was to spot the failure patterns in various SPN IDs and FMI IDs
-                                coming in DTCs (diagnostic trouble codes) from CAN bus which is attached to
-                                machine’s engine. Next, we captured the sustaining time of a particular DTC.
-                                Once that was done, it was easy to apply ML / DL algorithms to predict the
-                                period a DTC persists, and whether the machine is going to breakdown or not
-                                and notify the responsible person. This is what Tvarit AIms for, upgrading
-                                your lives.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md order-1 order-md-2">
-                    <div class="AmimgBox">
-                        <img src="img/ab-2.jpg" class="img-fluid">
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-    <div class="section-padding-both">
-        <div class="container">
-
-            <div class="row align-items-center">
-                <div class="col-md">
-                    <div class="AmimgBox">
-                        <img src="img/ab-3.jpg" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefi</span><span
-                                    class="red">TS #3</span></div>
-                            <h4 class="red fs-18">The truck and the backup battery</h4>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="imgW-more">
-                            <p class="text-p">
-                                A truck company approached us with a normal problem- we rent trucks and our
-                                backup battery cost is soaring. Basically, they wanted to reduce the backup
-                                battery cost for their fleet. One back up battery cost them 7000 euro and
-                                had its own restrictions. It could not be used in each and every truck. So,
-                                we tabulated the distance covered, fuel consumption in eco mode/start mode,
-                                battery voltage and current data to predict the need for a backup battery
-                                for a given truck. This solved their problem, was cost efficient, smarter
-                                and as promised, easier and upgraded by Tvarit AI. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <!------------------------ Automotives end --------------------->
+   
 
 
 
     <!------------------------Countdown start --------------------->
-    <div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
-        <div class="container">
-            <div class="centerTitle text-big60 text-white">
-                The change we <span class="fw-900">brought</span>
-            </div>
-            <div class="row">
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="22">0</span>
-                            <small>+</small></div>
-                        <div class="text">Highest number of algorithms</div>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="97.2">0</span>
-                            <small>%</small></div>
-                        <div class="text">Accuracy of APA models</div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="0">100</span> <small class="x"></small>
-                        </div>
-                        <div class="text">Time of Transfer Learning from 1 to n Machines </div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="30">0</span>
-                            <small>Mins</small></div>
-                        <div class="text">To Build your AI model</div>
-                    </div>
-                </div>
-            </div>
-            <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
-                Our Proven <span class="fw-900">Results</span>
-            </div>
-            <div class="row">
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="13">0</span>
-                            <small>%</small></div>
-                        <div class="text">Increase in OEE</div>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="30">0</span>
-                            <small>%</small></div>
-                        <div class="text">Decrease in delivery time</div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="12">0</span>
-                            <small>%</small></div>
-                        <div class="text">Decrease in energy costs </div>
-                    </div>
-                </div>
-
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="25">0</span>
-                            <small>%</small></div>
-                        <div class="text">Reduction in quality defects</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php 
+                include 'change_we_brought.php';
+                ?>
     <!------------------------Countdown end --------------------->
 
-    <!------------------------Automated slide start --------------------->
-    <?php 
-                include 'change_we_bring.php';
-                ?>
-    <!------------------------Automated slide end --------------------->
+     
 
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
-                include 'using-tvarit.php';
-                ?>
+    <?php include 'using-tvarit.php';?>
     <!------------------------Client logo slide end --------------------->
 
     <!------------------------try demo start --------------------->

@@ -377,7 +377,7 @@
                                 <li>14 Jahre Aufbau von Start-ups in Deutschland</li>
                                 <li> Arbeitete mit Fortune-500-Unternehmen wie Intel, Qualcomm und anderen</li>
                                 <li> Ex-Präsident TiE Deutschland</li>
-                                <!-- <li>Makes them smarter using our AI Software</li> -->
+                                <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
                         </div>
