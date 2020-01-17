@@ -135,7 +135,7 @@ de
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="index" class="sub-Link">White Paper</a>
+                                            <a href="../whitepapers" class="sub-Link">White Paper</a>
                                         </li>
                                         <li>
                                             <a href="../videos" class="sub-Link">Videos</a>
