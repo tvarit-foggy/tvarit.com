@@ -79,12 +79,12 @@
                         <a class="nav-link" href="../index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Ai Solutions</a>
+                        <a class="nav-link" href="#">AI Solutions</a>
                         <div class="submenu-div">
             <div class="row">
                 <div class="col">
                     <div class="menuQuote">
-                        <div class="textBig">Ai Solutions<span class="red">.</span></div>
+                        <div class="textBig">AI Solutions<span class="red">.</span></div>
                         <!-- <p class="text-normal"> ..... </p> -->
                     </div>
                 </div>
@@ -104,8 +104,8 @@
                                 Companies</a>
                         </li>
                         <li>
-                            <a href="../preductive_quality_for_injection_moulding_machines" class="sub-Link">Preductive
-                                Quality for Injection Moulding Machines</a>
+                            <a href="../predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
+                                Quality for Die-casting Machines</a>
                         </li>
                     </ul>
                 </div>

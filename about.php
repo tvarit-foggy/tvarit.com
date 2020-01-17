@@ -101,8 +101,8 @@
                                 Companies</a>
                         </li>
                         <li>
-                            <a href="preductive_quality_for_injection_moulding_machines" class="sub-Link">Preductive
-                                Quality for Injection Moulding Machines</a>
+                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
+                                Quality for Die-casting Machines</a>
                         </li>
                     </ul>
                 </div>
