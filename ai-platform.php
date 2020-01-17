@@ -835,7 +835,7 @@
             <h5 class="red">
              Want to see Tvarit AI platform in action?
             </h5>
-            <a href="contact.html" class="btn btn-round btn-red-grd">Request Demo</a>
+            <a href="contact" class="btn btn-round btn-red-grd">Request Demo</a>
           </div>
         </div>
       </div>
