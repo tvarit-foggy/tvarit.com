@@ -218,15 +218,16 @@
     <!------------------------ header start ------------------------->
     <header class="headerBg achivemoreBg">
         <div class="container">
-            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
+            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown" style="color:#fff"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <div class="typography">
-                        <div class="text-big60">
+                    <div class="typography optiBgTrns" >
+                        <div class="text-1" >
                             Achieve More
                         </div>
-                        <div class="text-1">
-                            with Tvarit AI Solutions
+                        <div class="content">
+                            <div class="text-big40" style="color:#fff;">
+                            with Tvarit AI Solutions</div>
                         </div>
                         <br>
                         <!-- <p class="text-p">

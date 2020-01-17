@@ -637,8 +637,10 @@ p
     height: 60vh; 
 }
 .achivemoreBg {
-    background: url('../img/achiee_moreBg.png');
-    background-size: contain;
+    background: url('../img/achieve-moreBG.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    height: 60vh; 
 }
 .consultingBg
 {
@@ -2328,8 +2330,7 @@ span.text-big60.red.fw-300.ai_preductive {
 {
     background-color:#0005;
     padding:15px;
-}
-
+} 
 
 /*stick contact icon */
 .sticky-contact-bar {
