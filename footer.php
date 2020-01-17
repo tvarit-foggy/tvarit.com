@@ -262,7 +262,7 @@
 
          <div class="container">
 
-             <div class="row">
+             <div class="row" style="flex-wrap: wrap-reverse;">
                  <div class="col-md-4 section-padding">
                      <div class="ft-about">
                          <h3>We are working for you!</h3>
