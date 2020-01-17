@@ -185,7 +185,7 @@ gtag('config', 'UA-143837547-1');
                         <a class="nav-link" href="ai-platform">AI Platform</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ai-consulting">AI Consulting</a>
+                        <a class="nav-link" href="#">AI Consulting</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
@@ -205,7 +205,7 @@ gtag('config', 'UA-143837547-1');
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about">More</a>
+                        <a class="nav-link" href="#">More</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">

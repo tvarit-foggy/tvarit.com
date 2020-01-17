@@ -1274,6 +1274,7 @@ p
 {
     background:#f74785 url('../img/countBg.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
 }
 .countBg:after
@@ -2205,7 +2206,7 @@ span.text-big60.red.fw-300.ai_preductive {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    z-index: -1;
+    z-index: 1;
 }
 .macbook-position {
     position: absolute;
@@ -2332,6 +2333,7 @@ span.text-big60.red.fw-300.ai_preductive {
 
 /*stick contact icon */
 .sticky-contact-bar {
+    z-index: 9999;
     position: fixed;
     right: 0;
     top: 50%;
