@@ -264,7 +264,7 @@
                 <h4 class="title">Supports:</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                <li>  Receive data from all kinds of IT systems and other business process systems used in the manufacturing units </li>
+                <li>  MES, ERPs, PLCs, Spreadsheets, Logs, SQL, PCs, Batch reports, Lab results, energy meters, historians and quality systems </li>
               </ul>
             </div>
           </div>
