@@ -316,7 +316,7 @@
                 </div>
                 <div class="centerPharseContent text-p">
                     We help large and medium sized cable manufacturing organizations in optimizing their production
-                    processes, improving their management systems and achieving higher profitability
+                    processes, improving their management systems and achieving higher profitability.
                 </div>
             </div>
         </div>

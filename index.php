@@ -361,7 +361,7 @@
                   Available on On-Premise, Cloud and edge-computing
                 </li>
               </ul>
-              <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd"  style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
+              <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd"  style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%">Know More</a>
             </div>
             </div>
           </div>
@@ -386,7 +386,7 @@
                  Available on On-Premise, Cloud and edge-computing
                 </li>
               </ul>
-              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%"> Know More</a>               
+              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%"> Know More</a>               
               </div>
               </div>
           </div>
@@ -405,13 +405,13 @@
                   Covers all your needs like development and implementation of project, data extraction, data preparation, data labelling, data harmonization and AI powered predictive analytics
                 </li>
                 <li>
-                  Managed outside teams and hire  data science experts within hours.
+                  Managed outside teams and hire  data science experts within hours
                 </li>
                 <li>
                   Innovative task based pricing
                 </li>
               </ul>
-              <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:10px;margin-left:20%">Know More</a>
+              <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%">Know More</a>
     </div>
     </div>
           </div>

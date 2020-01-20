@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://www.tvarit.com/sitemap.xml
+Disallow: /career
+Disallow: /career.php
+Sitemap: https://tvarit.com/sitemap/sitemap.xml

@@ -30,6 +30,7 @@
     <title>About us</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/ai_consulting.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/animate.min.css">
@@ -215,26 +216,34 @@
 
 
     <!------------------------ header start ------------------------->
-    <!-- <header class="headerBg aboutBg" id="visiom">
+    <header class="headerBg aboutBg" id="Vision">
         <div class="container">
             <a href="#Team" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
-                <div class="col-md-6">
+                <div class="col-md-6" style="margin-top:45px;">
                     <div class="typography">
                         <div class="text-1">
-                            <span class="tvarit-black">About Tv<span class="color">a</span>r<span
-                                    class="color">i</span>t</span>
+                            <span class="tvarit-black">Who <span class="color"></span>
                         </div>
                         <div class="text-big60 red">
-                            VISION
+                            we are?
                         </div>
                         <br>
-                        <div class="more">
-                            <p class="text-p">
-                                Tvarit GmbH takes pride in being an innovative & a customer-oriented company with
-                                reliable technical roots. We operate with an extensive nexus of technical and business
-                                professionals, withholding years of experience in establishing crucial projects with
-                                MNCs in Europe.
+                        <div>
+                            <p class="text-p" style="width:90%">
+                            We are German company based in Frankfurt, Germany. We build and provide AI solutions to
+                                solve all
+                                kinds of manufacturing problems and data science needs. We enable businesses to make
+                                smart and
+                                informed decisions by deriving actionable and valuable insights from a sea of data.
+
+                                We provide Ai Solutions, AI platform and AI consulting services to successfully
+                                complete
+                                your all AI and data science projects.
+
+                                Recently, we have achieved many prestigious awards for which we were recognized as the
+                                most
+                                innovative AI company in Europe and Germany.
                             </p>
                         </div>
 
@@ -242,27 +251,23 @@
                 </div>
             </div>
         </div>
-    </header> -->
+    </header>
     <!------------------------ header end --------------------------->
 
 
     
 
     <!------------------------ Who we are --------------------->
-    <div class="section-padding" id="Benefits">
+    <!-- <div class="section-padding" id="Benefits">
         <div class="container">
             <div class="row align-items-center">
-                <!-- <div class="col-md">
-                    <div class="AmimgBox">
-                        <img src="img/ab-1.jpg" class="img-fluid">
-                    </div>
-                </div> -->
+                
                 <br>
                 <div class="col-md">
                     <div class="px-4 box-content-left">
                         <br><br>
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Who we are?</span></div>
+                            <div class="text-big60 fw-900"><span class="text-capitalize"></span></div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
@@ -286,7 +291,7 @@
             </div>
 
         </div>
-    </div>
+    </div> -->
 
     <!------------------------ Who we are ----------------------->
 
@@ -588,12 +593,100 @@
     </div>
    
 
+<!------------------------ CONSULTING start --------------------->
+<div class="section-padding">
+        <div class="container">
+        <div class="text-center">
+                <div class="title">
+                    <div class="text-big60">We are proud of what <br> we have achieved</div>
+                    <div class="short-line mx-auto bg-red"></div>
+                </div>
+                <br>
+            <div class="row justify-content-center">
+                <div class="col-md-6 col-lg-4">
+                    <div class="countingNumBox">
+                        <div class="icon">
+                        <img src="img/achived/32_Industry_icon.png" class="img-fluid">
+                        </div>
+                        <div class="content">
+                            <div class="numbers">32+</div>
+                            <div class="text">
+                            Industrial projects successfully completed
+                            </div>
+                        </div>
+                    </div>                    
+                </div>
 
+                <div class="col-md-6 col-lg-4">
+                    <div class="countingNumBox">
+                        <div class="icon">
+                        <img src="img/achived/14_million_euro_icon.png" class="img-fluid">
+                        </div>
+                        <div class="content">
+                            <div class="numbers">14+</div>
+                            <div class="text">
+                            Million euros of customer benefits realized
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                <div class="countingNumBox">
+                        <div class="icon">
+                        <img src="img/achived/20_Big_network_iocn.png" class="img-fluid">
+                        </div>
+                        <div class="content">
+                            <div class="numbers">20+</div>
+                            <div class="text">
+                            Big network of large companies supporting us which makes us independent and flexible
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-4" style="margin-top:20px;">
+                    <div class="countingNumBox">
+                        <div class="icon">
+                        <img src="img/achived/30_min_icon.png" class="img-fluid">
+                        </div>
+                        <div class="content">
+                            <div class="numbers">30 <span style="font-size:30px;">mins<span></div>
+                            <div class="text">
+                            Fastest time to make AI models
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4" style="margin-top:20px;">
+                    <div class="countingNumBox">
+                        <div class="icon">
+                        <img src="img/achived/10_major_awards.png" class="img-fluid">
+                        </div>
+                        <div class="content">
+                            <div class="numbers">10+</div>
+                            <div class="text">
+                            Major awards won
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!------------------------ CONSULTING end --------------------->
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 
     <!------------------------Countdown start --------------------->
     <?php 
                 include 'change_we_brought.php';
                 ?>
+                
     <!------------------------Countdown end --------------------->
 
      

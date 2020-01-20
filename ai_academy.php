@@ -355,7 +355,7 @@
                             </div>
                             <div class="content">
                                 <p class="text-p">
-                                    In one day, you will be able to create your own AI use-cases.
+                                    In one day, you will be able to create your own AI use-cases
                                 </p>
                             </div>
                         </div>
