@@ -14,3 +14,5 @@ RewriteRule ^(.+)\.php$ https://%{HTTP_HOST}/$1 [R=301,L]
 # Resolve .php file for extensionless php urls
 RewriteRule ^([^/.]+)$ $1.php [L]
 
+# Redirect html old link to new link of php
+RewriteRule index.html /index.php [QSA,L]
