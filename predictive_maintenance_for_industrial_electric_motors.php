@@ -377,7 +377,7 @@
                     </div>
                 </div>
                 <div class="col-lg">
-                    <div class="px-4 box-content-left">
+                    <div class="px-lg-4 box-content-left">
                         <div class="title">
                             <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span> </div>
                         </div>
@@ -398,7 +398,7 @@
         <div class="container">
             <div class="row align-items-lg-center">
                 <div class="col-lg order-2 order-lg-1">
-                    <div class="px-4">
+                    <div class="px-lg-4">
                         <div class="title">
                             <div class="text-big60 fw-900"><span class="text-capitalize">Benefits</span></div>
                         </div>

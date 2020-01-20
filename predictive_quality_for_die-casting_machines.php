@@ -242,9 +242,9 @@
         </nav>
     </div>
     <!------------------------ main menu end ------------------------>
-    <header class="headerBg injectionModBg">
+    <header class="headerBg bgSizeCover injectionModBg">
         <div class="container">
-            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown" style="color:#fff;"></i></a>
+            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown text-white"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="typography optiBgTrns">
@@ -252,14 +252,13 @@
                             Predictive Quality for
                         </div>
                         <div class="content">
-                            <div class="text-big60" style="color:#fff">
+                            <div class="text-big60">
                                 Die-casting
                             </div>
-                            <div class="text-big40" style="color:#fff">
+                            <div class="text-big40" st>
                              Process
                             </div>
                         </div>
-                      
                         <br>
                         <a href="http://cloud.tvarit.com" target="_blank"
                             class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
@@ -297,8 +296,6 @@
                     </div>
                 </div>
             </div>
-            <br>
-
         </div>
     </div>
     <!------------------------ Automotives end --------------------->
@@ -367,14 +364,14 @@
 
     <div class="section-padding" id="Benefits">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md">
+            <div class="row align-items-lg-center">
+                <div class="col-lg">
                     <div class="AmimgBox">
                         <img src="img/Use-case_die-casting-Motor_B.jpg" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
+                <div class="col-lg">
+                    <div class="px-lg-4 box-content-left">
                         <div class="title">
                             <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span></div>
                         </div>
@@ -397,8 +394,8 @@ machine for next batches. Price of each motor: 15000 euros.
 
             <div class="row align-items-center">
 
-                <div class="col-md order-2 order-md-1">
-                    <div class="px-4">
+                <div class="col-lg order-2 order-lg-1">
+                    <div class="px-lg-4">
                         <div class="title">
                             <div class="text-big60 fw-900"><span class="text-capitalize">Benefits</span></div>
                         </div>
@@ -414,7 +411,7 @@ machine for next batches. Price of each motor: 15000 euros.
                     </div>
                 </div>
 
-                <div class="col-md order-1 order-md-2">
+                <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
                         <img src="img/benefits-die-casting-machine.jpg" class="img-fluid">
                     </div>
@@ -431,7 +428,7 @@ machine for next batches. Price of each motor: 15000 euros.
         <div class="container white-box-shadow">
 
             <div class="row align-items-center">
-                <div class="col-md-6">
+                <div class="col-lg-6">
                     <div class="lookingBox rerBg-grd">
                         <div class="text text-white">
                             <span class="fs-18  fw-400">Request for</span>
@@ -443,7 +440,7 @@ machine for next batches. Price of each motor: 15000 euros.
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-lg-6">
                     <div class="lookingBox brdr-black">
                         <div class="text">
                             <span class="fs-18  fw-400">for more details</span>
