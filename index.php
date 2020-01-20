@@ -341,9 +341,9 @@
         
         <br>
 
-        <div class="row justify-content-center weOfferBox" style="position:relative">
+        <div class="row justify-content-center weOfferBox">
           <div class="col-md-4">
-            <div  class="featureBox" style="position:relative">
+            <div  class="featureBox">
               <div class="icon" >
                 <img src="img/ai-solution-1.png" >
               </div>
@@ -361,7 +361,7 @@
                   Available on On-Premise, Cloud and edge-computing
                 </li>
               </ul>
-              <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd"  style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%">Know More</a>
+              <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
             </div>
             </div>
           </div>
@@ -386,7 +386,7 @@
                  Available on On-Premise, Cloud and edge-computing
                 </li>
               </ul>
-              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%"> Know More</a>               
+              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore"> Know More</a>               
               </div>
               </div>
           </div>
@@ -411,9 +411,9 @@
                   Innovative task based pricing
                 </li>
               </ul>
-              <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%">Know More</a>
-    </div>
-    </div>
+                <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+            </div>
+            </div>
           </div>
 
         </div>
@@ -422,9 +422,8 @@
     <!------------------------ Features end --------------------->
 
     <!------------------------ why needed start --------------------->
-    <div class="section-padding">
+    <div class="section-padding-both">
       <div class="container">
-        
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="videoWrapper">
@@ -436,8 +435,7 @@
 
             <div class="px-4 box-content-left">
               <div class="title">
-               <div class="text-first red">Why</div>
-               <div class="text-big60">Us?</div>
+               <div class="text-big60"><span class="red">Why</span> Us?</div>
               </div>
               <div class="short-line bg-red"></div>
                 <p class="text-p">
@@ -451,28 +449,16 @@
     </div>
     <!------------------------ why needed end ----------------------->
 
-    
-
-
     <!------------------------Countdown start --------------------->
     <?php
     include 'change_we_brought.php'
     ?>
     <!------------------------Countdown end --------------------->
 
-   
-
-
-    <!------------------------Automated slide start --------------------->
-     
-    <!------------------------Automated slide end --------------------->
-
-    
-
     <section class="section-padding">
       <div class="container">
         <div class="centerTitle">
-          <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
+          <h3 class="bold text-center red mb-2">We talk in all the languages used by</h3>
           <div class="text-big60">Manufacturing companies</div>
         </div>
         <br>

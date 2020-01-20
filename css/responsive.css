@@ -1,7 +1,22 @@
 
 @media screen and (max-width: 574px){
-
-  
+    
+  :root
+    {
+        --fs-40: calc(40px - 15px) !important;
+        --fs-42: calc(42px - 15px) !important;
+        --fs-44: calc(44px - 15px) !important;
+        --fs-46: calc(46px - 20px) !important;
+        --fs-48: calc(48px - 20px) !important;
+        --fs-50: calc(50px - 30px) !important;
+        --fs-60: calc(60px - 30px) !important;
+        --fs-70: calc(70px - 30px) !important;
+        --fs-80: calc(80px - 30px) !important;3
+        --hdr-Tvrit: 86px;
+        --hdr-industrial: 42px;
+        --hdr-prgf: 14px;
+        --hdr-germany: 20px;
+    }
    .macbook-position {
         height: 146px;
         max-width: 260px !important;
@@ -16,26 +31,48 @@
         width: 149%;
     }
 
-    .hdr-tvarit {
-        font-size: 86px !important;
-        }
-
-    .hdr-industrial {
-        font-size: 42px !important;
+    .hdr-prgf, .hdr-prgf2r {
+        min-height: 40px;
     }
-
-    .hdr-germany {
-        font-size: 16px !important;
+    .hdr-prgf2r
+    {
+        text-align: left;
     }
 
     .flag {
         width: 78px;
     }
 
-
+    .lookingBox 
+    {
+        display: block;
+    }
 }
 
 @media (max-width:767px) {
+
+    :root
+    {
+        --fs-20: calc(20px - 5px);
+        --fs-22: calc(22px - 5px);
+        --fs-24: calc(24px - 5px);
+        --fs-26: calc(26px - 5px);
+        --fs-28: calc(28px - 5px);
+        --fs-30: calc(30px - 10px);
+        --fs-32: calc(32px - 10px);
+        --fs-34: calc(34px - 10px);
+        --fs-36: calc(36px - 10px);
+        --fs-38: calc(38px - 10px);
+        --fs-40: calc(40px - 20px);
+        --fs-42: calc(42px - 20px);
+        --fs-44: calc(44px - 20px);
+        --fs-46: calc(46px - 20px);
+        --fs-48: calc(48px - 20px);
+        --fs-50: calc(50px - 20px);
+        --fs-60: calc(60px - 20px);
+        --fs-70: calc(70px - 20px);
+        --fs-80: calc(80px - 20px);
+    }
 
     .headerBg {
         height: auto;
@@ -71,6 +108,7 @@
     .featureBox,.featureBox .icon,.featureBox .title,.featureBox .text-p {
         text-align: center;
     }
+
     .contactBox {
         display: block;
         padding: 40px;
@@ -105,21 +143,7 @@
         padding: 20px 0;
     }
 
-    .box-content-left
-    {
-        text-align: center;
-    }
-    .box-content-left *,.box-content-right * {
-        text-align: center;
-    }
-    .box-content-left .short-line,.box-content-right .short-line {
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .AmimgBox {
-        margin-bottom: 30px;
-    }
+    
 
     .fourbox .hrline-main
     {
@@ -284,9 +308,7 @@
         left: 0;
         position: absolute;
     }
-    .indexMainBg .typography {
-        padding-top: 50px;
-    }
+   
     .indexMainBg .typography .text-1,.aiconsultingBg .typography .text-1 {
         font-size: 18px;
         width: 100%;
@@ -307,38 +329,36 @@
     .weOfferBox .featureBox
     {
         text-align: left;
+        height: auto;
+        margin-bottom: 30px;
+    }
+
+    .btn-knowmore {
+        position: relative;
+        bottom: 0;
     }
     .ul-logobox li {
         width: 49%;
         list-style: none;
     }
-
-        
-    .hdr-tvarit {
-        font-size: 138px;
-    }
-
-    .hdr-industrial {
-        font-size: 67px;
-    }
-    .hdr-germany {
-        font-size: 32px;
-    }
-     .ml11 {
-        font-size: 20px;
-      }
-
-    .text-big40 {
-        font-size: 20px;
-    }
-
     .ul-list-50 li {
         width: 96%;
     }
-   
+    
+    .weOfferBox .featureBox .title
+    {
+        text-align: left;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1198px) {
+    :root{
+        --hdr-Tvrit: 80px;
+        --hdr-industrial: 40px;
+        --hdr-prgf: 16px;
+        --hdr-germany: 18px;
+        
+    }
     .headerBg {
             margin-bottom: 60px;
         }
@@ -348,19 +368,6 @@
     .bringSlideSection .pdn-l-col {
         padding-left: 80px;
     }
-    
-   .hdr-tvarit {
-        font-size: 95px;
-    }
-
-    .hdr-industrial {
-        font-size: 46px;
-    }
-
-    .hdr-germany {
-        font-size: 16px;
-    }
-    
     
 }
 
@@ -403,6 +410,19 @@
 }
 @media screen and (max-width: 991px) {
 
+    :root
+    {
+        
+        --fs-40: calc(40px - 10px);
+        --fs-42: calc(42px - 10px);
+        --fs-44: calc(44px - 10px);
+        --fs-46: calc(46px - 10px);
+        --fs-48: calc(48px - 10px);
+        --fs-50: calc(50px - 10px);
+        --fs-60: calc(60px - 10px);
+        --fs-70: calc(70px - 10px);
+        --fs-80: calc(80px - 10px);
+    }
    .main-menu .navbar {
         padding: 10px 15px;
     }
@@ -513,23 +533,11 @@
         margin-bottom: 20px;
         position: relative;
     }
-    .text-big60 {
-        font-size: 30px;
-    }
-    .typography .text-1 {
-        font-size: 18px;
-    }
-    .typography .text-2 {
-        font-size: 16px;
-    }
     .typography .ul-list li {
         margin-bottom: 15px;
         font-size: 12px;
     }
-    h3
-    {
-        font-size: 24px;
-    }
+    
     .centerPharseContent {
         width: 100%;
     }
@@ -569,6 +577,15 @@
         margin: auto;
     }
 
+   
+    .box-content-left *,.box-content-right * {
+        text-align: left;
+    }
+
+    .AmimgBox {
+        margin-bottom: 30px;
+    }
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -576,8 +593,6 @@
    .headerBg video {
         width: 150%;
     }
-
-
     
 }
 
@@ -594,6 +609,30 @@
 }
 
 
+/* iPads pro  (portrait and landscape) ----------- */
+    /* Landscape*/
+    @media only screen 
+    and (min-device-width: 1024px) 
+    and (max-device-width: 1366px) 
+    and (-webkit-min-device-pixel-ratio: 2)  
+    and (orientation: landscape)  {
+        .indexMainBg {
+            height: 60vh;
+        }
+    }
+
+    /* Portrait*/
+    @media only screen 
+    and (min-device-width: 1024px) 
+    and (max-device-width: 1366px) 
+    and (-webkit-min-device-pixel-ratio: 2)  
+    and (orientation: portrait)  {
+
+        .indexMainBg {
+            height: 60vh;
+        }
+    }
+
 /* iPads and iphones  (portrait and landscape) ----------- */
 @media only screen 
 and (min-device-width : 768px) 
@@ -601,16 +640,13 @@ and (max-device-width : 1024px)
 and (orientation : landscape)
 and (-webkit-min-device-pixel-ratio: 1)  { 
     
-    .hdr-tvarit {
-        font-size: 72px;
+    :root{
+        --hdr-Tvrit: 72px;
+        --hdr-industrial: 35px;
+        --hdr-prgf: 16px;
+        --hdr-germany: 18px;
+        
     }
-    .hdr-industrial {
-        font-size: 35px;
-    }
-    .hdr-germany {
-        font-size: 18px;
-    }
-    
 }
 
 @media only screen 
@@ -619,10 +655,8 @@ and (max-device-width : 1024px)
 and (orientation : portrait) 
 and (-webkit-min-device-pixel-ratio: 1) {
     .indexMainBg {
-    height: 50vh;
-}
-   
-
+        height: 42vh !important;
+    }
  }
 
 /* ----------- iPhone 4, 5, 6 ----------- */
@@ -633,18 +667,17 @@ and (-webkit-min-device-pixel-ratio: 1) {
   and (max-device-width: 573px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
+
+    :root{
+        --hdr-Tvrit: 70px;
+        --hdr-industrial: 35px;
+        --hdr-prgf: 14px;
+        --hdr-germany: 20px;
+        
+    }
     .macbook-sec {
         margin-bottom: 60px;
         padding-top: 100px !important;
-    }
-    .hdr-tvarit {
-        font-size: 70px !important;
-    }
-    .hdr-industrial {
-        font-size: 34px !important;
-    }
-    .hdr-germany {
-        font-size: 16px !important;
     }
     .flag {
         width: 40px;
@@ -668,23 +701,92 @@ and (-webkit-min-device-pixel-ratio: 1) {
     }
 }
 
-/* Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 573px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: landscape) { 
-    
-  
-
+/*----------- Nexus 6 (portrait) ----------- */
+@media only screen and (device-width : 400px) and (orientation: portrait) {
+    :root{
+        --hdr-germany: 30px !important;
+    }
+    .hdr-prgf2r {
+        text-align: left !important;
+    }
 }
+/*----------- Nexus 7 (portrait) ----------- */
+@media only screen and (device-width : 600px) and (orientation: portrait) {
+    :root{
+        --hdr-germany: 30px !important;
+    }
+    .hdr-prgf2r {
+        text-align: left !important;
+    }
+}
+
 @media (min-width: 1270px) and (max-width: 1290px) {
     .indexMainBg {
         height: 75vh;
     }
 }
-@media (min-width: 1024px) and (max-width: 1250px) {
-    .indexMainBg {
-        height: 42vh;
+
+
+
+@media screen and (min-width: 1900px) { 
+
+    :root
+    {
+        --fs-10: calc(10px * 2);
+        --fs-12: calc(12px * 2);
+        --fs-14: calc(14px * 2);
+        --fs-16: calc(16px * 2);
+        --fs-18: calc(18px * 2);
+        --fs-20: calc(20px * 2);
+        --fs-22: calc(22px * 2);
+        --fs-24: calc(24px * 2);
+        --fs-26: calc(26px * 2);
+        --fs-28: calc(28px * 2);
+        --fs-30: calc(30px + 20px);
+        --fs-32: calc(32px + 20px);
+        --fs-34: calc(34px + 20px);
+        --fs-36: calc(36px + 20px);
+        --fs-38: calc(38px + 20px);
+        --fs-40: calc(40px + 20px);
+        --fs-42: calc(42px + 20px);
+        --fs-44: calc(44px + 20px);
+        --fs-46: calc(46px + 20px);
+        --fs-48: calc(48px + 20px);
+        --fs-50: calc(50px + 20px);
+        --fs-60: calc(60px + 20px);
+        --fs-70: calc(70px + 20px);
+        --fs-80: calc(80px + 20px);
+        --hdr-Tvrit: calc(103px * 2);
+        --hdr-industrial: calc(50px * 2);
+        --hdr-prgf: calc(20px * 2);
+        --hdr-germany: calc(30px * 2);
+    }
+   .container {
+        max-width: 1870px;
+    }
+    .main-menu .navbar {
+        max-width: 1870px;
+        margin: auto;
+    }
+    .flag {
+        width: 115px;
+    }
+    .videoWrapper .videoFrame {
+        height: 640px;
+    }
+    .formBox .form-control
+    {
+        height: calc(2.25rem * 2);
+    }
+    .formBox textarea.form-control
+    {
+        height: calc(3.25rem * 2);
+    }
+    .navbar img {
+        width: 230px;
+    }
+    .weOfferBox .featureBox
+    {
+        padding-bottom: 50px;
     }
 }
