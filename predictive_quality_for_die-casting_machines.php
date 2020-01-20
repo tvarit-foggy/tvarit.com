@@ -382,7 +382,7 @@
                         <div class="imgW-more">
                             <p class="text-p">
                             Predicting the quality status of wheel coming from die-casting
-machine for next batches. Price of each motor: 15000 euros
+machine for next batches. Price of each motor: 15000 euros.
                             </p>
                         </div>
                     </div>
@@ -405,10 +405,10 @@ machine for next batches. Price of each motor: 15000 euros
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <ul class="ul-list-bullet">
-                                <li>Reduce number of defected pieces by 76%.</li>
-                                <li>Real time production view.</li>
-                                <li>Increased know-how.</li>
-                                <li>Measurable economic benefits.</li>
+                                <li>Reduce number of defected pieces by 76%</li>
+                                <li>Real time production view</li>
+                                <li>Increased know-how</li>
+                                <li>Measurable economic benefits</li>
                             </ul>
                         </div>
                     </div>

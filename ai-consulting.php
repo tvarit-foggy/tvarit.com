@@ -239,7 +239,7 @@
                 <div class="text-p">
                     Our experts help you at every stage of your data science projects. We help you in solving key issues
                     of data extraction, data preparation, data labelling and predictive analytics. We provide both on-site
-                    and remote based consulting services
+                    and remote based consulting services.
                 </div>
             </div>
 
@@ -327,14 +327,14 @@
                                 <img src="img/1.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                DATA EXTRACTION AND ENGINEERING
+                                DATA EXTRACTION AND INTEGRATION
                             </div>
                             <div class="content">
                                 <div>
                                     <p class="text-p">
                                         The movement of data to and from systems and enablmenent
                                         of data pipelines, workflows, systems and processes to facilitate data science
-                                        operations.
+                                        operations
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         now</a>
@@ -439,7 +439,7 @@
             </div>
             <br>
             <div class="text-center">
-                <a href="ai-consulting-knowmore" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Know
+                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Know
                     more</a>
             </div>
 
@@ -555,20 +555,20 @@
         translateX: [0, document.querySelector('.ml11 .letters').getBoundingClientRect().width + 20],
         easing: "easeOutExpo",
         duration: 1000,
-        delay: 1000
+        delay: 100
     }).add({
         targets: '.ml11 .letter',
         opacity: [0,1],
         easing: "easeOutExpo",
-        duration: 2000,
+        duration: 100,
         offset: '-=775',
         delay: (el, i) => 34 * (i+1)
     }).add({
         targets: '.ml11',
         opacity: 0,
-        duration: 1000,
+        duration: 2000,
         easing: "easeOutExpo",
-        delay: 1000
+        delay: 1200
     });
     </script>
 
