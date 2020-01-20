@@ -2407,7 +2407,8 @@ span.text-big60.red.fw-300.ai_predictive {
 .optiBgTrns .text-1
 {
     background-color:#fff;
-    padding:5px 15px;
+    padding:15px;
+    line-height: 1;
 }
 .optiBgTrns .content
 {

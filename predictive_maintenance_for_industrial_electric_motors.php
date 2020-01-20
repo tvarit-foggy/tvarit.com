@@ -242,28 +242,22 @@
         </nav>
     </div>
     <!------------------------ main menu end ------------------------>
-    <header class="headerBg electricMotorBg">
+    <header class="headerBg bgSizeCover electricMotorBg">
         <div class="container">
-            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown" style="color:#fff;"></i></a>
+            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown text-white" ></i></a>
             <div class="row align-items-center">
-                <div class="col-md-6">
+                <div class="col-lg-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1" >
                             Predictive Maintenance for
                         </div>
                         <div class="content">
-                            <div class="text-big60"  style="color:#fff">
+                            <div class="text-big60">
                                 Industrial
                             </div>
-                            <div class="text-big40"  style="color:#fff">
+                            <div class="text-big40">
                                 Electric Motors
                             </div>
-                        </div>
-                        <br>
-                        <div class="more">
-                            <p class="text-p">
-
-                            </p>
                         </div>
                         <br>
                         <a href="http://cloud.tvarit.com" target="_blank"
@@ -285,13 +279,13 @@
             </div>
             <br>
             <br>
-            <div class="row align-items-center">
-                <div class="col-md">
+            <div class="row align-items-lg-center">
+                <div class="col-lg">
                     <div class="AmimgBox">
                         <img src="./img/predic1.png" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-md">
+                <div class="col-lg">
                     <div class="box-content-top-left">
                         <ul class="ul-list-bullet">
                             <li>Real time prediction of various maintenance attributes</li>
@@ -376,14 +370,14 @@
     <div class="section-padding" id="Benefits">
         <div class="container">
 
-            <div class="row align-items-center">
-                <div class="col-md">
+            <div class="row align-items-lg-center">
+                <div class="col-lg">
                     <div class="AmimgBox">
                         <img src="img/USE-CASE_Electric motor_Printing-press.jpg" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
+                <div class="col-lg">
+                    <div class="px-lg-4 box-content-left">
                         <div class="title">
                             <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span> </div>
                         </div>
@@ -402,11 +396,9 @@
 
     <div class="section-padding">
         <div class="container">
-
-            <div class="row align-items-center">
-
-                <div class="col-md order-2 order-md-1">
-                    <div class="px-4">
+            <div class="row align-items-lg-center">
+                <div class="col-lg order-2 order-lg-1">
+                    <div class="px-lg-4">
                         <div class="title">
                             <div class="text-big60 fw-900"><span class="text-capitalize">Benefits</span></div>
                         </div>
@@ -422,7 +414,7 @@
                     </div>
                 </div>
 
-                <div class="col-md order-1 order-md-2">
+                <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
                         <img src="img/benefits-electric-motor-printing-press.jpg" class="img-fluid">
                     </div>
