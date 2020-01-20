@@ -1,8 +1,38 @@
-
+:root
+{
+    --shadow:rgba(0, 0, 0, 0.22);
+    --fs-10: 10px;
+    --fs-12: 12px;
+    --fs-14: 14px;
+    --fs-16: 16px;
+    --fs-18: 18px;
+    --fs-20: 20px;
+    --fs-22: 22px;
+    --fs-24: 24px;
+    --fs-26: 26px;
+    --fs-28: 28px;
+    --fs-32: 32px;
+    --fs-34: 34px;
+    --fs-36: 36px;
+    --fs-38: 38px;
+    --fs-40: 40px;
+    --fs-42: 42px;
+    --fs-44: 44px;
+    --fs-46: 46px;
+    --fs-48: 48px;
+    --fs-50: 50px;
+    --fs-60: 60px;
+    --fs-70: 70px;
+    --fs-80: 80px;
+    --hdr-Tvrit: 130px;
+    --hdr-industrial: 64px;
+    --hdr-prgf: 24px;
+    --hdr-germany: 36px;
+}
 
 body {
 
-    font-size: 14px;
+    font-size: var(--fs-14);
     color: #222;
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
@@ -31,70 +61,113 @@ a,a:hover,a:visited
 {
     text-decoration: none;
 }
-
+h1
+{
+    font-size: var(--fs-40);
+}
+h2
+{
+   font-size: var(--fs-32);
+}
+h3
+{
+    font-size: var(--fs-28);
+}
+h4
+{
+    font-size: var(--fs-24);
+}
+h5
+{
+    font-size: var(--fs-20);
+}
 .fs-8
 {
     font-size: 8px;
 }
 .fs-10
 {
-    font-size: 10px;
+    font-size: var(--fs-10);
 }
 .fs-12
 {
-    font-size: 12px;
+    font-size: var(--fs-12);
 }
 .fs-14
 {
-    font-size: 14px;
+    font-size: var(--fs-14);
 }
 .fs-16
 {
-    font-size: 16px;
+    font-size: var(--fs-16);
 }
 .fs-18
 {
-    font-size:18px;
+    font-size: var(--fs-18);
 }
 .fs-20
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
 }
 .fs-22
 {
-    font-size: 22px;
+    font-size: var(--fs-22);
 }
 .fs-24
 {
-    font-size: 24px;
+    font-size: var(--fs-24);
 }
 .fs-26
 {
-    font-size: 26px;
+    font-size: var(--fs-26);
 }
 .fs-28
 {
-    font-size: 28px;
+    font-size: var(--fs-28);
 }
 .fs-30
 {
-    font-size: 30px;
+   font-size: var(--fs-30);
+}
+.fs-32
+{
+    font-size: var(--fs-32);
 }
 .fs-34
 {
-    font-size: 34px;
+    font-size: var(--fs-34);
+}
+.fs-36
+{
+    font-size: var(--fs-36);
+}
+.fs-38
+{
+    font-size: var(--fs-38);
 }
 .fs-40
 {
-    font-size: 40px;
+    font-size: var(--fs-40);
+}
+.fs-42
+{
+    font-size: var(--fs-42);
 }
 .fs-44
 {
-    font-size: 44px;
+    font-size: var(--fs-44);
 }
 .fs-48
 {
-    font-size: 48px;
+    font-size: var(--fs-48);
+}
+.fs-50
+{
+    font-size: var(--fs-50);
+}
+.fs-60
+{
+    font-size: var(--fs-60);
 }
 
 .fw-100
@@ -136,42 +209,42 @@ a,a:hover,a:visited
 
 .text-big80
 {
-    font-size: 80px;
+    font-size: var(--fs-80);
     line-height: 1;
     font-weight: 900;
     text-transform: uppercase;
 }
 .text-big60
 {
-    font-size: 60px;
+    font-size: var(--fs-60);
     line-height: 1;
     font-weight: 900;
     text-transform: uppercase;
 }
 .text-big50
 {
-    font-size: 50px;
+    font-size: var(--fs-50);
     line-height: 1;
     font-weight: 900;
     text-transform: uppercase;
 }
 .text-big40
 {
-    font-size: 40px;
+    font-size: var(--fs-40);
     line-height: 1;
     font-weight: 900;
     text-transform: uppercase;
 }
 .text-big20
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
     line-height: 1;
     font-weight: 900;
     text-transform: uppercase;
 }
 .text-big10
 {
-    font-size: 10px;
+    font-size: var(--fs-10);
     line-height: 1;
     font-weight: 900;
     text-transform: uppercase;
@@ -202,18 +275,18 @@ a,a:hover,a:visited
 }
 p
 {
-    font-size: 14px;
+    font-size: var(--fs-14);
 }
 .btn
 {
-    font-size: 12px;
+    font-size: var(--fs-12);
     font-weight: 700;
     padding: 12px 24px;
     text-decoration: none;
 }
 .btn-shadow
 {
-    box-shadow: 1px 7px 40px #0000003b;
+    box-shadow: 1px 7px 40px var(--shadow);
 }
 .btn-round
 {
@@ -297,7 +370,7 @@ p
     
 }
 .main-menu .navbar-nav .nav-link {
-    font-size: 15px;
+    font-size: var(--fs-14);
     font-weight: 500;
     color: #222;
     letter-spacing: 1px;
@@ -376,7 +449,7 @@ p
     right: 0;
     z-index: 2;
     background: #fff;
-    box-shadow: 0 0 10px #0000002d;
+    box-shadow: 0 0 10px var(--shadow);
 }
 
 .fixed-menu.sticky .nav-link, .fixed-menu.sticky .navbar-nav .nav-item.active .nav-link, .fixed-menu.sticky .navbar-brand {
@@ -413,7 +486,7 @@ p
     display: none;
     padding: 30px 70px;
     background: #fff;
-    box-shadow: 0 7px 30px #0000003d;
+    box-shadow: 0 7px 30px var(--shadow);
     position: absolute;
     left: auto;
     right: 0;
@@ -425,7 +498,7 @@ p
 }
 .submenu-div .title
 {
-    font-size:18px;
+    font-size: var(--fs-18);
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -434,7 +507,7 @@ p
 
 .menuQuote .textBig
 {
-    font-size: 60px;
+    font-size: var(--fs-60);
     line-height: 1;
     font-weight: 900;
     text-transform: uppercase;
@@ -442,14 +515,14 @@ p
 }
 .menuQuote .clientName
 {
-    font-size: 18px;
+    font-size: var(--fs-18);
     text-transform: uppercase;
     font-weight: bold;
     color: #ed1b4a;
 }
 .menuQuote .clientCategory
 {
-    font-size: 14px;
+    font-size: var(--fs-14);
     font-weight: 600;
 }
 .menuQuote .text-normal
@@ -462,7 +535,7 @@ p
 .menuQuote .text-normal:after,.menuQuote .text-normal:before
 {
     position: absolute;
-    font-size: 30px;
+    font-size: var(--fs-30);
     font-weight: bold;
     color: #ed1b4a;
 }
@@ -502,7 +575,7 @@ p
 {
     color: #222;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: var(--fs-14);
     padding: 5px 0;
     display: block;
     position: relative;
@@ -680,7 +753,10 @@ p
     position: relative;
     background-position: top right;
 }
-
+.bgSizeCover
+{
+    background-size: cover;
+}
 .headerBg video { 
     position: absolute;
     top: 0;
@@ -736,7 +812,7 @@ p
 }
 .typography .text-1
 {
-    font-size: 34px;
+    font-size: var(--fs-34);
     font-weight: bold;
     color: #ed1b4a;
     text-transform: uppercase;
@@ -745,7 +821,7 @@ p
 .typography .text-2
 {
     color: #222;
-    font-size: 60px;
+    font-size: var(--fs-60);
     line-height: 1;
     font-weight: 900;
     text-transform: uppercase;
@@ -753,7 +829,7 @@ p
 .typography .text-p
 {
     color: #222;
-    font-size: 14px;
+    font-size: var(--fs-14);
     width: 35%;
 }
 .headerBg .container,.headerBg .row
@@ -785,7 +861,7 @@ p
 
 .title .text-20
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
     font-weight: 600;
 }
 .short-line
@@ -800,13 +876,13 @@ p
 .text-normal,.text-p
 {
     color: #555555;
-    font-size: 16px;
+    font-size: var(--fs-16);
     line-height: 2;
 }
 .text-medium
 {
     color: #555555;
-    font-size: 16px;
+    font-size: var(--fs-16);
     line-height: 2;
 }
 .offset-bottom
@@ -821,7 +897,7 @@ p
 .cardblock
 {
     padding:20px;
-    box-shadow:0 12px 70px #0000003d;
+    box-shadow:0 12px 70px var(--shadow);
     border-radius: 10px;
     width: 300px;
     margin: 10px;
@@ -839,12 +915,12 @@ p
 .cardblock  .title
 {
     font-weight: bold;
-    font-size: 20px;
+    font-size: var(--fs-20);
     margin-bottom: 10px;
 }
 .cardblock p
 {
-   font-size: 12px;
+   font-size: var(--fs-12);
 }
 .cardblock:hover .readmorebtn
 {
@@ -881,7 +957,7 @@ p
     padding: 5px;
     background: #fff;
     line-height: 0;
-    box-shadow:0 6px 20px #0000003d;
+    box-shadow:0 6px 20px var(--shadow);
 }
 .videoWrapper .videoFrame
 {
@@ -941,7 +1017,7 @@ p
 }
 .featureBox:hover
 {
-    box-shadow:0 3px 50px #0000003d;
+    box-shadow:0 3px 50px var(--shadow);
 }
 .featureBox .icon
 {
@@ -954,7 +1030,7 @@ p
 .featureBox .title
 {
     font-weight: bold;
-    font-size: 14px;
+    font-size: var(--fs-14);
     text-transform: uppercase;
     margin-bottom: 10px;
 }
@@ -975,7 +1051,7 @@ p
 {
     color: #f3346c;
     margin-top: 10px;
-    font-size: 12px;
+    font-size: var(--fs-12);
 }
 .bringSlideSection .row {
     margin-right: 0px;
@@ -1001,7 +1077,7 @@ p
     display: block;
     width: 100%;
     height: 100%;
-    box-shadow:0 7px 30px #0000003d;
+    box-shadow:0 7px 30px var(--shadow);
 
     overflow: hidden;
     transition: all 0.35s;
@@ -1037,7 +1113,7 @@ p
 }
 .automText
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
     font-weight: 400;
     text-align: center;
     padding: 20px 10px;
@@ -1062,7 +1138,7 @@ p
 
 .automtv-carousel .flickity-button{
     opacity: 1;
-    box-shadow:0 5px 20px #0000003d;
+    box-shadow:0 5px 20px var(--shadow);
     background: hsla(0, 0%, 100%, 1);
 }
 
@@ -1079,7 +1155,7 @@ p
 .titleDemo
 {
     text-align: center;
-    font-size: 40px;
+    font-size: var(--fs-40);
     color: #fff;
     font-weight: 400;
 }
@@ -1106,7 +1182,7 @@ p
 
 .ft-about h3,.ft-social h3
 {
-    font-size: 24px; 
+    font-size: var(--fs-24); 
     font-weight: bold;
     margin-bottom: 20px;
 }
@@ -1120,7 +1196,7 @@ p
 }
 .social-icon a
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
     color: #222222;
     margin-right: 30px;
 }
@@ -1133,7 +1209,7 @@ p
     border-radius:0px;
     width: 100%;
     height: 100%;
-    box-shadow:0 12px 60px #0000003d;
+    box-shadow:0 12px 60px var(--shadow);
     overflow: hidden;
     position: relative;
     top: -40px;
@@ -1141,14 +1217,14 @@ p
 
 .text-contact
 {
-    font-size: 34px;
+    font-size: var(--fs-34);
     font-weight: bold;
     padding-right: 20px;
     line-height: 1;
 }
 .formContent .text-contact
 {
-    font-size: 34px;
+    font-size: var(--fs-34);
     text-transform: uppercase;
     margin-bottom: 20px;
     font-weight: 900;
@@ -1166,6 +1242,8 @@ p
     border-radius: 0;
     box-shadow: none;
     padding: 24px 0;
+    font-size: var(--fs-14);
+    height: calc(2.25rem + 2);
 }
 
 .ul-list,.ul-list-fw-700
@@ -1175,6 +1253,7 @@ p
 .ul-list li
 {
     margin-bottom: 15px;
+    font-size: var(--fs-14);
 }
 
 .ul-list-fw-700 li
@@ -1186,7 +1265,7 @@ p
 .ul-list-bullet
 {
     display: block;
-    padding-left: 15px;
+    padding-left: 0;
 }
 .ul-list-bullet li
 {
@@ -1312,7 +1391,7 @@ p
 
 .countBox .figure
 {
-    font-size: 60px;
+    font-size: var(--fs-60);
     display: flex;
     align-items: center;
     text-align: center;
@@ -1323,11 +1402,11 @@ p
 }
 .countBox .figure small
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
 }
 .countBox .text
 {
-    font-size: 14px;
+    font-size: var(--fs-14);
     font-weight: 400;
 }
 
@@ -1340,11 +1419,14 @@ p
 {
     width: 100%;
     height: auto;
-    box-shadow:0 12px 60px #0000003d;
+    box-shadow:0 12px 60px var(--shadow);
     overflow: hidden;
     position: relative;
 }
-
+.AmimgBox img
+{
+    width: 100%;
+}
 .centerPharseContent
 {
     width: 70%;
@@ -1355,7 +1437,7 @@ p
 
 .hdrscrollArrow i
 {
-    font-size: 30px;
+    font-size: var(--fs-44);
     color: #222;
     transform: rotate(90deg);
 }
@@ -1373,7 +1455,7 @@ p
 {
    padding: 30px;
     background: #fff;
-    box-shadow: 0 9px 38px #0000003d;
+    box-shadow: 0 9px 38px var(--shadow);
 }
 
 .lookingBox
@@ -1431,7 +1513,7 @@ p
 
 .ctnDetailBox h4
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
 }
 .ctnDetailBox
 {
@@ -1439,7 +1521,7 @@ p
 }
 .ctnDetailBox h3
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
     margin-bottom: 10px;
 }
 .ctnDetailBox p
@@ -1449,7 +1531,7 @@ p
 .ft-links a
 {
     color: #222;
-    font-size: 13px;
+    font-size: var(--fs-14);
     padding:2px 20px;
 }
 .ft-links a:first-child
@@ -1470,7 +1552,7 @@ p
     transition: all 0.35s;
     text-align: center;
     margin-bottom: 10px;
-    box-shadow:0 3px 50px #0000003d;
+    box-shadow:0 3px 50px var(--shadow);
 }
 
 .ourBox.rerBg-grd *
@@ -1480,7 +1562,7 @@ p
 
 .ourBox .title
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
     font-weight: bold;
     margin-bottom: 20px;
     text-transform: uppercase;
@@ -1500,7 +1582,7 @@ p
 {
     display: block;
     color: #222;
-    font-size: 18px;
+    font-size: var(--fs-18);
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -1518,7 +1600,7 @@ p
     border: none; 
     border-radius: 0;
     margin-bottom: 10px;
-    box-shadow: 0 2px 10px #00000030;
+    box-shadow: 0 2px 10px var(--shadow);
 }
 
 .card-body
@@ -1528,7 +1610,7 @@ p
 
 .card-body h4
 {
-    font-size: 14px;
+    font-size: var(--fs-14);
     margin-bottom: 20px;
     color: #ed1b4a;
     font-weight: bold;
@@ -1544,7 +1626,7 @@ p
 {
     display: flex;
     align-items: center;
-    box-shadow: 0 2px 14px #0000003d;
+    box-shadow: 0 2px 14px var(--shadow);
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -1604,12 +1686,12 @@ p
 }
 
 .md-center-title .text-first {
-    font-size: 30px;
+    font-size: var(--fs-30);
     font-weight: bold;
     text-transform: uppercase;
 }
 .box-content-left .title .text-first {
-    font-size: 30px;
+    font-size: var(--fs-30);
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -1628,10 +1710,10 @@ p
     padding: 10px 20px;
     height: 44px;
     border-radius: 50px;
-    box-shadow: 0 1px 7px #00000030;
+    box-shadow: 0 1px 7px var(--shadow);
     padding-right: 60px;
     border: none;
-    font-size: 14px;
+    font-size: var(--fs-14);
 }
 
 .cstmInput .addon .btn,.cstmInput .addon-item {
@@ -1668,7 +1750,7 @@ p
 {
     background: #fff;
     margin-bottom: 20px;
-    box-shadow: 0 9px 38px #0000003d;
+    box-shadow: 0 9px 38px var(--shadow);
 }
 .blogBox .blogPic
 {
@@ -1684,7 +1766,7 @@ p
     background:#fff;
     padding: 7px 15px;
     color: #222;
-    font-size: 12px;
+    font-size: var(--fs-12);
     border-radius: 0 20px 20px 0 ;
     font-weight: bold;
 }
@@ -1695,7 +1777,7 @@ p
 
 .blogBox .content .title
 {
-    font-size: 18px;
+    font-size: var(--fs-18);
     font-weight: bold;
     text-transform: capitalize;
     color: #ed1b4a;
@@ -1799,11 +1881,11 @@ p
     height: 30px;
     width: 30px;
     margin: auto;
-    font-size: 30px;
+    font-size: var(--fs-30);
     z-index: 1;
     color: #fff;
     text-decoration: none;
-    box-shadow: 0 0 20px #0000003d;
+    box-shadow: 0 0 20px var(--shadow);
     
 }
 
@@ -1814,7 +1896,7 @@ p
 }
 
 .videoPageBlog .blogBox .content .title {
-    font-size: 14px;
+    font-size: var(--fs-14);
     font-weight: bold;
     color: #222;
 }
@@ -1854,7 +1936,7 @@ ul.accordion li a.toggle {
     display: block;
     position: relative;
     background: #fff;
-    box-shadow: 0 2px 10px #00000030;
+    box-shadow: 0 2px 10px var(--shadow);
     color: #222;
     font-weight: bold;
     padding: 0.75em;
@@ -1901,7 +1983,7 @@ ul.accordion li a.toggle:hover {
     width: 90%;
     margin: auto;
     background: #fff;
-    box-shadow: 0px 3px 16px #0000003d;
+    box-shadow: 0px 3px 16px var(--shadow);
     top: -10px;
     position: relative;
     padding: 15px;
@@ -1920,7 +2002,7 @@ ul.accordion li a.toggle:hover {
 }
 .news-content .title
 {
-    font-size: 14px;
+    font-size: var(--fs-14);
     font-weight: bold;
     line-height: 1.5;
      margin-bottom: 15px;
@@ -1940,7 +2022,7 @@ ul.accordion li a.toggle:hover {
 
 .dateNtitle
 {
-    font-size: 12px;
+    font-size: var(--fs-12);
     margin-bottom: 20px;
     text-decoration: none;
     color: #222;
@@ -2104,8 +2186,9 @@ span.text-big60.red.fw-300.ai_predictive {
     text-decoration: none;
     color: #222;
     padding: 0px;
-    box-shadow: 0 3px 50px #0000003d;
+    box-shadow: 0 3px 50px var(--shadow);
     height: 100%;
+    position: relative;
 }
 
 .weOfferBox .inner-container
@@ -2149,7 +2232,7 @@ span.text-big60.red.fw-300.ai_predictive {
 .weOfferBox .featureBox .title
 {
     font-weight: bold;
-    font-size: 40px;
+    font-size: var(--fs-40);
     line-height: 1;
     margin-bottom: 10px;
     text-transform: capitalize;   
@@ -2165,15 +2248,15 @@ span.text-big60.red.fw-300.ai_predictive {
 }
 .text-big30
 {
-    font-size: 30px;
+    font-size: var(--fs-30);
 }
 .text-big40
 {
-    font-size: 40px;
+    font-size: var(--fs-40);
 }
 .text-big50
 {
-    font-size: 50px;
+    font-size: var(--fs-50);
 }
 .p-half
 {
@@ -2197,9 +2280,9 @@ span.text-big60.red.fw-300.ai_predictive {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 30px;
+    font-size: var(--fs-30);
     color: #fff;
-    box-shadow: 0 3px 50px #0000003d;
+    box-shadow: 0 3px 50px var(--shadow);
 }
 /*-----------css 15-01-2020 --------*/
 .aiplatformBg
@@ -2245,12 +2328,12 @@ span.text-big60.red.fw-300.ai_predictive {
     border: none;
 }
 .hdr-tvarit {
-    font-size: 114px;
+    font-size: var(--hdr-Tvrit);
     color: #fff;
     font-weight: bold;
 }
 .hdr-industrial {
-    font-size: 56px;
+    font-size: var(--hdr-industrial);
     color: #fff;
     font-weight: bold;
     margin-bottom: 20px;
@@ -2263,7 +2346,7 @@ span.text-big60.red.fw-300.ai_predictive {
 .hdr-prgf,.hdr-prgf2r
 {
     color: #fff;
-    font-size: 24px;
+    font-size: var(--hdr-prgf);
     width: 100%;
     min-height: 80px;
 }
@@ -2284,7 +2367,7 @@ span.text-big60.red.fw-300.ai_predictive {
     padding: 0 20px;
     width: 100%;
     padding-right: 0;
-    font-size: 36px;
+    font-size: var(--hdr-germany);
     font-weight: 900;
     display: flex;
     justify-content: space-between;
@@ -2324,12 +2407,14 @@ span.text-big60.red.fw-300.ai_predictive {
 .optiBgTrns .text-1
 {
     background-color:#fff;
-    padding:5px 15px;
+    padding:15px;
+    line-height: 1;
 }
 .optiBgTrns .content
 {
     background-color:#0005;
     padding:15px;
+    color: #fff;
 } 
 
 /*stick contact icon */
@@ -2348,7 +2433,7 @@ span.text-big60.red.fw-300.ai_predictive {
     padding: 0px;
     transition: all 0.3s ease;
     color: white;
-    font-size: 20px;
+    font-size: var(--fs-20);
 }
 .sticky-contact-bar a:hover {
     /* background-color: #fff9; */
@@ -2363,7 +2448,7 @@ span.text-big60.red.fw-300.ai_predictive {
   /* animation text */
   .ml11 {
     font-weight: 700;
-    font-size: 30px;
+    font-size: var(--fs-30);
   }
   
   .ml11 .text-wrapper {
@@ -2393,3 +2478,21 @@ span.text-big60.red.fw-300.ai_predictive {
     display: inline-block;
     line-height: 1em;
   }
+
+
+/*----------------- css 20-01-2020 -----------------*/
+.btn-knowmore
+{
+    position: absolute;
+    bottom: 2%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: inline-block;
+    width: fit-content;
+}
+
+.text-white
+{
+    color: #fff;
+}
