@@ -425,7 +425,7 @@
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                 <li> Suggests business to gauge the effectiveness of the predictions as they would be cautioned in advance to rely or not to rely on the novelty and non-novelty points. </li>
+                 <li> Suggests business to gauge the effectiveness of the predictions as they would be cautioned in advance to rely or not to rely on the novelty and non-novelty points </li>
               </ul>
             </div>
           </div>

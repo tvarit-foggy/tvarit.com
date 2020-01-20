@@ -66,12 +66,13 @@
     font-size: 60px;
     line-height: 1;
     font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
 }
 .countingNumBox .text
 {
     font-size: 15px;
+    text-align: left;
 }
-
 
 .bxSqtp
 {

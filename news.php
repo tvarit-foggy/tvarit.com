@@ -253,222 +253,11 @@
         </div>
     </header>
     <!------------------------ header end --------------------------->
+
     <br>
-    <div class="clearfix"></div>
+     <!------------------------ Automotives start --------------------->
 
-
-    <div class="section-padding" id="Event">
-        <div class="container">
-
-            <div class="title md-center-title">
-                <div class="text-first red">Upcoming</div>
-                <div class="text-big60">Events</div>
-                <div class="short-line bg-red"></div>
-            </div>
-
-            <br>
-
-            <div class="news-carousel up-event owl-carousel owl-theme" id="new-carousel">
-
-                <!--<div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/vivatech.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">VivaTech Paris is calling</div>
-                            <h4 class="title">Tvarit presenting at VivaTech Paris</h4>
-                            <div class="post-text">
-                                News Post <span class="date">16-18th May</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
-             
-
-
-            </div>
-
-        </div>
-    </div>
-
-    <div class="section-padding-both  bg-light-section">
-        <div class="container">
-
-            <div class="title md-center-title">
-                <div class="text-first red">Past</div>
-                <div class="text-big60">Events</div>
-                <div class="short-line bg-red"></div>
-            </div>
-
-            <br>
-
-            <div class="news-carousel past-event owl-carousel owl-theme">
-            <div class="item">
-                    <a href="/sps-smart-production-solution" target="_blank" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/SPS-2019.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">SPS 2019</div>
-                            <h4 class="title">Smart Production Solutions is Europe's number 1 exhibition for automation.
-                                SPS 2019 will take place from 26 to 28 November at Nurnberg Messe.
-                            </h4>
-                            <div class="post-text">
-                                <span class="date">26 to 28 November 2019 Nurnberg Messe</span>
-                                <br><br>
-                                <span class="read-more-link">Read More</span>
-
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="https://www.iaa.de/" target="_blank" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/Logo_IAA.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">IAA Motorshow</div>
-                            <h4 class="title"> </h4>
-                            <div class="post-text">
-                                <span class="date">11-13 September frankfurt</span>
-                                <br><br>
-                                <span class="read-more-link">Read More</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="item">
-                    <a href="https://www.ifa-berlin.com/" target="_blank" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/IFA_Logo_2019.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">IFA 2019</div>
-                            <h4 class="title">Come and witness the most revolutionary AI product in Europe's no.1
-                                consumer electronics show in Berlin. We are looking forward to welcome you on 08th
-                                September at booth 307c
-                            </h4>
-                            <div class="post-text">
-                                <span class="date">6-11 Sept. 2019 Berlin</span>
-                                <br><br>
-                                <span class="read-more-link">Read More</span>
-
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/logo_zvei.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">ZVEI Jahreskongress Berlin</div>
-                            <h4 class="title">Tvarit has been invited to showcase its ‘AI for Manufacturing’ software at
-                                Germany’s biggest electronics association annual conference</h4>
-                            <div class="post-text">
-                                <!-- <span class="date">22-23th May</span> -->
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!--<div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="./img/pic-1.jpg" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">Indian Consulate in Frankfurt</div>
-                            <h4 class="title">Tvarit taking workshop at Indian Consulate in Frankfurt, making people
-                                aware about AI’s use cases
-                            </h4>
-                            <div class="post-text"> 
-                             News Post <span class="date">02,2019</span> 
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
-
-                <!--   <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/pic-2.jpg" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">German Associations of Startups: Tvarit GmbH</div>
-                            <h4 class="title">Innoloft (Energieloft)</h4>
-                            <h4 class="title"> TiE Deutschland</h4>
-                            <h4 class="title"> Bundesverband Deutsche Startups e.V.</h4>
-                            <h4 class="title"> Artificial Intelligence & Future Mobility Platform</h4>
-                            <h4 class="title"> Startup Autobahn</h4>
-                            <h4 class="title"> 27pilots
-                            </h4>
-
-                            <div class="post-text">
-                                News Post <span class="date">02,2019</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
-
-                <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">Hannover Messe</div>
-                            <h4 class="title">Tvarit GmbH launching its ‘AI for Manufacturing’ software to other
-                                countries at Hannover Messe and being interviewed by YourStory</h4>
-
-                            <!-- <div class="post-text">-->
-                            <!--  News Post <span class="date">02,2019</span>-->
-                            <!--</div>-->
-                        </div>
-                    </a>
-                </div>
-
-                <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/reference2.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">TiE Deutschland awarding Tvarit</div>
-                            <h4 class="title">The Best Industrial Startup Award’ in conference</h4>
-                            <!--<div class="post-text">-->
-                            <!--  News Post <span class="date">02,2019</span>-->
-                            <!--</div>-->
-                        </div>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/bauma_logo.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">Bauma Munich</div>
-                            <h4 class="title">Tvarit exhibiting its ‘AI for Manufacturing’ software to construction
-                                companies at Bauma Munich</h4>
-                            <!--<div class="post-text">-->
-                            <!--  News Post <span class="date">02,2019</span>-->
-                            <!--</div>-->
-                        </div>
-                    </a>
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-
-    <!------------------------ Automotives start --------------------->
-
-    <div class="section-padding-both">
+     <div class="section-padding-both">
         <div class="container-fluid">
             <div class="centerTitle text-big60">
                 Latest <span class="fw-900">News</span>
@@ -774,6 +563,219 @@
     </div>
 
     <!------------------------ Automotives end --------------------->
+    <div class="clearfix"></div>
+
+
+    <div class="section-padding" id="Event">
+        <div class="container">
+
+            <div class="title md-center-title">
+                <div class="text-first red">Upcoming</div>
+                <div class="text-big60">Events</div>
+                <div class="short-line bg-red"></div>
+            </div>
+
+            <br>
+
+            <div class="news-carousel up-event owl-carousel owl-theme" id="new-carousel">
+
+                <!--<div class="item">
+                    <a href="javascript://" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/partners_img/vivatech.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">VivaTech Paris is calling</div>
+                            <h4 class="title">Tvarit presenting at VivaTech Paris</h4>
+                            <div class="post-text">
+                                News Post <span class="date">16-18th May</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>-->
+             
+
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="section-padding-both  bg-light-section">
+        <div class="container">
+
+            <div class="title md-center-title">
+                <div class="text-first red">Past</div>
+                <div class="text-big60">Events</div>
+                <div class="short-line bg-red"></div>
+            </div>
+
+            <br>
+
+            <div class="news-carousel past-event owl-carousel owl-theme">
+            <div class="item">
+                    <a href="/sps-smart-production-solution" target="_blank" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/SPS-2019.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">SPS 2019</div>
+                            <h4 class="title">Smart Production Solutions is Europe's number 1 exhibition for automation.
+                                SPS 2019 will take place from 26 to 28 November at Nurnberg Messe.
+                            </h4>
+                            <div class="post-text">
+                                <span class="date">26 to 28 November 2019 Nurnberg Messe</span>
+                                <br><br>
+                                <span class="read-more-link">Read More</span>
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="https://www.iaa.de/" target="_blank" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/partners_img/Logo_IAA.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">IAA Motorshow</div>
+                            <h4 class="title"> </h4>
+                            <div class="post-text">
+                                <span class="date">11-13 September frankfurt</span>
+                                <br><br>
+                                <span class="read-more-link">Read More</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a href="https://www.ifa-berlin.com/" target="_blank" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/partners_img/IFA_Logo_2019.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">IFA 2019</div>
+                            <h4 class="title">Come and witness the most revolutionary AI product in Europe's no.1
+                                consumer electronics show in Berlin. We are looking forward to welcome you on 08th
+                                September at booth 307c
+                            </h4>
+                            <div class="post-text">
+                                <span class="date">6-11 Sept. 2019 Berlin</span>
+                                <br><br>
+                                <span class="read-more-link">Read More</span>
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="javascript://" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/partners_img/logo_zvei.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">ZVEI Jahreskongress Berlin</div>
+                            <h4 class="title">Tvarit has been invited to showcase its ‘AI for Manufacturing’ software at
+                                Germany’s biggest electronics association annual conference</h4>
+                            <div class="post-text">
+                                <!-- <span class="date">22-23th May</span> -->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <!--<div class="item">
+                    <a href="javascript://" class="newsBox">
+                        <div class="news-pic">
+                            <img src="./img/pic-1.jpg" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">Indian Consulate in Frankfurt</div>
+                            <h4 class="title">Tvarit taking workshop at Indian Consulate in Frankfurt, making people
+                                aware about AI’s use cases
+                            </h4>
+                            <div class="post-text"> 
+                             News Post <span class="date">02,2019</span> 
+                            </div>
+                        </div>
+                    </a>
+                </div>-->
+
+                <!--   <div class="item">
+                    <a href="javascript://" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/pic-2.jpg" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">German Associations of Startups: Tvarit GmbH</div>
+                            <h4 class="title">Innoloft (Energieloft)</h4>
+                            <h4 class="title"> TiE Deutschland</h4>
+                            <h4 class="title"> Bundesverband Deutsche Startups e.V.</h4>
+                            <h4 class="title"> Artificial Intelligence & Future Mobility Platform</h4>
+                            <h4 class="title"> Startup Autobahn</h4>
+                            <h4 class="title"> 27pilots
+                            </h4>
+
+                            <div class="post-text">
+                                News Post <span class="date">02,2019</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>-->
+
+                <div class="item">
+                    <a href="javascript://" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">Hannover Messe</div>
+                            <h4 class="title">Tvarit GmbH launching its ‘AI for Manufacturing’ software to other
+                                countries at Hannover Messe and being interviewed by YourStory</h4>
+
+                            <!-- <div class="post-text">-->
+                            <!--  News Post <span class="date">02,2019</span>-->
+                            <!--</div>-->
+                        </div>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a href="javascript://" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/partners_img/reference2.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">TiE Deutschland awarding Tvarit</div>
+                            <h4 class="title">The Best Industrial Startup Award’ in conference</h4>
+                            <!--<div class="post-text">-->
+                            <!--  News Post <span class="date">02,2019</span>-->
+                            <!--</div>-->
+                        </div>
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="javascript://" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/partners_img/bauma_logo.png" class="img-fluid">
+                        </div>
+                        <div class="news-content">
+                            <div class="text-sub">Bauma Munich</div>
+                            <h4 class="title">Tvarit exhibiting its ‘AI for Manufacturing’ software to construction
+                                companies at Bauma Munich</h4>
+                            <!--<div class="post-text">-->
+                            <!--  News Post <span class="date">02,2019</span>-->
+                            <!--</div>-->
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+   
 
 
     <!------------------------Countdown start --------------------->
