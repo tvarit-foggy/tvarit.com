@@ -422,9 +422,8 @@
     <!------------------------ Features end --------------------->
 
     <!------------------------ why needed start --------------------->
-    <div class="section-padding">
+    <div class="section-padding-both">
       <div class="container">
-        
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="videoWrapper">
@@ -450,23 +449,11 @@
     </div>
     <!------------------------ why needed end ----------------------->
 
-    
-
-
     <!------------------------Countdown start --------------------->
     <?php
     include 'change_we_brought.php'
     ?>
     <!------------------------Countdown end --------------------->
-
-   
-
-
-    <!------------------------Automated slide start --------------------->
-     
-    <!------------------------Automated slide end --------------------->
-
-    
 
     <section class="section-padding">
       <div class="container">
