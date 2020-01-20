@@ -1437,7 +1437,7 @@ p
 
 .hdrscrollArrow i
 {
-    font-size: var(--fs-30);
+    font-size: var(--fs-44);
     color: #222;
     transform: rotate(90deg);
 }
