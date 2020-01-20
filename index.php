@@ -436,7 +436,8 @@
 
             <div class="px-4 box-content-left">
               <div class="title">
-               <div class="text-big60"><span class="red">Why</span> Us?</div>
+               <div class="text-first red">Why</div>
+               <div class="text-big60">Us?</div>
               </div>
               <div class="short-line bg-red"></div>
                 <p class="text-p">
