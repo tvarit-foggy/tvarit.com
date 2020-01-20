@@ -449,7 +449,7 @@ p
     right: 0;
     z-index: 2;
     background: #fff;
-    box-shadow: 0 0 10px #0000002d;
+    box-shadow: 0 0 10px var(--shadow);
 }
 
 .fixed-menu.sticky .nav-link, .fixed-menu.sticky .navbar-nav .nav-item.active .nav-link, .fixed-menu.sticky .navbar-brand {
@@ -486,7 +486,7 @@ p
     display: none;
     padding: 30px 70px;
     background: #fff;
-    box-shadow: 0 7px 30px #0000003d;
+    box-shadow: 0 7px 30px var(--shadow);
     position: absolute;
     left: auto;
     right: 0;
@@ -753,7 +753,10 @@ p
     position: relative;
     background-position: top right;
 }
-
+.bgSizeCover
+{
+    background-size: cover;
+}
 .headerBg video { 
     position: absolute;
     top: 0;
@@ -894,7 +897,7 @@ p
 .cardblock
 {
     padding:20px;
-    box-shadow:0 12px 70px #0000003d;
+    box-shadow:0 12px 70px var(--shadow);
     border-radius: 10px;
     width: 300px;
     margin: 10px;
@@ -954,7 +957,7 @@ p
     padding: 5px;
     background: #fff;
     line-height: 0;
-    box-shadow:0 6px 20px #0000003d;
+    box-shadow:0 6px 20px var(--shadow);
 }
 .videoWrapper .videoFrame
 {
@@ -1014,7 +1017,7 @@ p
 }
 .featureBox:hover
 {
-    box-shadow:0 3px 50px #0000003d;
+    box-shadow:0 3px 50px var(--shadow);
 }
 .featureBox .icon
 {
@@ -1074,7 +1077,7 @@ p
     display: block;
     width: 100%;
     height: 100%;
-    box-shadow:0 7px 30px #0000003d;
+    box-shadow:0 7px 30px var(--shadow);
 
     overflow: hidden;
     transition: all 0.35s;
@@ -1135,7 +1138,7 @@ p
 
 .automtv-carousel .flickity-button{
     opacity: 1;
-    box-shadow:0 5px 20px #0000003d;
+    box-shadow:0 5px 20px var(--shadow);
     background: hsla(0, 0%, 100%, 1);
 }
 
@@ -1206,7 +1209,7 @@ p
     border-radius:0px;
     width: 100%;
     height: 100%;
-    box-shadow:0 12px 60px #0000003d;
+    box-shadow:0 12px 60px var(--shadow);
     overflow: hidden;
     position: relative;
     top: -40px;
@@ -1262,7 +1265,7 @@ p
 .ul-list-bullet
 {
     display: block;
-    padding-left: 15px;
+    padding-left: 0;
 }
 .ul-list-bullet li
 {
@@ -1416,11 +1419,14 @@ p
 {
     width: 100%;
     height: auto;
-    box-shadow:0 12px 60px #0000003d;
+    box-shadow:0 12px 60px var(--shadow);
     overflow: hidden;
     position: relative;
 }
-
+.AmimgBox img
+{
+    width: 100%;
+}
 .centerPharseContent
 {
     width: 70%;
@@ -1449,7 +1455,7 @@ p
 {
    padding: 30px;
     background: #fff;
-    box-shadow: 0 9px 38px #0000003d;
+    box-shadow: 0 9px 38px var(--shadow);
 }
 
 .lookingBox
@@ -1546,7 +1552,7 @@ p
     transition: all 0.35s;
     text-align: center;
     margin-bottom: 10px;
-    box-shadow:0 3px 50px #0000003d;
+    box-shadow:0 3px 50px var(--shadow);
 }
 
 .ourBox.rerBg-grd *
@@ -1620,7 +1626,7 @@ p
 {
     display: flex;
     align-items: center;
-    box-shadow: 0 2px 14px #0000003d;
+    box-shadow: 0 2px 14px var(--shadow);
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -1744,7 +1750,7 @@ p
 {
     background: #fff;
     margin-bottom: 20px;
-    box-shadow: 0 9px 38px #0000003d;
+    box-shadow: 0 9px 38px var(--shadow);
 }
 .blogBox .blogPic
 {
@@ -1879,7 +1885,7 @@ p
     z-index: 1;
     color: #fff;
     text-decoration: none;
-    box-shadow: 0 0 20px #0000003d;
+    box-shadow: 0 0 20px var(--shadow);
     
 }
 
@@ -1977,7 +1983,7 @@ ul.accordion li a.toggle:hover {
     width: 90%;
     margin: auto;
     background: #fff;
-    box-shadow: 0px 3px 16px #0000003d;
+    box-shadow: 0px 3px 16px var(--shadow);
     top: -10px;
     position: relative;
     padding: 15px;
@@ -2180,7 +2186,7 @@ span.text-big60.red.fw-300.ai_predictive {
     text-decoration: none;
     color: #222;
     padding: 0px;
-    box-shadow: 0 3px 50px #0000003d;
+    box-shadow: 0 3px 50px var(--shadow);
     height: 100%;
     position: relative;
 }
@@ -2276,7 +2282,7 @@ span.text-big60.red.fw-300.ai_predictive {
     justify-content: center;
     font-size: var(--fs-30);
     color: #fff;
-    box-shadow: 0 3px 50px #0000003d;
+    box-shadow: 0 3px 50px var(--shadow);
 }
 /*-----------css 15-01-2020 --------*/
 .aiplatformBg
@@ -2407,6 +2413,7 @@ span.text-big60.red.fw-300.ai_predictive {
 {
     background-color:#0005;
     padding:15px;
+    color: #fff;
 } 
 
 /*stick contact icon */
@@ -2482,4 +2489,9 @@ span.text-big60.red.fw-300.ai_predictive {
     margin: auto;
     display: inline-block;
     width: fit-content;
+}
+
+.text-white
+{
+    color: #fff;
 }

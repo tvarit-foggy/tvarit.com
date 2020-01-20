@@ -43,18 +43,16 @@
         width: 78px;
     }
 
-
+    .lookingBox 
+    {
+        display: block;
+    }
 }
 
 @media (max-width:767px) {
 
     :root
     {
-        --fs-10: calc(10px - 2px);
-        --fs-12: calc(12px - 2px);
-        --fs-14: calc(14px - 2px);
-        --fs-16: calc(16px - 2px);
-        --fs-18: calc(18px - 2px);
         --fs-20: calc(20px - 5px);
         --fs-22: calc(22px - 5px);
         --fs-24: calc(24px - 5px);
@@ -145,21 +143,7 @@
         padding: 20px 0;
     }
 
-    .box-content-left
-    {
-        text-align: center;
-    }
-    .box-content-left *,.box-content-right * {
-        text-align: center;
-    }
-    .box-content-left .short-line,.box-content-right .short-line {
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .AmimgBox {
-        margin-bottom: 30px;
-    }
+    
 
     .fourbox .hrline-main
     {
@@ -593,6 +577,15 @@
         margin: auto;
     }
 
+   
+    .box-content-left *,.box-content-right * {
+        text-align: left;
+    }
+
+    .AmimgBox {
+        margin-bottom: 30px;
+    }
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -735,9 +728,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
 
 
-@media 
-(-webkit-min-device-pixel-ratio: 2), 
-(min-resolution: 192dpi) { 
+@media screen and (min-width: 1900px) { 
 
     :root
     {
@@ -773,7 +764,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
    .container {
         max-width: 1870px;
     }
-  .main-menu .navbar {
+    .main-menu .navbar {
         max-width: 1870px;
         margin: auto;
     }
