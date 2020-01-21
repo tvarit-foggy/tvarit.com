@@ -272,8 +272,8 @@
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="title centerTitle">
-                <span class="text-big60 red fw-300 ai_predictive">AI based Production Planning solution for <br> Cable
+            <div class="title">
+                <span class="text-big40 ai_predictive"> <span class="red">AI</span> based Production Planning solution for <br> Cable
                     Manufacturing</span>
             </div>
             <br>

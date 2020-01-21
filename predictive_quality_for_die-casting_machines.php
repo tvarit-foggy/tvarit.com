@@ -255,7 +255,7 @@
                             <div class="text-big60">
                                 Die-casting
                             </div>
-                            <div class="text-big40" st>
+                            <div class="text-big40">
                              Process
                             </div>
                         </div>
@@ -272,8 +272,8 @@
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="title centerTitle">
-                <span class="text-big60 red fw-300 ai_predictive">Predictive Quality for <br> Die-casting
+            <div class="title">
+                <span class="text-big40 ai_predictive">Predictive Quality for  Die-c<span class="red">a</span>st<span class="red">i</span>ng
                     Process</span>
             </div>
             <br>

@@ -272,10 +272,9 @@
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="title centerTitle">
-                <span class="text-big60 red fw-300 ai_predictive">Predictive Maintenance for 
-                    <br>
-                 Industrial Electric Motors</span>
+            <div class="title">
+                <span class="text-big40 ai_predictive">Predictive M<span class="red">ai</span>ntenance for  
+                 Industrial <br> Electric Motors</span>
             </div>
             <br>
             <br>

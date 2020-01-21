@@ -271,8 +271,8 @@
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="title centerTitle">
-                <span class="text-big60 red fw-300 ai_predictive">Optimize OEE for <br> Steel Coil Manufacturing</span>
+            <div class="title ">
+                <span class="text-big40 ai_predictive">Optimize OEE for Steel Coil Manuf<span class="red">a</span>ctur<span class="red">i</span>ng</span>
             </div>
             <br>
             <div class="row align-items-lg-center">
