@@ -238,32 +238,11 @@
      <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
      <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
      <!------------------------try demo start --------------------->
-     <div class="tryDemobg">
-         <div class="container text-center">
-             <!-- <div class="centerTitle text-white text-big60">
-                 TRY DEMO <span class="fw-900">NOW</span>
-             </div> -->
-             <br>
-             <!-- <div class="row justify-content-center">
-                 <div class="col-md-8">
-                     <div class="form-group">
-                         <div class="addon">
-                             <input type="text" class="form-control" id="emailDemo" placeholder="EMAIL">
-                             <input type="button" value="Send" id="btnDemo" class="btn btn-round btn-red-grd">
-                         </div>
-                     </div>
-                 </div>
-             </div> -->
-         </div>
-     </div>
-     <!------------------------try demo end --------------------->
-     <footer>
-
-
+    
+     <footer class="section-padding-both">
          <div class="container">
-
-             <div class="row" style="flex-wrap: wrap-reverse;">
-                 <div class="col-md-4 section-padding">
+             <div class="row align-items-md-center">
+                 <div class="col-md-4">
                      <div class="ft-about">
                          <h3>We are working for you!</h3>
                          <div class="ftaboutmore">

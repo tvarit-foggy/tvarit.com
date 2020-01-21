@@ -1,6 +1,6 @@
 <div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
     <div class="container">
-        <div class="centerTitle text-big60 text-white">
+        <div class="centerTitle sec-mainTitle text-white">
             The change we <span class="fw-900">brought</span>
         </div>
         <div class="row">
@@ -32,7 +32,7 @@
                 </div>
             </div>
         </div>
-        <div class="centerTitle text-big60 text-white" style="margin-top:40px;">
+        <div class="centerTitle sec-mainTitle text-white" style="margin-top:40px;">
             Our Proven <span class="fw-900">Results</span>
         </div>
         <div class="row">

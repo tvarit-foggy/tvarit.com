@@ -1,7 +1,23 @@
+<<<<<<< HEAD
 
 @media screen and (max-width: 574px){
-
-  
+    
+  :root
+    {
+        --fs-40: calc(40px - 15px) !important;
+        --fs-42: calc(42px - 15px) !important;
+        --fs-44: calc(44px - 15px) !important;
+        --fs-46: calc(46px - 20px) !important;
+        --fs-48: calc(48px - 20px) !important;
+        --fs-50: calc(50px - 30px) !important;
+        --fs-60: calc(60px - 30px) !important;
+        --fs-70: calc(70px - 30px) !important;
+        --fs-80: calc(80px - 30px) !important;3
+        --hdr-Tvrit: 86px;
+        --hdr-industrial: 42px;
+        --hdr-prgf: 14px;
+        --hdr-germany: 20px;
+    }
    .macbook-position {
         height: 146px;
         max-width: 260px !important;
@@ -16,26 +32,55 @@
         width: 149%;
     }
 
-    .hdr-tvarit {
-        font-size: 86px !important;
-        }
-
-    .hdr-industrial {
-        font-size: 42px !important;
+    .hdr-prgf, .hdr-prgf2r {
+        min-height: 40px;
     }
-
-    .hdr-germany {
-        font-size: 16px !important;
+    .hdr-prgf2r
+    {
+        text-align: left;
     }
 
     .flag {
         width: 78px;
     }
 
+    .lookingBox 
+    {
+        display: block;
+    }
+
+    .client-carousel .carousel-cell
+    {
+        width: 100%;
+        border: none;
+    }
 
 }
 
 @media (max-width:767px) {
+
+    :root
+    {
+        --fs-20: calc(20px - 5px);
+        --fs-22: calc(22px - 5px);
+        --fs-24: calc(24px - 5px);
+        --fs-26: calc(26px - 5px);
+        --fs-28: calc(28px - 5px);
+        --fs-30: calc(30px - 10px);
+        --fs-32: calc(32px - 10px);
+        --fs-34: calc(34px - 10px);
+        --fs-36: calc(36px - 10px);
+        --fs-38: calc(38px - 10px);
+        --fs-40: calc(40px - 20px);
+        --fs-42: calc(42px - 20px);
+        --fs-44: calc(44px - 20px);
+        --fs-46: calc(46px - 20px);
+        --fs-48: calc(48px - 20px);
+        --fs-50: calc(50px - 20px);
+        --fs-60: calc(60px - 20px);
+        --fs-70: calc(70px - 20px);
+        --fs-80: calc(80px - 20px);
+    }
 
     .headerBg {
         height: auto;
@@ -57,7 +102,14 @@
         max-width: 540px;
         margin: auto;
     }
-    
+    .achivemore-menu .ul-sub-menu img
+    {
+       display: none;
+    }
+    .achivemore-menu .col
+    {
+       display: block !important;
+    }
     .videoWrapper
     {
         margin-bottom: 20px;
@@ -71,6 +123,7 @@
     .featureBox,.featureBox .icon,.featureBox .title,.featureBox .text-p {
         text-align: center;
     }
+
     .contactBox {
         display: block;
         padding: 40px;
@@ -105,21 +158,7 @@
         padding: 20px 0;
     }
 
-    .box-content-left
-    {
-        text-align: center;
-    }
-    .box-content-left *,.box-content-right * {
-        text-align: center;
-    }
-    .box-content-left .short-line,.box-content-right .short-line {
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .AmimgBox {
-        margin-bottom: 30px;
-    }
+    
 
     .fourbox .hrline-main
     {
@@ -284,9 +323,7 @@
         left: 0;
         position: absolute;
     }
-    .indexMainBg .typography {
-        padding-top: 50px;
-    }
+   
     .indexMainBg .typography .text-1,.aiconsultingBg .typography .text-1 {
         font-size: 18px;
         width: 100%;
@@ -307,38 +344,36 @@
     .weOfferBox .featureBox
     {
         text-align: left;
+        height: auto;
+        margin-bottom: 30px;
+    }
+
+    .btn-knowmore {
+        position: relative;
+        bottom: 0;
     }
     .ul-logobox li {
         width: 49%;
         list-style: none;
     }
-
-        
-    .hdr-tvarit {
-        font-size: 138px;
-    }
-
-    .hdr-industrial {
-        font-size: 67px;
-    }
-    .hdr-germany {
-        font-size: 32px;
-    }
-     .ml11 {
-        font-size: 20px;
-      }
-
-    .text-big40 {
-        font-size: 20px;
-    }
-
     .ul-list-50 li {
         width: 96%;
     }
-   
+    
+    .weOfferBox .featureBox .title
+    {
+        text-align: left;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1198px) {
+    :root{
+        --hdr-Tvrit: 80px;
+        --hdr-industrial: 40px;
+        --hdr-prgf: 16px;
+        --hdr-germany: 18px;
+        
+    }
     .headerBg {
             margin-bottom: 60px;
         }
@@ -348,19 +383,6 @@
     .bringSlideSection .pdn-l-col {
         padding-left: 80px;
     }
-    
-   .hdr-tvarit {
-        font-size: 95px;
-    }
-
-    .hdr-industrial {
-        font-size: 46px;
-    }
-
-    .hdr-germany {
-        font-size: 16px;
-    }
-    
     
 }
 
@@ -403,6 +425,19 @@
 }
 @media screen and (max-width: 991px) {
 
+    :root
+    {
+        
+        --fs-40: calc(40px - 10px);
+        --fs-42: calc(42px - 10px);
+        --fs-44: calc(44px - 10px);
+        --fs-46: calc(46px - 10px);
+        --fs-48: calc(48px - 10px);
+        --fs-50: calc(50px - 10px);
+        --fs-60: calc(60px - 10px);
+        --fs-70: calc(70px - 10px);
+        --fs-80: calc(80px - 10px);
+    }
    .main-menu .navbar {
         padding: 10px 15px;
     }
@@ -421,9 +456,9 @@
         right: 0;
         top: 0;
         bottom: 0;
-        width: 200px;
+        width: 210px;
         height: 100%;
-        transform: translateX(220px);
+        transform: translateX(230px);
         transition: all 0.35s;
         background: #fff;
         box-shadow: -4px 4px 16px #0000002d;
@@ -435,7 +470,7 @@
     }
 
     .submenu-div {
-        padding: 10px 10px;
+        padding:0 10px;
         background: #fff;
         box-shadow: none;
         position: relative;
@@ -477,7 +512,9 @@
         border-left: 8px solid #ed1b4a;
         border-bottom: 6px solid transparent;
     }
-
+    .achivemore-menu .ul-sub-menu .sub-Link {
+        font-size: var(--fs-14);
+    }
     .menu-togglebar
     {
         width: 30px;
@@ -513,23 +550,11 @@
         margin-bottom: 20px;
         position: relative;
     }
-    .text-big60 {
-        font-size: 30px;
-    }
-    .typography .text-1 {
-        font-size: 18px;
-    }
-    .typography .text-2 {
-        font-size: 16px;
-    }
     .typography .ul-list li {
         margin-bottom: 15px;
         font-size: 12px;
     }
-    h3
-    {
-        font-size: 24px;
-    }
+    
     .centerPharseContent {
         width: 100%;
     }
@@ -569,6 +594,15 @@
         margin: auto;
     }
 
+   
+    .box-content-left *,.box-content-right * {
+        text-align: left;
+    }
+
+    .AmimgBox {
+        margin-bottom: 30px;
+    }
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -576,8 +610,6 @@
    .headerBg video {
         width: 150%;
     }
-
-
     
 }
 
@@ -594,6 +626,30 @@
 }
 
 
+/* iPads pro  (portrait and landscape) ----------- */
+    /* Landscape*/
+    @media only screen 
+    and (min-device-width: 1024px) 
+    and (max-device-width: 1366px) 
+    and (-webkit-min-device-pixel-ratio: 2)  
+    and (orientation: landscape)  {
+        .indexMainBg {
+            height: 60vh;
+        }
+    }
+
+    /* Portrait*/
+    @media only screen 
+    and (min-device-width: 1024px) 
+    and (max-device-width: 1366px) 
+    and (-webkit-min-device-pixel-ratio: 2)  
+    and (orientation: portrait)  {
+
+        .indexMainBg {
+            height: 60vh;
+        }
+    }
+
 /* iPads and iphones  (portrait and landscape) ----------- */
 @media only screen 
 and (min-device-width : 768px) 
@@ -601,16 +657,13 @@ and (max-device-width : 1024px)
 and (orientation : landscape)
 and (-webkit-min-device-pixel-ratio: 1)  { 
     
-    .hdr-tvarit {
-        font-size: 72px;
+    :root{
+        --hdr-Tvrit: 72px;
+        --hdr-industrial: 35px;
+        --hdr-prgf: 16px;
+        --hdr-germany: 18px;
+        
     }
-    .hdr-industrial {
-        font-size: 35px;
-    }
-    .hdr-germany {
-        font-size: 18px;
-    }
-    
 }
 
 @media only screen 
@@ -619,10 +672,8 @@ and (max-device-width : 1024px)
 and (orientation : portrait) 
 and (-webkit-min-device-pixel-ratio: 1) {
     .indexMainBg {
-    height: 50vh;
-}
-   
-
+        height: 42vh !important;
+    }
  }
 
 /* ----------- iPhone 4, 5, 6 ----------- */
@@ -633,18 +684,17 @@ and (-webkit-min-device-pixel-ratio: 1) {
   and (max-device-width: 573px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
+
+    :root{
+        --hdr-Tvrit: 70px;
+        --hdr-industrial: 35px;
+        --hdr-prgf: 14px;
+        --hdr-germany: 20px;
+        
+    }
     .macbook-sec {
         margin-bottom: 60px;
         padding-top: 100px !important;
-    }
-    .hdr-tvarit {
-        font-size: 70px !important;
-    }
-    .hdr-industrial {
-        font-size: 34px !important;
-    }
-    .hdr-germany {
-        font-size: 16px !important;
     }
     .flag {
         width: 40px;
@@ -668,23 +718,893 @@ and (-webkit-min-device-pixel-ratio: 1) {
     }
 }
 
-/* Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 573px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: landscape) { 
-    
-  
-
+/*----------- Nexus 6 (portrait) ----------- */
+@media only screen and (device-width : 400px) and (orientation: portrait) {
+    :root{
+        --hdr-germany: 30px !important;
+    }
+    .hdr-prgf2r {
+        text-align: left !important;
+    }
 }
+/*----------- Nexus 7 (portrait) ----------- */
+@media only screen and (device-width : 600px) and (orientation: portrait) {
+    :root{
+        --hdr-germany: 30px !important;
+    }
+    .hdr-prgf2r {
+        text-align: left !important;
+    }
+}
+
 @media (min-width: 1270px) and (max-width: 1290px) {
     .indexMainBg {
         height: 75vh;
     }
 }
-@media (min-width: 1024px) and (max-width: 1250px) {
-    .indexMainBg {
-        height: 42vh;
+
+
+
+@media screen and (min-width: 1900px) { 
+
+    :root
+    {
+        --fs-10: calc(10px * 2);
+        --fs-12: calc(12px * 2);
+        --fs-14: calc(14px * 2);
+        --fs-16: calc(16px * 2);
+        --fs-18: calc(18px * 2);
+        --fs-20: calc(20px * 2);
+        --fs-22: calc(22px * 2);
+        --fs-24: calc(24px * 2);
+        --fs-26: calc(26px * 2);
+        --fs-28: calc(28px * 2);
+        --fs-30: calc(30px + 20px);
+        --fs-32: calc(32px + 20px);
+        --fs-34: calc(34px + 20px);
+        --fs-36: calc(36px + 20px);
+        --fs-38: calc(38px + 20px);
+        --fs-40: calc(40px + 20px);
+        --fs-42: calc(42px + 20px);
+        --fs-44: calc(44px + 20px);
+        --fs-46: calc(46px + 20px);
+        --fs-48: calc(48px + 20px);
+        --fs-50: calc(50px + 20px);
+        --fs-60: calc(60px + 20px);
+        --fs-70: calc(70px + 20px);
+        --fs-80: calc(80px + 20px);
+        --hdr-Tvrit: calc(103px * 2);
+        --hdr-industrial: calc(50px * 2);
+        --hdr-prgf: calc(20px * 2);
+        --hdr-germany: calc(30px * 2);
     }
+   .container {
+        max-width: 1870px;
+    }
+    .main-menu .navbar {
+        max-width: 1870px;
+        margin: auto;
+    }
+    .flag {
+        width: 115px;
+    }
+    .videoWrapper .videoFrame {
+        height: 640px;
+    }
+    .formBox .form-control
+    {
+        height: calc(2.25rem * 2);
+    }
+    .formBox textarea.form-control
+    {
+        height: calc(3.25rem * 2);
+    }
+    .navbar img {
+        width: 230px;
+    }
+    .weOfferBox .featureBox
+    {
+        padding-bottom: 50px;
+    }
+=======
+
+@media screen and (max-width: 574px){
+    
+  :root
+    {
+        --fs-40: calc(40px - 15px) !important;
+        --fs-42: calc(42px - 15px) !important;
+        --fs-44: calc(44px - 15px) !important;
+        --fs-46: calc(46px - 20px) !important;
+        --fs-48: calc(48px - 20px) !important;
+        --fs-50: calc(50px - 30px) !important;
+        --fs-60: calc(60px - 30px) !important;
+        --fs-70: calc(70px - 30px) !important;
+        --fs-80: calc(80px - 30px) !important;3
+        --hdr-Tvrit: 86px;
+        --hdr-industrial: 42px;
+        --hdr-prgf: 14px;
+        --hdr-germany: 20px;
+    }
+   .macbook-position {
+        height: 146px;
+        max-width: 260px !important;
+        position: relative;
+        right: 0;
+        margin-bottom: 60px !important;
+        margin: auto;
+    }
+    .macbook-wrapper .macbook-lapi {
+        left: -23.8%;
+        top: -13.3%;
+        width: 149%;
+    }
+
+    .hdr-prgf, .hdr-prgf2r {
+        min-height: 40px;
+    }
+    .hdr-prgf2r
+    {
+        text-align: left;
+    }
+
+    .flag {
+        width: 78px;
+    }
+
+    .lookingBox 
+    {
+        display: block;
+    }
+}
+
+@media (max-width:767px) {
+
+    :root
+    {
+        --fs-20: calc(20px - 5px);
+        --fs-22: calc(22px - 5px);
+        --fs-24: calc(24px - 5px);
+        --fs-26: calc(26px - 5px);
+        --fs-28: calc(28px - 5px);
+        --fs-30: calc(30px - 10px);
+        --fs-32: calc(32px - 10px);
+        --fs-34: calc(34px - 10px);
+        --fs-36: calc(36px - 10px);
+        --fs-38: calc(38px - 10px);
+        --fs-40: calc(40px - 20px);
+        --fs-42: calc(42px - 20px);
+        --fs-44: calc(44px - 20px);
+        --fs-46: calc(46px - 20px);
+        --fs-48: calc(48px - 20px);
+        --fs-50: calc(50px - 20px);
+        --fs-60: calc(60px - 20px);
+        --fs-70: calc(70px - 20px);
+        --fs-80: calc(80px - 20px);
+    }
+
+    .headerBg {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        margin-bottom: 60px;
+    }
+    .aiconsultingBg
+    {
+        padding-top: 100px;
+    }
+    .headerBg video {
+        width: 100%;
+        margin: auto;
+        position: relative;
+    }
+
+    .main-menu .navbar {
+        max-width: 540px;
+        margin: auto;
+    }
+    .achivemore-menu .ul-sub-menu img
+    {
+       display: none;
+    }
+    .achivemore-menu .col
+    {
+       display: block !important;
+    }
+    .videoWrapper
+    {
+        margin-bottom: 20px;
+    }
+    
+    .btn {
+        font-size: 10px;
+        padding: 10px 20px;
+    }
+
+    .featureBox,.featureBox .icon,.featureBox .title,.featureBox .text-p {
+        text-align: center;
+    }
+
+    .contactBox {
+        display: block;
+        padding: 40px;
+        top: 40px;
+    }
+    .formBox {
+        width: 100%;
+        padding: 0;
+    }
+
+    .md-center-title
+    {
+        text-align: center;
+    }
+    .md-center-title .short-line
+    {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .featureBox .readmorebtn
+    {
+        text-align: center;
+    }
+
+    .tryDemobg .addon .form-control {
+        height: 54px;
+        font-size: 12px;
+    }
+
+    .cookieFooter {
+        padding: 20px 0;
+    }
+
+    
+
+    .fourbox .hrline-main
+    {
+        display: none;
+    }
+
+    .apaVr-line .vr-line {
+        height: 135px;
+        bottom: -65px;
+    }
+
+    .fourbox .vr-line {
+        height: 12px;
+        top: -11px;
+    }
+
+    .linkdinProBox {
+        display: block;
+        align-items: center;
+    }
+    .linkdinProBox .profilePic {
+        width: 120px;
+        height: 120px;
+        border-radius: 100%;
+        overflow: hidden;
+        margin: auto;
+        margin-bottom: 20px;
+        position: relative;
+    }
+
+    .linkdinProBox .profilePic .smplImg {
+        width: 100%;
+        height: 100%;
+        border-radius: 100%;
+        position: relative;
+        overflow: hidden;
+    }
+    .linkdinProBox .content {
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .linkdinProBox .content .title {
+        font-size: 16px;
+    }
+    .top-border
+    {
+        border-top:3px solid #222;
+    }
+
+    .client-carousel .carousel-cell
+    {
+        height: 100px;
+    }
+
+    .client-carousel .carousel-cell .picBox.w-90
+    {
+        width: 50px;
+    }
+
+
+    .searchDiv
+    {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .searchDiv .form-group
+    {
+        width: 80%;
+    }
+    .searchDiv .filterBtn{
+        font-size: 20px;
+        color: #ed1b4a;
+    }
+    
+   .searchDiv.filterFixedTop
+   {
+       position: fixed;
+        top: 60px;
+        left: 0;
+        right: 0;
+        background: #fff;
+        padding: 20px;
+   }
+   .filterDiv.open
+    {
+        transform: translateX(0px);
+    }
+   .filterDiv
+   {
+        position: fixed;
+        padding: 20px;
+        right: 10px;
+        top: 10px;
+        bottom: 0;
+        display: block;
+        width: 200px;
+        height: auto;
+        border-radius: 4px;
+        transform: translateX(220px);
+        transition: all 0.35s;
+        background: #fff;
+        z-index: 3;
+        max-height: 400px;
+        overflow: auto;
+        box-shadow: -4px 4px 16px #0000002d;
+   }
+    .closeFilter
+    {
+        position: absolute;
+        right: 20px;
+        top: 10px;
+        font-size: 20px;
+        color: #ccc;
+        z-index: 3;
+    }
+    
+    .countingNumBox .icon {
+        margin-right: 0;
+    }
+    .countingNumBox {
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+        position: relative;
+    }
+
+    .avantage-sec .automBox
+    {
+        margin-bottom: 30px;
+        height: auto;
+    }
+   
+    .timelineStep {
+        margin-left: 40px;
+    }
+    .vline {
+        left: 5%;
+        right: auto;
+    }
+    .timelineSteps-warpper .line-left:after,.timelineSteps-warpper .line-right:after {
+        right: auto;
+        left: -8%;
+        width: 8%;
+    }
+    .timelineStep.right {
+        text-align: left;
+    }
+    .timelineSteps-warpper .line-left:before, .timelineSteps-warpper .line-right:before{
+        left: -8%  !important;
+        right: auto !important;
+    }
+
+    .indexMainBg video
+    {
+        height: 200%;
+        width: auto;
+        right: 0;
+        left: 0;
+        position: absolute;
+    }
+   
+    .indexMainBg .typography .text-1,.aiconsultingBg .typography .text-1 {
+        font-size: 18px;
+        width: 100%;
+    }
+    .typography .subtext .text-s1,.typography .subtext .text-s2
+    {
+        font-size: 14px;
+        padding: 10px 20px;
+        line-height: 1.2;
+    }
+
+    .indexMainBg .ul-list li
+    {
+        width: 80%;
+        padding-left: 0;
+    }
+    
+    .weOfferBox .featureBox
+    {
+        text-align: left;
+        height: auto;
+        margin-bottom: 30px;
+    }
+
+    .btn-knowmore {
+        position: relative;
+        bottom: 0;
+    }
+    .ul-logobox li {
+        width: 49%;
+        list-style: none;
+    }
+    .ul-list-50 li {
+        width: 96%;
+    }
+    
+    .weOfferBox .featureBox .title
+    {
+        text-align: left;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1198px) {
+    :root{
+        --hdr-Tvrit: 80px;
+        --hdr-industrial: 40px;
+        --hdr-prgf: 16px;
+        --hdr-germany: 18px;
+        
+    }
+    .headerBg {
+            margin-bottom: 60px;
+        }
+    .main-menu .navbar {
+        margin: auto;
+    }
+    .bringSlideSection .pdn-l-col {
+        padding-left: 80px;
+    }
+    
+}
+
+@media (min-width: 768px) {
+  
+    .bringSlideSection .container
+    {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .md-center-title .short-line
+    {
+        margin-left: 0;
+    }
+    .left-md-border
+    {
+        border-left:3px solid #222;
+    }
+
+    .w-md-50
+    {
+        width: 50% !important;
+    }
+    
+
+    .timelineStep.right .ul-list-bullet li
+    {
+        padding-right: 20px;
+    }
+
+    .timelineStep.right .ul-list-bullet li:after {
+        position: absolute;
+       left: auto;
+       right: 0;
+    }
+
+
+}
+@media screen and (max-width: 991px) {
+
+    :root
+    {
+        
+        --fs-40: calc(40px - 10px);
+        --fs-42: calc(42px - 10px);
+        --fs-44: calc(44px - 10px);
+        --fs-46: calc(46px - 10px);
+        --fs-48: calc(48px - 10px);
+        --fs-50: calc(50px - 10px);
+        --fs-60: calc(60px - 10px);
+        --fs-70: calc(70px - 10px);
+        --fs-80: calc(80px - 10px);
+    }
+   .main-menu .navbar {
+        padding: 10px 15px;
+    }
+
+    .main-menu .navbar {
+        padding: 10px 15px;
+    }
+    .main-menu .navbar-collapse.open
+    {
+        transform: translateX(0px);
+    }
+   .main-menu .navbar-collapse
+   {
+        position: fixed;
+        padding-top: 20px;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: 280px;
+        height: 100%;
+        transform: translateX(300px);
+        transition: all 0.35s;
+        background: #fff;
+        box-shadow: -4px 4px 16px #0000002d;
+   }
+
+   .main-menu .navbar-nav .nav-link {
+        font-size: 12px;
+        padding: 12px 20px;
+    }
+
+    .submenu-div {
+        padding:0 10px;
+        background: #fff;
+        box-shadow: none;
+        position: relative;
+        border-bottom: 1px solid #ddd;
+    }
+    .ul-sub-menu, .ul-deep-menu {
+        padding: 0;
+        border-left: none;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .ul-sub-menu li a, .ul-deep-menu li a {
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .submenu-div .row .col:first-child
+    {
+        display: none;
+    }
+    .ul-deep-menu {
+        position: relative;
+        left: 0;
+        top: 0;
+    }
+
+    .main-menu .navbar-nav .nav-item a.nav-link:before {
+        left: 0;
+        right: auto;
+        bottom: 0;
+        top: 0;
+        width: 2px;
+        height: 30px;
+    }
+
+    .ul-sub-menu>li>a:after, .ul-deep-menu>li>a:after {
+        left: -10px;
+        border-top: 6px solid transparent;
+        border-left: 8px solid #ed1b4a;
+        border-bottom: 6px solid transparent;
+    }
+    .achivemore-menu .ul-sub-menu .sub-Link {
+        font-size: var(--fs-14);
+    }
+    .menu-togglebar
+    {
+        width: 30px;
+        height: auto;
+        position: relative;
+        cursor: pointer;
+    }
+    .menu-togglebar span
+    {
+        display: block;
+        position: relative;
+        height: 3px;
+        width: 100%;
+        background: #222;
+        opacity: 1;
+        margin-bottom: 5px;
+        transition: .25s ease-in-out;
+    }
+    
+    .menuclose
+    {
+        font-size: 20px;
+        position: absolute;
+        right: 10px;
+        top: 5px;
+        z-index: 2;
+        color: #ccc;
+    }
+
+    /*------------- menu css close ----------------*/
+
+    .typography {
+        margin-bottom: 20px;
+        position: relative;
+    }
+    .typography .ul-list li {
+        margin-bottom: 15px;
+        font-size: 12px;
+    }
+    
+    .centerPharseContent {
+        width: 100%;
+    }
+
+    .timelineSteps-warpper .line-right:before {
+        left: -31%;
+    }
+    .timelineSteps-warpper .line-left:before {
+        right: -31%;
+    }
+    
+    .macbook-sec {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        margin-bottom: 60px;
+    }
+
+     .macbook-sec
+    {
+        top: 60px;
+    }
+    .macbook-sec .typography {
+        text-align: center;
+        top: 0;
+    }
+    .macbook-sec .typography .text-p {
+        margin: auto;
+        font-weight: 700;
+    }
+    .macbook-position {
+        height: 270px;
+        max-width: 430px !important;
+        position: relative;
+        right: 0;
+        margin-bottom: 60px !important;
+        margin: auto;
+    }
+
+   
+    .box-content-left *,.box-content-right * {
+        text-align: left;
+    }
+
+    .AmimgBox {
+        margin-bottom: 30px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+   
+   .headerBg video {
+        width: 150%;
+    }
+    
+}
+
+@media (min-width: 992px) {
+
+    .bringSlideSection .pdn-l-col {
+        padding-left: 150px;
+    }
+    
+    .bringSlideSection .automtv-carousel
+    {
+        padding-left: 25px;
+    }
+}
+
+
+/* iPads pro  (portrait and landscape) ----------- */
+    /* Landscape*/
+    @media only screen 
+    and (min-device-width: 1024px) 
+    and (max-device-width: 1366px) 
+    and (-webkit-min-device-pixel-ratio: 2)  
+    and (orientation: landscape)  {
+        .indexMainBg {
+            height: 60vh;
+        }
+    }
+
+    /* Portrait*/
+    @media only screen 
+    and (min-device-width: 1024px) 
+    and (max-device-width: 1366px) 
+    and (-webkit-min-device-pixel-ratio: 2)  
+    and (orientation: portrait)  {
+
+        .indexMainBg {
+            height: 60vh;
+        }
+    }
+
+/* iPads and iphones  (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio: 1)  { 
+    
+    :root{
+        --hdr-Tvrit: 72px;
+        --hdr-industrial: 35px;
+        --hdr-prgf: 16px;
+        --hdr-germany: 18px;
+        
+    }
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) 
+and (-webkit-min-device-pixel-ratio: 1) {
+    .indexMainBg {
+        height: 42vh !important;
+    }
+ }
+
+/* ----------- iPhone 4, 5, 6 ----------- */
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 573px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+    :root{
+        --hdr-Tvrit: 70px;
+        --hdr-industrial: 35px;
+        --hdr-prgf: 14px;
+        --hdr-germany: 20px;
+        
+    }
+    .macbook-sec {
+        margin-bottom: 60px;
+        padding-top: 100px !important;
+    }
+    .flag {
+        width: 40px;
+    }
+    .macbook-position {
+        height: 146px;
+        max-width: 260px !important;
+        position: relative;
+        right: 0;
+        margin-bottom: 60px !important;
+        margin: auto;
+    }
+    .macbook-wrapper .macbook-lapi {
+        left: -23.8%;
+        top: -13.3%;
+        width: 149%;
+    }
+        .timelineSteps-warpper .line-left:before, .timelineSteps-warpper .line-right:before {
+        left: -15% !important;
+        right: auto !important;
+    }
+}
+
+/*----------- Nexus 6 (portrait) ----------- */
+@media only screen and (device-width : 400px) and (orientation: portrait) {
+    :root{
+        --hdr-germany: 30px !important;
+    }
+    .hdr-prgf2r {
+        text-align: left !important;
+    }
+}
+/*----------- Nexus 7 (portrait) ----------- */
+@media only screen and (device-width : 600px) and (orientation: portrait) {
+    :root{
+        --hdr-germany: 30px !important;
+    }
+    .hdr-prgf2r {
+        text-align: left !important;
+    }
+}
+
+@media (min-width: 1270px) and (max-width: 1290px) {
+    .indexMainBg {
+        height: 75vh;
+    }
+}
+
+
+@media screen and (min-width: 1900px) { 
+
+    :root
+    {
+        --fs-10: calc(10px * 2);
+        --fs-12: calc(12px * 2);
+        --fs-14: calc(14px * 2);
+        --fs-16: calc(16px * 2);
+        --fs-18: calc(18px * 2);
+        --fs-20: calc(20px * 2);
+        --fs-22: calc(22px * 2);
+        --fs-24: calc(24px * 2);
+        --fs-26: calc(26px * 2);
+        --fs-28: calc(28px * 2);
+        --fs-30: calc(30px + 20px);
+        --fs-32: calc(32px + 20px);
+        --fs-34: calc(34px + 20px);
+        --fs-36: calc(36px + 20px);
+        --fs-38: calc(38px + 20px);
+        --fs-40: calc(40px + 20px);
+        --fs-42: calc(42px + 20px);
+        --fs-44: calc(44px + 20px);
+        --fs-46: calc(46px + 20px);
+        --fs-48: calc(48px + 20px);
+        --fs-50: calc(50px + 20px);
+        --fs-60: calc(60px + 20px);
+        --fs-70: calc(70px + 20px);
+        --fs-80: calc(80px + 20px);
+        --hdr-Tvrit: calc(103px * 2);
+        --hdr-industrial: calc(50px * 2);
+        --hdr-prgf: calc(20px * 2);
+        --hdr-germany: calc(30px * 2);
+    }
+   .container {
+        max-width: 1870px;
+    }
+    .main-menu .navbar {
+        max-width: 1870px;
+        margin: auto;
+    }
+    .flag {
+        width: 115px;
+    }
+    .videoWrapper .videoFrame {
+        height: 640px;
+    }
+    .formBox .form-control
+    {
+        height: calc(2.25rem * 2);
+    }
+    .formBox textarea.form-control
+    {
+        height: calc(3.25rem * 2);
+    }
+    .navbar img {
+        width: 230px;
+    }
+    .weOfferBox .featureBox
+    {
+        padding-bottom: 50px;
+    }
+>>>>>>> 0ad8f2f46ebc78e834a067db66d396fe963e1278
 }
