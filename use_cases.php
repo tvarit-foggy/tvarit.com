@@ -221,7 +221,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="typography">
-                        <div class="text-big60">
+                        <div class="sec-mainTitle">
                             Use Cases
                         </div>
                         <br>
@@ -250,7 +250,7 @@
                 <div class="col-md">
                     <div class="px-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900">Quality Prediction</div>
+                            <div class="sec-mainTitle fw-900">Quality Prediction</div>
                         </div>
 
                         <div class="short-line bg-red"></div>
@@ -280,7 +280,7 @@
                 <div class="col-md order-2 order-md-1">
                     <div class="px-4 box-content-right">
                         <div class="title">
-                            <div class="text-big60 fw-900">Predictive Maintenance</div>
+                            <div class="sec-mainTitle fw-900">Predictive Maintenance</div>
                         </div>
 
                         <div class="short-line bg-red"></div>
@@ -319,7 +319,7 @@
                 <div class="col-md">
                     <div class="px-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900">Supply Chain</div>
+                            <div class="sec-mainTitle fw-900">Supply Chain</div>
                         </div>
 
                         <div class="short-line bg-red"></div>
@@ -349,7 +349,7 @@
                 <div class="col-md order-2 order-md-1">
                     <div class="px-4 box-content-right">
                         <div class="title">
-                            <div class="text-big60 fw-900">Asset and Inventory Management</div>
+                            <div class="sec-mainTitle fw-900">Asset and Inventory Management</div>
                         </div>
 
                         <div class="short-line bg-red"></div>
@@ -392,7 +392,7 @@
                 <div class="col-md">
                     <div class="px-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900">Intra-plant Logistics</div>
+                            <div class="sec-mainTitle fw-900">Intra-plant Logistics</div>
                         </div>
 
                         <div class="short-line bg-red"></div>
@@ -465,7 +465,7 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
+                    <div class="sec-mainTitle"><span class="tvarit-black">Tv<span class="color">a</span>r<span
                                 class="color">i</span>t</span> The Team</div>
                 </div>
 
