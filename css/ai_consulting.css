@@ -36,11 +36,11 @@
 
 .aiconsultingBg .typography .text-1 {
     color: #fff;
-    font-size: 36px;
+    font-size: var(--fs-36);
 }
 .aiconsultingBg .typography .subtext
 {
-    font-size: 28px;
+    font-size: var(--fs-28);
 }
 
 .capt
@@ -55,22 +55,20 @@
 }
 .countingNumBox .icon
 {
-    font-size: 60px;
+    font-size: var(--fs-60);
     margin-right: 20px;
-    color: #ed1b4a;
+    color: var(--primary);
 }
 .countingNumBox .numbers
 {
     font-weight: 900;
-    font-size: 60px;
+    font-size: var(--fs-60);
     line-height: 1;
     font-family: 'Roboto Condensed', sans-serif;
-    text-align: left;
 }
 .countingNumBox .text
 {
-    font-size: 15px;
-    text-align: left;
+    font-size: var(--fs-14);
 }
 
 .bxSqtp
@@ -79,7 +77,7 @@
     border-radius: 10px;
     background: #fff;
     margin-bottom: 30px;
-    box-shadow: 0 3px 50px #0000003d;
+    box-shadow: 0 3px 50px var(--shadow);
     min-height: 250px;
     display: flex;
     justify-content: center;
@@ -104,8 +102,8 @@
 }
 .bxSqtp .title
 {
-    color: #ed1b4a;
-    font-size: 18px;
+    color: var(--primary);
+    font-size: var(--fs-18);
     opacity: 1;
     width: 100%;
     display: block;
@@ -126,7 +124,7 @@
 
 .bxSqtp .content {
     color: #fff;
-    background:#ed1b4a;
+    background:var(--primary);
     height: auto;
     opacity: 0;
     padding: 20px;
@@ -179,7 +177,7 @@
 }
 .avantage-sec .automText
 {
-    font-size: 15px;
+    font-size: var(--fs-14);
     font-weight: bold;
     text-transform: capitalize;
 }
@@ -191,7 +189,7 @@
 
 .typography .subtext .text-s1
 {
-    background: #ed1b4a;
+    background: var(--primary);
     display: inline-block;
     padding: 0 20px;
 }
@@ -206,20 +204,16 @@
 }
 
 .title .text-first {
-    font-size: 30px;
+    font-size: var(--fs-30);
     font-weight: bold;
     text-transform: uppercase;
 }
 
 .list-12
 {
-    font-size: 12px;
+    font-size: var(--fs-12);
 }
 
-.fs-12
-{
-    font-size: 12px;
-}
 .timelineSteps-warpper
 {
     position: relative;
@@ -232,7 +226,7 @@
     left: 0;
     margin: auto;
     right: 0;
-    background: #222;
+    background: var(--dark-color);
 }
 .timelineStep
 {
@@ -245,10 +239,10 @@
 }
 .timelineStep.fillbox
 {
-    background: #ed1b4a;
+    background: var(--primary);
     color: #fff;
     border-radius: 20px;
-    box-shadow: 0 9px 38px #0000003d;
+    box-shadow: 0 9px 38px var(--shadow);
 }
 .timelineStep.fillbox .title
 {
@@ -256,7 +250,7 @@
 }
 .timelineStep .title
 {
-    color: #ed1b4a;
+    color: var(--primary);
 }
 .timelineStep .ul-list-bullet {
     padding-left: 0;
@@ -269,7 +263,7 @@
 
 .timelineStep.fillbox .ul-list-bullet li:after {
     background: #ffffff;
-    box-shadow: 0 0 0 3px #ed1b4a, 0 0 0 4px #ffffff;
+    box-shadow: 0 0 0 3px var(--primary), 0 0 0 4px #ffffff;
 }
 
 
@@ -299,7 +293,7 @@
     content: '';
     width: 20px;
     height: 20px;
-    background: #ed1b4a;
+    background: var(--primary);
     margin: auto;
      top: 0;
     bottom: 0;
@@ -314,10 +308,15 @@
 {
     left: -27%;
 }
-
+.ul-list-50
+{
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 .ul-list-50 li
 {
-    width: 46%;
+    width: 50%;
     display: inline-block;
     vertical-align: text-top;
 }
@@ -326,7 +325,7 @@
 .Benefits-sec .featureBox .text-p {
     line-height: 1.5;
     font-weight: bold;
-    font-size: 18px;
+    font-size: var(--fs-18);
     width: 75%;
     margin: auto;
 }
@@ -335,18 +334,19 @@
 {
     border-radius: 0;
     margin-bottom: 0;
-    box-shadow: 0 0px 2px #0000003d;
+    box-shadow: 0 0px 2px var(--shadow);
 }
 
 .keyFeatures .logo-box .logotext
 {
     background: none;
-    color: #222;
+    color: var(--dark-color);
     font-weight: bold;
-    font-size: 12px;
+    font-size: var(--fs-12);
     transform: translateY(-10px);
     text-transform: uppercase;
 }
+
 .ul-logobox
 {
     margin: 0;
@@ -363,7 +363,7 @@
 .logo-box
 {
     background: #fff;
-    box-shadow: 0 9px 38px #0000003d;
+    box-shadow: 0 9px 38px var(--shadow);
     text-align: center;
     border-radius: 10px;
     margin-bottom: 30px;
@@ -377,7 +377,7 @@
     padding: 10px 0;
     position: relative;
     color: #fff;
-    background: #ed1b4a;
+    background: var(--primary);
 }
 
 .client-carousel .carousel-cell .picBox img
@@ -408,7 +408,7 @@
 
 .indexMainBg .typography .text-1 {
     color: #fff;
-    font-size: 26px;
+    font-size: var(--fs-26);
     width: 70%;
     margin: auto;
 }
@@ -424,11 +424,11 @@
 
 .indexMainBg .typography .text-1 {
     color: #fff;
-    font-size: 24px;
+    font-size: var(--fs-24);
 }
 .indexMainBg .typography .subtext
 {
-    font-size: 20px;
+    font-size: var(--fs-20);
 }
 
 .indexMainBg .ul-list {
@@ -453,7 +453,7 @@
     padding-left: 20px;
     display: inline-block;
     font-weight: bold;
-    font-size: 15px;
+    font-size: var(--fs-14);
     vertical-align: text-top;
     text-align: left;
     line-height: 1.4;
@@ -465,7 +465,7 @@
 {
     display: block;
     text-decoration: none;
-    color: #222;
+    color: var(--dark-color);
 }
 
 
