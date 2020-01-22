@@ -73,7 +73,7 @@
     <div id="downClick">
       <div class="container">
         <div class="centerTitle">
-          <div class="innr-sec-mainTitle mb-0">Witness the most complete and true <span class="red">AI</span> Platform</div>
+          <div class="innr-sec-mainTitle mb-0">Witness the most complete <br> and true <span class="red">AI</span> Platform</div>
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
             Tvarit AI is an award winning AI platform. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques to enable you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models as per your needs. It also gives world-class user experience in the form of simple and sleek design by leveraging the state-of-the-art technology.
@@ -167,7 +167,7 @@
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Decides whether data is to be clamped or dropped</li>
-                  <li>Automatically fills data</li>
+                  <li>Automatically fills missing data</li>
                   <li>Segregation between classes of labels</li>
                 </ul>
             </div>

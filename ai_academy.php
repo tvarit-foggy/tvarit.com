@@ -96,13 +96,13 @@
     <!------------------------ header end --------------------------->
 
     <!------------------------ CONSULTING start --------------------->
-    <div class="section-padding-both" id="downClick">
+    <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="text">
-                <h3 class="text-big60 uppr">Welcome to the <span class="red">AI</span> Academy</h3>
+            <div class="text centerTitle">
+                <h3 class="innr-sec-mainTitle uppr">Welcome to the <span class="red">AI</span> Academy</h3>
+                <div class="short-line bg-red mx-auto"></div>
                 
                 <div class="text-p mb-0">
-                <div class="short-line bg-red"></div>
                   <p class="text-p">
                         We understand the increasing demand and importance given by the companies to know all about the
                         possibilities of using AI and data. In our training workshops you will learn about the most
@@ -116,11 +116,7 @@
                         practices.
                     </p>
                 </div>
-                <br>
-
-
             </div>
-
         </div>
     </div>
     <!------------------------ CONSULTING end --------------------->

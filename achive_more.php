@@ -92,7 +92,7 @@
         <div class="container">
             <div class="centerTitle">
               <!-- <h3 class="bold text-center red mb-0">Achieve more with</h3> -->
-              <div class="sec-mainTitle">Tvarit <span class="red">AI</span> solution</div>
+              <div class="innr-sec-mainTitle uppr">Tvarit <span class="red">AI</span> solution</div>
             </div>
             <br>
             <br>
@@ -291,7 +291,7 @@
                     <div class="achieveWrapper upSet">
                         <div>
                             <div class="title-text">
-                                AI <br class="d-none d-md-block">driven
+                                AI <br class="d-none d-md-block">Driven:
                             </div>
                             <ul class="ul-list-bullet">
                                 <li>
@@ -361,8 +361,8 @@
       <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">We take only 4 weeks</div>
-                    <h3 class="text-center">to make and implement Ai Solutions for your factory.</h3>
+                    <div class="sec-mainTitle">We take only <span class="red"> 4 </span> weeks</div>
+                    <h3 class="text-center red">to make and implement AI Solutions for your factory.</h3>
                 </div>
             </div>
         </div>
