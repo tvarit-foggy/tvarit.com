@@ -103,6 +103,8 @@ $('.toggle').click(function(e) {
           autoPlay: 2000
       });
 
+      
+
        $( ".closeCookie" ).click(function() {
           $( ".cookieFooter" ).hide();
       });

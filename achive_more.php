@@ -56,167 +56,12 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <div class="main-menu fixed-menu sticky-top sticky">
-        <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="index">
-                <img src="img/logo.png" class="img-fluid">
-            </a>
-
-            <a href="javascript://" class="menu-togglebar">
-                <span></span>
-                <span></span>
-                <span></span>
-            </a>
-
-            <div class="navbar-collapse" id="navbarText">
-                <a href="javascript://" class="menuclose d-block d-md-none">
-                    <i class="fas fa-arrow-right"></i>
-                </a>
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">AI Solutions</a>
-                        <div class="submenu-div">
-            <div class="row">
-                <div class="col">
-                    <div class="menuQuote">
-                        <div class="textBig">AI Solutions<span class="red">.</span></div>
-                        <!-- <p class="text-normal"> ..... </p> -->
-                    </div>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li>
-                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
-                                OEE for Steel and Metal Manufacturing companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
-                                Maintenance for Industrial Electric Motors</a>
-                        </li>
-                        <li>
-                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
-                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
-                                Companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
-                                Quality for Die-casting Machines</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li style="text-align: center;">
-                            <a href="achive_more" class="sub-Link"
-                                style="padding-left:0px; color:red; align-item: center;">
-                                <img class="ai_solutions_img" src="./img/plus_ai.png"
-                                    alt="Achieve More Tvarit AI Solutions" />
-                                <div class="bold text-big20 tvarit-black" >
-                                    Achieve More Tvarit AI Solutions
-                                </div>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="ai-platform">AI Platform</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">AI Consulting</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
-                                        <!-- <p class="text-normal"> </p> -->
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                    <li>
-                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
-                                        </li>
-                                        <li>
-                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">More</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                         <div class="textBig">More<span class="red">.</span></div>
-                                        <!-- <p class="text-normal"></p> -->
-                                    </div>
-                                </div>
-                                <div class="col d-flex">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="about#Vision" class="sub-Link">About Us</a>
-                                        </li>
-                                        <li>
-                                            <a class="sub-Link" href="career">Careers</a>
-                                        </li>
-                                        <li>
-                                            <a href="news" class="sub-Link">News</a>
-                                        </li>
-                                        <li>
-                                            <a class="sub-Link" href="contact">Contact</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="whitepapers" class="sub-Link">White Paper</a>
-                                        </li>
-                                        <li>
-                                            <a href="videos" class="sub-Link">Videos</a>
-                                        </li>
-                                        <li>
-                                            <a href="blogs" class="sub-Link">Blogs</a>
-                                        </li>
-                                        <li>
-                                        <li>
-                                            <a href="#" class="sub-Link">Survey</a>
-                                            <ul class="ul-deep-menu">
-                                                <br><br><br>
-                                                <li>
-                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
-                                                        Manufacturing</a>
-                                                </li>
-                                                <li>
-                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
-                                                        Product </a>
-                                                </li>
-
-                                            </ul>
-                                        </li>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </div>
+    <?php 
+     include 'header.php';
+     ?>
     <!------------------------ main menu end ------------------------>
-
-
-
     <!------------------------ header start ------------------------->
-    <header class="headerBg achivemoreBg">
+    <header class="headerBg bgSizeCover achivemoreBg">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown" style="color:#fff"></i></a>
             <div class="row align-items-center">
@@ -226,13 +71,9 @@
                             Achieve More
                         </div>
                         <div class="content">
-                            <div class="text-big40" style="color:#fff;">
+                            <div class="text-big40">
                             with Tvarit AI Solutions</div>
                         </div>
-                        <br>
-                        <!-- <p class="text-p">
-                 Target marketing, risk management, load forecasting, flight safety, predictive maintenance. We want you to Keep flying high.
-              </p> -->
                         <br>
 
                         <a href="http://cloud.tvarit.com" target="_blank"
@@ -247,123 +88,285 @@
 
 
     <!------------------------ Automotives start --------------------->
-    <div class="section-padding-both" id="downClick">
-        <div class="white-box-shadow">
+    <div class="section-padding" id="downClick">
+        <div class="container">
             <div class="centerTitle">
-                <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                            class="color">i</span>t</span></div>
-                <div class="red text-big40" style="font-size:25px; text-align: center">AI Solution<br>
-
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-2 brdr-right-red">
-                <div class="title-grid centerTitle rerBg-grd-darkblue">
-                        Estimated time duration: 2 weeks(approx.)
-                    </div>
-                    <ul class="ul-list-bullet">
-                        <li>Business Use-Case identification</li>
-                        <li>Break down the KPI
-                            Objective</li>
-                        <li>Data Extraction and
-                            integration</li>
-                        <li>Enablement of data
-                            pipelines, workflows,
-                            systems and
-                            processes to facilitate
-                            data science
-                            operations</li>
-
-                    </ul>
-                </div>
-                <div class="col-md-2 brdr-right-red">
-                    <div class="title-grid centerTitle rerBg-grd-red">
-                        Week 1
-                    </div>
-                    <ul class="ul-list-bullet">
-                        <li>Data Preparation:
-                            Tasks used to ensure
-                            that the data fed into
-                            and train machine
-                            learning models are
-                            clean and accurate</li>
-                    </ul>
-                </div>
-                <div class="col-md-2 brdr-right-red">
-                    <div class="title-grid centerTitle rerBg-grd-red">
-                        Week 2
-                    </div>
-                    <ul class="ul-list-bullet">
-                        <li>Data
-                            Harmonization:
-                            Tasks used to
-                            ensure that the data
-                            is complete and
-                            relevant for
-                            machine learning
-                            purposes </li>
-                    </ul>
-                </div>
-                <div class="col-md-2 brdr-right-red">
-                    <div class="title-grid centerTitle rerBg-grd-red">
-                        Week 3
-                    </div>
-                    <ul class="ul-list-bullet">
-                        <li> Data Labelling:
-                            Tasks used to ensure
-                            that the data has
-                            been properly labelled
-                            with the required
-                            output that needs to
-                            be learned</li>
-
-                    </ul>
-                </div>
-                <div class="col-md-2 brdr-right-red">
-                    <div class="title-grid centerTitle rerBg-grd-red">
-                        Week 4
-                    </div>
-                    <ul class="ul-list-bullet">
-                        <li>AI driven predictive
-                            analytics, root-cause,
-                            what-if analysis and
-                            set-points for
-                            controllers</li>
-
-                    </ul>
-                </div>
-                <div class="col-md-2">
-                    <div class="title-grid centerTitle rerBg-grd-yellow">
-                        Estimated time duration: 2 weeks(approx.)
-                    </div>
-                    <ul class="ul-list-bullet">
-                        <li>Measurement of
-                            impact of AI driven
-                            decision in terms of
-                            both financial and
-                            non-financial benefits</li>
-                        <li>Identification of
-                            closed-loop learnings
-                            to be incorporated
-                            into AI model</li>
-                    </ul>
-                </div>
-
+              <h3 class="bold text-center red mb-0">Achieve more with</h3>
+              <div class="sec-mainTitle">Tvarit <span class="red">AI</span> solution</div>
             </div>
             <br>
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="text-big40"><span class="tvarit-black">We take only <span class="color">4 weeks </span></span> </div>
-                    <h3 class="text-center">to make and implement Ai Solutions for your factory.</h3>
+            <br>
+
+            <div class="row achieveInfographic">
+                
+                <svg class="svg-total-line svg-xl" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  width="1900px" height="500px" viewBox="0 0 1900 500" enable-background="new 0 0 1900 500" xml:space="preserve">
+                    <g>
+                        <g>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="29.244" y1="260.225" x2="29.244" y2="260.225"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,25.0187" x1="29.244" y1="285.243" x2="29.244" y2="422.846"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="29.244" y1="435.355" x2="29.244" y2="435.355"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,24.3366" x1="53.58" y1="435.355" x2="503.808" y2="435.355"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="515.976" y1="435.355" x2="515.976" y2="435.355"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.5697" x1="515.976" y1="411.786" x2="515.976" y2="93.594"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="515.976" y1="81.81" x2="515.976" y2="81.81"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,24.2036" x1="540.18" y1="81.81" x2="891.132" y2="81.81"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="903.233" y1="81.81" x2="903.233" y2="81.81"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.6244" x1="903.233" y1="105.434" x2="903.233" y2="424.363"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="903.233" y1="436.176" x2="903.233" y2="436.176"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.8004" x1="927.034" y1="436.176" x2="1343.541" y2="436.176"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1355.441" y1="436.176" x2="1355.441" y2="436.176"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.6244" x1="1355.441" y1="412.552" x2="1355.441" y2="93.622"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1355.441" y1="81.81" x2="1355.441" y2="81.81"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.6242" x1="1379.065" y1="81.81" x2="1697.992" y2="81.81"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1709.805" y1="81.81" x2="1709.805" y2="81.81"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.6793" x1="1709.805" y1="105.489" x2="1709.805" y2="425.159"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1709.805" y1="436.999" x2="1709.805" y2="436.999"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,22.7861" x1="1732.591" y1="436.999" x2="1857.914" y2="436.999"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1869.308" y1="436.999" x2="1869.308" y2="436.999"/>
+                        </g>
+                    </g>
+                    </svg>
+                
+                <svg class="svg-total-line svg-lg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  width="1170.377px" height="273.081px" viewBox="0 0 1170.377 273.081" enable-background="new 0 0 1170.377 273.081" xml:space="preserve">
+                    <g>
+                        <g>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="13.496" y1="141.085" x2="13.496" y2="141.085"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.8331" x1="13.496" y1="152.918" x2="13.496" y2="241.666"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="13.496" y1="247.583" x2="13.496" y2="247.583"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.8394" x1="25.335" y1="247.583" x2="303.561" y2="247.583"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="309.48" y1="247.583" x2="309.48" y2="247.583"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9441" x1="309.48" y1="235.639" x2="309.48" y2="38.562"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="309.48" y1="32.59" x2="309.48" y2="32.59"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.7747" x1="321.255" y1="32.59" x2="539.086" y2="32.59"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="544.973" y1="32.59" x2="544.973" y2="32.59"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9718" x1="544.973" y1="44.562" x2="544.973" y2="242.096"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="544.973" y1="248.082" x2="544.973" y2="248.082"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9561" x1="556.929" y1="248.082" x2="813.984" y2="248.082"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="819.963" y1="248.082" x2="819.963" y2="248.082"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9718" x1="819.963" y1="236.11" x2="819.963" y2="38.576"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="819.963" y1="32.59" x2="819.963" y2="32.59"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9717" x1="831.935" y1="32.59" x2="1029.467" y2="32.59"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1035.453" y1="32.59" x2="1035.453" y2="32.59"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9996" x1="1035.453" y1="44.589" x2="1035.453" y2="242.582"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1035.453" y1="248.582" x2="1035.453" y2="248.582"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.1243" x1="1047.577" y1="248.582" x2="1126.385" y2="248.582"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1132.447" y1="248.582" x2="1132.447" y2="248.582"/>
+                        </g>
+                    </g>
+                    </svg>
+               
+               <svg  class="svg-total-line svg-md" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"   width="1170.377px" height="444.288px" viewBox="0 0 1170.377 444.288" enable-background="new 0 0 1170.377 444.288"  xml:space="preserve">
+                    <g>
+                        <g>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="13.496" y1="272.292" x2="13.496" y2="272.292"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.2082" x1="13.496" y1="284.5" x2="13.496" y2="412.686"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="13.496" y1="418.79" x2="13.496" y2="418.79"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.8394" x1="25.335" y1="418.79" x2="303.561" y2="418.79"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="309.48" y1="418.79" x2="309.48" y2="418.79"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.031" x1="309.48" y1="406.759" x2="309.48" y2="39.813"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="309.48" y1="33.797" x2="309.48" y2="33.797"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.7747" x1="321.255" y1="33.797" x2="539.086" y2="33.797"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="544.973" y1="33.797" x2="544.973" y2="33.797"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.0466" x1="544.973" y1="45.844" x2="544.973" y2="413.266"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="544.973" y1="419.289" x2="544.973" y2="419.289"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9561" x1="556.929" y1="419.289" x2="813.984" y2="419.289"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="819.963" y1="419.289" x2="819.963" y2="419.289"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.0466" x1="819.963" y1="407.242" x2="819.963" y2="39.82"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="819.963" y1="33.797" x2="819.963" y2="33.797"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9717" x1="831.935" y1="33.797" x2="1029.467" y2="33.797"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1035.453" y1="33.797" x2="1035.453" y2="33.797"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.0623" x1="1035.453" y1="45.859" x2="1035.453" y2="413.758"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1035.453" y1="419.789" x2="1035.453" y2="419.789"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.1243" x1="1047.577" y1="419.789" x2="1126.385" y2="419.789"/>
+                            
+                                <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1132.447" y1="419.789" x2="1132.447" y2="419.789"/>
+                        </g>
+                    </g>
+                    </svg>
+                
+                <div class="col-md-4">
+                    <div class="achieveWrapper upSet">
+                        <ul class="ul-list-bullet">
+                            <li>Business Use-Case identification</li>
+                            <li>Break down the KPI
+                                Objective</li>
+                            <li>Data Extraction and
+                                integration</li>
+                            <li>Enablement of data
+                                pipelines, workflows,
+                                systems and
+                                processes to facilitate
+                                data science
+                                operations</li>
+                        </ul>
+                        <div class="title-round title-round-grey">
+                            Estimated time duration: <br >2 weeks(approx.)
+                        </div>
+                    </div>
                 </div>
-            </div>
-    </div>
-            <div class="centerTitle">
+                <div class="col-md-4">
+                    <div class="achieveWrapper upSet">
+                        <div>
+                            <div class="title-text">
+                                Data <br class="d-none d-md-block">Harmonization:
+                            </div>
+                            <ul class="ul-list-bullet">
+                                <li>
+                                    Tasks used to
+                                    ensure that the data
+                                    is complete and
+                                    relevant for
+                                    machine learning
+                                    purposes </li>
+                            </ul>
+                        </div>
+                        <div class="title-round">
+                            Week 2
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="achieveWrapper upSet">
+                        <div>
+                            <div class="title-text">
+                                AI <br class="d-none d-md-block">driven
+                            </div>
+                            <ul class="ul-list-bullet">
+                                <li>
+                                    AI driven predictive analytics, root-cause, what-if analysis and set-points for controllers
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="title-round">
+                            Week 4
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="achieveWrapper downSet">
+                        <div class="title-round">
+                            Week 1
+                        </div>
+                        <div class="title-text">
+                            Data <br class="d-none d-md-block">Preparation:
+                        </div>
+                        <ul class="ul-list-bullet">
+                            <li>
+                                Tasks used to ensure
+                                that the data fed into
+                                and train machine
+                                learning models are
+                                clean and accurate</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="col-md-3">
+                    <div class="achieveWrapper downSet">
+                        <div class="title-round">
+                            Week 3
+                        </div>
+                        <div class="title-text">
+                            Data <br class="d-none d-md-block">Labelling:
+                        </div>
+                        <ul class="ul-list-bullet">
+                            <li>
+                                Tasks used to ensure that the data has been properly labelled with the required output that needs to be learned
+                            </li>
+                        </ul>
+                        
+                    </div>
+                </div>
+                
+                <div class="col-md-3">
+                    <div class="achieveWrapper downSet">
+                        <div class="title-round title-round-grey">
+                            Estimated time duration: <br >2 weeks(approx.)
+                        </div>
+                        <ul class="ul-list-bullet">
+                            <li>Measurement of impact of AI driven decision in terms of both financial and non-financial benefits</li>
+                            <li>Identification of closed-loop learnings to be incorporated into AI model</li>
+                        </ul>
+                        
+                    </div>
+                </div>
             </div>
         </div>
     </div>
     <!------------------------ Automotives end --------------------->
+     <div class="section-padding-both">
+      <div class="container">
+            <div class="white-box-shadow">
+                <div class="centerTitle">
+                    <div class="sec-mainTitle">We take only 4 weeks</div>
+                    <h3 class="text-center">to make and implement Ai Solutions for your factory.</h3>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!------------------------Countdown start --------------------->
     <?php
@@ -371,19 +374,14 @@
     ?>
     <!------------------------Countdown end --------------------->
 
-    <!------------------------Automated slide start --------------------->
-    <?php 
-                include 'change_we_bring.php';
-                ?>
-    <!------------------------Automated slide end --------------------->
 
     <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
+    <div class="section-padding">
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
+                    <div class="sec-mainTitle">Tv<span class="red">a</span>r<span
+                                class="red">i</span>t The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
@@ -396,12 +394,12 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
-                include 'using-tvarit.php';
-                ?>
+    <div class="section-padding">
+        <?php 
+            include 'using-tvarit.php';
+        ?>
+    </div>
     <!------------------------Client logo slide end --------------------->
-
-    <!------------------------try demo start --------------------->
 
     <!------------------------try demo end --------------------->
 
