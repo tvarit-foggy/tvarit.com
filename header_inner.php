@@ -16,7 +16,7 @@
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index">Home</a>
+                        <a class="nav-link" href="../index">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">AI Solutions</a>
@@ -31,11 +31,11 @@
                                 <div class="col-md-4 col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
+                                            <a href="../optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
                                                 OEE for Steel and Metal Manufacturing companies</a>
                                         </li>
                                         <li>
-                                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                            <a href="../predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
                                                 Maintenance for Industrial Electric Motors</a>
                                         </li>
                                        
@@ -44,12 +44,12 @@
                                 <div class="col-md-4 col">
                                      <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
+                                            <a href="../ai_based_production_planning_solution_for_cable_manufacturing_companies"
                                                 class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
                                                 Companies</a>
                                         </li>
                                         <li>
-                                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
+                                            <a href="../predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
                                                 Quality for Die-casting Machines</a>
                                         </li>
                                     </ul>
@@ -59,8 +59,8 @@
                                 <div class="col-md-8 col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="achive_more" class="sub-Link">
-                                                <img class="ai_solutions_img" src="./img/plus_ai.png"
+                                            <a href="../achive_more" class="sub-Link">
+                                                <img class="ai_solutions_img" src="../img/plus_ai.png"
                                                     alt="Achieve More Tvarit AI Solutions" />
                                                 <div class="bold tvarit-black">
                                                     Achieve More Tvarit AI Solutions
@@ -73,7 +73,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ai-platform">AI Platform</a>
+                        <a class="nav-link" href="../ai-platform">AI Platform</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">AI Consulting</a>
@@ -88,10 +88,10 @@
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                     <li>
-                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
+                                            <a href="../ai-consulting" class="sub-Link">AI Consulting</a>
                                         </li>
                                         <li>
-                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
+                                            <a href="../ai_academy" class="sub-Link">AI and Data Academy</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -111,29 +111,29 @@
                                 <div class="col d-flex">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="about#Vision" class="sub-Link">About Us</a>
+                                            <a href="../about#Vision" class="sub-Link">About Us</a>
                                         </li>
                                         <li>
-                                            <a class="sub-Link" href="career">Careers</a>
+                                            <a class="../sub-Link" href="career">Careers</a>
                                         </li>
                                         <li>
-                                            <a href="news" class="sub-Link">News</a>
+                                            <a href="../news" class="sub-Link">News</a>
                                         </li>
                                         <li>
-                                            <a class="sub-Link" href="contact">Contact</a>
+                                            <a class="sub-Link" href="../contact">Contact</a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="whitepapers" class="sub-Link">White Paper</a>
+                                            <a href="../whitepapers" class="sub-Link">White Paper</a>
                                         </li>
                                         <li>
-                                            <a href="videos" class="sub-Link">Videos</a>
+                                            <a href="../videos" class="sub-Link">Videos</a>
                                         </li>
                                         <li>
-                                            <a href="blogs" class="sub-Link">Blogs</a>
+                                            <a href="../blogs" class="sub-Link">Blogs</a>
                                         </li>
                                         <li>
                                         <li>
@@ -141,11 +141,11 @@
                                             <ul class="ul-deep-menu">
                                                 <br><br><br>
                                                 <li>
-                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
+                                                    <a href="../ai_for_manufacturing" class="sub-Link">AI for
                                                         Manufacturing</a>
                                                 </li>
                                                 <li>
-                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
+                                                    <a href="../ai_as_a_product" class="sub-Link">AI as a
                                                         Product </a>
                                                 </li>
 
