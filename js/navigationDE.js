@@ -6,15 +6,12 @@
 
     if (window.navigator.languages) {
         lang = window.navigator.languages[0];
-        console.log(lang + '$$$$$');
     } else {
         lang = window.navigator.userLanguage || window.navigator.language;
-        console.log(lang + '@@@');
     }
     for (var i = 0; i < arr.length; i++) {
         name = arr[i].split('=')[0];
         value = arr[i].split('=')[1];
-        console.log(name + '+++' + value);
         if ((name == ' lang' || name == ' language') && (value == 'en' || value == 'enUs' )) {
          isSaved = true
          document.cookie = "language=enUs; path=/; Secure ";
