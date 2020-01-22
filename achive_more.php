@@ -91,7 +91,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="centerTitle">
-              <h3 class="bold text-center red mb-0">Achieve more with</h3>
+              <!-- <h3 class="bold text-center red mb-0">Achieve more with</h3> -->
               <div class="sec-mainTitle">Tvarit <span class="red">AI</span> solution</div>
             </div>
             <br>
