@@ -30,7 +30,8 @@
     --hdr-industrial: 64px;
     --hdr-prgf: 24px;
     --hdr-germany: 36px;
-    /*-------- colors -----------*/
+
+   /*-------- colors -----------*/
     --primary: #ed1b4a;
     --primary-color: #ed1b4a;
     --red: var(--primary);
