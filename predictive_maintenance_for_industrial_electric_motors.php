@@ -279,9 +279,9 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Predictive Maintenance for <br>Industrial Electric Motors</span>
+                <span class="innr-sec-mainTitle ai_predictive">Predictive Maintenance for 
+                    <br>Industrial Electric Motors</span>
             </div>
-            <br>
             <br>
             <div class="row align-items-lg-center">
                 <div class="col-lg">
