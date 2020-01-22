@@ -258,7 +258,7 @@
                             AI based Production Planning solution for
                         </div>
                         <div class="content">
-                            <div class="text-big60">
+                            <div class="text-big80">
                                 Cable
                             </div>
                             <div class="text-big40">
