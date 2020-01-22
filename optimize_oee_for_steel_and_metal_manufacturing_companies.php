@@ -306,7 +306,7 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">TVARIT AI </span> </div>
+                    <div class="sec-mainTitle">TVARIT <span class="red">AI</span></div>
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
@@ -328,7 +328,7 @@
                 <div class="col-lg">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span></div>
+                            <div class="sec-mainTitle">USE-CASE</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
@@ -350,7 +350,7 @@
                 <div class="col-md order-2 order-lg-1">
                     <div class="px-lg-4">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefits</span></div>
+                            <div class="sec-mainTitle">Benefits</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
