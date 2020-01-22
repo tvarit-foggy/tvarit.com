@@ -59,50 +59,56 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">AI Solutions</a>
                         <div class="submenu-div">
-            <div class="row">
-                <div class="col">
-                    <div class="menuQuote">
-                        <div class="textBig">AI Solutions<span class="red">.</span></div>
-                        <!-- <p class="text-normal"> ..... </p> -->
-                    </div>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li>
-                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
-                                OEE for Steel and Metal Manufacturing companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
-                                Maintenance for Industrial Electric Motors</a>
-                        </li>
-                        <li>
-                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
-                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
-                                Companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
-                                Quality for Die-casting Machines</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li style="text-align: center;">
-                            <a href="achive_more" class="sub-Link"
-                                style="padding-left:0px; color:red; align-item: center;">
-                                <img class="ai_solutions_img" src="./img/plus_ai.png"
-                                    alt="Achieve More Tvarit AI Solutions" />
-                                <div class="bold text-big20 tvarit-black">
-                                    Achieve More Tvarit AI Solutions
+                            <div class="row">
+                                <div class="col-md-4 col">
+                                    <div class="menuQuote">
+                                        <div class="textBig">AI Solutions<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"> ..... </p> -->
+                                    </div>
                                 </div>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+                                <div class="col-md-4 col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
+                                                OEE for Steel and Metal Manufacturing companies</a>
+                                        </li>
+                                        <li>
+                                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                                Maintenance for Industrial Electric Motors</a>
+                                        </li>
+                                       
+                                    </ul>
+                                </div>
+                                <div class="col-md-4 col">
+                                     <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
+                                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
+                                                Companies</a>
+                                        </li>
+                                        <li>
+                                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
+                                                Quality for Die-casting Machines</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row achivemore-menu">
+                                <div class="col-md-8 col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="achive_more" class="sub-Link">
+                                                <img class="ai_solutions_img" src="./img/plus_ai.png"
+                                                    alt="Achieve More Tvarit AI Solutions" />
+                                                <div class="bold tvarit-black">
+                                                    Achieve More Tvarit AI Solutions
+                                                </div>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="ai-platform">AI Platform</a>
@@ -226,23 +232,17 @@
     <!------------------------ header end --------------------------->
 
     <!------------------------ CONSULTING start --------------------->
-    <div class="section-padding-both" id="downClick">
+    <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="text">
-            <span class="text-big40 uppr">successfully complete your data science projects &nbsp;</span>
-            <span class="text-big40 uppr">fast and easy with &nbsp;</span>
-                <span class="text-big40 uppr">
-                    <span class="tvarit-black"><span class="color">TV<span class="tvarit-black">A</span>R<span class="tvarit-black">I</span>T</span>&nbsp;<span
-                            class="color">CONSULTING</span></span></span>
-                
-                <div class="short-line bg-red"></div>
+            <div class="title centerTitle">
+                <div class="innr-sec-mainTitle ai_predictive">successfully complete your data science projects fast and easy with TV<span class="red">A</span>R<span class="red">I</span>T CONSULTING</div>
+                <div class="short-line mx-auto bg-red"></div>
                 <div class="text-p">
                     Our experts help you at every stage of your data science projects. We help you in solving key issues
                     of data extraction, data preparation, data labelling and predictive analytics. We provide both on-site
                     and remote based consulting services.
                 </div>
             </div>
-
         </div>
     </div>
     <!------------------------ CONSULTING end --------------------->
@@ -439,17 +439,16 @@
             </div>
             <br>
             <div class="text-center">
-                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Know
-                    more</a>
+                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Know more</a>
             </div>
 
         </div>
     </div>
     <!------------------------ Automotives end --------------------->
 
-    <div class="section-padding-both">
+    <div class="section-padding">
         <div class="container">
-            <div class="centerTitle text-big60">
+            <div class="centerTitle sec-mainTitle">
                 YOUR ADVANTAGES
             </div>
 
@@ -503,8 +502,42 @@
 
         </div>
     </div>
-    <br>
     <!------------------------ Automotives end --------------------->
+
+    <!--------------------- Buttons  ------------------->
+    <div class="section-padding-both">
+        <div class="container white-box-shadow">
+
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="lookingBox rerBg-grd">
+                        <div class="text text-white">
+                            <span class="fs-18  fw-400">Request for free teaser</span>
+                            <h3 class="fw-900">for one day</h3>
+                        </div>
+                        <div>
+                            <a href="#" data-toggle="modal" data-target="#exampleModal"
+                                class="btn btn-round btn-white">Click Here</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="lookingBox brdr-black">
+                        <div class="text">
+                            <span class="fs-18  fw-400">for more details</span>
+                            <h3 class="fw-900">Contact us</h3>
+                        </div>
+
+                        <div>
+                            <a href="#form1" class="btn btn-round btn-red-grd">Click Here</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--------------------- Buttons  ------------------->
 
     <!------------------------Countdown start --------------------->
     <?php
@@ -512,16 +545,10 @@
     ?>
     <!------------------------Countdown end --------------------->
 
-    <!------------------------Automated slide start --------------------->
-    <?php
-    include 'change_we_bring.php'
-    ?>
-    <!------------------------Automated slide end --------------------->
-
     <br id="contact_us"/>
-    <!------------------------footer start --------------------->
+     <!------------------------footer start --------------------->
     <?php
-    include 'footer_cons.php'
+        include 'footer.php';
     ?>
     <!------------------------footer end --------------------->
     <!-- script start -->

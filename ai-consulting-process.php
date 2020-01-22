@@ -386,7 +386,7 @@
                         engineers)
                         with these action items. Limits of input tweakable parameters are taken into consideration while
                         creating these recommendation engines. Hence domain knowledge is incorporated in ML/DL model and
-                        provision to users with sensible action items is ensured.
+                        provision to users with sensible action items is ensured.
                     </p>
                 </div>
             </div>
