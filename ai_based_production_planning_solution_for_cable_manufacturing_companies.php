@@ -127,7 +127,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="./img/ai_software_solution.png" class="img-fluid">
+                        <img src="./img/ai_software_solution.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">

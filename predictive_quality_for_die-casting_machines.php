@@ -128,7 +128,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="./img/predictive_quality.png" class="img-fluid">
+                        <img src="./img/predictive_quality.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">

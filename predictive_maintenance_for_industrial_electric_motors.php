@@ -129,7 +129,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="./img/predic1.png" class="img-fluid">
+                        <img src="./img/predic1.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
