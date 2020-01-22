@@ -360,6 +360,25 @@
     {
         text-align: left;
     }
+    .achieveInfographic .achieveWrapper {
+        width: 100%;
+    }
+    .achieveInfographic .title-text
+    {
+        text-align: center;
+    }
+    .achieveWrapper.upSet{
+        display: flex;
+        flex-flow: column-reverse;
+    }
+    .achieveInfographic .title-round {
+        font-size: var(--fs-20);
+        min-height: 50px;
+        max-width: 100%;
+    }
+    .achieveInfographic .title-round-grey {
+        font-size: var(--fs-12);
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1198px) {
@@ -759,7 +778,55 @@ and (-webkit-min-device-pixel-ratio: 1) {
         max-width: 480px;
     }
 }
+@media (min-width: 768px) and (max-width: 991px){
+    .svg-md
+    {
+        display: block;
+    }
+    .achieveInfographic .svg-total-line {
+        left: 10%;
+        top: 23%;
+        width: 82%;
+        height: 247px;
+    }
+    .achieveInfographic .svg-total-line line {
+        stroke-width: 6px;
+    }
+    .svg-total-line line:nth-child(odd)
+    {
+        stroke-width: 15px;
+    }
+    .achieveInfographic .achieveWrapper {
+        width: 90%;
+    }
+    .achieveInfographic .title-round {
+        max-width: 170px;
+        font-size: var(--fs-18);
+        min-height: 50px;
+        width: 100%;
+    }
+    .achieveInfographic .title-round-grey {
+        font-size: var(--fs-12);
+    }
+}
 
+@media (min-width: 992px) and (max-width: 1199px){
+   .achieveInfographic .svg-total-line {
+        left: 8%;
+        top: 26%;
+        width: 82%;
+        height: 190px;
+    }
+    .achieveInfographic .achieveWrapper {
+        width: 80%;
+    }
+}
+@media (min-width: 992px) and (max-width: 1899px){
+    .svg-lg
+    {
+        display: block;
+    }
+}
 @media screen and (min-width: 1900px) { 
 
     :root
@@ -864,5 +931,39 @@ and (-webkit-min-device-pixel-ratio: 1) {
     }
     .featureBox .icon img {
         height: 100px;
+    }
+    .svg-xl
+    {
+        display: block;
+    }
+    .svg-total-line
+    {
+        top: 23% !important;
+        height: 380px !important;
+    }
+    .achieveInfographic .title-round {
+        border-radius: 120px;
+        padding: 20px;
+        max-width: 300px;
+        font-size: var(--fs-18);
+        min-height: 120px;
+        margin-bottom: 40px;
+    }
+    .achieveInfographic .title-round-grey {
+        font-size: var(--fs-12);
+    }
+    .achieveInfographic .title-text {
+        font-size: var(--fs-20);
+    }
+    .achieveInfographic .achieveWrapper {
+        width: 80%;
+    }
+    .achieveInfographic .svg-total-line line
+    {
+        stroke-width: 10;
+    }
+    .svg-total-line line:nth-child(odd)
+    {
+        stroke-width: 25px;
     }
 }
