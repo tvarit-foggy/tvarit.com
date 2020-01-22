@@ -1,3 +1,4 @@
+
 :root
 {
     --shadow:rgba(0, 0, 0, 0.22);
@@ -2567,6 +2568,7 @@ span.text-big60.red.fw-300.ai_predictive {
     text-transform: uppercase;
     min-height: 70px;
     line-height: 1;
+    font-family: 'Roboto Condensed', sans-serif;
     margin-bottom: 20px;
 }
 .achieveInfographic .title-round-grey

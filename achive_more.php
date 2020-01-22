@@ -246,7 +246,7 @@
                     </g>
                     </svg>
                 
-                <div class="col-md-4">
+                <div class="col-md-4 order-1 order-md-1">
                     <div class="achieveWrapper upSet">
                         <ul class="ul-list-bullet">
                             <li>Business Use-Case identification</li>
@@ -266,7 +266,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 order-3 order-md-2">
                     <div class="achieveWrapper upSet">
                         <div>
                             <div class="title-text">
@@ -287,7 +287,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 order-5 order-md-3">
                     <div class="achieveWrapper upSet">
                         <div>
                             <div class="title-text">
@@ -305,7 +305,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 order-2 order-md-4">
                     <div class="achieveWrapper downSet">
                         <div class="title-round">
                             Week 1
@@ -324,7 +324,7 @@
                     </div>
                 </div>
                 
-                <div class="col-md-3">
+                <div class="col-md-3 order-4 order-md-5">
                     <div class="achieveWrapper downSet">
                         <div class="title-round">
                             Week 3
@@ -341,7 +341,7 @@
                     </div>
                 </div>
                 
-                <div class="col-md-3">
+                <div class="col-md-3 order-6 order-md-6">
                     <div class="achieveWrapper downSet">
                         <div class="title-round title-round-grey">
                             Estimated time duration: <br >2 weeks(approx.)
