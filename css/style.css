@@ -876,7 +876,7 @@ p
 .section-padding-both-2x
 {
     padding-top: 140px;
-    padding-bottom: 140px;
+    padding-bottom: 70px;
 }
 
 
@@ -1457,7 +1457,7 @@ p
 
 .hdrscrollArrow i
 {
-    font-size: var(--fs-44);
+    font-size: var(--fs-38);
     color: var(--dark-color);
     transform: rotate(90deg);
 }
@@ -2622,4 +2622,19 @@ span.text-big60.red.fw-300.ai_predictive {
   from {
       stroke-dashoffset:200;
   }
+}
+
+.black_plateform {
+    bottom: 7% !important;
+}
+.black_plateform i {
+    color: var(--dark-color) !important;
+}
+
+.black_scroll i {
+    color: var(--dark-color) !important;
+}
+
+a .tvarit-black:hover {
+    color: var(--primary) !important;
 }
