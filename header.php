@@ -1,3 +1,24 @@
+	
+<style>
+/* Paste this css to your style sheet file or under head tag */
+/* This only works with JavaScript, 
+if it's not present, don't show loader */
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(img/Preloader_3.gif) center no-repeat #fff;
+}
+</style>    
+
+<!-- Paste this code after body tag -->
+<div class="se-pre-con"></div>
+	<!-- Ends -->
 <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand bold uppr" href="index">
