@@ -194,8 +194,8 @@
                     <img src="img/ai-solution-1.png" >
                 </div>
                 <div class="inner-container">
-                  <p class="title">AI Solutions</p>
-                  <div class="short-line bg-red"></div>
+                  <p class="title text-center">AI Solutions</p>
+                  <div class="short-line mx-auto bg-red"></div>
                   <ul class="ul-list">
                     <li>
                     Ready to use AI solutions for most impactful business use-cases
@@ -218,8 +218,8 @@
                     <img src="img/ai-platform-1.png">
                 </div>
                 <div class="inner-container">
-                  <p class="title">AI Platform</p>
-                  <div class="short-line bg-red"></div>
+                  <p class="title text-center">AI Platform</p>
+                  <div class="short-line mx-auto bg-red"></div>
                   <ul class="ul-list">
                     <li>
                      Award winning AI Platform for your Data Scientists
@@ -242,8 +242,8 @@
                 <img src="img/ai-consulting-1.png" >
               </div>
                 <div class="inner-container">
-                  <p class="title">AI Consulting</p>
-                  <div class="short-line bg-red"></div>
+                  <p class="title text-center">AI Consulting</p>
+                  <div class="short-line mx-auto bg-red"></div>
                   <ul class="ul-list">
                     <li>
                       Data Extraction, IT Systems Integration, Data Preparation, AI Modeling

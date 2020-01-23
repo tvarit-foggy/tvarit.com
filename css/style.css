@@ -2226,7 +2226,7 @@ span.text-big60.red.fw-300.ai_predictive {
     padding-top: 30px;
     padding-left: 40px;
     padding-right: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 .weOfferBox .inner-container .short-line
 {
@@ -2510,7 +2510,7 @@ span.text-big60.red.fw-300.ai_predictive {
 .btn-knowmore
 {
     position: absolute;
-    bottom: 2%;
+    bottom: 20px;
     left: 0;
     right: 0;
     margin: auto;

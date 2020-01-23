@@ -59,6 +59,10 @@
     margin-right: 20px;
     color: var(--primary);
 }
+.countingNumBox .icon img
+{
+    max-width: 70px;
+}
 .countingNumBox .numbers
 {
     font-weight: 900;
