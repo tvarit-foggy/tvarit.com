@@ -355,7 +355,10 @@
     .ul-list-50 li {
         width: 96%;
     }
-    
+    .ul-li-30 {
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+    }
     .weOfferBox .featureBox .title
     {
         text-align: left;
