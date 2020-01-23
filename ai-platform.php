@@ -167,7 +167,7 @@
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Decides whether data is to be clamped or dropped</li>
-                  <li>Automatically fills data</li>
+                  <li>Automatically fills missing data</li>
                   <li>Segregation between classes of labels</li>
                 </ul>
             </div>
