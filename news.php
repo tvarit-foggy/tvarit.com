@@ -565,7 +565,7 @@
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
     <script src="js/mixitup.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
+    <script defer src="js/owl.carousel.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
 

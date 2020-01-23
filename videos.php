@@ -251,7 +251,9 @@
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
     <script src="js/jquery.fancybox.js"></script>
-
+    <scritp>
+        
+    </script>
 
 
 </body>
