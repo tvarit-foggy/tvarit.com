@@ -317,8 +317,8 @@
                                      </div>
                                      <div class="col-md">
                                          <div class="form-group">
-                                             <input type="number" class="form-control" name="phone" id="phone"
-                                                 placeholder="Phone *">
+                                             <input type="text" class="form-control" name="phone" id="phone"
+                                                 placeholder="Phone *" onkeypress='validate(event)'>
                                          </div>
                                      </div>
                                  </div>
@@ -338,24 +338,32 @@
                                      id</div>
                                  <div class="validationDemoIfEmpty" id="validationDemoInvalidEmail">Please enter a valid
                                      email id</div>
-
-
                              </div>
-
                          </div>
                      </form>
-
                  </div>
              </div>
-
-
          </div>
-
-
      </footer>
+     <script>
+     function validate(evt) {
+        var theEvent = evt || window.event;
 
-
-
+        // Handle paste
+        if (theEvent.type === 'paste') {
+            key = event.clipboardData.getData('text/plain');
+        } else {
+        // Handle key press
+            var key = theEvent.keyCode || theEvent.which;
+            key = String.fromCharCode(key);
+        }
+        var regex = /[0-9]/;
+        if( !regex.test(key) ) {
+            theEvent.returnValue = false;
+            if(theEvent.preventDefault) theEvent.preventDefault();
+        }
+     }
+     </script>
  </body>
 
  </html>
