@@ -573,6 +573,10 @@ p
     right:0;
     bottom: 0;
 }
+.ul-sub-menu
+{
+    position: relative;
+}
 .ul-sub-menu,.ul-deep-menu
 {
     list-style: none;
@@ -580,11 +584,12 @@ p
     width: 100%;
     border-left: 1px solid #ddd;
 }
+
 .ul-deep-menu
 {
     display: none;
     position: absolute;
-    left: 300px;
+    left: 94%;
     top: 0;
 }
 .ul-sub-menu>li.active .ul-deep-menu
@@ -628,6 +633,11 @@ p
 .ul-sub-menu>li:hover>a:after,.ul-sub-menu>li.active>a:after,.ul-deep-menu>li:hover>a:after,.ul-deep-menu>li.active>a:after
 {
     display: block;
+}
+.navbar-nav {
+   
+    max-height: 100vh;
+    overflow: auto;
 }
 
 
@@ -2216,7 +2226,7 @@ span.text-big60.red.fw-300.ai_predictive {
     padding-top: 30px;
     padding-left: 40px;
     padding-right: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 .weOfferBox .inner-container .short-line
 {
@@ -2500,7 +2510,7 @@ span.text-big60.red.fw-300.ai_predictive {
 .btn-knowmore
 {
     position: absolute;
-    bottom: 2%;
+    bottom: 20px;
     left: 0;
     right: 0;
     margin: auto;
@@ -2634,7 +2644,9 @@ span.text-big60.red.fw-300.ai_predictive {
 .black_scroll i {
     color: var(--dark-color) !important;
 }
-
+.black_scroll {
+    bottom: 5%;
+}
 a .tvarit-black:hover {
     color: var(--primary) !important;
 }

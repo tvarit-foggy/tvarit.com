@@ -52,6 +52,10 @@
         width: 100%;
         border: none;
     }
+    .countingNumBox .icon img {
+        max-width: 40px !important;
+        margin-bottom: 10px !important;
+    }
 }
 
 @media (max-width:767px) {
@@ -278,6 +282,11 @@
     .countingNumBox .icon {
         margin-right: 0;
     }
+    .countingNumBox .icon img
+    {
+        max-width: 60px;
+        margin-bottom: 20px;
+    }
     .countingNumBox {
         display: block;
         text-align: center;
@@ -337,17 +346,8 @@
         padding-left: 0;
     }
     
-    .weOfferBox .featureBox
-    {
-        text-align: left;
-        height: auto;
-        margin-bottom: 30px;
-    }
+    
 
-    .btn-knowmore {
-        position: relative;
-        bottom: 0;
-    }
     .ul-logobox li {
         width: 49%;
         list-style: none;
@@ -486,9 +486,12 @@
         font-size: 12px;
         padding: 12px 20px;
     }
-
+    .main-menu li
+    {
+        margin-bottom: 6px;
+    }
     .submenu-div {
-        padding:0 10px;
+        padding:0 15px;
         background: #fff;
         box-shadow: none;
         position: relative;
@@ -515,6 +518,10 @@
         top: 0;
     }
 
+     .sub-300
+    {
+       min-width: 120px;
+    }
     .main-menu .navbar-nav .nav-item a.nav-link:before {
         left: 0;
         right: auto;
@@ -631,6 +638,22 @@
     .AmimgBox {
         margin-bottom: 30px;
     }
+    .weOfferBox .featureBox
+    {
+        text-align: left;
+        height: auto;
+        margin-bottom: 30px;
+    }
+    
+    .weOfferBox .inner-container
+    {
+        padding-bottom: 30px;
+    }   
+    .btn-knowmore {
+        position: relative;
+        bottom: 0;
+        display: flex;
+    }
 
 }
 
@@ -651,6 +674,18 @@
     .bringSlideSection .automtv-carousel
     {
         padding-left: 25px;
+    }
+    .sub-300
+    {
+        max-width: 300px;
+    }
+    .ul-sub-menu>li.active .ul-deep-menu {
+        display: flex;
+        flex-flow: column;
+        height: 100%;
+        justify-content: flex-end;
+        align-content: flex-end;
+        text-align: left;
     }
 }
 
@@ -779,6 +814,10 @@ and (-webkit-min-device-pixel-ratio: 1) {
         width: 100%;
         height: 290px;
         max-width: 480px;
+    }
+     .sub-300
+    {
+        max-width: 230px;
     }
 }
 @media (min-width: 768px) and (max-width: 991px){
