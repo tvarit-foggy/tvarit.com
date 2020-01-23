@@ -202,7 +202,7 @@ $("#btn").live("click",function(){
                     </div>
                     <div class="col-md">
                       <div class="form-group">
-                        <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone *">
+                        <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone *" onkeypress='validate(event)'>
                       </div>
                     </div>
                   </div>
@@ -268,8 +268,6 @@ $("#btn").live("click",function(){
         </div>
       </div>
     </div>
-    
-   
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
@@ -281,7 +279,24 @@ $("#btn").live("click",function(){
     <script src="js/readmore.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-    
+    <script>
+     function validate(evt) {
+        var theEvent = evt || window.event;
 
+        // Handle paste
+        if (theEvent.type === 'paste') {
+            key = event.clipboardData.getData('text/plain');
+        } else {
+        // Handle key press
+            var key = theEvent.keyCode || theEvent.which;
+            key = String.fromCharCode(key);
+        }
+        var regex = /[0-9]/;
+        if( !regex.test(key) ) {
+            theEvent.returnValue = false;
+            if(theEvent.preventDefault) theEvent.preventDefault();
+        }
+     }
+     </script>    
   </body>
   </html>
