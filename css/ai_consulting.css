@@ -320,7 +320,10 @@
     display: inline-block;
     vertical-align: text-top;
 }
-
+.ul-li-30 {
+    padding-right: 40px !important;
+    padding-left: 40px !important;
+}
 
 .Benefits-sec .featureBox .text-p {
     line-height: 1.5;
