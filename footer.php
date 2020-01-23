@@ -239,7 +239,7 @@
      <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
      <!------------------------try demo start --------------------->
     
-     <footer class="section-padding-both">
+     <footer class="section-padding-both" id="contact_us">
          <div class="container">
              <div class="row align-items-md-center">
                  <div class="col-lg-4 order-lg-1 order-2">
