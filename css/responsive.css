@@ -363,6 +363,10 @@
     .achieveInfographic .achieveWrapper {
         width: 100%;
     }
+    .achieveInfographic .title-text
+    {
+        text-align: center;
+    }
     .achieveWrapper.upSet{
         display: flex;
         flex-flow: column-reverse;

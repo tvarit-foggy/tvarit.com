@@ -65,7 +65,7 @@
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>    
      <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -271,7 +271,7 @@
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="videoWrapper">
-              <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
           <div class="col-lg-6">
@@ -471,8 +471,8 @@
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
     <script src="js/typed.js"></script>
-    <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
+    <script src="js/script.js"></script>
     <script type="text/javascript">
     function WriteCookie() {
         if (document.myform.customer.value == "") {
@@ -483,7 +483,6 @@
     }
 
     function ReadCookie() {
-      showFlag();
         document.getElementById('cookieDiv').style.visibility = 'hidden';
         var allcookies = document.cookie;
         cookiearray = allcookies.split(';');
@@ -497,6 +496,59 @@
             value = cookiearray[i].split('=')[1];
         }
     }
+    var tvarit = new Typed('#typed-tvarit', {
+      stringsElement: '#tvarit-strings',
+      typeSpeed: 20,
+      backSpeed: 0,
+      startDelay: 400,
+      fadeOut: true,
+      showCursor: false,
+      loop: false
+    });
+
+    var industrial = new Typed('#typed-industrial', {
+      stringsElement: '#industrial-strings',
+      typeSpeed: 40,
+      backSpeed: 0,
+      startDelay: 1000,
+      fadeOut: true,
+      showCursor: false,
+      loop: false
+    });
+
+    var prgf = new Typed('#typed-prgf', {
+      stringsElement: '#prgf-strings',
+      typeSpeed: 40,
+      backSpeed: 0,
+      startDelay: 1000,
+      fadeOut: true,
+      showCursor: false,
+      loop: false
+    });
+
+    var germany = new Typed('#typed-germany', {
+      stringsElement: '#germany-strings',
+      typeSpeed: 40,
+      backSpeed: 40,
+      startDelay: 2000,
+      fadeOut: true,
+      showCursor: false,
+      loop: false,
+      backDelay:500,
+      smartBackspace: true,
+    });
+
+    var germanyPrgf = new Typed('#typed-prgf2r', {
+      stringsElement: '#prgf2r-strings',
+      typeSpeed: 40,
+      backSpeed: 40,
+      startDelay: 2000,
+      fadeOut: true,
+      showCursor: false,
+      loop: true,
+      backDelay:500,
+      smartBackspace: true,
+    });
     </script>
 <style>   
 .rw-words-1 span{

@@ -90,21 +90,21 @@
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
-    <header class="headerBg bgSizeCover electricMotorBg">
+    <header class="headerBg bgSizeCover cableManfBg">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown text-white" ></i></a>
-            <div class="row align-items-center">
+            <div class="row align-items-center left">
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
-                        <div class="text-1" >
-                            Predictive Maintenance for
+                        <div class="text-1">
+                            AI based Production Planning solution for
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Industrial
+                                Cable
                             </div>
                             <div class="text-big40">
-                                Electric Motors
+                            Manufacturing
                             </div>
                         </div>
                         <br>
@@ -121,26 +121,23 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Predictive Maintenance for 
-                    <br>Industrial Electric Motors</span>
+                <span class="innr-sec-mainTitle ai_predictive">AI based Production Planning solution for <br> Cable Manufacturing</span>
             </div>
-            <br>
             <br>
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="./img/predic1.png" class="img-fluid">
+                        <img src="./img/ai_software_solution.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
                     <div class="box-content-top-left">
                         <ul class="ul-list-bullet">
-                            <li>Real time prediction of various maintenance attributes</li>
-                            <li>Reduced maintenance costs</li>
-                            <li>Reduced unexpected failures</li>
-                            <li>Increased MTBF</li>
-                            <li>Increased Uptime</li>
-                            <li>Reduced spare part inventory</li>
+                            <li>Reduced changeover times</li>
+                            <li>Reduced inventory costs</li>
+                            <li>Reduced bottlenecks</li>
+                            <li>Reduced costs</li>
+                            <li>Increased uptime and availability of machines</li>
                         </ul>
                     </div>
                 </div>
@@ -152,73 +149,75 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT <span class="red">AI</span> </div>
+                    <div class="sec-mainTitle">TVARIT <span class="red">AI</span></div>
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We help large and medium-sized industrial motor users in reducing the risk of their asset failures
-                    and inventory costs of spare parts.
+                    We help large and medium sized cable manufacturing organizations in optimizing their production
+                    processes, improving their management systems and achieving higher profitability.
                 </div>
             </div>
         </div>
     </div>
     <!---------------------Seminar Event ------------------->
     <!-- <div class="section-padding-both" id="downClick">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="leftSideFilter checkbox-filter white-box-shadow cstmInput">
-                        <div class="red text-big40" style="font-size:25px;">USE-CASE
-                            <br>
-                            <div class="short-line bg-grey"></div>
-                        </div>
-                        <p>
-                            Predicting the shutdown of big motor drives used in printing press while they are in
-                            operation. Price of each motor: 15000 euros.
-                        </p>
-                    </div>
-                </div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="leftSideFilter checkbox-filter white-box-shadow cstmInput">
+                                        <div class="red text-big40" style="font-size:25px;">USE-CASE
+                                            <br>
+                                            <div class="short-line bg-grey"></div>
+                                        </div>
+                                        <p>
+                                        AI based production planning system for cable manufacturer. Price of each motor: Capacity of factory: 100,000 Cu tons/year
+                                        </p>
+                                    </div>
+                                </div>
 
-                <div class="col-md-8">
-                    <div class="col-md">
-                        <div class="white-box-shadow left-md-border top-border">
-                            <div class="red text-big40" style="font-size:25px;">BENEFITS<br>
-                                <div class="short-line bg-grey"></div>
-                            </div>
-                            <br>
-                            <ul class="ul-list-bullet">
-                                <li>Increased motor uptime</li>
-                                <li>Reduced inventory costs</li>
-                                <li>Live production dashboard with predictive alerts</li>
-                                <li>Measurable economic benefits</li>
-                            </ul>
-                            <br>
-                            <div class="row align-items-center">
-                                <div class="col-md">
-                                    <div class="form-group">
-                                        <input type="button" value="REQUEST FULL CASE STUDY" id="btn"
-                                            class="btn btn-round btn-red-grd">
-                                    </div>
-                                </div>
-                                <div class="col-md">
-                                    <div class="form-group">
-                                        <a href="#form1" class="btn btn-round btn-red-grd">CONTACT US</a>
+                                <div class="col-md-8">
+                                    <div class="col-md">
+                                        <div class="white-box-shadow left-md-border top-border">
+                                        <div class="red text-big40" style="font-size:25px;">BENEFITS<br>
+                                            <div class="short-line bg-grey"></div>
+                                        </div>
+                                            <br>
+                                            <ul class="ul-list-bullet">
+                                                <li>Increased volume output</li>
+                                                <li>High OEE</li>
+                                                <li>Reduced product and machine changeover times</li>
+                                                <li>Real time production view</li>
+                                                <li>Reduced inventory costs</li>
+                                                <li>Measurable economic benefits</li>
+
+                                            </ul>
+                                            <br>
+                                            <div class="row align-items-center">
+                                                <div class="col-md">
+                                                    <div class="form-group">
+                                                        <input type="button" value="REQUEST FULL CASE STUDY" id="btn" class="btn btn-round btn-red-grd">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md">
+                                                <div class="form-group">
+                                                        <a href="#form1" class="btn btn-round btn-red-grd">CONTACT US</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
+                    </div> -->
+    <!---------------------Seminar Event End ------------------->
     <div class="section-padding" id="Benefits">
         <div class="container">
 
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="img/USE-CASE_Electric motor_Printing-press.jpg" class="img-fluid">
+                        <img src="img/USE-CASE_Cable.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -229,8 +228,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Predicting the shutdown of big motor drives used in printing press while they are in
-                            operation. Price of each motor: 15000 euros.</p>
+                            AI based production planning system for cable manufacturer. Price of each motor: Capacity of factory: 100,000 Cu tons/year.</p>
                         </div>
                     </div>
                 </div>
@@ -243,16 +241,18 @@
         <div class="container">
             <div class="row align-items-lg-center">
                 <div class="col-lg order-2 order-lg-1">
-                    <div class="px-lg-4">
+                    <div class="px-lg-4 ">
                         <div class="title">
                             <div class="sec-mainTitle">Benefits</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
-                        <ul class="ul-list-bullet">
-                                <li>Increased motor uptime</li>
+                            <ul class="ul-list-bullet">
+                                <li>Increased volume output</li>
+                                <li>High OEE</li>
+                                <li>Reduced product and machine changeover times</li>
+                                <li>Real time production view</li>
                                 <li>Reduced inventory costs</li>
-                                <li>Live production dashboard with predictive alerts</li>
                                 <li>Measurable economic benefits</li>
                             </ul>
                         </div>
@@ -261,22 +261,21 @@
 
                 <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
-                        <img src="img/benefits-electric-motor-printing-press.jpg" class="img-fluid">
+                        <img src="img/benefits-cable.jpg" class="img-fluid">
                     </div>
                 </div>
             </div>
 
         </div>
     </div>
-    <!---------------------Seminar Event End ------------------->
 
-
+    
     <!--------------------- Buttons  ------------------->
     <div class="section-padding-both">
             <div class="container white-box-shadow">
 
-                <div class="row align-items-center">
-                    <div class="col-md-6">
+                <div class="row align-items-lg-center">
+                    <div class="col-lg-6">
                         <div class="lookingBox rerBg-grd">
                             <div class="text text-white">
                                 <span class="fs-18  fw-400">Request for</span>
@@ -287,7 +286,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-lg-6">
                         <div class="lookingBox brdr-black">
                             <div class="text">
                                 <span class="fs-18  fw-400">for more details</span>
@@ -304,7 +303,7 @@
             </div>
         </div>
     <!--------------------- Buttons  ------------------->
-     <!------------------------Countdown start --------------------->
+    <!------------------------Countdown start --------------------->
     <?php
     include 'change_we_brought.php'
     ?>
@@ -342,13 +341,12 @@
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
-
+    <script src="js/counting.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/SmoothScroll.js"></script>
     <script src="js/flickity.pkgd.min.js"></script>
     <script src="js/readmore.js"></script>
-    <script src="js/counting.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
     <script type="text/javascript">

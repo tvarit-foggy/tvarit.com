@@ -90,21 +90,21 @@
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
-    <header class="headerBg bgSizeCover injectionModBg">
+    <header class="headerBg bgSizeCover electricMotorBg">
         <div class="container">
-            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown text-white"></i></a>
+            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown text-white" ></i></a>
             <div class="row align-items-center">
-                <div class="col-md-6">
+                <div class="col-lg-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1" >
-                            Predictive Quality for
+                            Predictive Maintenance for
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Die-casting
+                                Industrial
                             </div>
-                            <div class="text-big40" st>
-                             Process
+                            <div class="text-big40">
+                                Electric Motors
                             </div>
                         </div>
                         <br>
@@ -121,24 +121,26 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Predictive Quality for <br> Die-casting
-                    Process</span>
+                <span class="innr-sec-mainTitle ai_predictive">Predictive Maintenance for 
+                    <br>Industrial Electric Motors</span>
             </div>
             <br>
-            <div class="row align-items-center">
-                <div class="col-md">
+            <br>
+            <div class="row align-items-lg-center">
+                <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="./img/predictive_quality.png" class="img-fluid">
+                        <img src="./img/predic1.jpg" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-md">
+                <div class="col-lg">
                     <div class="box-content-top-left">
                         <ul class="ul-list-bullet">
-                            <li>Real time prediction of various quality attributes</li>
-                            <li>Reduced number of quality defects</li>
-                            <li>Live recommendation for corrective actions</li>
-                            <li>Increased profitability</li>
-                            <li>Increased Know-how</li>
+                            <li>Real time prediction of various maintenance attributes</li>
+                            <li>Reduced maintenance costs</li>
+                            <li>Reduced unexpected failures</li>
+                            <li>Increased MTBF</li>
+                            <li>Increased Uptime</li>
+                            <li>Reduced spare part inventory</li>
                         </ul>
                     </div>
                 </div>
@@ -150,83 +152,85 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">TVARIT AI </span> </div>
+                    <div class="sec-mainTitle">TVARIT <span class="red">AI</span> </div>
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We help large and medium-sized metal and plastic mold manufacturers in optimizing their production
-                    processes, improving their management systems and achieving higher profitability
+                    We help large and medium-sized industrial motor users in reducing the risk of their asset failures
+                    and inventory costs of spare parts.
                 </div>
             </div>
         </div>
     </div>
     <!---------------------Seminar Event ------------------->
     <!-- <div class="section-padding-both" id="downClick">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="leftSideFilter checkbox-filter white-box-shadow cstmInput">
-                                        <div class="red text-big40" style="font-size:25px;">USE-CASE
-                                            <br>
-                                            <div class="short-line bg-grey"></div>
-                                        </div>
-                                        <p>
-                                            Predicting the shutdown of big motor drives used in printing press while they are in operation. Price of each motor: 15000 euros.
-                                        </p>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="leftSideFilter checkbox-filter white-box-shadow cstmInput">
+                        <div class="red text-big40" style="font-size:25px;">USE-CASE
+                            <br>
+                            <div class="short-line bg-grey"></div>
+                        </div>
+                        <p>
+                            Predicting the shutdown of big motor drives used in printing press while they are in
+                            operation. Price of each motor: 15000 euros.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-8">
+                    <div class="col-md">
+                        <div class="white-box-shadow left-md-border top-border">
+                            <div class="red text-big40" style="font-size:25px;">BENEFITS<br>
+                                <div class="short-line bg-grey"></div>
+                            </div>
+                            <br>
+                            <ul class="ul-list-bullet">
+                                <li>Increased motor uptime</li>
+                                <li>Reduced inventory costs</li>
+                                <li>Live production dashboard with predictive alerts</li>
+                                <li>Measurable economic benefits</li>
+                            </ul>
+                            <br>
+                            <div class="row align-items-center">
+                                <div class="col-md">
+                                    <div class="form-group">
+                                        <input type="button" value="REQUEST FULL CASE STUDY" id="btn"
+                                            class="btn btn-round btn-red-grd">
                                     </div>
                                 </div>
-
-                                <div class="col-md-8">
-                                    <div class="col-md">
-                                        <div class="white-box-shadow left-md-border top-border">
-                                        <div class="red text-big40" style="font-size:25px;">BENEFITS<br>
-                                            <div class="short-line bg-grey"></div>
-                                        </div>
-                                            <br>
-                                            <ul class="ul-list-bullet">
-                                                <li>Increased motor uptime.</li>
-                                                <li>Reduced inventory costs.</li>
-                                                <li>Live production dashboard with predictive alerts.</li>
-                                                <li>Measurable economic benefits.</li>
-                                            </ul>
-                                            <br>
-                                            <div class="row align-items-center">
-                                                <div class="col-md">
-                                                    <div class="form-group">
-                                                        <input type="button" value="REQUEST FULL CASE STUDY" id="btn" class="btn btn-round btn-red-grd">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md">
-                                                <div class="form-group">
-                                                <a href="#form1" class="btn btn-round btn-red-grd">CONTACT US</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                <div class="col-md">
+                                    <div class="form-group">
+                                        <a href="#form1" class="btn btn-round btn-red-grd">CONTACT US</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div> -->
-
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
     <div class="section-padding" id="Benefits">
         <div class="container">
+
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="img/Use-case_die-casting-Motor_B.jpg" class="img-fluid">
+                        <img src="img/USE-CASE_Electric motor_Printing-press.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span></div>
+                            <div class="sec-mainTitle">USE-CASE</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Predicting the quality status of wheel coming from die-casting machine for next batches. Price of each motor: 15000 euros.
-                            </p>
+                            Predicting the shutdown of big motor drives used in printing press while they are in
+                            operation. Price of each motor: 15000 euros.</p>
                         </div>
                     </div>
                 </div>
@@ -237,20 +241,18 @@
 
     <div class="section-padding">
         <div class="container">
-
-            <div class="row align-items-center">
-
+            <div class="row align-items-lg-center">
                 <div class="col-lg order-2 order-lg-1">
                     <div class="px-lg-4">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefits</span></div>
+                            <div class="sec-mainTitle">Benefits</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
-                            <ul class="ul-list-bullet">
-                                <li>Reduce number of defected pieces by 76%</li>
-                                <li>Real time production view</li>
-                                <li>Increased know-how</li>
+                        <ul class="ul-list-bullet">
+                                <li>Increased motor uptime</li>
+                                <li>Reduced inventory costs</li>
+                                <li>Live production dashboard with predictive alerts</li>
                                 <li>Measurable economic benefits</li>
                             </ul>
                         </div>
@@ -259,51 +261,50 @@
 
                 <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
-                        <img src="img/benefits-die-casting-machine.jpg" class="img-fluid">
+                        <img src="img/benefits-electric-motor-printing-press.jpg" class="img-fluid">
                     </div>
                 </div>
             </div>
 
         </div>
     </div>
-    <br>
     <!---------------------Seminar Event End ------------------->
+
 
     <!--------------------- Buttons  ------------------->
     <div class="section-padding-both">
-        <div class="container white-box-shadow">
+            <div class="container white-box-shadow">
 
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="lookingBox rerBg-grd">
-                        <div class="text text-white">
-                            <span class="fs-18  fw-400">Request for</span>
-                            <h3 class="fw-900">a full case study</h3>
-                        </div>
-                        <div>
-                            <a href="#" data-toggle="modal" data-target="#exampleModal"
-                                class="btn btn-round btn-white">Click Here</a>
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <div class="lookingBox rerBg-grd">
+                            <div class="text text-white">
+                                <span class="fs-18  fw-400">Request for</span>
+                                <h3 class="fw-900">a full case study</h3>
+                            </div>
+                            <div>
+                                <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn btn-round btn-white">Click Here</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="lookingBox brdr-black">
-                        <div class="text">
-                            <span class="fs-18  fw-400">for more details</span>
-                            <h3 class="fw-900">Contact us</h3>
-                        </div>
+                    <div class="col-md-6">
+                        <div class="lookingBox brdr-black">
+                            <div class="text">
+                                <span class="fs-18  fw-400">for more details</span>
+                                <h3 class="fw-900">Contact us</h3>
+                            </div>
 
-                        <div>
+                            <div>
                             <a href="#form1" class="btn btn-round btn-red-grd">Click Here</a>
+                            </div>
                         </div>
                     </div>
-                </div>
 
+                </div>
             </div>
         </div>
-    </div>
     <!--------------------- Buttons  ------------------->
-    <!------------------------Countdown start --------------------->
+     <!------------------------Countdown start --------------------->
     <?php
     include 'change_we_brought.php'
     ?>
@@ -318,8 +319,8 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-md-6">
-                    <p class="m-0 text-white text-center text-md-left">We use cookies to improve your experience on
-                        our website. By browsing this website, you agree to our use of cookies.</p>
+                    <p class="m-0 text-white text-center text-md-left">We use cookies to improve your experience on our
+                        website. By browsing this website, you agree to our use of cookies.</p>
                 </div>
                 <div class="col-md-4">
                     <form name="myform" action="">
@@ -334,13 +335,14 @@
             </div>
         </div>
     </div>
+
     <?php
         include 'case-study-modal.php';
     ?>
-
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
+
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/SmoothScroll.js"></script>

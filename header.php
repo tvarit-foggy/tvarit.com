@@ -16,9 +16,6 @@
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index">Home</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="#">AI Solutions</a>
                         <div class="submenu-div">
                             <div class="row">
@@ -31,11 +28,11 @@
                                 <div class="col-md-4 col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
-                                                OEE for Steel and Metal Manufacturing companies</a>
+                                            <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" class="sub-Link">Optimize
+                                                OEE for Metal Manufacturing companies</a>
                                         </li>
                                         <li>
-                                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                            <a href="predictive-maintenance-for-industrial-electric-motors" class="sub-Link">Predictive
                                                 Maintenance for Industrial Electric Motors</a>
                                         </li>
                                        
@@ -44,12 +41,11 @@
                                 <div class="col-md-4 col">
                                      <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
-                                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
-                                                Companies</a>
+                                            <a href="ai-based-production-solution-for-cable-manufacturing"
+                                                class="sub-Link">AI Based Production Planning for Cable Manufacturing</a>
                                         </li>
                                         <li>
-                                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
+                                            <a href="predictive-quality-for-die-casting-machines" class="sub-Link">Predictive
                                                 Quality for Die-casting Machines</a>
                                         </li>
                                     </ul>
@@ -99,12 +95,12 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">More</a>
+                        <a class="nav-link" href="#">Explore</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                         <div class="textBig">More<span class="red">.</span></div>
+                                         <div class="textBig">Explore<span class="red">.</span></div>
                                         <!-- <p class="text-normal"></p> -->
                                     </div>
                                 </div>
@@ -159,3 +155,9 @@
             </div>
         </nav>
     </div>
+             <!------------------------sticky contact button start --------------------->
+<div class="sticky-contact-bar">
+<a href="contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>    
+<!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
+</div>
+<!------------------------sticky contact button end --------------------->

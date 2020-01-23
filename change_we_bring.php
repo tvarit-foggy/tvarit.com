@@ -1,12 +1,12 @@
-<div class="section-padding bringSlideSection">
+<!-- <div class="section-padding bringSlideSection">
     <div class="row align-items-center">
         <div class="col-md-6 pdn-l-col">
-            <div class="title md-center-title">
+            <div class="title md-center-title"> -->
                 <!-- <div class="text-first red">The change</div> -->
                 <!-- <div class="text-big60">Try Demo Now</div> -->
                 <!-- <div class="short-line bg-red"></div> -->
-            </div>
-        </div>
+            <!-- </div>
+        </div> -->
         <!-- <div class="col-md-6">
             <div class="automtv-carousel">
                 <div class="carousel-cell">
@@ -84,5 +84,5 @@
 
             </div>
         </div> -->
-    </div>
-</div>
+    <!-- </div>
+</div> -->

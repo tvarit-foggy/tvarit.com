@@ -105,8 +105,8 @@
     <br>
      <!------------------------ Automotives start --------------------->
 
-     <div class="section-padding" id="Event" style="padding: 10px;">
-        <div class="container-fluid">
+     <div class="section-padding" id="Event">
+        <div class="container">
             <div class="centerTitle text-big60">
                 Latest <span class="fw-900">News</span>
             </div>
@@ -557,7 +557,7 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
-
+    <script defer src="js/owl.carousel.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/SmoothScroll.js"></script>
@@ -565,10 +565,9 @@
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
     <script src="js/mixitup.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-
+    
 </body>
 
 </html>

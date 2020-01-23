@@ -40,6 +40,7 @@
      <!------------------------ header start ------------------------->
     <header class="headerBg aiplatformBg macbook-sec">
       <div class="container">
+      <a href="#downClick" class="hdrscrollArrow black_plateform" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="typography">
@@ -61,7 +62,7 @@
               <div class="macbook-lapi">
                 <img src="img/lapi-2.png" class="img-fluid">
               </div>
-              <iframe class="macbook-video" src="https://www.youtube.com/embed/J0CnupBDA74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe class="macbook-video" src="https://www.youtube.com/embed/J0CnupBDA74?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
         </div>
@@ -70,10 +71,10 @@
     <!------------------------ header end --------------------------->
 
      <!------------------------ CONSULTING start --------------------->
-    <div id="downClick">
+    <div class="section-padding" id="downClick">
       <div class="container">
         <div class="centerTitle">
-          <div class="innr-sec-mainTitle mb-0">Witness the most complete and true <span class="red">AI</span> Platform</div>
+          <div class="innr-sec-mainTitle mb-0">Witness the most complete <br> and true <span class="red">AI</span> Platform</div>
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
             Tvarit AI is an award winning AI platform. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques to enable you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models as per your needs. It also gives world-class user experience in the form of simple and sleek design by leveraging the state-of-the-art technology.
@@ -167,7 +168,7 @@
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Decides whether data is to be clamped or dropped</li>
-                  <li>Automatically fills data</li>
+                  <li>Automatically fills missing data</li>
                   <li>Segregation between classes of labels</li>
                 </ul>
             </div>
@@ -325,7 +326,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/3.png" class="img-fluid">
                   <div class="logotext">
-                    POSTGRE SQL
+                  PostgreSQL
                   </div>
                 </div>
               </li>
@@ -333,7 +334,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/4.png" class="img-fluid">
                   <div class="logotext">
-                    GOOGLE ANALYTICS
+                  Google Analytics
                   </div>
                 </div>
               </li>
@@ -341,7 +342,7 @@
                  <div class="logo-box">
                   <img src="img/logoImg/5.png" class="img-fluid">
                   <div class="logotext">
-                    MONGODB
+                  MongoDB
                   </div>
                 </div>
               </li>
@@ -349,7 +350,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/7.png" class="img-fluid">
                   <div class="logotext">
-                    AMAZON REDSHIFT
+                  Amazon Redshift
                   </div>
                 </div>
               </li>
@@ -357,7 +358,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/8.png" class="img-fluid">
                   <div class="logotext">
-                    IMPALA
+                  Impala
                   </div>
                 </div>
               </li>
@@ -365,7 +366,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/9.png" class="img-fluid">
                   <div class="logotext">
-                    CASSANDRA
+                  Cassandra
                   </div>
                 </div>
               </li>
@@ -373,7 +374,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/10.png" class="img-fluid">
                   <div class="logotext">
-                    ELASTIC SEARCH
+                  Elasticsearch
                   </div>
                 </div>
               </li>
@@ -381,7 +382,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/11.png" class="img-fluid">
                   <div class="logotext">
-                    MS SQL
+                  MS SQL
                   </div>
                 </div>
               </li>
@@ -389,7 +390,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/12.png" class="img-fluid">
                   <div class="logotext">
-                    SNOWFLAKE
+                  Snowflake
                   </div>
                 </div>
               </li>
@@ -397,7 +398,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/13.png" class="img-fluid">
                   <div class="logotext">
-                    ORACLE
+                  Oracle
                   </div>
                 </div>
               </li>
@@ -405,7 +406,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/6.png" class="img-fluid">
                   <div class="logotext">
-                  MEMSQL
+                  MemSQL
                   </div>
                 </div>
               </li>
@@ -413,7 +414,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/14.png" class="img-fluid">
                   <div class="logotext">
-                    MYSQL
+                  MySQL
                   </div>
                 </div>
               </li>
@@ -421,7 +422,7 @@
                  <div class="logo-box">
                   <img src="img/logoImg/15.png" class="img-fluid">
                   <div class="logotext">
-                    SALESFORCE
+                  Salesforce
                   </div>
                 </div>
               </li>
@@ -429,7 +430,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/16.png" class="img-fluid">
                   <div class="logotext">
-                    HIVE
+                  Apache Hive
                   </div>
                 </div>
               </li>
