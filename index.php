@@ -271,7 +271,7 @@
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="videoWrapper">
-              <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
           <div class="col-lg-6">

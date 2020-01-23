@@ -179,7 +179,7 @@
                                         operations
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        now</a>
+                                        Now</a>
                                 </div>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                                         are clean and for machine learning purposes
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        now</a>
+                                        Now</a>
                                 </div>
                             </div>
                         </div>
@@ -225,7 +225,7 @@
                                         the required output that needs to be learned
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        now</a>
+                                        Now</a>
                                 </div>
                             </div>
                         </div>
@@ -248,7 +248,7 @@
                                         are complete and releveant for machine learning purposes
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        now</a>
+                                        Now</a>
                                 </div>
                             </div>
                         </div>
@@ -271,7 +271,7 @@
                                         like tweaker, what-if analysis, root cause analysis, etc
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        now</a>
+                                        Now</a>
                                 </div>
                             </div>
                         </div>
@@ -281,7 +281,7 @@
             </div>
             <br>
             <div class="text-center">
-                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Know more</a>
+                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Know More</a>
             </div>
 
         </div>
@@ -358,8 +358,7 @@
                             <h3 class="fw-900">for one day</h3>
                         </div>
                         <div>
-                            <a href="#" data-toggle="modal" data-target="#exampleModal"
-                                class="btn btn-round btn-white">Click Here</a>
+                            <a href="#contact_us" class="btn btn-round btn-white">Click Here</a>
                         </div>
                     </div>
                 </div>
@@ -371,7 +370,7 @@
                         </div>
 
                         <div>
-                            <a href="#form1" class="btn btn-round btn-red-grd">Click Here</a>
+                            <a href="#contact_us" class="btn btn-round btn-red-grd">Click Here</a>
                         </div>
                     </div>
                 </div>

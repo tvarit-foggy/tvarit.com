@@ -93,7 +93,7 @@
     </header>
     <!------------------------ header end --------------------------->
     <!------------------------ Automotives start --------------------->
-    <div class="section-padding-both" id="downClick">
+    <div class="section-padding" id="downClick">
         <div class="container">
 
             <div class="centerTitle text-big60">
@@ -853,9 +853,11 @@
 
 
     <!------------------------Countdown start --------------------->
+    <div class="section-padding">
     <?php 
                 include 'change_we_brought.php';
                 ?>
+                </div>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
     <?php 
