@@ -573,6 +573,10 @@ p
     right:0;
     bottom: 0;
 }
+.ul-sub-menu
+{
+    position: relative;
+}
 .ul-sub-menu,.ul-deep-menu
 {
     list-style: none;
@@ -580,11 +584,12 @@ p
     width: 100%;
     border-left: 1px solid #ddd;
 }
+
 .ul-deep-menu
 {
     display: none;
     position: absolute;
-    left: 300px;
+    left: 94%;
     top: 0;
 }
 .ul-sub-menu>li.active .ul-deep-menu
@@ -628,6 +633,11 @@ p
 .ul-sub-menu>li:hover>a:after,.ul-sub-menu>li.active>a:after,.ul-deep-menu>li:hover>a:after,.ul-deep-menu>li.active>a:after
 {
     display: block;
+}
+.navbar-nav {
+   
+    max-height: 100vh;
+    overflow: auto;
 }
 
 
