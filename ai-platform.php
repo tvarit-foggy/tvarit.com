@@ -287,7 +287,7 @@
               <div class="short-line mx-md-auto bg-red"></div>
             </div>
             <br>
-            <ul class="ul-list-bullet ul-list-50 ul-li-30">
+            <ul class="ul-list-bullet ul-list-50">
               <li>
                 Available in all flavours : On-Premise, cloud and edge-computing
               </li>
