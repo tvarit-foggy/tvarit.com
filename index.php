@@ -207,7 +207,8 @@
                       Available on On-Premise, Cloud and edge-computing
                     </li>
                   </ul>
-                  <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+                  <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
+                   class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
                 </div>
             </div>
           </div>

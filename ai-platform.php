@@ -99,7 +99,8 @@
                 <h4 class="title">Data Extraction</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                <li>  Receive data from all kinds of IT systems and other business process systems used in the manufacturing units </li>
+                <li>  Plugins for all IT systems and Process Engineering Softwares </li>
+                <li>  Plugins for all DBMS systems </li>
               </ul>
             </div>
           </div>
@@ -120,10 +121,9 @@
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Checks and suggests you the ways to fill  missing data </li>
-                  <li>Finds normal  limits of paramters</li>
-                  <li>Decide data size without compromising on accuracy</li>
-                  <li>Removes multi-collinearity between input variables. Also, gives you the list of dependent input variables</li>
+                  <li>Decide data size without compromising on accuracy</li>                  
+                  <li>Segregates the historical data into multiple groups</li>
+                  <li>Figure out the information gained from the data</li>                
                 </ul>
             </div>
             
@@ -134,12 +134,7 @@
                 <h4 class="title">Data Understanding</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Sanity Check</li>
-                  <li>Missing Check</li>
-                  <li>Infer Best Bucket</li>
-                  <li>Multicollinearity check</li>
-                  <li>Infer Best Bucket</li>
-                  <li>Correlation Matrix</li>
+                  <li>Fruitful Analysis</li>
                   <li>Anomaly detection</li>
                 </ul>
             </div>
@@ -151,12 +146,7 @@
                 <h4 class="title">Data Preparation</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Clustering</li>
-                  <li>Feature Selection</li>
-                  <li>Fruitful Analysis</li>
                   <li>Sanity Handling</li>
-                  <li>Missing Handling</li>
-                  <li>Aggregate</li>
                   <li>Multicolinearity handling</li>
                 </ul>
             </div>
@@ -167,9 +157,9 @@
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Decides whether data is to be clamped or dropped</li>
+                  <li>Algorithms specifically optimized for Machine Sensor Data, ERP data, QC lab data</li>
                   <li>Automatically fills missing data</li>
-                  <li>Segregation between classes of labels</li>
+                  <li>Removes multi-collinearity between input variables</li>
                 </ul>
             </div>
           </div>
@@ -192,10 +182,8 @@
                 <h4 class="title">Feature Engineering</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>FFT Transformation</li>
-                  <li>Grouped FFT Transformation</li>
-                  <li>Correlation Analysis</li>
-                  <li>AddTime Parameters</li>
+                  <li>FFT, Wavelet, Entropy etc algorithms</li>
+                  <li>Batch Manufacturing 2-D data transformation</li>
                 </ul>
             </div>
           </div>
@@ -206,8 +194,6 @@
                 <h4 class="title">Predictive Modelling</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Train</li>
-                  <li>Retrain</li>
                   <li>Predict</li>
                   <li>Univariate forecasting</li>
                 </ul>
@@ -244,10 +230,7 @@
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Tweaker</li>
-                  <li>Global root cause analysis</li>
-                  <li>Local root cause analysis</li>
-                  <li>Scoring</li>
-                  <li>Confidence interval</li>
+                  <li>Global/Local root cause analysis</li>
                 </ul>
             </div>
           </div>
@@ -258,7 +241,6 @@
                 <h4 class="title">Risk Assessment:</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Covariant Shift</li>
                   <li>Novelty Detection</li>
                   <li>Outlier Detection</li>
                 </ul>
@@ -287,7 +269,7 @@
               <div class="short-line mx-md-auto bg-red"></div>
             </div>
             <br>
-            <ul class="ul-list-bullet ul-list-50 ul-li-30">
+            <ul class="ul-list-bullet ul-list-50">
               <li>
                 Available in all flavours : On-Premise, cloud and edge-computing
               </li>
