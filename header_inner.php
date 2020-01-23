@@ -98,13 +98,13 @@
                         <a class="nav-link" href="#">Explore</a>
                         <div class="submenu-div">
                             <div class="row">
-                                <div class="col-lg-4">
+                                <div class="col-lg-4 col">
                                     <div class="menuQuote">
                                          <div class="textBig">Explore<span class="red">.</span></div>
                                         <!-- <p class="text-normal"></p> -->
                                     </div>
                                 </div>
-                                <div class="col-lg-3 d-flex">
+                                <div class="col-lg-3 col d-flex">
                                     <ul class="ul-sub-menu sub-300">
                                         <li>
                                             <a href="../about#Vision" class="sub-Link">About Us</a>
@@ -120,7 +120,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="col-lg-5">
+                                <div class="col-lg-5 col">
                                     <ul class="ul-sub-menu sub-300">
                                         <li>
                                             <a href="../whitepapers" class="sub-Link">White Paper</a>

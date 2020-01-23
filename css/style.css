@@ -2644,7 +2644,9 @@ span.text-big60.red.fw-300.ai_predictive {
 .black_scroll i {
     color: var(--dark-color) !important;
 }
-
+.black_scroll {
+    bottom: 5%;
+}
 a .tvarit-black:hover {
     color: var(--primary) !important;
 }
