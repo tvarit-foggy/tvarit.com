@@ -346,7 +346,14 @@
          </div>
      </footer>
      <script>
-     function validate(evt) {
+	//paste this code under head tag or in a seperate js file.
+	// Wait for window load
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".fadeMe").fadeOut("slow");;
+	});
+
+    function validate(evt) {
         var theEvent = evt || window.event;
 
         // Handle paste
