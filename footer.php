@@ -238,32 +238,11 @@
      <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
      <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
      <!------------------------try demo start --------------------->
-     <div class="tryDemobg">
-         <div class="container text-center">
-             <!-- <div class="centerTitle text-white text-big60">
-                 TRY DEMO <span class="fw-900">NOW</span>
-             </div> -->
-             <br>
-             <!-- <div class="row justify-content-center">
-                 <div class="col-md-8">
-                     <div class="form-group">
-                         <div class="addon">
-                             <input type="text" class="form-control" id="emailDemo" placeholder="EMAIL">
-                             <input type="button" value="Send" id="btnDemo" class="btn btn-round btn-red-grd">
-                         </div>
-                     </div>
-                 </div>
-             </div> -->
-         </div>
-     </div>
-     <!------------------------try demo end --------------------->
-     <footer>
-
-
+    
+     <footer class="section-padding-both" id="contact_us">
          <div class="container">
-
-             <div class="row" style="flex-wrap: wrap-reverse;">
-                 <div class="col-md-4 section-padding">
+             <div class="row align-items-md-center">
+                 <div class="col-lg-4 order-lg-1 order-2">
                      <div class="ft-about">
                          <h3>We are working for you!</h3>
                          <div class="ftaboutmore">
@@ -314,7 +293,7 @@
                      </div>
 
                  </div>
-                 <div class="col-md-8">
+                 <div class="col-lg-8 order-lg-2 order-1 mb-lg-0 mb-5">
                      <form method="post">
                          <div class="contactBox">
                              <div class="text-contact" id="contact_us">
@@ -338,8 +317,8 @@
                                      </div>
                                      <div class="col-md">
                                          <div class="form-group">
-                                             <input type="number" class="form-control" name="phone" id="phone"
-                                                 placeholder="Phone *">
+                                             <input type="text" class="form-control" name="phone" id="phone"
+                                                 placeholder="Phone *" onkeypress='validate(event)'>
                                          </div>
                                      </div>
                                  </div>
@@ -359,29 +338,39 @@
                                      id</div>
                                  <div class="validationDemoIfEmpty" id="validationDemoInvalidEmail">Please enter a valid
                                      email id</div>
-
-
                              </div>
-
                          </div>
                      </form>
-
                  </div>
              </div>
-
-
          </div>
-
-
      </footer>
+     <script>
+	//paste this code under head tag or in a seperate js file.
+	// Wait for window load
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".fadeMe").fadeOut("slow");;
+	});
 
-         <!------------------------sticky contact button start --------------------->
-<div class="sticky-contact-bar">
-<a href="contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>    
-<!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
-</div>
-<!------------------------sticky contact button end --------------------->
+    function validate(evt) {
+        var theEvent = evt || window.event;
 
+        // Handle paste
+        if (theEvent.type === 'paste') {
+            key = event.clipboardData.getData('text/plain');
+        } else {
+        // Handle key press
+            var key = theEvent.keyCode || theEvent.which;
+            key = String.fromCharCode(key);
+        }
+        var regex = /[0-9]/;
+        if( !regex.test(key) ) {
+            theEvent.returnValue = false;
+            if(theEvent.preventDefault) theEvent.preventDefault();
+        }
+     }
+     </script>
  </body>
 
  </html>

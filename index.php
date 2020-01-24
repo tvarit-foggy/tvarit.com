@@ -65,180 +65,26 @@
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>    
      <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
 </head>
 
-<body onload="ReadCookie()">
+<body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54KB6CV" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
-    <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
-    <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
 
     <!------SPLASH SCREEN----->
 
     <!------------------------ main menu start ---------------------->
-    <div class="main-menu fixed-menu sticky-top sticky">
-        <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="index">
-                <img src="img/logo.png" class="img-fluid">
-            </a>
-
-            <a href="javascript://" class="menu-togglebar">
-                <span></span>
-                <span></span>
-                <span></span>
-            </a>
-
-            <div class="navbar-collapse" id="navbarText">
-                <a href="javascript://" class="menuclose d-block d-md-none">
-                    <i class="fas fa-arrow-right"></i>
-                </a>
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">AI Solutions</a>
-                        <div class="submenu-div">
-            <div class="row">
-                <div class="col">
-                    <div class="menuQuote">
-                        <div class="textBig">AI Solutions<span class="red">.</span></div>
-                        <!-- <p class="text-normal"> ..... </p> -->
-                    </div>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li>
-                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
-                                OEE for Steel and Metal Manufacturing companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
-                                Maintenance for Industrial Electric Motors</a>
-                        </li>
-                        <li>
-                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
-                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
-                                Companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
-                                Quality for Die-casting Machines</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li style="text-align: center;">
-                            <a href="achive_more" class="sub-Link"
-                                style="padding-left:0px; color:red; align-item: center;">
-                                <img class="ai_solutions_img" src="./img/plus_ai.png"
-                                    alt="Achieve More Tvarit AI Solutions" />
-                                <div class="bold text-big20 tvarit-black">
-                                    Achieve More Tvarit AI Solutions
-                                </div>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="ai-platform">AI Platform</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">AI Consulting</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
-                                        <!-- <p class="text-normal"> </p> -->
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                    <li>
-                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
-                                        </li>
-                                        <li>
-                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">More</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                         <div class="textBig">More<span class="red">.</span></div>
-                                        <!-- <p class="text-normal"></p> -->
-                                    </div>
-                                </div>
-                                <div class="col d-flex">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="about#Vision" class="sub-Link">About Us</a>
-                                        </li>
-                                        <li>
-                                            <a class="sub-Link" href="career">Careers</a>
-                                        </li>
-                                        <li>
-                                            <a href="news" class="sub-Link">News</a>
-                                        </li>
-                                        <li>
-                                            <a class="sub-Link" href="contact">Contact</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="whitepapers" class="sub-Link">White Paper</a>
-                                        </li>
-                                        <li>
-                                            <a href="videos" class="sub-Link">Videos</a>
-                                        </li>
-                                        <li>
-                                            <a href="blogs" class="sub-Link">Blogs</a>
-                                        </li>
-                                        <li>
-                                        <li>
-                                            <a href="#" class="sub-Link">Survey</a>
-                                            <ul class="ul-deep-menu">
-                                                <br><br><br>
-                                                <li>
-                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
-                                                        Manufacturing</a>
-                                                </li>
-                                                <li>
-                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
-                                                        Product </a>
-                                                </li>
-
-                                            </ul>
-                                        </li>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </div>
+     <?php
+     include 'header.php';
+     ?>
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
@@ -335,85 +181,82 @@
     <!------------------------ Features start --------------------->
     <div class="section-padding" id="downClick">
       <div class="container">
-        <div class="centerTitle text-big60">
-          we  <span class="red fw-900">offer</span>
+        <div class="centerTitle sec-mainTitle">
+          we offer
         </div>
-        
         <br>
-
-        <div class="row justify-content-center weOfferBox" style="position:relative">
-          <div class="col-md-4">
-            <div  class="featureBox" style="position:relative">
-              <div class="icon" >
-                <img src="img/ai-solution-1.png" >
-              </div>
-              <div class="inner-container">
-              <p class="title">AI Solutions</p>
-              <div class="short-line bg-red"></div>
-              <ul class="ul-list">
-                <li>
-                  We have already developed ready to use software solutions for most impactful business use-cases
-                </li>
-                <li>
-                  Scalable and already proven technology
-                </li>
-                <li>
-                  Available on On-Premise, Cloud and edge-computing
-                </li>
-              </ul>
-              <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd"  style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%">Know More</a>
-            </div>
+        <div class="row justify-content-lg-center weOfferBox">
+          <div class="col-lg-4">
+            <div  class="featureBox">
+                <div class="icon" >
+                    <img src="img/ai-solution-1.png" >
+                </div>
+                <div class="inner-container">
+                  <p class="title text-center">AI Solutions</p>
+                  <div class="short-line mx-auto bg-red"></div>
+                  <ul class="ul-list">
+                    <li>
+                    Ready to use AI solutions for most impactful business use-cases
+                    </li>
+                    <li>
+                      Scalable and already proven technology
+                    </li>
+                    <li>
+                      Available on On-Premise, Cloud and edge-computing
+                    </li>
+                  </ul>
+                  <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
+                   class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+                </div>
             </div>
           </div>
-         
 
-          <div class="col-md-4">
+          <div class="col-lg-4">
             <div class="featureBox">
-              <div class="icon">
-                <img src="img/ai-platform-1.png">
-              </div>
-              <div class="inner-container">
-              <p class="title">AI Platform</p>
-              <div class="short-line bg-red"></div>
-              <ul class="ul-list">
-                <li>
-                 Award winning AI Platform for your Data Scientists
-                </li>
-                <li>
-                  Analyse manufacturing data and make new use-cases on your own
-                </li>
-                <li>
-                 Available on On-Premise, Cloud and edge-computing
-                </li>
-              </ul>
-              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%"> Know More</a>               
-              </div>
+                <div class="icon">
+                    <img src="img/ai-platform-1.png">
+                </div>
+                <div class="inner-container">
+                  <p class="title text-center">AI Platform</p>
+                  <div class="short-line mx-auto bg-red"></div>
+                  <ul class="ul-list">
+                    <li>
+                     Award winning AI Platform for your Data Scientists
+                    </li>
+                    <li>
+                      Analyse manufacturing data and make new use-cases on your own
+                    </li>
+                    <li>
+                     Available on On-Premise, Cloud and edge-computing
+                    </li>
+                  </ul>
+                  <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore"> Know More</a>               
+                </div>
               </div>
           </div>
 
-          <div class="col-md-4">
+          <div class="col-lg-4">
             <div href="ai-consulting"  target="_blank" class="featureBox">
               <div class="icon">
                 <img src="img/ai-consulting-1.png" >
               </div>
-              <div class="inner-container">
-
-              <p class="title">AI Consulting</p>
-              <div class="short-line bg-red"></div>
-              <ul class="ul-list">
-                <li>
-                  Covers all your needs like development and implementation of project, data extraction, data preparation, data labelling, data harmonization and AI powered predictive analytics
-                </li>
-                <li>
-                  Managed outside teams and hire  data science experts within hours
-                </li>
-                <li>
-                  Innovative task based pricing
-                </li>
-              </ul>
-              <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%">Know More</a>
-    </div>
-    </div>
+                <div class="inner-container">
+                  <p class="title text-center">AI Consulting</p>
+                  <div class="short-line mx-auto bg-red"></div>
+                  <ul class="ul-list">
+                    <li>
+                      Data Extraction, IT Systems Integration, Data Preparation, AI Modeling
+                    </li>
+                    <li>
+                      Managed outside teams and hire  data science experts within hours
+                    </li>
+                    <li>
+                      Innovative task based pricing
+                    </li>
+                  </ul>
+                    <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+                </div>
+            </div>
           </div>
 
         </div>
@@ -422,22 +265,18 @@
     <!------------------------ Features end --------------------->
 
     <!------------------------ why needed start --------------------->
-    <div class="section-padding">
+    <div class="section-padding-both">
       <div class="container">
-        
         <div class="row align-items-center">
-          <div class="col-md-6">
+          <div class="col-lg-6">
             <div class="videoWrapper">
-              <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
-
-          <div class="col-md-6">
-
-            <div class="px-4 box-content-left">
+          <div class="col-lg-6">
+            <div class="px-lg-4 box-content-left">
               <div class="title">
-               <div class="text-first red">Why</div>
-               <div class="text-big60">Us?</div>
+               <div class="sec-mainTitle">Why Us?</div>
               </div>
               <div class="short-line bg-red"></div>
                 <p class="text-p">
@@ -451,29 +290,17 @@
     </div>
     <!------------------------ why needed end ----------------------->
 
-    
-
-
     <!------------------------Countdown start --------------------->
     <?php
     include 'change_we_brought.php'
     ?>
     <!------------------------Countdown end --------------------->
 
-   
-
-
-    <!------------------------Automated slide start --------------------->
-     
-    <!------------------------Automated slide end --------------------->
-
-    
-
     <section class="section-padding">
       <div class="container">
         <div class="centerTitle">
           <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
-          <div class="text-big60">Manufacturing companies</div>
+          <div class="sec-mainTitle">Manufacturing companies</div>
         </div>
         <br>
         <div class="row">
@@ -542,16 +369,15 @@
     </section>
 
     <!------------------------Client logo slide start --------------------->
-    <?php include 'using-tvarit.php';?>
+    <div class="section-padding">
+        <?php include 'using-tvarit.php';?>
+    </div>
     <!------------------------Client logo slide end --------------------->
 
-    <!------------------------try demo start --------------------->
-
     <!------------------------ Reference start --------------------->
-
-    <div class="section-padding-both">
+    <div class="section-padding">
         <div class="container">
-            <div class="centerTitle text-big60">
+            <div class="centerTitle sec-mainTitle">
                 ASSOCIATES & PARTNERS
             </div>
             <br>
@@ -606,10 +432,6 @@
     </div>
     <!------------------------ Reference end ----------------------->
 
-
-
-    <!------------------------try demo end --------------------->
-
     <!------------------------footer start --------------------->
     <?php
     include 'footer.php';
@@ -648,8 +470,8 @@
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
     <script src="js/typed.js"></script>
-    <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
+    <script src="js/script.js"></script>
     <script type="text/javascript">
     function WriteCookie() {
         if (document.myform.customer.value == "") {
@@ -673,6 +495,59 @@
             value = cookiearray[i].split('=')[1];
         }
     }
+    var tvarit = new Typed('#typed-tvarit', {
+      stringsElement: '#tvarit-strings',
+      typeSpeed: 20,
+      backSpeed: 0,
+      startDelay: 400,
+      fadeOut: true,
+      showCursor: false,
+      loop: false
+    });
+
+    var industrial = new Typed('#typed-industrial', {
+      stringsElement: '#industrial-strings',
+      typeSpeed: 40,
+      backSpeed: 0,
+      startDelay: 1000,
+      fadeOut: true,
+      showCursor: false,
+      loop: false
+    });
+
+    var prgf = new Typed('#typed-prgf', {
+      stringsElement: '#prgf-strings',
+      typeSpeed: 40,
+      backSpeed: 0,
+      startDelay: 1000,
+      fadeOut: true,
+      showCursor: false,
+      loop: false
+    });
+
+    var germany = new Typed('#typed-germany', {
+      stringsElement: '#germany-strings',
+      typeSpeed: 40,
+      backSpeed: 40,
+      startDelay: 2000,
+      fadeOut: true,
+      showCursor: false,
+      loop: false,
+      backDelay:500,
+      smartBackspace: true,
+    });
+
+    var germanyPrgf = new Typed('#typed-prgf2r', {
+      stringsElement: '#prgf2r-strings',
+      typeSpeed: 40,
+      backSpeed: 40,
+      startDelay: 2000,
+      fadeOut: true,
+      showCursor: false,
+      loop: true,
+      backDelay:500,
+      smartBackspace: true,
+    });
     </script>
 <style>   
 .rw-words-1 span{
@@ -727,5 +602,4 @@
   </style>
 
 </body>
-
 </html>

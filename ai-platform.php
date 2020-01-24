@@ -32,177 +32,16 @@
 
   <body>
     <!------------------------ main menu start ---------------------->
-    <div class="main-menu fixed-menu sticky-top sticky">
-        <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="index">
-                <img src="img/logo.png" class="img-fluid">
-            </a>
-
-            <a href="javascript://" class="menu-togglebar">
-                <span></span>
-                <span></span>
-                <span></span>
-            </a>
-
-            <div class="navbar-collapse" id="navbarText">
-                <a href="javascript://" class="menuclose d-block d-md-none">
-                    <i class="fas fa-arrow-right"></i>
-                </a>
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">AI Solutions</a>
-                        <div class="submenu-div">
-            <div class="row">
-                <div class="col">
-                    <div class="menuQuote">
-                        <div class="textBig">AI Solutions<span class="red">.</span></div>
-                        <!-- <p class="text-normal"> ..... </p> -->
-                    </div>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li>
-                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
-                                OEE for Steel and Metal Manufacturing companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
-                                Maintenance for Industrial Electric Motors</a>
-                        </li>
-                        <li>
-                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
-                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
-                                Companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
-                                Quality for Die-casting Machines</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li style="text-align: center;">
-                            <a href="achive_more" class="sub-Link"
-                                style="padding-left:0px; color:red; align-item: center;">
-                                <img class="ai_solutions_img" src="./img/plus_ai.png"
-                                    alt="Achieve More Tvarit AI Solutions" />
-                                <div class="bold text-big20 tvarit-black">
-                                    Achieve More Tvarit AI Solutions
-                                </div>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="ai-platform">AI Platform</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">AI Consulting</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
-                                        <!-- <p class="text-normal"> </p> -->
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                    <li>
-                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
-                                        </li>
-                                        <li>
-                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">More</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                         <div class="textBig">More<span class="red">.</span></div>
-                                        <!-- <p class="text-normal"></p> -->
-                                    </div>
-                                </div>
-                                <div class="col d-flex">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="about#Vision" class="sub-Link">About Us</a>
-                                        </li>
-                                        <li>
-                                            <a class="sub-Link" href="career">Careers</a>
-                                        </li>
-                                        <li>
-                                            <a href="news" class="sub-Link">News</a>
-                                        </li>
-                                        <li>
-                                            <a class="sub-Link" href="contact">Contact</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="whitepapers" class="sub-Link">White Paper</a>
-                                        </li>
-                                        <li>
-                                            <a href="videos" class="sub-Link">Videos</a>
-                                        </li>
-                                        <li>
-                                            <a href="blogs" class="sub-Link">Blogs</a>
-                                        </li>
-                                        <li>
-                                        <li>
-                                            <a href="#" class="sub-Link">Survey</a>
-                                            <ul class="ul-deep-menu">
-                                                <br><br><br>
-                                                <li>
-                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
-                                                        Manufacturing</a>
-                                                </li>
-                                                <li>
-                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
-                                                        Product </a>
-                                                </li>
-
-                                            </ul>
-                                        </li>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </div>
+    <?php 
+     include 'header.php';
+     ?>
     <!------------------------ main menu end ------------------------>
-
-
   
      <!------------------------ header start ------------------------->
     <header class="headerBg aiplatformBg macbook-sec">
       <div class="container">
+      <a href="#downClick" class="hdrscrollArrow black_plateform" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
-          <div class="col-lg-6 macbook-position">
-            <div class="macbook-wrapper">
-              <div class="macbook-lapi">
-                <img src="img/lapi-2.png" class="img-fluid">
-              </div>
-              <iframe class="macbook-video" src="https://www.youtube.com/embed/J0CnupBDA74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-          </div>
           <div class="col-lg-6">
             <div class="typography">
               <div class="text-1 mb-0">
@@ -211,13 +50,19 @@
               <div class="text-big60">
                 <span class="red">AI</span> Platform
               </div>
-             <div class="">
-                <p class="text-p" style="width:100%;font-size:18px" >
+             <div class="fs-20 fw-700">
                  World’s most advanced AI platform <br/>for manufacturing data analytics
-                </p>
              </div>
               <br>
               <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform works for you</a>
+            </div>
+          </div>
+          <div class="col-lg-6 macbook-position">
+            <div class="macbook-wrapper">
+              <div class="macbook-lapi">
+                <img src="img/lapi-2.png" class="img-fluid">
+              </div>
+              <iframe class="macbook-video" src="https://www.youtube.com/embed/J0CnupBDA74?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
         </div>
@@ -226,11 +71,11 @@
     <!------------------------ header end --------------------------->
 
      <!------------------------ CONSULTING start --------------------->
-    <div id="downClick">
+    <div class="section-padding" id="downClick">
       <div class="container">
-        <div class="text">
-        <div class="text-big60 mb-0">Witness the most complete and true <span class="red">AI</span> Platform</div>
-        <div class="short-line bg-red"></div>
+        <div class="centerTitle">
+          <div class="innr-sec-mainTitle mb-0">Witness the most complete <br> and true <span class="red">AI</span> Platform</div>
+          <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
             Tvarit AI is an award winning AI platform. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques to enable you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models as per your needs. It also gives world-class user experience in the form of simple and sleek design by leveraging the state-of-the-art technology.
           </div>
@@ -254,7 +99,8 @@
                 <h4 class="title">Data Extraction</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                <li>  Receive data from all kinds of IT systems and other business process systems used in the manufacturing units </li>
+                <li>  Plugins for all IT systems and Process Engineering Softwares </li>
+                <li>  Plugins for all DBMS systems </li>
               </ul>
             </div>
           </div>
@@ -275,10 +121,9 @@
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Checks and suggests you the ways to fill  missing data </li>
-                  <li>Finds normal  limits of paramters</li>
-                  <li>Decide data size without compromising on accuracy</li>
-                  <li>Removes multi-collinearity between input variables. Also, gives you the list of dependent input variables</li>
+                  <li>Decide data size without compromising on accuracy</li>                  
+                  <li>Segregates the historical data into multiple groups</li>
+                  <li>Figure out the information gained from the data</li>                
                 </ul>
             </div>
             
@@ -289,12 +134,7 @@
                 <h4 class="title">Data Understanding</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Sanity Check</li>
-                  <li>Missing Check</li>
-                  <li>Infer Best Bucket</li>
-                  <li>Multicollinearity check</li>
-                  <li>Infer Best Bucket</li>
-                  <li>Correlation Matrix</li>
+                  <li>Fruitful Analysis</li>
                   <li>Anomaly detection</li>
                 </ul>
             </div>
@@ -306,12 +146,7 @@
                 <h4 class="title">Data Preparation</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Clustering</li>
-                  <li>Feature Selection</li>
-                  <li>Fruitful Analysis</li>
                   <li>Sanity Handling</li>
-                  <li>Missing Handling</li>
-                  <li>Aggregate</li>
                   <li>Multicolinearity handling</li>
                 </ul>
             </div>
@@ -322,9 +157,9 @@
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Decides whether data is to be clamped or dropped</li>
-                  <li>Automatically fills data</li>
-                  <li>Segregation between classes of labels</li>
+                  <li>Algorithms specifically optimized for Machine Sensor Data, ERP data, QC lab data</li>
+                  <li>Automatically fills missing data</li>
+                  <li>Removes multi-collinearity between input variables</li>
                 </ul>
             </div>
           </div>
@@ -347,10 +182,8 @@
                 <h4 class="title">Feature Engineering</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>FFT Transformation</li>
-                  <li>Grouped FFT Transformation</li>
-                  <li>Correlation Analysis</li>
-                  <li>AddTime Parameters</li>
+                  <li>FFT, Wavelet, Entropy etc algorithms</li>
+                  <li>Batch Manufacturing 2-D data transformation</li>
                 </ul>
             </div>
           </div>
@@ -361,8 +194,6 @@
                 <h4 class="title">Predictive Modelling</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Train</li>
-                  <li>Retrain</li>
                   <li>Predict</li>
                   <li>Univariate forecasting</li>
                 </ul>
@@ -399,10 +230,7 @@
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Tweaker</li>
-                  <li>Global root cause analysis</li>
-                  <li>Local root cause analysis</li>
-                  <li>Scoring</li>
-                  <li>Confidence interval</li>
+                  <li>Global/Local root cause analysis</li>
                 </ul>
             </div>
           </div>
@@ -413,7 +241,6 @@
                 <h4 class="title">Risk Assessment:</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Covariant Shift</li>
                   <li>Novelty Detection</li>
                   <li>Outlier Detection</li>
                 </ul>
@@ -436,10 +263,10 @@
     <section class="section-padding keyFeatures">
       <div class="container">
           <div class="white-box-shadow">
-            <div class="title">
+            <div class="text-md-center title">
               <div class="text-first red">More Key Features of </div>
-              <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> AI Platform</div>
-              <div class="short-line bg-red"></div>
+              <div class="sec-mainTitle">Tv<span class="red">a</span>r<span class="red">i</span>t</span> <span class="red">AI</span> Platform</div>
+              <div class="short-line mx-md-auto bg-red"></div>
             </div>
             <br>
             <ul class="ul-list-bullet ul-list-50">
@@ -481,7 +308,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/3.png" class="img-fluid">
                   <div class="logotext">
-                    POSTGRE SQL
+                  PostgreSQL
                   </div>
                 </div>
               </li>
@@ -489,7 +316,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/4.png" class="img-fluid">
                   <div class="logotext">
-                    GOOGLE ANALYTICS
+                  Google Analytics
                   </div>
                 </div>
               </li>
@@ -497,7 +324,7 @@
                  <div class="logo-box">
                   <img src="img/logoImg/5.png" class="img-fluid">
                   <div class="logotext">
-                    MONFODB
+                  MongoDB
                   </div>
                 </div>
               </li>
@@ -505,7 +332,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/7.png" class="img-fluid">
                   <div class="logotext">
-                    AMAZON REDSHIFT
+                  Amazon Redshift
                   </div>
                 </div>
               </li>
@@ -513,7 +340,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/8.png" class="img-fluid">
                   <div class="logotext">
-                    IMPALA
+                  Impala
                   </div>
                 </div>
               </li>
@@ -521,7 +348,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/9.png" class="img-fluid">
                   <div class="logotext">
-                    CASSANDRA
+                  Cassandra
                   </div>
                 </div>
               </li>
@@ -529,7 +356,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/10.png" class="img-fluid">
                   <div class="logotext">
-                    ELASTIC SEARCH
+                  Elasticsearch
                   </div>
                 </div>
               </li>
@@ -537,7 +364,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/11.png" class="img-fluid">
                   <div class="logotext">
-                    MS SQL
+                  MS SQL
                   </div>
                 </div>
               </li>
@@ -545,7 +372,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/12.png" class="img-fluid">
                   <div class="logotext">
-                    SNOWFLAKE
+                  Snowflake
                   </div>
                 </div>
               </li>
@@ -553,7 +380,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/13.png" class="img-fluid">
                   <div class="logotext">
-                    ORACLE
+                  Oracle
                   </div>
                 </div>
               </li>
@@ -561,7 +388,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/6.png" class="img-fluid">
                   <div class="logotext">
-                  MEMSQL
+                  MemSQL
                   </div>
                 </div>
               </li>
@@ -569,7 +396,7 @@
                 <div class="logo-box">
                   <img src="img/logoImg/14.png" class="img-fluid">
                   <div class="logotext">
-                    MYSQL
+                  MySQL
                   </div>
                 </div>
               </li>
@@ -577,7 +404,7 @@
                  <div class="logo-box">
                   <img src="img/logoImg/15.png" class="img-fluid">
                   <div class="logotext">
-                    SALESFORCE
+                  Salesforce
                   </div>
                 </div>
               </li>
@@ -585,168 +412,18 @@
                 <div class="logo-box">
                   <img src="img/logoImg/16.png" class="img-fluid">
                   <div class="logotext">
-                    HIVE
+                  Apache Hive
                   </div>
                 </div>
               </li>
             </ul>
-
-
-<!-- 
-            <div class="row no-gutters">
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/1.png" class="img-fluid">
-                  <div class="logotext">
-                    Amazon S3
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/2.png" class="img-fluid">
-                  <div class="logotext">
-                    HDFS
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/3.png" class="img-fluid">
-                  <div class="logotext">
-                    POSTGRE SQL
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/4.png" class="img-fluid">
-                  <div class="logotext">
-                    GOOGLE ANALYTICS
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/5.png" class="img-fluid">
-                  <div class="logotext">
-                    MONFODB
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/6.png" class="img-fluid">
-                  <div class="logotext">
-                    MEMSQL
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/7.png" class="img-fluid">
-                  <div class="logotext">
-                    AMAZON REDSHIFT
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/8.png" class="img-fluid">
-                  <div class="logotext">
-                    IMPALA
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/9.png" class="img-fluid">
-                  <div class="logotext">
-                    CASSANDRA
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/10.png" class="img-fluid">
-                  <div class="logotext">
-                    ELASTIC SEARCH
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/11.png" class="img-fluid">
-                  <div class="logotext">
-                    MS SQL
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/12.png" class="img-fluid">
-                  <div class="logotext">
-                    SNOWFLAKE
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/13.png" class="img-fluid">
-                  <div class="logotext">
-                    ORACLE
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/14.png" class="img-fluid">
-                  <div class="logotext">
-                    MYSQL
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/15.png" class="img-fluid">
-                  <div class="logotext">
-                    SALESFORCE
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="logo-box">
-                  <img src="img/logoImg/16.png" class="img-fluid">
-                  <div class="logotext">
-                    HIVE
-                  </div>
-                </div>
-              </div>
-            </div> -->
           </div>
       </div>
     </section>
 
-    <section class="section-padding">
+    <div class="section-padding Benefits-sec">
       <div class="container">
-       
-      </div>
-    </section>
-
-     <div class="section-padding Benefits-sec">
-      <div class="container">
-        <div class="centerTitle text-big60 red">
+        <div class="centerTitle sec-mainTitle">
           BENEFITS
         </div>
         
@@ -758,10 +435,8 @@
               <div class="icon">
                 <img src="img/Ai_benefit/01.svg" class="img-fluid">
               </div>
-              <div class="more">
-                    <p class="text-p">One stop solution for all your data science needs
-                    </p>
-              </div>
+              <p class="text-p">One stop solution for all your data science needs
+              </p>
             </div>
           </div>
 
@@ -770,9 +445,7 @@
               <div class="icon">
                 <img src="img/Ai_benefit/02.svg" class="img-fluid">
               </div>
-              <div class="more">
-                    <p class="text-p">Reduce total cost of ownership</p>
-              </div>
+              <p class="text-p">Reduce total cost of ownership</p>
             </div>
           </div>
 
@@ -781,11 +454,9 @@
               <div class="icon">
                 <img src="img/Ai_benefit/03.svg" class="img-fluid">
               </div>
-              <div class="more">
-                  <p class="text-p">
-                    Reduce time to complete AI projects
-                  </p>
-              </div>
+              <p class="text-p">
+                Reduce time to complete AI projects
+              </p>
             </div>
           </div>
 
@@ -794,10 +465,8 @@
               <div class="icon">
                 <img src="img/Ai_benefit/04.svg" class="img-fluid">
               </div>
-              <div class="more">
-                    <p class="text-p">Create new and customize existing pipelines
-                    </p>
-              </div>
+              <p class="text-p">Create new and customize existing pipelines
+              </p>
             </div>
           </div>
 
@@ -806,9 +475,7 @@
               <div class="icon">
                 <img src="img/Ai_benefit/05.svg" class="img-fluid">
               </div>
-              <div class="more">
-                    <p class="text-p">Usage based pricing model</p>
-              </div>
+              <p class="text-p">Usage based pricing model</p>
             </div>
           </div>
 
@@ -817,33 +484,51 @@
               <div class="icon">
                 <img src="img/Ai_benefit/06.svg" class="img-fluid">
               </div>
-              <div class="more">
-                  <p class="text-p">
-                   Provided with full documentation
-                  </p>
-              </div>
+              <p class="text-p">
+               Provided with full documentation
+              </p>
             </div>
           </div>
         </div>
       </div>
     </div>
    
+    <!--------------------- Buttons  ------------------->
     <div class="section-padding-both">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-md-8 white-box-shadow flex-center-between">
-            <h5 class="red">
-             Want to see Tvarit AI platform in action?
-            </h5>
-            <a href="contact" class="btn btn-round btn-red-grd">Request Demo</a>
-          </div>
+        <div class="container white-box-shadow">
+
+            <div class="row align-items-lg-center">
+                <div class="col-lg-6">
+                    <div class="lookingBox rerBg-grd">
+                        <div class="text text-white">
+                            <span class="fs-18  fw-400">Request free trial</span>
+                            <h3 class="fw-900">for 30 days</h3>
+                        </div>
+                        <div>
+                            <a href="#contact_us" data-toggle="modal" data-target="#exampleModal"
+                                class="btn btn-round btn-white">Click Here</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="lookingBox brdr-black">
+                        <div class="text">
+                            <span class="fs-18  fw-400">for more details</span>
+                            <h3 class="fw-900">Contact us</h3>
+                        </div>
+
+                        <div>
+                            <a href="#contact_us" class="btn btn-round btn-red-grd">Click Here</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
         </div>
-      </div>
     </div>
 
-
- <!------------------------Countdown start --------------------->
- <?php
+    <!------------------------Countdown start --------------------->
+    <?php
     include 'change_we_brought.php'
     ?>
     <!------------------------Countdown end --------------------->
@@ -853,14 +538,10 @@
     include 'change_we_bring.php'
     ?>
     <!------------------------Automated slide end --------------------->
-
  
-
-    
-
     <!------------------------footer start --------------------->
     <?php
-    include 'footer_platform.php'
+    include 'footer.php'
     ?>
     <!------------------------footer end --------------------->
     <!-- script start -->
