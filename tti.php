@@ -31,7 +31,7 @@ $("#btnsubmit").live("click", function() {
         } else {
             $.ajax({
                 type: "POST",
-                url: "/ttiAction",
+                url: "ttiAction",
                 data: 'company_name=' + company_name + '&person_name=' + person_name + '&plan=' + plan +
                     '&phone_number=' + phone_number + '&email=' + email + '&about_company' + about_company,
                 success: function(data) {
@@ -62,6 +62,10 @@ $("#btnsubmit").live("click", function() {
 
 
 });
+$(window).load(function() {
+		// Animate loader off screen
+		$(".fadeMe").fadeOut("slow");;
+	});
 </script>
 
 <head>
