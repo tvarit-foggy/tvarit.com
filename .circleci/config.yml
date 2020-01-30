@@ -5,7 +5,7 @@ jobs:
       image: circleci/classic:latest
     branches:
           only:
-            - master
+            - cicd
     steps:
       - run:
           name: Install LFTP
