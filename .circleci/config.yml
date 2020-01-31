@@ -11,9 +11,9 @@ workflows:
           requires:
             - build_test
       - aws-ecr/build_and_push_image:
-          region: Frankfurt
-          account-url: ${AWS_ECR_ACCOUNT_URL}
-          repo: ${CIRCLE_PROJECT_REPONAME}
+          region:
+          account-url:
+          repo: 
           tag: ${CIRCLE_BUILD_NUM}
           requires:
             - build_test
