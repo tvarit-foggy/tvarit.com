@@ -8,11 +8,8 @@ jobs:
             - cicd
     steps:
       - run:
-          name: Install LFTP
+          name: Testing
           command: |
-            sudo apt-get update;
-            sudo apt-get install lftp;
+            sudo apt-get update
       - checkout
-      - run:
-          name: Send Via SFTP
-          command: lftp sftp://${username}:${password}@${hostname} -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ /customers/6/3/4/tvarit.com/httpd.www/; quit"
+      
