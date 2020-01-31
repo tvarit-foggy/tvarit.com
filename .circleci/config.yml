@@ -1,18 +1,52 @@
-version: 2.0
+version: 2.1
+
+orbs:
+  aws-ecr: circleci/aws-ecr@0.0.4
+
+workflows:
+  build_test_deploy:
+    jobs:
+      - build_test
+      - docker_hub_build_push_image:
+          requires:
+            - build_test
+      - aws-ecr/build_and_push_image:
+          region: Frankfurt
+          account-url: ${AWS_ECR_ACCOUNT_URL}
+          repo: ${CIRCLE_PROJECT_REPONAME}
+          tag: ${CIRCLE_BUILD_NUM}
+          requires:
+            - build_test
 jobs:
-  build:
-    machine:
-      image: circleci/classic:latest
-    branches:
-          only:
-            - cicd
+  build_test:
+    docker:
+      - image: circleci/python:2.7.14
     steps:
-      - run:
-          name: Install LFTP
-          command: |
-            sudo apt-get update;
-            sudo apt-get install lftp;
       - checkout
       - run:
-          name: Send Via SFTP
-          command: lftp sftp://${username}:${password}@${hostname} -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ /customers/6/3/4/tvarit.com/httpd.www/; quit"
+          name: Setup VirtualEnv
+          command: |
+            virtualenv helloworld
+            . helloworld/bin/activate
+            pip install --no-cache-dir -r requirements.txt
+      - run:
+          name: Run Tests
+          command: |
+            . helloworld/bin/activate
+            python test_hello_world.py
+  docker_hub_build_push_image:
+    docker:
+      - image: circleci/python:2.7.14
+    steps:
+      - checkout
+      - setup_remote_docker:
+          docker_layer_caching: false
+      - run:
+          name: Build and push Docker image to Docker Hub
+          command: |
+            echo 'export TAG=0.1.${CIRCLE_BUILD_NUM}' >> ${BASH_ENV}
+            echo 'export IMAGE_NAME=${CIRCLE_PROJECT_REPONAME}' >> ${BASH_ENV}
+            source ${BASH_ENV}
+            docker build -t ${DOCKER_LOGIN}/${IMAGE_NAME} -t ${DOCKER_LOGIN}/${IMAGE_NAME}:${TAG} .
+            echo ${DOCKER_PWD} | docker login -u ${DOCKER_LOGIN} --password-stdin
+            docker push ${DOCKER_LOGIN}/${IMAGE_NAME}
