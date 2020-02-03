@@ -24,7 +24,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Setup VirtualEnv
+          name: Run Tvarit.com
           command:
               docker login    |
               docker run tvarit.com  /bin/bash
@@ -37,7 +37,7 @@ jobs:
       - setup_remote_docker:
           docker_layer_caching: false
       - run:
-          name: Build and push Docker image to Docker Hub
+          name: Build and push Docker image to ECR
           command: |
               $(aws ecr get-login --no-include-email --region eu-central-1)
               docker build -t tvarit.com .
