@@ -13,7 +13,7 @@ workflows:
       - aws-ecr/build_and_push_image:
           region:
           account-url:
-          repo: 
+          repo:
           tag: ${CIRCLE_BUILD_NUM}
           requires:
             - build_test
@@ -25,15 +25,10 @@ jobs:
       - checkout
       - run:
           name: Setup VirtualEnv
-          command: |
-            virtualenv helloworld
-            . helloworld/bin/activate
-            pip install --no-cache-dir -r requirements.txt
-      - run:
-          name: Run Tests
-          command: |
-            . helloworld/bin/activate
-            python test_hello_world.py
+          command:
+              docker login    |
+              docker run tvarit.com  /bin/bash
+            
   docker_hub_build_push_image:
     docker:
       - image: circleci/python:2.7.14
@@ -44,9 +39,7 @@ jobs:
       - run:
           name: Build and push Docker image to Docker Hub
           command: |
-            echo 'export TAG=0.1.${CIRCLE_BUILD_NUM}' >> ${BASH_ENV}
-            echo 'export IMAGE_NAME=${CIRCLE_PROJECT_REPONAME}' >> ${BASH_ENV}
-            source ${BASH_ENV}
-            docker build -t ${DOCKER_LOGIN}/${IMAGE_NAME} -t ${DOCKER_LOGIN}/${IMAGE_NAME}:${TAG} .
-            echo ${DOCKER_PWD} | docker login -u ${DOCKER_LOGIN} --password-stdin
-            docker push ${DOCKER_LOGIN}/${IMAGE_NAME}
+              $(aws ecr get-login --no-include-email --region eu-central-1)
+              docker build -t tvarit.com .
+              docker push 250373516626.dkr.ecr.eu-central-1.amazonaws.com/tvarit.com:latest
+
