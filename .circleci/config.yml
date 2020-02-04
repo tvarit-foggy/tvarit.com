@@ -11,7 +11,7 @@ workflows:
           requires:
             - build_test
       - aws-ecr/build_and_push_image:
-          region: Frankfurt
+          region: eu-central-1
           account-url: ${AWS_ECR_ACCOUNT_URL}
           repo: ${repo}
           requires:
@@ -19,19 +19,18 @@ workflows:
 jobs:
   build_test:
     docker:
-      - image: circleci/php:7.3.14
+      - image: circleci/ubuntu:18.04
     steps:
       - checkout
       - run:
           name: Run Tvarit.com
           command:
-              curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-              sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-              docker run tvarit.com  /bin/bash
+              
+              docker build -t tvarit.com .
             
   docker_hub_build_push_image:
     docker:
-      - image: circleci/php:7.3.14
+      - image: circleci/ubuntu:18.04
     steps:
       - checkout
       - setup_remote_docker:
@@ -40,6 +39,5 @@ jobs:
           name: Build and push Docker image to ECR
           command: |
               $(aws ecr get-login --no-include-email --region eu-central-1)
-              docker build -t tvarit.com .
               docker push 250373516626.dkr.ecr.eu-central-1.amazonaws.com/tvarit.com:latest
 
