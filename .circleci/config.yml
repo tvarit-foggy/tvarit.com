@@ -25,9 +25,9 @@ jobs:
       - run:
           name: Run Tvarit.com
           command:
-                  apt-get install docker:
-                          apt-get install git:
-                                  docker build -t tvarit.com .: 
+                  apt-get install docker;
+                          apt-get install git;
+                                  docker build -t tvarit.com .; 
             
   docker_hub_build_push_image:
     docker:
