@@ -25,8 +25,7 @@ jobs:
       - run:
           name: Run Tvarit.com
           command:
-              curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-              sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+              apt install docker-ce
               docker build -t tvarit.com . 
             
   docker_hub_build_push_image:
