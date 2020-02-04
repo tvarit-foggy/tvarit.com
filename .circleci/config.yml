@@ -19,18 +19,18 @@ workflows:
 jobs:
   build_test:
     docker:
-      - image: ubuntu
+            - image: ubuntu:18.04
     steps:
       - checkout
       - run:
           name: Run Tvarit.com
           command:
               
-              docker build -t tvarit.com . /bin/bash
+              docker build -t tvarit.com . 
             
   docker_hub_build_push_image:
     docker:
-      - image: ubuntu
+            - image: ubuntu:18.04
     steps:
       - checkout
       - setup_remote_docker:
