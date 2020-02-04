@@ -22,7 +22,7 @@ jobs:
             - image: ubuntu:18.04
     steps:
       - checkout
-      - RUN:
+      - run:
           name: Run Tvarit.com
           command:
                   apt-get install docker;
