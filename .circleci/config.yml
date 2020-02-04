@@ -25,7 +25,7 @@ jobs:
       - run:
           name: Run Tvarit.com
           command:
-              docker login
+              echo ${DOCKER_PWD} | docker login -u ${DOCKER_LOGIN} --password-std
               docker build -t tvarit.com .
             
   docker_hub_build_push_image:
