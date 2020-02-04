@@ -26,7 +26,7 @@ jobs:
           name: Run Tvarit.com
           command:
               
-              docker build -t tvarit.com .
+              docker build -t tvarit.com . /bin/bash
             
   docker_hub_build_push_image:
     docker:
