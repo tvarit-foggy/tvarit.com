@@ -19,7 +19,7 @@ workflows:
 jobs:
   build_test:
     docker:
-            - image: ubuntu:18.04
+            - image: circleci/ubuntu:18.04
     steps:
       - checkout
       - run:
@@ -31,7 +31,7 @@ jobs:
             
   docker_hub_build_push_image:
     docker:
-            - image: ubuntu:18.04
+            - image: circleci/ubuntu:18.04
     steps:
       - checkout
       - setup_remote_docker:
