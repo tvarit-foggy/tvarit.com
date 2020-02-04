@@ -19,7 +19,7 @@ workflows:
 jobs:
   build_test:
     docker:
-      - image: circleci/ubuntu
+      - image: ubuntu
     steps:
       - checkout
       - run:
@@ -30,7 +30,7 @@ jobs:
             
   docker_hub_build_push_image:
     docker:
-      - image: circleci/ubuntu
+      - image: ubuntu
     steps:
       - checkout
       - setup_remote_docker:
