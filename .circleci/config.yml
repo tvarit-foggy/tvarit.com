@@ -27,7 +27,7 @@ jobs:
       - run:
           name: Run Tvarit.com
           command: |
-                  apt add docker-cli
+                  apt-get install docker
                   
                   docker build -t tvarit.com . 
             
