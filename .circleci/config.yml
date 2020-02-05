@@ -27,6 +27,8 @@ jobs:
       - run:
           name: Run Tvarit.com
           command: |
+                  apt-get install awscli
+                  $(aws ecr get-login --no-include-email --region eu-central-1)
                   
                   
 
