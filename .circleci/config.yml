@@ -28,11 +28,11 @@ jobs:
           name: Run Tvarit.com
           command: |
                   
-                  $(aws ecr get-login --no-include-email --region eu-central-1)
+                  
 
                   docker build -t tvarit.com . 
             
-  docker_hub_build_push_image:
+  docker_hub_build_push_iage:
     docker:
             - image: circleci/buildpack-deps:xenial-curl-browsers-legacy
     steps:
