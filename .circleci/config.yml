@@ -32,12 +32,12 @@ jobs:
                   apt-get install awscli
                   
                   LOGIN_COMMAND=$(aws ecr get-login --no-include-email --region
-        $<<parameters.region>>)
+        $<<region>>)
                   
 
                   docker build -t tvarit.com . 
             
-  docker_hub_build_push_image:
+   docker_hub_build_push_image:
     docker:
             - image: circleci/buildpack-deps:xenial-curl-browsers-legacy
     steps:
