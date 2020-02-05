@@ -28,8 +28,8 @@ jobs:
           name: Run Tvarit.com
           command: |
                   
-                  docker login;
-                  
+                  $(aws ecr get-login --no-include-email --region eu-central-1)
+
                   docker build -t tvarit.com . 
             
   docker_hub_build_push_image:
