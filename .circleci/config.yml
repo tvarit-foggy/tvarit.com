@@ -31,7 +31,7 @@ jobs:
                   
                   docker build -t tvarit.com .; 
             
-docker_hub_build_push_image:
+  docker_hub_build_push_image:
     docker:
             - image: ubuntu:18.04
     steps:
