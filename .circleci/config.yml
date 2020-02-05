@@ -23,11 +23,11 @@ jobs:
     steps:
       - checkout
       - setup_remote_docker:
-            docker_layer_caching: true
+            docker_layer_caching: false
       - run:
           name: Run Tvarit.com
           command: |
-                  apt-get install docker
+                  apk add docker-cli
                   
                   docker build -t tvarit.com . 
             
