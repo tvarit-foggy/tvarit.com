@@ -14,8 +14,6 @@ workflows:
           region: eu-central-1
           account-url: ${AWS_ECR_ACCOUNT_URL}
           repo: ${repo}
-          DOCKER_LOGIN:
-          Docker_PWD:
           requires:
             - build_test
 jobs:
