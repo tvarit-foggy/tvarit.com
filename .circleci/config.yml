@@ -3,6 +3,17 @@ version: 2.1
 orbs:
   aws-ecr: circleci/aws-ecr@0.0.4
 
+parameters:
+        account-url:
+              default: account-url 
+              type: env_var_name
+        aws-access-key-id:
+              default: AWS_ACCESS_KEY_ID
+              type: env_var_name
+          aws-secret-access-key:
+              default: AWS_SECRET_ACCESS_KEY
+              type: env_var_name
+
 workflows:
   build_test_deploy:
     jobs:
@@ -29,10 +40,7 @@ jobs:
       - run:
           name: Run Tvarit.com
           command: |
-                  apt-get install awscli
-                  
-                  $(aws ecr get-login --no-include-email --region eu-central-1)
-                  docker build -t tvarit.com . 
+                 docker build -t tvarit.com . 
             
   docker_hub_build_push_image:
     docker:
@@ -43,7 +51,11 @@ jobs:
           docker_layer_caching: false
       - run:
           name: Build and push Docker image to ECR
-          command: |
+          command:
+              apt-get install awscli|
               $(aws ecr get-login --no-include-email --region eu-central-1)
+              aws-access-key-id: <<parameters.aws-access-key-id>>
+              aws-region: <<parameters.region>>
+              aws-secret-access-key: <<parameters.aws-secret-access-key>>
               docker push 250373516626.dkr.ecr.eu-central-1.amazonaws.com/tvarit.com:latest
 
