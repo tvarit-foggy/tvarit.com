@@ -20,6 +20,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="site" content="tvarit.com" />
     <meta name="keywords"
+        content="Predictive maintenance, artificial intelligence, Industrial artificial intelligence, AI, Industrial AI, Smart manufactring, Smart Production, Digital Transformation, AI Consulting, Digital Consulting, AI Platform, Data Analytics, Hire Data Scientist, Data Engineering, Data Preparation, Industry 4.0, Digital Twin, Smart machines, Predicting quality, Predictive analytics, Prescriptive analytics, Descriptive analytics, Machine learning, AI support, iot for manufacturing, internet of things, smart manufactturing industry 4.0, internet of things indutsry 4.0, artificial intelligence consulting, ai consultancy, vibration analysis, preventive maintenance, condition based maintenance, intenret of things smart factory, artificial intelligence api, ai assistance, ai bots, ai developer, cloud ai, saving ideas manufacturing, reduction strategies for manufacturing industry, digital transformation, digitalise, digitization, data science, data science masters, learn data science, big data analyst, big data scientist, artificial intlligence software projects, ai projects, data science projects">
+    <meta name="keywords"
         content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
     <meta name="description"
         content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
