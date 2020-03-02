@@ -1,61 +1,18 @@
-version: 2.1
-
-orbs:
-  aws-ecr: circleci/aws-ecr@0.0.4
-
-parameters:
-        account-url:
-              default: account-url 
-              type: env_var_name
-        aws-access-key-id:
-              default: AWS_ACCESS_KEY_ID
-              type: env_var_name
-          aws-secret-access-key:
-              default: AWS_SECRET_ACCESS_KEY
-              type: env_var_name
-
-workflows:
-  build_test_deploy:
-    jobs:
-      - build_test
-      - docker_hub_build_push_image:
-          requires:
-            - build_test
-      - aws-ecr/build_and_push_image:
-          region: eu-central-1
-          account-url: ${AWS_ECR_ACCOUNT_URL}
-          repo: ${repo}
-          AWS_ACCESS_KEY_ID:
-          AWS_SECRET_ACCESS_KEY:        
-          requires:
-            - build_test
+version: 2.0
 jobs:
-  build_test:
-    docker:
-            - image: circleci/buildpack-deps:xenial-curl-browsers-legacy
+  build:
+    machine:
+      image: circleci/classic:latest
+    branches:
+          only:
+            - master
     steps:
-      - checkout
-      - setup_remote_docker:
-            docker_layer_caching: false
       - run:
-          name: Run Tvarit.com
+          name: Install LFTP
           command: |
-                 docker build -t tvarit.com . 
-            
-  docker_hub_build_push_image:
-    docker:
-            - image: circleci/buildpack-deps:xenial-curl-browsers-legacy
-    steps:
+            sudo apt-get update;
+            sudo apt-get install lftp;
       - checkout
-      - setup_remote_docker:
-          docker_layer_caching: false
       - run:
-          name: Build and push Docker image to ECR
-          command:
-              apt-get install awscli|
-              $(aws ecr get-login --no-include-email --region eu-central-1)
-              aws-access-key-id: <<parameters.aws-access-key-id>>
-              aws-region: <<parameters.region>>
-              aws-secret-access-key: <<parameters.aws-secret-access-key>>
-              docker push 250373516626.dkr.ecr.eu-central-1.amazonaws.com/tvarit.com:latest
-
+          name: Send Via SFTP
+          command: lftp sftp://${username}:${password}@${hostname} -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ /customers/6/3/4/tvarit.com/httpd.www/; quit"
