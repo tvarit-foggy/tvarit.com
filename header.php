@@ -196,11 +196,6 @@ div.fadeMe {
                                                     <a href="ai_as_a_product" class="sub-Link">AI as a
                                                         Product </a>
                                                 </li>
-                                                <li>
-                                                    <a href="qualification" class="sub-Link">Customer Qualification
-                                                     </a>
-                                                </li>
-
                                             </ul>
                                         </li>
                                 </div>
