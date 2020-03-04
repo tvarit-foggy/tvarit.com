@@ -2650,3 +2650,6 @@ span.text-big60.red.fw-300.ai_predictive {
 a .tvarit-black:hover {
     color: var(--primary) !important;
 }
+.centerBtnKnowmore {
+    text-align: center !important;
+}

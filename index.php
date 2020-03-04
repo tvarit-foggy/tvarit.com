@@ -65,8 +65,8 @@
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>    
-     <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+    <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
 </head>
@@ -84,56 +84,60 @@
     <!------SPLASH SCREEN----->
 
     <!------------------------ main menu start ---------------------->
-     <?php
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    
-   <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
-      <video autoplay="true" muted loop style="z-index=-1">
-        <source src="video/index-video.mp4" type="video/mp4">
-      </video>
-      <div class="container">
-        <a href="#downClick" class="hdrscrollArrow" style="bottom:5%" ><i class="icon ion-ios-arrow-dropdown"></i></a>
-        <div class="row align-items-center">
-          <div class="col-md-6">
-            <div class="typography lh-1 left" >
-              <div id="tvarit-strings" class="stringText">
-                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
-              </div>
-              <div id="industrial-strings" class="stringText">
-                <span>INDUSTRIAL <span class="red">AI</span> </span>
-              </div>
-              <div id="prgf-strings" class="stringText">
-                <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
-              </div>
-              <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
-              <div class="hdr-industrial" id="typed-industrial"></div>
-              <div class="hdr-prgf" ><span id="typed-prgf"></span></div>
+
+    <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
+        <video autoplay="true" muted loop style="z-index=-1">
+            <source src="video/index-video.mp4" type="video/mp4">
+        </video>
+        <div class="container">
+            <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
+                    class="icon ion-ios-arrow-dropdown"></i></a>
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="typography lh-1 left">
+                        <div id="tvarit-strings" class="stringText">
+                            <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
+                        </div>
+                        <div id="industrial-strings" class="stringText">
+                            <span>INDUSTRIAL <span class="red">AI</span> </span>
+                        </div>
+                        <div id="prgf-strings" class="stringText">
+                            <span>Fast and customized solutions for all your manufacturing problems and data science
+                                needs</span>
+                        </div>
+                        <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
+                        <div class="hdr-industrial" id="typed-industrial"></div>
+                        <div class="hdr-prgf"><span id="typed-prgf"></span></div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="typography right lh-1">
+                        <div id="germany-strings" class="stringText">
+                            <span>AI MADE IN GERMANY</span>
+                        </div>
+                        <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img
+                                src="img/flag.png" class="img-fluid flag"></div>
+                        <div class="hdr-prgf2r">
+                            <span id="typed-prgf2r"></span>
+                            <div class="rw-words-1">
+                                <span>Remove inefficiencies and failures of your production units and business
+                                    processes</span>
+                                <span>Reduce the failure rate of all your AI/Data Science Projects</span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
             </div>
-          </div>
-          <div class="col-md-6">
-            <div class="typography right lh-1">
-              <div id="germany-strings" class="stringText">
-                <span>AI MADE IN GERMANY</span>
-              </div>                                 
-               <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
-              <div class="hdr-prgf2r">
-                <span id="typed-prgf2r"></span>
-                <div class="rw-words-1">
-                  <span>Remove inefficiencies and failures of your production units and business processes</span>
-                  <span>Reduce the failure rate of all your AI/Data Science Projects</span>
-                </div>   
-              </div>
-             
-            </div>
-          </div>
         </div>
-      </div>
-      
-      <!-- <div class="container">
+
+        <!-- <div class="container">
         <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
         <div class="row align-items-center">
           <div class="col-md-5">
@@ -180,115 +184,154 @@
 
     </header>
     <!------------------------ header end --------------------------->
+    <div class="section-padding-both" id="downClick">
+        <div class="container">
+
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="AmimgBox">
+                        <img src="img/edi.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="px-lg-4 box-content-left">
+                        <div class="title">
+                            <div class="sec-mainTitle">EXPERIENCE ONE OF THE MOST INNOVATIVE INDUSTRIAL AI
+                                COMPANIES IN EUROPE</div>
+                        </div>
+                        <div class="short-line bg-red"></div>
+                        <!-- <div class="imgW-more"> -->
+                            <p class="text-p">We have been awarded as one of the winners of the European Data Incubator
+                                2020 experiment phase round in Spain.
+                            </p>
+                        <!-- </div> -->
+                        <div class="centerBtnKnowmore">
+                        <a href="european-data-incubator" target="_blank"
+                   class="btn btn-round btn-red-grd">Know More</a>
+                   </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
     <!------------------------ Features start --------------------->
-    <div class="section-padding" id="downClick">
-      <div class="container">
-        <div class="centerTitle sec-mainTitle">
-          we offer
-        </div>
-        <br>
-        <div class="row justify-content-lg-center weOfferBox">
-          <div class="col-lg-4">
-            <div  class="featureBox">
-                <div class="icon" >
-                    <img src="img/ai-solution-1.png" >
-                </div>
-                <div class="inner-container">
-                  <p class="title text-center">AI Solutions</p>
-                  <div class="short-line mx-auto bg-red"></div>
-                  <ul class="ul-list">
-                    <li>
-                    Ready to use AI solutions for most impactful business use-cases
-                    </li>
-                    <li>
-                      Scalable and already proven technology
-                    </li>
-                    <li>
-                      Available on On-Premise, Cloud and edge-computing
-                    </li>
-                  </ul>
-                  <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
-                   class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
-                </div>
+    <div class="section-padding" >
+        <div class="container">
+            <div class="centerTitle sec-mainTitle">
+                we offer
             </div>
-          </div>
+            <br>
+            <div class="row justify-content-lg-center weOfferBox">
+                <div class="col-lg-4">
+                    <div class="featureBox">
+                        <div class="icon">
+                            <img src="img/ai-solution-1.png">
+                        </div>
+                        <div class="inner-container">
+                            <p class="title text-center">AI Solutions</p>
+                            <div class="short-line mx-auto bg-red"></div>
+                            <ul class="ul-list">
+                                <li>
+                                    Ready to use AI solutions for most impactful business use-cases
+                                </li>
+                                <li>
+                                    Scalable and already proven technology
+                                </li>
+                                <li>
+                                    Available on On-Premise, Cloud and edge-computing
+                                </li>
+                            </ul>
+                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
+                                class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+                        </div>
+                    </div>
+                </div>
 
-          <div class="col-lg-4">
-            <div class="featureBox">
-                <div class="icon">
-                    <img src="img/ai-platform-1.png">
+                <div class="col-lg-4">
+                    <div class="featureBox">
+                        <div class="icon">
+                            <img src="img/ai-platform-1.png">
+                        </div>
+                        <div class="inner-container">
+                            <p class="title text-center">AI Platform</p>
+                            <div class="short-line mx-auto bg-red"></div>
+                            <ul class="ul-list">
+                                <li>
+                                    Award winning AI Platform for your Data Scientists
+                                </li>
+                                <li>
+                                    Analyse manufacturing data and make new use-cases on your own
+                                </li>
+                                <li>
+                                    Available on On-Premise, Cloud and edge-computing
+                                </li>
+                            </ul>
+                            <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore"> Know
+                                More</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="inner-container">
-                  <p class="title text-center">AI Platform</p>
-                  <div class="short-line mx-auto bg-red"></div>
-                  <ul class="ul-list">
-                    <li>
-                     Award winning AI Platform for your Data Scientists
-                    </li>
-                    <li>
-                      Analyse manufacturing data and make new use-cases on your own
-                    </li>
-                    <li>
-                     Available on On-Premise, Cloud and edge-computing
-                    </li>
-                  </ul>
-                  <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore"> Know More</a>               
-                </div>
-              </div>
-          </div>
 
-          <div class="col-lg-4">
-            <div href="ai-consulting"  target="_blank" class="featureBox">
-              <div class="icon">
-                <img src="img/ai-consulting-1.png" >
-              </div>
-                <div class="inner-container">
-                  <p class="title text-center">AI Consulting</p>
-                  <div class="short-line mx-auto bg-red"></div>
-                  <ul class="ul-list">
-                    <li>
-                      Data Extraction, IT Systems Integration, Data Preparation, AI Modeling
-                    </li>
-                    <li>
-                      Managed outside teams and hire  data science experts within hours
-                    </li>
-                    <li>
-                      Innovative task based pricing
-                    </li>
-                  </ul>
-                    <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+                <div class="col-lg-4">
+                    <div href="ai-consulting" target="_blank" class="featureBox">
+                        <div class="icon">
+                            <img src="img/ai-consulting-1.png">
+                        </div>
+                        <div class="inner-container">
+                            <p class="title text-center">AI Consulting</p>
+                            <div class="short-line mx-auto bg-red"></div>
+                            <ul class="ul-list">
+                                <li>
+                                    Data Extraction, IT Systems Integration, Data Preparation, AI Modeling
+                                </li>
+                                <li>
+                                    Managed outside teams and hire data science experts within hours
+                                </li>
+                                <li>
+                                    Innovative task based pricing
+                                </li>
+                            </ul>
+                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know
+                                More</a>
+                        </div>
+                    </div>
                 </div>
+
             </div>
-          </div>
-
         </div>
-      </div>
     </div>
     <!------------------------ Features end --------------------->
 
     <!------------------------ why needed start --------------------->
     <div class="section-padding-both">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6">
-            <div class="videoWrapper">
-              <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="videoWrapper">
+                        <iframe class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0?rel=0" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="px-lg-4 box-content-left">
+                        <div class="title">
+                            <div class="sec-mainTitle">Why Us?</div>
+                        </div>
+                        <div class="short-line bg-red"></div>
+                        <p class="text-p">
+                            Our products and services have been built and designed on the basis of 34+ years of
+                            experience in fortune 500 manufacturing companies. We provide fast and customizable AI
+                            solutions for discrete and process manufacturing. We are continuously improving our
+                            solutions by heavily investing into R&D. We have developed most advanced AI algorithms and
+                            ready to use AI modules to solve all your complex manufacturing problems and needs.</p>
+                        <br>
+                    </div>
+
+                </div>
             </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="px-lg-4 box-content-left">
-              <div class="title">
-               <div class="sec-mainTitle">Why Us?</div>
-              </div>
-              <div class="short-line bg-red"></div>
-                <p class="text-p">
-                Our products and services have been built and designed on the basis of 34+ years of experience  in fortune 500 manufacturing companies. We provide fast and customizable AI solutions for discrete and process manufacturing. We are continuously improving our solutions by heavily investing into R&D. We have developed most advanced AI algorithms and ready to use AI modules to solve all your complex manufacturing problems and needs.</p>
-              <br>
-            </div>
-           
-          </div>
         </div>
-      </div>
     </div>
     <!------------------------ why needed end ----------------------->
 
@@ -299,75 +342,75 @@
     <!------------------------Countdown end --------------------->
 
     <section class="section-padding">
-      <div class="container">
-        <div class="centerTitle">
-          <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
-          <div class="sec-mainTitle">Manufacturing companies</div>
+        <div class="container">
+            <div class="centerTitle">
+                <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
+                <div class="sec-mainTitle">Manufacturing companies</div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/1.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/2.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/3.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/4.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/5.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/6.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/7.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/8.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/9.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/10.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/11.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/HomeAiLogo/12.png" class="img-fluid">
+                    </div>
+                </div>
+            </div>
         </div>
-        <br>
-        <div class="row">
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/1.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/2.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/3.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/4.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/5.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/6.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/7.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/8.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/9.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/10.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/11.png" class="img-fluid">
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-3 col-sm-6">
-            <div class="logo-box">
-              <img src="img/HomeAiLogo/12.png" class="img-fluid">
-            </div>
-          </div>
-        </div>
-      </div>
     </section>
 
     <!------------------------Client logo slide start --------------------->
@@ -498,110 +541,196 @@
         }
     }
     var tvarit = new Typed('#typed-tvarit', {
-      stringsElement: '#tvarit-strings',
-      typeSpeed: 20,
-      backSpeed: 0,
-      startDelay: 400,
-      fadeOut: true,
-      showCursor: false,
-      loop: false
+        stringsElement: '#tvarit-strings',
+        typeSpeed: 20,
+        backSpeed: 0,
+        startDelay: 400,
+        fadeOut: true,
+        showCursor: false,
+        loop: false
     });
 
     var industrial = new Typed('#typed-industrial', {
-      stringsElement: '#industrial-strings',
-      typeSpeed: 40,
-      backSpeed: 0,
-      startDelay: 1000,
-      fadeOut: true,
-      showCursor: false,
-      loop: false
+        stringsElement: '#industrial-strings',
+        typeSpeed: 40,
+        backSpeed: 0,
+        startDelay: 1000,
+        fadeOut: true,
+        showCursor: false,
+        loop: false
     });
 
     var prgf = new Typed('#typed-prgf', {
-      stringsElement: '#prgf-strings',
-      typeSpeed: 40,
-      backSpeed: 0,
-      startDelay: 1000,
-      fadeOut: true,
-      showCursor: false,
-      loop: false
+        stringsElement: '#prgf-strings',
+        typeSpeed: 40,
+        backSpeed: 0,
+        startDelay: 1000,
+        fadeOut: true,
+        showCursor: false,
+        loop: false
     });
 
     var germany = new Typed('#typed-germany', {
-      stringsElement: '#germany-strings',
-      typeSpeed: 40,
-      backSpeed: 40,
-      startDelay: 2000,
-      fadeOut: true,
-      showCursor: false,
-      loop: false,
-      backDelay:500,
-      smartBackspace: true,
+        stringsElement: '#germany-strings',
+        typeSpeed: 40,
+        backSpeed: 40,
+        startDelay: 2000,
+        fadeOut: true,
+        showCursor: false,
+        loop: false,
+        backDelay: 500,
+        smartBackspace: true,
     });
 
     var germanyPrgf = new Typed('#typed-prgf2r', {
-      stringsElement: '#prgf2r-strings',
-      typeSpeed: 40,
-      backSpeed: 40,
-      startDelay: 2000,
-      fadeOut: true,
-      showCursor: false,
-      loop: true,
-      backDelay:500,
-      smartBackspace: true,
+        stringsElement: '#prgf2r-strings',
+        typeSpeed: 40,
+        backSpeed: 40,
+        startDelay: 2000,
+        fadeOut: true,
+        showCursor: false,
+        loop: true,
+        backDelay: 500,
+        smartBackspace: true,
     });
     </script>
-<style>   
-.rw-words-1 span{
-	/* position: absolute; */
-	opacity: 0;
-	overflow: hidden;
-	/* color: #6b969d; */
-	-webkit-animation: rotateWord 13s linear infinite 0s;
-	-ms-animation: rotateWord 13s linear infinite 0s;
-	animation: rotateWord 13s linear infinite 0s;
-}
-.rw-words-1 span:nth-child(2) { 
-    -webkit-animation-delay: 6s; 
-	-ms-animation-delay: 6s; 
-	animation-delay: 6s; 
-	/* color: #6b889d; */
-} 
-@-webkit-keyframes rotateWord {
-    0% { opacity: 0; }
-    2% { opacity: 0; -webkit-transform: translateY(-30px); }
-	5% { opacity: 0; -webkit-transform: translateY(0px);}
-    17% { opacity: 0; -webkit-transform: translateY(0px); }
-	20% { opacity: 1; -webkit-transform: translateY(30px); }
-	80% { opacity: 0; }
-    100% { opacity: 0; }
-}
-@-ms-keyframes rotateWord {
-    0% { opacity: 0; }
-    2% { opacity: 0; -ms-transform: translateY(-30px); }
-	5% { opacity: 0; -ms-transform: translateY(0px);}
-    17% { opacity: 0; -ms-transform: translateY(0px); }
-	20% { opacity: 1; -ms-transform: translateY(30px); }
-	80% { opacity: 0; }
-    100% { opacity: 0; }
-}
-@keyframes rotateWord {
-    0% { opacity: 0; }
-    2% { opacity: 0; -webkit-transform: translateY(-30px); transform: translateY(-30px); }
-	5% { opacity: 0; -webkit-transform: translateY(0px); transform: translateY(0px);}
-    17% { opacity: 0; -webkit-transform: translateY(0px); transform: translateY(0px); }
-	20% { opacity: 1; -webkit-transform: translateY(30px); transform: translateY(30px); }
-	80% { opacity: 0; }
-    100% { opacity: 0; }
-}
-@media screen and (max-width: 768px){
-	.rw-sentence { font-size: 18px; }
-}
-@media screen and (max-width: 320px){
-	.rw-sentence { font-size: 9px; }
-}
+    <style>
+    .rw-words-1 span {
+        /* position: absolute; */
+        opacity: 0;
+        overflow: hidden;
+        /* color: #6b969d; */
+        -webkit-animation: rotateWord 13s linear infinite 0s;
+        -ms-animation: rotateWord 13s linear infinite 0s;
+        animation: rotateWord 13s linear infinite 0s;
+    }
 
-  </style>
+    .rw-words-1 span:nth-child(2) {
+        -webkit-animation-delay: 6s;
+        -ms-animation-delay: 6s;
+        animation-delay: 6s;
+        /* color: #6b889d; */
+    }
+
+    @-webkit-keyframes rotateWord {
+        0% {
+            opacity: 0;
+        }
+
+        2% {
+            opacity: 0;
+            -webkit-transform: translateY(-30px);
+        }
+
+        5% {
+            opacity: 0;
+            -webkit-transform: translateY(0px);
+        }
+
+        17% {
+            opacity: 0;
+            -webkit-transform: translateY(0px);
+        }
+
+        20% {
+            opacity: 1;
+            -webkit-transform: translateY(30px);
+        }
+
+        80% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 0;
+        }
+    }
+
+    @-ms-keyframes rotateWord {
+        0% {
+            opacity: 0;
+        }
+
+        2% {
+            opacity: 0;
+            -ms-transform: translateY(-30px);
+        }
+
+        5% {
+            opacity: 0;
+            -ms-transform: translateY(0px);
+        }
+
+        17% {
+            opacity: 0;
+            -ms-transform: translateY(0px);
+        }
+
+        20% {
+            opacity: 1;
+            -ms-transform: translateY(30px);
+        }
+
+        80% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 0;
+        }
+    }
+
+    @keyframes rotateWord {
+        0% {
+            opacity: 0;
+        }
+
+        2% {
+            opacity: 0;
+            -webkit-transform: translateY(-30px);
+            transform: translateY(-30px);
+        }
+
+        5% {
+            opacity: 0;
+            -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+        }
+
+        17% {
+            opacity: 0;
+            -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+        }
+
+        20% {
+            opacity: 1;
+            -webkit-transform: translateY(30px);
+            transform: translateY(30px);
+        }
+
+        80% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 0;
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        .rw-sentence {
+            font-size: 18px;
+        }
+    }
+
+    @media screen and (max-width: 320px) {
+        .rw-sentence {
+            font-size: 9px;
+        }
+    }
+    </style>
 
 </body>
+
 </html>
