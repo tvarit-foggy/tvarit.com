@@ -298,5 +298,10 @@ $("#btn").live("click",function(){
         }
      }
      </script>    
+    <!------------------------footer start --------------------->
+    <?php
+    include 'footer.php'
+    ?>
+    <!------------------------footer end --------------------->
   </body>
   </html>
