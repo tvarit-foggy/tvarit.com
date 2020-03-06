@@ -117,6 +117,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
+                    <img src="img/EDI_logo.png" class="img-fluid">
                     <div class="typography right lh-1">
                         <div id="germany-strings" class="stringText">
                             <span>AI MADE IN GERMANY</span>
@@ -196,7 +197,7 @@
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="sec-mainTitle">EXPERIENCE ONE OF THE MOST INNOVATIVE INDUSTRIAL AI
+                            <div class="innr-sec-mainTitle inner-lg-heading">EXPERIENCE ONE OF THE MOST INNOVATIVE INDUSTRIAL AI
                                 COMPANIES IN EUROPE</div>
                         </div>
                         <div class="short-line bg-red"></div>

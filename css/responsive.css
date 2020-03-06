@@ -401,7 +401,9 @@
     .bringSlideSection .pdn-l-col {
         padding-left: 80px;
     }
-    
+    .inner-lg-heading {
+        font-size: var(--fs-30) !important;
+    }
 }
 
 @media (min-width: 768px) {
