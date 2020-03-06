@@ -280,6 +280,10 @@ $("#btn").live("click",function(){
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
     <script>
+    	$(window).load(function() {
+		// Animate loader off screen
+		$(".fadeMe").fadeOut("slow");;
+	});
      function validate(evt) {
         var theEvent = evt || window.event;
 
