@@ -76,7 +76,7 @@
                     <img src="img/edi.png" class="img-fluid">
                 </div>
                 <div class="col-md-6">
-                    <img src="img/edi-spain.png" class="img-fluid">
+                    <img src="img/edi-spain.jpeg" class="img-fluid">
                 </div>
             </div>
             <br>

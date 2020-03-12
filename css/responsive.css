@@ -1010,4 +1010,8 @@ and (-webkit-min-device-pixel-ratio: 1) {
     {
         stroke-width: 25px;
     }
+    .edi_index_logo {
+        width: 600px !important;
+        height: 338px !important;
+    }
 }

@@ -115,7 +115,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/EDI_logo.png" class="img-fluid">
+                    <img src="img/EDI_logo.png" class="img-fluid edi_index_logo">
                     <div class="typography right lh-1">
                         <div id="germany-strings" class="stringText">
                             <span>AI MADE IN GERMANY</span>
