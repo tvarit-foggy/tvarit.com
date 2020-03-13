@@ -81,11 +81,11 @@
             </div>
             <br>
             <h6>Bilbao, Spain | 20th Feb 2020</h6>
-            <p class="text-medium fw-700">
+            <p class="text-medium fw-700 p-content-justify">
                 The German tech company Tvarit GmbH has again proved its strength and technology competency by being one
                 of the winners of the EDI 2020 experiment phase round in Spain.
             </p>
-            <p class="text-p">
+            <p class="text-p p-content-justify">
                 Tvarit has developed an innovative AI solution to optimize instore ambient conditions to increase sales
                 for one of the largest retail companies in Europe. With the rapid increase in online shopping, it is
                 becoming more and more difficult for retailers to attract customers to their stores. To solve this
@@ -93,7 +93,7 @@
                 sensors data, promotion data, mapping table and external data such as weather, holiday, demographics and
                 so on to create the AI model with best use-cases and highest accuracy.
             </p>
-            <p class="text-p">
+            <p class="text-p p-content-justify">
                 Tvarit also prepared the dashboards so that customer can see all the relevant KPIs to measure and
                 compare store performances, predictive analytics to estimate basket size and demand for each category up
                 to 10 days in advance and prescriptive analytics to suggest what should be the ambient conditions,
@@ -101,17 +101,17 @@
                 solution for retail companies by connecting all the main business processes by using their domain
                 knowledge and AI expertise.
             </p>
-            <p class="text-p">
+            <p class="text-p p-content-justify">
                 Finally, EDI announced Tvarit as one of the 8 winners among 490 EU companies, by comprehensively
                 evaluating their solution on both technical and business scale. As result of this, Tvarit will
                 participate in the last phase of EDI incubator, namely EVOLVE, where it will receive 100k euros of
                 equity-free funding to turn this solution into a marketable solution.
             </p>
-            <p class="text-p">
+            <p class="text-p p-content-justify">
                 Further information about it can be found at <a target="_blank"
                     href="https://edincubator.eu/2020/02/20/tapas-and-trophies-meet-the-8-fantastic-edi-experiment-phase-winners/">https://edincubator.eu/2020/02/20/tapas-and-trophies-meet-the-8-fantastic-edi-experiment-phase-winners/</a>
             </p>
-            <p class="text-p">
+            <p class="text-p p-content-justify">
                 About Tvarit GmbH: It is a German company based in Frankfurt, Germany. They build and provide AI
                 solutions to solve all kinds of manufacturing problems and data science needs. They provide AI
                 Solutions, AI platform and AI consulting services to successfully complete your all AI and data science

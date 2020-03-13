@@ -2653,3 +2653,6 @@ a .tvarit-black:hover {
 .centerBtnKnowmore {
     text-align: center !important;
 }
+.p-content-justify {
+    text-align: justify;
+}
