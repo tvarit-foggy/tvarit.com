@@ -401,7 +401,9 @@
     .bringSlideSection .pdn-l-col {
         padding-left: 80px;
     }
-    
+    .inner-lg-heading {
+        font-size: var(--fs-30) !important;
+    }
 }
 
 @media (min-width: 768px) {
@@ -1007,5 +1009,9 @@ and (-webkit-min-device-pixel-ratio: 1) {
     .svg-total-line line:nth-child(odd)
     {
         stroke-width: 25px;
+    }
+    .edi_index_logo {
+        width: 600px !important;
+        height: 338px !important;
     }
 }
