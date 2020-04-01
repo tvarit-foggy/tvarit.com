@@ -232,6 +232,9 @@
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
+                                    We provide end to end solution including all types of hardware infrastructure
+                                </li>
+                                <li>
                                     Ready to use AI solutions for most impactful business use-cases
                                 </li>
                                 <li>
