@@ -10,7 +10,7 @@
         --fs-50: calc(50px - 30px) !important;
         --fs-60: calc(60px - 30px) !important;
         --fs-70: calc(70px - 30px) !important;
-        --fs-80: calc(80px - 30px) !important;3
+        --fs-80: calc(80px - 30px) !important;
         --hdr-Tvrit: 86px;
         --hdr-industrial: 42px;
         --hdr-prgf: 14px;
@@ -401,7 +401,9 @@
     .bringSlideSection .pdn-l-col {
         padding-left: 80px;
     }
-    
+    .inner-lg-heading {
+        font-size: var(--fs-30) !important;
+    }
 }
 
 @media (min-width: 768px) {
@@ -869,39 +871,51 @@ and (-webkit-min-device-pixel-ratio: 1) {
         display: block;
     }
 }
-@media screen and (min-width: 1900px) { 
 
+
+/*---- 4K resulation update 13-03-2020 -------------*/
+@media screen and (min-width: 1900px){ 
     :root
     {
-        --fs-10: calc(10px * 2);
-        --fs-12: calc(12px * 2);
-        --fs-14: calc(14px * 2);
-        --fs-16: calc(16px * 2);
-        --fs-18: calc(18px * 2);
-        --fs-20: calc(20px * 2);
-        --fs-22: calc(22px * 2);
-        --fs-24: calc(24px * 2);
-        --fs-26: calc(26px * 2);
-        --fs-28: calc(28px * 2);
-        --fs-30: calc(30px + 20px);
-        --fs-32: calc(32px + 20px);
-        --fs-34: calc(34px + 20px);
-        --fs-36: calc(36px + 20px);
-        --fs-38: calc(38px + 20px);
-        --fs-40: calc(40px + 20px);
-        --fs-42: calc(42px + 20px);
-        --fs-44: calc(44px + 20px);
-        --fs-46: calc(46px + 20px);
-        --fs-48: calc(48px + 20px);
-        --fs-50: calc(50px + 20px);
-        --fs-60: calc(60px + 20px);
-        --fs-70: calc(70px + 20px);
-        --fs-80: calc(80px + 20px);
-        --hdr-Tvrit: calc(103px * 2);
-        --hdr-industrial: calc(50px * 2);
-        --hdr-prgf: calc(20px * 2);
-        --hdr-germany: calc(30px * 2);
+        --fs-10: calc(10px * 1.2);
+        --fs-12: calc(12px * 1.2);
+        --fs-14: calc(14px * 1.2);
+        --fs-16: calc(16px * 1.2);
+        --fs-18: calc(18px * 1.2);
+        --fs-20: calc(20px * 1.2);
+        --fs-22: calc(22px * 1.2);
+        --fs-24: calc(24px * 1.2);
+        --fs-26: calc(26px * 1.2);
+        --fs-28: calc(28px * 1.2);
+        --fs-30: calc(30px + 10px);
+        --fs-32: calc(32px + 10px);
+        --fs-34: calc(34px + 10px);
+        --fs-36: calc(36px + 10px);
+        --fs-38: calc(38px + 10px);
+        --fs-40: calc(40px + 10px);
+        --fs-42: calc(42px + 10px);
+        --fs-44: calc(44px + 10px);
+        --fs-46: calc(46px + 10px);
+        --fs-48: calc(48px + 10px);
+        --fs-50: calc(50px + 10px);
+        --fs-60: calc(60px + 10px);
+        --fs-70: calc(70px + 10px);
+        --fs-80: calc(80px + 10px);
+        --hdr-Tvrit: calc(85px * 2);
+        --hdr-industrial: calc(40px * 2);
+        --hdr-prgf: calc(12px * 2);
+        --hdr-germany: calc(20px * 2);
     }
+
+    .container {
+        max-width: 1570px;
+    }
+    .edi_index_logo {
+        width: 600px !important;
+        height: 338px !important;
+    }
+}
+@media screen and (min-width: 2048px) { 
    .container {
         max-width: 1870px;
     }
@@ -1007,5 +1021,9 @@ and (-webkit-min-device-pixel-ratio: 1) {
     .svg-total-line line:nth-child(odd)
     {
         stroke-width: 25px;
+    }
+    .edi_index_logo {
+        width: 600px !important;
+        height: 338px !important;
     }
 }
