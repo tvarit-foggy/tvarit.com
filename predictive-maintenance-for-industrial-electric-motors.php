@@ -156,7 +156,7 @@
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We help large and medium-sized industrial motor users in reducing the risk of their asset failures
+                    We support large and medium-sized industrial motor users in reducing the risk of their asset failures
                     and inventory costs of spare parts.
                 </div>
             </div>

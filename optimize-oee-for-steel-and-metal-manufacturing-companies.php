@@ -101,7 +101,7 @@
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Steel Coil</div>
+                                Aluminium  Metal</div>
                             <div class="text-big40">
                                 Manufacturing
                             </div>
@@ -120,7 +120,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Optimize OEE for <br> Steel Coil Manufacturing</span>
+                <span class="innr-sec-mainTitle ai_predictive">Optimize OEE for <br> Aluminium/Metal Manufacturing</span>
             </div>
             <br>
             <div class="row align-items-lg-center">
@@ -152,7 +152,7 @@
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We help large and medium sized steel/metal manufacturing organizations in optimizing their
+                    We support large and medium sized steel/metal manufacturing organizations in optimizing their
                     production processes, improving their management systems and achieving higher profitability.
                 </div>
             </div>
@@ -175,7 +175,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <p class="text-p">
-                                Predicting the quality status of steel coils. Capacity: 500,000 tons per year.</p>
+                                Predicting the quality status of aluminium/metal. Capacity: 500,000 tons per year.</p>
                         </div>
                     </div>
                 </div>
@@ -197,7 +197,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <ul class="ul-list-bullet">
-                                <li>Reduce number of defected coils from 5% to 1.2 %</li>
+                                <li>Reduce number of defected metals from 5% to 1.2 %</li>
                                 <li>Real time production view</li>
                                 <li>Increased know-how</li>
                                 <li>Measurable economic benefits</li>

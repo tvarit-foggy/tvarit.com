@@ -154,7 +154,7 @@
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We help large and medium-sized metal and plastic mold manufacturers in optimizing their production
+                    We support large and medium-sized metal and plastic mold manufacturers in optimizing their production
                     processes, improving their management systems and achieving higher profitability
                 </div>
             </div>

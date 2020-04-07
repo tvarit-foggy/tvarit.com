@@ -118,10 +118,9 @@
                     <img src="img/EDI_logo.png" class="img-fluid edi_index_logo">
                     <div class="typography right lh-1">
                         <div id="germany-strings" class="stringText">
-                            <span>AI MADE IN GERMANY</span>
+                            <span>YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
                         </div>
-                        <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img
-                                src="img/flag.png" class="img-fluid flag"></div>
+                        <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
                         <div class="hdr-prgf2r">
                             <span id="typed-prgf2r"></span>
                             <div class="rw-words-1">
@@ -323,7 +322,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                            Our products and services have been built and designed on the basis of 34+ years of
+                            Our products and services have been built and designed on the basis of 54+ years of
                             experience in fortune 500 manufacturing companies. We provide fast and customizable AI
                             solutions for discrete and process manufacturing. We are continuously improving our
                             solutions by heavily investing into R&D. We have developed most advanced AI algorithms and
