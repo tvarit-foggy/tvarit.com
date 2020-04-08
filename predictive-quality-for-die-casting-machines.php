@@ -228,6 +228,8 @@
                             Predicting the quality status of wheel coming from die-casting machine for next batches. Price of each motor: 15000 euros.
                             </p>
                         </div>
+                        <a href="#" data-toggle="modal" data-target="#myModal"
+                            class="btn btn-round btn-red-grd">Click Here</a>
                     </div>
                 </div>
             </div>
@@ -311,6 +313,10 @@
     <!------------------------footer start --------------------->
     <?php
         include 'footer.php';
+    ?>
+    <?php
+    $isFor = 'Die Casting'; 
+    include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->
 

@@ -232,6 +232,8 @@
                             Predicting the shutdown of big motor drives used in printing press while they are in
                             operation. Price of each motor: 15000 euros.</p>
                         </div>
+                        <a href="#" data-toggle="modal" data-target="#myModal"
+                            class="btn btn-round btn-red-grd">Click Here</a>
                     </div>
                 </div>
             </div>
@@ -312,6 +314,10 @@
     <!------------------------footer start --------------------->
     <?php
         include 'footer.php';
+    ?>
+    <?php
+    $isFor = 'Electric Motors';
+    include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->
 

@@ -92,7 +92,7 @@
     <!------------------------ main menu end ------------------------>
     <header class="headerBg bgSizeCover oeeSteal">
         <div class="container">
-            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown text-white" ></i></a>
+            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown text-white"></i></a>
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
@@ -101,7 +101,7 @@
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Aluminium  Metal</div>
+                                Aluminium Metal</div>
                             <div class="text-big40">
                                 Manufacturing
                             </div>
@@ -120,7 +120,8 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Optimize OEE for <br> Aluminium/Metal Manufacturing</span>
+                <span class="innr-sec-mainTitle ai_predictive">Optimize OEE for <br> Aluminium/Metal
+                    Manufacturing</span>
             </div>
             <br>
             <div class="row align-items-lg-center">
@@ -177,6 +178,8 @@
                             <p class="text-p">
                                 Predicting the quality status of aluminium/metal. Capacity: 500,000 tons per year.</p>
                         </div>
+                        <a href="#" data-toggle="modal" data-target="#myModal"
+                            class="btn btn-round btn-red-grd">Click Here</a>
                     </div>
                 </div>
             </div>
@@ -256,7 +259,7 @@
     ?>
     <!------------------------Countdown end --------------------->
     <!--------------------- Buttons  ------------------->
-    <br id="contact_us"/>
+    <br id="contact_us" />
     <!------------------------footer start --------------------->
     <?php
     include 'footer.php';
@@ -265,7 +268,10 @@
     <?php
     include 'case-study-modal.php';
     ?>
-
+    <?php
+    $isFor  = 'Metal Manufacturing';
+    include 'usecase-form-modal.php';
+    ?>
     <div class="cookieFooter bg-red-grd" id="cookieDiv">
         <div class="container">
             <div class="row justify-content-between">

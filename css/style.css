@@ -704,7 +704,10 @@ p
     background: url('../img/careerBg.jpg');
     background-size: contain;
 }
-
+.headerBgSlide {
+    background: url('../img/careerBg.jpg');
+    background-size: contain;
+}
 
 .aboutBg
 {

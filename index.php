@@ -4,6 +4,8 @@
 
 <head>
     <script src="js/navigationDE.js"></script>
+    <style>
+    .mySlides {display: none;} </style>
 
     <!-- Google Tag Manager -->
     <script>
@@ -89,10 +91,14 @@
 
     <!------------------------ header start ------------------------->
 
-    <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
-        <video autoplay="true" muted loop style="z-index=-1">
-            <source src="video/index-video.mp4" type="video/mp4">
-        </video>
+    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100">
+        <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
+        <!-- <div class="mySlides headerBg  bgSizeCover cableManfBg"></div>
+        <div class="mySlides headerBg  bgSizeCover oeeSteal "></div>
+        <div class="mySlides headerBg  bgSizeCover electricMotorBg"></div> -->
+            <!-- <source src="video/index-video.mp4" type="video/mp4"> -->
+        <!-- </video> -->
+       
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                     class="icon ion-ios-arrow-dropdown"></i></a>
@@ -508,7 +514,7 @@
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
-
+    <script src="js/indexSlider.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/SmoothScroll.js"></script>

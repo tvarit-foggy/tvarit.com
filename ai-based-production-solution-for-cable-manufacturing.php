@@ -230,6 +230,8 @@
                             <p class="text-p">
                             AI based production planning system for cable manufacturer. Price of each motor: Capacity of factory: 100,000 Cu tons/year.</p>
                         </div>
+                        <a href="#" data-toggle="modal" data-target="#myModal"
+                            class="btn btn-round btn-red-grd">Click Here</a>
                     </div>
                 </div>
             </div>
@@ -311,6 +313,10 @@
     <!------------------------footer start --------------------->
     <?php
         include 'footer.php';
+    ?>
+    <?php
+    $isFor = 'Cable Manufacturing';
+    include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->
 
