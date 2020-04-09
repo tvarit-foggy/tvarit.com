@@ -4,6 +4,8 @@
 
 <head>
     <script src="js/navigationDE.js"></script>
+    <style>
+    .mySlides {display: none;} </style>
 
     <!-- Google Tag Manager -->
     <script>
@@ -89,10 +91,14 @@
 
     <!------------------------ header start ------------------------->
 
-    <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
-        <video autoplay="true" muted loop style="z-index=-1">
-            <source src="video/index-video.mp4" type="video/mp4">
-        </video>
+    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100">
+        <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
+        <!-- <div class="mySlides headerBg  bgSizeCover cableManfBg"></div>
+        <div class="mySlides headerBg  bgSizeCover oeeSteal "></div>
+        <div class="mySlides headerBg  bgSizeCover electricMotorBg"></div> -->
+            <!-- <source src="video/index-video.mp4" type="video/mp4"> -->
+        <!-- </video> -->
+       
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                     class="icon ion-ios-arrow-dropdown"></i></a>
@@ -118,10 +124,9 @@
                     <img src="img/EDI_logo.png" class="img-fluid edi_index_logo">
                     <div class="typography right lh-1">
                         <div id="germany-strings" class="stringText">
-                            <span>AI MADE IN GERMANY</span>
+                            <span>YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
                         </div>
-                        <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img
-                                src="img/flag.png" class="img-fluid flag"></div>
+                        <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
                         <div class="hdr-prgf2r">
                             <span id="typed-prgf2r"></span>
                             <div class="rw-words-1">
@@ -278,7 +283,7 @@
                 <div class="col-lg-4">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-consulting-1.png">
+                            <img src="img/ai-consulting.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">AI Consulting</p>
@@ -323,7 +328,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                            Our products and services have been built and designed on the basis of 34+ years of
+                            Our products and services have been built and designed on the basis of 54+ years of
                             experience in fortune 500 manufacturing companies. We provide fast and customizable AI
                             solutions for discrete and process manufacturing. We are continuously improving our
                             solutions by heavily investing into R&D. We have developed most advanced AI algorithms and
@@ -474,6 +479,16 @@
                         <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
                     </div>
                 </div>
+                <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/forum-startup-chemie.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/zenit.png" class="img-fluid">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -509,7 +524,7 @@
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
-
+    <script src="js/indexSlider.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/SmoothScroll.js"></script>
