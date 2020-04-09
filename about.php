@@ -660,7 +660,7 @@
     }
 
     .row-height-2 {
-        height: 570px;
+        height: 590px;
     }
 
     .row-height-3 {

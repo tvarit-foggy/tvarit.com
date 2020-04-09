@@ -806,7 +806,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 @media (min-width: 1270px) and (max-width: 1290px) {
     .indexMainBg {
         height: 75vh;
-    }
+    }   
 }
 
 @media (min-width: 1024px) and (max-width: 1290px) and (orientation: landscape) {
@@ -906,7 +906,9 @@ and (-webkit-min-device-pixel-ratio: 1) {
         --hdr-prgf: calc(12px * 2);
         --hdr-germany: calc(20px * 2);
     }
-
+    .row-height-2 {
+        height: 680px !important;
+    }
     .container {
         max-width: 1570px;
     }
@@ -932,6 +934,9 @@ and (-webkit-min-device-pixel-ratio: 1) {
     .formBox .form-control
     {
         height: calc(2.25rem * 2);
+    }
+    .row-height-2 {
+        height: 730px !important;
     }
     .formBox textarea.form-control
     {
