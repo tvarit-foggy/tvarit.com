@@ -352,17 +352,16 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/marvin_circle.jpg" alt="Marvin"
+                            <img src="img/tobias-gundermann.png" alt="Marvin"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
-                            <h4 class="title title-name"> Marvin Dadischeck</h4>
-                            <h6 class="title">Business Development Manager</h6>
+                            <h4 class="title title-name"> Tobias Gundermann</h4>
+                            <h6 class="title">Customer Success Manager</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li> Creating Value Propositions for Customers</li>
-                                <li>Hails from Business Administration background</li>
-                                <li>Work experience with Audi, Federal-Mogul</li>
+                                <li>Bridge between customers and team</li>
+                                <li>Experience from working at ZF and Porsche</li>
                             </ul>
                             <div class="social-icon">
 

@@ -283,7 +283,7 @@
                 <div class="col-lg-4">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-consulting-1.png">
+                            <img src="img/ai-consulting.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">AI Consulting</p>
@@ -477,6 +477,16 @@
                 <div class="carousel-cell">
                     <div class="picBox">
                         <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/forum-startup-chemie.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/zenit.png" class="img-fluid">
                     </div>
                 </div>
             </div>

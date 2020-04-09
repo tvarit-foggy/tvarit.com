@@ -235,7 +235,7 @@
                         <h3 class="fw-900">Hitesh Mittal</h3>
                         <span class="fs-18  fw-400">Director Sales & Marketing</span><br>
                         <span class="fs-18  fw-400">+49 1512 4936026</span><br>
-                        <span class="fs-18  fw-400">hitesh.mittal@tvarit.com</span>
+                        <span class="fs-18  fw-400" style="text-transform:lowercase">hitesh.mittal@tvarit.com</span>
                         </div>
                         <div>
                             <!-- <a href="#" data-toggle="modal" data-target="#exampleModal"
@@ -249,7 +249,7 @@
                         <h3 class="fw-900">Tobias Gundermann</h3>
                         <span class="fs-18  fw-400">Director Sales & Marketing</span><br>
                         <span class="fs-18  fw-400">+49 179 2429893</span><br>
-                        <span class="fs-18  fw-400">tobias.gundermann@tvarit.com</span>
+                        <span class="fs-18  fw-400" style="text-transform:lowercase">tobias.gundermann@tvarit.com</span>
                             
                         </div>
 
