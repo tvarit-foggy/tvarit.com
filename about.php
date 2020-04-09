@@ -78,8 +78,8 @@
                         </div>
                         <br>
                         <div>
-                            <p class="text-p" style="width:90%">
-                            We are German company based in Frankfurt, Germany. We build and provide AI solutions to
+                            <p class="text-p txt-justify" style="width:90%">
+                                We are German company based in Frankfurt, Germany. We build and provide AI solutions to
                                 solve all
                                 kinds of manufacturing problems and data science needs. We enable businesses to make
                                 smart and
@@ -103,7 +103,7 @@
     <!------------------------ header end --------------------------->
 
 
-    
+
 
     <!------------------------ Who we are --------------------->
     <!-- <div class="section-padding" id="Benefits">
@@ -437,136 +437,140 @@
             <!-------- Custom Divider ------------>
         </div>
     </div>
-   
 
-<!------------------------ CONSULTING start --------------------->
-<div class="section-padding">
+
+    <!------------------------ CONSULTING start --------------------->
+    <div class="section-padding">
         <div class="container">
-        <div class="">
+            <div class="">
                 <div class="title text-center">
                     <div class="text-big60">We are proud of what <br> we have achieved</div>
                     <div class="short-line mx-auto bg-red"></div>
                 </div>
                 <br>
-            <div class="row justify-content-center">
-                <div class="col-md-6 col-lg-4">
-                    <div class="countingNumBox">
-                        <div class="icon">
-                        <img src="img/achived/32_Industry_icon.png" class="img-fluid">
-                        </div>
-                        <div class="content">
-                            <div class="numbers">32+</div>
-                            <div class="text">
-                            Industrial projects successfully completed
+                <div class="row justify-content-center">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="countingNumBox">
+                            <div class="icon">
+                                <img src="img/achived/32_Industry_icon.png" class="img-fluid">
                             </div>
-                        </div>
-                    </div>                    
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                    <div class="countingNumBox">
-                        <div class="icon">
-                        <img src="img/achived/14_million_euro_icon.png" class="img-fluid">
-                        </div>
-                        <div class="content">
-                            <div class="numbers">14+</div>
-                            <div class="text">
-                            Million euros of customer benefits realized
+                            <div class="content">
+                                <div class="numbers">32+</div>
+                                <div class="text">
+                                    Industrial projects successfully completed
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="col-md-6 col-lg-4">
-                <div class="countingNumBox">
-                        <div class="icon">
-                        <img src="img/achived/20_Big_network_iocn.png" class="img-fluid">
-                        </div>
-                        <div class="content">
-                            <div class="numbers">20+</div>
-                            <div class="text">
-                            Big network of large companies supporting us which makes us independent and flexible
+                    <div class="col-md-6 col-lg-4">
+                        <div class="countingNumBox">
+                            <div class="icon">
+                                <img src="img/achived/14_million_euro_icon.png" class="img-fluid">
+                            </div>
+                            <div class="content">
+                                <div class="numbers">14+</div>
+                                <div class="text">
+                                    Million euros of customer benefits realized
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                
-                <div class="col-md-6 col-lg-4" style="margin-top:20px;">
-                    <div class="countingNumBox">
-                        <div class="icon">
-                        <img src="img/achived/30_min_icon.png" class="img-fluid">
-                        </div>
-                        <div class="content">
-                            <div class="numbers">30 <span style="font-size:30px;">mins<span></div>
-                            <div class="text">
-                            Fastest time to make AI models
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="countingNumBox">
+                            <div class="icon">
+                                <img src="img/achived/20_Big_network_iocn.png" class="img-fluid">
+                            </div>
+                            <div class="content">
+                                <div class="numbers">20+</div>
+                                <div class="text">
+                                    Big network of large companies supporting us which makes us independent and flexible
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="col-md-6 col-lg-4" style="margin-top:20px;">
-                    <div class="countingNumBox">
-                        <div class="icon">
-                        <img src="img/achived/10_major_awards.png" class="img-fluid">
+                    <div class="col-md-6 col-lg-4" style="margin-top:20px;">
+                        <div class="countingNumBox">
+                            <div class="icon">
+                                <img src="img/achived/30_min_icon.png" class="img-fluid">
+                            </div>
+                            <div class="content">
+                                <div class="numbers">30 <span style="font-size:30px;">mins<span></div>
+                                <div class="text">
+                                    Fastest time to make AI models
+                                </div>
+                            </div>
                         </div>
-                        <div class="content">
-                            <div class="numbers">10+</div>
-                            <div class="text">
-                            Major awards won
+                    </div>
+
+                    <div class="col-md-6 col-lg-4" style="margin-top:20px;">
+                        <div class="countingNumBox">
+                            <div class="icon">
+                                <img src="img/achived/10_major_awards.png" class="img-fluid">
+                            </div>
+                            <div class="content">
+                                <div class="numbers">10+</div>
+                                <div class="text">
+                                    Major awards won
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!------------------------ CONSULTING end --------------------->
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+        <!------------------------ CONSULTING end --------------------->
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
 
-    <!------------------------Countdown start --------------------->
-    <?php 
+        <!------------------------Countdown start --------------------->
+        <?php 
                 include 'change_we_brought.php';
                 ?>
-                
-    <!------------------------Countdown end --------------------->
 
-    <!------------------------Client logo slide start --------------------->
-    <div class="section-padding">
-    <?php include 'using-tvarit.php'; ?>
-    </div>
-    <!------------------------Client logo slide end --------------------->
+        <!------------------------Countdown end --------------------->
 
-    <!------------------------try demo start --------------------->
+        <!------------------------Client logo slide start --------------------->
+        <div class="section-padding">
+            <?php include 'using-tvarit.php'; ?>
+        </div>
+        <!------------------------Client logo slide end --------------------->
 
-    <!------------------------try demo end --------------------->
+        <!------------------------try demo start --------------------->
 
-    <!------------------------footer start --------------------->
-    <?php
+        <!------------------------try demo end --------------------->
+
+        <!------------------------footer start --------------------->
+        <?php
     include 'footer.php'
     ?>
-    <!------------------------footer end --------------------->
-    <!-- script start -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/popper.min.js"></script>
+        <!------------------------footer end --------------------->
+        <!-- script start -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
 
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.easing.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.easing.min.js"></script>
 
-    <script src="js/flickity.pkgd.min.js"></script>
-    <script src="js/readmore.js"></script>
-    <script src="js/counting.js"></script>
-    <script src="js/script.js"></script>
-    <script src="js/parallax.js"></script>
-    <script src="js/SmoothScroll.js"></script>
+        <script src="js/flickity.pkgd.min.js"></script>
+        <script src="js/readmore.js"></script>
+        <script src="js/counting.js"></script>
+        <script src="js/script.js"></script>
+        <script src="js/parallax.js"></script>
+        <script src="js/SmoothScroll.js"></script>
 
 
 </body>
 <style>
+.txt-justify {
+    text-align: justify !important;
+}
+
 .column {
     float: left;
     width: 25%;
