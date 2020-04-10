@@ -26,8 +26,8 @@ $("#btnUsecase").live("click", function() {
         var x = document.getElementById("snackbarUsecase");
         $.ajax({
             type: "POST",
-            url: "/useCaseMail",
-            data: "name=" + name + '&email=' + email + '&com=' + company + '&phone=' + phone,
+            url: "./useCaseMail",
+            data: "name=" + name + '&email=' + email + '&company=' + company + '&phone=' + phone,
             success: function(data) {
                 x.className = "show";
                 setTimeout(function() {
