@@ -205,7 +205,7 @@
                                 </li>
                             </ul>
                             <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
-                                class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -229,7 +229,8 @@
                                     Available on On-Premise, Cloud and edge-computing
                                 </li>
                             </ul>
-                            <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore"> Know
+                            <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
+                            style="padding: 12px !important"> Know
                                 More</a>
                         </div>
                     </div>
@@ -254,7 +255,7 @@
                                     Innovative task based pricing
                                 </li>
                             </ul>
-                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know
+                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
                                 More</a>
                         </div>
                     </div>
