@@ -3,13 +3,41 @@
   $email = $_POST["email"];
   $company = $_POST["company"];
   $phone = $_POST["phone"];
+  $page = trim($_GET["page"]);
   $to = "$email";
+  $downloadLinks = "";
+
+  echo ">>>> $page";
+
+  // if ($page == "Metal Manufacturing") {
+    $downloadLinks = "
+    Molding Process Use Case:
+    https://drive.google.com/open?id=1ySoLhpw5zVhg72lKrG4kryK1Ulc8fK-f
+
+    Predictive Maintenance Use Case:
+    https://drive.google.com/open?id=10c7weeRq1-3pSAmELgfonAyscjr3AGMS
+    
+    Production Planning Use Case:
+    https://drive.google.com/open?id=1qFhkIn1oiqHQN6R9ZmVSY28OcHoLyYzO 
+    
+    Quality Optimization Use Case:
+    https://drive.google.com/open?id=16wADeWK6lvlbaRpAOpxApevR1yCxrbGU
+    ";
+
+  // }else if ($page == "Electric Motors") {
+    
+  // }else if ($page == "Die Casting") {
+    
+  // }else if ($page == "Cable Manufacturing") {
+    
+  // } 
 
   $message = "
   Dear $name,
   Thank you for your interest in our solutions.
   Please find the requested use-case attached.
   
+  $downloadLinks
 
   Please feel free to contact me in case of any questions.
   Best regards,
@@ -34,10 +62,22 @@
   The information contained in this e-mail and any attachments are confidential, may be subject to legal privilege, and is intended solely for the use of the addressee. Any unauthorized dissemination or copying of this e-mail or its attachments and any use or disclosure of any information contained in them is strictly prohibited and may be illegal. If you have received this e-mail in error, please notify us immediately. The e-mail transmission and any attachments must be deleted from your system. Tvarit GmbH does not bear any responsibility for the accuracy or completeness of its transmission.
 ";
 
+$messageTvarit = "
+Dear $name,
+Please find the Use case request details,
+  Name:    $name
+  Email:   $email  
+  Phone:   $phone
+  Company: $company
+
+";
+  $subject = "Tvarit Use case request";
   $headers  = "From: info@tvarit.com\r\n" .
   "X-Mailer: php\r\n";
   $headers .= "Bcc: info@tvarit.com\r\n";
+  $toTvarit = "info@tvarit.com";
 
   mail($to,$subject,$message,$headers);
+  mail($toTvarit,$subject,$messageTvarit,$headers);
    
 ?>  
