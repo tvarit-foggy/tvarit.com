@@ -90,15 +90,15 @@
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-
-    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100">
+    <style>
+        .layer {
+            background-color: rgba(0, 0, 0, 0.4);
+            height: 100%; overflow: auto; 
+        }
+    </style>
+    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important">
         <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
-        <!-- <div class="mySlides headerBg  bgSizeCover cableManfBg"></div>
-        <div class="mySlides headerBg  bgSizeCover oeeSteal "></div>
-        <div class="mySlides headerBg  bgSizeCover electricMotorBg"></div> -->
-            <!-- <source src="video/index-video.mp4" type="video/mp4"> -->
-        <!-- </video> -->
-       
+        <div class="layer">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                     class="icon ion-ios-arrow-dropdown"></i></a>
@@ -140,52 +140,7 @@
                 </div>
             </div>
         </div>
-
-        <!-- <div class="container">
-        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
-        <div class="row align-items-center">
-          <div class="col-md-5">
-            <div class="typography lh-1 left"  style="float:left">
-              <div id="tvarit-strings" >
-                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
-              </div>
-              <div id="industrial-strings">
-                <span>INDUSTRIAL <span class="red">AI</span> </span>
-              </div>
-              <div id="prgf-strings">
-                <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
-              </div>
-              <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
-              <div class="hdr-industrial" id="typed-industrial">
-              </div>
-              <div class="hdr-prgf" >
-                <span id="typed-prgf"></span>
-              </div>
-                
-            </div>
-          </div>
-          <div class="col-md-2"></div>
-          <div class="col-md-5">
-            <div class="typography right lh-1">
-              <div id="germany-strings">
-                <span>AI MADE IN GERMANY &nbsp;</span>
-              </div>
-              <div id="prgf2r-strings">
-                <span>Remove inefficiencies and failures of your production units and business processes</span>
-                <span>Reduce the failure rate of all your AI/Data Science Projects</span>
-              </div>
-
-              <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
-
-              <div class="hdr-prgf2r">
-                <span  id="typed-prgf2r"></span>
-              </div>
-              
-            </div>
-          </div>
         </div>
-      </div> -->
-
     </header>
     <!------------------------ header end --------------------------->
     <div class="section-padding-both" id="downClick">

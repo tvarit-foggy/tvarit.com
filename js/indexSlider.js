@@ -1,7 +1,7 @@
 var slideIndex = 0;
 showSlides();
 function showSlides() {
-  var imgUrls = ['../img/bg-cable-manufacturing.jpg','../img/bg-steel-coil.jpg','../img/electric-motor.jpg'];
+  var imgUrls = ['../tvarit.com/img/bg-cable-manufacturing.jpg','../tvarit.com/img/bg-steel-coil.jpg','../tvarit.com/img/electric-motor.jpg'];
   var headerBgSlide = document.getElementById("headerBgSlide");
   slideIndex++;
   if (slideIndex > imgUrls.length) {slideIndex = 1}

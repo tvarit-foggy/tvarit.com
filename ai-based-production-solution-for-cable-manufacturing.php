@@ -231,7 +231,7 @@
                             AI based production planning system for cable manufacturer. Price of each motor: Capacity of factory: 100,000 Cu tons/year.</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
-                            class="btn btn-round btn-red-grd">Click Here</a>
+                            class="btn btn-round btn-red-grd">Download Use Case</a>
                     </div>
                 </div>
             </div>

@@ -27,7 +27,7 @@ $("#btnUsecase").live("click", function() {
         $.ajax({
             type: "POST",
             url: "/useCaseMail",
-            data: "name=" + name + '&email=' + email + '&com=' + company + '&phone=' + phone,
+            data: "name=" + name + '&email=' + email + '&company=' + company + '&phone=' + phone,
             success: function(data) {
                 x.className = "show";
                 setTimeout(function() {
@@ -170,7 +170,7 @@ $("#btnUsecase").live("click", function() {
                     <div class="form-group">
                         <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="isAccept" checked="">
-                            <label class="custom-control-label" for="isAccept">All</label>
+                            <label class="custom-control-label" for="isAccept">I agree to download the usecase.</label>
                         </div>
                     </div>
                     <div id="emailValidationUsecase">Email is Incorrect</div>

@@ -220,7 +220,7 @@
                 <div class="col-lg">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span></div>
+                            <div class="text-big60 fw-900"><span class="text-capitalize">Download Use Case</span></div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">

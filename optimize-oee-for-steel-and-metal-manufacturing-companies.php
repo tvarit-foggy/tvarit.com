@@ -179,7 +179,7 @@
                                 Predicting the quality status of aluminium/metal. Capacity: 500,000 tons per year.</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
-                            class="btn btn-round btn-red-grd">Click Here</a>
+                            class="btn btn-round btn-red-grd">Download Use Case</a>
                     </div>
                 </div>
             </div>
