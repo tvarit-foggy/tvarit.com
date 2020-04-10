@@ -26,7 +26,7 @@ $("#btnUsecase").live("click", function() {
         var x = document.getElementById("snackbarUsecase");
         $.ajax({
             type: "POST",
-            url: "/tvarit.com/useCaseMail?page=<?php echo $isFor; ?>",
+            url: "/useCaseMail?page=<?php echo $isFor; ?>",
             data: "name=" + name + '&email=' + email + '&company=' + company + '&phone=' + phone,
             success: function(data) {
                 x.className = "show";
