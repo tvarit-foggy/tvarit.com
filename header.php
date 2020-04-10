@@ -5,7 +5,6 @@
   width: 80px;
   height: 80px;
   top: 50%;
-  left: 50%;
 }
 .lds-ripple div {
   position: absolute;
@@ -44,11 +43,18 @@ div.fadeMe {
   position:   fixed; 
   z-index: 9999999;
 }
-
+.logo-contain {
+    text-align: center;
+    height: 100vh;
+}
 </style>    
 
 <!-- Paste this code after body tag -->
-<div class="fadeMe"><div class="lds-ripple"><div></div><div></div></div></div></div>
+<div class="fadeMe">
+<div class="logo-contain">
+<div class="lds-ripple"><div></div><div></div></div></div>
+</div>
+</div>
 
 	<!-- Ends -->
 <div class="main-menu fixed-menu sticky-top sticky">
