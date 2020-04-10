@@ -26,7 +26,7 @@ $("#btnUsecase").live("click", function() {
         var x = document.getElementById("snackbarUsecase");
         $.ajax({
             type: "POST",
-            url: "/useCaseMail",
+            url: "/tvarit.com/useCaseMail?page=<?php echo $isFor; ?>",
             data: "name=" + name + '&email=' + email + '&company=' + company + '&phone=' + phone,
             success: function(data) {
                 x.className = "show";
@@ -37,6 +37,7 @@ $("#btnUsecase").live("click", function() {
                 $('#emailUsecase').val('');
                 $('#comUsecase').val('');
                 $('#phoneUsecase').val('');
+                $('#myModal').modal('hide');
             }
         });
     } else {
@@ -177,15 +178,11 @@ $("#btnUsecase").live("click", function() {
                     <div id="snackbarUsecase">We Will Contact you Shortly</div>
                     <div id="validationUsecase">Fill All the Mandatory Fields</div>
                     <br>
-                    <!-- <div class="form-group text-right">
-                                <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
-                            </div> -->
                 </div>
             </div>
             <div class="modal-footer">
                 <input type="button" value="Submit" id="btnUsecase" class="btn btn-round btn-red-grd">
                 <input type="button" value="Close" data-dismiss="modal" class="btn btn-round btn-red-grd">
-                <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
             </div>
         </div>
     </div>

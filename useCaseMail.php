@@ -4,7 +4,6 @@
   $company = $_POST["company"];
   $phone = $_POST["phone"];
   $to = "$email";
-
   $message = "
   Dear $name,
   Thank you for your interest in our solutions.
@@ -34,10 +33,20 @@
   The information contained in this e-mail and any attachments are confidential, may be subject to legal privilege, and is intended solely for the use of the addressee. Any unauthorized dissemination or copying of this e-mail or its attachments and any use or disclosure of any information contained in them is strictly prohibited and may be illegal. If you have received this e-mail in error, please notify us immediately. The e-mail transmission and any attachments must be deleted from your system. Tvarit GmbH does not bear any responsibility for the accuracy or completeness of its transmission.
 ";
 
+$messageTvarit = "
+Dear $name,
+Thank you for your interest in our solutions.
+Please find the requested use-case attached.
+  Email:   $email  
+  Phone:   $phone
+  Subject: $subject
+  Message: $msg
+";
   $headers  = "From: info@tvarit.com\r\n" .
   "X-Mailer: php\r\n";
   $headers .= "Bcc: info@tvarit.com\r\n";
-
+  $toTvarit = "info@tvarit.com";
   mail($to,$subject,$message,$headers);
+  mail($toTvarit,$subject,$messageTvarit,$headers);
    
 ?>  
