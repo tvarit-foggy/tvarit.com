@@ -336,6 +336,21 @@ p
     box-shadow: none;
     outline: 0;
 }
+.btnmodal
+{
+    font-size: var(--fs-12);
+    font-weight: 700;
+    padding: 12px 24px;
+    text-decoration: none;
+}
+.btnmodal:hover,.btnmodal:focus
+{
+    background:#fff;
+    color: inherit;
+    border-color: black;
+    box-shadow: none;
+    outline: 0;
+}
 
 .btn-outline-white
 {
@@ -777,6 +792,10 @@ p
     background-size: contain;
 }
 
+.headerOverlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%; overflow: auto; 
+}
 
 .headerBg
 {

@@ -90,15 +90,9 @@
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    <style>
-        .layer {
-            background-color: rgba(0, 0, 0, 0.5);
-            height: 100%; overflow: auto; 
-        }
-    </style>
     <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important">
         <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
-        <div class="layer">
+        <div class="headerOverlay">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                     class="icon ion-ios-arrow-dropdown"></i></a>

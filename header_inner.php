@@ -135,7 +135,6 @@
                                         <li>
                                             <a href="#" class="sub-Link">Survey</a>
                                             <ul class="ul-deep-menu">
-                                                <br><br><br>
                                                 <li>
                                                     <a href="../ai_for_manufacturing" class="sub-Link">AI for
                                                         Manufacturing</a>

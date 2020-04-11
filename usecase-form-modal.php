@@ -181,8 +181,8 @@ $("#btnUsecase").live("click", function() {
                 </div>
             </div>
             <div class="modal-footer">
-                <input type="button" value="Submit" id="btnUsecase" class="btn btn-round btn-red-grd">
-                <input type="button" value="Close" data-dismiss="modal" class="btn btn-round btn-red-grd">
+                <input type="button" value="Submit" id="btnUsecase" class="btnmodal btn-round btn-red-grd">
+                <input type="button" value="Close" data-dismiss="modal" class="btnmodal btn-round btn-red-grd">
             </div>
         </div>
     </div>
