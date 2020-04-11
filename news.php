@@ -92,9 +92,6 @@
                             For a concise and brief study, refer to our blogs and gather crisp knowledge on the industry
                         </p>
                         <br>
-
-                        <a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                 </div>
             </div>

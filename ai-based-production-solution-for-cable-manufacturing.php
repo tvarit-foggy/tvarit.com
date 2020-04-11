@@ -108,8 +108,6 @@
                             </div>
                         </div>
                         <br>
-                        <a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                 </div>
             </div>
@@ -315,7 +313,7 @@
         include 'footer.php';
     ?>
     <?php
-    $isFor = 'Cable Manufacturing';
+    $isFor = 'Production Planning';
     include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->

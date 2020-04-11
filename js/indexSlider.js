@@ -7,5 +7,6 @@ function showSlides() {
   if (slideIndex > imgUrls.length) {slideIndex = 1}
   var url = "url(" + imgUrls[slideIndex-1] +")";
   headerBgSlide.style.backgroundImage = url;
-  setTimeout(showSlides, 2500); // Change image every 2 seconds
+  headerBgSlide.style.transition =   "0.8s ease";
+  setTimeout(showSlides, 3000);
 }

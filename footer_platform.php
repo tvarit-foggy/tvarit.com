@@ -240,9 +240,6 @@
      <!------------------------try demo start --------------------->
      <div class="tryDemobg">
          <div class="container text-center">
-             <div class="centerTitle text-white text-big60">
-             free trial for 30 days 
-             </div>
              <br>
          </div>
      </div>

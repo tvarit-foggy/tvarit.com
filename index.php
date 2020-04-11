@@ -92,7 +92,7 @@
     <!------------------------ header start ------------------------->
     <style>
         .layer {
-            background-color: rgba(0, 0, 0, 0.4);
+            background-color: rgba(0, 0, 0, 0.5);
             height: 100%; overflow: auto; 
         }
     </style>
@@ -121,10 +121,10 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/EDI_logo.png" class="img-fluid edi_index_logo">
-                    <div class="typography right lh-1">
+                    <img src="img/EDI_logo.png" class="img-fluid edi_index_logo" style="margin-left: auto;margin-right:auto;display:block">
+                    <div class="typography right lh-1" style="text-align:center">
                         <div id="germany-strings" class="stringText">
-                            <span>YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
+                            <span style="text-align:center">YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
                         </div>
                         <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
                         <div class="hdr-prgf2r">

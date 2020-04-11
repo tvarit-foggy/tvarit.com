@@ -71,8 +71,6 @@
                  Predictive Maintenance, Connected Car Cyber Security, Auto Marketing, and Predictive Collision Avoidance. We’ve got you covered.
               </p>
               <br>
-
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
             </div>
           </div>
         </div>
