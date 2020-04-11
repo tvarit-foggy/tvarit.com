@@ -82,11 +82,14 @@
         --fs-70: calc(70px - 20px);
         --fs-80: calc(80px - 20px);
     }
-
+    .headerOverlay {
+        background-color: rgba(0, 0, 0, 0.5);
+        height: 100%; overflow: auto; 
+        padding-bottom: 60px;
+    }
     .headerBg {
         height: auto;
         padding-top: 60px;
-        padding-bottom: 60px;
         margin-bottom: 60px;
     }
     .aiconsultingBg
@@ -806,7 +809,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 @media (min-width: 1270px) and (max-width: 1290px) {
     .indexMainBg {
         height: 75vh;
-    }
+    }   
 }
 
 @media (min-width: 1024px) and (max-width: 1290px) and (orientation: landscape) {
@@ -874,7 +877,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
 
 
 /*---- 4K resulation update 13-03-2020 -------------*/
-@media screen and (min-width: 1900px){ 
+/* @media screen and (min-width: 1900px){ 
     :root
     {
         --fs-10: calc(10px * 1.2);
@@ -906,7 +909,9 @@ and (-webkit-min-device-pixel-ratio: 1) {
         --hdr-prgf: calc(12px * 2);
         --hdr-germany: calc(20px * 2);
     }
-
+    .row-height-2 {
+        height: 680px !important;
+    }
     .container {
         max-width: 1570px;
     }
@@ -932,6 +937,9 @@ and (-webkit-min-device-pixel-ratio: 1) {
     .formBox .form-control
     {
         height: calc(2.25rem * 2);
+    }
+    .row-height-2 {
+        height: 730px !important;
     }
     .formBox textarea.form-control
     {
@@ -1026,4 +1034,4 @@ and (-webkit-min-device-pixel-ratio: 1) {
         width: 600px !important;
         height: 338px !important;
     }
-}
+} */

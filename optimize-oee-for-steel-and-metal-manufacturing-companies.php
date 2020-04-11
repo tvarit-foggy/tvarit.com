@@ -92,7 +92,7 @@
     <!------------------------ main menu end ------------------------>
     <header class="headerBg bgSizeCover oeeSteal">
         <div class="container">
-            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown text-white" ></i></a>
+            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown text-white"></i></a>
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
@@ -101,14 +101,12 @@
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Steel Coil</div>
+                                Aluminium Metal</div>
                             <div class="text-big40">
                                 Manufacturing
                             </div>
                         </div>
                         <br>
-                        <a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                 </div>
             </div>
@@ -120,7 +118,8 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Optimize OEE for <br> Steel Coil Manufacturing</span>
+                <span class="innr-sec-mainTitle ai_predictive">Optimize OEE for <br> Aluminium/Metal
+                    Manufacturing</span>
             </div>
             <br>
             <div class="row align-items-lg-center">
@@ -152,7 +151,7 @@
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We help large and medium sized steel/metal manufacturing organizations in optimizing their
+                    We support large and medium sized steel/metal manufacturing organizations in optimizing their
                     production processes, improving their management systems and achieving higher profitability.
                 </div>
             </div>
@@ -175,8 +174,10 @@
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <p class="text-p">
-                                Predicting the quality status of steel coils. Capacity: 500,000 tons per year.</p>
+                                Predicting the quality status of aluminium/metal. Capacity: 500,000 tons per year.</p>
                         </div>
+                        <a href="#" data-toggle="modal" data-target="#myModal"
+                            class="btn btn-round btn-red-grd">Download Use Case</a>
                     </div>
                 </div>
             </div>
@@ -197,7 +198,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <ul class="ul-list-bullet">
-                                <li>Reduce number of defected coils from 5% to 1.2 %</li>
+                                <li>Reduce number of defected metals from 5% to 1.2 %</li>
                                 <li>Real time production view</li>
                                 <li>Increased know-how</li>
                                 <li>Measurable economic benefits</li>
@@ -256,7 +257,7 @@
     ?>
     <!------------------------Countdown end --------------------->
     <!--------------------- Buttons  ------------------->
-    <br id="contact_us"/>
+    <br id="contact_us" />
     <!------------------------footer start --------------------->
     <?php
     include 'footer.php';
@@ -265,7 +266,10 @@
     <?php
     include 'case-study-modal.php';
     ?>
-
+    <?php
+    $isFor  = 'Molding Process';
+    include 'usecase-form-modal.php';
+    ?>
     <div class="cookieFooter bg-red-grd" id="cookieDiv">
         <div class="container">
             <div class="row justify-content-between">

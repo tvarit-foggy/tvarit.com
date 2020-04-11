@@ -336,6 +336,21 @@ p
     box-shadow: none;
     outline: 0;
 }
+.btnmodal
+{
+    font-size: var(--fs-12);
+    font-weight: 700;
+    padding: 12px 24px;
+    text-decoration: none;
+}
+.btnmodal:hover,.btnmodal:focus
+{
+    background:#fff;
+    color: inherit;
+    border-color: black;
+    box-shadow: none;
+    outline: 0;
+}
 
 .btn-outline-white
 {
@@ -704,7 +719,10 @@ p
     background: url('../img/careerBg.jpg');
     background-size: contain;
 }
-
+.headerBgSlide {
+    background: url('../img/careerBg.jpg');
+    background-size: contain;
+}
 
 .aboutBg
 {
@@ -774,6 +792,10 @@ p
     background-size: contain;
 }
 
+.headerOverlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%; overflow: auto; 
+}
 
 .headerBg
 {
@@ -2379,7 +2401,7 @@ span.text-big60.red.fw-300.ai_predictive {
 
 .hdr-prgf2r
 {
-    text-align: right;
+    text-align: left;
 }
 .typography.left {
     text-align: left !important;
@@ -2514,8 +2536,7 @@ span.text-big60.red.fw-300.ai_predictive {
     left: 0;
     right: 0;
     margin: auto;
-    width: fit-content;
-    width: -moz-fit-content;
+    width: 28%;
 }
 
 .text-white

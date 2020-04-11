@@ -108,8 +108,6 @@
                             </div>
                         </div>
                         <br>
-                        <a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                 </div>
             </div>
@@ -153,7 +151,7 @@
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We help large and medium sized cable manufacturing organizations in optimizing their production
+                    We support large and medium sized cable manufacturing organizations in optimizing their production
                     processes, improving their management systems and achieving higher profitability.
                 </div>
             </div>
@@ -230,6 +228,8 @@
                             <p class="text-p">
                             AI based production planning system for cable manufacturer. Price of each motor: Capacity of factory: 100,000 Cu tons/year.</p>
                         </div>
+                        <a href="#" data-toggle="modal" data-target="#myModal"
+                            class="btn btn-round btn-red-grd">Download Use Case</a>
                     </div>
                 </div>
             </div>
@@ -311,6 +311,10 @@
     <!------------------------footer start --------------------->
     <?php
         include 'footer.php';
+    ?>
+    <?php
+    $isFor = 'Production Planning';
+    include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->
 

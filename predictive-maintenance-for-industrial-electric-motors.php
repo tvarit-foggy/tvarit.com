@@ -108,8 +108,6 @@
                             </div>
                         </div>
                         <br>
-                        <a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                 </div>
             </div>
@@ -156,7 +154,7 @@
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We help large and medium-sized industrial motor users in reducing the risk of their asset failures
+                    We support large and medium-sized industrial motor users in reducing the risk of their asset failures
                     and inventory costs of spare parts.
                 </div>
             </div>
@@ -232,6 +230,8 @@
                             Predicting the shutdown of big motor drives used in printing press while they are in
                             operation. Price of each motor: 15000 euros.</p>
                         </div>
+                        <a href="#" data-toggle="modal" data-target="#myModal"
+                            class="btn btn-round btn-red-grd">Download Use Case</a>
                     </div>
                 </div>
             </div>
@@ -312,6 +312,10 @@
     <!------------------------footer start --------------------->
     <?php
         include 'footer.php';
+    ?>
+    <?php
+    $isFor = 'Predictive Maintenance';
+    include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->
 

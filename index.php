@@ -4,6 +4,8 @@
 
 <head>
     <script src="js/navigationDE.js"></script>
+    <style>
+    .mySlides {display: none;} </style>
 
     <!-- Google Tag Manager -->
     <script>
@@ -88,11 +90,9 @@
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-
-    <header class="headerBg indexMainBg parallax-bg parallax" data-diff="100">
-        <video autoplay="true" muted loop style="z-index=-1">
-            <source src="video/index-video.mp4" type="video/mp4">
-        </video>
+    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important">
+        <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
+        <div class="headerOverlay">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                     class="icon ion-ios-arrow-dropdown"></i></a>
@@ -115,13 +115,12 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/EDI_logo.png" class="img-fluid edi_index_logo">
-                    <div class="typography right lh-1">
+                    <img src="img/EDI_logo.png" class="img-fluid edi_index_logo" style="margin-left: auto;margin-right:auto;display:block">
+                    <div class="typography right lh-1" style="text-align:center">
                         <div id="germany-strings" class="stringText">
-                            <span>AI MADE IN GERMANY</span>
+                            <span style="text-align:center">YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
                         </div>
-                        <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img
-                                src="img/flag.png" class="img-fluid flag"></div>
+                        <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
                         <div class="hdr-prgf2r">
                             <span id="typed-prgf2r"></span>
                             <div class="rw-words-1">
@@ -135,52 +134,7 @@
                 </div>
             </div>
         </div>
-
-        <!-- <div class="container">
-        <a href="#downClick" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
-        <div class="row align-items-center">
-          <div class="col-md-5">
-            <div class="typography lh-1 left"  style="float:left">
-              <div id="tvarit-strings" >
-                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
-              </div>
-              <div id="industrial-strings">
-                <span>INDUSTRIAL <span class="red">AI</span> </span>
-              </div>
-              <div id="prgf-strings">
-                <span>Fast and customized solutions for all your manufacturing problems and data science needs</span>
-              </div>
-              <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
-              <div class="hdr-industrial" id="typed-industrial">
-              </div>
-              <div class="hdr-prgf" >
-                <span id="typed-prgf"></span>
-              </div>
-                
-            </div>
-          </div>
-          <div class="col-md-2"></div>
-          <div class="col-md-5">
-            <div class="typography right lh-1">
-              <div id="germany-strings">
-                <span>AI MADE IN GERMANY &nbsp;</span>
-              </div>
-              <div id="prgf2r-strings">
-                <span>Remove inefficiencies and failures of your production units and business processes</span>
-                <span>Reduce the failure rate of all your AI/Data Science Projects</span>
-              </div>
-
-              <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span> <img src="img/flag.png" class="img-fluid flag"></div>
-
-              <div class="hdr-prgf2r">
-                <span  id="typed-prgf2r"></span>
-              </div>
-              
-            </div>
-          </div>
         </div>
-      </div> -->
-
     </header>
     <!------------------------ header end --------------------------->
     <div class="section-padding-both" id="downClick">
@@ -245,7 +199,7 @@
                                 </li>
                             </ul>
                             <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
-                                class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -269,7 +223,8 @@
                                     Available on On-Premise, Cloud and edge-computing
                                 </li>
                             </ul>
-                            <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore"> Know
+                            <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
+                            style="padding: 12px !important"> Know
                                 More</a>
                         </div>
                     </div>
@@ -278,7 +233,7 @@
                 <div class="col-lg-4">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-consulting-1.png">
+                            <img src="img/ai-consulting.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">AI Consulting</p>
@@ -294,7 +249,7 @@
                                     Innovative task based pricing
                                 </li>
                             </ul>
-                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know
+                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
                                 More</a>
                         </div>
                     </div>
@@ -323,7 +278,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                            Our products and services have been built and designed on the basis of 34+ years of
+                            Our products and services have been built and designed on the basis of 54+ years of
                             experience in fortune 500 manufacturing companies. We provide fast and customizable AI
                             solutions for discrete and process manufacturing. We are continuously improving our
                             solutions by heavily investing into R&D. We have developed most advanced AI algorithms and
@@ -474,6 +429,16 @@
                         <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
                     </div>
                 </div>
+                <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/forum-startup-chemie.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/zenit.png" class="img-fluid">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -509,7 +474,7 @@
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
-
+    <script src="js/indexSlider.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script src="js/SmoothScroll.js"></script>
