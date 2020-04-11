@@ -79,9 +79,6 @@
                             specifically for you.
                         </p>
                         <br>
-
-                        <a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                 </div>
             </div>

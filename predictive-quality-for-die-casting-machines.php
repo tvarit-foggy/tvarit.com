@@ -108,8 +108,6 @@
                             </div>
                         </div>
                         <br>
-                        <a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                 </div>
             </div>
@@ -220,7 +218,7 @@
                 <div class="col-lg">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Download Use Case</span></div>
+                            <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span></div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
@@ -229,7 +227,7 @@
                             </p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
-                            class="btn btn-round btn-red-grd">Click Here</a>
+                            class="btn btn-round btn-red-grd">Download Use Case</a>
                     </div>
                 </div>
             </div>
@@ -315,7 +313,7 @@
         include 'footer.php';
     ?>
     <?php
-    $isFor = 'Die Casting'; 
+    $isFor = 'Quality Optimization';
     include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->

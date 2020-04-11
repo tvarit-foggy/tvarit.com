@@ -107,8 +107,6 @@
                             </div>
                         </div>
                         <br>
-                        <a href="http://cloud.tvarit.com" target="_blank"
-                            class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
                     </div>
                 </div>
             </div>
@@ -269,7 +267,7 @@
     include 'case-study-modal.php';
     ?>
     <?php
-    $isFor  = 'Metal Manufacturing';
+    $isFor  = 'Molding Process';
     include 'usecase-form-modal.php';
     ?>
     <div class="cookieFooter bg-red-grd" id="cookieDiv">

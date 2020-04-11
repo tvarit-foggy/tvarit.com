@@ -7,30 +7,53 @@
   $to = "$email";
   $downloadLinks = "";
 
-  echo ">>>> $page";
+  $MoldingProcess = "
+  Molding Process:
+  https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Molding+Process.pdf";
+  $PredictiveMaintenance = "
+  Predictive Maintenance:
+  https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Predictive+Maintenance.pdf";
+  $ProductionPlanning = "
+  Production Planning:
+  https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Production+Planning.pdf";
+  $QualityOptimization = "
+  Quality Optimization:
+  https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Quality+Optimization.pdf";
 
-  // if ($page == "Metal Manufacturing") {
+  if ($page == "Molding Process") {
     $downloadLinks = "
-    Molding Process Use Case:
-    https://drive.google.com/open?id=1ySoLhpw5zVhg72lKrG4kryK1Ulc8fK-f
+    $MoldingProcess Use-Case:
 
-    Predictive Maintenance Use Case:
-    https://drive.google.com/open?id=10c7weeRq1-3pSAmELgfonAyscjr3AGMS
-    
-    Production Planning Use Case:
-    https://drive.google.com/open?id=1qFhkIn1oiqHQN6R9ZmVSY28OcHoLyYzO 
-    
-    Quality Optimization Use Case:
-    https://drive.google.com/open?id=16wADeWK6lvlbaRpAOpxApevR1yCxrbGU
-    ";
+    Other Use-Cases:
+    $PredictiveMaintenance
+    $ProductionPlanning
+    $QualityOptimization";
 
-  // }else if ($page == "Electric Motors") {
-    
-  // }else if ($page == "Die Casting") {
-    
-  // }else if ($page == "Cable Manufacturing") {
-    
-  // } 
+  }else if ($page == "Predictive Maintenance") {
+    $downloadLinks = "
+    $PredictiveMaintenance Use-Case:
+
+    Other Use-Cases:
+    $MoldingProcess
+    $ProductionPlanning
+    $QualityOptimization";  
+  }else if ($page == "Production Planning") {
+    $downloadLinks = "
+    $ProductionPlanning Use-Case:
+
+    Other Use-Cases:
+    $MoldingProcess
+    $PredictiveMaintenance
+    $QualityOptimization";
+  }else if ($page == "Quality Optimization") {
+    $downloadLinks = "
+    $QualityOptimization Use-Case:
+
+    Other Use-Cases:
+    $MoldingProcess
+    $PredictiveMaintenance
+    $ProductionPlanning";
+  } 
 
   $message = "
   Dear $name,

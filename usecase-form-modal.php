@@ -148,7 +148,7 @@ $("#btnUsecase").live("click", function() {
         <!-- Modal content-->
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Usecase <?php echo $isFor; ?></h4>
+                <h4 class="modal-title">Get Use-Case for <?php echo $isFor; ?></h4>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
             <div class="modal-body">
