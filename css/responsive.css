@@ -82,11 +82,14 @@
         --fs-70: calc(70px - 20px);
         --fs-80: calc(80px - 20px);
     }
-
+    .headerOverlay {
+        background-color: rgba(0, 0, 0, 0.5);
+        height: 100%; overflow: auto; 
+        padding-bottom: 60px;
+    }
     .headerBg {
         height: auto;
         padding-top: 60px;
-        padding-bottom: 60px;
         margin-bottom: 60px;
     }
     .aiconsultingBg
