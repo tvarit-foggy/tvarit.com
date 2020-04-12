@@ -6,72 +6,64 @@
   $page = trim($_GET["page"]);
   $to = "$email";
   $downloadLinks = "";
+  $downloadLinksOther = "";
 
-  $MoldingProcess = "
-  Molding Process:
-  https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Molding+Process.pdf";
-  $PredictiveMaintenance = "
-  Predictive Maintenance:
-  https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Predictive+Maintenance.pdf";
-  $ProductionPlanning = "
-  Production Planning:
-  https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Production+Planning.pdf";
-  $QualityOptimization = "
-  Quality Optimization:
-  https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Quality+Optimization.pdf";
+  $MoldingProcess = "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Molding+Process.pdf\">Molding Process</a>";
+  $PredictiveMaintenance = "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Predictive+Maintenance.pdf\">Predictive Maintenance</a>";
+  $ProductionPlanning =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Production+Planning.pdf\">Production Planning</a>";
+  $QualityOptimization =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Quality+Optimization.pdf\">Quality Optimization</a>";
 
   if ($page == "Molding Process") {
-    $downloadLinks = "
-    $MoldingProcess Use-Case:
+    $downloadLinks = $MoldingProcess;
 
-    Other Use-Cases:
-    $PredictiveMaintenance
+    $downloadLinksOther = "$PredictiveMaintenance
     $ProductionPlanning
     $QualityOptimization";
 
   }else if ($page == "Predictive Maintenance") {
-    $downloadLinks = "
-    $PredictiveMaintenance Use-Case:
+    $downloadLinks = $PredictiveMaintenance;
 
-    Other Use-Cases:
-    $MoldingProcess
+    $downloadLinksOther = "$MoldingProcess
     $ProductionPlanning
     $QualityOptimization";  
   }else if ($page == "Production Planning") {
-    $downloadLinks = "
-    $ProductionPlanning Use-Case:
+    $downloadLinks = $ProductionPlanning;
 
-    Other Use-Cases:
-    $MoldingProcess
+    $downloadLinksOther = "$MoldingProcess
     $PredictiveMaintenance
     $QualityOptimization";
   }else if ($page == "Quality Optimization") {
-    $downloadLinks = "
-    $QualityOptimization Use-Case:
+    $downloadLinks = $QualityOptimization;
 
-    Other Use-Cases:
-    $MoldingProcess
+    $downloadLinksOther = "$MoldingProcess
     $PredictiveMaintenance
     $ProductionPlanning";
   } 
 
   $message = "
   Dear $name,
+
   Thank you for your interest in our solutions.
-  Please find the requested use-case attached.
+  Please find below link to the requested use-case.
   
   $downloadLinks
 
   Please feel free to contact me in case of any questions.
-  Best regards,
+  
+  Below are our other Use-Cases for your reference:
+  $downloadLinksOther
 
+  Best regards,
   Tobias Gundermann
-  Customer Success Manager, Tvarit GmbH
+
+  Customer Success Manager,
+  Tvarit GmbH
   Phone: +49 171 2251178
   Mail: tobias.gundermann@tvarit.com
-  Web: www.tvarit.com
-   
- 
+  
+  Web: <a href =\"https://tvarit.com\">www.tvarit.com</a>
+
+  
   EU H2020 winner of the best Industrial AI solution amongst 490 AI companies in Europe.
   Tvarit GmbH
   Geschäftsführer: Suhas Patel 
