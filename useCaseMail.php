@@ -16,68 +16,69 @@
   if ($page == "Molding Process") {
     $downloadLinks = $MoldingProcess;
 
-    $downloadLinksOther = "$PredictiveMaintenance
-    $ProductionPlanning
+    $downloadLinksOther = "
+    $PredictiveMaintenance<br>
+    $ProductionPlanning<br>
     $QualityOptimization";
 
   }else if ($page == "Predictive Maintenance") {
     $downloadLinks = $PredictiveMaintenance;
 
     $downloadLinksOther = "
-    $MoldingProcess
-    $ProductionPlanning
+    $MoldingProcess<br>
+    $ProductionPlanning<br>
     $QualityOptimization";  
   }else if ($page == "Production Planning") {
     $downloadLinks = $ProductionPlanning;
 
     $downloadLinksOther = "
-    $MoldingProcess
-    $PredictiveMaintenance
+    $MoldingProcess<br>
+    $PredictiveMaintenance<br>
     $QualityOptimization";
   }else if ($page == "Quality Optimization") {
     $downloadLinks = $QualityOptimization;
 
     $downloadLinksOther = "
-    $MoldingProcess
-    $PredictiveMaintenance
+    $MoldingProcess<br>
+    $PredictiveMaintenance<br>
     $ProductionPlanning";
   } 
 
   $message = "
-  Dear $name,
+  Dear $name,<br><br>
 
-  Thank you for your interest in our solutions.
-  Please find below link to the requested use-case.
+  Thank you for your interest in our solutions.<br>
+  Please find below link to the requested use-case.<br><br>
   
-  $downloadLinks
+  $downloadLinks<br><br>
 
-  Please feel free to contact me in case of any questions.
+  Please feel free to contact me in case of any questions.<br><br>
   
-  Below are our other Use-Cases for your reference:
-  $downloadLinksOther
+  Below are our other Use-Cases for your reference:<br>
+  $downloadLinksOther<br><br>
 
-  Best regards,
-  Tobias Gundermann
+  Best regards,<br>
+  Tobias Gundermann<br>
 
-  Customer Success Manager,
-  Tvarit GmbH
-  Phone: +49 171 2251178
-  Mail: tobias.gundermann@tvarit.com
+  Customer Success Manager,<br>
+  Tvarit GmbH<br>
+  Phone: +49 171 2251178<br>
+  Mail: tobias.gundermann@tvarit.com<br><br>
   
-  Web: <a href =\"https://tvarit.com\">www.tvarit.com</a>
+  Web: <a href =\"https://tvarit.com\">www.tvarit.com</a><br><br><br>
 
   
-  EU H2020 winner of the best Industrial AI solution amongst 490 AI companies in Europe.
-  Tvarit GmbH
-  Geschäftsführer: Suhas Patel 
-  Hanauer Landstraße 521,
-  D-60386 Frankfurt am Main 
-  Registergericht: Frankfurt am Main | Handelsregisternummer: HR B 114845
+  EU H2020 winner of the best Industrial AI solution amongst 490 AI companies in Europe.<br>
+  Tvarit GmbH<br>
+  Geschäftsführer: Suhas Patel <br>
+  Hanauer Landstraße 521,<br>
+  D-60386 Frankfurt am Main <br>
+  Registergericht: Frankfurt am Main | Handelsregisternummer: HR B 114845<br><br>
   
-  IMPRESSUM
-  Die in dieser Email und deren Anlagen enthaltenen Informationen sind vertraulich und nur für den vorgesehenen Empfänger bestimmt. Jegliche unauthorisierte Verbreitung, Verwendung oder das Kopieren dieser Nachricht und deren Anlagen sind nicht gestattet. Sollten Sie nicht der richtige Adressat sein oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und entfernen Sie diese Email umgehend aus Ihrem System. Tvarit GmbH übernimmt keine Haftung für die fehlerfreie und vollständige Übertragung dieser Nachricht.
-  DISCLAIMER
-  The information contained in this e-mail and any attachments are confidential, may be subject to legal privilege, and is intended solely for the use of the addressee. Any unauthorized dissemination or copying of this e-mail or its attachments and any use or disclosure of any information contained in them is strictly prohibited and may be illegal. If you have received this e-mail in error, please notify us immediately. The e-mail transmission and any attachments must be deleted from your system. Tvarit GmbH does not bear any responsibility for the accuracy or completeness of its transmission.
+  IMPRESSUM<br>
+  Die in dieser Email und deren Anlagen enthaltenen Informationen sind vertraulich und nur für den vorgesehenen Empfänger bestimmt. Jegliche unauthorisierte Verbreitung, Verwendung oder das Kopieren dieser Nachricht und deren Anlagen sind nicht gestattet. Sollten Sie nicht der richtige Adressat sein oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und entfernen Sie diese Email umgehend aus Ihrem System. Tvarit GmbH übernimmt keine Haftung für die fehlerfreie und vollständige Übertragung dieser Nachricht.<br>
+  DISCLAIMER<br>
+  The information contained in this e-mail and any attachments are confidential, may be subject to legal privilege, and is intended solely for the use of the addressee. Any unauthorized dissemination or copying of this e-mail or its attachments and any use or disclosure of any information contained in them is strictly prohibited and may be illegal. If you have received this e-mail in error, please notify us immediately. The e-mail transmission and any attachments must be deleted from your system. Tvarit GmbH does not bear any responsibility for the accuracy or completeness of its transmission.<br>
 ";
 
 $messageTvarit = "
