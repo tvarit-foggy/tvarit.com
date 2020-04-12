@@ -23,19 +23,22 @@
   }else if ($page == "Predictive Maintenance") {
     $downloadLinks = $PredictiveMaintenance;
 
-    $downloadLinksOther = "$MoldingProcess
+    $downloadLinksOther = "
+    $MoldingProcess
     $ProductionPlanning
     $QualityOptimization";  
   }else if ($page == "Production Planning") {
     $downloadLinks = $ProductionPlanning;
 
-    $downloadLinksOther = "$MoldingProcess
+    $downloadLinksOther = "
+    $MoldingProcess
     $PredictiveMaintenance
     $QualityOptimization";
   }else if ($page == "Quality Optimization") {
     $downloadLinks = $QualityOptimization;
 
-    $downloadLinksOther = "$MoldingProcess
+    $downloadLinksOther = "
+    $MoldingProcess
     $PredictiveMaintenance
     $ProductionPlanning";
   } 
@@ -86,13 +89,26 @@ Please find the Use case request details,
   Company: $company
 
 ";
+
+$mail_content = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<div>
+        <p>$message</p>
+</div>
+</body>
+</html>';
+
   $subject = "Tvarit Use case request";
   $headers  = "From: info@tvarit.com\r\n" .
   "X-Mailer: php\r\n";
-  $headers .= "Bcc: info@tvarit.com\r\n";
+  // $headers .= "Bcc: info@tvarit.com\r\n";
   $toTvarit = "info@tvarit.com";
 
-  mail($to,$subject,$message,$headers);
+  mail($to,$subject,$mail_content,$headers);
   mail($toTvarit,$subject,$messageTvarit,$headers);
    
 ?>  
