@@ -97,7 +97,7 @@ $mail_content = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
 </head>
 <body>
 <div>
-        <p>$message</p>
+        <p>'.$message.'</p>
 </div>
 </body>
 </html>';
@@ -106,6 +106,8 @@ $mail_content = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
   $headers  = "From: info@tvarit.com\r\n" .
   "X-Mailer: php\r\n";
   // $headers .= "Bcc: info@tvarit.com\r\n";
+  $headers .= 'MIME-Version: 1.0' . "\r\n";
+  $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
   $toTvarit = "info@tvarit.com";
 
   mail($to,$subject,$mail_content,$headers);
