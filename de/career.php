@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
+    <script src="js/navigationDE.js"></script>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
     <script>
@@ -17,10 +19,17 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="site" content="tvarit.com" />
+    <meta name="keywords"
+        content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
+    <meta name="description"
+        content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
+    <meta name="keywords"
+        content="machine learning, free, no credit card, big data, machine learning, ml, machine learning as a service, machine learning API, API, datasets, models, decision trees, predictive models, predictions, fast predictions, evaluation, evaluate predictive models, ensembles, random decision forest, boosted trees, gradient boosted trees, gradient boosting, boosting ensembles, isolation forest, anomaly detector, anomaly score, clustering, k-means, g-means, cluster, centroids, linear regression, regression, logistic regression, lr, topic, topic modeling, topic distributions, PCA, principal component analysis, text analysis, LDA, Latent Dirichlet Allocation, partial dependence plot, scatter plot, time series forecasting, timeseries, forecast, trends, deepnets, deep learning, deep neural networks, neural network, neural networks, automl, automatic optimization, optiml, fusion, easy, model gallery, workflows, flatline, whizzml, dsl, domain-specific language, bindings, library, amazon echo, alexa, mac, desktop" />
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
-    <title>KARRIERE</title>
+    <title>Career</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -37,6 +46,7 @@
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
 
+
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -47,216 +57,9 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <div class="main-menu fixed-menu sticky-top sticky">
-        <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand bold uppr" href="./">
-                <img src="img/logo.png" class="img-fluid">
-            </a>
-
-            <a href="javascript://" class="menu-togglebar">
-                <span></span>
-                <span></span>
-                <span></span>
-            </a>
-
-            <div class="navbar-collapse" id="navbarText">
-                <a href="javascript://" class="menuclose d-block d-md-none">
-                    <i class="fas fa-arrow-right"></i>
-                </a>
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Erkunden</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                        <div class="textBig">Erkunden<span class="red">.</span></div>
-                                        <p class="text-normal">See for yourself, the potential Industry 4.0 holds and be
-                                            a part of the AI revolution with us. Exploration is really the essence of
-                                            the human spirit.</p>
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="use_cases" class="sub-Link">Use Case (Anwendungsfälle)</a>
-                                            <ul class="ul-deep-menu">
-                                                <li>
-                                                    <a href="use_cases#Quality_Prediction"
-                                                        class="sub-Link">Qualitätsvorhersage</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Predictive_Maintenance"
-                                                        class="sub-Link">Predictive Maintenance</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Supply_Chain" class="sub-Link">Lieferkette</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Asset_and_Inventory_Management"
-                                                        class="sub-Link">Anlagen- und Bestandsmanagement</a>
-                                                </li>
-                                                <li>
-                                                    <a href="use_cases#Intra-plant_Logistics"
-                                                        class="sub-Link">Intra-Plant Logistik (Innerbetriebliche
-                                                        Logistik)</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="whitepapers" class="sub-Link">White Paper</a>
-                                        </li>
-                                        <li>
-                                            <a href="blogs" class="sub-Link">Blogs</a>
-                                        </li>
-                                        <li>
-                                            <a href="videos" class="sub-Link">Videos</a>
-                                        </li>
-                                        <li>
-                                            <a href="http://cloud.tvarit.com" target="_blank" class="sub-Link">Demo</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Lösungen</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                        <div class="textBig">Lösungen<span class="red">.</span></div>
-                                        <p class="text-normal">Exploration is curiosity put into action. Look at the
-                                            transformation we can make and allow us to partner up with you.</p>
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="products" class="sub-Link">Produkt </a>
-                                            <ul class="ul-deep-menu">
-                                                <li>
-                                                    <a href="products#APA" class="sub-Link">APA</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="seminar_workshops" class="sub-Link">SEMINARE UND WORKSHOPS </a>
-                                        </li>
-                                        <li>
-                                            <a href="training" class="sub-Link">Training</a>
-                                        </li>
-                                        <li>
-                                            <a href="consulting" class="sub-Link">Consulting</a>
-                                        </li>
-                                        <li>
-                                            <a href="tti" class="sub-Link">Technology Incubation</a>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="javascript://">Industrien</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                        <div class="textBig">Industrien<span class="red">.</span></div>
-                                        <p class="text-normal">Simplicity is about subtracting the obvious and adding
-                                            the meaningful. Wander and wonder over the widespread applications of our
-                                            solutions.</p>
-                                    </div>
-                                </div>
-                                <div class="col d-flex">
-                                    <ul class="ul-sub-menu">
-                                        <li>
-                                            <a href="automotive" class="sub-Link">AUTOMOBIL</a>
-                                        </li>
-                                        <li>
-                                            <a href="avionics" class="sub-Link">LUFTFAHRTSTECHNIK </a>
-                                        </li>
-                                        <li>
-                                            <a href="chemicals" class="sub-Link">CHEMIKALIEN </a>
-                                        </li>
-                                        <li>
-                                            <a href="construction" class="sub-Link">Bauwesen </a>
-                                        </li>
-                                        <li>
-                                            <a href="industrial_machinery" class="sub-Link">INDUSTRIEMASCHINEN </a>
-                                        </li>
-                                    </ul>
-                                    <ul class="ul-sub-menu">
-                    </li>
-                    <li>
-                        <a href="oil_gas" class="sub-Link">ÖL & GAS </a>
-                    </li>
-                    <li>
-                        <a href="pharmaceuticals" class="sub-Link">PHARMAZEUTIKA </a>
-                    </li>
-                    <li>
-                        <a href="steel" class="sub-Link">STAHL </a>
-                    </li>
-                    <li>
-                        <a href="textiles" class="sub-Link">TEXTIL </a>
-                    </li>
-                </ul>
-            </div>
-    </div>
-    </div>
-
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="about">Über Uns</a>
-        <div class="submenu-div">
-            <div class="row">
-                <div class="col">
-                    <div class="menuQuote">
-                        <div class="textBig">Über Uns<span class="red">.</span></div>
-                        <p class="text-normal">We believe in the transfusion of technology & humanity for imperative
-                            growth and work invariably to deliver tech-savvy APA products which help make your business
-                            simpler and upgraded.</p>
-                    </div>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li>
-                            <a href="about#Vision" class="sub-Link">Vision</a>
-                        </li>
-                        <li>
-                            <a href="about#Team" class="sub-Link">Team</a>
-                        </li>
-                        <li>
-                            <a href="about#Philanthropy" class="sub-Link">Philanthropy</a>
-                        </li>
-                        <li>
-                            <a href="about#Benefits" class="sub-Link">Benefits</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li class="nav-item active">
-        <a class="nav-link" href="career">Karriere</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="contact">Kontakt</a>
-    </li>
-    <li class="nav-item row" style="margin-right:0px;margin-left:0px;">
-        <a style="padding-right:5px;pointer-events: none;color:#f74785 !important;" class="nav-link lang-link"
-            href="de/index"><b>DE</b></a>
-        <a style="padding-right:3px;padding-left:3px;" class="nav-link lang-link">|<a>
-                <a style="padding-left:5px;" class="nav-link lang-link" href="https://tvarit.com/"><b>EN</b></a>
-    </li>
-    </ul>
-    </div>
-    </nav>
-    </div>
+    <?php 
+     include 'header.php';
+     ?>
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
@@ -267,23 +70,19 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                            LASS UNS DEINE
+                            Let's make your
                         </div>
                         <div class="text-big60">
-                            KARRIERE MACHEN
+                            Career
                         </div>
                         <br>
                         <div class="more">
                             <p class="text-p">
-                                Ein Team ist das Zahnrad, das den Kreis unserer 3 Ts schließt. Wir sind eine Vielzahl
-                                von Personen, die sich
-                                zusammenschließen, um das Rad zu entwerfen, das den Wandel vorantreibt. Wir sind keine
-                                Organisation, wir
-                                sind ein Organismus - lebendig und kraftvoll, formwechselnd, Zuchtkonzepte, Freude
-                                verbreiten, spezielle
-                                Einheiten für besondere Anforderungen aufbauen. Partnerschaft mit denen, die Dinge auf
-                                einzigartige Weise
-                                tun wollen.
+                                A team is the cog which completes the circle of our 3 Ts. We're a diverse set of
+                                individuals associating to design the wheel which will lead the change. We are not an
+                                organization, we are an organism - Alive and kicking, Changing form, Breeding concepts,
+                                Spreading happiness, Setting up special units for special requirements. Partnering with
+                                those who wish to do things uniquely.
                             </p>
                         </div>
 
@@ -293,81 +92,8 @@
         </div>
     </header>
     <!------------------------ header end --------------------------->
-
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="ourBox">
-                        <div class="title">UNSERE MISSION</div>
-                        <div class="short-line bg-grey"></div>
-
-                        <div class="more">
-                            <p class="text-p">
-                                Unsere Mission ist es, skalierbare und nachhaltige APA-Lösungen (Automated Predictive
-                                Analytics) zu
-                                entwickeln, die unsichtbar und unterstützend sind und es Herstellern ermöglichen, das zu
-                                tun, was sie lieben -
-                                effiziente Produktionen. Wir sind darauf spezialisiert, eine einfache Lösung zu bieten,
-                                die jede Arbeit einfacher,
-                                intelligenter und aufrüstbarer macht.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="ourBox rerBg-grd">
-                        <div class="title">UNSERE KULTUR</div>
-                        <div class="short-line bg-white"></div>
-
-                        <div class="more">
-                            <p class="text-p">
-                                Wie verändert man die Welt? Bringen Sie Menschen zusammen. Und wo ist der am einfachsten
-                                zu erreichende
-                                große Ort, um Menschen zusammenzubringen? In der Arbeitsumgebung. Deshalb sind wir
-                                konsequent
-                                bestrebt, die gesündeste Umgebung zu schaffen, in der unser Team innovativ, lernfähig
-                                und
-                                wachstumsorientiert sein kann, ohne dass es sich dabei um einen Push and Pull handelt.
-                                Wir gehen mit größter
-                                Zuneigung auf die Bedürfnisse unserer Mitarbeiter ein, da sie zu uns gehören. Wir
-                                kümmern uns um dich, weil
-                                du es tust.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="ourBox">
-                        <div class="title">UNSER TEAM</div>
-                        <div class="short-line bg-grey"></div>
-
-                        <div class="more">
-                            <p class="text-p">
-                                Etwas Einzigartiges zu schaffen, um das Problem eines Menschen zu lösen, ist ein
-                                faszinierendes Gefühl.
-                                Industry 4.0 wurde schon immer von intellektuellen, enigmatischen und engagierten
-                                Fachleuten geleitet, die
-                                ihre Grenzen ausreizen, um die technischen Mauern zu durchbrechen. Diese Ritter tragen
-                                die Rüstung der
-                                Geschicklichkeit und beeindrucken immer wieder. Maschinelles Lernen,
-                                Zeitreihendatenbanken, CI/CD-Tools,
-                                Programmierung, sind nur einige ihrer Waffen. Wenn das gleiche Feuer der Leidenschaft in
-                                dir brennt, bist du
-                                an Bord willkommen. Denke daran, wir haben immer auf dich gewartet.
-
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!------------------------ Automotives end --------------------->
-
-    <!------------------------ Automotives start --------------------->
-    <div class="section-padding-both">
         <div class="container">
 
             <div class="centerTitle text-big60">
@@ -378,6 +104,86 @@
             <br>
 
             <div id="accordion">
+
+                <div class="card">
+                    <div class="card-header" id="headingFour">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnTechArc"
+                            aria-expanded="false" aria-controls="acccrdnTechArc">
+                            Technical Architect
+                        </a>
+                    </div>
+
+                    <div id="acccrdnTechArc" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                We’re looking for a Technical Architect who will take a key role on our team. Our
+                                Technical Architect must have knowledge in all stages of software development. You’ll be
+                                working alongside other engineers and developers, collaborating on the various layers of
+                                the infrastructure for our AI product.<br>
+
+                                As of now, we are using Grafana open-source utility for our frontend, so your task would
+                                be to write Grafana source code transformation code. About 80% of your work would be on
+                                backend, API and Microservices Development, maintaining the releases, code reviews. You
+                                will be modernizing application infrastructure and improving delivery effectiveness by
+                                building integration-centric solutions (service-oriented architectures). You will work
+                                closely within an agile, scrum-based team to understand the business domain and client
+                                requirements.<br>
+
+                                Our AI team has created an AI software for manufacturing industry where it predicts
+                                machine, process or plant failures at various levels in the timeframe. Your main goal
+                                will be to create the REST API layer so that our customers can inject the input data and
+                                receive the predicted results back seamlessly in real-time.
+                                <br>
+
+                            </p>
+
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Ensure the quality of architecture and design of systems.</li>
+                                <li>Functionally decompose complex problems into simple, straight-forward solutions.</li>
+                                <li>Fully and completely understand system interdependencies and limitations.</li>
+                                <li>Design Technical/Integration Architecture, including development, runtime and operation architectures of REST API.</li>
+                                <li>Experience with cloud message APIs and usage of push notifications. </li>
+                                <li> Data pipeline integration with the AI backend, your server and REST API shall be able to manage the continuous flow of data between this AI backend and customer’s database systems.</li>
+                                <li>Analyze metrics and measure the effectiveness of the web application and servers, by setting up an effective logging system.</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li>Strong experience in architecting and building multi-threaded, distributed systems.</li>
+                                <li>An experienced full stack developer with extensive experiences in any backend server-side language like Python, Golang etc and frontend languages typescript and javascript.</li>
+                                <li>Having knowledge of Apache, NGINX, SOLR, Redis, shell scripting, and on a variety of platforms, including Unix/Linux, in physical, virtualized and cloud (Amazon/AWS) environments.</li>
+                                <li>Experience with RDBMSs like SQL, MySQL, PostgreSQL; and/or time-series DBMS like Elastic Search, InfluxDB, TimescaleDB, SiriDB etc.</li>
+                                <li>Be very comfortable with SOAP (XML) and RESTful interfaces (JSON), both for creating outgoing responses and incoming consumption of data from external sources.</li>
+                                <li>Solid understanding of scripting, programming and testing methodologies.</li>
+                                <li>Ability to operate in a team and individually as well as be self-driven with an unwavering commitment to meet deadlines while delivering a high-quality product.</li>
+                                <li>Computer Science degree preferred.</li>
+
+                            </ul>
+
+                            <br>
+
+                            <h4>Good to have:</h4>
+                            <ul class="ul-list">
+                                <li>Knowledge about Golang, Service Oriented Architecture (SOA) patterns, automating business process models, API enabled gateway and multi/hybrid cloud-based services.</li>
+                            </ul>
+                            <br>
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data teams.</li>
+                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions.</li>
+                            </ul>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="card">
                     <div class="card-header" id="headingFour">
@@ -497,6 +303,7 @@
                     </div>
                 </div>
 
+
                 <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
@@ -573,11 +380,199 @@
                             <hr>
                             <p class="red">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
                                 Bewerbung
-                                und deinen Lebenslauf an <a href="javascript://">Karriere@tvarit.com</a> mit dem Betreff
+                                und deinen Lebenslauf an <a href="javascript://">careers@tvarit.com</a> mit dem Betreff
                                 “Praktikum/
                                 Werkstudent”</p>
                             <br>
                             <p class="red">Location: Frankfurt am Main</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card">
+                    <div class="card-header" id="headingTwo">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
+                            aria-expanded="false" aria-controls="acccrdn2">
+                            REST API Developer
+                        </a>
+                    </div>
+                    <div id="acccrdn2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                As an API and Microservices Developer, you will be modernizing application
+                                infrastructure and improving
+                                delivery effectiveness by building integration-centric solutions (service-oriented
+                                architectures). You
+                                will work closely within an agile, scrum-based team to understand the business domain
+                                and client
+                                requirements.
+                            </p>
+                            <p class="text-p">
+                                Our backend team has built an AI tool for manufacturing industry where it predicts
+                                machine, process or
+                                plant failures at various levels in the timeframe. Your main goal will be to create the
+                                REST API layer
+                                so that our customers can inject the input data and receive the predicted results back
+                                seamlessly in
+                                real time.
+                            </p>
+
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Design Technical/Integration Architecture, including development, runtime and
+                                    operation
+                                    architectures of REST api</li>
+                                <li>Setting up a middle level web server handling all authentication and various data
+                                    translation tasks
+                                </li>
+                                <li>Define and deliver integrated solutions by applying proven delivery methodologies
+                                    including Agile
+                                    and Model-Driven techniques</li>
+                                <li>Data pipeline integration with the AI backend, your server and REST API shall be
+                                    able to manage the
+                                    continuous flow of data between this AI backend and customer’s database systems</li>
+                                <li>Analyze metrics and measure the effectiveness of REST API and servers, by setting up
+                                    an effective
+                                    logging system</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li>An experienced backend developer with extensive experience in any backend
+                                    server-side language like
+                                    Java, NodeJS, Python etc</li>
+                                <li>Having knowledge of Apache, NGINX, SOLR, Redis, shell scripting, and on a variety of
+                                    platforms,
+                                    including Unix/Linux, in physical, virtualized and cloud (Amazon/AWS) environments
+                                </li>
+                                <li>Experience with RDBMSs like SQL, MySQL, PostgreSQL; and/or time-series DBMS like
+                                    Elastic Search,
+                                    InfluxDB, TimescaleDB, SiriDB etc</li>
+                                <li>Expert knowledge in architecting endpoints and designing responses in JSON and XML
+                                    markup</li>
+                                <li>Experience with supporting, debugging and working alongside web applications,
+                                    including
+                                    affiliate/third-party users of APIs</li>
+                                <li>Be very comfortable with RESTful interfaces (JSON, XML, SOAP), both for creating
+                                    outgoing responses
+                                    and incoming consumption of data from external sources.</li>
+                                <li>Solid understanding of scripting, programming and testing methodologies.</li>
+                                <li>Ability to operate in a team and individually as well as be self-driven with an
+                                    unwavering
+                                    commitment to meet deadlines while delivering a high-quality product.</li>
+                                <li>Must have excellent problem-solving skills and love technical challenges</li>
+                                <li>Computer Science degree preferred</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Good to have:</h4>
+                            <ul class="ul-list">
+                                <li>Knowledge of Service Oriented Architecture (SOA) patterns, automating business
+                                    process models, API
+                                    enabled gateway and multi/hybrid cloud-based services</li>
+                            </ul>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card">
+                    <div class="card-header" id="headingThree">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn3"
+                            aria-expanded="false" aria-controls="acccrdn3">
+                            Machine Learning Engineer
+                        </a>
+                    </div>
+                    <div id="acccrdn3" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit opens up a new Artificial Intelligence division with the vision to help
+                                manufacturing companies
+                                transform their businesses by leveraging AI. We strive to achieve efficient processes
+                                management for
+                                factories and plants, increasing the yield, increasing the accuracy and reliability by
+                                bringing
+                                data-driven decisions, shorten the time frame of delivery, and hence direct reflection
+                                in terms of
+                                profit to the enterprise. This is a chance for you to get in on the ground floor of an
+                                exciting AI
+                                company.
+
+                            </p>
+                            <p class="text-p">
+                                You will be responsible for building AI / Machine Learning applications for our
+                                manufacturing clients.
+                                We expect you have strong programming skills, and background of statistical engineering,
+                                data mining.
+                                You should have a strong growth mindset and a strong work ethic.
+                            </p>
+
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Work with manufacturing clients, understanding various problems and failures in
+                                    different kinds of
+                                    high tech machines</li>
+                                <li>Working with manufacturing machines data formats, data collection via API (REST for
+                                    e.g.), data
+                                    cleaning and defining performance measures based on pre-processing of data</li>
+                                <li>Define set of features on the basis of hundreds of sensors signals coming from the
+                                    single machine,
+                                    work on building time series forecasting and other cross metric ML models</li>
+                                <li>Develop evaluation techniques to gauge the performance and accuracy of the models
+                                    you build</li>
+                                <li>Write production ready code in Python / R for above models, further write unit
+                                    tests, integration
+                                    tests, end to end tests</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li>Know how of machine learning algorithms e.g., ARIMA, Linear Regression, Neural
+                                    Networks and relevant
+                                    maths such as linear algebra, probability, statistics</li>
+                                <li>Strong hands­-on skills with time series databases InfluxDB, SQL, Postgres etc</li>
+                                <li>Proven ability to deliver complex metrics solutions and applications from end to end
+                                    and required
+                                    CI/CD tooling like Github, Docker, Travis, Jenkins</li>
+                                <li>Ability to write code in a scripting language (Python, Perl, Bash etc)</li>
+                                <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it
+                                    is also
+                                    important that you're able to write clean, efficient code in Python (with a focus on
+                                    testability and
+                                    using OOP) on a Linux platform.</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide hands-­on statistical solutions for automotive and manufacturing industry
+                                    in Germany to
+                                    highlight trends and generate insights</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines
+                                    health and work
+                                    closely with their backend databases and data engineering teams</li>
+                                <li>We act as primary point of contact for business forecasting, delivering
+                                    metrics/analytics that drive
+                                    the organization and help senior management taking data driven business decisions
+                                </li>
+                            </ul>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
                 </div>
@@ -665,20 +660,305 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="card">
+                    <div class="card-header" id="headingFive">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn5"
+                            aria-expanded="false" aria-controls="acccrdn5">
+                            DevOps Engineer
+                        </a>
+                    </div>
+
+                    <div id="acccrdn5" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                We’re looking for a DevOps Engineer who will take a key role in our team. Devops
+                                Engineer would
+                                collaborate with software developers, system operators and other IT staff members to
+                                manage code
+                                releases. S/He cross and merge the barriers that exist between software development,
+                                testing and
+                                operations teams and keep existing networks in mind as they design, plan and test.
+                            </p>
+
+
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Project Planning: You would participate in the processes of strategic
+                                    project-planning meetings. In
+                                    addition to providing their guidance and expertise on system options, risk, impact
+                                    and costs vs.
+                                    benefits, they create and share their operational requirements and development
+                                    forecasts to allow
+                                    for timely and accurate planning of projects.</li>
+                                <li>Development: Responsible for developing and building IT solutions, DevOps Engineers
+                                    install and
+                                    configure solutions, implement reusable components, translate technical
+                                    requirements, assist with
+                                    all stages of test data, develop interface stubs and simulators and perform script
+                                    maintenance and
+                                    updates.
+                                </li>
+                                <li>Deployment: You would build automated deployments through the use of configuration
+                                    management
+                                    technology. They deploy new modules and upgrades and complete fixes within the
+                                    production
+                                    environment. Another duty is to make modules ready for production, which entails
+                                    moving them
+                                    according to specific procedures and documenting knowledge transfer.
+                                </li>
+                                <li>Maintenance and Troubleshooting: Routine application maintenance tasks are an
+                                    ongoing responsibility
+                                    of DevOps Engineers that they accomplish via strategy-building techniques. They also
+                                    help create
+                                    requirements and procedures for implementing routine maintenance. Troubleshooting
+                                    existing
+                                    information systems for errors and resolving those errors is also a main
+                                    responsibility of DevOps
+                                    Engineers.
+                                </li>
+                                <li>Performance Management: You would not only evaluate existing applications and
+                                    platforms, but also
+                                    give recommendations for enhancing performance via gap analysis, identifying the
+                                    most practical
+                                    alternative solutions and assisting with modifications.
+                                </li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li>Source Control (like Git, Bitbucket, Svn, VSTS etc)</li>
+                                <li>Continuous Integration (like Jenkins, Bamboo, VSTS )</li>
+                                <li>Automated Unit Testing, Integration Testing (Travis)</li>
+                                <li>Cloud (like AWS, Azure, GoogleCloud, Openstack)</li>
+                                <li>Infrastructure Automation (like Puppet, Chef, Ansible)</li>
+                                <li>Deployment Automation & Orchestration (like Jenkins, VSTS, Octopus Deploy)</li>
+                                <li>Container Concepts (LXD, Docker)</li>
+                                <li>Orchestration (Kubernetes, Mesos, Swarm)</li>
+                                <li>Server Security Concepts, Cloud Portal Firewalls</li>
+                                <li>Computer Science degree preferred</li>
+                            </ul>
+                            <br>
+
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide hands-­on statistical solutions for automotive and manufacturing industry
+                                    in Germany to
+                                    highlight trends and generate insights</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines
+                                    health and work
+                                    closely with their backend databases and data teams</li>
+                                <li>We act as primary point of contact for business forecasting, delivering
+                                    metrics/analytics that drive
+                                    the organization and help senior management taking data driven business decisions
+                                </li>
+                            </ul>
+                            <br>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+
+                            <br>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
+                            aria-expanded="false" aria-controls="acccrdn1">
+                            Full Stack Developer
+                        </a>
+                    </div>
+
+                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                We’re looking for a Full Stack developer who will take a key role on our team. Our Full
+                                Stack developer
+                                must have knowledge in all stages of software development. You’ll be working alongside
+                                other engineers
+                                and developers, collaborating on the various layers of the infrastructure for our AI
+                                product.
+                            </p>
+                            <p class="text-p">
+                                As of now we are using Grafana open source utility for our frontend, so your task would
+                                be to write
+                                plugins for Grafana or even tweak Grafana’s source code sometime. About 80% of your work
+                                would be on
+                                backend, API and Microservices Development. You will be modernizing application
+                                infrastructure and
+                                improving delivery effectiveness by building integration-centric solutions
+                                (service-oriented
+                                architectures). You will work closely within an agile, scrum-based team to understand
+                                the business
+                                domain and client requirements.
+
+                            </p>
+                            <p class="text-p">
+                                Our AI team has created an AI software for manufacturing industry where it predicts
+                                machine, process or
+                                plant failures at various levels in the timeframe. Your main goal will be to create the
+                                REST API layer
+                                so that our customers can inject the input data and receive the predicted results back
+                                seamlessly in
+                                real time.
+
+                            </p>
+
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Frontend languages: typescript, javascript, css, webpack</li>
+                                <li>Backend languages: Node JS or Python (web development frameworks)</li>
+                                <li>Experience with cloud message APIs and usage of push notifications</li>
+                                <li>Design Technical/Integration Architecture, including development, runtime and
+                                    operation
+                                    architectures of REST api</li>
+                                <li>Data pipeline integration with the AI backend, your server and REST api shall be
+                                    able to manage
+                                    continuous flow of data between this AI backend and customer’s database systems</li>
+                                <li>Analyze metrics and measure effectiveness of the web application and servers, by
+                                    setting up an
+                                    effective logging system</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li>An experienced full stack developer with extensive experience in any backend server
+                                    side language
+                                    like NodeJS or Python etc and frontend languages typescript and javascript</li>
+                                <li>Having knowledge of Apache, NGINX, SOLR, Redis, shell scripting, and on a variety of
+                                    platforms,
+                                    including Unix/Linux, in physical, virtualized and cloud (Amazon/AWS) environments
+                                </li>
+                                <li>Experience with RDBMSs like SQL, MySQL, PostgreSQL; and/or timeseries DBMS like
+                                    Elastic Search,
+                                    InfluxDB, TimescaleDB, SiriDB etc</li>
+                                <li>Be very comfortable with SOAP (XML) and RESTful interfaces (JSON), both for creating
+                                    outgoing
+                                    responses and incoming consumption of data from external sources.</li>
+                                <li>Solid understanding of scripting, programming and testing methodologies.</li>
+                                <li>Ability to operate in a team and individually as well as be self-driven with an
+                                    unwavering
+                                    commitment to meet deadlines while delivering a high quality product.</li>
+                                <li>Computer Science degree preferred</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Good to have:</h4>
+                            <ul class="ul-list">
+                                <li>Knowledge about Service Oriented Architecture (SOA) patterns, automating business
+                                    process models,
+                                    API enabled gateway and multi/hybrid cloud based services</li>
+                            </ul>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!------------------------ Automotives end --------------------->
+    <!------------------------ Automotives start --------------------->
+    <div class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="ourBox">
+                        <div class="title">Our Mission</div>
+                        <div class="short-line bg-grey"></div>
+
+                        <div class="more">
+                            <p class="text-p">
+                                Our Mission is to build scalable and sustainable Automated Predictive Analytics (APA)
+                                solutions which are invisible and assistive, allowing manufacturers to do what they love
+                                - efficient productions. We are rooted to give one simple solution to make any work
+                                easier, smarter and upgraded.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="ourBox rerBg-grd">
+                        <div class="title">Our Culture</div>
+                        <div class="short-line bg-white"></div>
+
+                        <div class="more">
+                            <p class="text-p">
+                                How do you change the world? Bring people together. Where is the easiest big place to
+                                bring people together? In the work environment. Therefore we consistently strive to
+                                create the healthiest environment where our team can innovate, learn and grow without
+                                any push and pull. We cater to the needs of our employees with utmost affection as they
+                                belong with us. We care because you do.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="ourBox">
+                        <div class="title">Our Team</div>
+                        <div class="short-line bg-grey"></div>
+
+                        <div class="more">
+                            <p class="text-p">
+                                Creating something unique to solve someone's problem is a fascinating feeling. Industry
+                                4.0 has always been run by intellectual, enigmatic and dedicated professionals who push
+                                their limits to break through the technical walls. Wearing the armor of skill, these
+                                knights never fail to impress. Machine learning, time series databases, CI/CD tooling,
+                                coding, are a few of their weapons. If the same fire of passion burns inside you, you're
+                                welcome onboard. Remember, we've always been waiting for you.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
     <!------------------------ Automotives end --------------------->
-    <!------------------------Countdown start --------------------->
-    <?php include 'change_we_brought_stats.php';?>
-    <!------------------------Countdown end --------------------->
 
+
+
+    <!------------------------Countdown start --------------------->
+    <div class="section-padding">
+    <?php 
+                include 'change_we_brought.php';
+                ?>
+                </div>
+    <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php include 'change_we_bring.php';?>
+    <?php 
+                include 'change_we_bring.php';
+                ?>
     <!------------------------Automated slide end --------------------->
 
     <!------------------------ tvarit start --------------------->
-    <?php include 'tvarit_the_team.php';?>
+    <div class="section-padding-both">
+        <div class="container">
+            <div class="white-box-shadow">
+                <div class="centerTitle">
+                    <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
+                                class="color">i</span>t</span> The Team</div>
+                </div>
+
+                <div class="centerPharseContent text-p">
+                    We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing
+                    vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
+                </div>
+            </div>
+        </div>
+    </div>
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
