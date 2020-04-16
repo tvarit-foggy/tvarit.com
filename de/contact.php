@@ -203,17 +203,15 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                            Let's Connect
+                        Haben Sie Fragen oder Anmerkungen?
                         </div>
                         <div class="text-big60">
-                            Contact Us
+                        Wir würden uns freuen, von Ihnen zu hören.
                         </div>
                         <br>
                         <p class="text-p">
-                            Let us get connected and get you updated on how can we help you. Please fill the form below.
-                            We will contact you within 24 hours.
-                        </p>
-
+                        Rufen Sie uns einfach an oder füllen Sie das untenstehende Formular aus. Wir werden uns innerhalb der nächsten 24 Stunden bei Ihnen melden.
+                        </p>                          
                     </div>
                 </div>
             </div>
@@ -300,7 +298,7 @@
                             </div>
                             <br>
                             <div class="form-group text-right">
-                                <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
+                                <input type="button" value="Senden" id="btn" class="btn btn-round btn-red-grd">
                             </div>
                             <div id="snackbar">We Will Contact you Shortly</div>
                             <div id="validation">Fill All the Mandatory Fields</div>
