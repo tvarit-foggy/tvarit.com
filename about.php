@@ -79,19 +79,7 @@
                         <br>
                         <div>
                             <p class="text-p txt-justify" style="width:90%">
-                                We are German company based in Frankfurt, Germany. We build and provide AI solutions to
-                                solve all
-                                kinds of manufacturing problems and data science needs. We enable businesses to make
-                                smart and
-                                informed decisions by deriving actionable and valuable insights from a sea of data.
-
-                                We provide Ai Solutions, AI platform and AI consulting services to successfully
-                                complete
-                                your all AI and data science projects.
-
-                                Recently, we have achieved many prestigious awards for which we were recognized as the
-                                most
-                                innovative AI company in Europe and Germany.
+                            We are German company based in Frankfurt, Germany. We build and provide AI solutions to solve all kinds of manufacturing problems and data science needs. We enable businesses to make smart and informed decisions by deriving actionable and valuable insights from a sea of data. We provide ready to use AI Solutions, our AI platform and AI consulting services to successfully complete all your AI and data science projects. Recently, we have achieved many prestigious awards for which we were recognized as the most innovative AI company in Europe and Germany.
                             </p>
                         </div>
 
@@ -241,7 +229,7 @@
                             <div class="col-md-12" style="padding-right:0px">
                                 <div class="row" style="margin-right: 0px;">
                                     <div class="col-md-12" style="padding-left:0px;">
-                                        <h6 class="title">CTO</h6>
+                                        <h6 class="title">Chief Technical Officer</h6>
                                     </div>
                                     <!-- <div class="col-md-6" style="padding-right:0px;">
 
@@ -336,7 +324,7 @@
                             <h6 class="title"> Director Sales & Marketing</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Bridge between customers and team</li>
+                                <li>Customer Understanding and Value Creation</li>
                                 <li>AI in Control Systems at Continental, Reliance</li>
                                 <li>European Business School Alumni</li>
                             </ul>
@@ -361,7 +349,7 @@
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Bridge between customers and team</li>
-                                <li>Experience from working at ZF and Porsche</li>
+                                <li>Work experience from ZF and Porsche</li>
                             </ul>
                             <div class="social-icon">
 
@@ -448,7 +436,7 @@
                 </div>
                 <br>
                 <div class="row justify-content-center">
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/32_Industry_icon.png" class="img-fluid">
@@ -462,7 +450,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/14_million_euro_icon.png" class="img-fluid">
@@ -476,7 +464,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/20_Big_network_iocn.png" class="img-fluid">
@@ -490,21 +478,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4" style="margin-top:20px;">
-                        <div class="countingNumBox">
-                            <div class="icon">
-                                <img src="img/achived/30_min_icon.png" class="img-fluid">
-                            </div>
-                            <div class="content">
-                                <div class="numbers">30 <span style="font-size:30px;">mins<span></div>
-                                <div class="text">
-                                    Fastest time to make AI models
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 col-lg-4" style="margin-top:20px;">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/10_major_awards.png" class="img-fluid">
