@@ -97,13 +97,13 @@
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1">
-                            Optimize OEE for
+                        Steigerung der Gesamtanlageneffizienz 
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Aluminium Metal</div>
+                            in der Aluminium </div>
                             <div class="text-big40">
-                                Manufacturing
+                                 Produktion
                             </div>
                         </div>
                         <br>
@@ -112,14 +112,14 @@
             </div>
         </div>
     </header>
-    <!-------------->
+    <!--------------> Steigerung der Gesamtanlageneffizienz in der Aluminiumproduktion
 
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Optimize OEE for <br> Aluminium/Metal
-                    Manufacturing</span>
+                <span class="innr-sec-mainTitle ai_predictive">Steigerung der Gesamtanlageneffizienz <br> in der Aluminium
+                Produktion</span>
             </div>
             <br>
             <div class="row align-items-lg-center">
@@ -131,11 +131,11 @@
                 <div class="col-lg">
                     <div class="box-content-top-left">
                         <ul class="ul-list-bullet">
-                            <li>Real time prediction of various quality attributes</li>
-                            <li>Reduced number of quality defects</li>
-                            <li>Live recommendation for corrective actions</li>
-                            <li>Increased profitability</li>
-                            <li>Increased Know-how</li>
+                            <li>Echtzeit-Vorhersage verschiedener Qualitätsmerkmale</li>
+                            <li>Reduzierung von Qualitätsmängeln</li>
+                            <li>Live-Empfehlung für Korrekturmaßnahmen</li>
+                            <li>Gesteigerte Rentabilität</li>
+                            <li>Umfassendere Kenntnisse und Einblicke in die Fertigung</li>
                         </ul>
                     </div>
                 </div>
@@ -147,12 +147,11 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT <span class="red">AI</span></div>
-                    <h3 class="bold red text-center">SOLUTIONS</h3>
+                    <div class="sec-mainTitle">TVARIT <span class="red">KI</span></div>
+                    <h3 class="bold red text-center">LÖSUNGEN</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We support large and medium sized steel/metal manufacturing organizations in optimizing their
-                    production processes, improving their management systems and achieving higher profitability.
+                Wir unterstützen große und mittelständische Fertigungsunternehmen bei der Optimierung ihrer Produktionsprozesse, der Verbesserung ihrer Managementsysteme und der Erzielung einer höheren Rentabilität.
                 </div>
             </div>
         </div>
@@ -169,12 +168,12 @@
                 <div class="col-lg">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="sec-mainTitle">USE-CASE</div>
+                            <div class="sec-mainTitle">Fallstudie</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <p class="text-p">
-                                Predicting the quality status of aluminium/metal. Capacity: 500,000 tons per year.</p>
+                            Vorhersage der Qualität von Alumimiumspulen. Kapazität: 500.000 Tonnen pro Jahr.</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
                             class="btn btn-round btn-red-grd">Download Use Case</a>
@@ -193,15 +192,15 @@
                 <div class="col-md order-2 order-lg-1">
                     <div class="px-lg-4">
                         <div class="title">
-                            <div class="sec-mainTitle">Benefits</div>
+                            <div class="sec-mainTitle">Vorteile</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <ul class="ul-list-bullet">
-                                <li>Reduce number of defected metals from 5% to 1.2 %</li>
-                                <li>Real time production view</li>
-                                <li>Increased know-how</li>
-                                <li>Measurable economic benefits</li>
+                                <li>Reduzierung der Anzahl mangelhafter Spulen um mehr als 75% (von 5% auf 1,2%)</li>
+                                <li>Echtzeit-Produktionsübersicht</li>
+                                <li>Umfassendere Kenntnisse und Einblicke in die Fertigung</li>
+                                <li>Messbare wirtschaftliche Vorteile</li>
                             </ul>
                         </div>
                     </div>
@@ -226,8 +225,8 @@
                 <div class="col-lg-6">
                     <div class="lookingBox rerBg-grd">
                         <div class="text text-white">
-                            <span class="fs-18  fw-400">Request for</span>
-                            <h3 class="fw-900">a full case study</h3>
+                            <span class="fs-18  fw-400">Hier erhalten Sie die</span>
+                            <h3 class="fw-900">komplette Fallstudie</h3>
                         </div>
                         <div>
                             <a href="#contact_us" data-toggle="modal" data-target="#exampleModal"
@@ -238,12 +237,12 @@
                 <div class="col-lg-6">
                     <div class="lookingBox brdr-black">
                         <div class="text">
-                            <span class="fs-18  fw-400">for more details</span>
-                            <h3 class="fw-900">Contact us</h3>
+                            <span class="fs-18  fw-400">FÜR WEITERE DETAILS</span>
+                            <h3 class="fw-900">KONTAKTIEREN SIE UNS </h3>
                         </div>
 
                         <div>
-                            <a href="#contact_us" class="btn btn-round btn-red-grd">Click Here</a>
+                            <a href="#contact_us" class="btn btn-round btn-red-grd">Klicken Sie hier</a>
                         </div>
                     </div>
                 </div>

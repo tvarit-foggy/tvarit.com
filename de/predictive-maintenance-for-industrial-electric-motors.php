@@ -97,14 +97,15 @@
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1" >
-                            Predictive Maintenance for
+                        PREDICTIVE MAINTENANCE FÜR
+ 
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Industrial
+                            INDUSTRIELLE
                             </div>
                             <div class="text-big40">
-                                Electric Motors
+                            ELEKTROMOTOREN
                             </div>
                         </div>
                         <br>
@@ -119,8 +120,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Predictive Maintenance for 
-                    <br>Industrial Electric Motors</span>
+                <span class="innr-sec-mainTitle ai_predictive">PREDICTIVE MAINTENANCE FÜR INDUSTRIELLE ELEKTROMOTOREN</span>
             </div>
             <br>
             <br>
@@ -135,9 +135,9 @@
                         <ul class="ul-list-bullet">
                             <li>Real time prediction of various maintenance attributes</li>
                             <li>Reduced maintenance costs</li>
-                            <li>Reduced unexpected failures</li>
-                            <li>Increased MTBF</li>
-                            <li>Increased Uptime</li>
+                            <li>Prävention von unerwarteten Ausfällen</li>
+                            <li>Erhöhte MTBF (durchschnittliche Zeit zwischen Ausfällen)</li>
+                            <li>Gesteigerte Anlageneffizienz</li>
                             <li>Reduced spare part inventory</li>
                         </ul>
                     </div>
@@ -150,12 +150,12 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT <span class="red">AI</span> </div>
-                    <h3 class="bold red text-center">SOLUTIONS</h3>
-                </div>
+                    <div class="sec-mainTitle">TVARIT <span class="red">KI</span> </div>
+                    <h3 class="bold red text-center">LÖSUNGEN</h3>
+                </div> 
                 <div class="centerPharseContent text-p">
-                    We support large and medium-sized industrial motor users in reducing the risk of their asset failures
-                    and inventory costs of spare parts.
+                Wir unterstützen große und mittelständische Fertigungsunternehmen bei der Reduzierung des 
+                Risikos von Anlagenausfällen und der Lagerhaltungskosten für Ersatzteile.
                 </div>
             </div>
         </div>
@@ -222,13 +222,13 @@
                 <div class="col-lg">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="sec-mainTitle">USE-CASE</div>
+                            <div class="sec-mainTitle">Fallstudie</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Predicting the shutdown of big motor drives used in printing press while they are in
-                            operation. Price of each motor: 15000 euros.</p>
+                            Vorhersage möglicher Ausfälle von Motorantrieben, die während des Betriebs 
+                            von Druckmaschinen eingesetzt werden. Preis je Motor: 15.000 €</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
                             class="btn btn-round btn-red-grd">Download Use Case</a>
@@ -245,15 +245,15 @@
                 <div class="col-lg order-2 order-lg-1">
                     <div class="px-lg-4">
                         <div class="title">
-                            <div class="sec-mainTitle">Benefits</div>
+                            <div class="sec-mainTitle">VORTEILE</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
                         <ul class="ul-list-bullet">
-                                <li>Increased motor uptime</li>
-                                <li>Reduced inventory costs</li>
-                                <li>Live production dashboard with predictive alerts</li>
-                                <li>Measurable economic benefits</li>
+                                <li>Erhöhte Motor-Betriebszeit</li>
+                                <li>Geringere Lagerhaltungskosten</li>
+                                <li>Live-Produktions-Dashboard mit vorausschauenden Warnmeldungen.</li>
+                                <li>Messbare wirtschaftliche Nutzen</li>
                             </ul>
                         </div>
                     </div>

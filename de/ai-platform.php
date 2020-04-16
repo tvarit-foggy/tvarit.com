@@ -51,10 +51,10 @@
                 <span class="red">AI</span> Platform
               </div>
              <div class="fs-20 fw-700">
-                 World’s most advanced AI platform <br/>for manufacturing data analytics
+             Die fortschrittlichste KI Plattform zur <br/>Analyse von Produktions- und Maschinendaten
              </div>
               <br>
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform works for you</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Kontaktieren Sie uns für eine kostenlose Demo</a>
             </div>
           </div>
           <div class="col-lg-6 macbook-position">
@@ -73,11 +73,11 @@
      <!------------------------ CONSULTING start --------------------->
     <div class="section-padding" id="downClick">
       <div class="container">
-        <div class="centerTitle">
-          <div class="innr-sec-mainTitle mb-0">Witness the most complete <br> and true <span class="red">AI</span> Platform</div>
+        <div class="centerTitle">   
+          <div class="innr-sec-mainTitle mb-0">Die umfassendste und vollständigste <span class="red">KI</span> Plattform!</div>
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
-            Tvarit AI is an award winning AI platform. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques to enable you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models as per your needs. It also gives world-class user experience in the form of simple and sleek design by leveraging the state-of-the-art technology.
+          Tvarit AI ist eine preisgekrönte KI Plattform, die leistungsstarke Werkzeuge für alle datenwissenschaftlichen Aktivitäten in der Fertigung bietet. Sie bringt umfassendes Wissen und Erkenntnisse aus der Erfahrung von Datenwissenschaftlern, die in den 500 größten Produktionsunternehmen arbeiten, zusammen mit den neuen und innovativsten KI-Techniken - und ermöglicht Ihnen so die Erstellung solider Geschäftsfälle mit 100%iger Erfolgsquote. Es bietet auch die Möglichkeit, das Wissen und Know-how der in Ihren Unternehmen tätigen Personen zu erfassen, so dass Sie die KI-Modelle an Ihre spezifischen Bedürfnisse anpassen und erstellen können. Die Software wurde für die beste Benutzererfahrung durch ein klares Design und klare Arbeitsabläufe unter Verwendung modernster KI-Technologie entwickelt.
           </div>
         </div>
 
@@ -88,7 +88,7 @@
     <br>
     <!------------------------ CONSULTING end --------------------->
     <div class="text text-center mb-0">
-    <h2 class="title red">Overview of working</h2>
+    <h2 class="title red">Überblick der Arbeitsvorgänge</h2>
     </div>
     <section class="section-padding">
       <div class="container timelineSteps-warpper">
@@ -96,21 +96,21 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5">
             <div class="timelineStep fillbox line-left">
-                <h4 class="title">Data Extraction</h4>
+                <h4 class="title">Datenextraktion</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                <li>  Plugins for all IT systems and Process Engineering Softwares </li>
-                <li>  Plugins for all DBMS systems </li>
+                <li> Plugins für alle IT-Systeme und verfahrenstechnischen Anwendungen </li>
+                <li>  Plugins für alle DBMS-Systeme </li>
               </ul>
             </div>
           </div>
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">Supports:</h4>
+                <h4 class="title">unterstützt:</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                <li>  MES, ERPs, PLCs, Spreadsheets, Logs, SQL, PCs, Batch reports, Lab results, energy meters, historians and quality systems </li>
+                <li> MES, ERPs, PLCs, Tabellenkalkulationen, Protokolle, SQL, PCs, Chargenberichte, Laborergebnisse, Energiezähler und Qualitätssysteme </li>
               </ul>
             </div>
           </div>
@@ -118,12 +118,12 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5 order-3 order-md-1">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
+                <h4 class="title">automatische </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Decide data size without compromising on accuracy</li>                  
-                  <li>Segregates the historical data into multiple groups</li>
-                  <li>Figure out the information gained from the data</li>                
+                  <li>Ermittlung der optimalen Datengröße</li>                  
+                  <li>Gruppierung historischer Daten</li>
+                  <li>Ermittlung der aus den Daten gewonnenen Informationen</li>                
                 </ul>
             </div>
             
@@ -131,11 +131,11 @@
           <div class="col-md-2 order-2 order-md-2"></div>
           <div class="col-md-5 order-1 order-md-3">
             <div class="timelineStep fillbox line-right">
-                <h4 class="title">Data Understanding</h4>
+                <h4 class="title">Verständnis der Daten</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Fruitful Analysis</li>
-                  <li>Anomaly detection</li>
+                  <li>Fruitfulness Analysen</li>
+                  <li>Anomalie-Erkennung</li>
                 </ul>
             </div>
           </div>
@@ -143,23 +143,23 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5">
             <div class="timelineStep fillbox line-left">
-                <h4 class="title">Data Preparation</h4>
+                <h4 class="title">Datenaufbereitung</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Sanity Handling</li>
-                  <li>Multicolinearity handling</li>
+                  <li>Sanity Checks</li>
+                  <li>Multi-Kollinearitäts-Überprüfung</li>
                 </ul>
             </div>
           </div>
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
+                <h4 class="title">automatische </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Algorithms specifically optimized for Machine Sensor Data, ERP data, QC lab data</li>
-                  <li>Automatically fills missing data</li>
-                  <li>Removes multi-collinearity between input variables</li>
+                  <li>Speziell für Maschinensensordaten, ERP-Daten und QC-Labordaten optimierte Algorithmen</li>
+                  <li>Automatisierte Handhabung fehlender Datenpunkte</li>
+                  <li>Entfernung der Multi-Kollinearität zwischen Eingangsvariablen</li>
                 </ul>
             </div>
           </div>
@@ -167,11 +167,11 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5 order-3 order-md-1">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
+                <h4 class="title">automatische </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Detects seasonality and trends </li>
-                  <li>Enables you to efficient run decomposition operations on thousands of parameters simultaneously</li>
+                  <li>Erkennung von Saisonalitäten und Trends </li>
+                  <li>Ermöglicht Ihnen die effiziente Durchführung von Zerlegungsoperationen mit Tausenden von Parametern gleichzeitig</li>
                 </ul>
             </div>
             
@@ -179,11 +179,11 @@
           <div class="col-md-2 order-2 order-md-2"></div>
           <div class="col-md-5 order-1 order-md-3">
             <div class="timelineStep fillbox line-right">
-                <h4 class="title">Feature Engineering</h4>
+                <h4 class="title">Feature-Engineering</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>FFT, Wavelet, Entropy etc algorithms</li>
-                  <li>Batch Manufacturing 2-D data transformation</li>
+                  <li>Algorithmen für FFT, Wavelet oder Entropie</li>
+                  <li>2-D-Datentransformation für die Chargen-Fertigung</li>
                 </ul>
             </div>
           </div>
@@ -191,22 +191,22 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5">
             <div class="timelineStep fillbox line-left">
-                <h4 class="title">Predictive Modelling</h4>
+                <h4 class="title">Modellerstellung</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Predict</li>
-                  <li>Univariate forecasting</li>
+                  <li>Erstellen von Vorhersagen</li>
+                  <li>univariate Vorhersage</li>
                 </ul>
             </div>
           </div>
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
+                <h4 class="title">automatische </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Gives you most accurate AI models on the basis of largest number of algorithms used in the platform </li>
-                  <li>Benchmarking facility with Google AutoML, AWS Sagemaker,  Azure Predicitve Maintenance</li>
+                  <li>Erstellung genauster KI-Modelle unter Nutzung der Vielzahl an in unserer Plattform integrierten Algorithmen  </li>
+                  <li>Benchmarking-Einrichtung zum Abgleich mit Google AutoML, AWS Sagemaker, Azure Predicitve Maintenance</li>
                 </ul>
             </div>
           </div>
@@ -214,23 +214,23 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5 order-3 order-md-1">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
+                <h4 class="title">automatische </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Identifies the root cause of failure or malfunction</li>
-                  <li>Gives you the graph containing features in their importance order which determines the direction the result</li>
-                  <li>Gives you What-if analysis</li>
+                  <li>Erkennung der Ursache eines Ausfalls oder einer Qualitätsabweichung</li>
+                  <li>graphische Darstellung der Merkmale und Prozessparameter - geordnet nach deren Einfluss auf die Zielvariable</li>
+                  <li>Was-wäre-wenn-Analysen</li>
                 </ul>
             </div>
           </div>
           <div class="col-md-2 order-2 order-md-2"></div>
           <div class="col-md-5 order-1 order-md-3">
             <div class="timelineStep fillbox line-right">
-                <h4 class="title">Evaluation:</h4>
+                <h4 class="title">Auswertung:</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Tweaker</li>
-                  <li>Global/Local root cause analysis</li>
+                  <li>Tweaker: Präskriptive Analysen, welche Informationen bereitstellen, in welchem Maß die Prozessparameter angepasst werden sollten, um ein gewünschtes Ergebnis zu erzielen.</li>
+                  <li>allgemeine und lokale Root-Cause Analyse</li>
                 </ul>
             </div>
           </div>
@@ -238,7 +238,7 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5">
             <div class="timelineStep fillbox line-left">
-                <h4 class="title">Risk Assessment:</h4>
+                <h4 class="title">Risikoeinschätzung:</h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Novelty Detection</li>
@@ -249,10 +249,10 @@
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
+                <h4 class="title">automatische </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                 <li> Suggests business to gauge the effectiveness of the predictions as they would be cautioned in advance to rely or not to rely on the novelty and non-novelty points </li>
+                 <li> Messung des Einflusses neu auftretender Muster und Datenpunkte auf die Prognose sowie Ausgabe von Benachrichtigungen </li>
               </ul>
             </div>
           </div>
@@ -264,26 +264,26 @@
       <div class="container">
           <div class="white-box-shadow">
             <div class="text-md-center title">
-              <div class="text-first red">More Key Features of </div>
-              <div class="sec-mainTitle">Tv<span class="red">a</span>r<span class="red">i</span>t</span> <span class="red">AI</span> Platform</div>
+              <div class="text-first red">weitere wichtige Merkmale der </div>
+              <div class="sec-mainTitle">Tv<span class="red">a</span>r<span class="red">i</span>t</span> <span class="red">KI</span> Plattform</div>
               <div class="short-line mx-md-auto bg-red"></div>
             </div>
             <br>
             <ul class="ul-list-bullet ul-list-50">
               <li>
-                Available in all flavours : On-Premise, cloud and edge-computing
+                   Verfügbar On-Premise, Cloud und Edge-Computing
               </li>
               <li>
-                More than 100 ready to use modules for data preparation and labelling jobs
+                  Über 100 Module für alle Aufgaben der Daten-Aufbereitung
               </li>
               <li>
-                More than 22+ AI algorithms to give you best results at every instance of time
+                 Mehr als 22 KI-Algorithmen sorgen für beste Ergebnisse
               </li>
               <li>
-                Quickly document and share AI analytic results and dashboards through collaborative features like Slack, Microsoft Teams etc.
+              Einfache Visualiserung und schnelles Teilen von KI-Analyseergebnissen und Dashboards durch kollaborative Funktionen wie Slack, Microsoft Teams usw
               </li>
               <li>
-                 Supports following data connectors
+              Unterstützt folgende Datenkonnektoren
               </li>
             </ul>
             <br>
@@ -424,7 +424,7 @@
     <div class="section-padding Benefits-sec">
       <div class="container">
         <div class="centerTitle sec-mainTitle">
-          BENEFITS
+        Vorteile
         </div>
         
         <br>
@@ -435,7 +435,7 @@
               <div class="icon">
                 <img src="img/Ai_benefit/01.svg" class="img-fluid">
               </div>
-              <p class="text-p">One stop solution for all your data science needs
+              <p class="text-p">Eine Komplettlösung für alle Ihre datenwissenschaftlichen Anforderungen
               </p>
             </div>
           </div>
@@ -445,7 +445,7 @@
               <div class="icon">
                 <img src="img/Ai_benefit/02.svg" class="img-fluid">
               </div>
-              <p class="text-p">Reduce total cost of ownership</p>
+              <p class="text-p">Reduzierung der Gesamtbetriebskosten</p>
             </div>
           </div>
 
@@ -455,7 +455,7 @@
                 <img src="img/Ai_benefit/03.svg" class="img-fluid">
               </div>
               <p class="text-p">
-                Reduce time to complete AI projects
+              Reduzieren Sie die benötigte Zeit bis zur Umsetzung von KI-Projekten
               </p>
             </div>
           </div>
@@ -465,7 +465,7 @@
               <div class="icon">
                 <img src="img/Ai_benefit/04.svg" class="img-fluid">
               </div>
-              <p class="text-p">Create new and customize existing pipelines
+              <p class="text-p">Erstellung neuer und Anpassung bestehender Pipelines
               </p>
             </div>
           </div>
@@ -475,7 +475,7 @@
               <div class="icon">
                 <img src="img/Ai_benefit/05.svg" class="img-fluid">
               </div>
-              <p class="text-p">Usage based pricing model</p>
+              <p class="text-p">Nutzungsbasiertes Preismodell</p>
             </div>
           </div>
 
@@ -485,7 +485,7 @@
                 <img src="img/Ai_benefit/06.svg" class="img-fluid">
               </div>
               <p class="text-p">
-               Provided with full documentation
+              Vollständige Dokumentationen und Anleitungen verfügbar
               </p>
             </div>
           </div>
@@ -501,12 +501,12 @@
                 <div class="col-lg-12">
                     <div class="lookingBox rerBg-grd">
                         <div class="text text-white">
-                            <span class="fs-18  fw-400">for more details</span>
-                            <h3 class="fw-900">Contact us</h3>
+                            <span class="fs-18  fw-400">KONTAKTIEREN SIE UNS <br>FÜR WEITERE DETAILS</span>
+                            <!-- <h3 class="fw-900">Contact us</h3> -->
                         </div>
 
                         <div>
-                            <a href="#contact_us" class="btn btn-round btn-white">Click Here</a>
+                            <a href="#contact_us" class="btn btn-round btn-white">Klicken Sie hier</a>
                         </div>
                     </div>
                 </div>

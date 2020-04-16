@@ -1,6 +1,6 @@
 <div class="container">
   <div class="centerTitle sec-mainTitle">
-  References 
+  Referenzen 
   <!-- <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> -->
   </div>
   <br>

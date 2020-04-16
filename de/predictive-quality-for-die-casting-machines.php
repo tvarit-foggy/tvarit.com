@@ -97,21 +97,21 @@
                 <div class="col-md-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1" >
-                            Predictive Quality for
+                        QUALITÄTSVORHERSAGE
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Die-casting
+                              IM DRUCKGUSS
                             </div>
                             <div class="text-big40" st>
-                             Process
+                              -VERFAHREN.
                             </div>
                         </div>
                         <br>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> 
     </header>
     <!-------------->
 
@@ -119,8 +119,8 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Predictive Quality for <br> Die-casting
-                    Process</span>
+                <span class="innr-sec-mainTitle ai_predictive">QUALITÄTSVORHERSAGE <br>  IM DRUCKGUSS
+                -VERFAHREN.</span>
             </div>
             <br>
             <div class="row align-items-center">
@@ -132,11 +132,11 @@
                 <div class="col-md">
                     <div class="box-content-top-left">
                         <ul class="ul-list-bullet">
-                            <li>Real time prediction of various quality attributes</li>
-                            <li>Reduced number of quality defects</li>
-                            <li>Live recommendation for corrective actions</li>
-                            <li>Increased profitability</li>
-                            <li>Increased Know-how</li>
+                            <li>Echtzeit-Vorhersage verschiedener Qualitätsmerkmale</li>
+                            <li>Verringerte Anzahl an Qualitätsmängeln</li>
+                            <li>Live-Empfehlung für Korrekturmaßnahmen</li>
+                            <li>Gesteigerte Rentabilität</li>
+                            <li>Fundiertere Kenntnisse und Einblicke in die Fertigung</li>
                         </ul>
                     </div>
                 </div>
@@ -148,12 +148,11 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">TVARIT AI </span> </div>
-                    <h3 class="bold red text-center">SOLUTIONS</h3>
+                    <div class="text-big60"><span class="tvarit-black">TVARIT KI </span> </div>
+                    <h3 class="bold red text-center">LÖSUNGEN</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We support large and medium-sized metal and plastic mold manufacturers in optimizing their production
-                    processes, improving their management systems and achieving higher profitability
+                Wir unterstützen große und mittelständische Hersteller dabei, ihre Produktionsprozesse zu optimieren, ihre Managementsysteme zu verbessern und eine höhere Rentabilität zu erreichen.
                 </div>
             </div>
         </div>
@@ -218,7 +217,7 @@
                 <div class="col-lg">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">USE-CASE</span></div>
+                            <div class="text-big60 fw-900"><span class="text-capitalize">Fallstudie</span></div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
@@ -243,15 +242,15 @@
                 <div class="col-lg order-2 order-lg-1">
                     <div class="px-lg-4">
                         <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize">Benefits</span></div>
+                            <div class="text-big60 fw-900"><span class="text-capitalize">Vorteile</span></div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <ul class="ul-list-bullet">
-                                <li>Reduce number of defected pieces by 76%</li>
-                                <li>Real time production view</li>
-                                <li>Increased know-how</li>
-                                <li>Measurable economic benefits</li>
+                                <li>Reduzierung der Anzahl der fehlerhaften Teile um 76%.</li>
+                                <li>Echtzeit-Produktionsübersicht.</li>
+                                <li>Fundiertere Kenntnisse und Einblicke in die Fertigung</li>
+                                <li>Messbare wirtschaftliche Nutzen</li>
                             </ul>
                         </div>
                     </div>
