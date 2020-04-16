@@ -244,20 +244,16 @@
              <div class="row align-items-md-center">
                  <div class="col-lg-4 order-lg-1 order-2">
                      <div class="ft-about">
-                         <h3>We are working for you!</h3>
+                         <h3>Wir arbeiten für SIe</h3>
                          <div class="ftaboutmore">
                              <p class="text-p">
-                                 The measure of growth is the ability to change. Industry 4.0 is more than just a flashy
-                                 catchphrase. A confluence of trends and technologies promises to reshape the way things
-                                 are made. It means machines using self-optimization, self-configuration, and even
-                                 artificial intelligence to complete complex tasks. For most, however, these concepts
-                                 feel quite distant from today’s reality where many plants have yet to fully adopt the
-                                 automation technologies of Industry 3.0.
+                             Industry 4.0 ist mehr als nur ein auffälliges Schlagwort.
+                              Ein Zusammenfluss von Trends und Technologien revolutionieren Fertigungsprozesse auf allen Ebenen. 
+                              Untera anderem auch, dass Maschinen Ihre Prozesse und Einstellungen automatisiert mit Hilfe von KI optimieren, um komplexe Aufgaben zu erfüllen. 
                              </p>
                              <p class="text-p">
-                                 Therefore, we at Tvarit AI relentlessly work to make your business and life simpler and
-                                 upgraded. If curiosity is consuming you, we welcome you to have a look. Welcome Tvarit
-                                 AI, Welcome Infinite Possibilities!
+                             Für die meisten sind diese Konzepte jedoch ziemlich weit von der heutigen Realität entfernt. Deshalb arbeiten wir bei Tvarit AI unermüdlich daran, Ihr Unternehmen und Ihre Prozesse fortschrittlicher und effizienter zu gestalten. Für Fragen oder weitere Informationen stehen wir Ihnen jederzeit gerne zur Verfügung.
+                              Willkommen bei Tvarit AI, Willkommen in der modernen Fertigung.
                              </p>
                          </div>
                      </div>
@@ -297,7 +293,7 @@
                      <form method="post">
                          <div class="contactBox">
                              <div class="text-contact" id="contact_us">
-                                 Contact Us
+                             Nehmen Sie Kontakt auf.
                              </div>
                              <div class="formBox">
                                  <div class="form-group">
@@ -306,30 +302,30 @@
 
                                  <div class="form-group">
                                      <input type="email" class="form-control" name="email" id="email"
-                                         placeholder="Email *">
+                                         placeholder="Mail *">
                                  </div>
                                  <div class="form-row">
                                      <div class="col-md">
                                          <div class="form-group">
                                              <input type="text" class="form-control" name="subject" id="sub"
-                                                 placeholder="Subject">
+                                                 placeholder="Betreff">
                                          </div>
                                      </div>
                                      <div class="col-md">
                                          <div class="form-group">
                                              <input type="text" class="form-control" name="phone" id="phone"
-                                                 placeholder="Phone *" onkeypress='validate(event)'>
+                                                 placeholder="Telefon *" onkeypress='validate(event)'>
                                          </div>
                                      </div>
                                  </div>
 
                                  <div class="form-group">
                                      <textarea class="form-control" rows="3" name="msg" id="msg"
-                                         placeholder="Message"></textarea>
+                                         placeholder="Nachricht"></textarea>
                                  </div>
                                  <br>
                                  <div class="form-group">
-                                     <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
+                                     <input type="button" value="Abschcken" id="btn" class="btn btn-round btn-red-grd">
                                  </div>
                                  <div id="snackbar">We Will Contact You Shortly</div>
 
