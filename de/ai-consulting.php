@@ -358,7 +358,7 @@
                             <h3 class="fw-900">for one day</h3>
                         </div>
                         <div>
-                            <a href="#contact_us" class="btn btn-round btn-white">Click Here</a>
+                            <a href="#contact_us" class="btn btn-round btn-white">Klicken Sie hier</a>
                         </div>
                     </div>
                 </div>

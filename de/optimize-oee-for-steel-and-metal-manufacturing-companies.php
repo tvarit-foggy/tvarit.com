@@ -112,7 +112,7 @@
             </div>
         </div>
     </header>
-    <!--------------> Steigerung der Gesamtanlageneffizienz in der Aluminiumproduktion
+    <!--------------> 
 
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
@@ -230,7 +230,7 @@
                         </div>
                         <div>
                             <a href="#contact_us" data-toggle="modal" data-target="#exampleModal"
-                                class="btn btn-round btn-white">Click Here</a>
+                                class="btn btn-round btn-white">Klicken Sie hier</a>
                         </div>
                     </div>
                 </div>

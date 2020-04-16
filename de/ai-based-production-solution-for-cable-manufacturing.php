@@ -116,7 +116,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">AI based Production Planning solution for <br> Cable Manufacturing</span>
+                <span class="innr-sec-mainTitle ai_predictive">KI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG <br>FÜR DIE KABELHERSTELLUNG</span>
             </div>
             <br>
             <div class="row align-items-lg-center">
@@ -194,7 +194,7 @@
                                                 </div>
                                                 <div class="col-md">
                                                 <div class="form-group">
-                                                        <a href="#form1" class="btn btn-round btn-red-grd">CONTACT US</a>
+                                                        <a href="#form1" class="btn btn-round btn-red-grd">ai</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -274,23 +274,23 @@
                     <div class="col-lg-6">
                         <div class="lookingBox rerBg-grd">
                             <div class="text text-white">
-                                <span class="fs-18  fw-400">Request for</span>
-                                <h3 class="fw-900">a full case study</h3>
+                                <span class="fs-18  fw-400">Hier erhalten</span>
+                                <h3 class="fw-900">Sie die komplette Fallstudie</h3>
                             </div>
                             <div>
-                                <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn btn-round btn-white">Click Here</a>
+                                <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn btn-round btn-white">Klicken Sie hier</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="lookingBox brdr-black">
                             <div class="text">
-                                <span class="fs-18  fw-400">for more details</span>
-                                <h3 class="fw-900">Contact us</h3>
+                            <span class="fs-18  fw-400">KONTAKTIEREN SIE UNS FÜR </span>
+                            <h3 class="fw-900">WEITERE DETAILS</h3>
                             </div>
 
                             <div>
-                            <a href="#form1" class="btn btn-round btn-red-grd">Click Here</a>
+                            <a href="#form1" class="btn btn-round btn-red-grd">Klicken Sie hier</a>
                             </div>
                         </div>
                     </div>
