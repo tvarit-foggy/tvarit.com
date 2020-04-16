@@ -78,7 +78,7 @@
                     <span class="text-wrapper">
                         <span class="line line1"></span>
                         <span class="letters red fw-600">Machen Sie Ihre Mitarbeiter</span>
-                    </span>
+                    </span>                    
                 </h1>
               </div>  
               <div class="text-big60">fit für die Anwendung von KI,</div>
@@ -104,7 +104,7 @@
                 
                 <div class="text-p mb-0">
                   <p class="text-p">
-                  Wir verstehen die zunehmende Nachfrage und die Bedeutung, welches Unternehmen dem Wissen um die Möglichkeiten der Nutzung von KI und Daten beimessen. In unseren Workshops schulen wir Sie in den innovativsten und besten Lösungen zur Bewältigung aller Arten von Herausforderungen bei der Einführung und Umsetzung von KI in Ihrem Unternehmen, angefangen von der Konzeptualisierung, der Validierungsdatenextraktion bis hin zu den endgültigen KI-fähigen Geschäftsprozessen und Produkten.
+                  Wir verstehen die zunehmende Nachfrage und die Bedeutung, welches Unternehmen dem Wissen um die Möglichkeiten der Nutzung von KI und Daten beimessen. In unseren Workshops schulen wir Sie in den innovativsten und besten Lösungen zur Bewältigung aller Arten von Herausforderungen bei der Einführung und Umsetzung von KI in Ihrem Unternehmen. Angefangen von der Konzeptualisierung, der Validierungsdatenextraktion bis hin zu den endgültigen KI-fähigen Geschäftsprozessen und Produkten.
                     </p>
                     <p class="text-p mb-0">
                     In unserer KI-Akademie werden erfahrene und gut ausgebildete Datenwissenschaftler ausgebildet. Unser Team konzentriert sich stets darauf, sowohl solide technische Grundlagen als auch praktische Anwendungen und Best Practices zu vermitteln.
