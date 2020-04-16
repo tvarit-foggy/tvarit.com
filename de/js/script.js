@@ -34,21 +34,21 @@ $('a[href^="#"]').on('click',function (e) {
 $('.more').readmore({
   speed: 200,
   collapsedHeight: 80,
-  moreLink: '<a href="#" class="readmorebtn">Read more...</a>',
+  moreLink: '<a href="#" class="readmorebtn">Mehr dazu...</a>',
   lessLink: '<a href="#" class="readmorebtn">Read less</a>'
 });
 
 $('.whyapamore,.ftaboutmore').readmore({
   speed: 200,
   collapsedHeight: 60,
-  moreLink: '<a href="#" class="readmorebtn">Read more...</a>',
+  moreLink: '<a href="#" class="readmorebtn">Mehr dazu...</a>',
   lessLink: '<a href="#" class="readmorebtn">Read less</a>'
 });
 
 $('.imgW-more').readmore({
   speed: 200,
   collapsedHeight: 110,
-  moreLink: '<a href="#" class="readmorebtn">Read more...</a>',
+  moreLink: '<a href="#" class="readmorebtn">Mehr dazu...</a>',
   lessLink: '<a href="#" class="readmorebtn">Read less</a>'
 });
 

@@ -247,13 +247,10 @@
                          <h3>Wir arbeiten für SIe</h3>
                          <div class="ftaboutmore">
                              <p class="text-p">
-                             Industry 4.0 ist mehr als nur ein auffälliges Schlagwort.
-                              Ein Zusammenfluss von Trends und Technologien revolutionieren Fertigungsprozesse auf allen Ebenen. 
-                              Untera anderem auch, dass Maschinen Ihre Prozesse und Einstellungen automatisiert mit Hilfe von KI optimieren, um komplexe Aufgaben zu erfüllen. 
+                             Industry 4.0 ist mehr als nur ein auffälliges Schlagwort. Ein Zusammenfluss von Trends und Technologien revolutionieren Fertigungsprozesse auf allen Ebenen. Unter anderem auch, dass Maschinen Ihre Prozesse und Einstellungen automatisiert mit Hilfe von KI optimieren, um komplexe Aufgaben zu erfüllen.
                              </p>
                              <p class="text-p">
-                             Für die meisten sind diese Konzepte jedoch ziemlich weit von der heutigen Realität entfernt. Deshalb arbeiten wir bei Tvarit AI unermüdlich daran, Ihr Unternehmen und Ihre Prozesse fortschrittlicher und effizienter zu gestalten. Für Fragen oder weitere Informationen stehen wir Ihnen jederzeit gerne zur Verfügung.
-                              Willkommen bei Tvarit AI, Willkommen in der modernen Fertigung.
+                             Für die meisten sind diese Konzepte jedoch ziemlich weit von der heutigen Realität entfernt. Deshalb arbeiten wir bei Tvarit AI unermüdlich daran, Ihr Unternehmen und Ihre Prozesse fortschrittlicher und effizienter zu gestalten. Für Fragen oder weitere Informationen stehen wir Ihnen jederzeit gerne zur Verfügung. Willkommen bei Tvarit AI, Willkommen in der modernen Fertigung.
                              </p>
                          </div>
                      </div>
@@ -277,7 +274,7 @@
                      <br>
 
                      <div class="ft-social">
-                         <h3>Disclaimer</h3>
+                         <h3>Haftungsauschluss</h3>
                          <div class="ft-links">
                              <a href="impressum">Impressum</a>
                              <a href="datenschutz">Datenschutz</a>
@@ -325,7 +322,7 @@
                                  </div>
                                  <br>
                                  <div class="form-group">
-                                     <input type="button" value="Abschcken" id="btn" class="btn btn-round btn-red-grd">
+                                     <input type="button" value="Senden" id="btn" class="btn btn-round btn-red-grd">
                                  </div>
                                  <div id="snackbar">We Will Contact You Shortly</div>
 
