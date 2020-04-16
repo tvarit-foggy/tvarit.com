@@ -1,12 +1,12 @@
 <div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
     <div class="container">
         <div class="centerTitle sec-mainTitle text-white">
-        Unser Fortschritt <span class="fw-900">- Ihre Vorteile</span>
+        Unser Fortschritt <span class="fw-900"><br> Ihre Vorteile</span>
         </div>
         <div class="row">
             <div class="col-md">
                 <div class="countBox">
-                Über<div class="figure"><span class="figureNum" data-count="100">0</span> <small>+</small></div>
+                    <div class="figure"><span class="figureNum" data-count="100">0</span> <small>+</small></div>
                     <div class="text"> der fortschrittlichsten KI-Module für die Datenanalyse in der Fertigung</div>
                 </div> 
             </div>

@@ -75,24 +75,23 @@ div.fadeMe {
                 </a>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Solutions</a>
+                        <a class="nav-link" href="#">KI Lösungen</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col-lg-4 col">
                                     <div class="menuQuote">
-                                        <div class="textBig">AI Solutions<span class="red">.</span></div>
+                                        <div class="textBig">KI Lösungen<span class="red">.</span></div>
                                         <!-- <p class="text-normal"> ..... </p> -->
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" class="sub-Link">Optimize
-                                                OEE for Metal Manufacturing companies</a>
+                                            <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" class="sub-Link">Steigerung der Gesamtanlageneffizienz in der Aluminiumproduktion</a>
                                         </li>
                                         <li>
-                                            <a href="predictive-maintenance-for-industrial-electric-motors" class="sub-Link">Predictive
-                                                Maintenance for Industrial Electric Motors</a>
+                                            <a href="predictive-maintenance-for-industrial-electric-motors" class="sub-Link">PREDICTIVE MAINTENANCE FÜR
+INDUSTRIELLE ELEKTROMOTOREN</a>
                                         </li>
                                        
                                     </ul>
@@ -101,11 +100,10 @@ div.fadeMe {
                                      <ul class="ul-sub-menu">
                                         <li>
                                             <a href="ai-based-production-solution-for-cable-manufacturing"
-                                                class="sub-Link">AI Based Production Planning for Cable Manufacturing</a>
+                                                class="sub-Link">KI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG FÜR DIE KABELHERSTELLUNG</a>
                                         </li>
                                         <li>
-                                            <a href="predictive-quality-for-die-casting-machines" class="sub-Link">Predictive
-                                                Quality for Die-casting Machines</a>
+                                            <a href="predictive-quality-for-die-casting-machines" class="sub-Link">QUALITÄTSVORHERSAGE IM DRUCKGUSS-VERFAHREN</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -128,22 +126,22 @@ div.fadeMe {
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ai-platform">AI Platform</a>
+                        <a class="nav-link" href="ai-platform">KI Plattform</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Consulting</a>
+                        <a class="nav-link" href="#">KI Beratung</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
+                                          <div class="textBig">KI Beratung<span class="red">.</span></div>
                                         <!-- <p class="text-normal"> </p> -->
                                     </div>
                                 </div>
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                     <li>
-                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
+                                            <a href="ai-consulting" class="sub-Link">KI Beratung</a>
                                         </li>
                                         <li>
                                             <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
