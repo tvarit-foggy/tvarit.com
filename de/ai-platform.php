@@ -51,7 +51,7 @@
                 <span class="red">AI</span> Platform
               </div>
              <div class="fs-20 fw-700">
-             Die fortschrittlichste KI-Plattform zur <br/>Analyse von Produktions- und Maschinendaten
+             Die fortschrittlichste KI Plattform zur <br/>Analyse von Produktions- und Maschinendaten
              </div>
               <br>
               <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Kontaktieren Sie uns für eine kostenlose Demo</a>
@@ -77,7 +77,7 @@
           <div class="innr-sec-mainTitle mb-0">Die umfassendste und vollständigste <span class="red">KI</span> Plattform!</div>
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
-          Tvarit AI ist eine preisgekrönte KI-Plattform, die leistungsstarke Werkzeuge für alle datenwissenschaftlichen Aktivitäten in der Fertigung bietet. Sie bringt umfassendes Wissen und Erkenntnisse aus der Erfahrung von Datenwissenschaftlern, die in den 500 größten Produktionsunternehmen arbeiten, zusammen mit den neuen und innovativsten KI-Techniken - und ermöglicht Ihnen so die Erstellung solider Geschäftsfälle mit 100%iger Erfolgsquote. Es bietet auch die Möglichkeit, das Wissen und Know-how der in Ihren Unternehmen tätigen Personen zu erfassen, so dass Sie die KI-Modelle an Ihre spezifischen Bedürfnisse anpassen und erstellen können. Die Software wurde für die beste Benutzererfahrung durch ein klares Design und klare Arbeitsabläufe unter Verwendung modernster KI-Technologie entwickelt.
+          Tvarit AI ist eine preisgekrönte KI Plattform, die leistungsstarke Werkzeuge für alle datenwissenschaftlichen Aktivitäten in der Fertigung bietet. Sie bringt umfassendes Wissen und Erkenntnisse aus der Erfahrung von Datenwissenschaftlern, die in den 500 größten Produktionsunternehmen arbeiten, zusammen mit den neuen und innovativsten KI-Techniken - und ermöglicht Ihnen so die Erstellung solider Geschäftsfälle mit 100%iger Erfolgsquote. Es bietet auch die Möglichkeit, das Wissen und Know-how der in Ihren Unternehmen tätigen Personen zu erfassen, so dass Sie die KI-Modelle an Ihre spezifischen Bedürfnisse anpassen und erstellen können. Die Software wurde für die beste Benutzererfahrung durch ein klares Design und klare Arbeitsabläufe unter Verwendung modernster KI-Technologie entwickelt.
           </div>
         </div>
 
