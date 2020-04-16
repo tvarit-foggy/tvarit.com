@@ -268,7 +268,7 @@
             <div class="row justify-content-between formContent">
                 <div class="col-md-7 mb-4 order-2 order-md-1">
                     <div class="text-contact">
-                        Contact Form
+                    KONTAKTFORMULAR
                     </div>
                     <br>
                     <div class="white-box-shadow">
@@ -277,26 +277,26 @@
                                 <input type="text" class="form-control" name="name" id="name" placeholder="Name *">
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" name="email" id="email" placeholder="Email *">
+                                <input type="text" class="form-control" name="email" id="email" placeholder="E-Mail *">
                             </div>
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group">
                                         <input type="text" class="form-control" name="subject" id="sub"
-                                            placeholder="Subject">
+                                            placeholder="Thema">
                                     </div>
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group">
                                         <input type="text" class="form-control" name="phone" id="phone"
-                                            placeholder="Phone *" onkeypress='validate(event)'>
+                                            placeholder="Telefon *" onkeypress='validate(event)'>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="form-group">
                                 <textarea class="form-control" rows="3" name="msg" id="msg"
-                                    placeholder="Message"></textarea>
+                                    placeholder="Nachricht"></textarea>
                             </div>
                             <br>
                             <div class="form-group text-right">
@@ -309,7 +309,7 @@
                 </div>
                 <div class="col-md-4 order-1 order-md-2 mb-md-0">
                     <div class="text-contact">
-                        Contact Info
+                    KONTAKT INFO
                     </div>
                     <br>
                     <div class="ctnDetailBox">
