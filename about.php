@@ -436,7 +436,7 @@
                 </div>
                 <br>
                 <div class="row justify-content-center">
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/32_Industry_icon.png" class="img-fluid">
@@ -450,7 +450,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/14_million_euro_icon.png" class="img-fluid">
@@ -464,7 +464,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/20_Big_network_iocn.png" class="img-fluid">
@@ -478,21 +478,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4" style="margin-top:20px;">
-                        <div class="countingNumBox">
-                            <div class="icon">
-                                <img src="img/achived/30_min_icon.png" class="img-fluid">
-                            </div>
-                            <div class="content">
-                                <div class="numbers">30 <span style="font-size:30px;">mins<span></div>
-                                <div class="text">
-                                    Fastest time to make AI models
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 col-lg-4" style="margin-top:20px;">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/10_major_awards.png" class="img-fluid">
