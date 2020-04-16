@@ -280,7 +280,7 @@
                  Mehr als 22 KI-Algorithmen sorgen für beste Ergebnisse
               </li>
               <li>
-              Einfache Visualiserung und schnelles Teilen von KI-Analyseergebnissen und Dashboards durch kollaborative Funktionen wie Slack, Microsoft Teams usw.
+              Einfache Visualiserung und schnelles Teilen von KI-Analyseergebnissen und Dashboards durch kollaborative Funktionen wie Slack, Microsoft Teams usw
               </li>
               <li>
               Unterstützt folgende Datenkonnektoren
@@ -501,12 +501,12 @@
                 <div class="col-lg-12">
                     <div class="lookingBox rerBg-grd">
                         <div class="text text-white">
-                            <span class="fs-18  fw-400">for more details</span>
-                            <h3 class="fw-900">Contact us</h3>
+                            <span class="fs-18  fw-400">KONTAKTIEREN SIE UNS <br>FÜR WEITERE DETAILS</span>
+                            <!-- <h3 class="fw-900">Contact us</h3> -->
                         </div>
 
                         <div>
-                            <a href="#contact_us" class="btn btn-round btn-white">Click Here</a>
+                            <a href="#contact_us" class="btn btn-round btn-white">Klicken Sie hier</a>
                         </div>
                     </div>
                 </div>
