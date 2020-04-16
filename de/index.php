@@ -106,8 +106,7 @@
                             <span>INDUSTRIAL <span class="red">AI</span> </span>
                         </div>
                         <div id="prgf-strings" class="stringText">
-                            <span>Fast and customized solutions for all your manufacturing problems and data science
-                                needs</span>
+                            <span>Schnelle und maßgeschneiderte Lösungen für alle datenwissenschaftlichen Herausforderungen in der Fertigung.</span>
                         </div>
                         <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
                         <div class="hdr-industrial" id="typed-industrial"></div>
@@ -124,9 +123,8 @@
                         <div class="hdr-prgf2r">
                             <span id="typed-prgf2r"></span>
                             <div class="rw-words-1">
-                                <span>Remove inefficiencies and failures of your production units and business
-                                    processes</span>
-                                <span>Reduce the failure rate of all your AI/Data Science Projects</span>
+                                <span>Steigern Sie die Effizienz Ihrer Produktionseinheiten und vermeiden Sie Ausfälle Ihrer Maschinen und Geräte.</span>
+                                <span>Maximieren Sie die Erfolgsrate Ihrer KI-Projekte</span>
                             </div>
                         </div>
 
@@ -149,13 +147,11 @@
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="innr-sec-mainTitle inner-lg-heading">EXPERIENCE ONE OF THE MOST INNOVATIVE INDUSTRIAL AI
-                                COMPANIES IN EUROPE</div>
+                            <div class="innr-sec-mainTitle inner-lg-heading">Lernen Sie eines der innovativsten Industrie-KI-Unternehmen Europas kennen</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <!-- <div class="imgW-more"> -->
-                            <p class="text-p">We have been awarded as one of the winners of the European Data Incubator
-                                2020 experiment phase round in Spain.
+                            <p class="text-p">Im Rahmen eine EU Horizon 2020 Projektes wurden wir vom European Data Incubator als eines der besten 8 von insgesamt 490 KI-Unternehmen in ganz Europa ausgezeichnet.
                             </p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
@@ -172,7 +168,7 @@
     <div class="section-padding" >
         <div class="container">
             <div class="centerTitle sec-mainTitle">
-                we offer
+            Unsere Angebot
             </div>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
@@ -182,20 +178,20 @@
                             <img src="img/ai-solution-1.png">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI Solutions</p>
+                            <p class="title text-center">KI-Lösungen</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    We provide end to end solution including all types of hardware infrastructure
+                                    Wir bieten ganzheitliche Lösungen für alle Arten von Hardware-Infrastruktur an
                                 </li>
                                 <li>
-                                    Ready to use AI solutions for most impactful business use-cases
+                                Einsatzbereite KI Lösungen für Predictive Maintenance, Qualitätsvorhersage, Prozessoptimierung und Produktionsplanung
                                 </li>
                                 <li>
-                                    Scalable and already proven technology
+                                      Skalierbare und mehrfach bewährte Technologie
                                 </li>
                                 <li>
-                                    Available on On-Premise, Cloud and edge-computing
+                                     Verfügbar on-premise, in der Cloud und für Edge-Computing
                                 </li>
                             </ul>
                             <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
@@ -210,17 +206,17 @@
                             <img src="img/ai-platform-1.png">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI Platform</p>
+                            <p class="title text-center">KI Plattform</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    Award winning AI Platform for your Data Scientists
+                                Preisgekrönte KI-Plattform für Ihre Datenwissenschaftler
                                 </li>
                                 <li>
-                                    Analyse manufacturing data and make new use-cases on your own
+                                Vollständiger Satz an Werkzeugen zur Analyse von Produktionsdaten und zur ganzheitlichen Entwicklung neuer Anwendungsfälle.
                                 </li>
                                 <li>
-                                    Available on On-Premise, Cloud and edge-computing
+                                Verfügbar on-premise, in der Cloud und für Edge-Computing
                                 </li>
                             </ul>
                             <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
@@ -236,17 +232,17 @@
                             <img src="img/ai-consulting.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI Consulting</p>
+                            <p class="title text-center">KI-Beratung</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    Data Extraction, IT Systems Integration, Data Preparation, AI Modeling
+                                Wir unterstützen Sie bei der Datenextraktion, IT-Systemintegration, Datenaufbereitung und KI-Modellierung
                                 </li>
                                 <li>
-                                    Managed outside teams and hire data science experts within hours
+                                Unsere Teams und Data Scientist stehen Ihnen flexibel innerhalb von wenigen Stunden zur Verfügung.
                                 </li>
                                 <li>
-                                    Innovative task based pricing
+                                Innovatives, aufgabenbasiertes Preismodell
                                 </li>
                             </ul>
                             <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
@@ -274,15 +270,11 @@
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="sec-mainTitle">Why Us?</div>
+                            <div class="sec-mainTitle">Warum Wir??</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                            Our products and services have been built and designed on the basis of 54+ years of
-                            experience in fortune 500 manufacturing companies. We provide fast and customizable AI
-                            solutions for discrete and process manufacturing. We are continuously improving our
-                            solutions by heavily investing into R&D. We have developed most advanced AI algorithms and
-                            ready to use AI modules to solve all your complex manufacturing problems and needs.</p>
+                        Wir bieten schnelle und anpassbare KI-Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unser Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.</p>
                         <br>
                     </div>
 
@@ -301,8 +293,8 @@
     <section class="section-padding">
         <div class="container">
             <div class="centerTitle">
-                <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
-                <div class="sec-mainTitle">Manufacturing companies</div>
+                <h3 class="bold text-center red mb-0">Wir beherrschen alle Sprachen von </h3>
+                <div class="sec-mainTitle">Fertigungsunternehmen</div>
             </div>
             <br>
             <div class="row">
@@ -380,7 +372,7 @@
     <div class="section-padding">
         <div class="container">
             <div class="centerTitle sec-mainTitle">
-                ASSOCIATES & PARTNERS
+            Partner
             </div>
             <br>
             <div class="client-carousel">
