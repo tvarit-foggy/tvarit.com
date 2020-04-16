@@ -302,7 +302,7 @@
 
                                  <div class="form-group">
                                      <input type="email" class="form-control" name="email" id="email"
-                                         placeholder="Mail *">
+                                         placeholder="E-Mail *">
                                  </div>
                                  <div class="form-row">
                                      <div class="col-md">
