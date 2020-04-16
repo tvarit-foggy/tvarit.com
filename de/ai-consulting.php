@@ -277,7 +277,7 @@
             </div>
             <br>
             <div class="text-center">
-                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Know More</a>
+                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Mehr erfahren</a>
             </div>
 
         </div>
