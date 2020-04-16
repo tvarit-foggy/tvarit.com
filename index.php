@@ -106,8 +106,7 @@
                             <span>INDUSTRIAL <span class="red">AI</span> </span>
                         </div>
                         <div id="prgf-strings" class="stringText">
-                            <span>Fast and customized solutions for all your manufacturing problems and data science
-                                needs</span>
+                            <span>Fast and customized solutions for all your manufacturing challenges and data science needs</span>
                         </div>
                         <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
                         <div class="hdr-industrial" id="typed-industrial"></div>
@@ -154,8 +153,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <!-- <div class="imgW-more"> -->
-                            <p class="text-p">We have been awarded as one of the winners of the European Data Incubator
-                                2020 experiment phase round in Spain.
+                            <p class="text-p">We have been awarded as one of the best 8 out of 490 AI companies throughout whole Europe by the European Data Incubator as part of an EU Horizon 2020 project.
                             </p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
@@ -172,7 +170,7 @@
     <div class="section-padding" >
         <div class="container">
             <div class="centerTitle sec-mainTitle">
-                we offer
+            our offerings
             </div>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
@@ -186,10 +184,10 @@
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    We provide end to end solution including all types of hardware infrastructure
+                                    We provide end to end solutions including all types of hardware infrastructure
                                 </li>
                                 <li>
-                                    Ready to use AI solutions for most impactful business use-cases
+                                    Ready to use AI solutions for predictive maintenance, quality prediction, process optimisation and production planning
                                 </li>
                                 <li>
                                     Scalable and already proven technology
@@ -217,7 +215,7 @@
                                     Award winning AI Platform for your Data Scientists
                                 </li>
                                 <li>
-                                    Analyse manufacturing data and make new use-cases on your own
+                                Full and integrated tools to analyse manufacturing data and to develop new use-cases on your own
                                 </li>
                                 <li>
                                     Available on On-Premise, Cloud and edge-computing
@@ -240,10 +238,10 @@
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    Data Extraction, IT Systems Integration, Data Preparation, AI Modeling
+                                We support you with data extraction, IT systems integration, data preparation and AI modelling
                                 </li>
                                 <li>
-                                    Managed outside teams and hire data science experts within hours
+                                Flexibly hire managed outside teams and data science experts within hours
                                 </li>
                                 <li>
                                     Innovative task based pricing
@@ -278,11 +276,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                            Our products and services have been built and designed on the basis of 54+ years of
-                            experience in fortune 500 manufacturing companies. We provide fast and customizable AI
-                            solutions for discrete and process manufacturing. We are continuously improving our
-                            solutions by heavily investing into R&D. We have developed most advanced AI algorithms and
-                            ready to use AI modules to solve all your complex manufacturing problems and needs.</p>
+                        We provide fast and customizable AI solutions for descrete and process manufacturing that have been built and designed on the basis of more than 34 years of experience in fortune 500 manufacturing companies. Continuously improving our solutions and heavily investing into R&D, we have been awarded for the most advanced AI algorithms and ready to use AI modules - developed to solve all you complex manaufacturing challenges and needs.</p>
                         <br>
                     </div>
 
