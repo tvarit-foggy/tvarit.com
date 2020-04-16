@@ -79,19 +79,7 @@
                         <br>
                         <div>
                             <p class="text-p txt-justify" style="width:90%">
-                                We are German company based in Frankfurt, Germany. We build and provide AI solutions to
-                                solve all
-                                kinds of manufacturing problems and data science needs. We enable businesses to make
-                                smart and
-                                informed decisions by deriving actionable and valuable insights from a sea of data.
-
-                                We provide Ai Solutions, AI platform and AI consulting services to successfully
-                                complete
-                                your all AI and data science projects.
-
-                                Recently, we have achieved many prestigious awards for which we were recognized as the
-                                most
-                                innovative AI company in Europe and Germany.
+                            Wir sind ein deutsches Unternehmen mit Sitz in Frankfurt. Wir entwickeln und liefern KI-Lösungen zur Lösung aller Arten von Fertigungsproblemen und datenwissenschaftlichen Anforderungen. Wir ermöglichen es Unternehmen, intelligente und fundierte Entscheidungen zu treffen, indem wir aus einem Meer von Daten verwertbare und wertvolle Erkenntnisse ableiten. Wir bieten einsatzbereite KI-Lösungen, unsere KI-Plattform und KI-Beratungsdienste, um all Ihre KI- und Data Science Projekte erfolgreich abzuschließen. In letzter Zeit haben wir viele renommierte Auszeichnungen erhalten, in denen wir als innovativstes KI-Unternehmen in Europa anerkannt wurden.
                             </p>
                         </div>
 
@@ -149,7 +137,7 @@
     <div class="section-padding" id="Team">
         <div class="container">
             <div class="centerTitle">
-                <div class="red text-big60">MEET OUR TEAM</div>
+                <div class="red text-big60">Unser Team</div>
             </div>
             <br>
             <div class="row">
@@ -164,9 +152,9 @@
                             <h6 class="title">Head of Cooperation</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Business Transformer & Opportunity Creator</li>
-                                <li>Experience from Airbus</li>
-                                <li>Dipl.-Ing. Aerospace Engineering, MBA with focus on Strategy and Management</li>
+                                <li>Unternehmenstransformator & Opportunity-Creator</li>
+                                <li>Erfahrungen von Airbus</li>
+                                <li>Dipl.-Ing. Aerospace Engineering, MBA mit Schwerpunkt Strategie und Management</li>
                             </ul>
                             <div class="social-icon">
 
@@ -197,9 +185,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>14 years building startups in Germany</li>
-                                <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
-                                <li> Ex-President TiE Deutschland</li>
+                                <li>14 Jahre Erfahrung im Aufbau von Start-Ups</li>
+                                <li>Arbeitete mit Fortune-500-Unternehmen zb. Intel und Qualcomm </li>
+                                <li> Ex-Präsident TiE Deutschland</li>
                                 <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
@@ -213,13 +201,13 @@
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
-                            <h4 class="title title-name"> Juergen Halt</h4>
-                            <h6 class="title">R&D Director</h6>
+                            <h4 class="title title-name">Juergen Halt</h4>
+                            <h6 class="title">R&D Directorr</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Business Transformation by utilizing R&D</li>
-                                <li>Brings huge experience from SAP and HP</li>
-                                <li>Research Background from Fraunhofer</li>
+                                <li>Unternehmenstransformation durch F&E</li>
+                                <li>Umfassende Erfahrungen von SAP & HP</li>
+                                <li>Forschungshintergrund vom Fraunhofer Institut</li>
                             </ul>
                             <div class="social-icon">
 
@@ -241,7 +229,7 @@
                             <div class="col-md-12" style="padding-right:0px">
                                 <div class="row" style="margin-right: 0px;">
                                     <div class="col-md-12" style="padding-left:0px;">
-                                        <h6 class="title">CTO</h6>
+                                        <h6 class="title">Chief Technical Officer</h6>
                                     </div>
                                     <!-- <div class="col-md-6" style="padding-right:0px;">
 
@@ -254,9 +242,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>M.Tech from IIT Mumbai & TU Darmstadt</li>
-                                <li>Work experience with NASA, NTT, Linde, IFM</li>
-                                <li> Awards from MIT GSW, Harvard project for Asia</li>
+                                <li>M.Tech vom IIT Mumbai & TU Darmstadt</li>
+                                <li>Berufserfahrung bei NASA, NTT, Linde, IFM, etc.</li>
+                                <li> Auszeichnungen von MIT GSW, Harvard-Projekt für Asien</li>
                             </ul>
 
                         </div>
@@ -333,12 +321,12 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Hitesh Mittal</h4>
-                            <h6 class="title"> Director Sales & Marketing</h6>
+                            <h6 class="title">Director Sales & Marketing</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Bridge between customers and team</li>
-                                <li>AI in Control Systems at Continental, Reliance</li>
-                                <li>European Business School Alumni</li>
+                                <li>Brücke zwischen Kunden und Team</li>
+                                <li>KI in Kontrollsystemen bei Continental, Reliance</li>
+                                <li>Alumni der European Business School</li>
                             </ul>
                             <div class="social-icon">
 
@@ -360,8 +348,8 @@
                             <h6 class="title">Customer Success Manager</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Bridge between customers and team</li>
-                                <li>Experience from working at ZF and Porsche</li>
+                                <li>Bedarfsermittlung und Ansprechpartner für Kunden</li>
+                                <li>Arbeitserfahrung von ZF und Porsche</li>
                             </ul>
                             <div class="social-icon">
 
@@ -382,9 +370,9 @@
                             <h6 class="title">Director Data Science</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Geekiest amongs geeks and an amateur physicist</li>
-                                <li>Hails from India's best institute: IIT Bombay</li>
-                                <li>2nd position at ASME competition at San Diego, California</li>
+                                <li>Daten-Experte  und Amateur-Physiker.</li>
+                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie Institut: IIT Bombay</li>
+                                <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
                             </ul>
                             <div class="social-icon">
 
@@ -404,9 +392,9 @@
                             <h6 class="title">Industry 4.0 Reporting</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Experienced writing for the BBC, the Guardian</li>
-                                <li>Master's Degree in Research Psychology</li>
-                                <li>Popular for running workshops on Advanced Technologies</li>
+                                <li>Erfahrerner Autor bei BBC und The Guardian</li>
+                                <li>Master in Research Psychology</li>
+                                <li>Bekannt für seine Workshops für fortgeschrittene Technologien</li>
                             </ul>
                             <div class="social-icon">
 
@@ -443,12 +431,13 @@
         <div class="container">
             <div class="">
                 <div class="title text-center">
-                    <div class="text-big60">We are proud of what <br> we have achieved</div>
+                    <div class="text-big60">WIR SIND STOLZ AUF DAS, WAS
+ <br> WIR ERREICHT HABEN</div>
                     <div class="short-line mx-auto bg-red"></div>
                 </div>
                 <br>
                 <div class="row justify-content-center">
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/32_Industry_icon.png" class="img-fluid">
@@ -456,13 +445,13 @@
                             <div class="content">
                                 <div class="numbers">32+</div>
                                 <div class="text">
-                                    Industrial projects successfully completed
+                                erfolgreich umgesetzte Industrieprojekte
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/14_million_euro_icon.png" class="img-fluid">
@@ -470,13 +459,13 @@
                             <div class="content">
                                 <div class="numbers">14+</div>
                                 <div class="text">
-                                    Million euros of customer benefits realized
+                                Mio. Euro an Einsparungen für unsere Kunden
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/20_Big_network_iocn.png" class="img-fluid">
@@ -484,27 +473,13 @@
                             <div class="content">
                                 <div class="numbers">20+</div>
                                 <div class="text">
-                                    Big network of large companies supporting us which makes us independent and flexible
+                                Großes Netzwerk an Unternehmen und Partnern, welche uns flexibel und unabhängig machen
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4" style="margin-top:20px;">
-                        <div class="countingNumBox">
-                            <div class="icon">
-                                <img src="img/achived/30_min_icon.png" class="img-fluid">
-                            </div>
-                            <div class="content">
-                                <div class="numbers">30 <span style="font-size:30px;">mins<span></div>
-                                <div class="text">
-                                    Fastest time to make AI models
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 col-lg-4" style="margin-top:20px;">
+                    <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
                                 <img src="img/achived/10_major_awards.png" class="img-fluid">
@@ -512,7 +487,7 @@
                             <div class="content">
                                 <div class="numbers">10+</div>
                                 <div class="text">
-                                    Major awards won
+                                Bedeutende Auszeichnungen für unsere KI
                                 </div>
                             </div>
                         </div>
