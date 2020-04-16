@@ -51,10 +51,10 @@
                 <span class="red">AI</span> Platform
               </div>
              <div class="fs-20 fw-700">
-                 World’s most advanced AI platform <br/>for manufacturing data analytics
+             The most advanced AI platform for <br>manufacturing data analytics
              </div>
               <br>
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform works for you</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Contact us for a free demo</a>
             </div>
           </div>
           <div class="col-lg-6 macbook-position">
@@ -74,10 +74,10 @@
     <div class="section-padding" id="downClick">
       <div class="container">
         <div class="centerTitle">
-          <div class="innr-sec-mainTitle mb-0">Witness the most complete <br> and true <span class="red">AI</span> Platform</div>
+          <div class="innr-sec-mainTitle mb-0">Witness the most integrated and <br> complete <span class="red">AI</span> Platform</div>
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
-            Tvarit AI is an award winning AI platform. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques to enable you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models as per your needs. It also gives world-class user experience in the form of simple and sleek design by leveraging the state-of-the-art technology.
+          Tvarit AI is an award winning AI platform that providing powerful tools for all data science acitivites in manufacturing. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques - enabling you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know-how of people working in your organizations so that you can customize and create AI models to your specific needs. It is designed for the best user-experience through a clear design and clear workflows by leveraging state-of-the-art AI technology.
           </div>
         </div>
 
@@ -88,7 +88,7 @@
     <br>
     <!------------------------ CONSULTING end --------------------->
     <div class="text text-center mb-0">
-    <h2 class="title red">Overview of working</h2>
+    <h2 class="title red">Overview of workflow</h2>
     </div>
     <section class="section-padding">
       <div class="container timelineSteps-warpper">
@@ -121,7 +121,7 @@
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Decide data size without compromising on accuracy</li>                  
+                  <li>Decide on data size without losing accuracy</li>                  
                   <li>Segregates the historical data into multiple groups</li>
                   <li>Figure out the information gained from the data</li>                
                 </ul>
@@ -134,7 +134,7 @@
                 <h4 class="title">Data Understanding</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Fruitful Analysis</li>
+                  <li>Data Fruitfulness Analysis</li>
                   <li>Anomaly detection</li>
                 </ul>
             </div>
@@ -146,8 +146,8 @@
                 <h4 class="title">Data Preparation</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Sanity Handling</li>
-                  <li>Multicolinearity handling</li>
+                  <li>Sanity Checks</li>
+                  <li>Multicolinearity</li>
                 </ul>
             </div>
           </div>
@@ -171,7 +171,7 @@
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Detects seasonality and trends </li>
-                  <li>Enables you to efficient run decomposition operations on thousands of parameters simultaneously</li>
+                  <li>Enables you to efficiently run decomposition operations on thousands of parameters simultaneously</li>
                 </ul>
             </div>
             
@@ -182,7 +182,7 @@
                 <h4 class="title">Feature Engineering</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>FFT, Wavelet, Entropy etc algorithms</li>
+                  <li>Algorithms for FFT, Wavelet or Entropy</li>
                   <li>Batch Manufacturing 2-D data transformation</li>
                 </ul>
             </div>
@@ -194,7 +194,7 @@
                 <h4 class="title">Predictive Modelling</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Predict</li>
+                  <li>Make predictions/ predict target variables</li>
                   <li>Univariate forecasting</li>
                 </ul>
             </div>
@@ -218,8 +218,8 @@
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Identifies the root cause of failure or malfunction</li>
-                  <li>Gives you the graph containing features in their importance order which determines the direction the result</li>
-                  <li>Gives you What-if analysis</li>
+                  <li>Graphically displays features and process parameters ordered by the degree in which they influence the target variable</li>
+                  <li>Provides you with what-if-analyses</li>
                 </ul>
             </div>
           </div>
@@ -229,7 +229,7 @@
                 <h4 class="title">Evaluation:</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Tweaker</li>
+                  <li>Tweaker: Prescriptive Analytics that providing info to which degree the process parameters need to be adjusted in order to recieve the desired output</li>
                   <li>Global/Local root cause analysis</li>
                 </ul>
             </div>
@@ -252,7 +252,7 @@
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                 <li> Suggests business to gauge the effectiveness of the predictions as they would be cautioned in advance to rely or not to rely on the novelty and non-novelty points </li>
+                 <li> Measures the effectiveness of novelty points on the prediction and gives alerts in advance.</li>
               </ul>
             </div>
           </div>
@@ -277,7 +277,7 @@
                 More than 100 ready to use modules for data preparation and labelling jobs
               </li>
               <li>
-                More than 22+ AI algorithms to give you best results at every instance of time
+                More than 22 AI algorithms to give you best results
               </li>
               <li>
                 Quickly document and share AI analytic results and dashboards through collaborative features like Slack, Microsoft Teams etc.
