@@ -84,7 +84,7 @@
               <div class="text-big60">for your employees</div>
               <div class="subtext">
                 <div class="text-s1  animated infinite pulse slower" >by learning from some of the best AI experts</div>
-                <div class="text-s2 animated infinite pulse slower">in Germanyy</div>
+                <div class="text-s2 animated infinite pulse slower">in Germany</div>
               </div>
              
             </div>
