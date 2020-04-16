@@ -45,7 +45,7 @@
         <div class="container">
             <div class="text-center">
                 <div class="title">
-                    <div class="text-big60">Data Extraction and <br> Integration</div>
+                    <div class="text-big60">DATENEXTRAKTION UND <br> INTEGRATION</div>
                 </div>
                 <div class="short-line mx-auto bg-red"></div>
                 <p class=" fs-16">
@@ -129,15 +129,7 @@
                 so dass die Kombination der Daten zu Protokollen mit schlechten Daten führt.
                 </p>
                 <p class="text-p">
-                    Tvarit experts comes with a very powerful data clean up tool kit. It includes pre-written
-                    data-cleanup
-                    algorithmic modules such as sanity handling, missing handling, multicollinearity analysis,
-                    mahalanobis
-                    distance, data distribution check, infer best bucket etc. Once the data have been cleaned, it will
-                    produce precise results when the ML/DL algorithms are applied. Hence consistent data is essential
-                    and
-                    reliable for decision making. We at Tvarit sanitise the data as surgically as possible to obtain the
-                    best possible solution.
+                Für den Umgang mit schlechter Datenqualität und fehlerhaften Daten setzen wir unser leistungsfähiges Toolkit ein. Es enthält vorprogrammierte algorithmische Module zur Datenbereinigung, wie z.B. Sanity Checks, die automatisierte Bereinigung fehlender Daten, Multikollinearitätsanalysen, Mahalanobis-Abstand, Überprüfung der Datenverteilung, Ableitung des Best Buckets usw. Nach der Bereinigung der Daten werden bei der Anwendung der ML/DL-Algorithmen präzise Ergebnisse erzielt. Daher sind konsistente Daten für eine zuverlässige Entscheidungsfindung unerlässlich. Wir bei Tvarit bereinigen die Daten so akkurate wie möglich, um die bestmögliche Lösung zu erhalten.
                 </p>
               </div>
             </div>
@@ -151,9 +143,7 @@
                 </div>
                 <div class="short-line mx-auto bg-red"></div>
                 <div class="text-p centerTitle">
-                    Tvarit provides Managed Data Labelling teams. Enrich your massive amounts of data in a transparent
-                    and agile approach with high levels of accuracy, consistency and speed. We provide labelling to all
-                    kinds of data image, text, video, sensor and time-series data.
+                Wir stellen Ihnen Data Labelling-Teams zur Verfügung. Bereichern Sie Ihre riesigen Datenmengen in einem transparenten und agilen Ansatz mit hoher Genauigkeit, Konsistenz und Geschwindigkeit. Wir bieten die Kennzeichnung aller Arten von Daten wie Bild-, Text-, Video-, Sensor- und Zeitreihendaten an.
                 </div>
             </div>
         </div>
@@ -162,7 +152,7 @@
             <div class="container">
                 <div class="text-center">
                     <div class="title">
-                        <div class="text-big60">Data Harmonization</div>
+                        <div class="text-big60">DATENHARMONISIERUNG</div>
                     </div>
                     <div class="short-line mx-auto bg-red"></div>
                     <p class="text-p">

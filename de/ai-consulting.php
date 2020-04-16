@@ -56,14 +56,14 @@
                 <h1 class="ml11">
                     <span class="text-wrapper">
                         <span class="line line1"></span>
-                        <span class="letters red fw-600">Accelerate and flawlessly</span>
+                        <span class="letters red fw-600">Beschleunigen Sie die fehlerfreie</span>
                     </span>
                 </h1>
               </div>
-              <div class="text-big60 mb-2">complete your Data <br>Science Projects</div>
+              <div class="text-big60 mb-2">Umsetzung Ihrer Data <br>Science Projekte</div>
               <div class="subtext">
-                <div class="text-s1 animated infinite pulse slower-6s">With innovative task based  pricing</div>
-                <div class="text-s2 animated infinite pulse slower">DSaaS (Data Science as a service)</div>
+                <div class="text-s1 animated infinite pulse slower-6s">Mit innovativen, aufgabenbasierten Preismodell</div>
+                <div class="text-s2 animated infinite pulse slower">DSaaS (Data Science as a Service)</div>
               </div>
              
             </div>
@@ -169,16 +169,14 @@
                                 <img src="img/1.png" class="img-fluid">
                             </div>
                             <div class="title">
-                            DATENEXTRAKTION UND INTEGRATION
+                            Datenextraktion und -integration
                             </div>
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                    Der Transfer von Daten zu und von Systemen und die Erfassung von Datenpipelines, Arbeitsabläufen, 
-                                    Systemen und Prozessen zur Ermöglichung von datenwisschenschaftlichen Tätigkeiten.
+                                    Der Transfer von Daten zu und von Systemen und die Erfassung von Datenpipelines, Arbeitsabläufen, Systemen und Prozessen zur Ermöglichung von datenwisschenschaftlichen Tätigkeiten.
                                     </p>
-                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        Now</a>
+                                    <a href="#contact_us" class="btn btn-round btn-white">Erkundigen Sie sich jetzt</a>
                                 </div>
                             </div>
                         </div>
@@ -200,8 +198,7 @@
                                     Sicherstellung, dass die Daten, die zum Training von maschinellen Lernmodellen verwendet werden, 
                                     fehlerfrei und für die Zwecke des maschinellen Lernens geeignet sind
                                     </p>
-                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        Now</a>
+                                    <a href="#contact_us" class="btn btn-round btn-white">Erkundigen Sie sich jetzt</a>
                                 </div>
                             </div>
                         </div>
@@ -222,8 +219,7 @@
                                     <p class="text-p">
                                     Sicherstellung, dass die relevanten Daten angemessen gekennzeichnet wurden
                                     </p>
-                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        Now</a>
+                                    <a href="#contact_us" class="btn btn-round btn-white">Erkundigen Sie sich jetzt</a>
                                 </div>
                             </div>
                         </div>
@@ -244,8 +240,7 @@
                                     <p class="text-p">
                                     Sicherstellung, dass die Daten, die für das Training von maschinellen Lernmodellen verwendet werden, 
                                     vollständig und für die Zwecke des maschinellen Lernens relevant sind
-                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        Now</a>
+                                    <a href="#contact_us" class="btn btn-round btn-white">Erkundigen Sie sich jetzt</a>
                                 </div>
                             </div>
                         </div>
@@ -266,8 +261,7 @@
                                     <p class="text-p">
                                     KI-gestützten prädiktive Analysen, Warnmeldungen und anderen Funktionen wie Tweaker, Was-wäre-wenn-Analysen, Root Cause Analysen
                                     </p>
-                                    <a href="#contact_us" class="btn btn-round btn-white">Erkundigen 
-                                    Sie sich jetzt</a>
+                                    <a href="#contact_us" class="btn btn-round btn-white">Erkundigen Sie sich jetzt</a>
                                 </div>
                             </div>
                         </div>
@@ -277,7 +271,7 @@
             </div>
             <br>
             <div class="text-center">
-                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Mehr erfahren</a>
+                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Mehr dazu</a>
             </div>
 
         </div>
