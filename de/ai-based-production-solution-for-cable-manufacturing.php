@@ -97,21 +97,18 @@
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1">
-                            AI based Production Planning solution for
+                            KI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG FÜR
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Cable
+                            DIE KABELHERSTELLUNG
                             </div>
-                            <div class="text-big40">
-                            Manufacturing
-                            </div>
-                        </div>
+                         </div>
                         <br>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> 
     </header>
     <!-------------->
 
@@ -131,11 +128,11 @@
                 <div class="col-lg">
                     <div class="box-content-top-left">
                         <ul class="ul-list-bullet">
-                            <li>Reduced changeover times</li>
-                            <li>Reduced inventory costs</li>
-                            <li>Reduced bottlenecks</li>
-                            <li>Reduced costs</li>
-                            <li>Increased uptime and availability of machines</li>
+                            <li>Verringerte Umrüstzeiten</li>
+                            <li>Reduzierte Lagerhaltungskosten</li>
+                            <li>Vermeidung von Bestands-Engpässen</li>
+                            <li>Reduzierte Kosten</li>
+                            <li>Erhöhte Betriebszeit und Maschinenverfügbarkeit.</li>
                         </ul>
                     </div>
                 </div>
@@ -147,12 +144,11 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT <span class="red">AI</span></div>
-                    <h3 class="bold red text-center">SOLUTIONS</h3>
+                    <div class="sec-mainTitle">TVARIT <span class="red">KI</span></div>
+                    <h3 class="bold red text-center">LÖSUNGEN</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We support large and medium sized cable manufacturing organizations in optimizing their production
-                    processes, improving their management systems and achieving higher profitability.
+                Wir unterstützen große und mittelständische Fertigungsunternehmen bei der Optimierung ihrer Produktionsprozesse, der Verbesserung ihrer Managementsysteme und der Erzielung einer höheren Rentabilität.
                 </div>
             </div>
         </div>
@@ -221,7 +217,7 @@
                 <div class="col-lg">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="sec-mainTitle">USE-CASE</div>
+                            <div class="sec-mainTitle">Fallstudie</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
@@ -243,17 +239,17 @@
                 <div class="col-lg order-2 order-lg-1">
                     <div class="px-lg-4 ">
                         <div class="title">
-                            <div class="sec-mainTitle">Benefits</div>
+                            <div class="sec-mainTitle">VORTEILE</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <ul class="ul-list-bullet">
-                                <li>Increased volume output</li>
-                                <li>High OEE</li>
-                                <li>Reduced product and machine changeover times</li>
-                                <li>Real time production view</li>
-                                <li>Reduced inventory costs</li>
-                                <li>Measurable economic benefits</li>
+                                <li>Erhöhte Produktionskapazitätt</li>
+                                <li>Gesteigerte Gesamtanlageneffizienz</li>
+                                <li>Reduzierte Produkt- und Maschinenumstellungszeiten</li>
+                                <li>Echtzeit-Produktionsübersicht</li>
+                                <li>Geringere Lagerhaltungskosten</li>
+                                <li>Messbarer wirtschaftlicher Nutzen</li>
                             </ul>
                         </div>
                     </div>
