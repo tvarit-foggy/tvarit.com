@@ -156,7 +156,7 @@
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
                         <a href="european-data-incubator" target="_blank"
-                   class="btn btn-round btn-red-grd">Know More</a>
+                   class="btn btn-round btn-red-grd">Mehr erfahren</a>
                    </div>
                     </div>
                 </div>
@@ -195,7 +195,7 @@
                                 </li>
                             </ul>
                             <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
-                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know More</a>
+                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren</a>
                         </div>
                     </div>
                 </div>

@@ -325,7 +325,7 @@
                                  </div>
                                  <br>
                                  <div class="form-group">
-                                     <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
+                                     <input type="button" value="Abschcken" id="btn" class="btn btn-round btn-red-grd">
                                  </div>
                                  <div id="snackbar">We Will Contact You Shortly</div>
 
