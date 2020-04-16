@@ -117,14 +117,14 @@
                     <img src="img/EDI_logo.png" class="img-fluid edi_index_logo" style="margin-left: auto;margin-right:auto;display:block">
                     <div class="typography right lh-1" style="text-align:center">
                         <div id="germany-strings" class="stringText">
-                            <span style="text-align:center">YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
+                            <span style="text-align:center">Ihr Partner für industrielle KI Lösungen</span>
                         </div>
                         <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
                         <div class="hdr-prgf2r">
                             <span id="typed-prgf2r"></span>
                             <div class="rw-words-1">
                                 <span>Steigern Sie die Effizienz Ihrer Produktionseinheiten und vermeiden Sie Ausfälle Ihrer Maschinen und Geräte.</span>
-                                <span>Maximieren Sie die Erfolgsrate Ihrer KI-Projekte</span>
+                                <span>Maximieren Sie die Erfolgsrate Ihrer KI-Projekte.</span>
                             </div>
                         </div>
 
@@ -168,7 +168,7 @@
     <div class="section-padding" >
         <div class="container">
             <div class="centerTitle sec-mainTitle">
-            Unsere Angebot
+            Unsere Angebote
             </div>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
@@ -178,7 +178,7 @@
                             <img src="img/ai-solution-1.png">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">KI-Lösungen</p>
+                            <p class="title text-center">KI Lösungen</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
@@ -210,7 +210,7 @@
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                Preisgekrönte KI-Plattform für Ihre Datenwissenschaftler
+                                Preisgekrönte KI Plattform für Ihre Datenwissenschaftler
                                 </li>
                                 <li>
                                 Vollständiger Satz an Werkzeugen zur Analyse von Produktionsdaten und zur ganzheitlichen Entwicklung neuer Anwendungsfälle.
@@ -232,7 +232,7 @@
                             <img src="img/ai-consulting.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">KI-Beratung</p>
+                            <p class="title text-center">KI Beratung</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
@@ -270,11 +270,11 @@
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="sec-mainTitle">Warum Wir??</div>
+                            <div class="sec-mainTitle">Warum Wir?</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                        Wir bieten schnelle und anpassbare KI-Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unser Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.</p>
+                        Wir bieten schnelle und anpassbare KI Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unserer Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.</p>
                         <br>
                     </div>
 
