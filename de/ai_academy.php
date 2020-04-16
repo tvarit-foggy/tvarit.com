@@ -77,14 +77,14 @@
               <h1 class="ml11">
                     <span class="text-wrapper">
                         <span class="line line1"></span>
-                        <span class="letters red fw-600">Make AI understandable</span>
+                        <span class="letters red fw-600">Machen Sie Ihre Mitarbeiter</span>
                     </span>
                 </h1>
-              </div>
-              <div class="text-big60">for your employees</div>
+              </div>  
+              <div class="text-big60">fit für die Anwendung von KI,</div>
               <div class="subtext">
-                <div class="text-s1  animated infinite pulse slower" >by learning from the best AI experts</div>
-                <div class="text-s2 animated infinite pulse slower">in the Germany</div>
+                <div class="text-s1  animated infinite pulse slower" >indem Sie von einigen der besten KI-Experten</div>
+                <div class="text-s2 animated infinite pulse slower">in Deutschland lernen</div>
               </div>
              
             </div>
@@ -99,21 +99,15 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="text centerTitle">
-                <h3 class="innr-sec-mainTitle uppr">Welcome to the <span class="red">AI</span> Academy</h3>
+                <h3 class="innr-sec-mainTitle uppr">Willkommen in der <span class="red">KI</span> Akademie</h3>
                 <div class="short-line bg-red mx-auto"></div>
                 
                 <div class="text-p mb-0">
                   <p class="text-p">
-                        We understand the increasing demand and importance given by the companies to know all about the
-                        possibilities of using AI and data. In our training workshops you will learn about the most
-                        innovative and best solutions to overcome all kinds of challenges which you face in your AI
-                        journey starting from Conceptualization, Validation Data extraction till final AI-enabled
-                        business processes and products.
+                  Wir verstehen die zunehmende Nachfrage und die Bedeutung, welches Unternehmen dem Wissen um die Möglichkeiten der Nutzung von KI und Daten beimessen. In unseren Workshops schulen wir Sie in den innovativsten und besten Lösungen zur Bewältigung aller Arten von Herausforderungen bei der Einführung und Umsetzung von KI in Ihrem Unternehmen, angefangen von der Konzeptualisierung, der Validierungsdatenextraktion bis hin zu den endgültigen KI-fähigen Geschäftsprozessen und Produkten.
                     </p>
                     <p class="text-p mb-0">
-                        Only experienced and highly educated Data Scientists train in our AI Academy. Our team always
-                        focuses on giving sound technical foundations as well as practical applications and best
-                        practices.
+                    In unserer KI-Akademie werden erfahrene und gut ausgebildete Datenwissenschaftler ausgebildet. Unser Team konzentriert sich stets darauf, sowohl solide technische Grundlagen als auch praktische Anwendungen und Best Practices zu vermitteln.
                     </p>
                 </div>
             </div>
