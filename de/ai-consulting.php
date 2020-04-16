@@ -352,12 +352,12 @@
                 <div class="col-lg-6">
                     <div class="lookingBox brdr-black">
                         <div class="text">
-                            <span class="fs-18  fw-400">for more details</span>
-                            <h3 class="fw-900">Contact us</h3>
+                            <span class="fs-18  fw-400">KONTAKTIEREN SIE UNS FÜR</span>
+                            <h3 class="fw-900">WEITERE DETAILS</h3> 
                         </div>
 
                         <div>
-                            <a href="#contact_us" class="btn btn-round btn-red-grd">Click Here</a>
+                            <a href="#contact_us" class="btn btn-round btn-red-grd">Klicken Sie hier</a>
                         </div>
                     </div>
                 </div>
