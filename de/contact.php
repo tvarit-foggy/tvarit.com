@@ -203,17 +203,15 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                            Let's Connect
+                        Haben Sie Fragen oder Anmerkungen?
                         </div>
                         <div class="text-big60">
-                            Contact Us
+                        Wir würden uns freuen, von Ihnen zu hören.
                         </div>
                         <br>
                         <p class="text-p">
-                            Let us get connected and get you updated on how can we help you. Please fill the form below.
-                            We will contact you within 24 hours.
-                        </p>
-
+                        Rufen Sie uns einfach an oder füllen Sie das untenstehende Formular aus. Wir werden uns innerhalb der nächsten 24 Stunden bei Ihnen melden.
+                        </p>                          
                     </div>
                 </div>
             </div>
@@ -268,7 +266,7 @@
             <div class="row justify-content-between formContent">
                 <div class="col-md-7 mb-4 order-2 order-md-1">
                     <div class="text-contact">
-                        Contact Form
+                    KONTAKTFORMULAR
                     </div>
                     <br>
                     <div class="white-box-shadow">
@@ -277,30 +275,30 @@
                                 <input type="text" class="form-control" name="name" id="name" placeholder="Name *">
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" name="email" id="email" placeholder="Email *">
+                                <input type="text" class="form-control" name="email" id="email" placeholder="E-Mail *">
                             </div>
                             <div class="form-row">
                                 <div class="col-md">
                                     <div class="form-group">
                                         <input type="text" class="form-control" name="subject" id="sub"
-                                            placeholder="Subject">
+                                            placeholder="Thema">
                                     </div>
                                 </div>
                                 <div class="col-md">
                                     <div class="form-group">
                                         <input type="text" class="form-control" name="phone" id="phone"
-                                            placeholder="Phone *" onkeypress='validate(event)'>
+                                            placeholder="Telefon *" onkeypress='validate(event)'>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="form-group">
                                 <textarea class="form-control" rows="3" name="msg" id="msg"
-                                    placeholder="Message"></textarea>
+                                    placeholder="Nachricht"></textarea>
                             </div>
                             <br>
                             <div class="form-group text-right">
-                                <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
+                                <input type="button" value="Senden" id="btn" class="btn btn-round btn-red-grd">
                             </div>
                             <div id="snackbar">We Will Contact you Shortly</div>
                             <div id="validation">Fill All the Mandatory Fields</div>
@@ -309,7 +307,7 @@
                 </div>
                 <div class="col-md-4 order-1 order-md-2 mb-md-0">
                     <div class="text-contact">
-                        Contact Info
+                    KONTAKT INFO
                     </div>
                     <br>
                     <div class="ctnDetailBox">
