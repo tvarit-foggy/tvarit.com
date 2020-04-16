@@ -185,7 +185,7 @@
                                     Wir bieten ganzheitliche Lösungen für alle Arten von Hardware-Infrastruktur an
                                 </li>
                                 <li>
-                                    Einsatzbereite KI-Lösungen für Predictive Maintenance, Qualitätsvorhersage, Prozessoptimierung und Produktionsplanung
+                                Einsatzbereite KI Lösungen für Predictive Maintenance, Qualitätsvorhersage, Prozessoptimierung und Produktionsplanung
                                 </li>
                                 <li>
                                       Skalierbare und mehrfach bewährte Technologie
@@ -274,11 +274,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                            Our products and services have been built and designed on the basis of 54+ years of
-                            experience in fortune 500 manufacturing companies. We provide fast and customizable AI
-                            solutions for discrete and process manufacturing. We are continuously improving our
-                            solutions by heavily investing into R&D. We have developed most advanced AI algorithms and
-                            ready to use AI modules to solve all your complex manufacturing problems and needs.</p>
+                        Wir bieten schnelle und anpassbare KI-Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unser Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.</p>
                         <br>
                     </div>
 
@@ -297,8 +293,8 @@
     <section class="section-padding">
         <div class="container">
             <div class="centerTitle">
-                <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
-                <div class="sec-mainTitle">Manufacturing companies</div>
+                <h3 class="bold text-center red mb-0">Wir beherrschen alle Sprachen von </h3>
+                <div class="sec-mainTitle">Fertigungsunternehmen</div>
             </div>
             <br>
             <div class="row">
