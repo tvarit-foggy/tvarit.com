@@ -210,8 +210,7 @@
                         </div>
                         <br>
                         <p class="text-p">
-                        Do you have questions or remarks? We would be pleased to hear from you. 
-                        Simply call us or fill in the form below. We will get back to you within the next 24 hours.
+                        Do you have questions or remarks? We would be pleased to hear from you. Simply call us or fill in the form below. We will get back to you within the next 24 hours.
                         </p>
 
                     </div>
