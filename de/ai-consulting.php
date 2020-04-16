@@ -77,12 +77,12 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <div class="innr-sec-mainTitle ai_predictive">successfully complete your data science projects fast and easy with TV<span class="red">A</span>R<span class="red">I</span>T CONSULTING</div>
+                <div class="innr-sec-mainTitle ai_predictive">ERFOLGREICHE AUSFÜHRUNG IHRER DATA SCIENCE PROJEKTE MIT TV<span class="red">A</span>R<span class="red">I</span>T CONSULTING</div>
                 <div class="short-line mx-auto bg-red"></div>
                 <div class="text-p">
-                    Our experts help you at every stage of your data science projects. We help you in solving key issues
-                    of data extraction, data preparation, data labelling and predictive analytics. We provide both on-site
-                    and remote based consulting services.
+                Unsere Experten unterstützen Sie in jeder Phase Ihrer datenwissenschaftlichen Projekte. 
+                Wir helfen Ihnen bei der Lösung von Schlüsselfragen der Datenextraktion, Datenaufbereitung, 
+                Datenkennzeichnung und prädiktiven Analysen. Wir bieten Beratungsdienste vor Ort und via Webkonferenz an.
                 </div>
             </div>
         </div>
@@ -102,7 +102,7 @@
                         <div class="content">
                             <div class="numbers">200+</div>
                             <div class="text">
-                                Data Science Projects
+                            Data Science Projekte
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                         <div class="content">
                             <div class="numbers">54+</div>
                             <div class="text">
-                                Human years of experience
+                            Jahre an Erfahrung
                             </div>
                         </div>
                     </div>
@@ -130,7 +130,7 @@
                         <div class="content">
                             <div class="numbers">2+</div>
                             <div class="text">
-                                Locations present in Germany
+                            Standorte in Deutschland 
                             </div>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
                         <div class="content">
                             <div class="numbers">20+</div>
                             <div class="text">
-                                Employees
+                            Angestellte
                             </div>
                         </div>
                     </div>
@@ -169,14 +169,13 @@
                                 <img src="img/1.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                DATA EXTRACTION AND INTEGRATION
+                            DATENEXTRAKTION UND INTEGRATION
                             </div>
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        The movement of data to and from systems and enablmenent
-                                        of data pipelines, workflows, systems and processes to facilitate data science
-                                        operations
+                                    Der Transfer von Daten zu und von Systemen und die Erfassung von Datenpipelines, Arbeitsabläufen, 
+                                    Systemen und Prozessen zur Ermöglichung von datenwisschenschaftlichen Tätigkeiten.
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         Now</a>
@@ -193,13 +192,13 @@
                                 <img src="img/2.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                DATA <br>PREPARATION
+                                Datenaufbereitung
                             </div>
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Ensure that the data fed into and train machine learning models
-                                        are clean and for machine learning purposes
+                                    Sicherstellung, dass die Daten, die zum Training von maschinellen Lernmodellen verwendet werden, 
+                                    fehlerfrei und für die Zwecke des maschinellen Lernens geeignet sind
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         Now</a>
@@ -216,13 +215,12 @@
                                 <img src="img/3.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                DATA <br>LABELLING
+                            Daten <br>-Kennzeichnung
                             </div>
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Ensure that the relevant data has been appropriately labelled with
-                                        the required output that needs to be learned
+                                    Sicherstellung, dass die relevanten Daten angemessen gekennzeichnet wurden
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         Now</a>
@@ -239,14 +237,13 @@
                                 <img src="img/4.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                DATA <br>HARMONIZATION
+                            Daten<br>-Harmonisierung
                             </div>
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Ensure that the data fed into and train machine learning models
-                                        are complete and releveant for machine learning purposes
-                                    </p>
+                                    Sicherstellung, dass die Daten, die für das Training von maschinellen Lernmodellen verwendet werden, 
+                                    vollständig und für die Zwecke des maschinellen Lernens relevant sind
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         Now</a>
                                 </div>
@@ -262,16 +259,15 @@
                                 <img src="img/5.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                AI MODEL & <br>INSIGHT CREATION
+                            Erstellung von <br>KI-Modellen
                             </div>
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Perform AI powered predicitve analytics, alerts and other features
-                                        like tweaker, what-if analysis, root cause analysis, etc
+                                    KI-gestützten prädiktive Analysen, Warnmeldungen und anderen Funktionen wie Tweaker, Was-wäre-wenn-Analysen, Root Cause Analysen
                                     </p>
-                                    <a href="#contact_us" class="btn btn-round btn-white">Enquire
-                                        Now</a>
+                                    <a href="#contact_us" class="btn btn-round btn-white">Erkundigen 
+                                    Sie sich jetzt</a>
                                 </div>
                             </div>
                         </div>
@@ -291,7 +287,7 @@
     <div class="section-padding">
         <div class="container">
             <div class="centerTitle sec-mainTitle">
-                YOUR ADVANTAGES
+            IHRE VORTEILE
             </div>
 
             <br>
@@ -303,8 +299,7 @@
                             <img src="img/ai_1.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                            Experience from over 200 Industrial Projects with Fortune 500 companies and National
-                            institutions like NASA
+                        Erfahrung aus über 32 industriellen Data Science Projekten mit Fortune-500-Unternehmen und Institutionen wie der NASA
                         </div>
                     </div>
                 </div>
@@ -314,8 +309,7 @@
                             <img src="img/ai_2.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                            Our Task-based pricing gives you more economic benefits than traditional hour-based pricing
-                            for consulting services
+                        Unser aufgabenbasiertes Preismodell nimmt Ihnen das finanzielle Risiko nicht erfolgreicher Projekte und unerwarteter Schwierigkeiten
                         </div>
                     </div>
                 </div>
@@ -325,7 +319,7 @@
                             <img src="img/ai_3.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                            Agile and use-case based consulting services
+                        Agile und anwendungsorientierte Beratung
                         </div>
                     </div>
                 </div>
@@ -335,8 +329,7 @@
                             <img src="img/ai_4.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                            54+ Human years of experience of academic and real-world experience in solving complex data
-                            science problems by developing practical solutions
+                        Über 54 Jahre an akademischer und praktischer Erfahrung in der Lösung komplexer Data Science Projekte
                         </div>
                     </div>
                 </div>
