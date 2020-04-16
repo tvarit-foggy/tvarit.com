@@ -220,8 +220,7 @@
                                 </li>
                             </ul>
                             <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
-                            style="padding: 12px !important"> Know
-                                More</a>
+                            style="padding: 12px !important"> Mehr erfahren</a>
                         </div>
                     </div>
                 </div>
@@ -245,8 +244,7 @@
                                 Innovatives, aufgabenbasiertes Preismodell
                                 </li>
                             </ul>
-                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
-                                More</a>
+                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren</a>
                         </div>
                     </div>
                 </div>
