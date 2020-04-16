@@ -265,7 +265,7 @@
           <div class="white-box-shadow">
             <div class="text-md-center title">
               <div class="text-first red">weitere wichtige Merkmale der </div>
-              <div class="sec-mainTitle">Tv<span class="red">a</span>r<span class="red">i</span>t</span> <span class="red">KI</span>-Plattform</div>
+              <div class="sec-mainTitle">Tv<span class="red">a</span>r<span class="red">i</span>t</span> <span class="red">KI</span> Plattform</div>
               <div class="short-line mx-md-auto bg-red"></div>
             </div>
             <br>
