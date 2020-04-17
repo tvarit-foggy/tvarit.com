@@ -9,7 +9,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
-    <title>Ai Consulting</title>
+    <title>KI Beratung</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/ai_consulting.css">
@@ -77,7 +77,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">  
-                <div class="innr-sec-mainTitle ai_predictive">ERFOLGREICHE AUSFÜHRUNG IHRER DATA SCIENCE PROJEKTE MIT TV<span class="red">A</span>R<span class="red">I</span>T CONSULTING</div>
+                <div class="innr-sec-mainTitle ai_predictive">ERFOLGREICHE UMSETZUNG IHRER DATA SCIENCE PROJEKTE MIT UNSERER <span class="red">KI </span>BERATUNG</div>
                 <div class="short-line mx-auto bg-red"></div>
                 <div class="text-p">
                 Unsere Experten unterstützen Sie in jeder Phase Ihrer datenwissenschaftlichen Projekte. 
