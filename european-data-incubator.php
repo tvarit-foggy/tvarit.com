@@ -67,8 +67,7 @@
     <div class="section-padding-both-2x" id="downClick">
         <div class="container">
             <div class="text-big40">
-                TVARIT GmbH : Selected by European Data Incubator (EDI) as one
-                of the most innovative industrial AI company in Europe
+            TVARIT GMBH : SELECTED BY EUROPEAN DATA INCUBATOR (EDI) AS ONE OF THE MOST INNOVATIVE INDUSTRIAL AI COMPANY IN EUROPE
             </div>
             <br>
             <div class="col-md-12 row">
@@ -112,11 +111,9 @@
                     href="https://edincubator.eu/2020/02/20/tapas-and-trophies-meet-the-8-fantastic-edi-experiment-phase-winners/">https://edincubator.eu/2020/02/20/tapas-and-trophies-meet-the-8-fantastic-edi-experiment-phase-winners/</a>
             </p>
             <p class="text-p p-content-justify">
-                About Tvarit GmbH: It is a German company based in Frankfurt, Germany. They build and provide AI
-                solutions to solve all kinds of manufacturing problems and data science needs. They provide AI
-                Solutions, AI platform and AI consulting services to successfully complete your all AI and data science
-                projects. Recently, we have achieved many prestigious awards for which we were recognized as one of the
-                most innovative AI company in Europe and Germany.
+            About Tvarit GmbH: It is a German company based in Frankfurt, Germany. 
+            They build and provide AI solutions to solve all kinds of manufacturing problems and data science needs. 
+            They provide AI Solutions, AI platform and AI consulting services to successfully complete your all AI and data science projects. Recently, they have achieved many prestigious awards for which they were recognized as one of the most innovative AI companies in Europe.
             </p>
         </div>
     </div>
@@ -142,7 +139,7 @@
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
+                                class="color">i</span>t</span> - THE TEAM</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
