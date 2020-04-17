@@ -8,5 +8,5 @@ function showSlides() {
   var url = "url(" + imgUrls[slideIndex-1] +")";
   headerBgSlide.style.backgroundImage = url;
   headerBgSlide.style.transition =   "0.8s ease";
-  setTimeout(showSlides, 2500);
+  setTimeout(showSlides, 7000);
 }
