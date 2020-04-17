@@ -229,7 +229,7 @@
                             </div>
                             <div class="content">
                                 <p class="text-p">
-                                    In one day, you will learn the basics of supervised machine learning
+                                Innerhalb eines Tages lernen Sie die Grundlagen spezialisiert auf das unüberwachte maschinelle Lernen.
                                 </p>
                             </div>
                         </div>
