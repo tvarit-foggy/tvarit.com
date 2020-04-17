@@ -144,7 +144,7 @@ div.fadeMe {
                                             <a href="ai-consulting" class="sub-Link">KI Beratung</a>
                                         </li>
                                         <li>
-                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
+                                            <a href="ai_academy" class="sub-Link">AI & Data Academy</a>
                                         </li>
                                     </ul>
                                 </div>
