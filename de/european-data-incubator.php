@@ -67,8 +67,7 @@
     <div class="section-padding-both-2x" id="downClick">
         <div class="container">
             <div class="text-big40">
-                TVARIT GmbH : Selected by European Data Incubator (EDI) as one
-                of the most innovative industrial AI company in Europe
+            TVARIT GMBH: AUSGEZEICHNET VOM EUROPEAN DATA INCUBATOR (EDI) ALS EINES DER INNOVATIVSTEN INDUSTRIELLEN KI UNTERNEHMEN IN GANZ EUROPA
             </div>
             <br>
             <div class="col-md-12 row">
@@ -80,43 +79,35 @@
                 </div>
             </div>
             <br>
-            <h6>Bilbao, Spain | 20th Feb 2020</h6>
+            <h6>Bilbao, Spanien | 20. Februar 2020</h6>
             <p class="text-medium fw-700 p-content-justify">
-                The German tech company Tvarit GmbH has again proved its strength and technology competency by being one
-                of the winners of the EDI 2020 experiment phase round in Spain.
+            Das deutsche Technologieunternehmen Tvarit GmbH hat seine Stärke und Technologiekompetenz erneut unter Beweis gestellt und wurde als einer der Gewinner der 
+            EDI-2020-Experimentierphase in Spanien ausgezeichnet.
             </p>
             <p class="text-p p-content-justify">
-                Tvarit has developed an innovative AI solution to optimize instore ambient conditions to increase sales
-                for one of the largest retail companies in Europe. With the rapid increase in online shopping, it is
-                becoming more and more difficult for retailers to attract customers to their stores. To solve this
-                complex and critical problem, Tvarit used both internal data like Point of Sales (PoS) data, environment
-                sensors data, promotion data, mapping table and external data such as weather, holiday, demographics and
-                so on to create the AI model with best use-cases and highest accuracy.
+            Tvarit hat für eines der größten Einzelhandelsunternehmen Europas eine innovative KI-Lösung zur 
+             Optimierung der Umgebungsbedingungen in den Läden entwickelt. Ziel war es hierbei, 
+             den Umsatz zu steigern. 
+             Mit der rasanten Zunahme des Online-Shoppings wird es für Einzelhändler immer schwieriger, Kunden in ihre Geschäfte zu locken. Um dieses komplexe und kritische Problem zu lösen, nutzte Tvarit sowohl interne Daten wie Point of Sales (PoS)-Daten, Daten von Umgebungssensoren, Werbedaten, Mapping-Tabellen als auch externe Daten wie Wetter, Urlaub, demografische Daten usw., um das KI-Modell mit  höchster Genauigkeit zu erstellen.
             </p>
             <p class="text-p p-content-justify">
-                Tvarit also prepared the dashboards so that customer can see all the relevant KPIs to measure and
-                compare store performances, predictive analytics to estimate basket size and demand for each category up
-                to 10 days in advance and prescriptive analytics to suggest what should be the ambient conditions,
-                discounts and price the customer should keep to increase sales. Tvarit developed a complete and true AI
-                solution for retail companies by connecting all the main business processes by using their domain
-                knowledge and AI expertise.
+            Zudem visualisierte Tvarit die Ergebnisse der Analysen in individuellen Dashboards, 
+            sodass der Kunde alle relevanten KPIs sehen kann, um die Leistung der Geschäfte zu messen und zu vergleichen. 
+            Prädiktive Analysen schätzen die Korbgröße und die Nachfrage für jede Kategorie bis zu 10 Tage im Voraus und präskriptive Analysen, geben konkrete 
+            Vorschläge, welche Umgebungsbedingungen, Rabatte und Preise der Kunde einhalten sollte, um den Umsatz zu steigern. Tvarit hat eine komplette und echte KI-Lösung für Einzelhandelsunternehmen entwickelt, indem es alle wichtigen Geschäftsprozesse mit Hilfe seines Domänenwissens und seiner KI-Expertise verknüpft hat.
             </p>
             <p class="text-p p-content-justify">
-                Finally, EDI announced Tvarit as one of the 8 winners among 490 EU companies, by comprehensively
-                evaluating their solution on both technical and business scale. As result of this, Tvarit will
-                participate in the last phase of EDI incubator, namely EVOLVE, where it will receive 100k euros of
-                equity-free funding to turn this solution into a marketable solution.
+            Für die KI-Lösung wurde Tvarit vom EDI als einer der 8 Gewinner unter 490 KI-Unternehmen aus ganz Europa ausgezeichnet. 
+            Hierfür wurde die Lösung sowohl in technischer als auch in geschäftlicher Hinsicht umfassend bewertet. 
+            Infolgedessen wird Tvarit an der letzten Phase des EDI-Inkubators, nämlich EVOLVE, teilnehmen, wo das Unternehmen 100.000 Euro an eigenkapitalfreier Finanzierung erhalten wird, um diese Lösung in eine marktfähige Lösung zu verwandeln.
             </p>
             <p class="text-p p-content-justify">
-                Further information about it can be found at <a target="_blank"
+            Weitere Informationen erhalten Sie unter <a target="_blank"
                     href="https://edincubator.eu/2020/02/20/tapas-and-trophies-meet-the-8-fantastic-edi-experiment-phase-winners/">https://edincubator.eu/2020/02/20/tapas-and-trophies-meet-the-8-fantastic-edi-experiment-phase-winners/</a>
             </p>
             <p class="text-p p-content-justify">
-                About Tvarit GmbH: It is a German company based in Frankfurt, Germany. They build and provide AI
-                solutions to solve all kinds of manufacturing problems and data science needs. They provide AI
-                Solutions, AI platform and AI consulting services to successfully complete your all AI and data science
-                projects. Recently, we have achieved many prestigious awards for which we were recognized as one of the
-                most innovative AI company in Europe and Germany.
+            Über die Tvarit GmbH: Tvarit ist ein deutsches Unternehmen mit Sitz in Frankfurt, Deutschland und entwickelt KI-Lösungen für alle Arten von Fertigungsproblemen und datenwissenschaftlichen Anforderungen. 
+            Das Unternehmen bietet KI-Lösungen, eine KI-Plattform und KI-Beratungsdienste an, um KI- und datenwissenschaftliche Projekte erfolgreich abzuschließen. Kürzlich erhielt TvaritIn letzter Zeit haben sie viele prestigeträchtige Auszeichnungen erhalten, für die sie als eines der innovativsten KI-Unternehmen in Europa anerkannt wurden.
             </p>
         </div>
     </div>
@@ -142,12 +133,11 @@
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
+                                class="color">i</span>t</span>- DAS TEAM</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
-                    We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing
-                    vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
+                Wir haben unseren Sitz in Frankfurt am Main und verfügen über die perfekte Team-Zusammensetzung - ein deutscher Gründer, der ein enormes Know-how im Maschinenbau mitbringt, gepaart mit der hochwertigen Software-Expertise der indischen Gründer.
                 </div>
             </div>
         </div>
