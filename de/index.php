@@ -272,7 +272,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                        Wir bieten schnelle und anpassbare KI-Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unser Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.                        <br>
+                        Wir bieten schnelle und anpassbare KI Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unser Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.                        <br>
                     </div>
 
                 </div>
