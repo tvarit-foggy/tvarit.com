@@ -134,8 +134,7 @@
                         </div>
 
                         <div class="more">
-                            <p class="text-p">Benefit from our knowledge of over 200+ Industrial projects while working
-                                with Fortune 500 companies
+                            <p class="text-p">Benefit from our knowledge of over 200+ Industrial projects while working with Fortune 500 companies.
                             </p>
                         </div>
 
@@ -163,7 +162,7 @@
 
                         <div class="more">
                             <p class="text-p">
-                                Learn from the best AI, Data Science and machine learning experts in your company
+                            Learn from the best AI, Data Science and machine learning experts at your facility
                             </p>
                         </div>
 
