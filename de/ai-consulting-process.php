@@ -9,7 +9,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
-    <title>AI Consulting Process</title>
+    <title>KI Beratungs-Prozess</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">

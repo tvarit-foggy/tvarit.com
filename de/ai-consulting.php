@@ -62,7 +62,7 @@
               </div>
               <div class="text-big60 mb-2">Umsetzung Ihrer Data <br>Science Projekte</div>
               <div class="subtext">
-                <div class="text-s1 animated infinite pulse slower-6s">Mit innovativen, aufgabenbasierten Preismodell</div>
+                <div class="text-s1 animated infinite pulse slower-6s">MIt innovativem, aufgabenbasiertem Preismodell</div>
                 <div class="text-s2 animated infinite pulse slower">DSaaS (Data Science as a Service)</div>
               </div>
              
@@ -76,8 +76,8 @@
     <!------------------------ CONSULTING start --------------------->
     <div class="section-padding" id="downClick">
         <div class="container">
-            <div class="title centerTitle">
-                <div class="innr-sec-mainTitle ai_predictive">ERFOLGREICHE AUSFÜHRUNG IHRER DATA SCIENCE PROJEKTE MIT TV<span class="red">A</span>R<span class="red">I</span>T CONSULTING</div>
+            <div class="title centerTitle">  
+                <div class="innr-sec-mainTitle ai_predictive">ERFOLGREICHE UMSETZUNG IHRER DATA SCIENCE PROJEKTE MIT UNSERER <span class="red">KI </span>BERATUNG</div>
                 <div class="short-line mx-auto bg-red"></div>
                 <div class="text-p">
                 Unsere Experten unterstützen Sie in jeder Phase Ihrer datenwissenschaftlichen Projekte. 
@@ -212,7 +212,7 @@
                                 <img src="img/3.png" class="img-fluid">
                             </div>
                             <div class="title">
-                            Daten <br>-Kennzeichnung
+                            Daten-Kennzeichnung
                             </div>
                             <div class="content">
                                 <div>
@@ -233,7 +233,7 @@
                                 <img src="img/4.png" class="img-fluid">
                             </div>
                             <div class="title">
-                            Daten<br>-Harmonisierung
+                            Daten-Harmonisierung
                             </div>
                             <div class="content">
                                 <div>
@@ -259,7 +259,7 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                    KI-gestützten prädiktive Analysen, Warnmeldungen und anderen Funktionen wie Tweaker, Was-wäre-wenn-Analysen, Root Cause Analysen
+                                    KI-gestützte prädiktive Analysen, Warnmeldungen und anderen Funktionen wie Tweaker, Was-wäre-wenn-Analysen, Root Cause Analysen
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Erkundigen Sie sich jetzt</a>
                                 </div>
@@ -271,7 +271,7 @@
             </div>
             <br>
             <div class="text-center">
-                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Mehr dazu</a>
+                <a href="ai-consulting-process" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Mehr erfahren</a>
             </div>
 
         </div>
@@ -293,7 +293,7 @@
                             <img src="img/ai_1.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                        Erfahrung aus über 32 industriellen Data Science Projekten mit Fortune-500-Unternehmen und Institutionen wie der NASA
+                        Erfahrung Aus Über 32 Industriellen Data Science Projekten mit Fortune-500-Unternehmen und Institutionen wie der NASA
                         </div>
                     </div>
                 </div>
@@ -303,7 +303,7 @@
                             <img src="img/ai_2.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                        Unser aufgabenbasiertes Preismodell nimmt Ihnen das finanzielle Risiko nicht erfolgreicher Projekte und unerwarteter Schwierigkeiten
+                        Unser Aufgabenbasiertes Preismodell nimmt Ihnen das finanzielle Risiko nicht erfolgreicher Projekte und unerwarteter Schwierigkeiten
                         </div>
                     </div>
                 </div>
@@ -341,8 +341,8 @@
                 <div class="col-lg-6">
                     <div class="lookingBox rerBg-grd">
                         <div class="text text-white">
-                            <span class="fs-18  fw-400">Request for free teaser</span>
-                            <h3 class="fw-900">for one day</h3>
+                            <span class="fs-18  fw-400">BEANTRAGEN SIE EINE KOSTENLOSE</span>
+                            <h3 class="fw-900">EIN-TAGES BERATUNG</h3>
                         </div>
                         <div>
                             <a href="#contact_us" class="btn btn-round btn-white">Klicken Sie hier</a>
