@@ -79,7 +79,7 @@
                         <br>
                         <div>
                             <p class="text-p txt-justify" style="width:90%">
-                            We are German company based in Frankfurt, Germany. We build and provide AI solutions to solve all kinds of manufacturing problems and data science needs. We enable businesses to make smart and informed decisions by deriving actionable and valuable insights from a sea of data. We provide ready to use AI Solutions, our AI platform and AI consulting services to successfully complete all your AI and data science projects. Recently, we have achieved many prestigious awards for which we were recognized as the most innovative AI company in Europe and Germany.
+                            We are German company based in Frankfurt, Germany. We build and provide AI solutions to solve all kinds of manufacturing problems and data science needs. We enable businesses to make smart and informed decisions by deriving actionable and valuable insights from a sea of data. We provide AI Solutions, our AI platform and AI consulting services to successfully complete all your AI and data science projects. Recently, we have recieved many prestigious awards for which we have been awarded as one of the most innovative AI companies in Europe.
                             </p>
                         </div>
 
