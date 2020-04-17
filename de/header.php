@@ -91,7 +91,7 @@ div.fadeMe {
                                         </li>
                                         <li>
                                             <a href="predictive-maintenance-for-industrial-electric-motors" class="sub-Link">PREDICTIVE MAINTENANCE FÜR
-INDUSTRIELLE ELEKTROMOTOREN</a>
+                                                INDUSTRIELLE ELEKTROMOTOREN</a>
                                         </li>
                                        
                                     </ul>

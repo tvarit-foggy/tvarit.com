@@ -117,7 +117,7 @@
                     <img src="img/EDI_logo.png" class="img-fluid edi_index_logo" style="margin-left: auto;margin-right:auto;display:block">
                     <div class="typography right lh-1" style="text-align:center">
                         <div id="germany-strings" class="stringText">
-                            <span style="text-align:center">Ihr Partner für industrielle KI Lösungen</span>
+                            <span style="text-align:center">Ihr Partner für industrielle KI Lösungen.</span>
                         </div>
                         <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
                         <div class="hdr-prgf2r">
@@ -151,7 +151,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <!-- <div class="imgW-more"> -->
-                            <p class="text-p">Im Rahmen eine EU Horizon 2020 Projektes wurden wir vom European Data Incubator als eines der besten 8 von insgesamt 490 KI-Unternehmen in ganz Europa ausgezeichnet.
+                            <p class="text-p">Im Rahmen eines EU Horizon 2020 Projektes wurden wir vom European Data Incubator als eines der besten 8 von insgesamt 490 KI-Unternehmen in ganz Europa ausgezeichnet.
                             </p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
@@ -272,8 +272,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                        Wir bieten schnelle und anpassbare KI Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unserer Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.</p>
-                        <br>
+                        Wir bieten schnelle und anpassbare KI-Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unser Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.                        <br>
                     </div>
 
                 </div>

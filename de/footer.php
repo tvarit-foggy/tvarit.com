@@ -247,10 +247,9 @@
                          <h3>Wir arbeiten für SIe</h3>
                          <div class="ftaboutmore">
                              <p class="text-p">
-                             Industry 4.0 ist mehr als nur ein auffälliges Schlagwort. Ein Zusammenfluss von Trends und Technologien revolutionieren Fertigungsprozesse auf allen Ebenen. Unter anderem auch, dass Maschinen Ihre Prozesse und Einstellungen automatisiert mit Hilfe von KI optimieren, um komplexe Aufgaben zu erfüllen.
-                             </p>
+                             Industry 4.0 ist mehr als nur ein auffälliges Schlagwort. Ein Zusammenfluss von Trends und Technologien revolutionieren Fertigungsprozesse auf allen Ebenen. Unter anderem auch, dass Maschinen Ihre Prozesse und Einstellungen automatisiert mit Hilfe von KI optimieren, um komplexe Aufgaben zu erfüllen. Für die meisten sind diese Konzepte jedoch ziemlich weit von der heutigen Realität entfernt. Deshalb arbeiten wir bei Tvarit AI unermüdlich daran, Ihr Unternehmen und Ihre Prozesse fortschrittlicher und effizienter zu gestalten. Für Fragen oder weitere Informationen stehen wir Ihnen jederzeit gerne zur Verfügung. Willkommen bei Tvarit AI, Willkommen in der modernen Fertigung.                             </p>
                              <p class="text-p">
-                             Für die meisten sind diese Konzepte jedoch ziemlich weit von der heutigen Realität entfernt. Deshalb arbeiten wir bei Tvarit AI unermüdlich daran, Ihr Unternehmen und Ihre Prozesse fortschrittlicher und effizienter zu gestalten. Für Fragen oder weitere Informationen stehen wir Ihnen jederzeit gerne zur Verfügung. Willkommen bei Tvarit AI, Willkommen in der modernen Fertigung.
+                             Für die meisten sind diese Konzepte jedoch ziemlich weit von der heutigen Realität entfernt. Deshalb arbeiten wir bei Tvarit unermüdlich daran, Ihr Unternehmen und Ihre Prozesse fortschrittlicher und effizienter zu gestalten. Für Fragen oder weitere Informationen stehen wir Ihnen jederzeit gerne zur Verfügung. Willkommen bei Tvarit, Willkommen in der modernen Fertigung.
                              </p>
                          </div>
                      </div>
