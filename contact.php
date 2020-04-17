@@ -247,7 +247,7 @@
                         <div class="text">
                         <h3 class="fw-900">Tobias Gundermann</h3>
                         <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
-                        <a href="tel:+49 179 2429893"><span class="fs-18  fw-400">+49 179 2429893</span></a><br><br>
+                        <a href="tel:+49 171 2251178"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
                         <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400" style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
                             
                         </div>
