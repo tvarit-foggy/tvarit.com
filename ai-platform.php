@@ -77,7 +77,7 @@
           <div class="innr-sec-mainTitle mb-0">Witness the most integrated and <br> complete <span class="red">AI</span> Platform</div>
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
-          Tvarit AI is an award winning AI platform that providing powerful tools for all data science acitivites in manufacturing. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques - enabling you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know-how of people working in your organizations so that you can customize and create AI models to your specific needs. It is designed for the best user-experience through a clear design and clear workflows by leveraging state-of-the-art AI technology.
+          Tvarit AI is an award winning AI platform. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the newest and most innovative AI techniques - enabling you to create solid business use-cases with a 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models to your specific needs. It is designed for the best user-experience through a clear design and clear workflows by leveraging state-of-the-art AI technology.
           </div>
         </div>
 
@@ -154,7 +154,6 @@
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Algorithms specifically optimized for Machine Sensor Data, ERP data, QC lab data</li>
@@ -167,7 +166,6 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5 order-3 order-md-1">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Detects seasonality and trends </li>
@@ -202,7 +200,6 @@
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Gives you most accurate AI models on the basis of largest number of algorithms used in the platform </li>
@@ -229,7 +226,7 @@
                 <h4 class="title">Evaluation:</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Tweaker: Prescriptive Analytics that providing info to which degree the process parameters need to be adjusted in order to recieve the desired output</li>
+                  <li>Tweaker: Prescriptive analyses that provide information on the extent to which process parameters should be adjusted to achieve a desired result</li>
                   <li>Global/Local root cause analysis</li>
                 </ul>
             </div>
