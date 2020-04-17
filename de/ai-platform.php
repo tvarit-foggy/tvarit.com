@@ -74,11 +74,10 @@
     <div class="section-padding" id="downClick">
       <div class="container">
         <div class="centerTitle">   
-          <div class="innr-sec-mainTitle mb-0">Die umfassendste und vollständigste <span class="red">KI</span> Plattform!</div>
+          <div class="innr-sec-mainTitle mb-0">DIE UMFASSENDSTE UND VOLLSTÄNDIGSTE <br><span class="red">KI</span> PLATTFORM</div>
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
-          Tvarit AI ist eine preisgekrönte KI Plattform, die leistungsstarke Werkzeuge für alle datenwissenschaftlichen Aktivitäten in der Fertigung bietet. Sie bringt umfassendes Wissen und Erkenntnisse aus der Erfahrung von Datenwissenschaftlern, die in den 500 größten Produktionsunternehmen arbeiten, zusammen mit den neuen und innovativsten KI-Techniken - und ermöglicht Ihnen so die Erstellung solider Geschäftsfälle mit 100%iger Erfolgsquote. Es bietet auch die Möglichkeit, das Wissen und Know-how der in Ihren Unternehmen tätigen Personen zu erfassen, so dass Sie die KI-Modelle an Ihre spezifischen Bedürfnisse anpassen und erstellen können. Die Software wurde für die beste Benutzererfahrung durch ein klares Design und klare Arbeitsabläufe unter Verwendung modernster KI-Technologie entwickelt.
-          </div>
+          Tvarit AI ist eine preisgekrönte KI Plattform, die Ihnen leistungsstarke Werkzeuge für alle datenwissenschaftlichen Aktivitäten in der Fertigung bietet. Sie basiert auf umfassenden Wissen und Erkenntnisse aus der Zusammenarbeit mit einigen der 500 größten Produktionsunternehmen, gepaart mit den neuen und innovativsten KI-Techniken - und ermöglicht Ihnen so die Umsetzung profitabler Anwendungsfälle mit 100%iger Erfolgsquote. Unsere Plattform bietet auch die Möglichkeit, das Wissen und Know-how der in Ihren Unternehmen tätigen Personen zu erfassen, so dass Sie die KI-Modelle individuell für Ihre spezifischen Bedürfnisse anpassen und erstellen können. Die Software wurde für die beste Benutzererfahrung durch ein klares Design und klare Arbeitsabläufe unter Verwendung modernster KI-Technologie entwickelt </div>
         </div>
 
       </div>
@@ -154,7 +153,6 @@
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">automatische </h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Speziell für Maschinensensordaten, ERP-Daten und QC-Labordaten optimierte Algorithmen</li>
@@ -167,7 +165,6 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5 order-3 order-md-1">
             <div class="timelineStep">
-                <h4 class="title">automatische </h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Erkennung von Saisonalitäten und Trends </li>
@@ -202,7 +199,6 @@
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">automatische </h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Erstellung genauster KI-Modelle unter Nutzung der Vielzahl an in unserer Plattform integrierten Algorithmen  </li>
@@ -455,7 +451,7 @@
                 <img src="img/Ai_benefit/03.svg" class="img-fluid">
               </div>
               <p class="text-p">
-              Reduzieren Sie die benötigte Zeit bis zur Umsetzung von KI-Projekten
+              Beschleunigte Umsetzung von KI-Projekten
               </p>
             </div>
           </div>
