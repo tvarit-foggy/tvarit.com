@@ -79,7 +79,7 @@
                         <br>
                         <div>
                             <p class="text-p txt-justify" style="width:90%">
-                            Wir sind ein deutsches Unternehmen mit Sitz in Frankfurt. Wir entwickeln und liefern KI-Lösungen zur Lösung aller Arten von Fertigungsproblemen und datenwissenschaftlichen Anforderungen. Wir ermöglichen es Unternehmen, intelligente und fundierte Entscheidungen zu treffen, indem wir aus einem Meer von Daten verwertbare und wertvolle Erkenntnisse ableiten. Wir bieten einsatzbereite KI-Lösungen, unsere KI-Plattform und KI-Beratungsdienste, um all Ihre KI- und Data Science Projekte erfolgreich abzuschließen. In letzter Zeit haben wir viele renommierte Auszeichnungen erhalten, in denen wir als innovativstes KI-Unternehmen in Europa anerkannt wurden.
+                            Wir sind ein deutsches Unternehmen mit Sitz in Frankfurt und entwickeln individuelle KI-Lösungen für alle Arten von Fertigungsproblemen und datenwissenschaftlichen Anforderungen. Wir ermöglichen es Unternehmen, intelligente und fundierte Entscheidungen zu treffen, indem wir aus einem Meer von Daten verwertbare und wertvolle Erkenntnisse ableiten. Hierfür bieten wir einsatzbereite KI-Lösungen, unsere KI-Plattform und KI-Beratungsdienste zur erfolgreichen Umsetzung von Data Science und KI-Projekten. In letzter Zeit haben wir viele renommierte Auszeichnungen erhalten, in denen wir unter anderem als eines der innovativsten KI-Unternehmen in ganz Europa ausgezeichnet wurden.
                             </p>
                         </div>
 
@@ -371,7 +371,7 @@
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Daten-Experte  und Amateur-Physiker.</li>
-                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie Institut: IIT Bombay</li>
+                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie-Institut: IIT Bombay</li>
                                 <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
                             </ul>
                             <div class="social-icon">
