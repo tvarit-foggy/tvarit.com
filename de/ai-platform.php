@@ -77,8 +77,7 @@
           <div class="innr-sec-mainTitle mb-0">Die umfassendste und vollständigste <span class="red">KI</span> Plattform!</div>
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
-          Tvarit AI ist eine preisgekrönte KI Plattform, die leistungsstarke Werkzeuge für alle datenwissenschaftlichen Aktivitäten in der Fertigung bietet. Sie bringt umfassendes Wissen und Erkenntnisse aus der Erfahrung von Datenwissenschaftlern, die in den 500 größten Produktionsunternehmen arbeiten, zusammen mit den neuen und innovativsten KI-Techniken - und ermöglicht Ihnen so die Erstellung solider Geschäftsfälle mit 100%iger Erfolgsquote. Es bietet auch die Möglichkeit, das Wissen und Know-how der in Ihren Unternehmen tätigen Personen zu erfassen, so dass Sie die KI-Modelle an Ihre spezifischen Bedürfnisse anpassen und erstellen können. Die Software wurde für die beste Benutzererfahrung durch ein klares Design und klare Arbeitsabläufe unter Verwendung modernster KI-Technologie entwickelt.
-          </div>
+          Tvarit AI ist eine preisgekrönte KI Plattform, die Ihnen leistungsstarke Werkzeuge für alle datenwissenschaftlichen Aktivitäten in der Fertigung bietet. Sie basiert auf umfassenden Wissen und Erkenntnisse aus der Zusammenarbeit mit einigen der 500 größten Produktionsunternehmen, gepaart mit den neuen und innovativsten KI-Techniken - und ermöglicht Ihnen so die Umsetzung profitabler Anwendungsfälle mit 100%iger Erfolgsquote. Unsere Plattform bietet auch die Möglichkeit, das Wissen und Know-how der in Ihren Unternehmen tätigen Personen zu erfassen, so dass Sie die KI-Modelle individuell für Ihre spezifischen Bedürfnisse anpassen und erstellen können. Die Software wurde für die beste Benutzererfahrung durch ein klares Design und klare Arbeitsabläufe unter Verwendung modernster KI-Technologie entwickelt </div>
         </div>
 
       </div>
@@ -455,7 +454,7 @@
                 <img src="img/Ai_benefit/03.svg" class="img-fluid">
               </div>
               <p class="text-p">
-              Reduzieren Sie die benötigte Zeit bis zur Umsetzung von KI-Projekten
+              Beschleunigte Umsetzung von KI-Projekten
               </p>
             </div>
           </div>
