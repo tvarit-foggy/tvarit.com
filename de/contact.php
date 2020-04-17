@@ -206,7 +206,7 @@
                         Haben Sie Fragen oder Anmerkungen?
                         </div>
                         <div class="text-big60">
-                        Wir würden uns freuen, von Ihnen zu hören.
+                        WIR FREUEN UNS, VON IHNEN ZU HÖREN.
                         </div>
                         <br>
                         <p class="text-p">
@@ -246,7 +246,7 @@
                         <div class="text">
                         <h3 class="fw-900">Tobias Gundermann</h3>
                         <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
-                        <a href="tel:+49 179 2429893"><span class="fs-18  fw-400">+49 179 2429893</span></a><br><br>
+                        <a href="tel:+49 171 2251178"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
                         <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400" style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
                             
                         </div>
@@ -307,16 +307,16 @@
                 </div>
                 <div class="col-md-4 order-1 order-md-2 mb-md-0">
                     <div class="text-contact">
-                    KONTAKT INFO
+                    KONTAKTINFORMATIONEN
                     </div>
                     <br>
                     <div class="ctnDetailBox">
-                        <h4 class="red">Address</h4>
+                        <h4 class="red">Adresse</h4>
                         <p class="text-p">Hanauer Landstraße 521,<br> 60386 Frankfurt am Main<br> Germany</p>
                     </div>
 
                     <div class="ctnDetailBox">
-                        <h4 class="red">Phone</h4>
+                        <h4 class="red">Telefon</h4>
                         <a href="tel:+49 173 835 1380"><p class="text-p">+49 173 835 1380</p></a>
                     </div>
 
@@ -327,7 +327,7 @@
 
                     <div class="ctnDetailBox">
                         <div class="ft-social">
-                            <h3>Disclaimer</h3>
+                            <h3>Haftungsausschluss</h3>
                             <div class="ft-links">
                                 <a href="impressum">Impressum</a>
                                 <a href="datenschutz">Datenschutz</a>
