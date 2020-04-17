@@ -104,10 +104,10 @@
                 
                 <div class="text-p mb-0">
                   <p class="text-p">
-                  Wir verstehen die zunehmende Nachfrage und die Bedeutung, welches Unternehmen dem Wissen um die Möglichkeiten der Nutzung von KI und Daten beimessen. In unseren Workshops schulen wir Sie in den innovativsten und besten Lösungen zur Bewältigung aller Arten von Herausforderungen bei der Einführung und Umsetzung von KI in Ihrem Unternehmen. Angefangen von der Konzeptualisierung, der Validierungsdatenextraktion bis hin zu den endgültigen KI-fähigen Geschäftsprozessen und Produkten.
+                  Wir verstehen die zunehmende Nachfrage und die Bedeutung, welches Unternehmen dem Wissen um die Möglichkeiten der Nutzung von KI und Daten beimessen. In unseren Workshops schulen wir Sie in den innovativsten und besten Lösungen zur Bewältigung aller Arten von Herausforderungen bei der Einführung und Umsetzung von KI in Ihrem Unternehmen. Angefangen von der Konzeptualisierung, der Datenextraktion und -Aufbereitung bis hin zu der Erstellung von KI-Modellen und prädiktiven und präskriptiven Analysen.
                     </p>
                     <p class="text-p mb-0">
-                    In unserer KI-Akademie werden erfahrene und gut ausgebildete Datenwissenschaftler ausgebildet. Unser Team konzentriert sich stets darauf, sowohl solide technische Grundlagen als auch praktische Anwendungen und Best Practices zu vermitteln.
+                    Unsere Schulungen werden ausschließlich durch erfahrene und gut ausgebildete Data Scientists organisiert und durchgeführt. Unser Team konzentriert sich stets darauf, sowohl solide technische Grundlagen als auch praktische Anwendungen und Best Practices zu vermitteln.
                     </p>
                 </div>
             </div>
@@ -119,7 +119,7 @@
     <div class="section-padding">
         <div class="container">
             <div class="centerTitle text-big60">
-                The Advantages
+            IHRE VORTEILE
             </div>
 
             <br>
@@ -189,11 +189,11 @@
                                 <img src="img/YWl/1.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                Creation of AI use-cases
+                            Erstellung von KI-Anwendungen
                             </div>
                             <div class="content">
                                 <p class="text-p">
-                                    In one day, you will be able to create your own AI use-cases
+                                Innerhalb eines Tages lernen Sie, wie Sie praktische KI-Anwendung in Ihrem Unternehemen entwickeln.
                                 </p>
                             </div>
                         </div>
@@ -207,11 +207,11 @@
                                 <img src="img/YWl/2.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                Machine Learning training for beginners
+                            Maschinelles Lernen und KI für Beginner.
                             </div>
                             <div class="content">
                                 <p class="text-p">
-                                    In one day, you will learn the basics of machine learning
+                                Innerhalb eines Tages vermitteln wir Ihnen die relevanten Grundlagen von Machine Learning.
                                 </p>
                             </div>
                         </div>
@@ -225,11 +225,11 @@
                                 <img src="img/YWl/3.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                Supervised machine learning for beginners
+                            Überwachtes maschinelles Lernen für Beginner.
                             </div>
                             <div class="content">
                                 <p class="text-p">
-                                    In one day, you will learn the basics of supervised machine learning
+                                Innerhalb eines Tages lernen Sie die Grundlagen spezialisiert auf das unüberwachte maschinelle Lernen.
                                 </p>
                             </div>
                         </div>
@@ -243,11 +243,11 @@
                                 <img src="img/YWl/4.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                Unsupervised machine learning for beginners
+                            Unüberwachtes maschinelles Lernen für Beginner.
                             </div>
                             <div class="content">
                                 <p class="text-p">
-                                    In one day, you will learn the basics of unsupervised machine learning
+                                Innerhalb eines Tages lernen Sie die Grundlagen spezialisiert auf das unüberwachte maschinelle Lernen.
                                 </p>
                             </div>
                         </div>
@@ -261,11 +261,11 @@
                                 <img src="img/YWl/5.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                Evaluation of AI/ML Models
+                            Bewertung von KI/ML-Modellen
                             </div>
                             <div class="content">
                                 <p class="text-p">
-                                    In one day, you will learn the evaluation of AI/ML models
+                                Innerhalb eines Tages lernen Sie, wie Sie KI/ML-Modelle bewerten.
                                 </p>
                             </div>
                         </div>
@@ -279,12 +279,11 @@
                                 <img src="img/YWl/6.png" class="img-fluid">
                             </div>
                             <div class="title">
-                                AI and Data Science master journey for executives
+                            Künstliche Intelligenz und maschinelles Lernen für Führungskräfte
                             </div>
                             <div class="content">
                                 <p class="text-p">
-                                    We also provide special tailor made training to senior executives who want to
-                                    successfully drive digitalization and complete their AI/ML based projects
+                                Speziell zugeschnittene Schulungen für Führungskräfte an, die die Digitalisierung im Unternehmen effektiv vorantreiben und Ihre AI/ML-basierten Projekte erfolgreich abschließen möchten.
                                 </p>
                             </div>
                         </div>
@@ -301,7 +300,7 @@
         <div class="container">
 
             <div class="centerTitle text-big60">
-                Your Benefits
+            UNSERE STÄRKEN
             </div>
 
             <br>
@@ -313,7 +312,7 @@
                             <img src="img/Best_AI_experts.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                            Germany’s best data scientists and AI experts as trainers
+                        Deutschlands beste Data Scientists und KI-Experten als Trainer
                         </div>
                     </div>
                 </div>
@@ -324,7 +323,7 @@
                             <img src="img/Training_courses.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                            Practical, relevant and customized training courses
+                        Praktische, anwendungsorientierte und maßgeschneiderte Schulungen
                         </div>
                     </div>
                 </div>
@@ -335,7 +334,7 @@
                             <img src="img/ai_4.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                            54+ years of human experience
+                        Über 54 Jahre an Erfahrung
                         </div>
                     </div>
                 </div>
