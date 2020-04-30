@@ -2677,3 +2677,7 @@ a .tvarit-black:hover {
 .p-content-justify {
     text-align: justify;
 }
+.formBoxWhitepaper {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
