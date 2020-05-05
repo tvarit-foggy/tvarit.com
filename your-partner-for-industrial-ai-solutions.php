@@ -138,7 +138,7 @@
                             <div class="optiBgTrns">
                                 <div class="content mg-20">
                                     <div class="text-20">
-                                        Fast and customized end to end AI solution
+                                        Fast and customized end to end AI solutions
                                         for all your manufacturing problems and data
                                         science needs
                                     </div>
@@ -149,7 +149,7 @@
                     <div class="col-lg-6">
                         <div class="formBoxWhitepaper lh-1">
                             <div class="text centerTitle">
-                                <span class="fs-18  fw-400 text-white">Sign me up to recive this <br> success
+                                <span class="fs-18  fw-400 text-white">Sign me up to recieve this <br> success
                                     story</span>
                             </div>
                             <div class="form-group">
@@ -435,8 +435,8 @@
                                 <div class="custom-control custom-checkbox partner-form-checkbox">
                                     <input type="checkbox" class="custom-control-input" id="isAcceptPrivacy" checked="">
                                     <label class="custom-control-label text-white" for="isAcceptPrivacy"> &nbsp;I agree with
-                                        the Privacy
-                                        Policy</label>
+                                        the <a class="text-white underline-privacy" href="terms-and-conditions" target="_blank"> Privacy
+                                        Policy</a></label>
                                 </div>
                             </div>
                             <br>
@@ -589,6 +589,9 @@
         border: 2px solid red !important;
     background: transparent;
     border-radius: .0rem;
+    }
+    .underline-privacy {
+        text-decoration: underline;
     }
     </style>
 </body>
