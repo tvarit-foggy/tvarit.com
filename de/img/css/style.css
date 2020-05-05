@@ -602,6 +602,10 @@ p
     background-size: contain;
 }
 
+.subscribeBg {
+    background: url('../img/subscribeBg.jpg');
+    background-size: contain;
+}
 
 .headerBg
 {

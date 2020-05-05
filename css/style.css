@@ -863,6 +863,12 @@ p
    /* padding-top: 70px;
     padding-bottom: 70px;*/
 }
+.typography .optiBgTrns .text-2 {
+    font-size: var(--fs-34);
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+}
 .typography .text-1
 {
     font-size: var(--fs-34);
@@ -2458,6 +2464,12 @@ span.text-big60.red.fw-300.ai_predictive {
     padding:15px;
     line-height: 1;
 }
+.optiBgTrns .text-2
+{
+    background-color: var(--primary);
+    padding:15px;
+    line-height: 1;
+}
 .optiBgTrns .content
 {
     background-color:#0005;
@@ -2676,4 +2688,15 @@ a .tvarit-black:hover {
 }
 .p-content-justify {
     text-align: justify;
+}
+.formBoxWhitepaper {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ffffff12;
+    margin-bottom: 20px;
+}
+.subscribeBg {
+    background: url('../img/subscribeBg.jpg');
+    background-size: cover;
+    height: unset !important;
 }
