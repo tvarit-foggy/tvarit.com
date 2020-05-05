@@ -39,8 +39,8 @@
             var x = document.getElementById("snackbarSubs");
             $.ajax({
                 type: "POST",
-                url: "/partner_ai_solutions_action",
-                data: "fname=" + fname + "lname=" + lname + '&email=' + email + '&company=' + company +
+                url: "/partner-ai-solutions-action",
+                data: "fname=" + fname + "&lname=" + lname + '&email=' + email + '&company=' + company +
                     '&designation=' + designation + '&country=' + country + '&emailUpdate=' +
                     emailUpdate,
                 success: function(data) {
@@ -172,10 +172,7 @@
                                 <input type="text" class="form-control" name="company" id="company"
                                     placeholder="Company *">
                             </div>
-                            <!-- <div class="form-group">
-                                <input type="text" class="form-control" name="country" id="country"
-                                    placeholder="Location *">
-                            </div> -->
+
                             <div class="form-group">
                                 <select class="form-control" id="country" name="country">
                                     <option value="Afganistan">Afghanistan</option>
