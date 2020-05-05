@@ -8,7 +8,6 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
     <script type="text/javascript" language="javascript">
-
     function IsEmailSubs(email) {
         var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
         if (!regex.test(email)) {
@@ -41,8 +40,9 @@
             $.ajax({
                 type: "POST",
                 url: "/whitepaper_subscribers_action",
-                data: "fname=" + fname + "lname=" + lname + '&email=' + email + '&company=' + company
-                + '&designation=' + designation + '&country=' + country + '&emailUpdate=' + emailUpdate,
+                data: "fname=" + fname + "lname=" + lname + '&email=' + email + '&company=' + company +
+                    '&designation=' + designation + '&country=' + country + '&emailUpdate=' +
+                    emailUpdate,
                 success: function(data) {
                     x.className = "show";
                     setTimeout(function() {
@@ -115,21 +115,43 @@
 <body>
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
-    <!------------------------ main menu start ---------------------->
-    <?php 
-     include 'header.php';
-     ?>
-    <!------------------------ main menu end ------------------------>
+    <!------------------------ header start ------------------------->
 
-    <div class="section-padding-both">
-        <div class="container">
-            <div class="col-lg-12 order-lg-2 order-1 mb-lg-0 mb-5">
-                <form method="post">
-                    <div class="contactBox">
-                        <div class="formBox formBoxWhitepaper">
-                        <div class="text-contact centerTitle">
-                            Whitepaper Subscription
+    <header class="headerBg bgSizeCover subscribeBg">
+        <div class="headerOverlay">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="typography lh-1 left">
+                            <div class="hdr-tvarit">
+                                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
+                            </div>
+                            <div class="hdr-industrial">
+                                <span>INDUSTRIAL <span class="red">AI</span> </span>
+                            </div>
+                            <div class="optiBgTrns">
+                                <div class="text-2">
+                                    Your Partner for Industrial AI Solutions
+                                </div>
+                            </div>
+                            <br />
+                            <div class="optiBgTrns">
+                                <div class="content mg-20">
+                                    <div class="text-20">
+                                        Fast and customized end to end AI solution
+                                        for all your manufacturing problems and data
+                                        science needs
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="formBoxWhitepaper lh-1">
+                            <div class="text centerTitle">
+                                <span class="fs-18  fw-400 text-white">Sign me up to recive this <br> success
+                                    story</span>
+                            </div>
                             <div class="form-group">
                                 <input type="text" class="form-control" name="fname" id="fname"
                                     placeholder="First Name *">
@@ -151,6 +173,10 @@
                                     placeholder="Company *">
                             </div>
                             <div class="form-group">
+                                <input type="text" class="form-control" name="country" id="country"
+                                    placeholder="Location *">
+                            </div>
+                            <!-- <div class="form-group">
                                 <select class="form-control" id="country" name="country">
                                     <option value="Afganistan">Afghanistan</option>
                                     <option value="Albania">Albania</option>
@@ -399,24 +425,26 @@
                                     <option value="Zambia">Zambia</option>
                                     <option value="Zimbabwe">Zimbabwe</option>
                                 </select>
-                            </div>
+                            </div> -->
                             <div class="form-group">
                                 <div class="custom-control custom-checkbox">
                                     <input type="checkbox" class="custom-control-input" id="isMailUpdates" checked="">
-                                    <label class="custom-control-label" for="isMailUpdates">Subscribe to e-mail
+                                    <label class="custom-control-label text-white" for="isMailUpdates">&nbsp;Subscribe to
+                                        e-mail
                                         updates</label>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="custom-control custom-checkbox">
                                     <input type="checkbox" class="custom-control-input" id="isAcceptPrivacy" checked="">
-                                    <label class="custom-control-label" for="isAcceptPrivacy">I agree with the Privacy
+                                    <label class="custom-control-label text-white" for="isAcceptPrivacy"> &nbsp;I agree with
+                                        the Privacy
                                         Policy</label>
                                 </div>
                             </div>
                             <br>
                             <div class="form-group">
-                                <input type="button" value="Submit" id="btnSubs" class="btn btn-round btn-red-grd">
+                                <input type="button" value="Submit" id="btnSubs" class="btn btn-red-grd btn-lg-submit">
                             </div>
                             <div id="snackbarSubs">We Will Contact You Shortly</div>
 
@@ -425,11 +453,15 @@
                                 email id</div>
                         </div>
                     </div>
-                </form>
+                </div>
             </div>
-        </div>
-    </div>
-
+    </header>
+    <!------------------------ header end --------------------------->
+    <!------------------------ main menu start ---------------------->
+    <?php 
+     include 'header.php';
+     ?>
+    <!------------------------ main menu end ------------------------>
 
     <!------------------------try demo start --------------------->
 
@@ -448,11 +480,11 @@
     <script src="js/readmore.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-   <script>
-       	$(window).load(function() {
-		// Animate loader off screen
-		$(".fadeMe").fadeOut("slow");;
-	});
+    <script>
+    $(window).load(function() {
+        // Animate loader off screen
+        $(".fadeMe").fadeOut("slow");;
+    });
     </script>
     <style>
     #snackbarSubs {
@@ -545,6 +577,16 @@
             bottom: 0;
             opacity: 0;
         }
+    }
+    .btn-lg-submit {
+        width: 100%;
+        padding: 5px !important;
+    }
+    .mg-20 {
+        margin-top: 20px;
+    }
+    .content .text-20 {
+        font-size: 18px;
     }
     </style>
 </body>

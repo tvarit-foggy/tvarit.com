@@ -16,7 +16,27 @@ server with default setting (user 'root' with no password) */
      ('$fname', '$lname', '$email', '$company', '$designation', '$country', '$emailUpdate')";
    
    if(mysqli_query($link, $sql)){
-        echo mysqli_query($link, $sql);
+    $subject = "Tvarit AI Production Optimizer Success Story";
+    $to = "$email";
+    $message = "
+    Hi $fname, Thank you for showing your interest in downloading Tvarit AI success story.
+
+    We will be able to send you the success story in the next 24 hours as we are witnessing very huge demand.
+    Thank you for your support and cooperation.All the Best,
+
+    Kind Regards,
+    Tvarit Team
+
+    Tvarit GmbH
+    Gundelandstrasse 5
+    60435 Frankfurt am Main
+    ";
+
+    $headers  = "From: info@tvarit.com\r\n" .
+    "X-Mailer: php\r\n";
+    $headers .= "Bcc: info@tvarit.com\r\n";
+
+     mail($to,$subject,$message,$headers);
     } else{
         echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
     }
