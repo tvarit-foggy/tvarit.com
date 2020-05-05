@@ -172,11 +172,11 @@
                                 <input type="text" class="form-control" name="company" id="company"
                                     placeholder="Company *">
                             </div>
-                            <div class="form-group">
+                            <!-- <div class="form-group">
                                 <input type="text" class="form-control" name="country" id="country"
                                     placeholder="Location *">
-                            </div>
-                            <!-- <div class="form-group">
+                            </div> -->
+                            <div class="form-group">
                                 <select class="form-control" id="country" name="country">
                                     <option value="Afganistan">Afghanistan</option>
                                     <option value="Albania">Albania</option>
@@ -425,9 +425,9 @@
                                     <option value="Zambia">Zambia</option>
                                     <option value="Zimbabwe">Zimbabwe</option>
                                 </select>
-                            </div> -->
+                            </div>
                             <div class="form-group">
-                                <div class="custom-control custom-checkbox">
+                                <div class="custom-control custom-checkbox partner-form-checkbox">
                                     <input type="checkbox" class="custom-control-input" id="isMailUpdates" checked="">
                                     <label class="custom-control-label text-white" for="isMailUpdates">&nbsp;Subscribe to
                                         e-mail
@@ -435,7 +435,7 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <div class="custom-control custom-checkbox">
+                                <div class="custom-control custom-checkbox partner-form-checkbox">
                                     <input type="checkbox" class="custom-control-input" id="isAcceptPrivacy" checked="">
                                     <label class="custom-control-label text-white" for="isAcceptPrivacy"> &nbsp;I agree with
                                         the Privacy
@@ -587,6 +587,11 @@
     }
     .content .text-20 {
         font-size: 18px;
+    }
+    .partner-form-checkbox .custom-control-label::before {
+        border: 2px solid red !important;
+    background: transparent;
+    border-radius: .0rem;
     }
     </style>
 </body>
