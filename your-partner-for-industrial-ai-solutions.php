@@ -149,7 +149,7 @@
                     <div class="col-lg-6">
                         <div class="formBoxWhitepaper lh-1">
                             <div class="text centerTitle">
-                                <span class="fs-18  fw-400 text-white">Sign me up to recieve this <br> success
+                                <span class="fs-18  fw-400 text-white">Sign me up to receive this <br> success
                                     story</span>
                             </div>
                             <div class="form-group">
