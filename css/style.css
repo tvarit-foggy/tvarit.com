@@ -2698,5 +2698,6 @@ a .tvarit-black:hover {
 .subscribeBg {
     background: url('../img/subscribeBg.jpg');
     background-size: cover;
-    height: unset !important;
+    height: 100vh !important;
+    margin-bottom: 0px !important;
 }
