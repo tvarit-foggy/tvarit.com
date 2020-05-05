@@ -39,7 +39,7 @@
             var x = document.getElementById("snackbarSubs");
             $.ajax({
                 type: "POST",
-                url: "/partner_ai_solutions_action",
+                url: "/partner-ai-solutions-action",
                 data: "fname=" + fname + "&lname=" + lname + '&email=' + email + '&company=' + company +
                     '&designation=' + designation + '&country=' + country + '&emailUpdate=' +
                     emailUpdate,
