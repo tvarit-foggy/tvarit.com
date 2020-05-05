@@ -39,7 +39,7 @@
             var x = document.getElementById("snackbarSubs");
             $.ajax({
                 type: "POST",
-                url: "/whitepaper_subscribers_action",
+                url: "/partner_ai_solutions_action",
                 data: "fname=" + fname + "lname=" + lname + '&email=' + email + '&company=' + company +
                     '&designation=' + designation + '&country=' + country + '&emailUpdate=' +
                     emailUpdate,
@@ -89,7 +89,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
-    <title>Impressum</title>
+    <title>Your Partners</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
