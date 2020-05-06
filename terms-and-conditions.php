@@ -613,9 +613,15 @@
         font-size: 15px;
     }
     </style>
+    <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
 
     <!------------------------try demo end --------------------->
-
+    <script>
+    $(window).load(function() {
+        // Animate loader off screen
+        $(".fadeMe").fadeOut("slow");;
+    });
+    </script>
 
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
