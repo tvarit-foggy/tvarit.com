@@ -4,6 +4,8 @@
 
 <head>
     <script src="js/navigationDE.js"></script>
+    <script type="text/javascript" src="https://secure.leadforensics.com/js/190397.js" ></script>
+    <noscript><img alt="" src="https://secure.leadforensics.com/190397.png" style="display:none;" /></noscript>
     <style>
     .mySlides {display: none;} </style>
 
