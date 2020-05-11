@@ -435,7 +435,7 @@
                                 <div class="custom-control custom-checkbox partner-form-checkbox">
                                     <input type="checkbox" class="custom-control-input" id="isAcceptPrivacy" checked="">
                                     <label class="custom-control-label text-white" for="isAcceptPrivacy"> &nbsp;I agree with
-                                        the <a class="text-white underline-privacy" href="terms-and-conditions" target="_blank"> Privacy
+                                        the <a class="text-white underline-privacy" href="privacy-and-policy" target="_blank"> Privacy
                                         Policy</a></label>
                                 </div>
                             </div>
