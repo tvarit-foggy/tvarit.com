@@ -175,6 +175,7 @@
 
                             <div class="form-group">
                                 <select class="form-control" id="country" name="country">
+                                    <option value="" disabled selected>Select Country</option>
                                     <option value="Afganistan">Afghanistan</option>
                                     <option value="Albania">Albania</option>
                                     <option value="Algeria">Algeria</option>
