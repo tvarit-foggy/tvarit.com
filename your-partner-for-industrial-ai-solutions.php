@@ -39,10 +39,10 @@
             var company = $("#company").val();
             var designation = $("#designation").val();
             var country = $("#country").val();
-            var x = document.getElementById("snackbarSubs");
+            var x = document.getElementById("success_msg");
             $.ajax({
                 type: "POST",
-                url: "/partner-ai-solutions-action",
+                url: "./partner-ai-solutions-action",
                 data: "fname=" + fname + "&lname=" + lname + '&email=' + email + '&company=' + company +
                     '&designation=' + designation + '&country=' + country + '&emailUpdate=' +
                     emailUpdate,
@@ -50,7 +50,7 @@
                     x.className = "show";
                     setTimeout(function() {
                         x.className = x.className.replace("show", "");
-                    }, 3000);
+                    }, 500000);
                     $("#fname").val('');
                     $("#lname").val('');
                     $("#emailsubs").val('');
@@ -430,7 +430,8 @@
                             <div class="form-group">
                                 <div class="custom-control custom-checkbox partner-form-checkbox">
                                     <input type="checkbox" class="custom-control-input" id="isMailUpdates" checked="">
-                                    <label class="custom-control-label text-white" for="isMailUpdates">&nbsp;Subscribe to
+                                    <label class="custom-control-label text-white" for="isMailUpdates">&nbsp;Subscribe
+                                        to
                                         e-mail
                                         updates</label>
                                 </div>
@@ -438,14 +439,24 @@
                             <div class="form-group">
                                 <div class="custom-control custom-checkbox partner-form-checkbox">
                                     <input type="checkbox" class="custom-control-input" id="isAcceptPrivacy" checked="">
-                                    <label class="custom-control-label text-white" for="isAcceptPrivacy"> &nbsp;I agree with
-                                        the <a class="text-white underline-privacy" href="privacy-and-policy" target="_blank"> Privacy
-                                        Policy</a></label>
+                                    <label class="custom-control-label text-white" for="isAcceptPrivacy"> &nbsp;I agree
+                                        with
+                                        the <a class="text-white underline-privacy" href="privacy-and-policy"
+                                            target="_blank"> Privacy
+                                            Policy</a></label>
                                 </div>
                             </div>
                             <br>
                             <div class="form-group">
                                 <input type="button" value="Submit" id="btnSubs" class="btn btn-red-grd btn-lg-submit">
+                            </div>
+                            <div id="success_msg" class="typography right lh-1 msg-container">
+                                <div>
+                                    <span class="msg-text">Thank You! We Will Contact You Shortly</span> <br>
+                                    <br>
+                                    <a href="https://tvarit.com/" target="_blank"
+                                        class="btn btn-red-grd btn-lg-submit">Click here to visit main website</a>
+                                </div>
                             </div>
                             <div id="snackbarSubs">We Will Contact You Shortly</div>
 
@@ -488,6 +499,27 @@
     });
     </script>
     <style>
+    .msg-container {
+        text-align: center !important;
+        background: #fff !important;
+        padding: 15px;
+    }
+
+    .msg-text {
+        text-align: center;
+        font-size: 15px;
+        font-weight: 800;
+        color: #ed1b4a;
+    }
+    #success_msg {
+        display: none;
+    }
+    #success_msg.show {
+        display: block;
+        text-align: center !important;
+        background: #fff !important;
+        padding: 15px;
+    }
     #snackbarSubs {
         visibility: hidden;
         min-width: 250px;
@@ -579,21 +611,26 @@
             opacity: 0;
         }
     }
+
     .btn-lg-submit {
         width: 100%;
         padding: 5px !important;
     }
+
     .mg-20 {
         margin-top: 20px;
     }
+
     .content .text-20 {
         font-size: 18px;
     }
+
     .partner-form-checkbox .custom-control-label::before {
         border: 2px solid red !important;
-    background: transparent;
-    border-radius: .0rem;
+        background: transparent;
+        border-radius: .0rem;
     }
+
     .underline-privacy {
         text-decoration: underline;
     }
