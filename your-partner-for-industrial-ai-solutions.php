@@ -24,7 +24,7 @@
         var emailUpdate = $('#isMailUpdates').is(':checked');
         if ($("#fname").val() !== "" && $("#lname").val() !== "" && $("#emailsubs").val() !== "" &&
             $("#designation").val() !== "" && $("#company").val() !== "" &&
-            $("#country").val() !== "" && isAccepted) {
+            $("#country").val() !== ""  && $("#country").val() !== null && isAccepted) {
             if (!IsEmailSubs($("#emailsubs").val())) {
                 var e = document.getElementById("emailValidationSubs");
                 e.className = "show";
