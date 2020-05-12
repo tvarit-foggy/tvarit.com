@@ -16,14 +16,34 @@
             return true;
         }
     }
+
+    function IsEmailDomainValid(email) {
+        const domains = ['@yahoo.com', '@gmail.com', '@hotmail.com', '@rediffmail.com', '@outlook.com'];
+        for (let index = 0; index < domains.length; index++) {
+            const element = domains[index];
+            var idx = email.indexOf(element);
+            if (idx > -1) {
+                return false;
+            }
+        }
+        return true;
+    }
     $("#btnSubs").live("click", function() {
         var isAccepted = $('#isAcceptPrivacy').is(':checked');
         var emailUpdate = $('#isMailUpdates').is(':checked');
         if ($("#fname").val() !== "" && $("#lname").val() !== "" && $("#emailsubs").val() !== "" &&
             $("#designation").val() !== "" && $("#company").val() !== "" &&
-            $("#country").val() !== ""  && $("#country").val() !== null && isAccepted) {
+            $("#country").val() !== "" && $("#country").val() !== null && isAccepted) {
             if (!IsEmailSubs($("#emailsubs").val())) {
                 var e = document.getElementById("emailValidationSubs");
+                e.className = "show";
+                setTimeout(function() {
+                    e.className = e.className.replace("show", "");
+                }, 3000);
+                return;
+            }
+            if (!IsEmailDomainValid($("#emailsubs").val())) {
+                var e = document.getElementById("snackbarSubs");
                 e.className = "show";
                 setTimeout(function() {
                     e.className = e.className.replace("show", "");
@@ -455,7 +475,7 @@
                                         class="btn btn-red-grd btn-lg-submit">Click here to visit main website</a>
                                 </div>
                             </div>
-                            <div id="snackbarSubs">We Will Contact You Shortly</div>
+                            <div id="snackbarSubs">Please use your commercial email </div>
 
                             <div class="validationSubs" id="validationSubs">Fill all the mandatory fields</div>
                             <div class="validationDemoIfEmpty" id="emailValidationSubs">Please enter a valid
@@ -508,15 +528,18 @@
         font-weight: 800;
         color: #ed1b4a;
     }
+
     #success_msg {
         display: none;
     }
+
     #success_msg.show {
         display: block;
         text-align: center !important;
         background: #fff !important;
         padding: 15px;
     }
+
     #snackbarSubs {
         visibility: hidden;
         min-width: 250px;
