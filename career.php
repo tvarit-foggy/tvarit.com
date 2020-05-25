@@ -576,7 +576,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
                             aria-expanded="false" aria-controls="acccrdnMLR">
-                            Machine Learning Researcher
+                            Machine Learning Researcher (Digital Signal Processing)
                         </a>
                     </div>
 
@@ -602,14 +602,18 @@
                             <h4>Key responsibilities:</h4>
                             <ul class="ul-list">
                                 <li>Work with manufacturing clients, understanding various problems and failures in
-                                    different kinds of high tech machines.</li>
+                                    different kinds of high tech machines.
+                                </li>
+                                <li>Develop digital signal-processing algorithms for vibration analysis of multi-sensor data
+                                </li>
 
-                                <li>Working with manufacturing machines data formats, data cleaning and defining
-                                    performance measures based on pre-processing of data</li>
+                                <li>Process existing dataset, perform statistical analysis of processed signals to provide insights of the measurements
+                                </li>
                                 <li>Define a set of features on the basis of hundreds of sensors signals coming from a
                                     single machine, work on building time series forecasting and other cross metric ML
                                     models
                                 </li>
+                                <li>Creating machine learning models on data containing high and low frequency signals.</li>
                                 <li>Search for the latest research papers as per use case and make POC.</li>
                                 <li>Collaborate with production engineers to deploy the results of your research.</li>
                                 <li> Develop evaluation techniques to gauge the performance and accuracy of the models
@@ -620,12 +624,13 @@
                             <br>
                             <h4>Your Background:</h4>
                             <ul class="ul-list">
-                                <li>Know-how of machine learning algorithms e.g., ARIMA, Linear Regression, Neural
-                                    Networks and the math needed to for this such as linear algebra, probability,
+                                <li>Know-how of signal processing  algorithms e.g., noise filtering technique, data distributions, periodograms etc and the math needed to for this such as linear algebra, probability,
                                     statistics.
                                 </li>
-                                <li>Strong hands­-on skills with time series databases InfluxDB, SQL, Postgres etc.</li>
-                                <li>Ability to write code in a scripting language (Python, Perl, Bash etc).</li>
+                                <li>Know-how of data understanding and preprocessing methods e.g., fft, deep understanding of wavelets etc for feature engineering, further DTW, STFT based similarlity detection algorithms.
+                                </li>
+                                <li>Currently pursuing a Master or Doctoral degree in Electrical/Mechanical Engineering, Computer Engineering or related field</li>
+                                <li>Ability to write code in a scripting language (Python, Matlab, R is a must).</li>
                                 <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it
                                     is also important that you're able to write clean, efficient code in Python (with a
                                     focus on testability and using OOP) on a Linux platform.</li>

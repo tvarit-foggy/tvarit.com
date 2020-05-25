@@ -203,14 +203,15 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                        LET'S CONNECT
+                            Let's Connect
                         </div>
                         <div class="text-big60">
-                        CONTACT US
+                            Contact Us
                         </div>
                         <br>
                         <p class="text-p">
-                        Do you have questions or remarks? We would be pleased to hear from you. Simply call us or fill in the form below. We will get back to you within the next 24 hours.
+                            Let us get connected and get you updated on how can we help you. Please fill the form below.
+                            We will contact you within 24 hours.
                         </p>
 
                     </div>
@@ -247,7 +248,7 @@
                         <div class="text">
                         <h3 class="fw-900">Tobias Gundermann</h3>
                         <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
-                        <a href="tel:+49 171 2251178"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
+                        <a href="tel:+49 179 2429893"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
                         <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400" style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
                             
                         </div>

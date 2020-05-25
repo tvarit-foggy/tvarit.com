@@ -4,6 +4,7 @@
 
 <head>
     <script src="js/navigationDE.js"></script>
+
     <style>
     .mySlides {display: none;} </style>
 
@@ -431,6 +432,11 @@
                 <div class="carousel-cell">
                     <div class="picBox">
                         <img src="img/partners_img/zenit.png" class="img-fluid">
+                    </div>
+                </div>
+                <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/dehub.png" class="img-fluid">
                     </div>
                 </div>
             </div>
