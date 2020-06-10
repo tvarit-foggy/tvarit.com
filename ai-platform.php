@@ -54,7 +54,7 @@
                  World’s most advanced AI platform <br/>for manufacturing data analytics
              </div>
               <br>
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform works for you</a>
+              <a href="https://tvarit.com/contact" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform works for you</a>
             </div>
           </div>
           <div class="col-lg-6 macbook-position">
