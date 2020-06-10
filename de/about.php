@@ -115,9 +115,9 @@
                                         <li>
                                             <a href="videos" class="sub-Link">Videos</a>
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <a href="http://cloud.tvarit.com" target="_blank" class="sub-Link">Demo</a>
-                                        </li>
+                                        </li> -->
                                         <li>
                                             <a href="news" class="sub-Link">News</a>
                                         </li>
