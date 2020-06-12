@@ -445,6 +445,11 @@
                         <img src="img/partners_img/dehub.png" class="img-fluid">
                     </div>
                 </div>
+                <div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/stifterverband.png" class="img-fluid">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
