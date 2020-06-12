@@ -40,5 +40,10 @@
         <img src="img/client_logo/Siemens.png" class="img-fluid">
       </div>
     </div>
+    <div class="carousel-cell">
+      <div class="picBox w-90">
+        <img src="img/client_logo/stifterverband.png" class="img-fluid">
+      </div>
+    </div>
   </div>
 </div>
