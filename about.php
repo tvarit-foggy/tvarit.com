@@ -328,30 +328,6 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/hitesh.jpeg" alt="Hitesh"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Hitesh Mittal</h4>
-                            <h6 class="title"> Director Sales & Marketing</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Bridge between customers and team</li>
-                                <li>AI in Control Systems at Continental, Reliance</li>
-                                <li>European Business School Alumni</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
                             <img src="img/tobias-gundermann.png" alt="Marvin"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
