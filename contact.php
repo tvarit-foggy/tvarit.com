@@ -226,31 +226,18 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg-12">
                     <div class="innr-sec-mainTitle centerTitle">
-                    Contact persons for questions and partnerships
+                        Contact persons for questions and partnerships
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="lookingBox brdr-black" style="border-color: var(--primary) !important">
+                <div class="col-lg-12">
+                    <div class="lookingBox brdr-black centerTitle" style="border-color:var(--primary) !important; display:block">
                         <div class="text">
-                        <h3 class="fw-900">Hitesh Mittal</h3>
-                        <span class="fs-18  fw-400">Director Sales & Marketing</span><br><br>
-                        <a href="tel:+49 1512 4936026"><span class="fs-18  fw-400">+49 1512 4936026</span></a><br><br>
-                        <a href="mailto:hitesh.mittal@tvarit.com"><span class="fs-18  fw-400" style="text-transform:lowercase">hitesh.mittal@tvarit.com</span></a>
-                        </div>
-                        <div>
-                            <!-- <a href="#" data-toggle="modal" data-target="#exampleModal"
-                                class="btn btn-round btn-red-grd">Click Here</a> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="lookingBox brdr-black" style="border-color:var(--primary) !important">
-                        <div class="text">
-                        <h3 class="fw-900">Tobias Gundermann</h3>
-                        <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
-                        <a href="tel:+49 179 2429893"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
-                        <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400" style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
-                            
+                            <h3 class="fw-900">Tobias Gundermann</h3>
+                            <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
+                            <a href="tel:+49 179 2429893"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
+                            <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400"
+                                    style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
+
                         </div>
 
                         <div>
@@ -319,12 +306,16 @@
 
                     <div class="ctnDetailBox">
                         <h4 class="red">Phone</h4>
-                        <a href="tel:+49 173 835 1380"><p class="text-p">+49 173 835 1380</p></a>
+                        <a href="tel:+49 173 835 1380">
+                            <p class="text-p">+49 173 835 1380</p>
+                        </a>
                     </div>
 
                     <div class="ctnDetailBox">
                         <h4 class="red">E-mail</h4>
-                        <a href="mailto:info@tvarit.com"><p class="text-p">info@tvarit.com</p></a>
+                        <a href="mailto:info@tvarit.com">
+                            <p class="text-p">info@tvarit.com</p>
+                        </a>
                     </div>
 
                     <div class="ctnDetailBox">

@@ -409,7 +409,8 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/rahul_circle.jpg" alt="Rahul" style="width:100%; height:auto; border-radius: 50%;">
+                            <img src="img/rahul_circle.jpg" alt="Rahul"
+                                style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name">Rahul Prajapat</h4>
@@ -448,29 +449,7 @@
             <!-------- Custom Divider ------------>
 
             <div class="row">
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/hitesh.jpeg" alt="Hitesh"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Hitesh Mittal</h4>
-                            <h6 class="title"> Direktor Vertrieb & Marketing</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Brücke zwischen Kunden und Team</li>
-                                <li>KI in Kontrollsystemen bei Continental, Vertrauenswürdigkeit</li>
-                                <li>Alumni der European Business School</li>
-                            </ul>
-                            <div class="social-icon">
 
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
