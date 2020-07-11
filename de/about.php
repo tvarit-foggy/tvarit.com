@@ -92,48 +92,6 @@
 
 
 
-
-    <!------------------------ Who we are --------------------->
-    <!-- <div class="section-padding" id="Benefits">
-        <div class="container">
-            <div class="row align-items-center">
-                
-                <br>
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
-                        <br><br>
-                        <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize"></span></div>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="">
-                            <p class="text-p">
-                                We are German company based in Frankfurt, Germany. We build and provide AI solutions to
-                                solve all
-                                kinds of manufacturing problems and data science needs. We enable businesses to make
-                                smart and
-                                informed decisions by deriving actionable and valuable insights from a sea of data.
-
-                                We provide Ai Solutions, AI platform and AI consulting services to successfully
-                                complete
-                                your all AI and data science projects.
-
-                                Recently, we have achieved many prestigious awards for which we were recognized as the
-                                most
-                                innovative AI company in Europe and Germany.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div> -->
-
-    <!------------------------ Who we are ----------------------->
-
-
-
-
     <div class="section-padding" id="Team">
         <div class="container">
             <div class="centerTitle">
@@ -316,30 +274,6 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/hitesh.jpeg" alt="Hitesh"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Hitesh Mittal</h4>
-                            <h6 class="title">Director Sales & Marketing</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Brücke zwischen Kunden und Team</li>
-                                <li>KI in Kontrollsystemen bei Continental, Reliance</li>
-                                <li>Alumni der European Business School</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
                             <img src="img/tobias-gundermann.png" alt="Marvin"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
@@ -432,7 +366,7 @@
             <div class="">
                 <div class="title text-center">
                     <div class="text-big60">WIR SIND STOLZ AUF DAS, WAS
- <br> WIR ERREICHT HABEN</div>
+                        <br> WIR ERREICHT HABEN</div>
                     <div class="short-line mx-auto bg-red"></div>
                 </div>
                 <br>

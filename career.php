@@ -105,7 +105,7 @@
 
             <div id="accordion">
 
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnTechArc"
                             aria-expanded="false" aria-controls="acccrdnTechArc">
@@ -178,7 +178,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="card">
                     <div class="card-header" id="headingFour">
@@ -385,7 +385,7 @@
                 </div>
 
 
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header" id="headingTwo">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
                             aria-expanded="false" aria-controls="acccrdn2">
@@ -477,10 +477,10 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header" id="headingThree">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn3"
                             aria-expanded="false" aria-controls="acccrdn3">
@@ -570,7 +570,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="card">
                     <div class="card-header" id="headingFour">
@@ -661,7 +661,7 @@
                     </div>
                 </div>
 
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header" id="headingFive">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn5"
                             aria-expanded="false" aria-controls="acccrdn5">
@@ -763,10 +763,10 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header" id="headingOne">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
@@ -864,7 +864,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
 
         </div>

@@ -105,7 +105,7 @@
 
             <div id="accordion">
 
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnTechArc"
                             aria-expanded="false" aria-controls="acccrdnTechArc">
@@ -183,7 +183,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="card">
                     <div class="card-header" id="headingFour">
@@ -390,7 +390,7 @@
                 </div>
 
 
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header" id="headingTwo">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
                             aria-expanded="false" aria-controls="acccrdn2">
@@ -575,7 +575,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="card">
                     <div class="card-header" id="headingFour">
@@ -661,7 +661,7 @@
                     </div>
                 </div>
 
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header" id="headingFive">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn5"
                             aria-expanded="false" aria-controls="acccrdn5">
@@ -861,10 +861,10 @@
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
                             <br>
-                            <p class="red">Location: Mumbai</p>
-                        </div>
+                            <p class="red">Location: Mumbai</p> -->
+                        <!-- </div>
                     </div>
-                </div>
+                </div> -->
             </div>
 
         </div>
