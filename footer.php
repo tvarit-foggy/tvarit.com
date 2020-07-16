@@ -1,6 +1,7 @@
  <html>
 
  <head>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
      <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
 
      <script type="text/javascript" language="javascript">
@@ -371,6 +372,26 @@
         }
      }
      </script>
+     <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#e92247"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "This Website uses cookies to ensure you get the best experience on our website.",
+    "dismiss": "OK!",
+    "href": "https://tvarit.com/datenschutz"
+  }
+});
+</script>  
  </body>
 
  </html>
