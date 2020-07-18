@@ -2,7 +2,7 @@
 /* Attempt MySQL server connection. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 if(isset($_POST['company_name'])){
-    $link = mysqli_connect("localhost", "tvarit_com", "7kXEMLVdBD2r6TJuUAR7D8vS", "tvarit_com");
+    $link = mysqli_connect("localhost", "tvarit_com", "180c7b2dd6c96b9fdc725a2949311e02", "tvarit_com");
  
         $company_name = $_POST['company_name'];
         $person_name = $_POST['person_name'];
