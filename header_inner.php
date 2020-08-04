@@ -74,9 +74,6 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../ai-platform">AI Platform</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="#">AI Consulting</a>
                         <div class="submenu-div">
                             <div class="row">

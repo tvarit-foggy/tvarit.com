@@ -85,7 +85,7 @@
                                 smart and
                                 informed decisions by deriving actionable and valuable insights from a sea of data.
 
-                                We provide Ai Solutions, AI platform and AI consulting services to successfully
+                                We provide Ai Solutions, AI framework and AI consulting services to successfully
                                 complete
                                 your all AI and data science projects.
 
@@ -126,7 +126,7 @@
                                 smart and
                                 informed decisions by deriving actionable and valuable insights from a sea of data.
 
-                                We provide Ai Solutions, AI platform and AI consulting services to successfully
+                                We provide Ai Solutions, AI framework and AI consulting services to successfully
                                 complete
                                 your all AI and data science projects.
 

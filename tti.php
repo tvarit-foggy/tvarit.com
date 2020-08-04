@@ -206,7 +206,7 @@ gtag('config', 'UA-143837547-1');
                             with the power of
                         </div>
                         <div class="text-big60">
-                            <span class="red"> Tvarit AI </span> platform
+                            <span class="red"> Tvarit AI </span> framework
                         </div>
 
                     </div>
@@ -251,7 +251,7 @@ gtag('config', 'UA-143837547-1');
                         <div class="featureBox border-grn">
 
 
-                            <p class="text-p offer-para">Our AI powered software platform </p>
+                            <p class="text-p offer-para">Our AI powered software framework </p>
 
                             <div class="more">
 

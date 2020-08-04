@@ -211,11 +211,11 @@
                             <img src="img/ai-platform-1.png">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI Platform</p>
+                            <p class="title text-center">AI Framework</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    Award winning AI Platform for your Data Scientists
+                                    Award winning AI Framework for your Data Scientists
                                 </li>
                                 <li>
                                     Analyse manufacturing data and make new use-cases on your own
