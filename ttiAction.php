@@ -1,8 +1,9 @@
 <?php  
 /* Attempt MySQL server connection. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
+include 'config.php';
 if(isset($_POST['company_name'])){
-    $link = mysqli_connect("localhost", "tvarit_com", "180c7b2dd6c96b9fdc725a2949311e02", "tvarit_com");
+    $link = mysqli_connect("$host", "$username", "$password", "$database");
  
         $company_name = $_POST['company_name'];
         $person_name = $_POST['person_name'];
@@ -37,9 +38,9 @@ if(isset($_POST['company_name'])){
             This message contains information that may be privileged or confidential and is the property of the Tvarit GmbH. It is intended only for the person to whom it is addressed. If you are not the intended recipient, you are not authorized to read, print, retain copy, disseminate, distribute, or use this message or any part thereof. If you receive this message in error, please notify the sender immediately and delete all copies of this message.
             ";
 
-            $headers  = "From: info@tvarit.com\r\n" .
+            $headers  = "From: $mail_from\r\n" .
             "X-Mailer: php\r\n";
-            $headers .= "Bcc: info@tvarit.com\r\n";
+            $headers .= "Bcc: $mail_from\r\n"";
 
              mail($to,$subject,$message,$headers);
     } else{

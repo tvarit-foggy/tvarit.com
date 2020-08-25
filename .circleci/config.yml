@@ -8,11 +8,34 @@ jobs:
             - master
     steps:
       - run:
-          name: Install LFTP
+          name: update
           command: |
             sudo apt-get update;
+      - run: 
+          name: Install LFTP
+          command: |
             sudo apt-get install lftp;
+            
       - checkout
+
+      - run:
+          name: write credentials
+          command: |
+            touch config.php
+            cat << EOF > config.php
+            <?php
+            database="$database"
+            demo_mail_from="$demo_mail_from"
+            host="$host";
+            mail_from="$mail_from"
+            password="$pwd"
+            username="$name";
+            ?>
+            EOF
+            cat config.php
+      - run:
+          name: Current working directory
+          command: pwd
       - run:
           name: Send Via SFTP
           command: lftp sftp://${username}:${password}@${hostname} -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ /customers/6/3/4/tvarit.com/httpd.www/; quit"
