@@ -194,7 +194,7 @@
                                      Verfügbar on-premise, in der Cloud und für Edge-Computing
                                 </li>
                             </ul>
-                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
+                            <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
                                 class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren</a>
                         </div>
                     </div>
