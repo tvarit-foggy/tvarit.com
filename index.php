@@ -197,7 +197,7 @@
                                     Available on On-Premise, Cloud and edge-computing
                                 </li>
                             </ul>
-                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank"
+                            <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
                                 class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know More</a>
                         </div>
                     </div>
@@ -209,11 +209,11 @@
                             <img src="img/ai-platform-1.png">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI Platform</p>
+                            <p class="title text-center">AI Framework</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    Award winning AI Platform for your Data Scientists
+                                    Award winning AI Framework for your Data Scientists
                                 </li>
                                 <li>
                                 Full and integrated tools to analyse manufacturing data and to develop new use-cases on your own

@@ -111,9 +111,13 @@
                     href="https://edincubator.eu/2020/02/20/tapas-and-trophies-meet-the-8-fantastic-edi-experiment-phase-winners/">https://edincubator.eu/2020/02/20/tapas-and-trophies-meet-the-8-fantastic-edi-experiment-phase-winners/</a>
             </p>
             <p class="text-p p-content-justify">
-            About Tvarit GmbH: It is a German company based in Frankfurt, Germany. 
-            They build and provide AI solutions to solve all kinds of manufacturing problems and data science needs. 
-            They provide AI Solutions, AI platform and AI consulting services to successfully complete your all AI and data science projects. Recently, they have achieved many prestigious awards for which they were recognized as one of the most innovative AI companies in Europe.
+
+                About Tvarit GmbH: It is a German company based in Frankfurt, Germany. They build and provide AI
+                solutions to solve all kinds of manufacturing problems and data science needs. They provide AI
+                Solutions, AI framework and AI consulting services to successfully complete your all AI and data science
+                projects. Recently, we have achieved many prestigious awards for which we were recognized as one of the
+                most innovative AI company in Europe and Germany.
+
             </p>
         </div>
     </div>

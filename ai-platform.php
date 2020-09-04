@@ -8,7 +8,7 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>AI Platform</title>
+        <title>AI Framework</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/ai_consulting.css">
@@ -48,13 +48,15 @@
                 <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>
               </div>
               <div class="text-big60">
-                <span class="red">AI</span> Platform
+                <span class="red">AI</span> framework
               </div>
              <div class="fs-20 fw-700">
-             The most advanced AI platform for <br>manufacturing data analytics
+
+                 World’s most advanced AI framework <br/>for manufacturing data analytics
+
              </div>
               <br>
-              <a href="https://tvarit.com/contact" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI Platform works for you</a>
+              <a href="https://tvarit.com/contact" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI framework works for you</a>
             </div>
           </div>
           <div class="col-lg-6 macbook-position">
@@ -74,10 +76,11 @@
     <div class="section-padding" id="downClick">
       <div class="container">
         <div class="centerTitle">
-          <div class="innr-sec-mainTitle mb-0">Witness the most integrated and <br> complete <span class="red">AI</span> Platform</div>
+          <div class="innr-sec-mainTitle mb-0">Witness the most complete <br> and true <span class="red">AI</span> Framework</div>
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
-          Tvarit AI is an award winning AI platform. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the newest and most innovative AI techniques - enabling you to create solid business use-cases with a 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models to your specific needs. It is designed for the best user-experience through a clear design and clear workflows by leveraging state-of-the-art AI technology.
+            Tvarit AI is an award winning AI framework. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques to enable you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models as per your needs. It also gives world-class user experience in the form of simple and sleek design by leveraging the state-of-the-art technology.
+
           </div>
         </div>
 
@@ -262,7 +265,7 @@
           <div class="white-box-shadow">
             <div class="text-md-center title">
               <div class="text-first red">More Key Features of </div>
-              <div class="sec-mainTitle">Tv<span class="red">a</span>r<span class="red">i</span>t</span> <span class="red">AI</span> Platform</div>
+              <div class="sec-mainTitle">Tv<span class="red">a</span>r<span class="red">i</span>t</span> <span class="red">AI</span> Framework</div>
               <div class="short-line mx-md-auto bg-red"></div>
             </div>
             <br>
