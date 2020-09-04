@@ -116,10 +116,8 @@
                     <div id="acccrdnTechArc" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                We’re looking for a Technical Architect who will take a key role on our team. Our
-                                Technical Architect must have knowledge in all stages of software development. You’ll be
-                                working alongside other engineers and developers, collaborating on the various layers of
-                                the infrastructure for our AI product.<br>
+                            We’re looking for a Technical Architect who will take a key role in our team. Our Technical Architect is supposed have knowledge in all stages of software development. You’ll be working alongside other engineers and developers, collaborating on the various layers of the infrastructure for our AI product.
+                               <br>
 
                                 As of now, we are using Grafana open-source utility for our frontend, so your task would
                                 be to write Grafana source code transformation code. About 80% of your work would be on
@@ -129,10 +127,7 @@
                                 closely within an agile, scrum-based team to understand the business domain and client
                                 requirements.<br>
 
-                                Our AI team has created an AI software for manufacturing industry where it predicts
-                                machine, process or plant failures at various levels in the timeframe. Your main goal
-                                will be to create the REST API layer so that our customers can inject the input data and
-                                receive the predicted results back seamlessly in real-time.
+                                Our AI team has created an AI software for the manufacturing industry to predict machine, process or plant failures at various levels in the timeframe. Your main goal will be to create the REST API layer so that our customers can inject the input data and receive the predicted results back seamlessly in real-time.
                                 <br>
 
                             </p>
@@ -143,7 +138,7 @@
                                 <li>Functionally decompose complex problems into simple, straight-forward solutions.</li>
                                 <li>Fully and completely understand system interdependencies and limitations.</li>
                                 <li>Design Technical/Integration Architecture, including development, runtime and operation architectures of REST API.</li>
-                                <li>Experience with cloud message APIs and usage of push notifications. </li>
+                                <li>Development of cloud message APIs and usage of push notifications.</li>
                                 <li> Data pipeline integration with the AI backend, your server and REST API shall be able to manage the continuous flow of data between this AI backend and customer’s database systems.</li>
                                 <li>Analyze metrics and measure the effectiveness of the web application and servers, by setting up an effective logging system.</li>
                             </ul>
@@ -818,7 +813,7 @@
                             <ul class="ul-list">
                                 <li>Frontend languages: typescript, javascript, css, webpack</li>
                                 <li>Backend languages: Node JS or Python (web development frameworks)</li>
-                                <li>Experience with cloud message APIs and usage of push notifications</li>
+                                <li>Development of cloud message APIs and usage of push notifications.</li>
                                 <li>Design Technical/Integration Architecture, including development, runtime and
                                     operation
                                     architectures of REST api</li>
@@ -886,10 +881,9 @@
 
                         <div class="more">
                             <p class="text-p">
-                                Our Mission is to build scalable and sustainable Automated Predictive Analytics (APA)
-                                solutions which are invisible and assistive, allowing manufacturers to do what they love
-                                - efficient productions. We are rooted to give one simple solution to make any work
-                                easier, smarter and upgraded.
+                            Our Mission is to build scalable and sustainable AI solutions which are assistive and 
+                            provide actionable insights allowing manufacturers to do what they love - efficient productions. 
+                            We are rooted to give one simple solution to make any work easier, smarter and upgraded.
                             </p>
                         </div>
                     </div>
@@ -901,11 +895,9 @@
 
                         <div class="more">
                             <p class="text-p">
-                                How do you change the world? Bring people together. Where is the easiest big place to
-                                bring people together? In the work environment. Therefore we consistently strive to
-                                create the healthiest environment where our team can innovate, learn and grow without
-                                any push and pull. We cater to the needs of our employees with utmost affection as they
-                                belong with us. We care because you do.
+                            How do you change the world? Bring people together. 
+                            Where is the easiest place to bring people together? In the work environment. 
+                            Therefore we consistently strive to create the healthiest environment where our team can innovate, learn and grow without any push and pull. We cater to the needs of our employees with utmost affection as they belong with us. We care because you do.
                             </p>
                         </div>
                     </div>

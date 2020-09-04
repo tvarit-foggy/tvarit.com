@@ -1,5 +1,5 @@
 <?php  
-   
+  include 'config.php';
   $email = $_POST["email"];
   $subject = "Request for Tvarit's - Automated Predictive Analytics - software demo";
   $to = "$email";
@@ -18,9 +18,9 @@
 
 This message contains information that may be privileged or confidential and is the property of the Tvarit GmbH. It is intended only for the person to whom it is addressed. If you are not the intended recipient, you are not authorized to read, print, retain copy, disseminate, distribute, or use this message or any part thereof. If you receive this message in error, please notify the sender immediately and delete all copies of this message. "
 ;
-    $headers  = "From: demo@tvarit.com\r\n" .
+    $headers  = "From: $demo_mail_from\r\n" .
   "X-Mailer: php\r\n";
-  $headers .= "Bcc: demo@tvarit.com\r\n";
+  $headers .= "Bcc: $demo_mail_from\r\n";
   
    mail($to,$subject,$message,$headers);
    

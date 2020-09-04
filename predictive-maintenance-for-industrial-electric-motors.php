@@ -135,10 +135,10 @@
                         <ul class="ul-list-bullet">
                             <li>Real time prediction of various maintenance attributes</li>
                             <li>Reduced maintenance costs</li>
-                            <li>Reduced unexpected failures</li>
-                            <li>Increased MTBF</li>
+                            <li>Prevention of unexpected failures</li>
+                            <li>Increased MTBF (mean time between failures)</li>
                             <li>Increased Uptime</li>
-                            <li>Reduced spare part inventory</li>
+                            <li>Reduced spare part inventory and inventory costs</li>
                         </ul>
                     </div>
                 </div>
@@ -154,8 +154,8 @@
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We support large and medium-sized industrial motor users in reducing the risk of their asset failures
-                    and inventory costs of spare parts.
+                We support large and medium-sized manufacturing companies in reducing the risk of 
+                their asset failures and inventory costs of spare parts.
                 </div>
             </div>
         </div>
@@ -227,8 +227,8 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Predicting the shutdown of big motor drives used in printing press while they are in
-                            operation. Price of each motor: 15000 euros.</p>
+                            Prediction of potential shutdowns of motor drives used in printing presses during operation. 
+                            Price of each motor: 15.000 €</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
                             class="btn btn-round btn-red-grd">Download Use Case</a>
