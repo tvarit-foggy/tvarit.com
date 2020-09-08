@@ -2677,3 +2677,16 @@ a .tvarit-black:hover {
 .p-content-justify {
     text-align: justify;
 }
+.nav-link-seprator {
+    padding: 20px 2px 20px 2px !important;
+}
+.nav-link .nav-link-seprator:hover {
+        height: 0px !important;
+        
+}
+.main-menu .navbar-nav .nav-item a.nav-link.nav-link-seprator:before {
+height: 0px !important;
+}
+.main-menu .navbar-nav .nav-item .nav-link:hover, .fixed-menu.sticky .navbar-nav .nav-item a.nav-link.nav-link-seprator:hover {
+    color: black !important;
+}
