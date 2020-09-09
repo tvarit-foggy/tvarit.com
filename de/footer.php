@@ -316,7 +316,7 @@
                                  </div>
 
                                  <div class="form-group">
-                                     <textarea class="form-control" rows="3" name="msg" id="msg"
+                                     <textarea class="form-control" rows="6" name="msg" id="msg"
                                          placeholder="Nachricht"></textarea>
                                  </div>
                                  <br>

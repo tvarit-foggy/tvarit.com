@@ -9,8 +9,7 @@ function IsEmail(email) {
 }
 $("#btnUsecase").live("click", function() {
     var isAccepted = $('#isAccept').is(':checked');
-    if ($("#nameUsecase").val() !== "" && $("#comUsecase").val() !== "" && $("#emailUsecase").val() !== "" &&
-        $("#phoneUsecase").val() !== "" && isAccepted) {
+    if ($("#nameUsecase").val() !== "" && $("#comUsecase").val() !== "" && $("#emailUsecase").val() !== "" && isAccepted) {
         if (!IsEmail($("#emailUsecase").val())) {
             var e = document.getElementById("emailValidationUsecase");
             e.className = "show";
@@ -26,7 +25,7 @@ $("#btnUsecase").live("click", function() {
         var x = document.getElementById("snackbarUsecase");
         $.ajax({
             type: "POST",
-            url: "/useCaseMail?page=<?php echo $isFor; ?>",
+            url: "./useCaseMail?page=<?php echo $isFor; ?>",
             data: "name=" + name + '&email=' + email + '&company=' + company + '&phone=' + phone,
             success: function(data) {
                 x.className = "show";
@@ -161,7 +160,7 @@ $("#btnUsecase").live("click", function() {
                     </div>
 
                     <div class="form-group">
-                        <input type="text" class="form-control" name="phone" id="phoneUsecase" placeholder="Phone *"
+                        <input type="text" class="form-control" name="phone" id="phoneUsecase" placeholder="Phone"
                             onkeypress='validate(event)'>
                     </div>
                     <div class="form-group">

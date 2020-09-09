@@ -229,7 +229,7 @@
                             <h3 class="fw-900">komplette Fallstudie</h3>
                         </div>
                         <div>
-                            <a href="#contact_us" data-toggle="modal" data-target="#exampleModal"
+                            <a href="#" data-toggle="modal" data-target="#myModal"
                                 class="btn btn-round btn-white">Klicken Sie hier</a>
                         </div>
                     </div>

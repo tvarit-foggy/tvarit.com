@@ -203,15 +203,16 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                        Haben Sie Fragen oder Anmerkungen?
+                            Haben <br> Sie Fragen <br>oder Anmerkungen?
                         </div>
                         <div class="text-big60">
-                        WIR FREUEN UNS, VON IHNEN ZU HÖREN.
+                            WIR FREUEN UNS, VON IHNEN ZU HÖREN.
                         </div>
                         <br>
                         <p class="text-p">
-                        Rufen Sie uns einfach an oder füllen Sie das untenstehende Formular aus. Wir werden uns innerhalb der nächsten 24 Stunden bei Ihnen melden.
-                        </p>                          
+                            Rufen Sie uns einfach an oder füllen Sie das untenstehende Formular aus. Wir werden uns
+                            innerhalb der nächsten 24 Stunden bei Ihnen melden.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -224,31 +225,19 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg-12">
                     <div class="innr-sec-mainTitle centerTitle">
-                    Contact persons for questions and partnerships
+                        Contact persons for questions and partnerships
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="lookingBox brdr-black" style="border-color: var(--primary) !important">
+                <div class="col-lg-12">
+                    <div class="lookingBox brdr-black centerTitle"
+                        style="border-color:var(--primary) !important; display:block;">
                         <div class="text">
-                        <h3 class="fw-900">Hitesh Mittal</h3>
-                        <span class="fs-18  fw-400">Director Sales & Marketing</span><br><br>
-                        <a href="tel:+49 1512 4936026"><span class="fs-18  fw-400">+49 1512 4936026</span></a><br><br>
-                        <a href="mailto:hitesh.mittal@tvarit.com"><span class="fs-18  fw-400" style="text-transform:lowercase">hitesh.mittal@tvarit.com</span></a>
-                        </div>
-                        <div>
-                            <!-- <a href="#" data-toggle="modal" data-target="#exampleModal"
-                                class="btn btn-round btn-red-grd">Click Here</a> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="lookingBox brdr-black" style="border-color:var(--primary) !important">
-                        <div class="text">
-                        <h3 class="fw-900">Tobias Gundermann</h3>
-                        <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
-                        <a href="tel:+49 171 2251178"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
-                        <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400" style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
-                            
+                            <h3 class="fw-900">Tobias Gundermann</h3>
+                            <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
+                            <a href="tel:+49 171 2251178"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
+                            <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400"
+                                    style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
+
                         </div>
 
                         <div>
@@ -266,7 +255,7 @@
             <div class="row justify-content-between formContent">
                 <div class="col-md-7 mb-4 order-2 order-md-1">
                     <div class="text-contact">
-                    KONTAKTFORMULAR
+                        KONTAKTFORMULAR
                     </div>
                     <br>
                     <div class="white-box-shadow">
@@ -293,7 +282,7 @@
                             </div>
 
                             <div class="form-group">
-                                <textarea class="form-control" rows="3" name="msg" id="msg"
+                                <textarea class="form-control" rows="6" name="msg" id="msg"
                                     placeholder="Nachricht"></textarea>
                             </div>
                             <br>
@@ -307,7 +296,7 @@
                 </div>
                 <div class="col-md-4 order-1 order-md-2 mb-md-0">
                     <div class="text-contact">
-                    KONTAKTINFORMATIONEN
+                        KONTAKTINFORMATIONEN
                     </div>
                     <br>
                     <div class="ctnDetailBox">
@@ -317,12 +306,16 @@
 
                     <div class="ctnDetailBox">
                         <h4 class="red">Telefon</h4>
-                        <a href="tel:+49 173 835 1380"><p class="text-p">+49 173 835 1380</p></a>
+                        <a href="tel:+49 173 835 1380">
+                            <p class="text-p">+49 173 835 1380</p>
+                        </a>
                     </div>
 
                     <div class="ctnDetailBox">
                         <h4 class="red">E-mail</h4>
-                        <a href="mailto:info@tvarit.com"><p class="text-p">info@tvarit.com</p></a>
+                        <a href="mailto:info@tvarit.com">
+                            <p class="text-p">info@tvarit.com</p>
+                        </a>
                     </div>
 
                     <div class="ctnDetailBox">

@@ -279,8 +279,8 @@
                      <div class="ft-social">
                          <h3>Disclaimer</h3>
                          <div class="ft-links">
-                             <a href="impressum">Impressum</a>
-                             <a href="datenschutz">Datenschutz</a>
+                             <a href="impressum">Imprint</a>
+                             <a href="datenschutz">Privacy Policy</a>
                          </div>
                      </div>
 
@@ -320,7 +320,7 @@
                                  </div>
 
                                  <div class="form-group">
-                                     <textarea class="form-control" rows="3" name="msg" id="msg"
+                                     <textarea class="form-control" rows="6" name="msg" id="msg"
                                          placeholder="Message"></textarea>
                                  </div>
                                  <br>
