@@ -18,8 +18,8 @@
         }
     }
     if(!isSaved && lang== 'de') {
-            // document.cookie = 'lang=' + lang + ";path=/";
-            // window.location.href = "https://tvarit.com/de/";
+            document.cookie = 'lang=' + lang + ";path=/";
+            window.location.href = "https://tvarit.com/de/";
     }
     window.onbeforeunload = function(e) {
         window.onunload = function() {
