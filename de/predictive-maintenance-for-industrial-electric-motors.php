@@ -283,7 +283,7 @@
                                 <h3 class="fw-900">Sie die komplette Fallstudie</h3>
                             </div>
                             <div>
-                                <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn btn-round btn-white">Klicken Sie hier</a>
+                                <a href="#" data-toggle="modal" data-target="#myModal" class="btn btn-round btn-white">Klicken Sie hier</a>
                             </div>
                         </div>
                     </div>
@@ -295,7 +295,7 @@
                             </div>
 
                             <div>
-                            <a href="#form1" class="btn btn-round btn-red-grd">Klicken Sie hier</a>
+                            <a href="#contact_us" class="btn btn-round btn-red-grd">Klicken Sie hier</a>
                             </div>
                         </div>
                     </div>

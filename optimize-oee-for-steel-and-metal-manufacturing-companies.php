@@ -231,7 +231,7 @@
                             <h3 class="fw-900">full case study</h3>
                         </div>
                         <div>
-                            <a href="#contact_us" data-toggle="modal" data-target="#exampleModal"
+                            <a href="#" data-toggle="modal" data-target="#myModal"
                                 class="btn btn-round btn-white">Click Here</a>
                         </div>
                     </div>

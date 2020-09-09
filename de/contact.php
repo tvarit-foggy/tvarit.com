@@ -203,7 +203,7 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                            Haben Sie Fragen oder Anmerkungen?
+                            Haben <br> Sie Fragen <br>oder Anmerkungen?
                         </div>
                         <div class="text-big60">
                             WIR FREUEN UNS, VON IHNEN ZU HÖREN.
