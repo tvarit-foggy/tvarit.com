@@ -5,8 +5,23 @@
     <script src="js/navigationDE.js"></script>
     <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
     
-    <script type="text/javascript" src="https://secure.leadforensics.com/js/190397.js" ></script>
-    <noscript><img alt="" src="https://secure.leadforensics.com/190397.png" style="display:none;" /></noscript>
+    <script>
+  (function(){
+
+    window.ldfdr = window.ldfdr || {};
+    (function(d, s, ss, fs){
+      fs = d.getElementsByTagName(s)[0];
+
+      function ce(src){
+        var cs  = d.createElement(s);
+        cs.src = src;
+        setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1);
+      }
+
+      ce(ss);
+    })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_lYNOR8xMWAb7WQJZ.js');
+  })();
+    </script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143837547-1"></script>
