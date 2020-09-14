@@ -2284,10 +2284,11 @@ span.text-big60.red.fw-300.ai_predictive {
 .weOfferBox .featureBox .title
 {
     font-weight: bold;
-    font-size: var(--fs-40);
+    font-size: var(--fs-20);
     line-height: 1;
     margin-bottom: 10px;
-    text-transform: capitalize;   
+    text-transform: capitalize;
+    overflow-wrap: break-word; 
 }
 .weOfferBox .featureBox:hover
 {
@@ -2536,7 +2537,7 @@ span.text-big60.red.fw-300.ai_predictive {
     left: 0;
     right: 0;
     margin: auto;
-    width: 32%;
+    width: 35%;
 }
 
 .text-white
