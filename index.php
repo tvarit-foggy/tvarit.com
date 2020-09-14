@@ -6,7 +6,10 @@
     <script src="js/navigationDE.js"></script>
 
     <style>
-    .mySlides {display: none;} </style>
+    .mySlides {
+        display: none;
+    }
+    </style>
 
     <!-- Google Tag Manager -->
     <script>
@@ -94,47 +97,48 @@
     <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important">
         <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
         <div class="headerOverlay">
-        <div class="container">
-            <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
-                    class="icon ion-ios-arrow-dropdown"></i></a>
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="typography lh-1 left">
-                        <div id="tvarit-strings" class="stringText">
-                            <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
-                        </div>
-                        <div id="industrial-strings" class="stringText">
-                            <span>INDUSTRIAL <span class="red">AI</span> </span>
-                        </div>
-                        <div id="prgf-strings" class="stringText">
-                            <span>Fast and customized solutions for all your manufacturing problems and data science
-                                needs</span>
-                        </div>
-                        <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
-                        <div class="hdr-industrial" id="typed-industrial"></div>
-                        <div class="hdr-prgf"><span id="typed-prgf"></span></div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <img src="img/EDI_logo.png" class="img-fluid edi_index_logo" style="margin-left: auto;margin-right:auto;display:block">
-                    <div class="typography right lh-1" style="text-align:center">
-                        <div id="germany-strings" class="stringText">
-                            <span style="text-align:center">YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
-                        </div>
-                        <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
-                        <div class="hdr-prgf2r">
-                            <span id="typed-prgf2r"></span>
-                            <div class="rw-words-1">
-                                <span>Remove inefficiencies and failures of your production units and business
-                                    processes</span>
-                                <span>Reduce the failure rate of all your AI/Data Science Projects</span>
+            <div class="container">
+                <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
+                        class="icon ion-ios-arrow-dropdown"></i></a>
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <div class="typography lh-1 left">
+                            <div id="tvarit-strings" class="stringText">
+                                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
                             </div>
+                            <div id="industrial-strings" class="stringText">
+                                <span>INDUSTRIAL <span class="red">AI</span> </span>
+                            </div>
+                            <div id="prgf-strings" class="stringText">
+                                <span>Fast and customized solutions for all your manufacturing problems and data science
+                                    needs</span>
+                            </div>
+                            <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
+                            <div class="hdr-industrial" id="typed-industrial"></div>
+                            <div class="hdr-prgf"><span id="typed-prgf"></span></div>
                         </div>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="img/EDI_logo.png" class="img-fluid edi_index_logo"
+                            style="margin-left: auto;margin-right:auto;display:block">
+                        <div class="typography right lh-1" style="text-align:center">
+                            <div id="germany-strings" class="stringText">
+                                <span style="text-align:center">YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
+                            </div>
+                            <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
+                            <div class="hdr-prgf2r">
+                                <span id="typed-prgf2r"></span>
+                                <div class="rw-words-1">
+                                    <span>Remove inefficiencies and failures of your production units and business
+                                        processes</span>
+                                    <span>Reduce the failure rate of all your AI/Data Science Projects</span>
+                                </div>
+                            </div>
 
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         </div>
     </header>
     <!------------------------ header end --------------------------->
@@ -150,19 +154,20 @@
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="innr-sec-mainTitle inner-lg-heading">EXPERIENCE ONE OF THE MOST INNOVATIVE INDUSTRIAL AI
+                            <div class="innr-sec-mainTitle inner-lg-heading">EXPERIENCE ONE OF THE MOST INNOVATIVE
+                                INDUSTRIAL AI
                                 COMPANIES IN EUROPE</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <!-- <div class="imgW-more"> -->
-                            <p class="text-p">We have been awarded as one of the winners of the European Data Incubator
-                                2020 experiment phase round in Spain.
-                            </p>
+                        <p class="text-p">We have been awarded as one of the winners of the European Data Incubator
+                            2020 experiment phase round in Spain.
+                        </p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                        <a href="european-data-incubator" target="_blank"
-                   class="btn btn-round btn-red-grd">Know More</a>
-                   </div>
+                            <a href="european-data-incubator" target="_blank" class="btn btn-round btn-red-grd">Know
+                                More</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -170,14 +175,85 @@
         </div>
     </div>
     <!------------------------ Features start --------------------->
-    <div class="section-padding" >
+    <div class="section-padding">
         <div class="container">
             <div class="centerTitle sec-mainTitle">
-                we offer
+                AI Solutions
             </div>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
-                <div class="col-lg-4">
+                <div class="col-lg-6">
+                    <div class="typography optiBgTrns">
+                        <div class="text-1">
+                            Optimize OEE for
+                        </div>
+                        <div class="content">
+                            <div class="text-big60">
+                                Aluminium Metal</div>
+                            <div class="text-big40">
+                                Manufacturing
+                                <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
+                                class="btn btn-round btn-red-grd" style="float:right">Know More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <div class="col-lg-6">
+                    <div class="typography optiBgTrns">
+                        <div class="text-1">
+                            AI based Production Planning solution for
+                        </div>
+                        <div class="content" style="height: 155px;">
+                            <div class="text-big60">
+                                Cable
+                            </div>
+                            <div class="text-big40">
+                            Manufacturing
+                            <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank"
+                                class="btn btn-round btn-red-grd" style="float:right">Know More</a>
+                            </div>
+                         </div>
+                     </div>
+                </div>
+                <br>
+                <div class="col-lg-6">
+                    <div class="typography optiBgTrns">
+                        <div class="text-1" >
+                            Predictive Maintenance for
+                        </div>
+                        <div class="content">
+                            <div class="text-big60">
+                                Industrial
+                            </div>
+                            <div class="text-big40">
+                                Electric Motors
+                                <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank"
+                                class="btn btn-round btn-red-grd" style="float:right">Know More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <div class="col-md-6">
+                    <div class="typography optiBgTrns" style="width: 100%;">
+                        <div class="text-1" >
+                            Predictive Quality for
+                        </div>
+                        <div class="content" style="height: 162px;">
+                            <div class="text-big60">
+                                Die-casting
+                            </div>
+                            <div class="text-big40" st>
+                             Process
+                             <a href="predictive-quality-for-die-casting-machines" target="_blank"
+                                class="btn btn-round btn-red-grd" style="float:right">Know More</a>
+                            </div>
+                         </div>
+                     </div>
+                </div>
+                <br>
+                <!-- <div class="col-lg-4">
                     <div class="featureBox">
                         <div class="icon">
                             <img src="img/ai-solution-1.png">
@@ -254,7 +330,7 @@
                                 More</a>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
             </div>
         </div>
