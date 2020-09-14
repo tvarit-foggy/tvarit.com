@@ -182,97 +182,18 @@
             </div>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
-                <div class="col-lg-6">
-                    <div class="typography optiBgTrns">
-                        <div class="text-1">
-                            Optimize OEE for
-                        </div>
-                        <div class="content" style="background: url('./img/bg-steel-coil.jpg');background-size:cover">
-                            <div class="text-big60">
-                                Aluminium Metal</div>
-                            <div class="text-big40">
-                                Manufacturing
-                                <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
-                                class="btn btn-round btn-red-grd" style="float:right">Know More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <br>
-                <div class="col-lg-6">
-                    <div class="typography optiBgTrns">
-                        <div class="text-1">
-                            AI based Production Planning solution for
-                        </div>
-                        <div class="content"  style="height: 155px;background: url('./img/bg-cable-manufacturing.jpg');background-size:cover">
-                            <div class="text-big60">
-                                Cable
-                            </div>
-                            <div class="text-big40">
-                            Manufacturing
-                            <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank"
-                                class="btn btn-round btn-red-grd" style="float:right">Know More</a>
-                            </div>
-                         </div>
-                     </div>
-                </div>
-                <br>
-                <div class="col-lg-6">
-                    <div class="typography optiBgTrns">
-                        <div class="text-1" >
-                            Predictive Maintenance for
-                        </div>
-                        <div class="content" style="background: url('./img/bg-electric-motor.jpg');background-size:cover">
-                            <div class="text-big60">
-                                Industrial
-                            </div>
-                            <div class="text-big40">
-                                Electric Motors
-                                <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank"
-                                class="btn btn-round btn-red-grd" style="float:right">Know More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <br>
-                <div class="col-md-6">
-                    <div class="typography optiBgTrns" style="width: 100%;">
-                        <div class="text-1" >
-                            Predictive Quality for
-                        </div>
-                        <div class="content" style="height: 162px;background: url('./img/bg-die-casting-machineg.jpg');background-size:cover">
-                            <div class="text-big60">
-                                Die-casting
-                            </div>
-                            <div class="text-big40" st>
-                             Process
-                             <a href="predictive-quality-for-die-casting-machines" target="_blank"
-                                class="btn btn-round btn-red-grd" style="float:right">Know More</a>
-                            </div>
-                         </div>
-                     </div>
-                </div>
-                <br>
-                <!-- <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-solution-1.png">
+                            <img src="img/bg-steel-coil.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI Solutions</p>
+                            <p class="title text-center">OPTIMIZE OEE FOR </p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    We provide end to end solutions including all types of hardware infrastructure
-                                </li>
-                                <li>
-                                    Ready to use AI solutions for predictive maintenance, quality prediction, process optimisation and production planning
-                                </li>
-                                <li>
-                                    Scalable and already proven technology
-                                </li>
-                                <li>
-                                    Available on On-Premise, Cloud and edge-computing
+                                ALUMIIUM COIL MANUFACTURING
                                 </li>
                             </ul>
                             <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
@@ -281,56 +202,62 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-platform-1.png">
+                            <img src="img/bg-cable-manufacturing.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI Framework</p>
+                            <p class="title text-center">AI BASED PRODUCTION PLANNING SOLUTION FOR</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    Award winning AI Framework for your Data Scientists
-                                </li>
-                                <li>
-                                Full and integrated tools to analyse manufacturing data and to develop new use-cases on your own
-                                </li>
-                                <li>
-                                    Available on On-Premise, Cloud and edge-computing
+                                CABLE MANUFACTURING
                                 </li>
                             </ul>
-                            <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
+                            <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
                             style="padding: 12px !important"> Know
                                 More</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-consulting.jpg">
+                            <img src="img/bg-electric-motor.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI Consulting</p>
+                            <p class="title text-center">PREDICTIVE MAINTENANCE FOR</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                We support you with data extraction, IT systems integration, data preparation and AI modelling
-                                </li>
-                                <li>
-                                Flexibly hire managed outside teams and data science experts within hours
-                                </li>
-                                <li>
-                                    Innovative task based pricing
+                                INDUSTRIAL ELECTRIC MOTORS
                                 </li>
                             </ul>
-                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
+                            <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
                                 More</a>
                         </div>
                     </div>
-                </div> -->
+                </div>
+                <div class="col-lg-3">
+                    <div href="ai-consulting" target="_blank" class="featureBox">
+                        <div class="icon">
+                            <img src="img/bg-die-casting-machineg.jpg">
+                        </div>
+                        <div class="inner-container">
+                            <p class="title text-center">PREDICTIVE QUALITY FOR</p>
+                            <div class="short-line mx-auto bg-red"></div>
+                            <ul class="ul-list">
+                                <li>
+                                DIE-CASTING PROCESS
+                                </li>
+                            </ul>
+                            <a href="predictive-quality-for-die-casting-machines" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
+                                More</a>
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>

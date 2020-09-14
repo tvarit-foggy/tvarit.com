@@ -167,84 +167,83 @@
     <!------------------------ Features start --------------------->
     <div class="section-padding" >
         <div class="container">
-            <div class="centerTitle sec-mainTitle">
-            Unsere Angebote
+            <div class="centerTitle sec-mainTitle"> 
+                AI-LÖSUNGEN
             </div>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
-                <div class="col-lg-4">
+            <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-solution-1.png">
+                            <img src="img/bg-steel-coil.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">KI Lösungen</p>
+                            <p class="title text-center">STEIGERUNG DER GESAMTANLAGENEFFIZIENZ </p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    Wir bieten ganzheitliche Lösungen für alle Arten von Hardware-Infrastruktur an
-                                </li>
-                                <li>
-                                Einsatzbereite KI Lösungen für Predictive Maintenance, Qualitätsvorhersage, Prozessoptimierung und Produktionsplanung
-                                </li>
-                                <li>
-                                      Skalierbare und mehrfach bewährte Technologie
-                                </li>
-                                <li>
-                                     Verfügbar on-premise, in der Cloud und für Edge-Computing
+                                IN DER ALUMINIUM PRODUKTION
                                 </li>
                             </ul>
                             <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
-                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren</a>
+                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know More</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-platform-1.png">
+                            <img src="img/bg-cable-manufacturing.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">KI Plattform</p>
+                            <p class="title text-center">KI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG FÜR</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                Preisgekrönte KI Plattform für Ihre Datenwissenschaftler
-                                </li>
-                                <li>
-                                Vollständiger Satz an Werkzeugen zur Analyse von Produktionsdaten und zur ganzheitlichen Entwicklung neuer Anwendungsfälle.
-                                </li>
-                                <li>
-                                Verfügbar on-premise, in der Cloud und für Edge-Computing
+                                DIE KABELHERSTELLUNG
                                 </li>
                             </ul>
-                            <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
-                            style="padding: 12px !important"> Mehr erfahren</a>
+                            <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
+                            style="padding: 12px !important"> Know
+                                More</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-consulting.jpg">
+                            <img src="img/bg-electric-motor.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">KI Beratung</p>
+                            <p class="title text-center">PREDICTIVE MAINTENANCE FÜR</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                Wir unterstützen Sie bei der Datenextraktion, IT-Systemintegration, Datenaufbereitung und KI-Modellierung
-                                </li>
-                                <li>
-                                Unsere Teams und Data Scientist stehen Ihnen flexibel innerhalb von wenigen Stunden zur Verfügung.
-                                </li>
-                                <li>
-                                Innovatives, aufgabenbasiertes Preismodell
+                                INDUSTRIELLE ELEKTROMOTOREN
                                 </li>
                             </ul>
-                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren</a>
+                            <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
+                                More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div href="ai-consulting" target="_blank" class="featureBox">
+                        <div class="icon">
+                            <img src="img/bg-die-casting-machineg.jpg">
+                        </div>
+                        <div class="inner-container">
+                            <p class="title text-center">QUALITÄTSVORHERSAGE</p>
+                            <div class="short-line mx-auto bg-red"></div>
+                            <ul class="ul-list">
+                                <li>
+                                IM DRUCKGUSS-VERFAHREN.
+                                </li>
+                            </ul>
+                            <a href="predictive-quality-for-die-casting-machines" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
+                                More</a>
                         </div>
                     </div>
                 </div>
