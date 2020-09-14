@@ -187,7 +187,7 @@
                         <div class="text-1">
                             Optimize OEE for
                         </div>
-                        <div class="content">
+                        <div class="content" style="background: url('./img/bg-steel-coil.jpg');background-size:cover">
                             <div class="text-big60">
                                 Aluminium Metal</div>
                             <div class="text-big40">
@@ -204,7 +204,7 @@
                         <div class="text-1">
                             AI based Production Planning solution for
                         </div>
-                        <div class="content" style="height: 155px;">
+                        <div class="content"  style="height: 155px;background: url('./img/bg-cable-manufacturing.jpg');background-size:cover">
                             <div class="text-big60">
                                 Cable
                             </div>
@@ -222,7 +222,7 @@
                         <div class="text-1" >
                             Predictive Maintenance for
                         </div>
-                        <div class="content">
+                        <div class="content" style="background: url('./img/bg-electric-motor.jpg');background-size:cover">
                             <div class="text-big60">
                                 Industrial
                             </div>
@@ -240,7 +240,7 @@
                         <div class="text-1" >
                             Predictive Quality for
                         </div>
-                        <div class="content" style="height: 162px;">
+                        <div class="content" style="height: 162px;background: url('./img/bg-die-casting-machineg.jpg');background-size:cover">
                             <div class="text-big60">
                                 Die-casting
                             </div>
