@@ -224,6 +224,13 @@ div.fadeMe {
                             </div>
                         </div>
                     </li>
+                    <li class="nav-item">
+                    <div style="display:flex;">
+                        <a class="nav-link" href="https://www.tvarit.com/">EN</a>
+                        <a class="nav-link nav-link-seprator" href="#">|</a>
+                        <a class="nav-link" href="https://www.tvarit.com/de">DE</a>
+                    </div>
+                </li>
                 </ul>
             </div>
         </nav>

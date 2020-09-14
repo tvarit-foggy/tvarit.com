@@ -97,16 +97,18 @@
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1">
-                            Optimize OEE for
+                        OPTIMIZE OEE FOR
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                                Aluminium Metal</div>
+                            ALUMIIUM COIL</div>
                             <div class="text-big40">
-                                Manufacturing
+                            MANUFACTURING
                             </div>
                         </div>
                         <br>
+
+
                     </div>
                 </div>
             </div>
@@ -151,8 +153,7 @@
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We support large and medium sized steel/metal manufacturing organizations in optimizing their
-                    production processes, improving their management systems and achieving higher profitability.
+                We support large and medium sized manufacturing organizations in optimizing their production processes, improving their management systems and achieving higher profitability.
                 </div>
             </div>
         </div>
@@ -174,7 +175,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <p class="text-p">
-                                Predicting the quality status of aluminium/metal. Capacity: 500,000 tons per year.</p>
+                            Predicting the quality status of alumimium coils. Capacity: 500,000 tons per year.</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
                             class="btn btn-round btn-red-grd">Download Use Case</a>
@@ -198,7 +199,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="">
                             <ul class="ul-list-bullet">
-                                <li>Reduce number of defected metals from 5% to 1.2 %</li>
+                                <li>Reduced number of defected coils by more than 75% from 5% to 1.2%</li>
                                 <li>Real time production view</li>
                                 <li>Increased know-how</li>
                                 <li>Measurable economic benefits</li>
@@ -226,11 +227,11 @@
                 <div class="col-lg-6">
                     <div class="lookingBox rerBg-grd">
                         <div class="text text-white">
-                            <span class="fs-18  fw-400">Request for</span>
-                            <h3 class="fw-900">a full case study</h3>
+                            <span class="fs-18  fw-400">download the </span>
+                            <h3 class="fw-900">full case study</h3>
                         </div>
                         <div>
-                            <a href="#contact_us" data-toggle="modal" data-target="#exampleModal"
+                            <a href="#" data-toggle="modal" data-target="#myModal"
                                 class="btn btn-round btn-white">Click Here</a>
                         </div>
                     </div>

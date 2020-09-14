@@ -237,9 +237,7 @@
                             <a href="tel:+49 179 2429893"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
                             <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400"
                                     style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
-
                         </div>
-
                         <div>
                             <!-- <a href="#form1" class="btn btn-round btn-red-grd">Click Here</a> -->
                         </div>
@@ -282,7 +280,7 @@
                             </div>
 
                             <div class="form-group">
-                                <textarea class="form-control" rows="3" name="msg" id="msg"
+                                <textarea class="form-control" rows="6" name="msg" id="msg"
                                     placeholder="Message"></textarea>
                             </div>
                             <br>

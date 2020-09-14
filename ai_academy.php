@@ -79,12 +79,12 @@
                         <span class="line line1"></span>
                         <span class="letters red fw-600">Make AI understandable</span>
                     </span>
-                </h1>
+                </h1> 
               </div>
               <div class="text-big60">for your employees</div>
               <div class="subtext">
-                <div class="text-s1  animated infinite pulse slower" >by learning from the best AI experts</div>
-                <div class="text-s2 animated infinite pulse slower">in the Germany</div>
+                <div class="text-s1  animated infinite pulse slower" >by learning from some of the best AI experts</div>
+                <div class="text-s2 animated infinite pulse slower">in Germany</div>
               </div>
              
             </div>
@@ -104,11 +104,7 @@
                 
                 <div class="text-p mb-0">
                   <p class="text-p">
-                        We understand the increasing demand and importance given by the companies to know all about the
-                        possibilities of using AI and data. In our training workshops you will learn about the most
-                        innovative and best solutions to overcome all kinds of challenges which you face in your AI
-                        journey starting from Conceptualization, Validation Data extraction till final AI-enabled
-                        business processes and products.
+                  We understand the increasing demand and importance given by the companies to know all about the possibilities of using AI and data. In our training workshops you will learn about the most innovative and best solutions to overcome all kinds of challenges which you face in your AI journey starting from Conceptualization, Validation Data extraction till final AI-enabled business processes and products.
                     </p>
                     <p class="text-p mb-0">
                         Only experienced and highly educated Data Scientists train in our AI Academy. Our team always
@@ -138,8 +134,7 @@
                         </div>
 
                         <div class="more">
-                            <p class="text-p">Benefit from our knowledge of over 200+ Industrial projects while working
-                                with Fortune 500 companies
+                            <p class="text-p">Benefit from our knowledge of over 200+ Industrial projects while working with Fortune 500 companies.
                             </p>
                         </div>
 
@@ -167,7 +162,7 @@
 
                         <div class="more">
                             <p class="text-p">
-                                Learn from the best AI, Data Science and machine learning experts in your company
+                            Learn from the best AI, Data Science and machine learning experts at your facility
                             </p>
                         </div>
 

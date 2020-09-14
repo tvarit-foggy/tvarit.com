@@ -40,7 +40,7 @@ $('.more').readmore({
 
 $('.whyapamore,.ftaboutmore').readmore({
   speed: 200,
-  collapsedHeight: 60,
+  collapsedHeight: 150,
   moreLink: '<a href="#" class="readmorebtn">Read more...</a>',
   lessLink: '<a href="#" class="readmorebtn">Read less</a>'
 });
