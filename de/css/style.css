@@ -2682,8 +2682,15 @@ a .tvarit-black:hover {
     padding: 20px 2px 20px 2px !important;
 }
 .nav-link .nav-link-seprator:hover {
-        height: 0px !important;
-        
+        height: 0px !important;     
+}
+.nav-link-en {
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+}
+.nav-link-de {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
 }
 .main-menu .navbar-nav .nav-item a.nav-link.nav-link-seprator:before {
 height: 0px !important;
