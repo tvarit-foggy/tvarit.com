@@ -167,84 +167,107 @@
     <!------------------------ Features start --------------------->
     <div class="section-padding" >
         <div class="container">
-            <div class="centerTitle sec-mainTitle">
-            Unsere Angebote
+            <div class="centerTitle sec-mainTitle"> 
+                AI-LÖSUNGEN
             </div>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
-                <div class="col-lg-4">
+            <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-solution-1.png">
+                            <img src="img/bg-steel-coil.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">KI Lösungen</p>
+                            <p class="title text-center">OPEIMIEREN SIE OEE FÜR DIE HERSTELLUNG VON ALUMINIUMSPULEN </p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                    Wir bieten ganzheitliche Lösungen für alle Arten von Hardware-Infrastruktur an
+                                Predictive Quality
                                 </li>
                                 <li>
-                                Einsatzbereite KI Lösungen für Predictive Maintenance, Qualitätsvorhersage, Prozessoptimierung und Produktionsplanung
+                                Anzahl defekter Spulen um mehr als 75% reduziert
                                 </li>
                                 <li>
-                                      Skalierbare und mehrfach bewährte Technologie
-                                </li>
-                                <li>
-                                     Verfügbar on-premise, in der Cloud und für Edge-Computing
+                                OEE optimiert
                                 </li>
                             </ul>
                             <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
-                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren</a>
+                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know More</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-platform-1.png">
+                            <img src="img/ai_cable.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">KI Plattform</p>
+                            <p class="title text-center">AI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG FÜR DIE KABELINDUSTRIE</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                Preisgekrönte KI Plattform für Ihre Datenwissenschaftler
+                                KI-basierte Produktionsplanung
                                 </li>
                                 <li>
-                                Vollständiger Satz an Werkzeugen zur Analyse von Produktionsdaten und zur ganzheitlichen Entwicklung neuer Anwendungsfälle.
+                                Verbesserung der OEE und Produktionskosten
                                 </li>
                                 <li>
-                                Verfügbar on-premise, in der Cloud und für Edge-Computing
+                                Echtzeit Blick in die Produktion
                                 </li>
                             </ul>
-                            <a href="ai-platform" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
-                            style="padding: 12px !important"> Mehr erfahren</a>
+                            <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
+                            style="padding: 12px !important"> Know
+                                More</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/ai-consulting.jpg">
+                            <img src="img/predic1.jpg" style="max-height: 145px;">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">KI Beratung</p>
+                            <p class="title text-center">VORHERSAGENDE WARTUNG FÜR INDUSTRIELLE ELEKTROMOTOREN</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                Wir unterstützen Sie bei der Datenextraktion, IT-Systemintegration, Datenaufbereitung und KI-Modellierung
+                                Prädiktive Instandhaltung
                                 </li>
                                 <li>
-                                Unsere Teams und Data Scientist stehen Ihnen flexibel innerhalb von wenigen Stunden zur Verfügung.
+                                Erhöhte Maschinenverfügbarkeit
                                 </li>
                                 <li>
-                                Innovatives, aufgabenbasiertes Preismodell
+                                Live-Dashboard mit prädiktiven Warnmeldungen
                                 </li>
                             </ul>
-                            <a href="ai-consulting" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren</a>
+                            <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
+                                More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div href="ai-consulting" target="_blank" class="featureBox">
+                        <div class="icon">
+                            <img src="img/ai_diecast.jpg">
+                        </div>
+                        <div class="inner-container">
+                            <p class="title text-center">VORHERSAGENDE QUALITÄT FÜR DEN METALLSTANZVERFAHREN</p>
+                            <div class="short-line mx-auto bg-red"></div>
+                            <ul class="ul-list">
+                                <li>
+                                Predictive Quality
+                                </li>
+                                <li>
+                                Reduzierung von Ausschuss und Produktionskosten
+                                </li>
+                                <li>
+                                Echtzeit Blick in die Produktion
+                                </li>
+                            </ul>
+                            <a href="predictive-quality-for-die-casting-machines" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
+                                More</a>
                         </div>
                     </div>
                 </div>

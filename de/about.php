@@ -79,7 +79,14 @@
                         <br>
                         <div>
                             <p class="text-p txt-justify" style="width:90%">
-                            Wir sind ein deutsches Unternehmen mit Sitz in Frankfurt und entwickeln individuelle KI-Lösungen für alle Arten von Fertigungsproblemen und datenwissenschaftlichen Anforderungen. Wir ermöglichen es Unternehmen, intelligente und fundierte Entscheidungen zu treffen, indem wir aus einem Meer von Daten verwertbare und wertvolle Erkenntnisse ableiten. Hierfür bieten wir einsatzbereite KI-Lösungen, unsere KI-Plattform und KI-Beratungsdienste zur erfolgreichen Umsetzung von Data Science und KI-Projekten. In letzter Zeit haben wir viele renommierte Auszeichnungen erhalten, in denen wir unter anderem als eines der innovativsten KI-Unternehmen in ganz Europa ausgezeichnet wurden.
+                                Wir sind ein deutsches Unternehmen mit Sitz in Frankfurt und entwickeln individuelle
+                                KI-Lösungen für alle Arten von Fertigungsproblemen und datenwissenschaftlichen
+                                Anforderungen. Wir ermöglichen es Unternehmen, intelligente und fundierte Entscheidungen
+                                zu treffen, indem wir aus einem Meer von Daten verwertbare und wertvolle Erkenntnisse
+                                ableiten. Hierfür bieten wir einsatzbereite KI-Lösungen, unsere KI-Plattform und
+                                KI-Beratungsdienste zur erfolgreichen Umsetzung von Data Science und KI-Projekten. In
+                                letzter Zeit haben wir viele renommierte Auszeichnungen erhalten, in denen wir unter
+                                anderem als eines der innovativsten KI-Unternehmen in ganz Europa ausgezeichnet wurden.
                             </p>
                         </div>
 
@@ -99,27 +106,7 @@
             </div>
             <br>
             <div class="row">
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/Johannes.jpg" alt="Johannes"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Johannes Mathies</h4>
-                            <h6 class="title">Head of Cooperation</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Unternehmenstransformator & Opportunity-Creator</li>
-                                <li>Erfahrungen von Airbus</li>
-                                <li>Dipl.-Ing. Aerospace Engineering, MBA mit Schwerpunkt Strategie und Management</li>
-                            </ul>
-                            <div class="social-icon">
 
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
@@ -203,6 +190,31 @@
                                 <li>M.Tech vom IIT Mumbai & TU Darmstadt</li>
                                 <li>Berufserfahrung bei NASA, NTT, Linde, IFM, etc.</li>
                                 <li> Auszeichnungen von MIT GSW, Harvard-Projekt für Asien</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/tobias_hammer.png" alt="Tobias"
+                                style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name">Tobias Hammer</h4>
+                            <div class="col-md-12" style="padding-right:0px">
+                                <div class="row" style="margin-right: 0px;">
+                                    <div class="col-md-12" style="padding-left:0px;">
+                                        <h6 class="title">Marketing Manager</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="short-line-team bg-red"></div>
+
+                            <ul class="ul-list">
+                                <li>Erfahrung aus der Arbeit bei Bosch</li>
+                                <li>Hintergrund in Produktmanagement, Fertigung und Online-Marketing</li>
                             </ul>
 
                         </div>
@@ -304,8 +316,9 @@
                             <h6 class="title">Director Data Science</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Daten-Experte  und Amateur-Physiker.</li>
-                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie-Institut: IIT Bombay</li>
+                                <li>Daten-Experte und Amateur-Physiker.</li>
+                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie-Institut: IIT Bombay
+                                </li>
                                 <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
                             </ul>
                             <div class="social-icon">
@@ -366,7 +379,8 @@
             <div class="">
                 <div class="title text-center">
                     <div class="text-big60">WIR SIND STOLZ AUF DAS, WAS
-                        <br> WIR ERREICHT HABEN</div>
+                        <br> WIR ERREICHT HABEN
+                    </div>
                     <div class="short-line mx-auto bg-red"></div>
                 </div>
                 <br>
@@ -379,7 +393,7 @@
                             <div class="content">
                                 <div class="numbers">32+</div>
                                 <div class="text">
-                                erfolgreich umgesetzte Industrieprojekte
+                                    erfolgreich umgesetzte Industrieprojekte
                                 </div>
                             </div>
                         </div>
@@ -393,7 +407,7 @@
                             <div class="content">
                                 <div class="numbers">14+</div>
                                 <div class="text">
-                                Mio. Euro an Einsparungen für unsere Kunden
+                                    Mio. Euro an Einsparungen für unsere Kunden
                                 </div>
                             </div>
                         </div>
@@ -407,7 +421,8 @@
                             <div class="content">
                                 <div class="numbers">20+</div>
                                 <div class="text">
-                                Großes Netzwerk an Unternehmen und Partnern, welche uns flexibel und unabhängig machen
+                                    Großes Netzwerk an Unternehmen und Partnern, welche uns flexibel und unabhängig
+                                    machen
                                 </div>
                             </div>
                         </div>
@@ -421,7 +436,7 @@
                             <div class="content">
                                 <div class="numbers">10+</div>
                                 <div class="text">
-                                Bedeutende Auszeichnungen für unsere KI
+                                    Bedeutende Auszeichnungen für unsere KI
                                 </div>
                             </div>
                         </div>

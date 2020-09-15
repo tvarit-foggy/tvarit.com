@@ -158,27 +158,6 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/Johannes.jpg" alt="Johannes"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Johannes Mathies</h4>
-                            <h6 class="title">Head of Cooperation</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Business Transformer & Opportunity Creator</li>
-                                <li>Experience from Airbus</li>
-                                <li>Dipl.-Ing. Aerospace Engineering, MBA with focus on Strategy and Management</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
                             <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:auto;">
                         </div>
 
@@ -264,7 +243,31 @@
                         </div>
                     </div>
                 </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/tobias_hammer.png" alt="Rahul"
+                                style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name">Tobias Hammer</h4>
+                            <div class="col-md-12" style="padding-right:0px">
+                                <div class="row" style="margin-right: 0px;">
+                                    <div class="col-md-12" style="padding-left:0px;">
+                                        <h6 class="title">Marketing Manager</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="short-line-team bg-red"></div>
 
+                            <ul class="ul-list">
+                                <li>Experience from working at Bosch</li>
+                                <li>Background in Product Management, Manufacturing and Online Marketing.</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <!-------- Custom Divider ------------>

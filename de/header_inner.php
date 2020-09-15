@@ -152,9 +152,9 @@
                 </li>
                 <li class="nav-item">
                     <div style="display:flex;">
-                        <a class="nav-link" href="https://www.tvarit.com/">EN</a>
+                        <a class="nav-link nav-link-en" href="https://www.tvarit.com/"><b>EN</b></a>
                         <a class="nav-link nav-link-seprator" href="#">|</a>
-                        <a class="nav-link" href="https://www.tvarit.com/de">DE</a>
+                        <a class="nav-link nav-link-de" href="https://www.tvarit.com/de"><b>DE</b></a>
                     </div>
                 </li>
             </ul>
