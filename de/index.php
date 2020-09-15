@@ -178,7 +178,7 @@
                             <img src="img/bg-steel-coil.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">OPEIMIEREN SIE OEE FÜR DIE HERSTELLUNG VON ALUMINIUMSPULEN </p>
+                            <p class="title text-center">Aluminium-Coil Produktion </p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
@@ -200,10 +200,10 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/ai_cable.jpg">
+                            <img src="img/bg-cable-manufacturing.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG FÜR DIE KABELINDUSTRIE</p>
+                            <p class="title text-center">Kabel-Herstellung</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
@@ -226,10 +226,10 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/predic1.jpg" style="max-height: 145px;">
+                            <img src="img/bg-electric-motor.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">VORHERSAGENDE WARTUNG FÜR INDUSTRIELLE ELEKTROMOTOREN</p>
+                            <p class="title text-center">Industrielle Elektromotoren</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
@@ -250,10 +250,10 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/ai_diecast.jpg">
+                            <img src="img/bg-die-casting-machineg.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">VORHERSAGENDE QUALITÄT FÜR DEN METALLSTANZVERFAHREN</p>
+                            <p class="title text-center">Druckguss-Verfahren</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
