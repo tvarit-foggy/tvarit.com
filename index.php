@@ -186,10 +186,10 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/stainless_steel_welded_pipes1.jpg">
+                            <img src="img/bg-steel-coil.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">OPTIMIZE OEE FOR ALUMINIUM COIL MANUFACTURING</p>
+                            <p class="title text-center">Aluminium Coil Production</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
@@ -211,10 +211,10 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/ai_cable.jpg">
+                            <img src="img/bg-cable-manufacturing.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI BASED PRODUCTION PLANNING SOLUTION FOR CABLE INDUSTRY</p>
+                            <p class="title text-center">Cable Manufacturing</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
@@ -237,10 +237,10 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/predic1.jpg" style="max-height: 145px;">
+                            <img src="img/bg-electric-motor.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">PREDICTIVE MAINTENANCE FOR INDUSTRIAL ELECTRIC MOTORS</p>
+                            <p class="title text-center">Industrial Electric Motors</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
@@ -261,10 +261,10 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/ai_diecast.jpg">
+                            <img src="img/bg-die-casting-machineg.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">PREDICTIVE QUALITY FOR METAL DIE-CASTING PROCESS</p>
+                            <p class="title text-center">Die-Casting Process</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
