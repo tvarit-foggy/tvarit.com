@@ -211,7 +211,7 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-cable-manufacturing.jpg">
+                            <img src="img/ai_cable.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">AI BASED PRODUCTION PLANNING SOLUTION FOR CABLE INDUSTRY</p>
@@ -237,7 +237,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/predic1.jpg">
+                            <img src="img/predic1.jpg" style="max-height: 145px;">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">PREDICTIVE MAINTENANCE FOR INDUSTRIAL ELECTRIC MOTORS</p>
@@ -261,7 +261,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-die-casting-machineg.jpg">
+                            <img src="img/ai_diecast.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">PREDICTIVE QUALITY FOR METAL DIE-CASTING PROCESS</p>

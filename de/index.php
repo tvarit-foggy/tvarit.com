@@ -200,7 +200,7 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-cable-manufacturing.jpg">
+                            <img src="img/ai_cable.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">AI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG FÜR DIE KABELINDUSTRIE</p>
@@ -226,7 +226,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-electric-motor.jpg">
+                            <img src="img/predic1.jpg" style="max-height: 145px;">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">VORHERSAGENDE WARTUNG FÜR INDUSTRIELLE ELEKTROMOTOREN</p>
@@ -250,7 +250,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-die-casting-machineg.jpg">
+                            <img src="img/ai_diecast.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">VORHERSAGENDE QUALITÄT FÜR DEN METALLSTANZVERFAHREN</p>
