@@ -189,11 +189,17 @@
                             <img src="img/bg-steel-coil.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">OPTIMIZE OEE FOR </p>
+                            <p class="title text-center">Aluminium Coil Production</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                ALUMIIUM COIL MANUFACTURING
+                                Predictive Quality
+                                </li>
+                                <li>
+                                Reduce number of defective coils by more than 75%
+                                </li>
+                                <li>
+                                Optimize OEE
                                 </li>
                             </ul>
                             <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
@@ -208,11 +214,17 @@
                             <img src="img/bg-cable-manufacturing.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">AI BASED PRODUCTION PLANNING SOLUTION FOR</p>
+                            <p class="title text-center">Cable Manufacturing</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                CABLE MANUFACTURING
+                                AI-based Production Planning
+                                </li>
+                                <li>
+                                Improved OEE and Production Cost
+                                </li>
+                                <li>
+                                Real-Time Production View
                                 </li>
                             </ul>
                             <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
@@ -228,11 +240,17 @@
                             <img src="img/bg-electric-motor.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">PREDICTIVE MAINTENANCE FOR</p>
+                            <p class="title text-center">Industrial Electric Motors</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                INDUSTRIAL ELECTRIC MOTORS
+                                Predictive Maintenance
+                                </li>
+                                <li>
+                                Increased Motor Uptime
+                                </li>
+                                <li>
+                                Live Dashboard with Predictive Alerts
                                 </li>
                             </ul>
                             <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
@@ -246,11 +264,17 @@
                             <img src="img/bg-die-casting-machineg.jpg">
                         </div>
                         <div class="inner-container">
-                            <p class="title text-center">PREDICTIVE QUALITY FOR</p>
+                            <p class="title text-center">Die-Casting Process</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
                                 <li>
-                                DIE-CASTING PROCESS
+                                Predictive Quality
+                                </li>
+                                <li>
+                                Reduce Scrap and Production Cost
+                                </li>
+                                <li>
+                                Real-Time Production View
                                 </li>
                             </ul>
                             <a href="predictive-quality-for-die-casting-machines" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
