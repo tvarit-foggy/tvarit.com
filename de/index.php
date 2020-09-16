@@ -168,7 +168,7 @@
     <div class="section-padding" >
         <div class="container">
             <div class="centerTitle sec-mainTitle"> 
-                AI-LÖSUNGEN
+                KI LÖSUNGEN
             </div>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
