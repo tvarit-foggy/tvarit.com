@@ -10,7 +10,7 @@
         href="https://fonts.googleapis.com/css?family=Raleway: 100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
         rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed: 300i,400,400i,700,700i" rel="stylesheet">
-<div class="section-padding-both">
+<div class="section-padding">
         <div class="container">
 
             <div class="row align-items-center">
@@ -83,10 +83,29 @@
         callbackFunction();
     })();
 //--></script>
+
 </div>
 </div>
+
 </div>
+<?php 
+
+include 'change_we_bring.php'; 
+
+?>
+ 
 </div>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/indexSlider.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/SmoothScroll.js"></script>
+    <script src="js/flickity.pkgd.min.js"></script>
+    <script src="js/readmore.js"></script>
+     <script src="js/parallax.js"></script>
+    <script src="js/script.js"></script>
 <style>
     body {
     font-family: 'Raleway', sans-serif !important;
