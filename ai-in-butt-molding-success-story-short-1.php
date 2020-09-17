@@ -108,5 +108,10 @@
     font-size: 17px !important;
     }
     #ddr-rich-text-5100 * {
-      
+        line-height: 1.6 !important;
+    }
+    .ddr-widget__headline {
+        font-size: 60px !important;
+        font-weight: 900 !important;
+    }
 </style>
