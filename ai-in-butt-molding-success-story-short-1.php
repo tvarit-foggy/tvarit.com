@@ -68,3 +68,16 @@
         callbackFunction();
     })();
 //--></script>
+<style>
+    body {
+    font-family: 'Raleway', sans-serif !important;
+    font-weight: 500 !important;
+    }
+    .ddr-page-wrapper {
+        font-family: 'Raleway', sans-serif !important;
+    }
+    .ddr-widget__button > a > div {
+        color: #fff !important;
+        background: linear-gradient(to right, #f74785 0%,#ed1b4a 99%) !important;
+    }
+</style>
