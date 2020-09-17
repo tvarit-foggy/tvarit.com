@@ -114,4 +114,8 @@
         font-size: 60px !important;
         font-weight: 900 !important;
     }
+    .ddr-page-section-7 .ddr-page-row .ddr-page-column {
+        border-right: 1px solid #f74785; 
+
+    }
 </style>
