@@ -84,6 +84,32 @@
         callbackFunction();
     })();
 //--></script>
+<div
+                class="ddr-page-row ddr-page-row-17 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                    style="width: 50%;">
+                    <div id="ddr-4f5bbcfb15" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
+                        <div class="ddr-widget">
+                            <div id="ddr-rich-text-1700" class="ddr-widget__rich-text"
+                                style="margin: 30px; padding-bottom: 15px;">
+                                <p style="text-align: left;">©2020 Tvarit GmbH</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ddr-page-column ddr-page-column-1 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                    style="width: 50%;">
+                    <div id="ddr-2f3cca8145" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
+                        <div class="ddr-widget">
+                            <div id="ddr-rich-text-1710" class="ddr-widget__rich-text"
+                                style="margin: 30px; padding-bottom: 15px;">
+                                <p style="text-align: right;"><a href="https://www.tvarit.com/impressum">Impressum
+                                    </a><a href="https://www.tvarit.com/datenschutz"> Datenschutz</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 </div>
 </div>
 </div>
@@ -115,7 +141,16 @@
         font-size: 60px !important;
         font-weight: 900 !important;
     }
-    .ddr-page-section-7 .ddr-page-row .ddr-page-column {
+ 
+    .ddr-page-section-7 .ddr-page-row .ddr-page-column-0 {
+        border-right: 1px solid #f74785; 
+
+    }
+    .ddr-page-section-7 .ddr-page-row .ddr-page-column-1 {
+        border-right: 1px solid #f74785; 
+
+    }
+    .ddr-page-section-7 .ddr-page-row .ddr-page-column-2 {
         border-right: 1px solid #f74785; 
 
     }
