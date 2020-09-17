@@ -1,5 +1,20 @@
 
+   <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/ai_consulting.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/flickity.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link
+        href="https://fonts.googleapis.com/css?family=Raleway: 100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed: 300i,400,400i,700,700i" rel="stylesheet">
+<div class="section-padding-both">
+        <div class="container">
 
+            <div class="row align-items-center">
+                <div class="col-lg-12">
 <script type="text/javascript"><!--
     (function() {
         var head = document.getElementsByTagName('head').item(0),
@@ -68,6 +83,10 @@
         callbackFunction();
     })();
 //--></script>
+</div>
+</div>
+</div>
+</div>
 <style>
     body {
     font-family: 'Raleway', sans-serif !important;
@@ -80,4 +99,14 @@
         color: #fff !important;
         background: linear-gradient(to right, #f74785 0%,#ed1b4a 99%) !important;
     }
+    p {
+        font-size: 20px !important;
+    font-weight: 400 !important;
+    }
+    ul li {
+        font-weight: 400 !important;
+    font-size: 17px !important;
+    }
+    #ddr-rich-text-5100 * {
+      
 </style>

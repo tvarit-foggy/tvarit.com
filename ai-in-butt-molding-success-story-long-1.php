@@ -99,5 +99,16 @@
         color: #fff !important;
         background: linear-gradient(to right, #f74785 0%,#ed1b4a 99%) !important;
     }
+    p {
+        font-size: 20px !important;
+    font-weight: 400 !important;
+    }
+    ul li {
+        font-weight: 400 !important;
+    font-size: 17px !important;
+    }
+    #ddr-rich-text-5100 * {
+        line-height: 1.6 !important;
+    }
 </style>
 
