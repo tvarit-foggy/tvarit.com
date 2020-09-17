@@ -1,36 +1,30 @@
 
     var lang;
     var isSaved = false;
-    var cook  = localStorage.getItem('lang');
-    // var arr = cook.split(';');
+    var cook = document.cookie;
+    var arr = cook.split(';');
 
     if (window.navigator.languages) {
         lang = window.navigator.languages[0];
     } else {
         lang = window.navigator.userLanguage || window.navigator.language;
     }
-    if (!cook && lang== 'de') {
-        window.location.href = 'https://tvarit.com/de';
-        localStorage.setItem('lang', 'de');
-    } else {
-        window.location.href = 'https://tvarit.com';
+    for (var i = 0; i < arr.length; i++) {
+        name = arr[i].split('=')[0];
+        value = arr[i].split('=')[1];
+        if ((name == ' lang' || name == ' language') && (value == 'en' || value == 'enUs' )) {
+         isSaved = true
+         document.cookie = "language=enUs; path=/; Secure ";
+        }
     }
-    // for (var i = 0; i < arr.length; i++) {
-    //     name = arr[i].split('=')[0];
-    //     value = arr[i].split('=')[1];
-    //     if ((name == ' lang' || name == ' language') && (value == 'en' || value == 'enUs' )) {
-    //      isSaved = true
-    //      document.cookie = "language=enUs; path=/; Secure ";
-    //     }
-    // }
-    // if(!isSaved && lang== 'de') {
-    //         document.cookie = 'lang=' + lang + ";path=/";
-    //         window.location.href = "https://tvarit.com/de/";
-    // }
-    // window.onbeforeunload = function(e) {
-    //     window.onunload = function() {
-    //         document.cookie = 'lang=' + lang + '; expires=Thu, 18 Dec 2013 12:00:00 UTC';
-    //         document.cookie = 'language=enUs'+ '; expires=Thu, 18 Dec 2013 12:00:00 UTC';
-    //     }
-    //     return undefined;
-    // };
+    if(!isSaved && lang== 'de') {
+            document.cookie = 'lang=' + lang + ";path=/";
+            window.location.href = "https://tvarit.com/de/";
+    }
+    window.onbeforeunload = function(e) {
+        window.onunload = function() {
+            document.cookie = 'lang=' + lang + '; expires=Thu, 18 Dec 2013 12:00:00 UTC';
+            document.cookie = 'language=enUs'+ '; expires=Thu, 18 Dec 2013 12:00:00 UTC';
+        }
+        return undefined;
+    };
