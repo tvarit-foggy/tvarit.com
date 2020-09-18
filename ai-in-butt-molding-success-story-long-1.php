@@ -248,7 +248,7 @@
         box-shadow: none;
     }
 
-    @media (min-width: 1281px) {
+    @media (min-width: 1280px) {
         .ddr-page-row__wrap--max {
             flex-wrap: wrap;
         }
@@ -276,7 +276,7 @@
 }
     }
 
-    @media (max-width: 1280px) and (min-width: 1025px) {
+    @media (max-width: 1279px) and (min-width: 1025px) {
         .ddr-page-row__wrap--1280 {
             flex-wrap: wrap;
         }
