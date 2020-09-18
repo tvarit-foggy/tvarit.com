@@ -651,7 +651,7 @@
                         <div class="ddr-widget">
                             <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
                                     target="_self" style="width: 350px; height: auto;"><img
-                                        data-blink-src="https://cdn.dragdropr.com/1f040058-4a94-4dfc-bea9-0c6415924422/"
+                                        data-blink-src="https://cdn.dragdropr.com/b5e83c5b-31b9-489f-a15e-05e68e195140/"
                                         style="width: 350px; height: auto;"></a>
                                 <div class="ddr-hot-spots__items-wrapper"></div>
                             </div>
