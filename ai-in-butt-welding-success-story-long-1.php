@@ -40,6 +40,7 @@
         margin: 0px;
         font-family: sans-serif;
         font-size: 16px;
+        padding-top: 60px;
     }
 
     .ddr-page-wrapper .ddr-page {
@@ -269,11 +270,7 @@
         .ddr-page-widget__hide--max {
             display: none;
         }
-        .ddr-page-wrapper {
-     padding-left: 90px;
-    padding-right: 90px;
-    padding-top: 60px;
-}
+ 
     }
 
     @media (max-width: 1279px) and (min-width: 1025px) {
@@ -559,7 +556,7 @@
 
     ul li {
         font-weight: 400 !important;
-        font-size: 17px !important;
+        font-size: 20px !important;
     }
 
     #ddr-rich-text-5100 * {
@@ -571,21 +568,22 @@
         font-weight: 900 !important;
     }
 
-    .ddr-page-section-4 .ddr-page-row .ddr-page-column-0 {
+    .ddr-page-section-5 .ddr-page-row .ddr-page-column-0 {
         border-right: 1px solid #f74785;
 
     }
 
-    .ddr-page-section-4 .ddr-page-row .ddr-page-column-1 {
+    .ddr-page-section-5 .ddr-page-row .ddr-page-column-1 {
         border-right: 1px solid #f74785;
 
     }
 
-    .ddr-page-section-4 .ddr-page-row .ddr-page-column-2 {
+    .ddr-page-section-5 .ddr-page-row .ddr-page-column-2 {
         border-right: 1px solid #f74785;
 
     }
     </style>
+    <div class="container">
     <div class="ddr-page-wrapper" data-ddr-page-id="5aca7280-f82b-11ea-91ef-0242ac140009"
         style="background-color: rgb(255, 255, 255); background-size: cover;">
         <div class="ddr-page" style="max-width: 100%; margin: auto;">
@@ -1261,11 +1259,12 @@
                         <div class="ddr-widget">
                             <div id="ddr-rich-text-901" class="ddr-widget__rich-text" style="margin: 30px; padding-bottom: 15px;">
                                 <p></p>
-                                <p><span style="color: #ed1b4a;">©2020 Tvarit GmbH</span><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a><a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p>
+                                <p><span style="color: #ed1b4a;">©2020 Tvarit GmbH</span>&nbsp;&nbsp;&nbsp;<a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p>
                             </div>
                         </div>
                     </div>
         </div>
+    </div>
     </div>
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
