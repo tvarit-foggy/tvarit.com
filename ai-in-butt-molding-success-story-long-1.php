@@ -1254,9 +1254,30 @@
                     </div>
                 </div>
             </div>
+            <?php 
+            include 'change_we_bring.php';
+            ?>
+            <div id="ddr-95212974fd" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-1 ">
+                        <div class="ddr-widget">
+                            <div id="ddr-rich-text-901" class="ddr-widget__rich-text" style="margin: 30px; padding-bottom: 15px;">
+                                <p></p>
+                                <p><span style="color: #ed1b4a;">©2020 Tvarit GmbH</span><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a><a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p>
+                            </div>
+                        </div>
+                    </div>
         </div>
     </div>
-
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/indexSlider.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/SmoothScroll.js"></script>
+    <script src="js/flickity.pkgd.min.js"></script>
+    <script src="js/readmore.js"></script>
+     <script src="js/typed.js"></script>
+    <script src="js/parallax.js"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
