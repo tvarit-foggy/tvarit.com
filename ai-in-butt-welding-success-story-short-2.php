@@ -491,7 +491,7 @@
         head.insertBefore(node, null);
     })();
     </script>
-
+<div class="container">
     <div class="ddr-page-wrapper" data-ddr-page-id="0d675056-f8af-11ea-b75f-0242ac140009">
         <div class="ddr-page">
             <div id="ddr-46601bdf23" class="ddr-page-section-wrapper ddr-page-section-wrapper-0">
@@ -771,6 +771,21 @@
                     </div>
                 </div>
             </div>
+            <div id="ddr-33fcef0ede"
+                                    class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-3 ">
+                                    <div class="ddr-widget">
+                                        <div id="ddr-rich-text-17003" class="ddr-widget__rich-text"
+                                            style="margin: 30px 30px 0px; padding-bottom: 0px;">
+                                            <p style="text-align: center;"><strong>Wir haben Ihr Interesse
+                                                    geweckt?</strong><span style="font-weight: 400;"></span><span
+                                                    style="font-weight: 400;"><br></span><span
+                                                    style="font-weight: 400;">Den vollständigen Use Case zum
+                                                </span><span style="font-weight: 400;">Nachlesen und Studieren senden
+                                                </span><span style="font-weight: 400;">wir Ihnen gerne via E-Mail
+                                                    zu!</span></p>
+                                        </div>
+                                    </div>
+                                </div>
             <div
                 class="ddr-page-row ddr-page-row-9 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
                 <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
@@ -790,8 +805,8 @@
                             <div id="ddr-rich-text-901" class="ddr-widget__rich-text"
                                 style="margin: 30px; padding-bottom: 15px;">
                                 <p></p>
-                                <p><span style="color: #ed1b4a;">©2020 Tvarit GmbH</span><a title="Impressum"
-                                        href="https://www.tvarit.com/impressum">Impressum</a><a title="Datenschutz"
+                                <p><span style="color: #ed1b4a;">©2020 Tvarit GmbH</span>&nbsp;&nbsp;&nbsp;<a title="Impressum"
+                                        href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz"
                                         href="https://www.tvarit.com/datenschutz">Datenschutz</a></p>
                             </div>
                         </div>
@@ -799,6 +814,7 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
 
 </body>
@@ -839,17 +855,17 @@ ul li {
     font-weight: 900 !important;
 }
 
-.ddr-page-section-7 .ddr-page-row .ddr-page-column-0 {
+.ddr-page-section-8 .ddr-page-row .ddr-page-column-0 {
     border-right: 1px solid #f74785;
 
 }
 
-.ddr-page-section-7 .ddr-page-row .ddr-page-column-1 {
+.ddr-page-section-8 .ddr-page-row .ddr-page-column-1 {
     border-right: 1px solid #f74785;
 
 }
 
-.ddr-page-section-7 .ddr-page-row .ddr-page-column-2 {
+.ddr-page-section-8 .ddr-page-row .ddr-page-column-2 {
     border-right: 1px solid #f74785;
 
 }
