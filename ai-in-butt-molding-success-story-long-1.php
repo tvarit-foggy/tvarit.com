@@ -11,10 +11,22 @@
     }
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/ai_consulting.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/flickity.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link
+        href="https://fonts.googleapis.com/css?family=Raleway: 100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed: 300i,400,400i,700,700i" rel="stylesheet">
 
     <style type="text/css">
     @import url("https://fonts.googleapis.com/css?family=Raleway");
     @import url("https://fonts.googleapis.com/css?family=Open+Sans");
+    @import url("https://fonts.googleapis.com/css?family=Roboto");
     </style>
 
     <style type="text/css">
