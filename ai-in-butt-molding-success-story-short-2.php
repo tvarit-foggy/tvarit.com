@@ -249,7 +249,7 @@
         box-shadow: none;
     }
 
-    @media (min-width: 1281px) {
+    @media (min-width: 1280px) {
         .ddr-page-row__wrap--max {
             flex-wrap: wrap;
         }
@@ -277,7 +277,7 @@
 }
     }
 
-    @media (max-width: 1280px) and (min-width: 1025px) {
+    @media (max-width: 1279px) and (min-width: 1025px) {
         .ddr-page-row__wrap--1280 {
             flex-wrap: wrap;
         }
@@ -558,7 +558,7 @@
                             <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
                                     target="_self"
                                     style="width: 371px; height: auto; box-shadow: rgb(255, 255, 255) 0px 0px 1px 0px;"><img
-                                        data-blink-src="https://cdn.dragdropr.com/1f040058-4a94-4dfc-bea9-0c6415924422/"
+                                        data-blink-src="https://cdn.dragdropr.com/b5e83c5b-31b9-489f-a15e-05e68e195140/"
                                         style="width: 371px; height: auto;"></a>
                                 <div class="ddr-hot-spots__items-wrapper"></div>
                             </div>
