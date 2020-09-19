@@ -1211,7 +1211,10 @@
                 <div id="ddr-95212974fd" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-2 ">
                     <div class="ddr-widget">
                         <div id="ddr-rich-text-802" class="ddr-widget__rich-text" style="margin: 30px; padding-bottom: 15px;">
-                            <p><span style="color: #555555;">©2020 Tvarit GmbH</span><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a><a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p>
+                        <div>
+         <div style="float:left"><p><span style="color: #ed1b4a;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
+         <div style="float:right"><p><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p></div>
+     </div>
                         </div>
                     </div>
                 </div>
