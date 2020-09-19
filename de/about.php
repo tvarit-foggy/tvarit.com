@@ -147,7 +147,7 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name">Juergen Halt</h4>
-                            <h6 class="title">R&D Directorr</h6>
+                            <h6 class="title">R&D Director</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Unternehmenstransformation durch F&E</li>
