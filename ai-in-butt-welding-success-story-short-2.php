@@ -558,7 +558,7 @@
                             <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
                                     target="_self"
                                     style="width: 371px; height: auto; box-shadow: rgb(255, 255, 255) 0px 0px 1px 0px;"><img
-                                        data-blink-src="https://cdn.dragdropr.com/b5e83c5b-31b9-489f-a15e-05e68e195140/"
+                                    src="img/book-cover-butt-welding.png"
                                         style="width: 371px; height: auto;"></a>
                                 <div class="ddr-hot-spots__items-wrapper"></div>
                             </div>
@@ -735,7 +735,7 @@
                                             style="margin: 30px; padding-bottom: 15px;">
                                             <p><span style="font-size: 32px;"><strong>In Echtzeit</strong></span></p>
                                             <p><span style="font-weight: 400;">Bestimmung der Qualität der
-                                                    Schweißnaht-Qualität während des Schweißprozesses.</span></p>
+                                                    Schweißnaht-Qualität während des Schweißprozesses</span></p>
                                             <p></p>
                                         </div>
                                     </div>
@@ -805,9 +805,10 @@
                             <div id="ddr-rich-text-901" class="ddr-widget__rich-text"
                                 style="margin: 30px; padding-bottom: 15px;">
                                 <p></p>
-                                <p><span style="color: #ed1b4a;">©2020 Tvarit GmbH</span>&nbsp;&nbsp;&nbsp;<a title="Impressum"
-                                        href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz"
-                                        href="https://www.tvarit.com/datenschutz">Datenschutz</a></p>
+                                <div>
+         <div style="float:left"><p><span style="color: #ed1b4a;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
+         <div style="float:right"><p><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p></div>
+     </div>
                             </div>
                         </div>
                     </div>
