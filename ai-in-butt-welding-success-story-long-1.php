@@ -683,7 +683,7 @@
                     <div id="ddr-e0976c7b80" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                         <div class="ddr-widget">
                             <div class="ddr-widget__button" style="justify-content: center;"><a
-                                    href="https://beta.tvarit.com/case-study-1-download-form" target="_self"
+                                    href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 30px; border-radius: 22px;">
                                     <div id="button-211" style="padding: 15px; font-size: 24px;">FREE Download</div>
                                 </a></div>
@@ -906,7 +906,7 @@
                     <div id="ddr-18732169de" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                         <div class="ddr-widget">
                             <div class="ddr-widget__button" style="justify-content: center;"><a
-                                    href="https://beta.tvarit.com/case-study-1-download-form" target="_self"
+                                    href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 15px 30px 30px; border-radius: 21px;">
                                     <div id="button-801" style="padding: 15px; font-size: 18px;">Free Download</div>
                                 </a></div>
@@ -1240,7 +1240,7 @@
                                     class="ddr-page-widget ddr-page-widget__button ddr-page-widget-0 ">
                                     <div class="ddr-widget">
                                         <div class="ddr-widget__button" style="justify-content: center;"><a
-                                                href="https://beta.tvarit.com/case-study-1-download-form" target="_self"
+                                                href="https://tvarit.com/case-study-1-download-form" target="_self"
                                                 style="margin: 15px 30px 30px; border-radius: 3px;">
                                                 <div id="button-18000" style="padding: 15px; font-size: 18px;">FREE
                                                     DOWNLOAD</div>
@@ -1260,7 +1260,7 @@
                             <div id="ddr-rich-text-901" class="ddr-widget__rich-text" style="margin: 30px; padding-bottom: 15px;">
                                 <p></p>
     <div>
-         <div style="float:left"><p><span style="color: #ed1b4a;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
+         <div style="float:left"><p><span style="color: #000000;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
          <div style="float:right"><p><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p></div>
      </div>
                             </div>

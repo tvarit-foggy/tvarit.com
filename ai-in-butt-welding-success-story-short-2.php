@@ -593,7 +593,7 @@
                     <div id="ddr-24581b8544" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                         <div class="ddr-widget">
                             <div class="ddr-widget__button" style="justify-content: center;"><a
-                                    href="https://beta.tvarit.com/case-study-1-download-form" target="_self"
+                                    href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 0px 30px 30px; border-radius: 26px;">
                                     <div id="button-211" style="padding: 15px; font-size: 24px;">DOWNLOAD your FREE copy
                                     </div>
@@ -793,7 +793,7 @@
                     <div id="ddr-29ec40690c" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-0 ">
                         <div class="ddr-widget">
                             <div class="ddr-widget__button" style="justify-content: center;"><a
-                                    href="https://beta.tvarit.com/case-study-1-download-form" target="_self"
+                                    href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 30px 34px 30px 55px; border-radius: 11px;">
                                     <div id="button-900" style="padding: 15px 20px; font-size: 30px;">FREE Download
                                     </div>
@@ -806,7 +806,7 @@
                                 style="margin: 30px; padding-bottom: 15px;">
                                 <p></p>
                                 <div>
-         <div style="float:left"><p><span style="color: #ed1b4a;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
+         <div style="float:left"><p><span style="color: #000000;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
          <div style="float:right"><p><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p></div>
      </div>
                             </div>

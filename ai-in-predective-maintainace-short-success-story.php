@@ -1192,7 +1192,7 @@
                         <div id="ddr-rich-text-802" class="ddr-widget__rich-text" style="margin: 30px; padding-bottom: 15px;">
                             <p></p>
                             <div>
-         <div style="float:left"><p><span style="color: #ed1b4a;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
+         <div style="float:left"><p><span style="color: #000000;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
          <div style="float:right"><p><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p></div>
      </div>
                         </div>
