@@ -1039,7 +1039,7 @@
                                     <div id="ddr-rich-text-1000" class="ddr-widget__rich-text" style="margin: 20px 30px 2px; padding-bottom: 5px;">
                                         <p>- Success Story -</p>
                                         <p><span style="font-size: 36px;"><strong>Predictive Quality im Aluminium Druckguss</strong></span></p>
-                                        <p><span style="font-size: 28px; color: #000000;">TIA™ überwacht Druckguss und reduziert Ausschuss um 25%</span></p>
+                                        <p><span style="font-size: 28px; color: #000000;">TIA überwacht Druckguss und reduziert Ausschuss um 25%</span></p>
                                     </div>
                                 </div>
                             </div>
@@ -1068,8 +1068,8 @@
                     <div class="ddr-widget">
                         <div id="ddr-rich-text-210" class="ddr-widget__rich-text" style="margin: 30px 30px 15px; padding-bottom: 15px;">
                             <p><strong><span style="font-size: 20px;">&nbsp;Inhalt dieser Case Study:</span></strong></p>
-                            <p><span style="font-weight: 400; font-family: raleway, sans-serif;"><span style="font-weight: 400;">Mit Hilfe von TIA™ (Tvarit Industrial AI) konnte die Fehlerrate im Aluminium-Druckguss um ein Viertel (von 8% auf 6%) reduziert werden. </span></span></p>
-                            <p><span style="font-weight: 400; font-family: raleway, sans-serif;"><span style="font-weight: 400;">Hierfür nutzt TIA™ die ERP-, Produktions- und Sensordaten (wie Ofenwiderstand, Kühlluftstrom, Werkzeugtemperatur und diverse Druckparameter) um bereits während des laufenden Guss-Prozesses Aussagen über die Produktqualität zu treffen. </span></span><span style="font-weight: 400; font-family: raleway, sans-serif;"><span style="font-weight: 400;"></span></span></p>
+                            <p><span style="font-weight: 400; font-family: raleway, sans-serif;"><span style="font-weight: 400;">Mit Hilfe von TIA (Tvarit Industrial AI) konnte die Fehlerrate im Aluminium-Druckguss um ein Viertel (von 8% auf 6%) reduziert werden. </span></span></p>
+                            <p><span style="font-weight: 400; font-family: raleway, sans-serif;"><span style="font-weight: 400;">Hierfür nutzt TIA die ERP-, Produktions- und Sensordaten (wie Ofenwiderstand, Kühlluftstrom, Werkzeugtemperatur und diverse Druckparameter) um bereits während des laufenden Guss-Prozesses Aussagen über die Produktqualität zu treffen. </span></span><span style="font-weight: 400; font-family: raleway, sans-serif;"><span style="font-weight: 400;"></span></span></p>
                             <p><span style="font-weight: 400; font-family: raleway, sans-serif;"><span style="font-weight: 400;">Die KI-gestützte Software läuft auf IBM Power Hardware und verwendet modernste Auswertungsverfahren, um die Qualität aktueller und zukünftiger Chargen in Echtzeit vorherzusagen und präventive Vorschläge zur Prozessoptimierung für den Anwender bereitzustellen.</span></span></p>
                             <p></p>
                         </div>
@@ -1177,7 +1177,7 @@
                             <div id="ddr-fd27de4078" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 " data-ddr-page-widget-additional-css-id="27f879c9a3">
                                 <div class="ddr-widget">
                                     <div id="ddr-rich-text-7010" class="ddr-widget__rich-text" style="margin: 0px 30px; padding-left: 60px; padding-right: 30px;">
-                                        <p style="text-align: left;"><span style="font-weight: 400;">TIA™ nutzt die Produktions- und Sensordaten (Ofendruck, Ofenwiderstand, Kühlluftstrom, Werkzeugtemperatur, Metalltemperatur, …) um noch im laufenden Prozess Aussagen über verschiedene Qualitätsmerkmale des Gusses (wie Blasenbildung, Risse oder Porosität, usw.) vorherzusagen. </span></p>
+                                        <p style="text-align: left;"><span style="font-weight: 400;">TIA nutzt die Produktions- und Sensordaten (Ofendruck, Ofenwiderstand, Kühlluftstrom, Werkzeugtemperatur, Metalltemperatur, …) um noch im laufenden Prozess Aussagen über verschiedene Qualitätsmerkmale des Gusses (wie Blasenbildung, Risse oder Porosität, usw.) vorherzusagen. </span></p>
                                         <p style="text-align: left;"><span style="font-weight: 400;">Zudem werden die Fehlerursachen in Echtzeit analysiert und dem Nutzer dargestellt. </span></p>
                                         <p style="text-align: left;"><span style="font-weight: 400;">Diese Vorhersagen können genutzt werden, um die Prozessparameter zu optimieren um den Ausschuss signifikant zu reduzieren und Fehlerursachen zielgenau und frühzeitig zu beheben.</span></p>
                                     </div>

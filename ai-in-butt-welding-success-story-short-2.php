@@ -586,12 +586,12 @@
                                 style="margin: 30px 30px 15px; padding-bottom: 15px;">
                                 <p><strong><span style="font-size: 20px;">Inhalt dieser Case Study:</span></strong></p>
                                 <p><span style="font-size: 16px; font-family: 'open sans', sans-serif;">Mit Hilfe von
-                                        TIA™ (Tvarit Industrial AI) konnte ein deutscher Tier-1 Automobil-Zulieferer
+                                        TIA (Tvarit Industrial AI) konnte ein deutscher Tier-1 Automobil-Zulieferer
                                         seinen Ausschuss um 5% reduzieren und dabei die Gesamtanlageneffektivität (OEE)
                                         um 2% verbessern.</span></p>
                                 <p><span
                                         style="font-weight: 400; font-size: 16px; font-family: 'open sans', sans-serif;">Hierfür
-                                        nutzt TIA™ die ERP-, Produktions- und Sensordaten (wie Temperatur,
+                                        nutzt TIA die ERP-, Produktions- und Sensordaten (wie Temperatur,
                                         Materialqualität, Stromstärke und Spannung) um bereits während des
                                         Schweißprozesses Aussagen über die Produktqualität zu treffen. </span></p>
                                 <p><span style="font-size: 16px; font-family: 'open sans', sans-serif;">Die KI-gestützte
@@ -686,7 +686,7 @@
                                         <div id="ddr-rich-text-6010" class="ddr-widget__rich-text"
                                             style="margin: 0px 30px; padding-left: 60px; padding-right: 30px;">
                                             <p style="text-align: left;"><span
-                                                    style="font-size: 16px; font-family: raleway, sans-serif;">TIA™
+                                                    style="font-size: 16px; font-family: raleway, sans-serif;">TIA
                                                     (Tvarit Indistrial AI) nutzt Materialparameter (Zusammensetzung und
                                                     Dicke des Materials), sowie Prozessparameter (Anpresskraft,
                                                     Schweißdauer, Stromstärke), um die Materialqualität und den
