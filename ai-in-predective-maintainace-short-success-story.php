@@ -1006,6 +1006,7 @@
     })();
  
 </script>
+<div class="container">
 <div class="ddr-page-wrapper" data-ddr-page-id="76ca1352-fa1d-11ea-b722-0242ac140009" style="background-size: contain;">
     <div class="ddr-page" style="max-width: 100%; margin: auto;">
         <div id="ddr-46601bdf23" class="ddr-page-section-wrapper ddr-page-section-wrapper-0">
@@ -1059,7 +1060,7 @@
                     <div class="ddr-widget">
                         <div id="ddr-rich-text-210" class="ddr-widget__rich-text" style="margin: 30px 30px 15px; padding-bottom: 15px;">
                             <p><strong><span style="font-size: 20px;">Inhalt dieser Case Study:</span></strong></p>
-                            <p><span style="font-weight: 400; font-family: raleway, sans-serif;">Mit Hilfe von TIA™ (Tvarit Industrial AI) konnten Ausfälle fünf Stunden im Voraus erkannt werden.</span></p>
+                            <p><span style="font-weight: 400; font-family: raleway, sans-serif;">Mit Hilfe von TIA (Tvarit Industrial AI) konnten Ausfälle fünf Stunden im Voraus erkannt werden.</span></p>
                             <p><span style="font-weight: 400; font-family: raleway, sans-serif;">Die KI-gestützte Software nutzt modernste Auswertungsverfahren um in<br>Echtzeit vorherzusagen welche Komponenten gefährdet sind, und welche Parameter<br>anzupassen wären, um die Laufzeit der Motoren zu verlängern und wichtige Zeitfenster<br>zu überbrücken.</span></p>
                             <p style="font-weight: 400;">Die KI-gestützte Software läuft auf IBM Power Hardware und nutzt prädiktive Analysen um die Instandhaltungskosten und Lagerhaltungskosten für Ersatzteile signifikant zu senken.</p>
                         </div>
@@ -1068,7 +1069,7 @@
                 <div id="ddr-24581b8544" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                     <div class="ddr-widget">
                         <div class="ddr-widget__button" style="justify-content: center;"><a href="https://tvarit.com/predective-maintainace-thank-you" target="_self" style="margin: 0px 30px 30px; border-radius: 26px;">
-                                <div id="button-211" style="padding: 15px; font-size: 24px;"> FREE DOWNLOAD</div>
+                                <div class="btn btn-round btn-red-grd"> Free Download</div>
                             </a></div>
                     </div>
                 </div>
@@ -1166,7 +1167,7 @@
                             <div id="ddr-fd27de4078" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 " data-ddr-page-widget-additional-css-id="27f879c9a3">
                                 <div class="ddr-widget">
                                     <div id="ddr-rich-text-7010" class="ddr-widget__rich-text" style="margin: 0px 30px; padding-left: 60px; padding-right: 30px;">
-                                        <p style="text-align: left;"><span style="font-size: 16px; font-family: raleway, sans-serif;">TIA™ (Tvarit Indistrial AI) nutzt</span><span style="font-weight: 400;">&nbsp;die Produktions- und Sensordaten (wie Temperatur, Motorstrom, Antriebsspannung) um kleinste Anomalien im laufenden Betrieb zu erkennen und Wahrscheinlichkeiten für zukünftige Fehler bis zu 6 Stunden im Voraus auszugeben. </span></p>
+                                        <p style="text-align: left;"><span style="font-size: 16px; font-family: raleway, sans-serif;">TIA (Tvarit Indistrial AI) nutzt</span><span style="font-weight: 400;">&nbsp;die Produktions- und Sensordaten (wie Temperatur, Motorstrom, Antriebsspannung) um kleinste Anomalien im laufenden Betrieb zu erkennen und Wahrscheinlichkeiten für zukünftige Fehler bis zu 6 Stunden im Voraus auszugeben. </span></p>
                                         <p style="text-align: left;"><span style="font-weight: 400;">Hiermit gelang es die ungeplante Maschinen-Downtime um </span><span style="font-weight: 400;">&gt;99%</span><span style="font-weight: 400;"> zu reduzieren. Zudem konnten Kundenaufträge mit höherer Zuverlässigkeit und zeitlicher Flexibilität erfüllt werden. </span></p>
                                         <p style="text-align: left;"><span style="font-weight: 400;">Diese Planungssicherheit erlaubt den Bestand an Ersatzmotoren zu reduzieren. Frühzeitiges Ersetzen gefährdeter Maschinen hat Folgeprobleme vermieden und die gesamten Instandhaltungskosten minimiert.</span></p>
                                     </div>
@@ -1190,7 +1191,7 @@
                 <div id="ddr-29ec40690c" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                     <div class="ddr-widget">
                         <div class="ddr-widget__button" style="justify-content: center;"><a href="https://tvarit.com/predective-maintainace-thank-you" target="_self" style="margin: 7px 34px 30px 55px; border-radius: 30px;">
-                                <div id="button-801" style="padding: 15px 20px; font-size: 18px;">FREE Download</div>
+                                <div class="btn btn-round btn-red-grd">Free Download</div>
                             </a></div>
                     </div>
                 </div>
@@ -1208,6 +1209,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
     
 </body>
