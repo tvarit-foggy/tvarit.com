@@ -676,12 +676,12 @@
                             <div id="ddr-rich-text-210" class="ddr-widget__rich-text"
                                 style="margin: 30px 30px 5px; padding-bottom: 15px;">
                                 <p><strong><span style="font-size: 20px;">Inhalt dieser Case Study:</span></strong></p>
-                                <p><span style="font-family: raleway, sans-serif; font-size: 16px;">Mit Hilfe von TIA™
+                                <p><span style="font-family: raleway, sans-serif; font-size: 16px;">Mit Hilfe von TIA
                                         (Tvarit Industrial AI) konnte ein deutscher Tier-1 Automobil-Zulieferer seinen
                                         Ausschuss um 5% reduzieren und dabei die Gesamtanlageneffektivität (OEE) um 2%
                                         verbessern.</span></p>
                                 <p><span style="font-weight: 400; font-size: 16px; font-family: raleway, sans-serif;">Hierfür
-                                        nutzt TIA™ die ERP-, Produktions- und Sensordaten (wie Temperatur,
+                                        nutzt TIA die ERP-, Produktions- und Sensordaten (wie Temperatur,
                                         Materialqualität, Stromstärke und Spannung) um bereits während des
                                         Schweißprozesses Aussagen über die Produktqualität zu treffen. </span></p>
                                 <p><span style="font-family: raleway, sans-serif; font-size: 16px;">Die KI-gestützte
@@ -805,7 +805,7 @@
                         <div class="ddr-widget">
                             <div id="ddr-rich-text-600" class="ddr-widget__rich-text"
                                 style="margin: 30px; padding-bottom: 15px;">
-                                <p style="text-align: center;"><strong><span style="font-size: 43px;">TIA™ optimiert
+                                <p style="text-align: center;"><strong><span style="font-size: 43px;">TIA optimiert
                                             Stumpfschweiß-Prozess</span></strong></p>
                             </div>
                         </div>
@@ -978,7 +978,7 @@
                                     <div class="ddr-widget">
                                         <div id="ddr-rich-text-11010" class="ddr-widget__rich-text"
                                             style="margin: 0px 30px; padding-left: 60px; padding-right: 30px;">
-                                            <p style="text-align: left;"><span style="font-size: 16px;">TIA™ (Tvarit
+                                            <p style="text-align: left;"><span style="font-size: 16px;">TIA (Tvarit
                                                     Indistrial AI) nutzt Materialparameter (Zusammensetzung und Dicke
                                                     des Materials), sowie Prozessparameter (Anpresskraft, Schweißdauer,
                                                     Stromstärke), um die Materialqualität und den Elektroden-Verschleiß
@@ -1137,7 +1137,7 @@
                             <div id="ddr-rich-text-1600" class="ddr-widget__rich-text"
                                 style="padding-bottom: 15px; margin: 30px;">
                                 <p><span style="font-weight: 400;">Zusätzlich zur Vorhersage der Produktqualität,
-                                        identifiziert TIA™ die einflussreichsten Prozessparameter. Dies erfolgt in Form
+                                        identifiziert TIA die einflussreichsten Prozessparameter. Dies erfolgt in Form
                                         einer quantitativen Angabe, inwiefern sich die einzelnen Prozessparameter, wie
                                         beispielsweise die Stromstärke, auf die Qualität der Schweißverbindung
                                         auswirken.</span></p>
