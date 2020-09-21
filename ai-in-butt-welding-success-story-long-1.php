@@ -33,7 +33,9 @@
     .ddr-page-wrapper * {
         box-sizing: border-box;
     }
-
+    .top-icon {
+        justify-content: flex-start;
+    }
     .ddr-page-wrapper {
         position: relative;
         padding: 0px;
@@ -340,6 +342,9 @@
         .ddr-page-widget__hide--768 {
             display: none;
         }
+                .top-icon {
+            justify-content: space-evenly;
+        }
     }
 
     @media (max-width: 480px) and (min-width: 321px) {
@@ -363,6 +368,9 @@
         .ddr-page-widget__hide--480 {
             display: none;
         }
+        .top-icon {
+    justify-content: space-evenly;
+}
     }
 
     @media (max-width: 320px) and (min-width: 0px) {
@@ -386,6 +394,9 @@
         .ddr-page-widget__hide--320 {
             display: none;
         }
+        .top-icon {
+    justify-content: space-evenly;
+}
     }
 
     .ddr-page-wrapper {
@@ -582,6 +593,7 @@
         border-right: 1px solid #f74785;
 
     }
+
     </style>
     <div class="container">
     <div class="ddr-page-wrapper" data-ddr-page-id="5aca7280-f82b-11ea-91ef-0242ac140009"
@@ -597,8 +609,8 @@
                                 <div id="ddr-18f64a9761"
                                     class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
                                     <div class="ddr-widget">
-                                        <div class="ddr-widget__image"
-                                            style="justify-content: flex-start; padding-bottom: 15px;"><a target="_self"
+                                        <div class="ddr-widget__image top-icon"
+                                            style=" padding-bottom: 15px;"><a target="_self"
                                                 style="width: 250px; height: auto;"><img
                                                     data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/"
                                                     style="height: auto; width: 250px;"></a>
