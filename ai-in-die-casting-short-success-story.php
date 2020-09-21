@@ -475,15 +475,10 @@
 <body>
 
 <style type="text/css">
-    <!--
     @import url("https://fonts.googleapis.com/css?family=Raleway");
     @import url("https://fonts.googleapis.com/css?family=Open+Sans");
-
-    //
-    -->
 </style>
 <style type="text/css">
-    <!--
     .ddr-page-wrapper * {
         box-sizing: border-box;
     }
@@ -495,7 +490,9 @@
         font-family: sans-serif;
         font-size: 16px;
     }
-
+    .top-icon {
+        justify-content: flex-start;
+    }
     .ddr-page-wrapper .ddr-page {
         position: relative;
     }
@@ -792,6 +789,9 @@
         .ddr-page-widget__hide--768 {
             display: none;
         }
+        .top-icon {
+            justify-content: space-evenly;
+        }
     }
 
     @media (max-width: 480px) and (min-width: 321px) {
@@ -815,6 +815,9 @@
         .ddr-page-widget__hide--480 {
             display: none;
         }
+        .top-icon {
+            justify-content: space-evenly;
+        }
     }
 
     @media (max-width: 320px) and (min-width: 0px) {
@@ -837,6 +840,9 @@
         .ddr-page-column__hide--320,
         .ddr-page-widget__hide--320 {
             display: none;
+        }
+        .top-icon {
+            justify-content: space-evenly;
         }
     }
 
@@ -972,11 +978,8 @@
         color: rgba(0, 0, 0, 1);
     }
 
-    //
-    -->
 </style>
 <script>
-    <!--
     (function(src, cb) {
         var s = document.createElement('script');
         s.setAttribute('src', src);
@@ -988,12 +991,8 @@
             fadeIn: true
         });
     });
-
-    //
-    -->
 </script>
 <script type="text/javascript">
-    <!--
     (function() {
         var head = document.getElementsByTagName('head').item(0),
             url = 'https://app.dragdropr.com/components/dependency-manager.js?version=1.0.8';
@@ -1009,10 +1008,8 @@
         node.src = url;
         head.insertBefore(node, null);
     })();
-
-    //
-    -->
 </script>
+<div class="container">
 <div class="ddr-page-wrapper" data-ddr-page-id="44dae912-fa35-11ea-9c55-0242ac140009" style="background-size: contain;">
     <div class="ddr-page" style="max-width: 100%; margin: auto;">
         <div id="ddr-46601bdf23" class="ddr-page-section-wrapper ddr-page-section-wrapper-0">
@@ -1022,7 +1019,7 @@
                         <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 " style="width: 100%;">
                             <div id="ddr-18f64a9761" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
                                 <div class="ddr-widget">
-                                    <div class="ddr-widget__image" style="justify-content: flex-start; padding-bottom: 15px;"><a href="https://www.tvarit.com/" target="_self" style="width: 225px; height: auto;"><img data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/" style="height: auto; width: 225px;"></a>
+                                    <div class="ddr-widget__image top-icon" style="padding-bottom: 15px;"><a href="https://www.tvarit.com/" target="_self" style="width: 225px; height: auto;"><img data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/" style="height: auto; width: 225px;"></a>
                                         <div class="ddr-hot-spots__items-wrapper"></div>
                                     </div>
                                 </div>
@@ -1081,7 +1078,7 @@
                 <div id="ddr-24581b8544" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                     <div class="ddr-widget">
                         <div class="ddr-widget__button" style="justify-content: center;"><a href="https://beta.tvarit.com/case-study-1-download-form" target="_self" style="margin: 0px 30px 30px; border-radius: 26px;">
-                                <div id="button-211" style="padding: 15px; font-size: 24px;">DOWNLOAD your FREE copy</div>
+                                <div id="button-211" style="padding: 15px; font-size: 24px;"> FREE DOWNLOAD</div>
                             </a></div>
                     </div>
                 </div>
@@ -1204,7 +1201,7 @@
                 <div id="ddr-29ec40690c" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                     <div class="ddr-widget">
                         <div class="ddr-widget__button" style="justify-content: center;"><a href="https://beta.tvarit.com/case-study-1-download-form" target="_self" style="margin: 7px 34px 30px 55px; border-radius: 30px;">
-                                <div id="button-801" style="padding: 15px 20px; font-size: 30px;">FREE Download</div>
+                                <div id="button-801" style="padding: 15px 20px; font-size: 18px;">FREE Download</div>
                             </a></div>
                     </div>
                 </div>
@@ -1221,6 +1218,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
     
