@@ -1077,7 +1077,7 @@
                 </div>
                 <div id="ddr-24581b8544" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                     <div class="ddr-widget">
-                        <div class="ddr-widget__button" style="justify-content: center;"><a href="https://beta.tvarit.com/case-study-1-download-form" target="_self" style="margin: 0px 30px 30px; border-radius: 26px;">
+                        <div class="ddr-widget__button" style="justify-content: center;"><a href="https://tvarit.com/diecasting-thank-you" target="_self" style="margin: 0px 30px 30px; border-radius: 26px;">
                                 <div id="button-211" style="padding: 15px; font-size: 24px;"> FREE DOWNLOAD</div>
                             </a></div>
                     </div>
@@ -1200,7 +1200,7 @@
                 </div>
                 <div id="ddr-29ec40690c" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                     <div class="ddr-widget">
-                        <div class="ddr-widget__button" style="justify-content: center;"><a href="https://beta.tvarit.com/case-study-1-download-form" target="_self" style="margin: 7px 34px 30px 55px; border-radius: 30px;">
+                        <div class="ddr-widget__button" style="justify-content: center;"><a href="https://tvarit.com/diecasting-thank-you" target="_self" style="margin: 7px 34px 30px 55px; border-radius: 30px;">
                                 <div id="button-801" style="padding: 15px 20px; font-size: 18px;">FREE Download</div>
                             </a></div>
                     </div>
