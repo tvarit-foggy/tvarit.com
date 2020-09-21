@@ -649,7 +649,7 @@
                         <div class="ddr-widget">
                             <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
                                     target="_self" style="width: 350px; height: auto;"><img
-                                        data-blink-src="https://cdn.dragdropr.com/b5e83c5b-31b9-489f-a15e-05e68e195140/"
+                                        src="img/book-cover-butt-welding.png"
                                         style="width: 350px; height: auto;"></a>
                                 <div class="ddr-hot-spots__items-wrapper"></div>
                             </div>
@@ -683,7 +683,7 @@
                     <div id="ddr-e0976c7b80" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                         <div class="ddr-widget">
                             <div class="ddr-widget__button" style="justify-content: center;"><a
-                                    href="https://beta.tvarit.com/case-study-1-download-form" target="_self"
+                                    href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 30px; border-radius: 22px;">
                                     <div id="button-211" style="padding: 15px; font-size: 24px;">FREE Download</div>
                                 </a></div>
@@ -750,7 +750,7 @@
                                             style="margin: 30px; padding-bottom: 15px;">
                                             <p><span style="font-size: 32px;"><strong>In Echtzeit</strong></span></p>
                                             <p><span style="font-weight: 400;">Bestimmung der Qualität der
-                                                    Schweißnaht-Qualität während des Schweißprozesses.</span></p>
+                                                    Schweißnaht-Qualität während des Schweißprozesses</span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -906,7 +906,7 @@
                     <div id="ddr-18732169de" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                         <div class="ddr-widget">
                             <div class="ddr-widget__button" style="justify-content: center;"><a
-                                    href="https://beta.tvarit.com/case-study-1-download-form" target="_self"
+                                    href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 15px 30px 30px; border-radius: 21px;">
                                     <div id="button-801" style="padding: 15px; font-size: 18px;">Free Download</div>
                                 </a></div>
@@ -1240,7 +1240,7 @@
                                     class="ddr-page-widget ddr-page-widget__button ddr-page-widget-0 ">
                                     <div class="ddr-widget">
                                         <div class="ddr-widget__button" style="justify-content: center;"><a
-                                                href="https://beta.tvarit.com/case-study-1-download-form" target="_self"
+                                                href="https://tvarit.com/case-study-1-download-form" target="_self"
                                                 style="margin: 15px 30px 30px; border-radius: 3px;">
                                                 <div id="button-18000" style="padding: 15px; font-size: 18px;">FREE
                                                     DOWNLOAD</div>
@@ -1259,7 +1259,10 @@
                         <div class="ddr-widget">
                             <div id="ddr-rich-text-901" class="ddr-widget__rich-text" style="margin: 30px; padding-bottom: 15px;">
                                 <p></p>
-                                <p><span style="color: #ed1b4a;">©2020 Tvarit GmbH</span>&nbsp;&nbsp;&nbsp;<a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p>
+    <div>
+         <div style="float:left"><p><span style="color: #000000;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
+         <div style="float:right"><p><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p></div>
+     </div>
                             </div>
                         </div>
                     </div>
