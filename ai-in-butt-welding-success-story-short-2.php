@@ -42,6 +42,9 @@
         font-family: sans-serif;
         font-size: 16px;
     }
+    .top-icon {
+        justify-content: flex-start;
+    }
 
     .ddr-page-wrapper .ddr-page {
         position: relative;
@@ -344,6 +347,9 @@
         .ddr-page-widget__hide--768 {
             display: none;
         }
+        .top-icon {
+            justify-content: space-evenly;
+        }
     }
 
     @media (max-width: 480px) and (min-width: 321px) {
@@ -367,6 +373,9 @@
         .ddr-page-widget__hide--480 {
             display: none;
         }
+        .top-icon {
+            justify-content: space-evenly;
+        }
     }
 
     @media (max-width: 320px) and (min-width: 0px) {
@@ -389,6 +398,9 @@
         .ddr-page-column__hide--320,
         .ddr-page-widget__hide--320 {
             display: none;
+        }
+        .top-icon {
+            justify-content: space-evenly;
         }
     }
 
@@ -504,8 +516,8 @@
                                 <div id="ddr-18f64a9761"
                                     class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
                                     <div class="ddr-widget">
-                                        <div class="ddr-widget__image"
-                                            style="justify-content: flex-start; padding-bottom: 15px;"><a
+                                        <div class="ddr-widget__image top-icon"
+                                            style="padding-bottom: 15px;"><a
                                                 href="https://www.tvarit.com/" target="_self"
                                                 style="width: 225px; height: auto;"><img
                                                     data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/"
@@ -595,7 +607,7 @@
                             <div class="ddr-widget__button" style="justify-content: center;"><a
                                     href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 0px 30px 30px; border-radius: 26px;">
-                                    <div id="button-211" style="padding: 15px; font-size: 24px;">DOWNLOAD your FREE copy
+                                    <div id="button-211" style="padding: 15px; font-size: 24px;"> FREE DOWNLOAD
                                     </div>
                                 </a></div>
                         </div>
@@ -795,7 +807,7 @@
                             <div class="ddr-widget__button" style="justify-content: center;"><a
                                     href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 30px 34px 30px 55px; border-radius: 11px;">
-                                    <div id="button-900" style="padding: 15px 20px; font-size: 30px;">FREE Download
+                                    <div id="button-900" style="padding: 15px 20px; font-size: 18px;">FREE Download
                                     </div>
                                 </a></div>
                         </div>
