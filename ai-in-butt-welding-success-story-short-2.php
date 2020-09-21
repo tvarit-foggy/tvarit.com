@@ -607,7 +607,7 @@
                             <div class="ddr-widget__button" style="justify-content: center;"><a
                                     href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 0px 30px 30px; border-radius: 26px;">
-                                    <div id="button-211" style="padding: 15px; font-size: 24px;"> FREE DOWNLOAD
+                                    <div class="btn btn-round btn-red-grd"> Free Download
                                     </div>
                                 </a></div>
                         </div>
@@ -807,7 +807,7 @@
                             <div class="ddr-widget__button" style="justify-content: center;"><a
                                     href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 30px 34px 30px 55px; border-radius: 11px;">
-                                    <div id="button-900" style="padding: 15px 20px; font-size: 18px;">FREE Download
+                                    <div class="btn btn-round btn-red-grd">Free Download
                                     </div>
                                 </a></div>
                         </div>

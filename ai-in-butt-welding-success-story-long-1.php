@@ -697,7 +697,7 @@
                             <div class="ddr-widget__button" style="justify-content: center;"><a
                                     href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 30px; border-radius: 22px;">
-                                    <div id="button-211" style="padding: 15px; font-size: 24px;">FREE Download</div>
+                                    <div class="btn btn-round btn-red-grd">Free Download</div>
                                 </a></div>
                         </div>
                     </div>
@@ -920,7 +920,7 @@
                             <div class="ddr-widget__button" style="justify-content: center;"><a
                                     href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 15px 30px 30px; border-radius: 21px;">
-                                    <div id="button-801" style="padding: 15px; font-size: 18px;">Free Download</div>
+                                    <div class="btn btn-round btn-red-grd">Free Download</div>
                                 </a></div>
                         </div>
                     </div>
@@ -1254,8 +1254,7 @@
                                         <div class="ddr-widget__button" style="justify-content: center;"><a
                                                 href="https://tvarit.com/case-study-1-download-form" target="_self"
                                                 style="margin: 15px 30px 30px; border-radius: 3px;">
-                                                <div id="button-18000" style="padding: 15px; font-size: 18px;">FREE
-                                                    DOWNLOAD</div>
+                                                <div class="btn btn-round btn-red-grd">Free Download</div>
                                             </a></div>
                                     </div>
                                 </div>
