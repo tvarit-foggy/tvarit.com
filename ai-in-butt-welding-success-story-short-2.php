@@ -41,7 +41,9 @@
         margin: 0px;
         font-family: sans-serif;
         font-size: 16px;
+        padding-top: 60px;
     }
+
     .top-icon {
         justify-content: flex-start;
     }
@@ -273,11 +275,6 @@
         .ddr-page-widget__hide--max {
             display: none;
         }
-        .ddr-page-wrapper {
-     padding-left: 90px;
-    padding-right: 90px;
-    padding-top: 60px;
-}
     }
 
     @media (max-width: 1279px) and (min-width: 1025px) {
@@ -347,6 +344,7 @@
         .ddr-page-widget__hide--768 {
             display: none;
         }
+
         .top-icon {
             justify-content: space-evenly;
         }
@@ -373,6 +371,7 @@
         .ddr-page-widget__hide--480 {
             display: none;
         }
+
         .top-icon {
             justify-content: space-evenly;
         }
@@ -399,6 +398,7 @@
         .ddr-page-widget__hide--320 {
             display: none;
         }
+
         .top-icon {
             justify-content: space-evenly;
         }
@@ -503,26 +503,26 @@
         head.insertBefore(node, null);
     })();
     </script>
-<div class="container">
-    <div class="ddr-page-wrapper" data-ddr-page-id="0d675056-f8af-11ea-b75f-0242ac140009">
-        <div class="ddr-page">
-            <div id="ddr-46601bdf23" class="ddr-page-section-wrapper ddr-page-section-wrapper-0">
-                <div class="ddr-page-section-pre-content ddr-page-section-pre-content-0">
-                    <div class="ddr-page-section ddr-page-section-0">
-                        <div
-                            class="ddr-page-row ddr-page-row-0 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                            <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                                style="width: 100%;">
-                                <div id="ddr-18f64a9761"
-                                    class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
-                                    <div class="ddr-widget">
-                                        <div class="ddr-widget__image top-icon"
-                                            style="padding-bottom: 15px;"><a
-                                                href="https://www.tvarit.com/" target="_self"
-                                                style="width: 225px; height: auto;"><img
-                                                    data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/"
-                                                    style="height: auto; width: 225px;"></a>
-                                            <div class="ddr-hot-spots__items-wrapper"></div>
+    <div class="container">
+        <div class="ddr-page-wrapper" data-ddr-page-id="0d675056-f8af-11ea-b75f-0242ac140009">
+            <div class="ddr-page">
+                <div id="ddr-46601bdf23" class="ddr-page-section-wrapper ddr-page-section-wrapper-0">
+                    <div class="ddr-page-section-pre-content ddr-page-section-pre-content-0">
+                        <div class="ddr-page-section ddr-page-section-0">
+                            <div
+                                class="ddr-page-row ddr-page-row-0 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                                    style="width: 100%;">
+                                    <div id="ddr-18f64a9761"
+                                        class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
+                                        <div class="ddr-widget">
+                                            <div class="ddr-widget__image top-icon" style="padding-bottom: 15px;"><a
+                                                    href="https://www.tvarit.com/" target="_self"
+                                                    style="width: 200px; height: auto;"><img
+                                                        data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/"
+                                                        style="height: auto; width: 225px;"></a>
+                                                <div class="ddr-hot-spots__items-wrapper"></div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -530,24 +530,25 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div id="ddr-e8954af5fc" class="ddr-page-section-wrapper ddr-page-section-wrapper-1">
-                <div class="ddr-page-section-pre-content ddr-page-section-pre-content-1">
-                    <div class="ddr-page-section ddr-page-section-1">
-                        <div
-                            class="ddr-page-row ddr-page-row-0 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                            <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                                style="width: 100%;">
-                                <div id="ddr-eccd215d3e"
-                                    class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
-                                    <div class="ddr-widget">
-                                        <div id="ddr-rich-text-1000" class="ddr-widget__rich-text"
-                                            style="margin: 20px 30px 2px; padding-bottom: 5px;">
-                                            <p>- Success Story -</p>
-                                            <p><span style="font-size: 36px;"><strong>Predictive Quality im
-                                                        Stumpfschweißen</strong></span></p>
-                                            <p><span style="font-size: 28px; color: #000000;">5% weniger Ausschuss. 10%
-                                                    weniger Maschinenausfälle.</span></p>
+                <div id="ddr-e8954af5fc" class="ddr-page-section-wrapper ddr-page-section-wrapper-1">
+                    <div class="ddr-page-section-pre-content ddr-page-section-pre-content-1">
+                        <div class="ddr-page-section ddr-page-section-1">
+                            <div
+                                class="ddr-page-row ddr-page-row-0 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                                    style="width: 100%;">
+                                    <div id="ddr-eccd215d3e"
+                                        class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
+                                        <div class="ddr-widget">
+                                            <div id="ddr-rich-text-1000" class="ddr-widget__rich-text"
+                                                style="margin: 20px 30px 2px; padding-bottom: 5px;">
+                                                <p>- Success Story -</p>
+                                                <p><span style="font-size: 36px;"><strong>Predictive Quality im
+                                                            Stumpfschweißen</strong></span></p>
+                                                <p><span style="font-size: 28px; color: #000000;">5% weniger Ausschuss.
+                                                        10%
+                                                        weniger Maschinenausfälle.</span></p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -555,226 +556,155 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div
-                class="ddr-page-row ddr-page-row-2 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                    style="width: 50%;">
-                    <div id="ddr-a955982716" class="ddr-page-widget ddr-page-widget__spacer ddr-page-widget-0 ">
-                        <div class="ddr-widget">
-                            <div class="ddr-widget__spacer" style="height: 31px;"></div>
-                        </div>
-                    </div>
-                    <div id="ddr-e33fa1bceb" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-1 ">
-                        <div class="ddr-widget">
-                            <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
-                                    target="_self"
-                                    style="width: 371px; height: auto; box-shadow: rgb(255, 255, 255) 0px 0px 1px 0px;"><img
-                                    src="img/book-cover-butt-welding.png"
-                                        style="width: 371px; height: auto;"></a>
-                                <div class="ddr-hot-spots__items-wrapper"></div>
+                <div
+                    class="ddr-page-row ddr-page-row-2 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                    <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                        style="width: 50%;">
+                        <div id="ddr-a955982716" class="ddr-page-widget ddr-page-widget__spacer ddr-page-widget-0 ">
+                            <div class="ddr-widget">
+                                <div class="ddr-widget__spacer" style="height: 31px;"></div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="ddr-page-column ddr-page-column-1 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                    style="width: 50%;">
-                    <div id="ddr-aaa20f0aed" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 "
-                        data-ddr-page-widget-additional-css-id="080099f1ec">
-                        <div class="ddr-widget">
-                            <div id="ddr-rich-text-210" class="ddr-widget__rich-text"
-                                style="margin: 30px 30px 15px; padding-bottom: 15px;">
-                                <p><strong><span style="font-size: 20px;">Inhalt dieser Case Study:</span></strong></p>
-                                <p><span style="font-size: 16px; font-family: 'open sans', sans-serif;">Mit Hilfe von
-                                        TIA (Tvarit Industrial AI) konnte ein deutscher Tier-1 Automobil-Zulieferer
-                                        seinen Ausschuss um 5% reduzieren und dabei die Gesamtanlageneffektivität (OEE)
-                                        um 2% verbessern.</span></p>
-                                <p><span
-                                        style="font-weight: 400; font-size: 16px; font-family: 'open sans', sans-serif;">Hierfür
-                                        nutzt TIA die ERP-, Produktions- und Sensordaten (wie Temperatur,
-                                        Materialqualität, Stromstärke und Spannung) um bereits während des
-                                        Schweißprozesses Aussagen über die Produktqualität zu treffen. </span></p>
-                                <p><span style="font-size: 16px; font-family: 'open sans', sans-serif;">Die KI-gestützte
-                                        Software läuft auf IBM Power Hardware und verwendet modernste
-                                        Auswertungsverfahren, um die Qualität aktueller und zukünftiger Chargen in
-                                        Echtzeit vorherzusagen und präventive Vorschläge zur Prozessoptimierung für den
-                                        Anwender zu geben.</span></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="ddr-24581b8544" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
-                        <div class="ddr-widget">
-                            <div class="ddr-widget__button" style="justify-content: center;"><a
-                                    href="https://tvarit.com/case-study-1-download-form" target="_self"
-                                    style="margin: 0px 30px 30px; border-radius: 26px;">
-                                    <div class="btn btn-round btn-red-grd"> Free Download
-                                    </div>
-                                </a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div
-                class="ddr-page-row ddr-page-row-3 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                    style="width: 100%;">
-                    <div id="ddr-66b7a500fd" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
-                        <div class="ddr-widget" style="background-size: 27% 15%;">
-                            <div id="ddr-rich-text-300" class="ddr-widget__rich-text"
-                                style="margin: 30px; padding-bottom: 15px; box-shadow: rgba(209, 209, 209, 0.7) 2px 6px 10px 6px; border-radius: 3px; border-style: solid; border-width: 1px; border-color: rgba(253, 253, 253, 0.9); padding-left: 20px; padding-right: 20px;">
-                                <p style="text-align: center;"></p>
-                                <p style="text-align: center;"><span style="font-size: 26px;"><strong>TVARIT <span
-                                                style="color: #ed1b4a;">INDUSTRIAL AI</span> running on IBM
-                                            Power</strong></span></p>
-                                <p style="text-align: center;">Besonderer Dank gebührt unserem Partner IBM</p>
-                                <p style="text-align: center;">für die Zusammenarbeit und Unterstützung</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div
-                class="ddr-page-row ddr-page-row-4 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                    style="width: 100%;">
-                    <div id="ddr-4c7e8e75fb" class="ddr-page-widget ddr-page-widget__headline ddr-page-widget-0 ">
-                        <div class="ddr-widget">
-                            <h1 class="ddr-widget__headline"
-                                style="margin: 30px; padding-bottom: 15px; text-align: center;">Unser Ansatz</h1>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div
-                class="ddr-page-row ddr-page-row-5 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                    style="width: 100%;">
-                    <div id="ddr-13ca3e009a" class="ddr-page-widget ddr-page-widget__spacer ddr-page-widget-0 ">
-                        <div class="ddr-widget">
-                            <div class="ddr-widget__spacer" style="height: 31px;"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div id="ddr-98a950e9bb" class="ddr-page-section-wrapper ddr-page-section-wrapper-6">
-                <div class="ddr-page-section-pre-content ddr-page-section-pre-content-6"
-                    style="max-width: 1300px; margin: auto;">
-                    <div class="ddr-page-section ddr-page-section-6">
-                        <div
-                            class="ddr-page-row ddr-page-row-0 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                            <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                                style="width: 50%;">
-                                <div id="ddr-574ffe0910"
-                                    class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
-                                    <div class="ddr-widget"
-                                        style="background-repeat: no-repeat; background-size: 550px; background-position: left top;">
-                                        <div class="ddr-widget__image" style="justify-content: center;"><a
-                                                target="_self" style="padding: 5px 50px 50px;"><img
-                                                    src="https://cdn.dragdropr.com/b7d6411e-5f9f-4739-8215-0f039fe1f9d0/"
-                                                    style="height: auto; width: 100%;"></a>
-                                            <div class="ddr-hot-spots__items-wrapper"></div>
-                                        </div>
-                                    </div>
+                        <div id="ddr-e33fa1bceb" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-1 ">
+                            <div class="ddr-widget">
+                                <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
+                                        target="_self"
+                                        style="width: 371px; height: auto; box-shadow: rgb(255, 255, 255) 0px 0px 1px 0px;"><img
+                                            src="img/book-cover-butt-welding.png"
+                                            style="width: 371px; height: auto;"></a>
+                                    <div class="ddr-hot-spots__items-wrapper"></div>
                                 </div>
                             </div>
-                            <div class="ddr-page-column ddr-page-column-1 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                                style="width: 50%;">
-                                <div id="ddr-fd27de4078"
-                                    class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 "
-                                    data-ddr-page-widget-additional-css-id="f2df3672e5">
-                                    <div class="ddr-widget">
-                                        <div id="ddr-rich-text-6010" class="ddr-widget__rich-text"
-                                            style="margin: 0px 30px; padding-left: 60px; padding-right: 30px;">
-                                            <p style="text-align: left;"><span
-                                                    style="font-size: 16px; font-family: raleway, sans-serif;">TIA
-                                                    (Tvarit Indistrial AI) nutzt Materialparameter (Zusammensetzung und
-                                                    Dicke des Materials), sowie Prozessparameter (Anpresskraft,
-                                                    Schweißdauer, Stromstärke), um die Materialqualität und den
-                                                    Elektroden-Verschleiß vorherzusagen. </span></p>
-                                            <p style="text-align: left;"><span
-                                                    style="font-size: 16px; font-family: raleway, sans-serif;">Diese
-                                                    Vorhersagen können wiederum genutzt werden, um die Prozessparameter
-                                                    und die Wartung zu optimieren. Das Resultat sind ein verringerter
-                                                    Ausschuss und eine vorausschauende Wartung.</span></p>
+                        </div>
+                    </div>
+                    <div class="ddr-page-column ddr-page-column-1 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                        style="width: 50%;">
+                        <div id="ddr-aaa20f0aed" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 "
+                            data-ddr-page-widget-additional-css-id="080099f1ec">
+                            <div class="ddr-widget">
+                                <div id="ddr-rich-text-210" class="ddr-widget__rich-text"
+                                    style="margin: 30px 30px 15px; padding-bottom: 15px;">
+                                    <p><strong><span style="font-size: 20px;">Inhalt dieser Case Study:</span></strong>
+                                    </p>
+                                    <p><span style="font-size: 16px; font-family: 'open sans', sans-serif;">Mit Hilfe
+                                            von
+                                            TIA (Tvarit Industrial AI) konnte ein deutscher Tier-1 Automobil-Zulieferer
+                                            seinen Ausschuss um 5% reduzieren und dabei die Gesamtanlageneffektivität
+                                            (OEE)
+                                            um 2% verbessern.</span></p>
+                                    <p><span
+                                            style="font-weight: 400; font-size: 16px; font-family: 'open sans', sans-serif;">Hierfür
+                                            nutzt TIA die ERP-, Produktions- und Sensordaten (wie Temperatur,
+                                            Materialqualität, Stromstärke und Spannung) um bereits während des
+                                            Schweißprozesses Aussagen über die Produktqualität zu treffen. </span></p>
+                                    <p><span style="font-size: 16px; font-family: 'open sans', sans-serif;">Die
+                                            KI-gestützte
+                                            Software läuft auf IBM Power Hardware und verwendet modernste
+                                            Auswertungsverfahren, um die Qualität aktueller und zukünftiger Chargen in
+                                            Echtzeit vorherzusagen und präventive Vorschläge zur Prozessoptimierung für
+                                            den
+                                            Anwender zu geben.</span></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="ddr-24581b8544" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
+                            <div class="ddr-widget">
+                                <div class="ddr-widget__button" style="justify-content: center;"><a
+                                        href="https://tvarit.com/case-study-1-download-form" target="_self"
+                                        style="margin: 0px 30px 30px; border-radius: 26px;">
+                                        <div class="btn btn-round btn-red-grd"> Case Study herunterladen
                                         </div>
-                                    </div>
+                                    </a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="ddr-page-row ddr-page-row-3 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                    <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                        style="width: 100%;">
+                        <div id="ddr-66b7a500fd" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
+                            <div class="ddr-widget" style="background-size: 27% 15%;">
+                                <div id="ddr-rich-text-300" class="ddr-widget__rich-text"
+                                    style="margin: 30px; padding-bottom: 15px; box-shadow: rgba(209, 209, 209, 0.7) 2px 6px 10px 6px; border-radius: 3px; border-style: solid; border-width: 1px; border-color: rgba(253, 253, 253, 0.9); padding-left: 20px; padding-right: 20px;">
+                                    <p style="text-align: center;"></p>
+                                    <p style="text-align: center;"><span style="font-size: 26px;"><strong>TVARIT <span
+                                                    style="color: #ed1b4a;">INDUSTRIAL AI</span> running on IBM
+                                                Power</strong></span></p>
+                                    <p style="text-align: center;">Besonderer Dank gebührt unserem Partner IBM</p>
+                                    <p style="text-align: center;">für die Zusammenarbeit und Unterstützung</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div
-                class="ddr-page-row ddr-page-row-7 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                    style="width: 100%;">
-                    <div id="ddr-7f86169cbd" class="ddr-page-widget ddr-page-widget__headline ddr-page-widget-0 ">
-                        <div class="ddr-widget">
-                            <h1 class="ddr-widget__headline"
-                                style="margin: 30px; padding-bottom: 15px; text-align: center;">Vorteile für den Kunden
-                            </h1>
+                <div
+                    class="ddr-page-row ddr-page-row-4 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                    <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                        style="width: 100%;">
+                        <div id="ddr-4c7e8e75fb" class="ddr-page-widget ddr-page-widget__headline ddr-page-widget-0 ">
+                            <div class="ddr-widget">
+                                <h1 class="ddr-widget__headline"
+                                    style="margin: 30px; padding-bottom: 15px; text-align: center;">Unser Ansatz</h1>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div id="ddr-81d5eb9280" class="ddr-page-section-wrapper ddr-page-section-wrapper-8">
-                <div class="ddr-page-section-pre-content ddr-page-section-pre-content-8">
-                    <div class="ddr-page-section ddr-page-section-8">
-                        <div
-                            class="ddr-page-row ddr-page-row-0 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                            <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                                style="width: 25%;">
-                                <div id="ddr-164f1de5b7"
-                                    class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 "
-                                    data-ddr-page-widget-additional-css-id="afd14b9c35">
-                                    <div class="ddr-widget">
-                                        <div id="ddr-rich-text-8000" class="ddr-widget__rich-text"
-                                            style="margin: 30px; padding-bottom: 15px; border-style: solid; border-width: 0px;">
-                                            <p><span style="font-size: 32px;"><strong>5%</strong></span></p>
-                                            <p><span style="font-weight: 400;">Reduktion von Ausschuss</span></p>
-                                            <p></p>
+                <div
+                    class="ddr-page-row ddr-page-row-5 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                    <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                        style="width: 100%;">
+                        <div id="ddr-13ca3e009a" class="ddr-page-widget ddr-page-widget__spacer ddr-page-widget-0 ">
+                            <div class="ddr-widget">
+                                <div class="ddr-widget__spacer" style="height: 31px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="ddr-98a950e9bb" class="ddr-page-section-wrapper ddr-page-section-wrapper-6">
+                    <div class="ddr-page-section-pre-content ddr-page-section-pre-content-6"
+                        style="max-width: 1300px; margin: auto;">
+                        <div class="ddr-page-section ddr-page-section-6">
+                            <div
+                                class="ddr-page-row ddr-page-row-0 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                                    style="width: 50%;">
+                                    <div id="ddr-574ffe0910"
+                                        class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
+                                        <div class="ddr-widget"
+                                            style="background-repeat: no-repeat; background-size: 550px; background-position: left top;">
+                                            <div class="ddr-widget__image" style="justify-content: center;"><a
+                                                    target="_self" style="padding: 5px 50px 50px;"><img
+                                                        src="https://cdn.dragdropr.com/b7d6411e-5f9f-4739-8215-0f039fe1f9d0/"
+                                                        style="height: auto; width: 100%;"></a>
+                                                <div class="ddr-hot-spots__items-wrapper"></div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="ddr-page-column ddr-page-column-1 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                                style="width: 25%;">
-                                <div id="ddr-bdcf148a50"
-                                    class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 "
-                                    data-ddr-page-widget-additional-css-id="5c5a3e9b18">
-                                    <div class="ddr-widget">
-                                        <div id="ddr-rich-text-8010" class="ddr-widget__rich-text"
-                                            style="margin: 30px; padding-bottom: 15px;">
-                                            <p><span style="font-size: 32px;"><strong>In Echtzeit</strong></span></p>
-                                            <p><span style="font-weight: 400;">Bestimmung der Qualität der
-                                                    Schweißnaht-Qualität während des Schweißprozesses</span></p>
-                                            <p></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="ddr-page-column ddr-page-column-2 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                                style="width: 25%;">
-                                <div id="ddr-72ca09a235"
-                                    class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
-                                    <div class="ddr-widget">
-                                        <div id="ddr-rich-text-8020" class="ddr-widget__rich-text"
-                                            style="margin: 30px; padding-bottom: 15px;">
-                                            <p><span style="font-size: 32px;"><strong>6h im Voraus</strong></span></p>
-                                            <p><span style="font-weight: 400;">Maschinenausfall vorhersagen</span></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="ddr-page-column ddr-page-column-3 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                                style="width: 25%;">
-                                <div id="ddr-ccbae814d4"
-                                    class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
-                                    <div class="ddr-widget">
-                                        <div id="ddr-rich-text-8030" class="ddr-widget__rich-text"
-                                            style="margin: 30px; padding-bottom: 15px;">
-                                            <p><span style="font-size: 32px;"><strong>10%</strong></span></p>
-                                            <p><span style="font-weight: 400;">Weniger Maschinenausfälle</span></p>
+                                <div class="ddr-page-column ddr-page-column-1 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                                    style="width: 50%;">
+                                    <div id="ddr-fd27de4078"
+                                        class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 "
+                                        data-ddr-page-widget-additional-css-id="f2df3672e5">
+                                        <div class="ddr-widget">
+                                            <div id="ddr-rich-text-6010" class="ddr-widget__rich-text"
+                                                style="margin: 0px 30px; padding-left: 60px; padding-right: 30px;">
+                                                <p style="text-align: left;"><span
+                                                        style="font-size: 16px; font-family: raleway, sans-serif;">TIA
+                                                        (Tvarit Indistrial AI) nutzt Materialparameter (Zusammensetzung
+                                                        und
+                                                        Dicke des Materials), sowie Prozessparameter (Anpresskraft,
+                                                        Schweißdauer, Stromstärke), um die Materialqualität und den
+                                                        Elektroden-Verschleiß vorherzusagen. </span></p>
+                                                <p style="text-align: left;"><span
+                                                        style="font-size: 16px; font-family: raleway, sans-serif;">Diese
+                                                        Vorhersagen können wiederum genutzt werden, um die
+                                                        Prozessparameter
+                                                        und die Wartung zu optimieren. Das Resultat sind ein
+                                                        verringerter
+                                                        Ausschuss und eine vorausschauende Wartung.</span></p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -782,52 +712,146 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div id="ddr-33fcef0ede"
-                                    class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-3 ">
-                                    <div class="ddr-widget">
-                                        <div id="ddr-rich-text-17003" class="ddr-widget__rich-text"
-                                            style="margin: 30px 30px 0px; padding-bottom: 0px;">
-                                            <p style="text-align: center;"><strong>Wir haben Ihr Interesse
-                                                    geweckt?</strong><span style="font-weight: 400;"></span><span
-                                                    style="font-weight: 400;"><br></span><span
-                                                    style="font-weight: 400;">Den vollständigen Use Case zum
-                                                </span><span style="font-weight: 400;">Nachlesen und Studieren senden
-                                                </span><span style="font-weight: 400;">wir Ihnen gerne via E-Mail
-                                                    zu!</span></p>
+                <div
+                    class="ddr-page-row ddr-page-row-7 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                    <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                        style="width: 100%;">
+                        <div id="ddr-7f86169cbd" class="ddr-page-widget ddr-page-widget__headline ddr-page-widget-0 ">
+                            <div class="ddr-widget">
+                                <h1 class="ddr-widget__headline"
+                                    style="margin: 30px; padding-bottom: 15px; text-align: center;">Vorteile für den
+                                    Kunden
+                                </h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="ddr-81d5eb9280" class="ddr-page-section-wrapper ddr-page-section-wrapper-8">
+                    <div class="ddr-page-section-pre-content ddr-page-section-pre-content-8">
+                        <div class="ddr-page-section ddr-page-section-8">
+                            <div
+                                class="ddr-page-row ddr-page-row-0 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                                    style="width: 25%;">
+                                    <div id="ddr-164f1de5b7"
+                                        class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 "
+                                        data-ddr-page-widget-additional-css-id="afd14b9c35">
+                                        <div class="ddr-widget">
+                                            <div id="ddr-rich-text-8000" class="ddr-widget__rich-text"
+                                                style="margin: 30px; padding-bottom: 15px; border-style: solid; border-width: 0px;">
+                                                <p><span style="font-size: 32px;"><strong>5%</strong></span></p>
+                                                <p><span style="font-weight: 400;">Reduktion von Ausschuss</span></p>
+                                                <p></p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-            <div
-                class="ddr-page-row ddr-page-row-9 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
-                <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
-                    style="width: 100%;">
-                    <div id="ddr-29ec40690c" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-0 ">
-                        <div class="ddr-widget">
-                            <div class="ddr-widget__button" style="justify-content: center;"><a
-                                    href="https://tvarit.com/case-study-1-download-form" target="_self"
-                                    style="margin: 30px 34px 30px 55px; border-radius: 11px;">
-                                    <div class="btn btn-round btn-red-grd">Free Download
+                                <div class="ddr-page-column ddr-page-column-1 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                                    style="width: 25%;">
+                                    <div id="ddr-bdcf148a50"
+                                        class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 "
+                                        data-ddr-page-widget-additional-css-id="5c5a3e9b18">
+                                        <div class="ddr-widget">
+                                            <div id="ddr-rich-text-8010" class="ddr-widget__rich-text"
+                                                style="margin: 30px; padding-bottom: 15px;">
+                                                <p><span style="font-size: 32px;"><strong>In Echtzeit</strong></span>
+                                                </p>
+                                                <p><span style="font-weight: 400;">Bestimmung der Qualität der
+                                                        Schweißnaht-Qualität während des Schweißprozesses</span></p>
+                                                <p></p>
+                                            </div>
+                                        </div>
                                     </div>
-                                </a></div>
+                                </div>
+                                <div class="ddr-page-column ddr-page-column-2 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                                    style="width: 25%;">
+                                    <div id="ddr-72ca09a235"
+                                        class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
+                                        <div class="ddr-widget">
+                                            <div id="ddr-rich-text-8020" class="ddr-widget__rich-text"
+                                                style="margin: 30px; padding-bottom: 15px;">
+                                                <p><span style="font-size: 32px;"><strong>6h im Voraus</strong></span>
+                                                </p>
+                                                <p><span style="font-weight: 400;">Maschinenausfall vorhersagen</span>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ddr-page-column ddr-page-column-3 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                                    style="width: 25%;">
+                                    <div id="ddr-ccbae814d4"
+                                        class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 ">
+                                        <div class="ddr-widget">
+                                            <div id="ddr-rich-text-8030" class="ddr-widget__rich-text"
+                                                style="margin: 30px; padding-bottom: 15px;">
+                                                <p><span style="font-size: 32px;"><strong>10%</strong></span></p>
+                                                <p><span style="font-weight: 400;">Weniger Maschinenausfälle</span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div id="ddr-95212974fd" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-1 ">
-                        <div class="ddr-widget">
-                            <div id="ddr-rich-text-901" class="ddr-widget__rich-text"
-                                style="margin: 30px; padding-bottom: 15px;">
-                                <p></p>
-                                <div>
-         <div style="float:left"><p><span style="color: #000000;">©2020 <span style="color: #000000;">Tvarit</span> GmbH</span></a></p></div>
-         <div style="float:right"><p><a title="Impressum" href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a title="Datenschutz" href="https://www.tvarit.com/datenschutz">Datenschutz</a></p></div>
-     </div>
+                </div>
+                <div id="ddr-33fcef0ede" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-3 ">
+                    <div class="ddr-widget">
+                        <div id="ddr-rich-text-17003" class="ddr-widget__rich-text"
+                            style="margin: 30px 30px 0px; padding-bottom: 0px;">
+                            <p style="text-align: center; ">
+                                <span style="font-size: 25px;"><strong>Wir haben Ihr Interesse
+                                        geweckt?</strong>
+                                </span>
+                                </p>
+                            <div class="short-line mx-auto bg-red"></div>
+                            <p style="text-align: center; "><span style="font-weight: 400; ">Den
+                                vollständigen Use Case zum
+                                Nachlesen und Studieren senden
+                                wir Ihnen gerne via E-Mail
+                                zu!</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="ddr-page-row ddr-page-row-9 ddr-page-row__wrap--320 ddr-page-row__wrap--480 ddr-page-row__wrap--768">
+                    <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 "
+                        style="width: 100%;">
+                        <div id="ddr-29ec40690c" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-0 ">
+                            <div class="ddr-widget">
+                                <div class="ddr-widget__button" style="justify-content: center;"><a
+                                        href="https://tvarit.com/case-study-1-download-form" target="_self"
+                                        style="margin: 30px 34px 30px 55px; border-radius: 11px;">
+                                        <div class="btn btn-round btn-red-grd">Case Study herunterladen
+                                        </div>
+                                    </a></div>
+                            </div>
+                        </div>
+                        <div id="ddr-95212974fd" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-1 ">
+                            <div class="ddr-widget">
+                                <div id="ddr-rich-text-901" class="ddr-widget__rich-text"
+                                    style="margin: 30px; padding-bottom: 15px;">
+                                    <p></p>
+                                    <div>
+                                        <div style="float:left">
+                                            <p><span style="color: #000000;">©2020 <span
+                                                        style="color: #000000;">Tvarit</span> GmbH</span></a></p>
+                                        </div>
+                                        <div style="float:right">
+                                            <p><a title="Impressum"
+                                                    href="https://www.tvarit.com/impressum">Impressum</a>&nbsp;&nbsp;&nbsp;<a
+                                                    title="Datenschutz"
+                                                    href="https://www.tvarit.com/datenschutz">Datenschutz</a></p>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
 
 </body>
@@ -850,13 +874,13 @@ body {
 }
 
 p {
-    font-size: 20px !important;
+    font-size: 16px !important;
     font-weight: 400 !important;
 }
 
 ul li {
     font-weight: 400 !important;
-    font-size: 17px !important;
+    font-size: 16px !important;
 }
 
 #ddr-rich-text-5100 * {
