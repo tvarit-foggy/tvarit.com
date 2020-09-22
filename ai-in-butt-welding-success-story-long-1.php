@@ -561,13 +561,13 @@
     }
 
     p {
-        font-size: 20px !important;
+        font-size: 16px !important;
         font-weight: 400 !important;
     }
 
     ul li {
         font-weight: 400 !important;
-        font-size: 20px !important;
+        font-size: 16px !important;
     }
 
     #ddr-rich-text-5100 * {
@@ -593,6 +593,9 @@
         border-right: 1px solid #f74785;
 
     }
+    .pdn-l-col {
+        padding-left: 5px !important;
+    }
 
     </style>
     <div class="container">
@@ -611,7 +614,7 @@
                                     <div class="ddr-widget">
                                         <div class="ddr-widget__image top-icon"
                                             style=" padding-bottom: 15px;"><a target="_self"
-                                                style="width: 250px; height: auto;"><img
+                                                style="width: 200px; height: auto;"><img
                                                     data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/"
                                                     style="height: auto; width: 250px;"></a>
                                             <div class="ddr-hot-spots__items-wrapper"></div>
@@ -697,7 +700,7 @@
                             <div class="ddr-widget__button" style="justify-content: center;"><a
                                     href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 30px; border-radius: 22px;">
-                                    <div class="btn btn-round btn-red-grd">Free Download</div>
+                                    <div class="btn btn-round btn-red-grd">Case Study herunterladen</div>
                                 </a></div>
                         </div>
                     </div>
@@ -920,7 +923,7 @@
                             <div class="ddr-widget__button" style="justify-content: center;"><a
                                     href="https://tvarit.com/case-study-1-download-form" target="_self"
                                     style="margin: 15px 30px 30px; border-radius: 21px;">
-                                    <div class="btn btn-round btn-red-grd">Free Download</div>
+                                    <div class="btn btn-round btn-red-grd">Case Study herunterladen</div>
                                 </a></div>
                         </div>
                     </div>
@@ -1226,12 +1229,13 @@
                                     <div class="ddr-widget">
                                         <div id="ddr-rich-text-17003" class="ddr-widget__rich-text"
                                             style="margin: 30px 30px 0px; padding-bottom: 0px;">
-                                            <p style="text-align: center;"><strong>Wir haben Ihr Interesse
-                                                    geweckt?</strong><span style="font-weight: 400;"></span><span
-                                                    style="font-weight: 400;"><br></span><span
-                                                    style="font-weight: 400;">Den vollständigen Use Case zum
-                                                </span><span style="font-weight: 400;">Nachlesen und Studieren senden
-                                                </span><span style="font-weight: 400;">wir Ihnen gerne via E-Mail
+                                            <p style="text-align: center;"><span style="font-weight: 400; font-size:25px;"><strong>Wir haben Ihr Interesse
+                                                    geweckt?</strong></span> </p>
+                                                    <div class="short-line mx-auto bg-red"></div>
+
+                                                    <p style="text-align: center;"><span style="font-weight: 400;">Den vollständigen Use Case zum
+                                                Nachlesen und Studieren senden
+                                                wir Ihnen gerne via E-Mail
                                                     zu!</span></p>
                                         </div>
                                     </div>
@@ -1254,7 +1258,7 @@
                                         <div class="ddr-widget__button" style="justify-content: center;"><a
                                                 href="https://tvarit.com/case-study-1-download-form" target="_self"
                                                 style="margin: 15px 30px 30px; border-radius: 3px;">
-                                                <div class="btn btn-round btn-red-grd">Free Download</div>
+                                                <div class="btn btn-round btn-red-grd">Case Study herunterladen</div>
                                             </a></div>
                                     </div>
                                 </div>

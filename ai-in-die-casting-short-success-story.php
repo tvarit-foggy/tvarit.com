@@ -41,6 +41,7 @@
         margin: 0px;
         font-family: sans-serif;
         font-size: 16px;
+        padding-top: 60px !important;
     }
 
     .ddr-page-wrapper .ddr-page {
@@ -1019,7 +1020,7 @@
                         <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 " style="width: 100%;">
                             <div id="ddr-18f64a9761" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
                                 <div class="ddr-widget">
-                                    <div class="ddr-widget__image top-icon" style="padding-bottom: 15px;"><a href="https://www.tvarit.com/" target="_self" style="width: 225px; height: auto;"><img data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/" style="height: auto; width: 225px;"></a>
+                                    <div class="ddr-widget__image top-icon" style="padding-bottom: 15px;"><a href="https://www.tvarit.com/" target="_self" style="width: 200px; height: auto;"><img data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/" style="height: auto; width: 225px;"></a>
                                         <div class="ddr-hot-spots__items-wrapper"></div>
                                     </div>
                                 </div>
@@ -1078,7 +1079,7 @@
                 <div id="ddr-24581b8544" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                     <div class="ddr-widget">
                         <div class="ddr-widget__button" style="justify-content: center;"><a href="https://tvarit.com/diecasting-thank-you" target="_self" style="margin: 0px 30px 30px; border-radius: 26px;">
-                                <div class="btn btn-round btn-red-grd"> Free Download</div>
+                                <div class="btn btn-round btn-red-grd"> Case Study herunterladen</div>
                             </a></div>
                     </div>
                 </div>
@@ -1193,7 +1194,8 @@
                 <div id="ddr-222d163d57" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-0 " data-ddr-page-widget-additional-css-id="e6cd75f3bc">
                     <div class="ddr-widget">
                         <div id="ddr-rich-text-800" class="ddr-widget__rich-text" style="margin: 30px 30px 10px; padding-bottom: 15px;">
-                            <p style="text-align: center;"><span style="font-size: 18px;"><strong>Wir haben Ihr Interesse geweckt?</strong></span><span style="background-color: transparent;"></span></p>
+                            <p style="text-align: center;"><span style="font-size: 25px;"><strong>Wir haben Ihr Interesse geweckt?</strong></span><span style="background-color: transparent;"></span></p>
+                            <div class="short-line mx-auto bg-red"></div>
                             <p style="text-align: center;"><span style="font-weight: 400;">Den vollständigen Use Case zum </span><span style="font-weight: 400;">Nachlesen und Studieren senden </span><span style="font-weight: 400;">wir Ihnen gerne via E-Mail zu!&nbsp; &nbsp; &nbsp; </span></p>
                         </div>
                     </div>
@@ -1201,7 +1203,7 @@
                 <div id="ddr-29ec40690c" class="ddr-page-widget ddr-page-widget__button ddr-page-widget-1 ">
                     <div class="ddr-widget">
                         <div class="ddr-widget__button" style="justify-content: center;"><a href="https://tvarit.com/diecasting-thank-you" target="_self" style="margin: 7px 34px 30px 55px; border-radius: 30px;">
-                                <div class="btn btn-round btn-red-grd">Free Download</div>
+                                <div class="btn btn-round btn-red-grd">Case Study herunterladen</div>
                             </a></div>
                     </div>
                 </div>
@@ -1243,13 +1245,13 @@ body {
 }
 
 p {
-    font-size: 20px !important;
+    font-size: 16px !important;
     font-weight: 400 !important;
 }
 
 ul li {
     font-weight: 400 !important;
-    font-size: 17px !important;
+    font-size: 16px !important;
 }
 
 #ddr-rich-text-5100 * {
