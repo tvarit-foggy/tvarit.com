@@ -1062,7 +1062,7 @@
                         <div id="ddr-rich-text-210" class="ddr-widget__rich-text" style="margin: 30px 30px 15px; padding-bottom: 15px;">
                             <p><strong><span style="font-size: 20px;">Inhalt dieser Case Study:</span></strong></p>
                             <p><span style="font-weight: 400; font-family: raleway, sans-serif;">Mit Hilfe von TIA (Tvarit Industrial AI) konnten Ausfälle fünf Stunden im Voraus erkannt werden.</span></p>
-                            <p><span style="font-weight: 400; font-family: raleway, sans-serif;">Die KI-gestützte Software nutzt modernste Auswertungsverfahren um in<br>Echtzeit vorherzusagen welche Komponenten gefährdet sind, und welche Parameter<br>anzupassen wären, um die Laufzeit der Motoren zu verlängern und wichtige Zeitfenster<br>zu überbrücken.</span></p>
+                            <p><span style="font-weight: 400; font-family: raleway, sans-serif;">Die KI-gestützte Software nutzt modernste Auswertungsverfahren um in Echtzeit vorherzusagen welche Komponenten gefährdet sind, und welche Parameter anzupassen wären, um die Laufzeit der Motoren zu verlängern und wichtige Zeitfenster zu überbrücken.</span></p>
                             <p style="font-weight: 400;">Die KI-gestützte Software läuft auf IBM Power Hardware und nutzt prädiktive Analysen um die Instandhaltungskosten und Lagerhaltungskosten für Ersatzteile signifikant zu senken.</p>
                         </div>
                     </div>
