@@ -231,7 +231,7 @@
                             von Druckmaschinen eingesetzt werden. Preis je Motor: 15.000 €</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
-                            class="btn btn-round btn-red-grd">Download Use Case</a>
+                            class="btn btn-round btn-red-grd">Use Case herunterladen</a>
                     </div>
                 </div>
             </div>

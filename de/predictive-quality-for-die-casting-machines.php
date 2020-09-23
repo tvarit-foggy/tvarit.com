@@ -119,8 +119,9 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">QUALITÄTSVORHERSAGE <br>  IM DRUCKGUSS
-                -VERFAHREN.</span>
+                <span class="innr-sec-mainTitle ai_predictive">
+                Vorhersage des Qualitätsstatus des von der Druckgussmaschine kommenden Rades für zukünftige Chargen
+                </span>
             </div>
             <br>
             <div class="row align-items-center">
@@ -226,7 +227,7 @@
                             </p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
-                            class="btn btn-round btn-red-grd">Download Use Case</a>
+                            class="btn btn-round btn-red-grd">Use Case herunterladen</a>
                     </div>
                 </div>
             </div>

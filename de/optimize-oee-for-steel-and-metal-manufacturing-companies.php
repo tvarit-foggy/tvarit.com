@@ -176,7 +176,7 @@
                             Vorhersage der Qualität von Alumimiumspulen. Kapazität: 500.000 Tonnen pro Jahr.</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
-                            class="btn btn-round btn-red-grd">Download Use Case</a>
+                            class="btn btn-round btn-red-grd">Use Case herunterladen</a>
                     </div>
                 </div>
             </div>
