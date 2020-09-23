@@ -5,4 +5,5 @@ $host="";
 $database="";
 $mail_from="";
 $demo_mail_from="";
+$mail_password="";
 ?>
