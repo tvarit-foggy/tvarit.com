@@ -1,4 +1,5 @@
 <?php
+  include 'config.php';  
   use PHPMailer\PHPMailer\PHPMailer;
   require 'vendor/autoload.php';
   
@@ -10,12 +11,12 @@
   $mail->SMTPSecure = "tls";
   $mail->Port       = 587;
   $mail->Host       = "smtp.office365.com";
-  $mail->Username   = "web@tvarit.com";
-  $mail->Password   = "Th3syst3mhasfailed123@";
+  $mail->Username   = $mail_from;
+  $mail->Password   = $mail_password;
 
   $mail->IsHTML(true);
-  $mail->AddAddress("web@tvarit.com", "indra kp");
-  $mail->SetFrom("web@tvarit.com", "INDRA A");
+  $mail->AddAddress("info@tvarit.com", "indra kp");
+  $mail->SetFrom("info@tvarit.com", "INDRA A");
   $mail->AddReplyTo("indrakumarprajapat@gmail.com", "indrakkk");
 //   $mail->AddCC("cc-recipient-email", "cc-recipient-name");
   $mail->Subject = "Test is Test Email sent via Gmail SMTP Server using PHP Mailer";
