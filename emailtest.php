@@ -14,12 +14,12 @@
   $mail->Password   = "Th3syst3mhasfailed123@";
 
   $mail->IsHTML(true);
-  $mail->AddAddress("web@tvarit.com", "indra kp");
+  $mail->AddAddress("indra@insessor.com", "Sumesh");
   $mail->SetFrom("web@tvarit.com", "INDRA A");
-  $mail->AddReplyTo("indrakumarprajapat@gmail.com", "indrakkk");
+  $mail->AddReplyTo("web@tvarit.com", "indrakkk");
 //   $mail->AddCC("cc-recipient-email", "cc-recipient-name");
-  $mail->Subject = "Test is Test Email sent via Gmail SMTP Server using PHP Mailer";
-  $content = "<b>This is a Test Email sent via Gmail SMTP Server using PHP mailer class.</b>";
+  $mail->Subject = "Test is Test Email sent via SMTP Server";
+  $content = "<b>This is a Test Email sent via SMTP Server.</b>";
 
   $mail->MsgHTML($content); 
   if(!$mail->Send()) {
