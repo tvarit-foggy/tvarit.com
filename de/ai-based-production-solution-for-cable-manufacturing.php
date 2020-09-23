@@ -116,7 +116,9 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">KI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG <br>FÜR DIE KABELHERSTELLUNG</span>
+                <span class="innr-sec-mainTitle ai_predictive">
+                KI-basiertes Produktionsplanungssystem für Kabelhersteller <br> Kapazität der Fabrik: 100.000 Cu-Tonnen/Jahr
+                </span>
             </div>
             <br>
             <div class="row align-items-lg-center">
@@ -225,7 +227,7 @@
                             AI based production planning system for cable manufacturer. Price of each motor: Capacity of factory: 100,000 Cu tons/year.</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
-                            class="btn btn-round btn-red-grd">Download Use Case</a>
+                            class="btn btn-round btn-red-grd">Use Case herunterladen</a>
                     </div>
                 </div>
             </div>
