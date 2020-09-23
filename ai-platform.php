@@ -51,7 +51,9 @@
                 <span class="red">AI</span> framework
               </div>
              <div class="fs-20 fw-700">
+
                  World’s most advanced AI framework <br/>for manufacturing data analytics
+
              </div>
               <br>
               <a href="https://tvarit.com/contact" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Learn how Tvarit AI framework works for you</a>
@@ -78,6 +80,7 @@
           <div class="short-line bg-red mx-auto"></div>
           <div class="text-p">
             Tvarit AI is an award winning AI framework. It brings extensive knowledge and learnings from the experience of Data Scientists working in fortune 500 manufacturing companies together with the new and most innovative AI techniques to enable you to create solid business use-cases with 100% success rate. It also has the facility to capture the knowledge and know how of people working in your organizations so that you can customize and create AI models as per your needs. It also gives world-class user experience in the form of simple and sleek design by leveraging the state-of-the-art technology.
+
           </div>
         </div>
 
@@ -88,7 +91,7 @@
     <br>
     <!------------------------ CONSULTING end --------------------->
     <div class="text text-center mb-0">
-    <h2 class="title red">Overview of working</h2>
+    <h2 class="title red">Overview of workflow</h2>
     </div>
     <section class="section-padding">
       <div class="container timelineSteps-warpper">
@@ -121,7 +124,7 @@
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Decide data size without compromising on accuracy</li>                  
+                  <li>Decide on data size without losing accuracy</li>                  
                   <li>Segregates the historical data into multiple groups</li>
                   <li>Figure out the information gained from the data</li>                
                 </ul>
@@ -134,7 +137,7 @@
                 <h4 class="title">Data Understanding</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Fruitful Analysis</li>
+                  <li>Data Fruitfulness Analysis</li>
                   <li>Anomaly detection</li>
                 </ul>
             </div>
@@ -146,15 +149,14 @@
                 <h4 class="title">Data Preparation</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Sanity Handling</li>
-                  <li>Multicolinearity handling</li>
+                  <li>Sanity Checks</li>
+                  <li>Multicolinearity</li>
                 </ul>
             </div>
           </div>
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Algorithms specifically optimized for Machine Sensor Data, ERP data, QC lab data</li>
@@ -167,11 +169,10 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-5 order-3 order-md-1">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Detects seasonality and trends </li>
-                  <li>Enables you to efficient run decomposition operations on thousands of parameters simultaneously</li>
+                  <li>Enables you to efficiently run decomposition operations on thousands of parameters simultaneously</li>
                 </ul>
             </div>
             
@@ -182,7 +183,7 @@
                 <h4 class="title">Feature Engineering</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>FFT, Wavelet, Entropy etc algorithms</li>
+                  <li>Algorithms for FFT, Wavelet or Entropy</li>
                   <li>Batch Manufacturing 2-D data transformation</li>
                 </ul>
             </div>
@@ -194,7 +195,7 @@
                 <h4 class="title">Predictive Modelling</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Predict</li>
+                  <li>Make predictions/ predict target variables</li>
                   <li>Univariate forecasting</li>
                 </ul>
             </div>
@@ -202,7 +203,6 @@
           <div class="col-md-2"></div>
           <div class="col-md-5">
             <div class="timelineStep">
-                <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Gives you most accurate AI models on the basis of largest number of algorithms used in the platform </li>
@@ -218,8 +218,8 @@
                 <br>
                 <ul class="ul-list-bullet">
                   <li>Identifies the root cause of failure or malfunction</li>
-                  <li>Gives you the graph containing features in their importance order which determines the direction the result</li>
-                  <li>Gives you What-if analysis</li>
+                  <li>Graphically displays features and process parameters ordered by the degree in which they influence the target variable</li>
+                  <li>Provides you with what-if-analyses</li>
                 </ul>
             </div>
           </div>
@@ -229,7 +229,7 @@
                 <h4 class="title">Evaluation:</h4>
                 <br>
                 <ul class="ul-list-bullet">
-                  <li>Tweaker</li>
+                  <li>Tweaker: Prescriptive analyses that provide information on the extent to which process parameters should be adjusted to achieve a desired result</li>
                   <li>Global/Local root cause analysis</li>
                 </ul>
             </div>
@@ -252,7 +252,7 @@
                 <h4 class="title">Automatically </h4>
                 <br>
                 <ul class="ul-list-bullet">
-                 <li> Suggests business to gauge the effectiveness of the predictions as they would be cautioned in advance to rely or not to rely on the novelty and non-novelty points </li>
+                 <li> Measures the effectiveness of novelty points on the prediction and gives alerts in advance.</li>
               </ul>
             </div>
           </div>
@@ -277,7 +277,7 @@
                 More than 100 ready to use modules for data preparation and labelling jobs
               </li>
               <li>
-                More than 22+ AI algorithms to give you best results at every instance of time
+                More than 22 AI algorithms to give you best results
               </li>
               <li>
                 Quickly document and share AI analytic results and dashboards through collaborative features like Slack, Microsoft Teams etc.

@@ -151,8 +151,8 @@
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                    We support large and medium sized cable manufacturing organizations in optimizing their production
-                    processes, improving their management systems and achieving higher profitability.
+                We support large and medium sized manufacturing organizations in optimizing their production 
+                processes, improving their management systems and achieving higher profitability.
                 </div>
             </div>
         </div>
@@ -282,7 +282,7 @@
                                 <h3 class="fw-900">a full case study</h3>
                             </div>
                             <div>
-                                <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn btn-round btn-white">Click Here</a>
+                                <a href="#" data-toggle="modal" data-target="#myModal" class="btn btn-round btn-white">Click Here</a>
                             </div>
                         </div>
                     </div>
@@ -294,7 +294,7 @@
                             </div>
 
                             <div>
-                            <a href="#form1" class="btn btn-round btn-red-grd">Click Here</a>
+                            <a href="#contact_us" class="btn btn-round btn-red-grd">Click Here</a>
                             </div>
                         </div>
                     </div>

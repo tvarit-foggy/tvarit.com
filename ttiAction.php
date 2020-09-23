@@ -4,7 +4,6 @@ server with default setting (user 'root' with no password) */
 include 'config.php';
 if(isset($_POST['company_name'])){
     $link = mysqli_connect("$host", "$username", "$password", "$database");
- 
         $company_name = $_POST['company_name'];
         $person_name = $_POST['person_name'];
         $plan = $_POST['plan'];
@@ -40,13 +39,11 @@ if(isset($_POST['company_name'])){
 
             $headers  = "From: $mail_from\r\n" .
             "X-Mailer: php\r\n";
-            $headers .= "Bcc: $mail_from\r\n"";
-
-             mail($to,$subject,$message,$headers);
+            $headers .= "Bcc: $mail_from\r\n";
+            mail($to,$subject,$message,$headers);
     } else{
         echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
     }
-     
     // Close connection
     mysqli_close($link);
 }

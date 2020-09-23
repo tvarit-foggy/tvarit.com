@@ -2290,7 +2290,7 @@ span.text-big60.red.fw-300.ai_predictive {
 .weOfferBox .featureBox .title
 {
     font-weight: bold;
-    font-size: var(--fs-40);
+    font-size: var(--fs-20);
     line-height: 1;
     margin-bottom: 10px;
     text-transform: capitalize;   
@@ -2548,7 +2548,7 @@ span.text-big60.red.fw-300.ai_predictive {
     left: 0;
     right: 0;
     margin: auto;
-    width: 28%;
+    width: 35%;
 }
 
 .text-white
@@ -2701,3 +2701,20 @@ a .tvarit-black:hover {
     height: 100vh !important;
     margin-bottom: 0px !important;
 }
+.nav-link-seprator {
+    padding: 20px 2px 20px 2px !important;
+}
+.nav-link-en {
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+}
+.nav-link-de {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+.main-menu .navbar-nav .nav-item a.nav-link.nav-link-seprator:before {
+    height: 0px !important;
+    }
+    .main-menu .navbar-nav .nav-item .nav-link:hover, .fixed-menu.sticky .navbar-nav .nav-item a.nav-link.nav-link-seprator:hover {
+        color: black !important;
+    }

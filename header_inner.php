@@ -1,6 +1,21 @@
 <!-- Scripts -->
-<script type="text/javascript" src="https://secure.leadforensics.com/js/190397.js" ></script>
-<noscript><img alt="" src="https://secure.leadforensics.com/190397.png" style="display:none;" /></noscript> 
+<script>
+  (function(){
+
+    window.ldfdr = window.ldfdr || {};
+    (function(d, s, ss, fs){
+      fs = d.getElementsByTagName(s)[0];
+
+      function ce(src){
+        var cs  = d.createElement(s);
+        cs.src = src;
+        setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1);
+      }
+
+      ce(ss);
+    })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_lYNOR8xMWAb7WQJZ.js');
+  })();
+</script>
 <!-- Scripts -->
 
 <div class="main-menu fixed-menu sticky-top sticky">
@@ -89,7 +104,7 @@
                                             <a href="../ai-consulting" class="sub-Link">AI Consulting</a>
                                         </li>
                                         <li>
-                                            <a href="../ai_academy" class="sub-Link">AI and Data Academy</a>
+                                            <a href="../ai_academy" class="sub-Link">AI & Data Academy</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -152,6 +167,13 @@
                             </div>
                         </div>
                     </li>
+                    <li class="nav-item">
+                    <div style="display:flex;">
+                        <a class="nav-link nav-link-en" href="https://www.tvarit.com/"><b>EN</b></a>
+                        <a class="nav-link nav-link-seprator" href="#">|</a>
+                        <a class="nav-link nav-link-de" href="https://www.tvarit.com/de"><b>DE</b></a>
+                    </div>
+                </li>
                 </ul>
             </div>
         </nav>

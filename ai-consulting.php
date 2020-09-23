@@ -59,7 +59,7 @@
                         <span class="letters red fw-600">Accelerate and flawlessly</span>
                     </span>
                 </h1>
-              </div>
+              </div> 
               <div class="text-big60 mb-2">complete your Data <br>Science Projects</div>
               <div class="subtext">
                 <div class="text-s1 animated infinite pulse slower-6s">With innovative task based  pricing</div>
@@ -77,12 +77,10 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <div class="innr-sec-mainTitle ai_predictive">successfully complete your data science projects fast and easy with TV<span class="red">A</span>R<span class="red">I</span>T CONSULTING</div>
+                <div class="innr-sec-mainTitle ai_predictive">SUCCESSFULLY COMPLETE YOUR DATA SCIENCE PROJECTS WITH TV<span class="red">A</span>R<span class="red">I</span>T CONSULTING</div>
                 <div class="short-line mx-auto bg-red"></div>
                 <div class="text-p">
-                    Our experts help you at every stage of your data science projects. We help you in solving key issues
-                    of data extraction, data preparation, data labelling and predictive analytics. We provide both on-site
-                    and remote based consulting services.
+                Our experts support you at every stage of your data science projects. We help you in solving key issues of data extraction, data preparation, data labelling and predictive analytics. We provide on-site and remote based consulting services.
                 </div>
             </div>
         </div>
@@ -198,8 +196,8 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Ensure that the data fed into and train machine learning models
-                                        are clean and for machine learning purposes
+                                    Ensure that the data used to train machine learning models 
+                                    are clean and suitable for machine learning purposes
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         Now</a>
@@ -244,8 +242,8 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Ensure that the data fed into and train machine learning models
-                                        are complete and releveant for machine learning purposes
+                                    Ensure that the data used to train machine learning models 
+                                    are complete and relevant for machine learning purposes
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         Now</a>
@@ -267,8 +265,8 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                        Perform AI powered predicitve analytics, alerts and other features
-                                        like tweaker, what-if analysis, root cause analysis, etc
+                                    Perform AI powered predicitve analytics, alerts and other features 
+                                    like tweaker, what-if analysis, root cause analysis
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
                                         Now</a>
@@ -303,8 +301,8 @@
                             <img src="img/ai_1.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                            Experience from over 200 Industrial Projects with Fortune 500 companies and National
-                            institutions like NASA
+                        Experience from over 32 industrial data science projects with fortune 500 companies and national 
+                        institutions like NASA
                         </div>
                     </div>
                 </div>
@@ -314,8 +312,7 @@
                             <img src="img/ai_2.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
-                            Our Task-based pricing gives you more economic benefits than traditional hour-based pricing
-                            for consulting services
+                        our task based pricing model takes you the economic risks of unsucessful activities and unexpected challenges
                         </div>
                     </div>
                 </div>
@@ -345,40 +342,7 @@
         </div>
     </div>
     <!------------------------ Automotives end --------------------->
-
-    <!--------------------- Buttons  ------------------->
-    <div class="section-padding-both">
-        <div class="container white-box-shadow">
-
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="lookingBox rerBg-grd">
-                        <div class="text text-white">
-                            <span class="fs-18  fw-400">Request for free teaser</span>
-                            <h3 class="fw-900">for one day</h3>
-                        </div>
-                        <div>
-                            <a href="#contact_us" class="btn btn-round btn-white">Click Here</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="lookingBox brdr-black">
-                        <div class="text">
-                            <span class="fs-18  fw-400">for more details</span>
-                            <h3 class="fw-900">Contact us</h3>
-                        </div>
-
-                        <div>
-                            <a href="#contact_us" class="btn btn-round btn-red-grd">Click Here</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <!--------------------- Buttons  ------------------->
+    <br>
 
     <!------------------------Countdown start --------------------->
     <?php
