@@ -30,6 +30,7 @@ jobs:
             mail_from="$mail_from"
             password="$pwd"
             username="$name";
+            mail_password="$mail_password";
             ?>
             EOF
             cat config.php
