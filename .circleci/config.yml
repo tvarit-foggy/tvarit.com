@@ -24,11 +24,11 @@ jobs:
             touch config.php
             cat << EOF > config.php
             <?php
-            database="$database"
-            demo_mail_from="$demo_mail_from"
+            database="$database";
+            demo_mail_from="$demo_mail_from";
             host="$host";
-            mail_from="$mail_from"
-            password="$pwd"
+            mail_from="$mail_from";
+            password="$pwd";
             username="$name";
             mail_password="$mail_password";
             ?>
