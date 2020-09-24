@@ -18,10 +18,18 @@
 
 This message contains information that may be privileged or confidential and is the property of the Tvarit GmbH. It is intended only for the person to whom it is addressed. If you are not the intended recipient, you are not authorized to read, print, retain copy, disseminate, distribute, or use this message or any part thereof. If you receive this message in error, please notify the sender immediately and delete all copies of this message. "
 ;
-    $headers  = "From: demo@tvarit.com\r\n" .
-  "X-Mailer: php\r\n";
-  $headers .= "Bcc: demo@tvarit.com\r\n";
-  
-   mail($to,$subject,$message,$headers);
+$mail->IsHTML(true);
+$mail->AddAddress($to);
+$mail->SetFrom($mail_from, "Tvarit GmbH");
+$mail->addBCC($mail_from);
+$mail->Subject = $subject;
+
+$mail->MsgHTML($message); 
+if($mail->send()){
+  echo 'Message has been sent';
+}else{
+  echo 'Message could not be sent.';
+  echo 'Mailer Error: ' . $mail->ErrorInfo;
+}
    
 ?>  

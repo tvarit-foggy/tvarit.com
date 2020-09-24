@@ -61,12 +61,15 @@
             var phone = $("#phone").val();
             var msg = $("#msg").val();
             var x = document.getElementById("snackbar");
+            document.getElementById('saveloader').style.visibility = 'visible';
+
             $.ajax({
                 type: "POST",
-                url: "/mail",
+                url: "./mail",
                 data: "name=" + name + '&email=' + email + '&sub=' + sub + '&phone=' + phone + '&msg=' +
                     msg,
                 success: function(data) {
+                    document.getElementById('saveloader').style.visibility = 'hidden';
                     x.className = "show";
                     setTimeout(function() {
                         x.className = x.className.replace("show", "");
@@ -79,6 +82,7 @@
                 }
             });
         } else {
+            document.getElementById('saveloader').style.visibility = 'hidden';
             var y = document.getElementById("validation");
             y.className = "show";
             setTimeout(function() {
@@ -286,6 +290,7 @@
                             <br>
                             <div class="form-group text-right">
                                 <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
+                                &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveloader" aria-hidden="true"></i>
                             </div>
                             <div id="snackbar">We Will Contact you Shortly</div>
                             <div id="validation">Fill All the Mandatory Fields</div>
