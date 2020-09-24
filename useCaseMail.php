@@ -1,4 +1,5 @@
-<?php  
+<?php
+  include 'mail-config.php';  
   $name = $_POST["name"];
   $email = $_POST["email"];
   $company = $_POST["company"];
@@ -45,10 +46,10 @@
   } 
 
   $message = "
-  Dear $name,<br><br>
+  Dear <b>$name</b>,<br><br>
 
-  Thank you for your interest in our solutions.<br>
-  Please find below link to the requested use-case.<br><br>
+  &nbsp;&nbsp;&nbsp; Thank you for your interest in our solutions.<br>
+  &nbsp;&nbsp;&nbsp; Please find below link to the requested use-case.<br><br>
   
   $downloadLinks<br><br>
 
@@ -82,12 +83,12 @@
 ";
 
 $messageTvarit = "
-Dear $name,
-Please find the Use case request details,
-  Name:    $name
-  Email:   $email  
-  Phone:   $phone
-  Company: $company
+Dear $name,<br><br>
+&nbsp;&nbsp;&nbsp;Please find the Use case request details,<br><br>
+  Name:    $name<br>
+  Email:   $email  <br>
+  Phone:   $phone<br>
+  Company: $company<br>
 
 ";
 
@@ -104,14 +105,23 @@ $mail_content = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
 </html>';
 
   $subject = "Tvarit Use case request";
-  $headers  = "From: info@tvarit.com\r\n" .
-  "X-Mailer: php\r\n";
-  // $headers .= "Bcc: info@tvarit.com\r\n";
-  $headers .= 'MIME-Version: 1.0' . "\r\n";
-  $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-  $toTvarit = "info@tvarit.com";
+  $mail->IsHTML(true);
+  $mail->AddAddress($to, $name);
+  $mail->SetFrom($mail_from, "Tvarit GmbH");
+  $mail->Subject = $subject;
 
-  mail($to,$subject,$mail_content,$headers);
-  mail($toTvarit,$subject,$messageTvarit,$headers);
+  $mail->MsgHTML($message); 
+  if($mail->send()){
+    $mail->ClearAddresses();
+    $mail->AddAddress("info@tvarit.com");
+    $mail->MsgHTML($messageTvarit);
+    if($mail->send()){ 
+      echo 'Message has been sent';  
+    }
+    echo 'Message has been sent';
+}else{
+    echo 'Message could not be sent.';
+    echo 'Mailer Error: ' . $mail->ErrorInfo;
+}
    
 ?>  
