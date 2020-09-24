@@ -28,6 +28,9 @@
     echo "<br>";
     echo "<br>";
     var_dump($mail);
+    echo "<br>";
+    echo "<br>";
+    echo $mail->ErrorInfo;
   } else {
     echo "<br>";
     echo "Email sent successfully";
