@@ -23,12 +23,14 @@ $("#btnUsecase").live("click", function() {
         var company = $("#comUsecase").val();
         var phone = $("#phoneUsecase").val();
         var x = document.getElementById("snackbarUsecase");
+        document.getElementById('usecaseLoading').style.visibility = 'visible';
         $.ajax({
             type: "POST",
             url: "./useCaseMail?page=<?php echo $isFor; ?>",
             data: "name=" + name + '&email=' + email + '&company=' + company + '&phone=' + phone,
             success: function(data) {
                 x.className = "show";
+                document.getElementById('usecaseLoading').style.visibility = 'hidden';
                 setTimeout(function() {
                     x.className = x.className.replace("show", "");
                 }, 3000);
@@ -40,6 +42,7 @@ $("#btnUsecase").live("click", function() {
             }
         });
     } else {
+        document.getElementById('usecaseLoading').style.visibility = 'hidden';
         var y = document.getElementById("validationUsecase");
         y.className = "show";
         setTimeout(function() {

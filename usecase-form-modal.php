@@ -23,12 +23,14 @@ $("#btnUsecase").live("click", function() {
         var company = $("#comUsecase").val();
         var phone = $("#phoneUsecase").val();
         var x = document.getElementById("snackbarUsecase");
+        document.getElementById('usecaseLoading').style.visibility = 'visible';
         $.ajax({
             type: "POST",
             url: "./useCaseMail?page=<?php echo $isFor; ?>",
             data: "name=" + name + '&email=' + email + '&company=' + company + '&phone=' + phone,
             success: function(data) {
                 x.className = "show";
+                document.getElementById('usecaseLoading').style.visibility = 'hidden';
                 setTimeout(function() {
                     x.className = x.className.replace("show", "");
                     $('#myModal').modal('hide');
@@ -45,6 +47,7 @@ $("#btnUsecase").live("click", function() {
         setTimeout(function() {
             y.className = y.className.replace("show", "");
         }, 3000);
+        document.getElementById('usecaseLoading').style.visibility = 'hidden';
     }
 
 });
@@ -180,6 +183,7 @@ $("#btnUsecase").live("click", function() {
                 </div>
             </div>
             <div class="modal-footer">
+                &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="usecaseLoading" aria-hidden="true"></i>&nbsp;
                 <input type="button" value="Submit" id="btnUsecase" class="btnmodal btn-round btn-red-grd">
                 <input type="button" value="Close" data-dismiss="modal" class="btnmodal btn-round btn-red-grd">
             </div>

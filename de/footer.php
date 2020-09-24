@@ -22,13 +22,16 @@
              var phone = $("#phone").val();
              var msg = $("#msg").val();
              var x = document.getElementById("snackbar");
+             document.getElementById('saveLoading').style.visibility = 'visible';
+
              $.ajax({
                  type: "POST",
-                 url: "/mail",
+                 url: "./mail",
                  data: "name=" + name + '&email=' + email + '&sub=' + sub + '&phone=' + phone +
                      '&msg=' + msg,
                  success: function(data) {
                      x.className = "show";
+                     document.getElementById('saveLoading').style.visibility = 'hidden';
                      setTimeout(function() {
                          x.className = x.className.replace("show", "");
                      }, 3000);
@@ -53,7 +56,7 @@
                      y.className = y.className.replace("show", "");
                  }, 3000);
              }
-
+             document.getElementById('saveLoading').style.visibility = 'hidden';
          }
 
      });
@@ -322,6 +325,7 @@
                                  <br>
                                  <div class="form-group">
                                      <input type="button" value="Senden" id="btn" class="btn btn-round btn-red-grd">
+                                     &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveLoading" aria-hidden="true"></i>
                                  </div>
                                  <div id="snackbar">We Will Contact You Shortly</div>
 
