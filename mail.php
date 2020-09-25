@@ -1,21 +1,6 @@
 <?php
-  include 'config.php';  
-  use PHPMailer\PHPMailer\PHPMailer;
-  require 'vendor/autoload.php';
-  
-  $mail = new PHPMailer();
-  $mail->IsSMTP();
+  include 'mail-config.php';
 
-  $mail->SMTPDebug  = 0;  
-  $mail->SMTPAuth   = TRUE;
-  $mail->SMTPSecure = "tls";
-  $mail->Port       = 587;
-  $mail->Host       = "smtp.office365.com";
-  $mail->Username   = $mail_from;
-  $mail->Password   = $mail_password;
-
-  // // include 'config.php'; 
-  // include 'mail-config.php';  
   $name = $_POST["name"];
   $email = $_POST["email"];
   $subject = $_POST["sub"];
