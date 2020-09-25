@@ -1,7 +1,7 @@
 <?php 
- include 'config.php';  
- use PHPMailer\PHPMailer\PHPMailer;
- require 'vendor/autoload.php';
+  include 'config.php';  
+  use PHPMailer\PHPMailer\PHPMailer;
+  require 'vendor/autoload.php';
  
  $mail = new PHPMailer();
  $mail->IsSMTP();
@@ -13,4 +13,4 @@
  $mail->Host       = "smtp.office365.com";
  $mail->Username   = $mail_from;
  $mail->Password   = $mail_password;
- ?>
+?>
