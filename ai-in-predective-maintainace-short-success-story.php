@@ -152,7 +152,7 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT <span class="red"> INDUSTRIAL AI</span></div>
+                    <div class="innr-sec-mainTitle">TVARIT <span class="red"> INDUSTRIAL AI</span></div>
                     <h3 class="bold red text-center">running on IBM Power</h3>
                 </div>
                 <div class="centerPharseContent text-p">
