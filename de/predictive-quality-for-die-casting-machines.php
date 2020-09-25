@@ -120,7 +120,8 @@
         <div class="container">
             <div class="title centerTitle">
                 <span class="innr-sec-mainTitle ai_predictive">
-                Vorhersage des Qualitätsstatus des von der Druckgussmaschine kommenden Rades für zukünftige Chargen
+                QUALITÄTSVORHERSAGE <br>  IM DRUCKGUSS
+                -VERFAHREN.
                 </span>
             </div>
             <br>
@@ -223,7 +224,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Predicting the quality status of wheel coming from die-casting machine for next batches. Price of each motor: 15000 euros.
+                            Vorhersage des Qualitätsstatus des von der Druckgussmaschine kommenden Rades für zukünftige Chargen.
                             </p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
