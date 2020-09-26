@@ -99,7 +99,7 @@
                 <h3 class="bold text-center red mb-0">- Success Story-</h3>
                 <br>
                 <div class="sec-mainTitle">Predictive Quality im Stumpfschweißen</div>
-                <h3 class="bold text-center red mb-0">5% weniger Ausschuss. 10% weniger Maschinenausfälle.</h3>
+                <h3 class="bold text-center red mb-0">5% weniger Ausschuss.<br> 10% weniger Maschinenausfälle.</h3>
             </div>
             <br>
         </div>
