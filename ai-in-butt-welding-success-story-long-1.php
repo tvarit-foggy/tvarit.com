@@ -93,7 +93,7 @@
                 <h3 class="bold text-center red mb-0">- Success Story-</h3>
                 <br>
                 <div class="sec-mainTitle">Predictive Quality im Stumpfschweißen</div>
-                <h3 class="bold text-center red mb-0">5% weniger Ausschuss. 10% weniger Maschinenausfälle.</h3>
+                <h3 class="bold text-center red mb-0">5% weniger Ausschuss. <br>10% weniger Maschinenausfälle.</h3>
             </div>
             <br>
         </div>
@@ -445,7 +445,7 @@
                     </div>
                     <div class="col-lg-2"></div>
                 <div class="col-lg-8" style="margin-top:20px;margin-bottom:20px;">
-                    <img src="https://7e7cb2191e43d9e6ba19.ucr.io/-/format/auto/-/quality/lighter/-/resize/806x/https://cdn.dragdropr.com/60866d67-efc8-4fd4-a7d3-9badb64c917f/"
+                    <img src="img/Tvarit-Overview-workflow-with illustration.jpg"
                         style="height: auto; width: 100%;">
                 </div>
                 <div class="col-lg-2"></div>
