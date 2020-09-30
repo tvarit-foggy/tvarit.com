@@ -229,7 +229,7 @@
                     <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
                 </div>
                 <div class="col-md-2">
-                    <img src="img/fav32.png" style="margin-right: auto;  margin-left: auto;  display: block;">
+                    <img src="img/fav32.png" alt="icon" style="margin-right: auto;  margin-left: auto;  display: block;">
                 </div>
                 <div class="col-md-5">
                     <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
@@ -286,7 +286,7 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/tobias-gundermann.png" alt="Marvin"
+                            <img src="img/tobias-gundermann.png" alt="Tobias Gundermann"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -388,7 +388,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/32_Industry_icon.png" class="img-fluid">
+                                <img src="img/achived/32_Industry_icon.png" alt="Industry" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">32+</div>
@@ -402,7 +402,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/14_million_euro_icon.png" class="img-fluid">
+                                <img src="img/achived/14_million_euro_icon.png" alt="14 Million Euro" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">14+</div>
@@ -416,7 +416,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/20_Big_network_iocn.png" class="img-fluid">
+                                <img src="img/achived/20_Big_network_iocn.png" alt="20 Big Network" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">20+</div>
@@ -431,7 +431,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/10_major_awards.png" class="img-fluid">
+                                <img src="img/achived/10_major_awards.png" alt="10 Major Awards" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">10+</div>

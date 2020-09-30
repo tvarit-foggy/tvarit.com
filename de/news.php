@@ -338,7 +338,7 @@
             <div class="item">
                     <a href="/sps-smart-production-solution" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/SPS-2019.png" class="img-fluid">
+                            <img src="img/SPS-2019.png" alt="SPS 2019" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">SPS 2019</div>
@@ -357,7 +357,7 @@
                 <div class="item">
                     <a href="https://www.iaa.de/" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/Logo_IAA.png" class="img-fluid">
+                            <img src="img/partners_img/Logo_IAA.png" alt="Logo IAA" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">IAA Motorshow</div>
@@ -374,7 +374,7 @@
                 <div class="item">
                     <a href="https://www.ifa-berlin.com/" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/IFA_Logo_2019.png" class="img-fluid">
+                            <img src="img/partners_img/IFA_Logo_2019.png" alt="IFA 2019" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">IFA 2019</div>
@@ -394,7 +394,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/logo_zvei.png" class="img-fluid">
+                            <img src="img/partners_img/logo_zvei.png" alt="ZEVI" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">ZVEI Jahreskongress Berlin</div>
@@ -448,7 +448,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
+                            <img src="img/partners_img/Hannover-Messe.png" alt="Hannover Messe" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">Hannover Messe</div>
@@ -465,7 +465,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/reference2.png" class="img-fluid">
+                            <img src="img/partners_img/reference2.png" alt="Reference 2" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">TiE Deutschland awarding Tvarit</div>
@@ -479,7 +479,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/bauma_logo.png" class="img-fluid">
+                            <img src="img/partners_img/bauma_logo.png" alt="Bauma" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">Bauma Munich</div>

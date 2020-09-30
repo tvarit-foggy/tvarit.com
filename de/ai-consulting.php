@@ -166,7 +166,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/1.png" class="img-fluid">
+                                <img src="img/1.png" alt="Datenextraktion und -integration" class="img-fluid">
                             </div>
                             <div class="title">
                             Datenextraktion und -integration
@@ -187,7 +187,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/2.png" class="img-fluid">
+                                <img src="img/2.png" alt="Datenaufbereitung" class="img-fluid">
                             </div>
                             <div class="title">
                                 Datenaufbereitung
@@ -209,7 +209,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/3.png" class="img-fluid">
+                                <img src="img/3.png" alt="Daten-Kennzeichnung" class="img-fluid">
                             </div>
                             <div class="title">
                             Daten-Kennzeichnung
@@ -230,7 +230,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/4.png" class="img-fluid">
+                                <img src="img/4.png" alt="Daten-Harmonisierung" class="img-fluid">
                             </div>
                             <div class="title">
                             Daten-Harmonisierung
@@ -251,7 +251,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/5.png" class="img-fluid">
+                                <img src="img/5.png" alt="Erstellung von KI-Modellen" class="img-fluid">
                             </div>
                             <div class="title">
                             Erstellung von <br>KI-Modellen
@@ -290,7 +290,7 @@
                 <div class="col-md-3">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_1.jpg" class="img-fluid">
+                            <img src="img/ai_1.jpg" alt="AI 1" class="img-fluid">
                         </div>
                         <div class="automText">
                         Erfahrung Aus Über 32 Industriellen Data Science Projekten mit Fortune-500-Unternehmen und Institutionen wie der NASA
@@ -300,7 +300,7 @@
                 <div class="col-md-3">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_2.jpg" class="img-fluid">
+                            <img src="img/ai_2.jpg" alt="AI 2" class="img-fluid">
                         </div>
                         <div class="automText">
                         Unser Aufgabenbasiertes Preismodell nimmt Ihnen das finanzielle Risiko nicht erfolgreicher Projekte und unerwarteter Schwierigkeiten
@@ -310,7 +310,7 @@
                 <div class="col-md-3">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_3.jpg" class="img-fluid">
+                            <img src="img/ai_3.jpg" alt="AI 3" class="img-fluid">
                         </div>
                         <div class="automText">
                         Agile und anwendungsorientierte Beratung
@@ -320,7 +320,7 @@
                 <div class="col-md-3">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_4.jpg" class="img-fluid">
+                            <img src="img/ai_4.jpg" alt="AI 4" class="img-fluid">
                         </div>
                         <div class="automText">
                         Über 54 Jahre an akademischer und praktischer Erfahrung in der Lösung komplexer Data Science Projekte

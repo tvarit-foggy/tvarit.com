@@ -120,14 +120,15 @@
         <div class="container">
             <div class="title centerTitle">
                 <span class="innr-sec-mainTitle ai_predictive">
-                Vorhersage des Qualitätsstatus des von der Druckgussmaschine kommenden Rades für zukünftige Chargen
+                QUALITÄTSVORHERSAGE <br>  IM DRUCKGUSS
+                -VERFAHREN.
                 </span>
             </div>
             <br>
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="./img/predictive_quality.jpg" class="img-fluid">
+                        <img src="./img/predictive_quality.jpg" alt="Predictive Quality" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
@@ -212,7 +213,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="img/Use-case_die-casting-Motor_B.jpg" class="img-fluid">
+                        <img src="img/Use-case_die-casting-Motor_B.jpg" alt="Use Case Die Casting Motor" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -223,7 +224,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Predicting the quality status of wheel coming from die-casting machine for next batches. Price of each motor: 15000 euros.
+                            Vorhersage des Qualitätsstatus des von der Druckgussmaschine kommenden Rades für zukünftige Chargen.
                             </p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
@@ -259,7 +260,7 @@
 
                 <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
-                        <img src="img/benefits-die-casting-machine.jpg" class="img-fluid">
+                        <img src="img/benefits-die-casting-machine.jpg" alt="Benefits Die Casting Machine" class="img-fluid">
                     </div>
                 </div>
             </div>

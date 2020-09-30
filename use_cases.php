@@ -90,7 +90,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="img/learn-1.jpg" class="img-fluid">
+                        <img src="img/learn-1.jpg" alt="Learn 1" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
@@ -146,7 +146,7 @@
 
                 <div class="col-md order-1 order-md-2">
                     <div class="AmimgBox">
-                        <img src="img/learn-2.jpg" class="img-fluid">
+                        <img src="img/learn-2.jpg" alt="Learn 2" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -159,7 +159,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="img/learn-3.jpg" class="img-fluid">
+                        <img src="img/learn-3.jpg" alt="Learn 3" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
@@ -219,7 +219,7 @@
 
                 <div class="col-md order-1 order-md-2">
                     <div class="AmimgBox">
-                        <img src="img/learn-4.jpg" class="img-fluid">
+                        <img src="img/learn-4.jpg" alt="Learn 4" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -232,7 +232,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="img/learn-5.jpg" class="img-fluid">
+                        <img src="img/learn-5.jpg" alt="Learn 5" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">

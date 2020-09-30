@@ -21,7 +21,7 @@
 <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand bold uppr" href="..">
-                <img src="img/logo.png" class="img-fluid">
+                <img src="img/logo.png" alt="logo" class="img-fluid">
             </a>
 
             <a href="javascript://" class="menu-togglebar">
@@ -75,7 +75,7 @@
                                 <div class="col-lg-8 col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="../achive_more" class="sub-Link">
+                                            <a href="../achive-more" class="sub-Link">
                                                 <img class="ai_solutions_img" src="../img/plus_ai.png"
                                                     alt="Achieve More Tvarit AI Solutions" />
                                                 <div class="bold tvarit-black">
@@ -104,7 +104,7 @@
                                             <a href="../ai-consulting" class="sub-Link">AI Consulting</a>
                                         </li>
                                         <li>
-                                            <a href="../ai_academy" class="sub-Link">AI & Data Academy</a>
+                                            <a href="../ai-academy" class="sub-Link">AI & Data Academy</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -153,11 +153,11 @@
                                             <a href="#" class="sub-Link">Survey</a>
                                             <ul class="ul-deep-menu">
                                                 <li>
-                                                    <a href="../ai_for_manufacturing" class="sub-Link">AI for
+                                                    <a href="../ai-for-manufacturing" class="sub-Link">AI for
                                                         Manufacturing</a>
                                                 </li>
                                                 <li>
-                                                    <a href="../ai_as_a_product" class="sub-Link">AI as a
+                                                    <a href="../ai-as-a-product" class="sub-Link">AI as a
                                                         Product </a>
                                                 </li>
 
@@ -181,7 +181,7 @@
 
              <!------------------------sticky contact button start --------------------->
 <div class="sticky-contact-bar">
-<a href="../contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>    
+<a href="../contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt="Sticky Contact"></a>    
 <!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
 </div>
 <!------------------------sticky contact button end --------------------->

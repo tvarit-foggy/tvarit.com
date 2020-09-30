@@ -119,7 +119,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <img src="img/EDI_logo.png" class="img-fluid edi_index_logo"
+                        <img src="img/EDI_logo.png"  alt="EDI Logo" class="img-fluid edi_index_logo"
                             style="margin-left: auto;margin-right:auto;display:block">
                         <div class="typography right lh-1" style="text-align:center">
                             <div id="germany-strings" class="stringText">
@@ -148,7 +148,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="AmimgBox">
-                        <img src="img/edi.png" class="img-fluid">
+                        <img src="img/edi.png" alt="EDI" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -186,7 +186,7 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-steel-coil.jpg">
+                            <img src="img/bg-steel-coil.jpg" alt="Steel Coil">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Aluminium Coil Production</p>
@@ -211,7 +211,7 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-cable-manufacturing.jpg">
+                            <img src="img/bg-cable-manufacturing.jpg" alt="Cable Manufacturing">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Cable Manufacturing</p>
@@ -237,7 +237,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-electric-motor.jpg">
+                            <img src="img/bg-electric-motor.jpg" alt="Electric Motor">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Industrial Electric Motors</p>
@@ -261,7 +261,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-die-casting-machineg.jpg">
+                            <img src="img/bg-die-casting-machineg.jpg" alt="Die Casting Machineg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Die-Casting Process</p>
@@ -332,62 +332,62 @@
             <div class="row">
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/1.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/1.png" alt="Manufacturing 1" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/2.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/2.png" alt="Manufacturing 2" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/3.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/3.png" alt="Manufacturing 3" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/4.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/4.png" alt="Manufacturing 4" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/5.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/5.png" alt="Manufacturing 5" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/6.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/6.png" alt="Manufacturing 6" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/7.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/7.png" alt="Manufacturing 7" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/8.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/8.png" alt="Manufacturing 8" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/9.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/9.png" alt="Manufacturing 9" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/10.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/10.png" alt="Manufacturing 10" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/11.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/11.png" alt="Manufacturing 11" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/12.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/12.png" alt="Manufacturing 12" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -410,67 +410,67 @@
             <div class="client-carousel">
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/tud_logo_web_druck.png" class="img-fluid">
+                        <img src="img/partners_img/tud_logo_web_druck.png" alt="tud logo web druck" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/iit_bombay.png" class="img-fluid">
+                        <img src="img/partners_img/iit_bombay.png" alt="iit bombay" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/logo_zvei.png" class="img-fluid">
+                        <img src="img/partners_img/logo_zvei.png" alt="logo zvei" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/vivatech.png" class="img-fluid">
+                        <img src="img/partners_img/vivatech.png" alt="VivaTech Logo" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/Bundesverband-Deutsche-Startups.png" class="img-fluid">
+                        <img src="img/partners_img/Bundesverband-Deutsche-Startups.png" alt="Bundesverband Deutsche Startups" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/aws-logo.png" class="img-fluid">
+                        <img src="img/partners_img/aws-logo.png"  alt="AWS Logo" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/ihk-ffm.png" class="img-fluid">
+                        <img src="img/partners_img/ihk-ffm.png"  alt="ihk ffm" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/reference2.png" class="img-fluid">
+                        <img src="img/partners_img/reference2.png" alt="references" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
+                        <img src="img/partners_img/Hannover-Messe.png" alt="Hannover Messe" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/forum-startup-chemie.png" class="img-fluid">
+                        <img src="img/partners_img/forum-startup-chemie.png" alt="forum startup chemie" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/zenit.png" class="img-fluid">
+                        <img src="img/partners_img/zenit.png" alt="zenit" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/dehub.png" class="img-fluid">
+                        <img src="img/partners_img/dehub.png" alt="dehub" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/stifterverband.png" class="img-fluid">
+                        <img src="img/partners_img/stifterverband.png" alt="stifterverband" class="img-fluid">
                     </div>
                 </div>
             </div>

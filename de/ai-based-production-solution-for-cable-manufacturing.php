@@ -117,14 +117,14 @@
         <div class="container">
             <div class="title centerTitle">
                 <span class="innr-sec-mainTitle ai_predictive">
-                KI-basiertes Produktionsplanungssystem für Kabelhersteller <br> Kapazität der Fabrik: 100.000 Cu-Tonnen/Jahr
+                KI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG <br>FÜR DIE KABELHERSTELLUNG
                 </span>
             </div>
             <br>
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="./img/ai_software_solution.jpg" class="img-fluid">
+                        <img src="./img/ai_software_solution.jpg" alt="AI Software Solution" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -213,7 +213,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="img/USE-CASE_Cable.jpg" class="img-fluid">
+                        <img src="img/USE-CASE_Cable.jpg" alt="Use Case Cable" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -224,7 +224,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            AI based production planning system for cable manufacturer. Price of each motor: Capacity of factory: 100,000 Cu tons/year.</p>
+                            KI-basiertes Produktionsplanungssystem für Kabelhersteller. Kapazität der Fabrik: 100.000 Cu-Tonnen/Jahr.</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
                             class="btn btn-round btn-red-grd">Use Case herunterladen</a>
@@ -259,7 +259,7 @@
 
                 <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
-                        <img src="img/benefits-cable.jpg" class="img-fluid">
+                        <img src="img/benefits-cable.jpg" alt="Benefits Cable" class="img-fluid">
                     </div>
                 </div>
             </div>
