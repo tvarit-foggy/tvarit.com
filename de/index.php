@@ -114,7 +114,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="img/EDI_logo.png" class="img-fluid edi_index_logo" style="margin-left: auto;margin-right:auto;display:block">
+                    <img src="img/EDI_logo.png" alt="EDI Logo" class="img-fluid edi_index_logo" style="margin-left: auto;margin-right:auto;display:block">
                     <div class="typography right lh-1" style="text-align:center">
                         <div id="germany-strings" class="stringText">
                             <span style="text-align:center">Ihr Partner für industrielle KI Lösungen.</span>
@@ -398,57 +398,57 @@
             <div class="client-carousel">
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/tud_logo_web_druck.png" class="img-fluid">
+                        <img src="img/partners_img/tud_logo_web_druck.png" alt="tud logo web druck" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/iit_bombay.png" class="img-fluid">
+                        <img src="img/partners_img/iit_bombay.png" alt="iit bombay" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/logo_zvei.png" class="img-fluid">
+                        <img src="img/partners_img/logo_zvei.png" alt="logo zvei" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/vivatech.png" class="img-fluid">
+                        <img src="img/partners_img/vivatech.png" alt="vivatech" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/Bundesverband-Deutsche-Startups.png" class="img-fluid">
+                        <img src="img/partners_img/Bundesverband-Deutsche-Startups.png" alt="vivatech" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/aws-logo.png" class="img-fluid">
+                        <img src="img/partners_img/aws-logo.png" alt="AWS Logo" alt="vivatech" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/ihk-ffm.png" class="img-fluid">
+                        <img src="img/partners_img/ihk-ffm.png" alt="ihk ffm" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/reference2.png" class="img-fluid">
+                        <img src="img/partners_img/reference2.png" alt="reference" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
+                        <img src="img/partners_img/Hannover-Messe.png" alt="Hannover Messe" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/forum-startup-chemie.png" class="img-fluid">
+                        <img src="img/partners_img/forum-startup-chemie.png" alt="forum startup chemie" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/zenit.png" class="img-fluid">
+                        <img src="img/partners_img/zenit.png" alt="zenit" class="img-fluid">
                     </div>
                 </div>
             </div>
