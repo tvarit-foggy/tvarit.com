@@ -209,7 +209,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/f-icon-2.png" class="img-fluid">
+                            <img src="img/f-icon-2.png" alt="PREDICTIVE MAINTENANCE" class="img-fluid">
                         </div>
 
                         <p class="title">PREDICTIVE MAINTENANCE</p>
@@ -229,7 +229,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/f-icon-1.png" class="img-fluid">
+                            <img src="img/f-icon-1.png" alt="Inventory Optimization" class="img-fluid">
                         </div>
 
                         <p class="title">Inventory Optimization</p>
@@ -248,7 +248,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/f-icon-3.png" class="img-fluid">
+                            <img src="img/f-icon-3.png" alt="Sensors Health Maintenance" class="img-fluid">
                         </div>
 
                         <p class="title"> Sensors Health Maintenance</p>
@@ -268,7 +268,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/f-icon-4.png" class="img-fluid">
+                            <img src="img/f-icon-4.png" alt="Energy Saving" class="img-fluid">
                         </div>
 
                         <p class="title"> Energy Saving</p>
@@ -288,7 +288,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/f-icon-5.png" class="img-fluid">
+                            <img src="img/f-icon-5.png" alt="Quality Management" class="img-fluid">
                         </div>
 
                         <p class="title"> Quality Management </p>

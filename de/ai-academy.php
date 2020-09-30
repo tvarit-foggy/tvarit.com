@@ -128,7 +128,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/advtg_1.png" class="img-fluid">
+                            <img src="img/advtg_1.png" alt="Advantage 1" class="img-fluid">
                         </div>
 
                         <div class="more">
@@ -143,7 +143,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/advtg_2.png" class="img-fluid">
+                            <img src="img/advtg_2.png" alt="Advantage 2" class="img-fluid">
                         </div>
 
                         <div class="more">
@@ -156,7 +156,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/advtg_3.png" class="img-fluid">
+                            <img src="img/advtg_3.png" alt="Advantage 3" class="img-fluid">
                         </div>
 
                         <div class="more">
@@ -186,7 +186,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/1.png" class="img-fluid">
+                                <img src="img/YWl/1.png" alt="Learn 1" class="img-fluid">
                             </div>
                             <div class="title">
                             Erstellung von KI-Anwendungen
@@ -204,7 +204,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/2.png" class="img-fluid">
+                                <img src="img/YWl/2.png" alt="Learn 1" class="img-fluid">
                             </div>
                             <div class="title">
                             Maschinelles Lernen und KI für Beginner.
@@ -222,7 +222,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/3.png" class="img-fluid">
+                                <img src="img/YWl/3.png" alt="Learn 1" class="img-fluid">
                             </div>
                             <div class="title">
                             Überwachtes maschinelles Lernen für Beginner.
@@ -240,7 +240,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/4.png" class="img-fluid">
+                                <img src="img/YWl/4.png" alt="Learn 1" class="img-fluid">
                             </div>
                             <div class="title">
                             Unüberwachtes maschinelles Lernen für Beginner.
@@ -258,7 +258,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/5.png" class="img-fluid">
+                                <img src="img/YWl/5.png" alt="Learn 1" class="img-fluid">
                             </div>
                             <div class="title">
                             Bewertung von KI/ML-Modellen
@@ -276,7 +276,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/6.png" class="img-fluid">
+                                <img src="img/YWl/6.png" alt="Learn 1" class="img-fluid">
                             </div>
                             <div class="title">
                             Künstliche Intelligenz und maschinelles Lernen für Führungskräfte
@@ -309,7 +309,7 @@
                 <div class="col-md-4">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/Best_AI_experts.jpg" class="img-fluid">
+                            <img src="img/Best_AI_experts.jpg" alt="Best AI Experts" class="img-fluid">
                         </div>
                         <div class="automText">
                         Deutschlands beste Data Scientists und KI-Experten als Trainer
@@ -320,7 +320,7 @@
                 <div class="col-md-4">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/Training_courses.jpg" class="img-fluid">
+                            <img src="img/Training_courses.jpg" alt="Training Courses" class="img-fluid">
                         </div>
                         <div class="automText">
                         Praktische, anwendungsorientierte und maßgeschneiderte Schulungen
@@ -331,7 +331,7 @@
                 <div class="col-md-4">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_4.jpg" class="img-fluid">
+                            <img src="img/ai_4.jpg" alt="AI" class="img-fluid">
                         </div>
                         <div class="automText">
                         Über 54 Jahre an Erfahrung

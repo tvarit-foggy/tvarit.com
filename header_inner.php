@@ -21,7 +21,7 @@
 <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand bold uppr" href="..">
-                <img src="img/logo.png" class="img-fluid">
+                <img src="img/logo.png" alt="logo" class="img-fluid">
             </a>
 
             <a href="javascript://" class="menu-togglebar">
@@ -181,7 +181,7 @@
 
              <!------------------------sticky contact button start --------------------->
 <div class="sticky-contact-bar">
-<a href="../contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>    
+<a href="../contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt="Sticky Contact"></a>    
 <!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
 </div>
 <!------------------------sticky contact button end --------------------->

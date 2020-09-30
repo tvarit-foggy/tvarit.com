@@ -148,7 +148,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="AmimgBox">
-                        <img src="img/edi.png" class="img-fluid">
+                        <img src="img/edi.png" alt="EDI" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -186,7 +186,7 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-steel-coil.jpg">
+                            <img src="img/bg-steel-coil.jpg" alt="Steel Coil">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Aluminium Coil Production</p>
@@ -211,7 +211,7 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-cable-manufacturing.jpg">
+                            <img src="img/bg-cable-manufacturing.jpg" alt="Cable Manufacturing">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Cable Manufacturing</p>
@@ -237,7 +237,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-electric-motor.jpg">
+                            <img src="img/bg-electric-motor.jpg" alt="Electric Motor">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Industrial Electric Motors</p>
@@ -261,7 +261,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-die-casting-machineg.jpg">
+                            <img src="img/bg-die-casting-machineg.jpg" alt="Die Casting Machineg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Die-Casting Process</p>
@@ -332,62 +332,62 @@
             <div class="row">
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/1.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/1.png" alt="Manufacturing 1" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/2.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/2.png" alt="Manufacturing 2" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/3.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/3.png" alt="Manufacturing 3" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/4.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/4.png" alt="Manufacturing 4" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/5.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/5.png" alt="Manufacturing 5" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/6.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/6.png" alt="Manufacturing 6" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/7.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/7.png" alt="Manufacturing 7" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/8.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/8.png" alt="Manufacturing 8" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/9.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/9.png" alt="Manufacturing 9" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/10.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/10.png" alt="Manufacturing 10" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/11.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/11.png" alt="Manufacturing 11" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/12.png" class="img-fluid">
+                        <img src="img/HomeAiLogo/12.png" alt="Manufacturing 12" class="img-fluid">
                     </div>
                 </div>
             </div>

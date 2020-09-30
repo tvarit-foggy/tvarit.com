@@ -203,7 +203,7 @@
                                     <div class="industiesText">
                                         Case Studies
                                     </div>
-                                    <img src="../img/b-case-studies.jpg" class="img-fluid">
+                                    <img src="../img/b-case-studies.jpg" alt="Case Studies 1" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="the-smart-fruit-how-ai-is-reaping-in-the-agriculture-sector
@@ -218,7 +218,7 @@
                                     <div class="industiesText">
                                         Case Studies
                                     </div>
-                                    <img src="../img/b-case-studies.jpg" class="img-fluid">
+                                    <img src="../img/b-case-studies.jpg" alt="Case Studies 2" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="enhancing-cpg-with-ai-and-advanced-analytics
@@ -234,7 +234,7 @@
                                     <div class="industiesText">
                                         Automotive
                                     </div>
-                                    <img src="../img/b-automotive.jpg" class="img-fluid">
+                                    <img src="../img/b-automotive.jpg" alt="Automotive" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="fuel-efficiency-in-smart-vehicles
@@ -250,7 +250,7 @@
                                     <div class="industiesText">
                                         Construction
                                     </div>
-                                    <img src="../img/pic-4.jpg" class="img-fluid">
+                                    <img src="../img/pic-4.jpg" alt="Construction" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="construction-industry-in-partnership-with-industry
@@ -266,7 +266,7 @@
                                     <div class="industiesText">
                                         Automotive
                                     </div>
-                                    <img src="../img/b-automotive.jpg" class="img-fluid">
+                                    <img src="../img/b-automotive.jpg" alt="Automotive" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="predictive-maintenance-the-next-pioneer-in-automotive-industry

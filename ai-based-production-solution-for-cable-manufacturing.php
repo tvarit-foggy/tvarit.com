@@ -125,7 +125,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="./img/ai_software_solution.jpg" class="img-fluid">
+                        <img src="./img/ai_software_solution.jpg" alt="AI Software Solution" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -215,7 +215,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="img/USE-CASE_Cable.jpg" class="img-fluid">
+                        <img src="img/USE-CASE_Cable.jpg" alt="USE CASE Cable" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -261,7 +261,7 @@
 
                 <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
-                        <img src="img/benefits-cable.jpg" class="img-fluid">
+                        <img src="img/benefits-cable.jpg" alt="Benefits Cable" class="img-fluid">
                     </div>
                 </div>
             </div>

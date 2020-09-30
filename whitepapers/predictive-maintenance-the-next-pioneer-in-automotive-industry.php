@@ -95,7 +95,7 @@
                 automotive holds a big share in it
             </p>
 
-            <img src="../img/wp-5-img.png" class="img-fluid">
+            <img src="../img/wp-5-img.png" alt="WP 5" class="img-fluid">
 
             <p class="text-p">
                 Oil, spark plug, fuel filter, and coolant fluid changes are the major concerns in vehicle maintenance.
