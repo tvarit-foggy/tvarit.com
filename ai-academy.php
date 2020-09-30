@@ -350,13 +350,13 @@
 
     <!------------------------Countdown start --------------------->
     <?php
-    include 'change_we_brought.php'
+    include 'change-we-brought.php'
     ?>
     <!------------------------Countdown end --------------------->
 
     <!------------------------Automated slide start --------------------->
     <?php
-    include 'change_we_bring.php'
+    include 'change-we-bring.php'
     ?>
 
 
