@@ -65,6 +65,7 @@
 
 
 
+ 
     <div class="section-padding-both-2x" id="Philanthropy">
         <div class="container">
             <h4>PRIVACY POLICY</h4>

@@ -258,7 +258,7 @@
                                     <div class="industiesText">
                                         Oil & Gas
                                     </div>
-                                    <img src="../img/b-oil-gas.jpg" class="img-fluid">
+                                    <img src="../img/b-oil-gas.jpg" alt="Oil Gas" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="the-oil-gas-industry-how-partnering-with-industry" class="title">The Oil &
@@ -273,7 +273,7 @@
                                     <div class="industiesText">
                                         Avionics
                                     </div>
-                                    <img src="../img/b-avionics.jpg" class="img-fluid">
+                                    <img src="../img/b-avionics.jpg" alt="Avionics" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="the-ascending-flight-ai-in-aviation-industry" class="title">THE ASCENDING
@@ -288,7 +288,7 @@
                                     <div class="industiesText">
                                         Pharmaceuticals
                                     </div>
-                                    <img src="../img/b-pharmaceuticals.jpg" class="img-fluid">
+                                    <img src="../img/b-pharmaceuticals.jpg" alt="Pharmaceuticals" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="the-new-medicine-big-data-in-healthcare" class="title">the new medicine-
@@ -303,7 +303,7 @@
                                     <div class="industiesText">
                                         Construction
                                     </div>
-                                    <img src="../img/pic-4.jpg" class="img-fluid">
+                                    <img src="../img/pic-4.jpg" alt="Construction" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="industry-concreting-the-construction-industry" class="title">INDUSTRY 4.0
@@ -319,7 +319,7 @@
                                     <div class="industiesText">
                                         Energy
                                     </div>
-                                    <img src="../img/b-energy.jpg" class="img-fluid">
+                                    <img src="../img/b-energy.jpg" alt="Energy" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="predictive-analytics-in-power-optimization" class="title">PREDICTIVE
@@ -334,7 +334,7 @@
                                     <div class="industiesText">
                                         Case Studies
                                     </div>
-                                    <img src="../img/b-case-studies.jpg" class="img-fluid">
+                                    <img src="../img/b-case-studies.jpg" alt="Case Studies" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="optimizing-your-inventory-like-a-pro-heres-how-ai-does-it"
@@ -349,7 +349,7 @@
                                     <div class="industiesText">
                                         Case Studies
                                     </div>
-                                    <img src="../img/b-case-studies.jpg" class="img-fluid">
+                                    <img src="../img/b-case-studies.jpg" alt="Case Studies 2" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="the-card-of-ace-what-is-apm" class="title">The card of ace- WHAT IS
@@ -364,7 +364,7 @@
                                     <div class="industiesText">
                                         Case Studies
                                     </div>
-                                    <img src="../img/b-case-studies.jpg" class="img-fluid">
+                                    <img src="../img/b-case-studies.jpg" alt="Case Studies 3" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="machine-learning-in-supply-chain-management" class="title">Machine Learning
@@ -379,7 +379,7 @@
                                     <div class="industiesText">
                                         Case Studies
                                     </div>
-                                    <img src="../img/b-case-studies.jpg" class="img-fluid">
+                                    <img src="../img/b-case-studies.jpg" alt="Case Studies 4" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="the-profitable-deal-how-ai-can-increase-your-revenue" class="title">The
@@ -394,7 +394,7 @@
                                     <div class="industiesText">
                                         Case Studies
                                     </div>
-                                    <img src="../img/b-case-studies.jpg" class="img-fluid">
+                                    <img src="../img/b-case-studies.jpg" alt="Case Studies 5" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="revolutionizing-supply-chain-when-ai-plays-with-demand-cost"
@@ -409,7 +409,7 @@
                                     <div class="industiesText">
                                         Energy
                                     </div>
-                                    <img src="../img/b-energy.jpg" class="img-fluid">
+                                    <img src="../img/b-energy.jpg" alt="Energy" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="the-winds-of-change-ai-transforming-the-energy-industry" class="title">THE
@@ -424,7 +424,7 @@
                                     <div class="industiesText">
                                         Automotive
                                     </div>
-                                    <img src="../img/b-automotive.jpg" class="img-fluid">
+                                    <img src="../img/b-automotive.jpg" alt="Automotive" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="the-swifter-drive-ai-changing-the-transport-industry" class="title">The
@@ -439,7 +439,7 @@
                                     <div class="industiesText">
                                         Automotive
                                     </div>
-                                    <img src="../img/b-automotive.jpg" class="img-fluid">
+                                    <img src="../img/b-automotive.jpg" alt="Automotive" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="on-the-road-big-data-and-the-automobile-industry" class="title">On the
@@ -454,7 +454,7 @@
                                     <div class="industiesText">
                                         Steel
                                     </div>
-                                    <img src="../img/b-steel.jpg" class="img-fluid">
+                                    <img src="../img/b-steel.jpg" alt="Steel" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="shining-up-a-rusty-industry-with-artificial-intelligence"
