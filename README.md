@@ -1,4 +1,4 @@
-# Git Guide
+# Git Guide for you 
 
 1. Fork the repo https://github.com/tvarit-foggy/tvarit.com
 2. Clone the repository from your account 
