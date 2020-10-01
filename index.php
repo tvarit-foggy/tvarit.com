@@ -9,6 +9,9 @@
     .mySlides {
         display: none;
     }
+    .logo-box{
+      border:1px solid #c94b4b;   
+    }
     </style>
 
     <!-- Google Tag Manager -->
@@ -184,7 +187,7 @@
             <div class="row justify-content-lg-center weOfferBox">
                 <br>
                 <div class="col-lg-3">
-                    <div class="featureBox">
+                    <div class="featureBox" style="border:1px solid red;">
                         <div class="icon">
                             <img src="img/bg-steel-coil.jpg">
                         </div>
@@ -209,7 +212,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="featureBox">
+                    <div class="featureBox" style="border:1px solid red;">
                         <div class="icon">
                             <img src="img/bg-cable-manufacturing.jpg">
                         </div>
@@ -235,7 +238,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div href="ai-consulting" target="_blank" class="featureBox">
+                    <div href="ai-consulting" target="_blank" class="featureBox" style="border:1px solid red;">
                         <div class="icon">
                             <img src="img/bg-electric-motor.jpg">
                         </div>
@@ -259,7 +262,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div href="ai-consulting" target="_blank" class="featureBox">
+                    <div href="ai-consulting" target="_blank" class="featureBox" style="border:1px solid red;">
                         <div class="icon">
                             <img src="img/bg-die-casting-machineg.jpg">
                         </div>
@@ -331,12 +334,12 @@
             <br>
             <div class="row">
                 <div class="col-lg-2 col-md-3 col-sm-6">
-                    <div class="logo-box">
+                    <div class="logo-box" style="border:1px solid #c94b4b;">
                         <img src="img/HomeAiLogo/1.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
-                    <div class="logo-box">
+                    <div class="logo-box" style="border:1px solid #c94b4b;">
                         <img src="img/HomeAiLogo/2.png" class="img-fluid">
                     </div>
                 </div>
@@ -371,7 +374,7 @@
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
-                    <div class="logo-box">
+                    <div class="logo-box" style="border:1px solid #c94b4b;">
                         <img src="img/HomeAiLogo/9.png" class="img-fluid">
                     </div>
                 </div>
