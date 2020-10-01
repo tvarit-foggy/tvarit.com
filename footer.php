@@ -328,7 +328,7 @@
                                  </div>
                                  <br>
                                  <div class="form-group">
-                                     <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
+                                     <input type="button" value="Send" id="btn" class="btn btn-round btn-red-grd">
                                       &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveLoading" aria-hidden="true"></i>
                                  </div>
                                  <div id="snackbar">We Will Contact You Shortly</div>
