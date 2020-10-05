@@ -157,58 +157,7 @@
             </div>
         </div>
     </div>
-    <!---------------------Seminar Event ------------------->
-    <!-- <div class="section-padding-both" id="downClick">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="leftSideFilter checkbox-filter white-box-shadow cstmInput">
-                                        <div class="red text-big40" style="font-size:25px;">USE-CASE
-                                            <br>
-                                            <div class="short-line bg-grey"></div>
-                                        </div>
-                                        <p>
-                                        AI based production planning system for cable manufacturer. Price of each motor: Capacity of factory: 100,000 Cu tons/year
-                                        </p>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-8">
-                                    <div class="col-md">
-                                        <div class="white-box-shadow left-md-border top-border">
-                                        <div class="red text-big40" style="font-size:25px;">BENEFITS<br>
-                                            <div class="short-line bg-grey"></div>
-                                        </div>
-                                            <br>
-                                            <ul class="ul-list-bullet">
-                                                <li>Increased volume output</li>
-                                                <li>High OEE</li>
-                                                <li>Reduced product and machine changeover times</li>
-                                                <li>Real time production view</li>
-                                                <li>Reduced inventory costs</li>
-                                                <li>Measurable economic benefits</li>
-
-                                            </ul>
-                                            <br>
-                                            <div class="row align-items-center">
-                                                <div class="col-md">
-                                                    <div class="form-group">
-                                                        <input type="button" value="REQUEST FULL CASE STUDY" id="btn" class="btn btn-round btn-red-grd">
-                                                    </div>
-                                                </div>
-                                                <div class="col-md">
-                                                <div class="form-group">
-                                                        <a href="#form1" class="btn btn-round btn-red-grd">CONTACT US</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-    <!---------------------Seminar Event End ------------------->
+    
     <div class="section-padding" id="Benefits">
         <div class="container">
 

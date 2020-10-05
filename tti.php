@@ -156,45 +156,7 @@ gtag('config', 'UA-143837547-1');
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
         <div class="container">
-            <!-- <div class="row">
-          <div class="col-md-4">
-            <div class="ourBox">
-              <div class="title">Our Mission</div>
-              <div class="short-line bg-grey"></div>
-
-              <div class="more">
-                <p class="text-p">
-                  Our Mission is to build scalable and sustainable Automated Predictive Analytics (APA)                                                                                                       solutions which are invisible and assistive, allowing manufacturers to do what they love - efficient productions.  We are rooted to give one simple solution to make any work easier, smarter and upgraded.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="ourBox rerBg-grd">
-              <div class="title">Our Culture</div>
-              <div class="short-line bg-white"></div>
-
-              <div class="more">
-                <p class="text-p">
-                  How do you change the world? Bring people together. Where is the easiest big place to bring people together? In the work environment. Therefore we consistently strive to create the healthiest environment where our team can innovate, learn and grow without any push and pull. We cater to the needs of our employees with utmost affection as they belong with us. We care because you do.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="ourBox">
-              <div class="title">Our Team</div>
-              <div class="short-line bg-grey"></div>
-
-              <div class="more">
-                <p class="text-p">
-                  Creating something unique to solve someone's problem is a fascinating feeling. Industry 4.0 has always been run by intellectual, enigmatic and dedicated professionals who push their limits to break through the technical walls. Wearing the armor of skill, these knights never fail to impress. Machine learning, time series databases, CI/CD tooling, coding, are a few of their weapons. If the same fire of passion burns inside you, you're welcome onboard. Remember, we've always been waiting for you.
-
-                </p>
-              </div>
-            </div>
-          </div>
-        </div> -->
+            
             <div class="white-box-shadow text-center">
                 <div class="col-md-12">
                     <div class="col-md-8">
@@ -248,7 +210,7 @@ gtag('config', 'UA-143837547-1');
                     What we offer ?
                 </div>
                 <div class="col-md-12">
-                    <img class="offer-img" src="./img/TTI_offer.png">
+                    <img alt="offer" class="offer-img" src="./img/TTI_offer.png">
                 </div>
 
                 <div class="row">
@@ -300,12 +262,12 @@ gtag('config', 'UA-143837547-1');
                 </div>
                 <div class="col-md-12 programe-section-1">
 
-                    <img class="prg-img" src="./img/prog-1.png">
+                    <img alt="program" class="prg-img" src="./img/prog-1.png">
 
                 </div>
                 <div class="col-md-12 programe-section-2">
 
-                    <img class="prg-img" src="./img/prog-2.png">
+                    <img alt="program" class="prg-img" src="./img/prog-2.png">
 
                 </div>
 

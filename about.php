@@ -105,49 +105,6 @@
     <!------------------------ header end --------------------------->
 
 
-
-
-    <!------------------------ Who we are --------------------->
-    <!-- <div class="section-padding" id="Benefits">
-        <div class="container">
-            <div class="row align-items-center">
-                
-                <br>
-                <div class="col-md">
-                    <div class="px-4 box-content-left">
-                        <br><br>
-                        <div class="title">
-                            <div class="text-big60 fw-900"><span class="text-capitalize"></span></div>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="">
-                            <p class="text-p">
-                                We are German company based in Frankfurt, Germany. We build and provide AI solutions to
-                                solve all
-                                kinds of manufacturing problems and data science needs. We enable businesses to make
-                                smart and
-                                informed decisions by deriving actionable and valuable insights from a sea of data.
-
-                                We provide Ai Solutions, AI framework and AI consulting services to successfully
-                                complete
-                                your all AI and data science projects.
-
-                                Recently, we have achieved many prestigious awards for which we were recognized as the
-                                most
-                                innovative AI company in Europe and Germany.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div> -->
-
-    <!------------------------ Who we are ----------------------->
-
-
-
-
     <div class="section-padding" id="Team">
         <div class="container">
             <div class="centerTitle">
@@ -165,14 +122,7 @@
                             <h4 class="title title-name">Suhas Patel</h4>
                             <div class="col-md-12 " style="padding-right:0px">
                                 <div class="row" style="margin-right: 0px;">
-                                    <!-- <div class="col-md-6 " style="padding-left:0px;"> -->
                                     <h6 class="title">CEO & Data Strategy Expert</h6>
-                                    <!-- </div> -->
-                                    <!-- <div class="col-md-6" style="padding-right:0px;"> -->
-                                    <!-- <a href="https://www.linkedin.com/in/patelsuhas/" target="blank"><i
-                                                class="fab fa-linkedin-in"
-                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a> -->
-                                    <!-- </div> -->
                                 </div>
                             </div>
                             <div class="short-line-team bg-red"></div>
@@ -181,7 +131,6 @@
                                 <li>14 years building startups in Germany</li>
                                 <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
                                 <li> Ex-President TiE Deutschland</li>
-                                <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
                         </div>
@@ -224,12 +173,6 @@
                                     <div class="col-md-12" style="padding-left:0px;">
                                         <h6 class="title">Chief Technical Officer</h6>
                                     </div>
-                                    <!-- <div class="col-md-6" style="padding-right:0px;">
-
-                                        <a href="https://www.linkedin.com/in/rahulprajapat/" target="blank"><i
-                                                class="fab fa-linkedin-in"
-                                                style="color: #0077B5; float: right; font-size: 1.2rem"></i></a>
-                                    </div> -->
                                 </div>
                             </div>
                             <div class="short-line-team bg-red"></div>
@@ -276,59 +219,13 @@
                     <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
                 </div>
                 <div class="col-md-2">
-                    <img src="img/fav32.png" style="margin-right: auto;  margin-left: auto;  display: block;">
+                    <img alt="fav32" src="img/fav32.png" style="margin-right: auto;  margin-left: auto;  display: block;">
                 </div>
                 <div class="col-md-5">
                     <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
                 </div>
             </div>
             <!-------- Custom Divider ------------>
-            <!-- <div class="row">
-                <div class="column">
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/lucky.png" alt="Lucky" style="width:100%; height:auto; border-radius:50px;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Lucky Khemani</h4>
-                            <h6 class="title">Technology Advisor</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>19 Patents under his name</li>
-                                <li>Audio/image/video Processing domain expert</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-
-
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/indra.jpg" alt="Indra" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Indra K. Prajapat</h4>
-                            <h6 class="title">Technology Advisor</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div> -->
-
             <div class="row">
                 <div class="column">
                     <div class="card row-height-2">
@@ -398,23 +295,8 @@
 
                 </div>
 
-
-
-
             </div>
-            <!-------- Custom Divider ------------>
-            <!-- <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
-                </div>
-                <div class="col-md-2">
-                    <img src="img/fav32.png" style="margin-right: auto;  margin-left: auto;  display: block;">
-                </div>
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
-                </div>
-            </div> -->
-            <!-------- Custom Divider ------------>
+            
         </div>
     </div>
 
@@ -432,7 +314,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/32_Industry_icon.png" class="img-fluid">
+                                <img alt="32 Industry" src="img/achived/32_Industry_icon.png" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">32+</div>
@@ -446,7 +328,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/14_million_euro_icon.png" class="img-fluid">
+                                <img alt="14 Million euro" src="img/achived/14_million_euro_icon.png" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">14+</div>
@@ -460,7 +342,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/20_Big_network_iocn.png" class="img-fluid">
+                                <img alt="20 big network" src="img/achived/20_Big_network_iocn.png" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">20+</div>
@@ -474,7 +356,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/10_major_awards.png" class="img-fluid">
+                                <img alt="10 major awards" src="img/achived/10_major_awards.png" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">10+</div>
