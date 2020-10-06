@@ -615,7 +615,7 @@ p
 .ul-sub-menu li a,.ul-deep-menu li a
 {
     color: var(--dark-color);
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-size: var(--fs-14);
     padding: 5px 0;
     display: block;
