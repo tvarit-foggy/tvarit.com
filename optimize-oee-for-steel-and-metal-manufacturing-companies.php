@@ -47,7 +47,7 @@
         content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
     <!-- Favicons -->
     <link rel="icon" href="./img/favicon.png">
-    <title>Tvarit AI</title>
+    <title>Tvarit Industrial AI</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -125,7 +125,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="./img/stainless_steel_welded_pipes1.jpg" class="img-fluid">
+                        <img alt="stainless_steel_welded_pipes" src="./img/stainless_steel_welded_pipes1.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -162,7 +162,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="img/Use-case_Steel-Coil.jpg" class="img-fluid">
+                        <img alt="USE-CASE" src="img/Use-case_Steel-Coil.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -208,7 +208,7 @@
 
                 <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
-                        <img src="img/benefits-steel-coil.jpg" class="img-fluid">
+                        <img alt="benefits-steel-coil" src="img/benefits-steel-coil.jpg" class="img-fluid">
                     </div>
                 </div>
             </div>

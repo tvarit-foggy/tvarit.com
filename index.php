@@ -53,7 +53,7 @@
         content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
     <!-- Favicons -->
     <link rel="icon" href="./img/favicon.png">
-    <title>Tvarit AI</title>
+    <title>Tvarit Industrial AI</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -119,7 +119,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <img src="img/EDI_logo.png" class="img-fluid edi_index_logo"
+                        <img alt="EDI" src="img/EDI_logo.png" class="img-fluid edi_index_logo"
                             style="margin-left: auto;margin-right:auto;display:block">
                         <div class="typography right lh-1" style="text-align:center">
                             <div id="germany-strings" class="stringText">
@@ -148,7 +148,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="AmimgBox">
-                        <img src="img/edi.png" class="img-fluid">
+                        <img alt="EDI" src="img/edi.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -186,7 +186,7 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-steel-coil.jpg">
+                            <img alt="steel coil" src="img/bg-steel-coil.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Aluminium Coil Production</p>
@@ -211,7 +211,7 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-cable-manufacturing.jpg">
+                            <img alt="cable manufacturing" src="img/bg-cable-manufacturing.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Cable Manufacturing</p>
@@ -237,7 +237,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-electric-motor.jpg">
+                            <img alt="Electric Motor" src="img/bg-electric-motor.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Industrial Electric Motors</p>
@@ -261,7 +261,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-die-casting-machineg.jpg">
+                            <img alt="Die Casting Machine" src="img/bg-die-casting-machineg.jpg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Die-Casting Process</p>
@@ -332,62 +332,62 @@
             <div class="row">
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/1.png" class="img-fluid">
+                        <img alt="HomeAiLogo1" src="img/HomeAiLogo/1.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/2.png" class="img-fluid">
+                        <img alt="HomeAiLogo" src="img/HomeAiLogo/2.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/3.png" class="img-fluid">
+                        <img  alt="HomeAiLogo"  src="img/HomeAiLogo/3.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/4.png" class="img-fluid">
+                        <img  alt="HomeAiLogo"  src="img/HomeAiLogo/4.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/5.png" class="img-fluid">
+                        <img  alt="HomeAiLogo"  src="img/HomeAiLogo/5.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/6.png" class="img-fluid">
+                        <img  alt="HomeAiLogo" src="img/HomeAiLogo/6.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/7.png" class="img-fluid">
+                        <img alt="HomeAiLogo"  src="img/HomeAiLogo/7.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/8.png" class="img-fluid">
+                        <img  alt="HomeAiLogo" src="img/HomeAiLogo/8.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/9.png" class="img-fluid">
+                        <img  alt="HomeAiLogo" src="img/HomeAiLogo/9.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/10.png" class="img-fluid">
+                        <img  alt="HomeAiLogo" src="img/HomeAiLogo/10.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/11.png" class="img-fluid">
+                        <img  alt="HomeAiLogo" src="img/HomeAiLogo/11.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/12.png" class="img-fluid">
+                        <img  alt="HomeAiLogo" src="img/HomeAiLogo/12.png" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -410,67 +410,67 @@
             <div class="client-carousel">
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/tud_logo_web_druck.png" class="img-fluid">
+                        <img alt="tud_logo_web_druck" src="img/partners_img/tud_logo_web_druck.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/iit_bombay.png" class="img-fluid">
+                        <img alt="iit_bombay" src="img/partners_img/iit_bombay.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/logo_zvei.png" class="img-fluid">
+                        <img alt="zvei" src="img/partners_img/logo_zvei.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/vivatech.png" class="img-fluid">
+                        <img alt="vivatech" src="img/partners_img/vivatech.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/Bundesverband-Deutsche-Startups.png" class="img-fluid">
+                        <img alt="Bundesverband-Deutsche-Startups" src="img/partners_img/Bundesverband-Deutsche-Startups.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/aws-logo.png" class="img-fluid">
+                        <img alt="aws" src="img/partners_img/aws-logo.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/ihk-ffm.png" class="img-fluid">
+                        <img alt="ihk-ffm" src="img/partners_img/ihk-ffm.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/reference2.png" class="img-fluid">
+                        <img alt="reference2" src="img/partners_img/reference2.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
+                        <img alt="Hannover-Messe" src="img/partners_img/Hannover-Messe.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/forum-startup-chemie.png" class="img-fluid">
+                        <img alt="forum-startup-chemie" src="img/partners_img/forum-startup-chemie.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/zenit.png" class="img-fluid">
+                        <img alt="zenit" src="img/partners_img/zenit.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/dehub.png" class="img-fluid">
+                        <img alt="dehub" src="img/partners_img/dehub.png" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/stifterverband.png" class="img-fluid">
+                        <img alt="stifterverband" src="img/partners_img/stifterverband.png" class="img-fluid">
                     </div>
                 </div>
             </div>
