@@ -47,7 +47,7 @@
         content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
     <!-- Favicons -->
     <link rel="icon" href="./img/favicon.png">
-    <title>Tvarit Industrial AI</title>
+    <title>Tvarit AI</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -126,7 +126,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img alt="predictive quality" src="./img/predictive_quality.jpg" class="img-fluid">
+                        <img src="./img/predictive_quality.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
@@ -159,13 +159,60 @@
         </div>
     </div>
     <!---------------------Seminar Event ------------------->
+    <!-- <div class="section-padding-both" id="downClick">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="leftSideFilter checkbox-filter white-box-shadow cstmInput">
+                                        <div class="red text-big40" style="font-size:25px;">USE-CASE
+                                            <br>
+                                            <div class="short-line bg-grey"></div>
+                                        </div>
+                                        <p>
+                                            Predicting the shutdown of big motor drives used in printing press while they are in operation. Price of each motor: 15000 euros.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-8">
+                                    <div class="col-md">
+                                        <div class="white-box-shadow left-md-border top-border">
+                                        <div class="red text-big40" style="font-size:25px;">BENEFITS<br>
+                                            <div class="short-line bg-grey"></div>
+                                        </div>
+                                            <br>
+                                            <ul class="ul-list-bullet">
+                                                <li>Increased motor uptime.</li>
+                                                <li>Reduced inventory costs.</li>
+                                                <li>Live production dashboard with predictive alerts.</li>
+                                                <li>Measurable economic benefits.</li>
+                                            </ul>
+                                            <br>
+                                            <div class="row align-items-center">
+                                                <div class="col-md">
+                                                    <div class="form-group">
+                                                        <input type="button" value="REQUEST FULL CASE STUDY" id="btn" class="btn btn-round btn-red-grd">
+                                                    </div>
+                                                </div>
+                                                <div class="col-md">
+                                                <div class="form-group">
+                                                <a href="#form1" class="btn btn-round btn-red-grd">CONTACT US</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
 
     <div class="section-padding" id="Benefits">
         <div class="container">
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img alt="Use case die casting Motor" src="img/Use-case_die-casting-Motor_B.jpg" class="img-fluid">
+                        <img src="img/Use-case_die-casting-Motor_B.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -212,7 +259,7 @@
 
                 <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
-                        <img alt="benefits die casting machine" src="img/benefits-die-casting-machine.jpg" class="img-fluid">
+                        <img src="img/benefits-die-casting-machine.jpg" class="img-fluid">
                     </div>
                 </div>
             </div>
