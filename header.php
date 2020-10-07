@@ -133,7 +133,7 @@ div.fadeMe {
                                 <div class="col-lg-8 col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="achive-more" class="sub-Link">
+                                            <a href="achive_more" class="sub-Link">
                                                 <img class="ai_solutions_img" src="./img/plus_ai.png"
                                                     alt="Achieve More Tvarit AI Solutions" />
                                                 <div class="bold tvarit-black">
@@ -162,7 +162,7 @@ div.fadeMe {
                                             <a href="ai-consulting" class="sub-Link">AI Consulting</a>
                                         </li>
                                         <li>
-                                            <a href="ai-academy" class="sub-Link">AI and Data Academy</a>
+                                            <a href="ai_academy" class="sub-Link">AI and Data Academy</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -211,11 +211,11 @@ div.fadeMe {
                                             <a href="#" class="sub-Link">Survey</a>
                                             <ul class="ul-deep-menu">
                                                 <li>
-                                                    <a href="ai-for-manufacturing" class="sub-Link">AI for
+                                                    <a href="ai_for_manufacturing" class="sub-Link">AI for
                                                         Manufacturing</a>
                                                 </li>
                                                 <li>
-                                                    <a href="ai-as-a-product" class="sub-Link">AI as a
+                                                    <a href="ai_as_a_product" class="sub-Link">AI as a
                                                         Product </a>
                                                 </li>
                                             </ul>

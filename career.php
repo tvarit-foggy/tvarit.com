@@ -463,13 +463,13 @@
     <!------------------------Countdown start --------------------->
     <div class="section-padding">
     <?php 
-                include 'change-we-brought.php';
+                include 'change_we_brought.php';
                 ?>
                 </div>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
     <?php 
-                include 'change-we-bring.php';
+                include 'change_we_bring.php';
                 ?>
     <!------------------------Automated slide end --------------------->
 

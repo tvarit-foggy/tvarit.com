@@ -47,7 +47,7 @@
                 </div>
 
                 <div class="carousel-cell">
-                    <a href="industrial-machinery" class="automBox">
+                    <a href="industrial_machinery" class="automBox">
                         <div class="automPic">
                             <img src="img/pic-5.jpg" class="img-fluid">
                         </div>
@@ -59,7 +59,7 @@
                 </div>
 
                 <div class="carousel-cell">
-                    <a href="oil-gas" class="automBox">
+                    <a href="oil_gas" class="automBox">
                         <div class="automPic">
                             <img src="img/pic-6.jpg" class="img-fluid">
                         </div>

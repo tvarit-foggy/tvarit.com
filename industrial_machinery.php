@@ -29,7 +29,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
-    <title>Textiles</title>
+    <title>Industrial Machinery</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -63,7 +63,7 @@
 
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg textilesBg">
+    <header class="headerBg industryBg">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
@@ -73,12 +73,11 @@
                             APA in
                         </div>
                         <div class="text-big60">
-                            Textile
+                            Industrial Machinery
                         </div>
                         <br>
                         <p class="text-p">
-                            Maximize overall equipment effectiveness, reduce downtimes & wastage, get a complete asset
-                            performance management. We help you stay trendy.
+                            Knowledge is power. Understand your machines to boom your business.
                         </p>
                         <br>
                     </div>
@@ -95,27 +94,27 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="img/pic-9.jpg" class="img-fluid">
+                        <img src="img/pic-5.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
                     <div class="col-md">
                         <div class="px-4 box-content-left">
                             <div class="title">
-                                <span class="text-big60 red fw-900">Textile</span>
+                                <span class="text-big60 red fw-900">Industrial Machinery</span>
                             </div>
                             <div class="short-line bg-red"></div>
                             <div class="imgW-more">
-                                <p class="text-p">Clothing and fashion already demand a lot of attention making the
-                                    manufacturing deserve a sigh of relief. Aiming to do so, textile industries are
-                                    favoring the use of predictive analytics for predictive maintenance. It aims to
-                                    maximize overall equipment effectiveness, reduce downtimes and wastage and provide
-                                    factories with a complete asset performance management. It has the ability to track
-                                    machine performance and anticipate failures before they occur and smarten up the
-                                    factory. Considering how much work the textile industry does to stay on the grid,
-                                    one single failure can rip the operations and management apart. Needless to say,
-                                    that is why the textile industry is fabricating tech solutions to brighten its color
-                                    and maintain the edge. </p>
+                                <p class="text-p">Predictive analytics the wizarding potion of IoT, cloud, and analytic
+                                    technology to monitor machine conditions is certainly a trick not to be missed. When
+                                    certain conditions match up to part or machine failures, the analytics use that data
+                                    to predict future failures. This leads to the knowledge of circumstances under which
+                                    more damage can be done and enables the manufacturer to make a repair with minimal
+                                    downtime for the assembly line. The best part is once a data is created, it can be
+                                    prototyped for future developments and new innovations. Also, upgradation of old
+                                    machinery can be done to improve quality. Not to mention, huge losses can be
+                                    prevented and operational cost can be minimized. This is why there has been a surge
+                                    in the number of companies using it to be competitively on the grid.</p>
                             </div>
                         </div>
                     </div>
@@ -167,6 +166,7 @@
                 include 'change_we_brought.php';
                 ?>  
         <!------------------------Countdown end --------------------->
+
         <!------------------------Automated slide start --------------------->
         <?php 
                 include 'change_we_bring.php';

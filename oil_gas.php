@@ -29,7 +29,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="./img/favicon.png">
-    <title>Textiles</title>
+    <title>Oil & Gas</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -62,8 +62,9 @@
     <!------------------------ main menu end ------------------------>
 
 
+
     <!------------------------ header start ------------------------->
-    <header class="headerBg textilesBg">
+    <header class="headerBg oilgasBg">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
@@ -73,12 +74,12 @@
                             APA in
                         </div>
                         <div class="text-big60">
-                            Textile
+                            Oil & Gas
                         </div>
                         <br>
                         <p class="text-p">
-                            Maximize overall equipment effectiveness, reduce downtimes & wastage, get a complete asset
-                            performance management. We help you stay trendy.
+                            Track historical operations, compare it to the real-time operational data & detect even the
+                            precise changes in equipment behavior.
                         </p>
                         <br>
                     </div>
@@ -95,27 +96,26 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="img/pic-9.jpg" class="img-fluid">
+                        <img src="img/pic-6.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
                     <div class="col-md">
                         <div class="px-4 box-content-left">
                             <div class="title">
-                                <span class="text-big60 red fw-900">Textile</span>
+                                <span class="text-big60 red fw-900">Oil & Gas</span>
                             </div>
                             <div class="short-line bg-red"></div>
                             <div class="imgW-more">
-                                <p class="text-p">Clothing and fashion already demand a lot of attention making the
-                                    manufacturing deserve a sigh of relief. Aiming to do so, textile industries are
-                                    favoring the use of predictive analytics for predictive maintenance. It aims to
-                                    maximize overall equipment effectiveness, reduce downtimes and wastage and provide
-                                    factories with a complete asset performance management. It has the ability to track
-                                    machine performance and anticipate failures before they occur and smarten up the
-                                    factory. Considering how much work the textile industry does to stay on the grid,
-                                    one single failure can rip the operations and management apart. Needless to say,
-                                    that is why the textile industry is fabricating tech solutions to brighten its color
-                                    and maintain the edge. </p>
+                                <p class="text-p">According to a report in 2017, a typical offshore platform runs at
+                                    about 77% of its maximum production potential. To fix the offsets, the Oil & Gas
+                                    industry has decided to set its foot in predictive analysis namely- predictive
+                                    maintenance, predicting supply & demand, and streamlining routine processes.
+                                    Predictive Analytics along with Predictive Maintenance helps track historical
+                                    operations of each asset and compares it to the real-time operational data to detect
+                                    even the precise changes in equipment behavior. Together, this helps the plant to be
+                                    proactive and reduce unscheduled downtime. Altogether, this can help them be
+                                    extravagantly efficient and reduce the operational cost.</p>
                             </div>
                         </div>
                     </div>
