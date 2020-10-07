@@ -287,42 +287,6 @@
     <!------------------------ Automotives end --------------------->
     <div class="clearfix"></div>
 
-
-    <!-- <div class="section-padding">
-        <div class="container">
-
-            <div class="title md-center-title">
-                <div class="text-first red">Upcoming</div>
-                <div class="text-big60">Events</div>
-                <div class="short-line bg-red"></div>
-            </div>
-
-            <br>
-
-            <div class="news-carousel up-event owl-carousel owl-theme" id="new-carousel"> -->
-
-                <!--<div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/vivatech.png" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">VivaTech Paris is calling</div>
-                            <h4 class="title">Tvarit presenting at VivaTech Paris</h4>
-                            <div class="post-text">
-                                News Post <span class="date">16-18th May</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
-             
-
-
-            <!-- </div>
-
-        </div>
-    </div> -->
-
     <div class="section-padding-both  bg-light-section">
         <div class="container">
 
@@ -338,7 +302,7 @@
             <div class="item">
                     <a href="/sps-smart-production-solution" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/SPS-2019.png" class="img-fluid">
+                            <img alt="SPS-2019" src="img/SPS-2019.png" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">SPS 2019</div>
@@ -357,7 +321,7 @@
                 <div class="item">
                     <a href="https://www.iaa.de/" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/Logo_IAA.png" class="img-fluid">
+                            <img alt="IAA" src="img/partners_img/Logo_IAA.png" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">IAA Motorshow</div>
@@ -374,7 +338,7 @@
                 <div class="item">
                     <a href="https://www.ifa-berlin.com/" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/IFA_Logo_2019.png" class="img-fluid">
+                            <img alt="IFA 2019" src="img/partners_img/IFA_Logo_2019.png" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">IFA 2019</div>
@@ -394,7 +358,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/logo_zvei.png" class="img-fluid">
+                            <img alt="zvei" src="img/partners_img/logo_zvei.png" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">ZVEI Jahreskongress Berlin</div>
@@ -406,58 +370,17 @@
                         </div>
                     </a>
                 </div>
-                <!--<div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="./img/pic-1.jpg" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">Indian Consulate in Frankfurt</div>
-                            <h4 class="title">Tvarit taking workshop at Indian Consulate in Frankfurt, making people
-                                aware about AI’s use cases
-                            </h4>
-                            <div class="post-text"> 
-                             News Post <span class="date">02,2019</span> 
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
-
-                <!--   <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/pic-2.jpg" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">German Associations of Startups: Tvarit GmbH</div>
-                            <h4 class="title">Innoloft (Energieloft)</h4>
-                            <h4 class="title"> TiE Deutschland</h4>
-                            <h4 class="title"> Bundesverband Deutsche Startups e.V.</h4>
-                            <h4 class="title"> Artificial Intelligence & Future Mobility Platform</h4>
-                            <h4 class="title"> Startup Autobahn</h4>
-                            <h4 class="title"> 27pilots
-                            </h4>
-
-                            <div class="post-text">
-                                News Post <span class="date">02,2019</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
 
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/Hannover-Messe.png" class="img-fluid">
+                            <img alt="Hannover-Messe" src="img/partners_img/Hannover-Messe.png" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">Hannover Messe</div>
                             <h4 class="title">Tvarit GmbH launching its ‘AI for Manufacturing’ software to other
                                 countries at Hannover Messe and being interviewed by YourStory</h4>
 
-                            <!-- <div class="post-text">-->
-                            <!--  News Post <span class="date">02,2019</span>-->
-                            <!--</div>-->
                         </div>
                     </a>
                 </div>
@@ -465,29 +388,25 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/reference2.png" class="img-fluid">
+                            <img alt="reference2" src="img/partners_img/reference2.png" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">TiE Deutschland awarding Tvarit</div>
                             <h4 class="title">The Best Industrial Startup Award’ in conference</h4>
-                            <!--<div class="post-text">-->
-                            <!--  News Post <span class="date">02,2019</span>-->
-                            <!--</div>-->
+                           
                         </div>
                     </a>
                 </div>
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/bauma_logo.png" class="img-fluid">
+                            <img alt="bauma" src="img/partners_img/bauma_logo.png" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">Bauma Munich</div>
                             <h4 class="title">Tvarit exhibiting its ‘AI for Manufacturing’ software to construction
                                 companies at Bauma Munich</h4>
-                            <!--<div class="post-text">-->
-                            <!--  News Post <span class="date">02,2019</span>-->
-                            <!--</div>-->
+                            
                         </div>
                     </a>
                 </div>
