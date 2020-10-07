@@ -105,38 +105,7 @@ $( ".closeCookie" ).click(function() {
   $( ".cookieFooter" ).hide();
 });
 
-$(".up-event,.past-event").owlCarousel({
-  items:3,
-  nav:false,
-  loop:true,
-  autoplay:true,
-  margin:4,
-  lazyLoad:true,
-  autoplayHoverPause:false,
-  autoplaySpeed:500,
-  dots:false,
-  responsiveClass:true,
-  responsive:{
-      0:{
-          items:1
-      },
-      280:{
-          items:1
-      },
-      768:{
-          items:2
-      },
-      992:{
-          items:3
-      },
-      1400:{
-          items:5
-      },
-      1800:{
-          items:6
-      }
-  }
-});
+
   
 var nav = $('.main-menu');
 var logoIcn = $('.main-menu .navbar-brand');
