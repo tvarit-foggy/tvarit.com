@@ -111,7 +111,7 @@
                             </div>
                             <div id="prgf-strings" class="stringText">
                                 <span><h1>Fast and customized solutions for all your manufacturing problems and data science
-                                    needs</h1>h1></span>
+                                    needs</h1></span>
                             </div>
                             <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
                             <div class="hdr-industrial" id="typed-industrial"></div>
