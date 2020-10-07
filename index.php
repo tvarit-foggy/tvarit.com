@@ -110,8 +110,8 @@
                                 <span>INDUSTRIAL <span class="red">AI</span> </span>
                             </div>
                             <div id="prgf-strings" class="stringText">
-                                <span>Fast and customized solutions for all your manufacturing problems and data science
-                                    needs</span>
+                                <span><h1>Fast and customized solutions for all your manufacturing problems and data science
+                                    needs</h1></span>
                             </div>
                             <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
                             <div class="hdr-industrial" id="typed-industrial"></div>
