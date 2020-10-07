@@ -272,7 +272,7 @@
                              <a href="https://twitter.com/TvaritAI" target="blank"><i class="fab fa-twitter"></i></a>
                              <a href="https://www.linkedin.com/company/tvarit/" target="blank"><i
                                      class="fab fa-linkedin-in"></i></a>
-                             <a href="https://www.youtube.com/playlist?list=PLqOwcayv0lYbbyKLjn6-A0w3Es4CKZpGr"
+                             <a href="https://www.youtube.com/channel/UCJfogjg3LqSmXMpy6dIOsEw"
                                  target="blank"><i class="fab fa-youtube"></i></a>
                          </div>
                      </div>
