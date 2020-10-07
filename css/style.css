@@ -2718,3 +2718,5 @@ a .tvarit-black:hover {
     .main-menu .navbar-nav .nav-item .nav-link:hover, .fixed-menu.sticky .navbar-nav .nav-item a.nav-link.nav-link-seprator:hover {
         color: black !important;
     }
+
+    #typed-prgf h1{font-size: 24px;}
