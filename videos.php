@@ -102,7 +102,7 @@
                                     class="playVideo">
                                     <i class="far fa-play-circle"></i>
                                 </a>
-                                <img src="img/video-thumb/1.jpg" class="img-fluid">
+                                <img alt="Tvarit 1" src="img/video-thumb/1.jpg" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="title">Tvarit 1- The Industry 4.0 and the challange</div>
@@ -117,7 +117,7 @@
                                     class="playVideo">
                                     <i class="far fa-play-circle"></i>
                                 </a>
-                                <img src="img/video-thumb/2.jpg" class="img-fluid">
+                                <img alt="Tvarit 2" src="img/video-thumb/2.jpg" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="title">Tvarit 2- How Tvarit Brigns the change</div>
@@ -132,7 +132,7 @@
                                     class="playVideo">
                                     <i class="far fa-play-circle"></i>
                                 </a>
-                                <img src="img/video-thumb/3.jpg" class="img-fluid">
+                                <img alt="Tvarit 3" src="img/video-thumb/3.jpg" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="title">Tvarit 3- How team at Tvarit makes it happen</div>
@@ -147,7 +147,7 @@
                                     class="playVideo">
                                     <i class="far fa-play-circle"></i>
                                 </a>
-                                <img src="img/video-thumb/4.jpg" class="img-fluid">
+                                <img alt="Tvarit 4" src="img/video-thumb/4.jpg" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="title">Tvarit 4- Tvarit has solution for your businesses-USE CAS</div>
@@ -162,7 +162,7 @@
                                     class="playVideo">
                                     <i class="far fa-play-circle"></i>
                                 </a>
-                                <img src="img/video-thumb/5.jpg" class="img-fluid">
+                                <img alt="Tvarit 5" src="img/video-thumb/5.jpg" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="title">Tvarit 5- What makes Our software unique</div>
@@ -177,7 +177,7 @@
                                     class="playVideo">
                                     <i class="far fa-play-circle"></i>
                                 </a>
-                                <img src="img/video-thumb/6.jpg" class="img-fluid">
+                                <img alt="Tvarit 6" src="img/video-thumb/6.jpg" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="title">6- Choose APA and become the industry leader</div>

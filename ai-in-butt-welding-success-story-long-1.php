@@ -614,7 +614,7 @@
                                     <div class="ddr-widget">
                                         <div class="ddr-widget__image top-icon"
                                             style=" padding-bottom: 15px;"><a target="_self"
-                                                style="width: 200px; height: auto;"><img
+                                                style="width: 200px; height: auto;"><img alt="file not found"
                                                     data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/"
                                                     style="height: auto; width: 250px;"></a>
                                             <div class="ddr-hot-spots__items-wrapper"></div>
@@ -664,7 +664,7 @@
                         <div class="ddr-widget">
                             <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
                                     target="_self" style="width: 350px; height: auto;"><img
-                                        src="img/book-cover-butt-welding.png"
+                                        src="img/book-cover-butt-welding.png" alt="book-cover-butt-welding"
                                         style="width: 350px; height: auto;"></a>
                                 <div class="ddr-hot-spots__items-wrapper"></div>
                             </div>
@@ -965,7 +965,7 @@
                                     <div class="ddr-widget"
                                         style="background-repeat: no-repeat; background-size: 550px; background-position: left top;">
                                         <div class="ddr-widget__image" style="justify-content: center;"><a
-                                                target="_self" style="padding: 20px 50px 50px;"><img
+                                                target="_self" style="padding: 20px 50px 50px;"><img alt="file not found"
                                                     src="https://cdn.dragdropr.com/b7d6411e-5f9f-4739-8215-0f039fe1f9d0/"
                                                     style="height: auto; width: 100%;"></a>
                                             <div class="ddr-hot-spots__items-wrapper"></div>
@@ -1022,7 +1022,7 @@
                                         <div class="ddr-widget__image"
                                             style="justify-content: center; padding-bottom: 15px;"><a target="_self"
                                                 style="width: 721px; height: auto;"><img
-                                                    data-blink-src="https://cdn.dragdropr.com/ca35cca8-8f0c-42f7-81e9-4b33b6f504f5/"
+                                                    data-blink-src="https://cdn.dragdropr.com/ca35cca8-8f0c-42f7-81e9-4b33b6f504f5/" alt="file not found"
                                                     style="height: auto; width: 721px;"></a>
                                             <div class="ddr-hot-spots__items-wrapper"></div>
                                         </div>
@@ -1073,7 +1073,7 @@
                     <div id="ddr-d1dad1056a" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-1 ">
                         <div class="ddr-widget">
                             <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
-                                    target="_self" style="width: 700px; height: auto;"><img
+                                    target="_self" style="width: 700px; height: auto;"><img alt="file not found"
                                         data-blink-src="https://cdn.dragdropr.com/9fe1dd85-e2a3-442f-8963-d1237c8d44da/"
                                         style="height: auto; width: 700px;"></a>
                                 <div class="ddr-hot-spots__items-wrapper"></div>
@@ -1122,7 +1122,7 @@
                     <div id="ddr-afc362db8f" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-1 ">
                         <div class="ddr-widget">
                             <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
-                                    target="_self" style="width: 700px; height: auto;"><img
+                                    target="_self" style="width: 700px; height: auto;"><img alt="file not found"
                                         data-blink-src="https://cdn.dragdropr.com/e60dfe93-c05d-4108-8083-387acc87c684/"
                                         style="height: auto; width: 700px;"></a>
                                 <div class="ddr-hot-spots__items-wrapper"></div>
@@ -1154,7 +1154,7 @@
                     <div id="ddr-e9c7b7eca3" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-1 ">
                         <div class="ddr-widget">
                             <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
-                                    target="_self" style="width: 700px; height: auto;"><img
+                                    target="_self" style="width: 700px; height: auto;"><img alt="file not found"
                                         data-blink-src="https://cdn.dragdropr.com/230eaefa-efc8-4203-bf70-2121319fc660/"
                                         style="height: auto; width: 700px;"></a>
                                 <div class="ddr-hot-spots__items-wrapper"></div>
@@ -1217,7 +1217,7 @@
                                     <div class="ddr-widget">
                                         <div class="ddr-widget__image"
                                             style="justify-content: center; padding-bottom: 15px;"><a target="_self"
-                                                style="width: 805px; height: auto;"><img
+                                                style="width: 805px; height: auto;"><img alt="file not found"
                                                     data-blink-src="https://cdn.dragdropr.com/60866d67-efc8-4fd4-a7d3-9badb64c917f/"
                                                     style="height: auto; width: 805px;"></a>
                                             <div class="ddr-hot-spots__items-wrapper"></div>

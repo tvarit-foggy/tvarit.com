@@ -1017,7 +1017,7 @@
                         <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 " style="width: 100%;">
                             <div id="ddr-18f64a9761" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
                                 <div class="ddr-widget">
-                                    <div class="ddr-widget__image top-icon" style="padding-bottom: 15px;"><a href="https://www.tvarit.com/" target="_self" style="width: 200px; height: auto;"><img data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/" style="height: auto; width: 225px;"></a>
+                                    <div class="ddr-widget__image top-icon" style="padding-bottom: 15px;"><a href="https://www.tvarit.com/" target="_self" style="width: 200px; height: auto;"><img alt="file not found" data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/" style="height: auto; width: 225px;"></a>
                                         <div class="ddr-hot-spots__items-wrapper"></div>
                                     </div>
                                 </div>
@@ -1050,7 +1050,7 @@
             <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 " style="width: 50%;">
                 <div id="ddr-e33fa1bceb" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
                     <div class="ddr-widget" style="opacity: 1;">
-                        <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a target="_self" style="width: 400px; height: auto; box-shadow: rgb(255, 255, 255) 0px 0px 0px 0px;"><img data-blink-src="https://cdn.dragdropr.com/dab95c9a-b8c9-4616-a0ea-a1d5da0ec6ce/" style="width: 400px; height: auto;"></a>
+                        <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a target="_self" style="width: 400px; height: auto; box-shadow: rgb(255, 255, 255) 0px 0px 0px 0px;"><img alt="file not found" data-blink-src="https://cdn.dragdropr.com/dab95c9a-b8c9-4616-a0ea-a1d5da0ec6ce/" style="width: 400px; height: auto;"></a>
                             <div class="ddr-hot-spots__items-wrapper"></div>
                         </div>
                     </div>
@@ -1158,7 +1158,7 @@
                         <div class="ddr-page-column ddr-page-column-0 ddr-page-column__wrap--320 ddr-page-column__wrap--480 ddr-page-column__wrap--768 " style="width: 50%;">
                             <div id="ddr-574ffe0910" class="ddr-page-widget ddr-page-widget__image ddr-page-widget-0 ">
                                 <div class="ddr-widget" style="background-repeat: no-repeat; background-size: 550px; background-position: left top;">
-                                    <div class="ddr-widget__image" style="justify-content: center;"><a target="_self" style="padding: 5px 50px 50px;"><img src="https://cdn.dragdropr.com/b7d6411e-5f9f-4739-8215-0f039fe1f9d0/" style="height: auto; width: 100%;"></a>
+                                    <div class="ddr-widget__image" style="justify-content: center;"><a target="_self" style="padding: 5px 50px 50px;"><img alt="file not found" src="https://cdn.dragdropr.com/b7d6411e-5f9f-4739-8215-0f039fe1f9d0/" style="height: auto; width: 100%;"></a>
                                         <div class="ddr-hot-spots__items-wrapper"></div>
                                     </div>
                                 </div>

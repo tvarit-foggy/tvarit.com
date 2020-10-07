@@ -72,10 +72,10 @@
             <br>
             <div class="col-md-12 row">
                 <div class="col-md-6">
-                    <img src="img/edi.png" class="img-fluid">
+                    <img alt="edi" src="img/edi.png" class="img-fluid">
                 </div>
                 <div class="col-md-6">
-                    <img src="img/edi-spain.jpeg" class="img-fluid">
+                    <img alt="edi spain" src="img/edi-spain.jpeg" class="img-fluid">
                 </div>
             </div>
             <br>

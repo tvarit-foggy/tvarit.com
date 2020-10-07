@@ -130,7 +130,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/advtg_1.png" class="img-fluid">
+                            <img alt="advtg" src="img/advtg_1.png" class="img-fluid">
                         </div>
 
                         <div class="more">
@@ -144,7 +144,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/advtg_2.png" class="img-fluid">
+                            <img alt="advtg" src="img/advtg_2.png" class="img-fluid">
                         </div>
 
                         <div class="more">
@@ -157,7 +157,7 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/advtg_3.png" class="img-fluid">
+                            <img alt="advtg" src="img/advtg_3.png" class="img-fluid">
                         </div>
 
                         <div class="more">
@@ -187,7 +187,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/1.png" class="img-fluid">
+                                <img alt="YWL" src="img/YWl/1.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 Creation of AI use-cases
@@ -205,7 +205,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/2.png" class="img-fluid">
+                                <img alt="YWL" src="img/YWl/2.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 Machine Learning training for beginners
@@ -223,7 +223,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/3.png" class="img-fluid">
+                                <img alt="YWL" src="img/YWl/3.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 Supervised machine learning for beginners
@@ -241,7 +241,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/4.png" class="img-fluid">
+                                <img alt="YWL" src="img/YWl/4.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 Unsupervised machine learning for beginners
@@ -259,7 +259,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/5.png" class="img-fluid">
+                                <img alt="YWL" src="img/YWl/5.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 Evaluation of AI/ML Models
@@ -277,7 +277,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/YWl/6.png" class="img-fluid">
+                                <img alt="YWL" rc="img/YWl/6.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 AI and Data Science master journey for executives
@@ -311,7 +311,7 @@
                 <div class="col-md-4">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/Best_AI_experts.jpg" class="img-fluid">
+                            <img alt="Best AI experts" src="img/Best_AI_experts.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             Germany’s best data scientists and AI experts as trainers
@@ -322,7 +322,7 @@
                 <div class="col-md-4">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/Training_courses.jpg" class="img-fluid">
+                            <img alt="Training courses" src="img/Training_courses.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             Practical, relevant and customized training courses
@@ -333,7 +333,7 @@
                 <div class="col-md-4">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_4.jpg" class="img-fluid">
+                            <img alt="54+ years of human experience" src="img/ai_4.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             54+ years of human experience

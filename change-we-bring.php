@@ -12,7 +12,7 @@
                 <div class="carousel-cell">
                     <a href="automotive" class="automBox">
                         <div class="automPic">
-                            <img src="img/pic-1.jpg" class="img-fluid">
+                            <img alt="automotive" src="img/pic-1.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             Automotive
@@ -25,7 +25,7 @@
                 <div class="carousel-cell">
                     <a href="chemicals" class="automBox">
                         <div class="automPic">
-                            <img src="img/pic-3.jpg" class="img-fluid">
+                            <img alt="chemicals" src="img/pic-3.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             Chemicals
@@ -37,7 +37,7 @@
                 <div class="carousel-cell">
                     <a href="construction" class="automBox">
                         <div class="automPic">
-                            <img src="img/pic-4.jpg" class="img-fluid">
+                            <img alt="construction" src="img/pic-4.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             Construction
@@ -49,7 +49,7 @@
                 <div class="carousel-cell">
                     <a href="industrial-machinery" class="automBox">
                         <div class="automPic">
-                            <img src="img/pic-5.jpg" class="img-fluid">
+                            <img alt="industrial machinery" src="img/pic-5.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             Industrial Machinery
@@ -61,7 +61,7 @@
                 <div class="carousel-cell">
                     <a href="oil-gas" class="automBox">
                         <div class="automPic">
-                            <img src="img/pic-6.jpg" class="img-fluid">
+                            <img alt="oil gas" src="img/pic-6.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             Oil & Gas
@@ -73,7 +73,7 @@
                 <div class="carousel-cell">
                     <a href="steel" class="automBox">
                         <div class="automPic">
-                            <img src="img/pic-8.jpg" class="img-fluid">
+                            <img alt="steel" src="img/pic-8.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             Steel

@@ -90,7 +90,7 @@
                     </div>
                     <div class="col-lg order-1 order-lg-2">
                         <div class="AmimgBox">
-                            <img src="img/Achieve-more.jpg" class="img-fluid">
+                            <img alt="achieve more" src="img/Achieve-more.jpg" class="img-fluid">
                         </div>
                     </div>
             </div>
@@ -119,7 +119,7 @@
                 <div class="row mb-4 align-items-center">
                     <div class="col-lg">
                         <div class="AmimgBox">
-                            <img src="img/Data-preparation.jpg" class="img-fluid">
+                            <img alt="Data Preparation" src="img/Data-preparation.jpg" class="img-fluid">
                         </div>
                     </div>
                     <div class="col-lg">

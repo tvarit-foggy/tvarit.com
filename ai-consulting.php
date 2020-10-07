@@ -164,7 +164,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/1.png" class="img-fluid">
+                                <img alt="data extraction" src="img/1.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 DATA EXTRACTION AND INTEGRATION
@@ -188,7 +188,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/2.png" class="img-fluid">
+                                <img alt="dta preparation" src="img/2.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 DATA <br>PREPARATION
@@ -211,7 +211,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/3.png" class="img-fluid">
+                                <img alt="data labelling" src="img/3.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 DATA <br>LABELLING
@@ -234,7 +234,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/4.png" class="img-fluid">
+                                <img alt="DATA HARMONIZATION" src="img/4.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 DATA <br>HARMONIZATION
@@ -257,7 +257,7 @@
                     <div class="bxSqtp">
                         <div class="bxSqtp-container">
                             <div class="icon">
-                                <img src="img/5.png" class="img-fluid">
+                                <img alt="at model & insight creation" src="img/5.png" class="img-fluid">
                             </div>
                             <div class="title">
                                 AI MODEL & <br>INSIGHT CREATION
@@ -298,7 +298,7 @@
                 <div class="col-md-3">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_1.jpg" class="img-fluid">
+                            <img alt="ai" src="img/ai_1.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                         Experience from over 32 industrial data science projects with fortune 500 companies and national 
@@ -309,7 +309,7 @@
                 <div class="col-md-3">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_2.jpg" class="img-fluid">
+                            <img alt="ai" src="img/ai_2.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                         our task based pricing model takes you the economic risks of unsucessful activities and unexpected challenges
@@ -319,7 +319,7 @@
                 <div class="col-md-3">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_3.jpg" class="img-fluid">
+                            <img alt="ai" src="img/ai_3.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             Agile and use-case based consulting services
@@ -329,7 +329,7 @@
                 <div class="col-md-3">
                     <div class="automBox">
                         <div class="automPic">
-                            <img src="img/ai_4.jpg" class="img-fluid">
+                            <img alt="ai" src="img/ai_4.jpg" class="img-fluid">
                         </div>
                         <div class="automText">
                             54+ Human years of experience of academic and real-world experience in solving complex data

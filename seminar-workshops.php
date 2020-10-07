@@ -211,7 +211,7 @@
                             <div class="blogBox" style="height:300px;">
                                 <div class="blogPic" style="max-height:300px;">
                                     <a href="img/seminar/sem-1.jpg" target="_blank">
-                                        <img src="img/seminar/sem-1.jpg" style="height:300px; width:100%"
+                                        <img alt="seminar" src="img/seminar/sem-1.jpg" style="height:300px; width:100%"
                                             class="img-fluid">
                                     </a>
                                 </div>
@@ -222,7 +222,7 @@
                             <div class="blogBox" style="height:200px;">
                                 <div class="blogPic">
                                     <a href="img/seminar/sem-2.jpg" target="_blank">
-                                        <img src="img/seminar/sem-2.jpg" style="height:200px;" class="img-fluid">
+                                        <img alt="seminar" src="img/seminar/sem-2.jpg" style="height:200px;" class="img-fluid">
                                     </a>
                                 </div>
                             </div>
@@ -232,7 +232,7 @@
                             <div class="blogBox" style="height:200px;">
                                 <div class="blogPic">
                                     <a href="img/seminar/sem-3.jpg" target="_blank">
-                                        <img src="img/seminar/sem-3.jpg" style="height:200px;" class="img-fluid">
+                                        <img alt="seminar" src="img/seminar/sem-3.jpg" style="height:200px;" class="img-fluid">
                                     </a>
                                 </div>
                             </div>
@@ -242,7 +242,7 @@
                             <div class="blogBox" style="height:200px;">
                                 <div class="blogPic">
                                     <a href="img/seminar/sem-4.jpg" target="_blank">
-                                        <img src="img/seminar/sem-4.jpg" style="height:200px;" class="img-fluid">
+                                        <img alt="seminar" src="img/seminar/sem-4.jpg" style="height:200px;" class="img-fluid">
                                     </a>
                                 </div>
                             </div>
@@ -252,7 +252,7 @@
                             <div class="blogBox" style="height:200px;">
                                 <div class="blogPic">
                                     <a href="img/seminar/sem-5.jpg" target="_blank">
-                                        <img src="img/seminar/sem-5.jpg" style="height:200px;" class="img-fluid">
+                                        <img alt="seminar" src="img/seminar/sem-5.jpg" style="height:200px;" class="img-fluid">
                                     </a>
                                 </div>
                             </div>
@@ -261,7 +261,7 @@
                             <div class="blogBox" style="height:200px;">
                                 <div class="blogPic">
                                     <a href="img/seminar/sem-6.jpg" target="_blank">
-                                        <img src="img/seminar/sem-6.jpg" style="height:200px; width:100%"
+                                        <img alt="seminar" src="img/seminar/sem-6.jpg" style="height:200px; width:100%"
                                             class="img-fluid">
                                     </a>
                                 </div>

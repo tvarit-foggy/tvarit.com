@@ -62,7 +62,7 @@
           <div class="col-lg-6 macbook-position">
             <div class="macbook-wrapper">
               <div class="macbook-lapi">
-                <img src="img/lapi-2.png" class="img-fluid">
+                <img alt="lapi" src="img/lapi-2.png" class="img-fluid">
               </div>
               <iframe class="macbook-video" src="https://www.youtube.com/embed/J0CnupBDA74?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
@@ -290,7 +290,7 @@
             <ul class="ul-logobox">
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/1.png" class="img-fluid">
+                  <img alt="Amazon" src="img/logoImg/1.png" class="img-fluid">
                   <div class="logotext">
                     Amazon S3
                   </div>
@@ -298,7 +298,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/2.png" class="img-fluid">
+                  <img alt="HDFS" src="img/logoImg/2.png" class="img-fluid">
                   <div class="logotext">
                     HDFS
                   </div>
@@ -306,7 +306,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/3.png" class="img-fluid">
+                  <img alt="PostgreSQL" src="img/logoImg/3.png" class="img-fluid">
                   <div class="logotext">
                   PostgreSQL
                   </div>
@@ -314,7 +314,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/4.png" class="img-fluid">
+                  <img alt="Google Analytics" src="img/logoImg/4.png" class="img-fluid">
                   <div class="logotext">
                   Google Analytics
                   </div>
@@ -322,7 +322,7 @@
               </li>
               <li>
                  <div class="logo-box">
-                  <img src="img/logoImg/5.png" class="img-fluid">
+                  <img alt="MongoDB" src="img/logoImg/5.png" class="img-fluid">
                   <div class="logotext">
                   MongoDB
                   </div>
@@ -330,7 +330,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/7.png" class="img-fluid">
+                  <img alt="Amazon Redshift" src="img/logoImg/7.png" class="img-fluid">
                   <div class="logotext">
                   Amazon Redshift
                   </div>
@@ -338,7 +338,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/8.png" class="img-fluid">
+                  <img alt="Impala" src="img/logoImg/8.png" class="img-fluid">
                   <div class="logotext">
                   Impala
                   </div>
@@ -346,7 +346,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/9.png" class="img-fluid">
+                  <img alt="Cassandra" src="img/logoImg/9.png" class="img-fluid">
                   <div class="logotext">
                   Cassandra
                   </div>
@@ -354,7 +354,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/10.png" class="img-fluid">
+                  <img alt="Elasticsearch" src="img/logoImg/10.png" class="img-fluid">
                   <div class="logotext">
                   Elasticsearch
                   </div>
@@ -362,7 +362,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/11.png" class="img-fluid">
+                  <img alt="My SQL" src="img/logoImg/11.png" class="img-fluid">
                   <div class="logotext">
                   MS SQL
                   </div>
@@ -370,7 +370,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/12.png" class="img-fluid">
+                  <img alt="Snowflake" src="img/logoImg/12.png" class="img-fluid">
                   <div class="logotext">
                   Snowflake
                   </div>
@@ -378,7 +378,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/13.png" class="img-fluid">
+                  <img alt="Oracle" src="img/logoImg/13.png" class="img-fluid">
                   <div class="logotext">
                   Oracle
                   </div>
@@ -386,7 +386,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/6.png" class="img-fluid">
+                  <img alt="MemSQL" src="img/logoImg/6.png" class="img-fluid">
                   <div class="logotext">
                   MemSQL
                   </div>
@@ -394,7 +394,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/14.png" class="img-fluid">
+                  <img alt="MySQL" src="img/logoImg/14.png" class="img-fluid">
                   <div class="logotext">
                   MySQL
                   </div>
@@ -402,7 +402,7 @@
               </li>
               <li>
                  <div class="logo-box">
-                  <img src="img/logoImg/15.png" class="img-fluid">
+                  <img alt="Salesforce" src="img/logoImg/15.png" class="img-fluid">
                   <div class="logotext">
                   Salesforce
                   </div>
@@ -410,7 +410,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/16.png" class="img-fluid">
+                  <img alt="Apache Hive" src="img/logoImg/16.png" class="img-fluid">
                   <div class="logotext">
                   Apache Hive
                   </div>
@@ -433,7 +433,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/01.svg" class="img-fluid">
+                <img alt="Ai_benefit" src="img/Ai_benefit/01.svg" class="img-fluid">
               </div>
               <p class="text-p">One stop solution for all your data science needs
               </p>
@@ -443,7 +443,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/02.svg" class="img-fluid">
+                <img alt="Ai_benefit" src="img/Ai_benefit/02.svg" class="img-fluid">
               </div>
               <p class="text-p">Reduce total cost of ownership</p>
             </div>
@@ -452,7 +452,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/03.svg" class="img-fluid">
+                <img alt="Ai_benefit" src="img/Ai_benefit/03.svg" class="img-fluid">
               </div>
               <p class="text-p">
                 Reduce time to complete AI projects
@@ -463,7 +463,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/04.svg" class="img-fluid">
+                <img alt="Ai_benefit" src="img/Ai_benefit/04.svg" class="img-fluid">
               </div>
               <p class="text-p">Create new and customize existing pipelines
               </p>
@@ -473,7 +473,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/05.svg" class="img-fluid">
+                <img alt="Ai_benefit" src="img/Ai_benefit/05.svg" class="img-fluid">
               </div>
               <p class="text-p">Usage based pricing model</p>
             </div>
@@ -482,7 +482,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/06.svg" class="img-fluid">
+                <img alt="Ai_benefit" src="img/Ai_benefit/06.svg" class="img-fluid">
               </div>
               <p class="text-p">
                Provided with full documentation

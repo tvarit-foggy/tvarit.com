@@ -518,7 +518,7 @@
                                         <div class="ddr-widget">
                                             <div class="ddr-widget__image top-icon" style="padding-bottom: 15px;"><a
                                                     href="https://www.tvarit.com/" target="_self"
-                                                    style="width: 200px; height: auto;"><img
+                                                    style="width: 200px; height: auto;"><img alt="file not found" 
                                                         data-blink-src="https://cdn.dragdropr.com/ceb4e1f3-7662-4ace-94d5-21f2a6d724e9/"
                                                         style="height: auto; width: 225px;"></a>
                                                 <div class="ddr-hot-spots__items-wrapper"></div>
@@ -570,7 +570,7 @@
                                 <div class="ddr-widget__image" style="justify-content: center; padding-bottom: 15px;"><a
                                         target="_self"
                                         style="width: 371px; height: auto; box-shadow: rgb(255, 255, 255) 0px 0px 1px 0px;"><img
-                                            src="img/book-cover-butt-welding.png"
+                                            src="img/book-cover-butt-welding.png" alt="book-cover-butt-welding" 
                                             style="width: 371px; height: auto;"></a>
                                     <div class="ddr-hot-spots__items-wrapper"></div>
                                 </div>
@@ -674,7 +674,7 @@
                                         <div class="ddr-widget"
                                             style="background-repeat: no-repeat; background-size: 550px; background-position: left top;">
                                             <div class="ddr-widget__image" style="justify-content: center;"><a
-                                                    target="_self" style="padding: 5px 50px 50px;"><img
+                                                    target="_self" style="padding: 5px 50px 50px;"><img alt="file not found" 
                                                         src="https://cdn.dragdropr.com/b7d6411e-5f9f-4739-8215-0f039fe1f9d0/"
                                                         style="height: auto; width: 100%;"></a>
                                                 <div class="ddr-hot-spots__items-wrapper"></div>

@@ -21,7 +21,7 @@
 <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand bold uppr" href="..">
-                <img src="img/logo.png" class="img-fluid">
+                <img alt="Tvarit Industrial AI" src="img/logo.png" class="img-fluid">
             </a>
 
             <a href="javascript://" class="menu-togglebar">
@@ -76,7 +76,7 @@
                                     <ul class="ul-sub-menu">
                                         <li>
                                             <a href="../achive-more" class="sub-Link">
-                                                <img class="ai_solutions_img" src="../img/plus_ai.png"
+                                                <img alt="AI Solutions" class="ai_solutions_img" src="../img/plus_ai.png"
                                                     alt="Achieve More Tvarit AI Solutions" />
                                                 <div class="bold tvarit-black">
                                                     Achieve More Tvarit AI Solutions
@@ -181,7 +181,7 @@
 
              <!------------------------sticky contact button start --------------------->
 <div class="sticky-contact-bar">
-<a href="../contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>    
+<a href="../contact" target="_blank" class="sticky-contact" > <img alt="Contact" src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>    
 <!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
 </div>
 <!------------------------sticky contact button end --------------------->

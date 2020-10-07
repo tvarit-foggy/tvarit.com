@@ -96,7 +96,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="img/pic-8.jpg" class="img-fluid">
+                        <img alt="steel" src="img/pic-8.jpg" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">
