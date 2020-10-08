@@ -239,7 +239,7 @@
                             <h3 class="fw-900">Tobias Gundermann</h3>
                             <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
                             <a href="tel:+49 179 2429893"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
-                            <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400"
+                            <a href="mailto:tobiasDOTgundermannATtvaritDOTcom" onclick = "this.href=this.href.replace(/AT/,'&#64;').replace(/DOT/,'&#46;')"><span class="fs-18  fw-400"
                                     style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
                         </div>
                         <div>
@@ -316,7 +316,7 @@
 
                     <div class="ctnDetailBox">
                         <h4 class="red">E-mail</h4>
-                        <a href="mailto:info@tvarit.com">
+                        <a href="infoATtvaritDOTcom" onclick = "this.href=this.href.replace(/AT/,'&#64;').replace(/DOT/,'&#46;')">
                             <p class="text-p">info@tvarit.com</p>
                         </a>
                     </div>
