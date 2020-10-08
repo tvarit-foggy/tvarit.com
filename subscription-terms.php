@@ -97,8 +97,12 @@
                 purchases may occur when we automatically charge your payment method in connection with a recurring subscription or 
                 when you add or change licenses or products.    
             </p>
-            <h5>Cancellation Terms</h5>
+            <p>
+                We have partnered with Stripe for all our payment and billing purposes. For more information on checkout terms 
+                please visit <a href="https://stripe.com/en-de/checkout/legal">Stripe</a>
+            </p>
             <br>
+            <h5>Cancellation Terms</h5>
             </p>
                 You can cancel your subscription any time by contacting Customer Support. If you cancel your service will 
                 continue until the end of that month’s billing period. 
