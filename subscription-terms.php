@@ -65,8 +65,10 @@
     <div class="section-padding-both-2x" id="Philanthropy">
         <div class="container">
             <h4>Tvarit GmbH Subscription and Cancellation Terms</h4>
-            <h3>Subscrption Terms</h3>
-            <h2>Month to Month Billing</h2>
+            <br>
+            <h5>Subscrption Terms</h5>
+            <br>
+            <h6>Month to Month Billing</h6>
             <p>
                 Your membership starts when your underlying invoice is generated. 
                 Your membership will consequently reestablish every month without notice until you cancel the subscription. 
@@ -95,9 +97,12 @@
                 purchases may occur when we automatically charge your payment method in connection with a recurring subscription or 
                 when you add or change licenses or products.    
             </p>
-            <h3>Cancellation Terms</h3>
+            <h5>Cancellation Terms</h5>
+            <br>
+            </p>
                 You can cancel your subscription any time by contacting Customer Support. If you cancel your service will 
                 continue until the end of that month’s billing period. 
+            </p>
 
         </div>
     </div>
