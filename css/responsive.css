@@ -657,7 +657,7 @@
     .btn-knowmore {
         position: relative;
         bottom: 0;
-        display: flex;
+        display: block;
     }
 
 }
