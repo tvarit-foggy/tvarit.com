@@ -390,7 +390,7 @@ window.cookieconsent.initialise({
     "href": "https://tvarit.com/datenschutz"
   }
 });
-$(document).ready(function() {
+/*$(document).ready(function() {
 	$(".up-event,.past-event").owlCarousel({
   items:3,
   nav:false,
@@ -423,7 +423,7 @@ $(document).ready(function() {
       }
   }
 });
-)};
+});*/
 </script>  
  </body>
 
