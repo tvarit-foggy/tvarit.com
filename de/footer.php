@@ -366,7 +366,7 @@
             if(theEvent.preventDefault) theEvent.preventDefault();
         }
      }
-     $(document).ready(function() {
+     /*$(document).ready(function() {
         $(".up-event,.past-event").owlCarousel({
       items:3,
       nav:false,
@@ -399,7 +399,7 @@
           }
       }
     });
-    });
+    });*/
      </script>
  </body>
 
