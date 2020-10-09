@@ -180,6 +180,8 @@
             <div class="centerTitle sec-mainTitle">
                 AI Solutions
             </div>
+            <h4 class="subHeader">Increase profitability with predictive quality, predictive maintenance and dynamic recipes.
+            </h4>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
                 <br>
@@ -306,7 +308,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                        We provide fast and customizable AI solutions for descrete and process manufacturing that have been built and designed on the basis of more than 34 years of experience in fortune 500 manufacturing companies. Continuously improving our solutions and heavily investing into R&D, we have been awarded for the most advanced AI algorithms and ready to use AI modules - developed to solve all you complex manaufacturing challenges and needs.</p>
+                        We provide customizable and ready-to-use data science and AI software solutions for discrete and process manufacturing which have been built and designed based on several years of experience in working with manufacturing companies and production facilities. At the core of the user-oriented frontend and dashboards of our software works our algorithmic framework. As we continuously invest into Research and Development, this framework consists of more than 160 algorithmic modules for all steps of data science activities in the manufacturing industry. Recently, we were awarded by the European Data Incubator as one of the best AI companies in Europe.</p>
                         <br>
                     </div>
 
@@ -327,6 +329,9 @@
             <div class="centerTitle">
                 <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
                 <div class="sec-mainTitle">Manufacturing companies</div>
+                <h4 class="subHeader">
+                    We seamlessly extract and integrate your production data to ensure that you get fast &amp; secure analytics and predictions
+                </h4>
             </div>
             <br>
             <div class="row">

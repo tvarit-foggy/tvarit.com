@@ -170,6 +170,7 @@
             <div class="centerTitle sec-mainTitle"> 
                 KI LÖSUNGEN
             </div>
+            <h4 class="subHeader">Erhöhen Sie Ihre Profitabilität mit Hilfe von predictive Quality, predictive Maintenance und dynamischen Rezepten:</h4>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
             <div class="col-lg-3">
@@ -295,7 +296,8 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                        Wir bieten schnelle und anpassbare KI Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unser Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.                        <br>
+                        Wir bieten anpassbare und einsatzbereite Data Science- und KI-Softwarelösungen für die
+                        Fertigungsindustrie. Diese wurden auf der Grundlage mehrjähriger Erfahrung in der Zusammenarbeit mit Fertigungsunternehmen und Produktionseinrichtungen entwickelt. Im Zentrum der anwenderfreundlichen Benutzeroberfläche und Dashboards unserer Software steht unser algorithmisches Framework. Da wir kontinuierlich in Forschung und Entwicklung investieren, wird dieses Framework kontinuierliche erweitert und besteht aus mehr als 160 algorithmischen Modulen für alle Schritte der datenwissenschaftlichen Aktivitäten in der Fertigungsindustrie. Für unsere Technologie wurden wir kürzlich vom European Data Incubator als eines der besten KI-Unternehmen in ganz Europa ausgezeichnet.                       <br>
                     </div>
 
                 </div>
@@ -315,6 +317,10 @@
             <div class="centerTitle">
                 <h3 class="bold text-center red mb-0">Wir beherrschen alle Sprachen von </h3>
                 <div class="sec-mainTitle">Fertigungsunternehmen</div>
+                <h4 class="subHeader">
+                    Erhalten Sie schnellste Analysen und Vohersagen bei reibungsloser Extraktion Ihrer
+Produktionsdaten und höchster Datensicherheit.
+                </h4>
             </div>
             <br>
             <div class="row">
