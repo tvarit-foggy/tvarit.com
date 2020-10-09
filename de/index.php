@@ -489,7 +489,7 @@
     <script src="js/indexSlider.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
-    <script src="js/SmoothScroll.js"></script>
+    <!--<script src="js/SmoothScroll.js"></script>-->
     <script src="js/flickity.pkgd.min.js"></script>
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
