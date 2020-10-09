@@ -2537,7 +2537,8 @@ span.text-big60.red.fw-300.ai_predictive {
     left: 0;
     right: 0;
     margin: auto;
-    width: 35%;
+    width: 50%;
+    text-align: center;
 }
 
 .text-white
@@ -2698,3 +2699,5 @@ height: 0px !important;
 .main-menu .navbar-nav .nav-item .nav-link:hover, .fixed-menu.sticky .navbar-nav .nav-item a.nav-link.nav-link-seprator:hover {
     color: black !important;
 }
+#typed-prgf h1{font-size: 24px;}
+.subHeader{font-size:16px; text-align:center; font-weight:700;}

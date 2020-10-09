@@ -2548,7 +2548,8 @@ span.text-big60.red.fw-300.ai_predictive {
     left: 0;
     right: 0;
     margin: auto;
-    width: 35%;
+    width: 50%;
+    text-align: center;
 }
 
 .text-white
@@ -2720,3 +2721,4 @@ a .tvarit-black:hover {
     }
 
     #typed-prgf h1{font-size: 24px;}
+    .subHeader{font-size:16px; text-align:center; font-weight:700;}
