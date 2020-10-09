@@ -272,7 +272,7 @@
                              <a href="https://twitter.com/TvaritAI" target="blank"><i class="fab fa-twitter"></i></a>
                              <a href="https://www.linkedin.com/company/tvarit/" target="blank"><i
                                      class="fab fa-linkedin-in"></i></a>
-                             <a href="https://www.youtube.com/playlist?list=PLqOwcayv0lYbbyKLjn6-A0w3Es4CKZpGr"
+                             <a href="https://www.youtube.com/channel/UCJfogjg3LqSmXMpy6dIOsEw"
                                  target="blank"><i class="fab fa-youtube"></i></a>
                          </div>
                      </div>
@@ -390,6 +390,40 @@ window.cookieconsent.initialise({
     "href": "https://tvarit.com/datenschutz"
   }
 });
+$(document).ready(function() {
+	$(".up-event,.past-event").owlCarousel({
+  items:3,
+  nav:false,
+  loop:true,
+  autoplay:true,
+  margin:4,
+  lazyLoad:true,
+  autoplayHoverPause:false,
+  autoplaySpeed:500,
+  dots:false,
+  responsiveClass:true,
+  responsive:{
+      0:{
+          items:1
+      },
+      280:{
+          items:1
+      },
+      768:{
+          items:2
+      },
+      992:{
+          items:3
+      },
+      1400:{
+          items:5
+      },
+      1800:{
+          items:6
+      }
+  }
+});
+)};
 </script>  
  </body>
 
