@@ -197,7 +197,7 @@
                                 </li>
                             </ul>
                             <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
-                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know More</a>
+                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren</a>
                         </div>
                     </div>
                 </div>
@@ -222,8 +222,7 @@
                                 </li>
                             </ul>
                             <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
-                            style="padding: 12px !important"> Know
-                                More</a>
+                            style="padding: 12px !important"> Mehr erfahren</a>
                         </div>
                     </div>
                 </div>
@@ -247,8 +246,8 @@
                                 Live-Dashboard mit prädiktiven Warnmeldungen
                                 </li>
                             </ul>
-                            <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
-                                More</a>
+                            <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -271,8 +270,8 @@
                                 Echtzeit Blick in die Produktion
                                 </li>
                             </ul>
-                            <a href="predictive-quality-for-die-casting-machines" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
-                                More</a>
+                            <a href="predictive-quality-for-die-casting-machines" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren
+                            </a>
                         </div>
                     </div>
                 </div>
