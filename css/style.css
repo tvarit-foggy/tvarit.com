@@ -2548,7 +2548,8 @@ span.text-big60.red.fw-300.ai_predictive {
     left: 0;
     right: 0;
     margin: auto;
-    width: 35%;
+    width: 50%;
+    text-align: center;
 }
 
 .text-white
