@@ -2537,8 +2537,7 @@ span.text-big60.red.fw-300.ai_predictive {
     left: 0;
     right: 0;
     margin: auto;
-    width: 50%;
-    text-align: center;
+    width: 35%;
 }
 
 .text-white
@@ -2700,4 +2699,4 @@ height: 0px !important;
     color: black !important;
 }
 #typed-prgf h1{font-size: 24px;}
-.subHeader{font-size:16px; text-align:center; font-weight:700;}
+.subHeader{font-size:16px; text-align:center; font-weight:700; margin-bottom:30px; margin-top:12px;}

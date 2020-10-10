@@ -171,6 +171,10 @@
                 KI LÖSUNGEN
             </div>
             <h4 class="subHeader">Erhöhen Sie Ihre Profitabilität mit Hilfe von predictive Quality, predictive Maintenance und dynamischen Rezepten:</h4>
+            <p>Die TVARIT Industrial Artificial Intelligence Software (TIA) ist eine benutzerfreundliche und technisch hochmoderne Smart Factory und Digital Twin Software. Erhalten Sie detaillierte Einblicke auf Grundlage der Analyse von Maschinendaten, Sensordaten, sowie Daten von Manufacturing Execution Systemen (MES), Qualitätsmanagementsystemen und ERP-Systemen. In anpassbaren nd Anwenderorientierten Dashboards werden Ihnen die relevantesten Informationen übersichtlich dargestellt - egal ob für Führungskräfte, Betriebsleiter, Qualitätsmanager, Fertigungsingenieure oder Technologen. </p>
+            <p>Überwachen Sie Ihre wichtigsten Kennzahlen (KPI) wie Maschinenverfügbarkeit, Qualitätsrate und Leistung (Gesamtanlageneffektivität) in nahezu Echtzeit und verhindern Sie Qualitätsabweichungen und Maschinenausfälle mit Hilfe von prädiktiven Analysen. Darüber hinaus liefern Ihnen präskriptive dynamische Rezepte konkrete Empfehlungen zur Prozessoptimierung. Mit Hilfe von anpassbaren Benachrichtigung und Warnmeldungen behalten Sie wichtige Vorfälle im Blick.</p>
+            <p>Mit TIA können Sie die Gesamtanlageneffektivität optimieren, Ausschuss reduzieren, die Effizienz steigern und die Maschinenverfügbarkeit verbessern. Dadurch können Kosten reduziert, das Produktionsvolumen erhöht und der Einsatz von Arbeitskräften, Maschinen und Material optimiert werden. </p>
+            <p>Einige der relevantesten implementierten Anwendungsfälle sind:</p>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
             <div class="col-lg-3">
@@ -296,8 +300,8 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                        Wir bieten anpassbare und einsatzbereite Data Science- und KI-Softwarelösungen für die
-                        Fertigungsindustrie. Diese wurden auf der Grundlage mehrjähriger Erfahrung in der Zusammenarbeit mit Fertigungsunternehmen und Produktionseinrichtungen entwickelt. Im Zentrum der anwenderfreundlichen Benutzeroberfläche und Dashboards unserer Software steht unser algorithmisches Framework. Da wir kontinuierlich in Forschung und Entwicklung investieren, wird dieses Framework kontinuierliche erweitert und besteht aus mehr als 160 algorithmischen Modulen für alle Schritte der datenwissenschaftlichen Aktivitäten in der Fertigungsindustrie. Für unsere Technologie wurden wir kürzlich vom European Data Incubator als eines der besten KI-Unternehmen in ganz Europa ausgezeichnet.                       <br>
+                        Wir bieten anpassbare und einsatzbereite Data Science- und KI-Softwarelösungen für die Fertigungsindustrie. Diese wurden auf der Grundlage mehrjähriger Erfahrung in der Zusammenarbeit mit Fertigungsunternehmen und Produktionseinrichtungen entwickelt. Im Zentrum der anwenderfreundlichen Benutzeroberfläche und Dashboards unserer Software steht unser algorithmisches Framework. Da wir kontinuierlich in Forschung und Entwicklung investieren, wird dieses Framework kontinuierliche erweitert und besteht aus mehr als 160 algorithmischen Modulen für alle Schritte der datenwissenschaftlichen Aktivitäten in der Fertigungsindustrie. Für unsere Technologie wurden wir kürzlich vom European Data Incubator als eines der besten KI-Unternehmen in ganz Europa ausgezeichnet.</p>                     
+                        <br>
                     </div>
 
                 </div>
@@ -318,9 +322,11 @@
                 <h3 class="bold text-center red mb-0">Wir beherrschen alle Sprachen von </h3>
                 <div class="sec-mainTitle">Fertigungsunternehmen</div>
                 <h4 class="subHeader">
-                    Erhalten Sie schnellste Analysen und Vohersagen bei reibungsloser Extraktion Ihrer
-Produktionsdaten und höchster Datensicherheit.
+                    Erhalten Sie schnellste Analysen und Vohersagen bei reibungsloser Extraktion Ihrer Produktionsdaten und höchster Datensicherheit. 
                 </h4>
+                <p>Unabhängig davon, wo Ihre Daten erfasst und gespeichert werden, können diese von Maschinen über SCADA, sowie mit Hilfe von Industrial Internet of Things (IIoT) Service-Anbietern und EDGE-Geräten in unsere Software integriert werden. Die Daten in Ihrer Produktionslinie und Supply Chain können effizient von Ihrem SAP, OPC UA Server, Manufacturing Execution System (MES), Qualitätsmanagementsystem und anderen Datenmanagementsystemen (DMS) erfasst werden. </p>
+                <p>Wir nutzen die neuesten Technologien der Datenspeicherung und Rechenserver von IBM Power, Amazon Web Services (AWS) und Microsoft Azure für ein schnelles Training der Modelle und eine flexible Skalierbarkeit Ihrer Data Science Tätigkeiten. </p>
+                <p>Als Experten für IIoT-Kommunikation sowie Architekturen zur Datenerfassung und Echtzeitanalyse, können wir Ihnen sowohl Cloud-basierte als auch lokale Architekturen zur Datenspeicherung anbieten. In Zusammenarbeit mit namenhaften Anbietern von EDGE-Geräten, können wir die Modelle direkt auf Ihren Fertigungsmaschinen bereitstellen. Auf diese Weise können Sie die Datenextraktion und -integration automatisieren - bei schnellsten Datenübertragungsraten und unter Einhaltung höchster Standards in Sachen Datensicherheit.</p>
             </div>
             <br>
             <div class="row">
