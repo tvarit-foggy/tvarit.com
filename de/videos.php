@@ -105,7 +105,7 @@
                                 <img src="img/video-thumb/1.jpg" alt="Thumb 1" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">Tvarit 1- The Industry 4.0 and the challange</div>
+                                <div class="title">Tvarit 1- The Industry 4.0 and the challenge</div>
                             </div>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                                 <img src="img/video-thumb/2.jpg" alt="Thumb 2" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">Tvarit 2- How Tvarit Brigns the change</div>
+                                <div class="title">Tvarit 2- How Tvarit Brign the change</div>
                             </div>
                         </div>
                     </div>
@@ -150,7 +150,7 @@
                                 <img src="img/video-thumb/4.jpg" alt="Thumb 4" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">Tvarit 4- Tvarit has solution for your businesses-USE CAS</div>
+                                <div class="title">Tvarit 4- Tvarit has solution for your businesses-USE CASES</div>
                             </div>
                         </div>
                     </div>
