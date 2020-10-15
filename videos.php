@@ -120,7 +120,8 @@
                                 <img src="img/video-thumb/2.jpg" alt="Video Thumb 2" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">Tvarit 2- How Tvarit Brign the change</div>
+                                <div class="title">Tvarit 2- How Tvarit Bring the change</div>
+
                             </div>
                         </div>
                     </div>
