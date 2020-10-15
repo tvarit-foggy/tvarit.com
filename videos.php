@@ -105,7 +105,7 @@
                                 <img src="img/video-thumb/1.jpg" alt="Video Thumb 1" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">Tvarit 1- The Industry 4.0 and the challenge</div>
+                                <div class="title">Tvarit 1- The Industry 4.0 And The Challenge</div>
                             </div>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                                 <img src="img/video-thumb/2.jpg" alt="Video Thumb 2" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">Tvarit 2- How Tvarit Bring the change</div>
+                                <div class="title">Tvarit 2- How Tvarit Brings The Change</div>
 
                             </div>
                         </div>
@@ -136,7 +136,7 @@
                                 <img src="img/video-thumb/3.jpg" alt="Video Thumb 3" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">Tvarit 3- How team at Tvarit makes it happen</div>
+                                <div class="title">Tvarit 3- How The Team At Tvarit Makes It Happen</div>
                             </div>
                         </div>
                     </div>
@@ -151,7 +151,7 @@
                                 <img src="img/video-thumb/4.jpg" alt="Video Thumb 4" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">Tvarit 4- Tvarit has solution for your businesses-USE CASES</div>
+                                <div class="title">Tvarit 4- Tvarit Has Solutions For Your Business Use-Cases</div>
                             </div>
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                                 <img src="img/video-thumb/5.jpg" alt="Video Thumb 5" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">Tvarit 5- What makes Our software unique</div>
+                                <div class="title">Tvarit 5- What Makes Our Software Unique</div>
                             </div>
                         </div>
                     </div>
@@ -181,7 +181,7 @@
                                 <img src="img/video-thumb/6.jpg" alt="Video Thumb 6" class="img-fluid">
                             </div>
                             <div class="content">
-                                <div class="title">6- Choose APA and become the industry leader</div>
+                                <div class="title">6- Choose APA And Become The Industry Leader</div>
                             </div>
                         </div>
                     </div>
