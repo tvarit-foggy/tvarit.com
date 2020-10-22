@@ -12,7 +12,7 @@
 4. For every new issue create a new branch
     ```
     git fetch upstream
-    git checkout upstream/develop
+    git checkout upstream/beta
     git checkout -b <new branch name>
     ```
 5. Make your changes

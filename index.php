@@ -53,7 +53,7 @@
         content="SPS – Smart Production Solutions, Nuremberg, NürnbergMesse, Components, Control Technology, Drive Systems, Electromechanical Components, Human-Machine-Interface Devices, Industrial Communication, Industrial Software, Interface Technology, IPCs, Motion Control, Peripheral Equipment, Sensor Technology, " />
     <!-- Favicons -->
     <link rel="icon" href="./img/favicon.png">
-    <title>Tvarit AI</title>
+    <title>Tvarit Industrial AI</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -110,8 +110,8 @@
                                 <span>INDUSTRIAL <span class="red">AI</span> </span>
                             </div>
                             <div id="prgf-strings" class="stringText">
-                                <span>Fast and customized solutions for all your manufacturing problems and data science
-                                    needs</span>
+                                <span><h1>Fast and customized solutions for all your manufacturing problems and data science
+                                    needs</h1></span>
                             </div>
                             <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
                             <div class="hdr-industrial" id="typed-industrial"></div>
@@ -180,6 +180,12 @@
             <div class="centerTitle sec-mainTitle">
                 AI Solutions
             </div>
+            <h4 class="subHeader">Increase profitability with predictive quality, predictive maintenance and dynamic recipes.
+            </h4>
+            <p class="text-p" style="text-align: center;">The TVARIT Industrial Artificial Intelligence (TIA) software is a ready-to-use state-of-the-art Smart Factory and Digital Twin Software. Receive in depth insights based on the analysis of machine data, sensor data, manufacturing execution systems data, laboratory information management systems data and ERP data.</p> 
+            <p class="text-p" style="text-align: center;">Get the relevant information in customized and user-oriented dashboards – whether you are an executive, plant manager, quality manager, shop floor engineer or technologist.  Monitor key parameter indicators (KPI) such as machine availability, quality rate and performance (Overall equipment effectiveness) in real-time and prevent quality deviations and machine breakdowns with the help of predictive analytics.</p> 
+            <p class="text-p" style="text-align: center;">Furthermore, prescriptive dynamic recipes provide you with actionable recommendations for process optimization. Keep track of all the important incidents with notification and alerts. Overall, TIA enables you to optimize OEE, reduce scrap, increase efficiency and improve machine availability. Finally, this leads to reduced costs, increased production output as well as an optimized usage of manpower, machines and material.  </p>
+            <p class="text-p" style="text-align: center;">Some of the most relevant implemented use-cases are:</p>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
                 <br>
@@ -306,7 +312,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                        We provide fast and customizable AI solutions for descrete and process manufacturing that have been built and designed on the basis of more than 34 years of experience in fortune 500 manufacturing companies. Continuously improving our solutions and heavily investing into R&D, we have been awarded for the most advanced AI algorithms and ready to use AI modules - developed to solve all you complex manaufacturing challenges and needs.</p>
+                       We provide customizable and ready-to-use data science and AI software solutions for discrete and process manufacturing which have been built and designed based on several years of experience in working with manufacturing companies and production facilities. At the core of the user-oriented frontend and dashboards of our software works our algorithmic framework. As we continuously invest into Research and Development, this framework consists of more than 160 algorithmic modules for all steps of data science activities in the manufacturing industry. Recently, we were awarded by the European Data Incubator as one of the best AI companies in Europe.</p>
                         <br>
                     </div>
 
@@ -327,6 +333,12 @@
             <div class="centerTitle">
                 <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
                 <div class="sec-mainTitle">Manufacturing companies</div>
+                <h4 class="subHeader">
+                    We seamlessly extract and integrate your production data to ensure that you get fast &amp; secure analytics and predictions
+                </h4>
+                <p class="text-p">No matter where your data is collected and stored, we can easily integrate it from machines via SCADA, Industrial Internet of Things (IIoT) service providers and edge devices. The data across your production line and supply chain can be efficiently collected from your SAP, OPC UA server, Manufacturing execution systems, Laboratory information management systems and other data management systems.</p>
+                <p class="text-p">We use the latest technology of data storage and compute stack of IBM Power, Amazon Web Services (AWS) and Microsoft Azure for a fast training of the models and a flexible scalability of your data science operations.</p>
+                <p class="text-p">Being experts for IIoT communication and solution architectures for data collection and real-time analytics, we can supply you with cloud based as well as on-premise data architectures. Partnering with edge device providers, we can directly deploy the models onto your devices. This enables you to automate the data extraction and integration ensuring a fast communication as well as the highest standards of data security and communication protocols.</p>
             </div>
             <br>
             <div class="row">
@@ -511,7 +523,7 @@
     <script src="js/indexSlider.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
-    <script src="js/SmoothScroll.js"></script>
+    <!--<script src="js/SmoothScroll.js"></script>-->
     <script src="js/flickity.pkgd.min.js"></script>
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>
