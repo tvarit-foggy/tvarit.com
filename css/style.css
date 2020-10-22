@@ -2720,5 +2720,12 @@ a .tvarit-black:hover {
         color: black !important;
     }
 
+@media only screen and (max-width: 768px) {
+  .hdr-tvarit {
+    margin-top:40px;
+  }
+  .rw-words-1 span{display:block;}
+  .hdr-prgf2r .rw-words-1{text-align:center;}
+}
     #typed-prgf h1{font-size: 24px;}
     .subHeader{font-size:20px; text-align:center; font-weight:700; margin-bottom:30px; margin-top:12px;}
