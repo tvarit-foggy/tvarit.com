@@ -2718,3 +2718,11 @@ a .tvarit-black:hover {
     .main-menu .navbar-nav .nav-item .nav-link:hover, .fixed-menu.sticky .navbar-nav .nav-item a.nav-link.nav-link-seprator:hover {
         color: black !important;
     }
+
+@media only screen and (max-width: 768px) {
+  .hdr-tvarit {
+    margin-top:40px;
+  }
+  .rw-words-1 span{display:block;}
+  .hdr-prgf2r .rw-words-1{text-align:center;}
+}
