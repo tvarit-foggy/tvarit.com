@@ -243,7 +243,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="column">
+                <!--<div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/tobias_hammer.png" alt="tobias"
@@ -265,6 +265,26 @@
                                 <li>Background in Product Management, Manufacturing and Online Marketing.</li>
                             </ul>
 
+                        </div>
+                    </div>
+                </div>-->
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/tobias-gundermann.png" alt="tobias gundermann"
+                                style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Tobias Gundermann</h4>
+                            <h6 class="title">Customer Success Manager</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>Bridge between customers and team</li>
+                                <li>Work experience from ZF and Porsche</li>
+                            </ul>
+                            <div class="social-icon">
+
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -330,28 +350,6 @@
             </div> -->
 
             <div class="row">
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/tobias-gundermann.png" alt="tobias gundermann"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Tobias Gundermann</h4>
-                            <h6 class="title">Customer Success Manager</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Bridge between customers and team</li>
-                                <li>Work experience from ZF and Porsche</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
