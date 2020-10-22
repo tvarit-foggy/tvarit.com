@@ -170,6 +170,11 @@
             <div class="centerTitle sec-mainTitle"> 
                 KI LÖSUNGEN
             </div>
+            <h4 class="subHeader">Erhöhen Sie Ihre Profitabilität mit Hilfe von predictive Quality, predictive Maintenance und dynamischen Rezepten.</h4>
+            <p class="text-p" style="text-align: center;">Die TVARIT Industrial Artificial Intelligence Software (TIA) ist eine benutzerfreundliche und technisch hochmoderne Smart Factory und Digital Twin Software. Erhalten Sie detaillierte Einblicke auf Grundlage der Analyse von Maschinendaten, Sensordaten, sowie Daten von Manufacturing Execution Systemen (MES), Qualitätsmanagementsystemen und ERP-Systemen. In anpassbaren und anwenderorientierten Dashboards werden Ihnen die relevantesten Informationen übersichtlich dargestellt - egal ob für Führungskräfte, Betriebsleiter, Qualitätsmanager, Fertigungsingenieure oder Technologen. </p>
+            <p class="text-p" style="text-align: center;">Überwachen Sie Ihre wichtigsten Kennzahlen (KPI) wie Maschinenverfügbarkeit, Qualitätsrate und Leistung (Gesamtanlageneffektivität) in nahezu Echtzeit und verhindern Sie Qualitätsabweichungen und Maschinenausfälle mit Hilfe von prädiktiven Analysen. Darüber hinaus liefern Ihnen präskriptive dynamische Rezepte konkrete Empfehlungen zur Prozessoptimierung. Mit Hilfe von anpassbaren Benachrichtigung und Warnmeldungen behalten Sie wichtige Vorfälle im Blick.</p>
+            <p class="text-p" style="text-align: center;">Mit TIA können Sie die Gesamtanlageneffektivität optimieren, Ausschuss reduzieren, die Effizienz steigern und die Maschinenverfügbarkeit verbessern. Dadurch können Kosten reduziert, das Produktionsvolumen erhöht und der Einsatz von Arbeitskräften, Maschinen und Material optimiert werden. </p>
+            <p class="text-p" style="text-align: center;">Einige der relevantesten implementierten Anwendungsfälle sind:</p>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
             <div class="col-lg-3">
@@ -192,7 +197,7 @@
                                 </li>
                             </ul>
                             <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" target="_blank"
-                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know More</a>
+                                class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren</a>
                         </div>
                     </div>
                 </div>
@@ -217,8 +222,7 @@
                                 </li>
                             </ul>
                             <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
-                            style="padding: 12px !important"> Know
-                                More</a>
+                            style="padding: 12px !important"> Mehr erfahren</a>
                         </div>
                     </div>
                 </div>
@@ -242,8 +246,8 @@
                                 Live-Dashboard mit prädiktiven Warnmeldungen
                                 </li>
                             </ul>
-                            <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
-                                More</a>
+                            <a href="predictive-maintenance-for-industrial-electric-motors" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -266,8 +270,8 @@
                                 Echtzeit Blick in die Produktion
                                 </li>
                             </ul>
-                            <a href="predictive-quality-for-die-casting-machines" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Know
-                                More</a>
+                            <a href="predictive-quality-for-die-casting-machines" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" style="padding: 12px !important">Mehr erfahren
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -295,7 +299,8 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                        Wir bieten schnelle und anpassbare KI Lösungen für die diskrete und kontinuierliche Fertigung, die auf der Grundlage von mehr als 34 Jahren Erfahrung in Fortune-500-Fertigungsunternehmen entwickelt und konzipiert wurden. Auf Basis der umfassenden Erkenntnisse unser Forschungs- und Entwicklungsaktivitäten entwickeln und optimieren wir unsere Lösungen stets weiter und erhielten bereits mehrere Auszeichnungen für unsere fortschrittlichen KI-Algorithmen und Module - speziell entwickelt für den Einsatz in Ihrer Fertigung.                        <br>
+                        Wir bieten anpassbare und einsatzbereite Data Science- und KI-Softwarelösungen für die Fertigungsindustrie. Diese wurden auf der Grundlage mehrjähriger Erfahrung in der Zusammenarbeit mit Fertigungsunternehmen und Produktionseinrichtungen entwickelt. Im Zentrum der anwenderfreundlichen Benutzeroberfläche und Dashboards unserer Software steht unser algorithmisches Framework. Da wir kontinuierlich in Forschung und Entwicklung investieren, wird dieses Framework kontinuierlich erweitert und besteht aus mehr als 160 algorithmischen Modulen für alle Schritte von Data Science Projekten in der Fertigungsindustrie. Für unsere Technologie wurden wir kürzlich vom European Data Incubator als eines der besten KI-Unternehmen in ganz Europa ausgezeichnet.</p>                     
+                        <br>
                     </div>
 
                 </div>
@@ -315,6 +320,12 @@
             <div class="centerTitle">
                 <h3 class="bold text-center red mb-0">Wir beherrschen alle Sprachen von </h3>
                 <div class="sec-mainTitle">Fertigungsunternehmen</div>
+                <h4 class="subHeader">
+                    Erhalten Sie schnellste Analysen und Vohersagen bei reibungsloser Extraktion Ihrer Produktionsdaten und höchster Datensicherheit. 
+                </h4>
+                <p class="text-p">Unabhängig davon, wo Ihre Daten erfasst und gespeichert werden, können diese von Maschinen über SCADA, sowie mit Hilfe von Industrial Internet of Things (IIoT) Service-Anbietern und EDGE-Geräten in unsere Software integriert werden. Die Daten in Ihrer Produktionslinie und Supply Chain können effizient von Ihrem SAP, OPC UA Server, Manufacturing Execution System (MES), Qualitätsmanagementsystem und anderen Datenmanagementsystemen (DMS) erfasst werden. </p>
+                <p class="text-p">Wir nutzen die neuesten Technologien der Datenspeicherung und Rechenserver von IBM Power, Amazon Web Services (AWS) und Microsoft Azure für ein schnelles Training der Modelle und eine flexible Skalierbarkeit Ihrer Data Science Tätigkeiten. </p>
+                <p class="text-p">Als Experten für IIoT-Kommunikation sowie Architekturen zur Datenerfassung und Echtzeitanalyse, können wir Ihnen sowohl Cloud-basierte als auch lokale Architekturen zur Datenspeicherung anbieten. In Zusammenarbeit mit namenhaften Anbietern von EDGE-Geräten, können wir die Modelle direkt auf Ihren Fertigungsmaschinen bereitstellen. Auf diese Weise können Sie die Datenextraktion und -integration automatisieren - bei schnellsten Datenübertragungsraten und unter Einhaltung höchster Standards in Sachen Datensicherheit.</p>
             </div>
             <br>
             <div class="row">
@@ -489,7 +500,7 @@
     <script src="js/indexSlider.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
-    <script src="js/SmoothScroll.js"></script>
+    <!--<script src="js/SmoothScroll.js"></script>-->
     <script src="js/flickity.pkgd.min.js"></script>
     <script src="js/readmore.js"></script>
     <script src="js/counting.js"></script>

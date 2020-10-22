@@ -21,7 +21,7 @@
 <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand bold uppr" href="..">
-                <img src="img/logo.png" alt="logo" class="img-fluid">
+                <img alt="Tvarit Industrial AI" src="img/tvarit-logo.svg" class="img-fluid">
             </a>
 
             <a href="javascript://" class="menu-togglebar">
