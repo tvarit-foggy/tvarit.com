@@ -377,11 +377,11 @@
                         <img src="img/HomeAiLogo/7.png" alt="Manufacturing 7" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-3 col-sm-6">
+                <!-- <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
                         <img src="img/HomeAiLogo/8.png" alt="Manufacturing 8" class="img-fluid">
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
                         <img src="img/HomeAiLogo/9.png" alt="Manufacturing 9" class="img-fluid">
