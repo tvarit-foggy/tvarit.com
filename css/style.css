@@ -2720,10 +2720,7 @@ a .tvarit-black:hover {
         color: black !important;
     }
 
-
-
 /*additonal media quries*/
-
 @media only screen and (max-width: 768px) {
   .hdr-tvarit {
     margin-top:40px;
@@ -2742,4 +2739,3 @@ a .tvarit-black:hover {
 
     #typed-prgf h1{font-size: 24px;}
     .subHeader{font-size:20px; text-align:center; font-weight:700; margin-bottom:30px; margin-top:12px;}
-
