@@ -5,7 +5,7 @@
   $company = $_POST["company"];
   $phone = $_POST["phone"];
   $page = trim($_GET["page"]);
-  $to = "$email";
+  $to = $email;
   $downloadLinks = "";
   $downloadLinksOther = "";
 
