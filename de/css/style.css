@@ -2699,8 +2699,7 @@ height: 0px !important;
 .main-menu .navbar-nav .nav-item .nav-link:hover, .fixed-menu.sticky .navbar-nav .nav-item a.nav-link.nav-link-seprator:hover {
     color: black !important;
 }
-#typed-prgf h1{font-size: 24px;}
-.subHeader{font-size:20 px; text-align:center; font-weight:700; margin-bottom:30px; margin-top:12px;}
+
 @media only screen and (max-width: 768px) {
   .hdr-tvarit {
     margin-top:40px;
@@ -2716,3 +2715,6 @@ height: 0px !important;
     margin-bottom: 15px;
     display: block;
 }
+    #typed-prgf h1{font-size: 24px;}
+    .subHeader{font-size:20px; text-align:center; font-weight:700; margin-bottom:30px; margin-top:12px;}
+

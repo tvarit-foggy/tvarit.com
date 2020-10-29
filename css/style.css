@@ -2720,6 +2720,7 @@ a .tvarit-black:hover {
         color: black !important;
     }
 
+/*additonal media quries*/
 @media only screen and (max-width: 768px) {
   .hdr-tvarit {
     margin-top:40px;
