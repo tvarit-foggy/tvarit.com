@@ -72,16 +72,16 @@
 
             <br>
 
-            <p class="text-medium fw-700">
+            <p class="text-medium">
                 Artificial Intelligence (AI) has shown promising results in connected and already digital industries such as media and advertising, finance and retail. AI is entering many new fields at a high pace, and with its high impact on the environment, the manufacturing industry is one of the essential fields for the application of AI. Industrial AI, often termed as Industry 4.0, can increase production efficiency while bringing down manufacturing scrap and advancing towards a much cleaner environment.
             </p>
-            <p class="text-medium fw-700">
+            <p class="text-medium">
                 According to McKinsey1, AI-enabled work in Germany's industrial sector could raise productivity by 0.8% to 1.4% annually and reduce overall maintenance costs by up to 10%. These productivity improvement goals require not only training AI/ML models on historical datasets but also taking corrective action items to improve the processes in real-time, which is referred to as "Intelligence on the Edge". However, in today's scenario, most of the manufacturing companies still don't have large bandwidth and high-speed connections, which are essential for making "Edge AI" the most relevant technology of the future.
             </p>
 
             <br>
             <h5 class="red">What is Edge AI:</h5>
-            <p class="text-medium fw-700">
+            <p class="text-medium">
                 "AI on the Edge" or "Edge AI" refers to the ability of machines to sense and react to their dynamic environment. With vast amounts of data being generated from hundreds of sensors on each machine, it is challenging to transfer the enormous volume of high-frequency data over the cloud. The setup is costly, has chances of data loss in the high-frequency data, and does not guarantee stability. Gartner2 states that today, around 90% of the data generated is processed in the cloud or traditional data centres, but this figure will reduce to only 25% by 2025, making edge AI the most exciting technology of the future. 
             </p>
             <h4>Why Edge AI for Industrial Applications:</h4>
@@ -121,7 +121,9 @@
                 TwinCAT 3 enables seamless integration of Machine Learning (ML) solutions into PC-based control applications, that run in real-time to handle highly demanding tasks like motion control. These capabilities provide product and equipment manufacturers with tailored Industry 4.0 and IoT applications, resulting in numerous advantages in terms of costs, process efficiency and quality. The cutting-edge industry-ready technology makes Beckhoff a market leader among many players in the industrial automation domain.
             </p>
             <br>
-            <img src="../img/beckhoff.jpg" alt="beckhoff" alt="backhoff">
+            <span style="display: block; text-align: center;">
+                <img src="../img/beckhoff.jpg" alt="beckhoff" class="img-fluid">
+            </span>
             <br>
             <br>
             <h5 class="red">Industrial Motor Application:</h5>
@@ -133,7 +135,9 @@
                The motor has close to 80 sensors connected to the TwinCAT 3’s automation platform, which log the measurements every 10 milliseconds using Beckhoff's TC3 Data Agent and TC3 Analytics Logger. The readings such as drive current, voltage, temperature, torque, etc. collected are transmitted to the storage centers via the Beckhoff's EtherCAT, for further analysis and modelling with Tvarit's Automatic Predictive Analytics (APA) platform.
             </p>
             <br>
-            <img src="../img/backhoff-tvarit.jpg" alt="beckhoff-tvarit" alt="backhoff tvarit">
+            <span style="display: block; text-align: center;">
+                <img src="../img/backhoff-tvarit.jpg" alt="beckhoff-tvarit" class="img-fluid">
+            </span>
             <br>
             <br>
             <p class="text-p">
@@ -172,10 +176,11 @@
                                     </div>
                                 </div>
                                 <div class="short-line-team bg-red"></div>
-                                <i class="fa fa-envelope red"></i>
-                                <a href="mailto:rahul@tvarit.com"> rahul@tvarit.com</a>
+                                <a href="mailto:rahul@tvarit.com"  style="color:#000; text-decoration: underline;">
+                                    <i class="fa fa-envelope red"></i>
+                                 rahul@tvarit.com</a>
                                 
-                                <p><i class="fa fa-phone red"></i> +49 1514 3507262</p>
+                                <p><a href="tel:+49 1514 3507262"  style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 1514 3507262</a></p>
                             </div>
                         </div>
                     </div>
@@ -198,10 +203,11 @@
                                     </div>
                                 </div>
                                 <div class="short-line-team bg-red"></div>
+                                <a href="mailto:juergen.halt@tvarit.com"  style="color:#000; text-decoration: underline;">
                                 <i class="fa fa-envelope red"></i>
-                                <a href="mailto:juergen.halt@tvarit.com">juergen.halt@tvarit.com</a>
+                                juergen.halt@tvarit.com</a>
                                 
-                                <p><i class="fa fa-phone red"></i> +49 1514 3507262</p>
+                                <p><a href="tel:+49 1514 3507262"  style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 1514 3507262</a></p>
                             </div>
                         </div>
                     </div>
@@ -223,10 +229,11 @@
                                     </div>
                                 </div>
                                 <div class="short-line-team bg-red"></div>
+                                <a href="mailto:f.bause@beckhoff.com" style="color:#000; text-decoration: underline;">
                                 <i class="fa fa-envelope red"></i>
-                                <a href="mailto:f.bause@beckhoff.com">f.bause@beckhoff.com</a>
+                                f.bause@beckhoff.com</a>
                                 
-                                <p><i class="fa fa-phone red"></i> +49 5246 963 5349</p>
+                                <p><a href="tel:+49 5246 963 5349" style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 5246 963 5349</a></p>
                             </div>
                         </div>
                     </div>
