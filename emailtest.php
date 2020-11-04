@@ -15,9 +15,9 @@
   $mail->Password   = $mail_password;
 
   $mail->IsHTML(true);
-  $mail->AddAddress($mail_from, "indra kp");
-  $mail->SetFrom($mail_from, "INDRA A");
-  $mail->AddReplyTo("indrakumarprajapat@gmail.com", "indrakkk");
+  $mail->AddAddress($mail_from, "Sumesh");
+  $mail->SetFrom($mail_from, "Sumesh");
+  $mail->AddReplyTo("sumesh.surendran@tvarit.com", "Sumesh");
 //   $mail->AddCC("cc-recipient-email", "cc-recipient-name");
   $mail->Subject = "Test is Test Email sent via Gmail SMTP Server using PHP Mailer";
   $content = "<b>This is a Test Email sent via Gmail SMTP Server using PHP mailer class.</b>";
