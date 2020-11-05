@@ -65,7 +65,7 @@
 
 
 
-    <div class="section-padding-both" id="Philanthropy">
+    <div class="section-padding-both" id="Philanthropy" style="text-align: justify;">
         <div class="container" style="padding-right:0px; padding-left:0px">
             <div class="white-box-shadow">
                 <div class="centerTitle">

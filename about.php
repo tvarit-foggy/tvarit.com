@@ -80,13 +80,13 @@
                         <div>
                             <p class="text-p txt-justify" style="width:90%">
 
-                                We are German company based in Frankfurt, Germany. We build and provide AI solutions to
+                                We are a German company based in Frankfurt, Germany. We build and provide AI solutions to
                                 solve all
                                 kinds of manufacturing problems and data science needs. We enable businesses to make
                                 smart and
                                 informed decisions by deriving actionable and valuable insights from a sea of data.
 
-                                We provide Ai Solutions, AI framework and AI consulting services to successfully
+                                We provide AI Solutions, AI framework and AI consulting services to successfully
                                 complete
                                 your all AI and data science projects.
 

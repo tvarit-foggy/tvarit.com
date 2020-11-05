@@ -10,7 +10,7 @@
         <div class="col-md-6">
             <div class="automtv-carousel">
                 <div class="carousel-cell">
-                    <a href="automotive" class="automBox">
+                    <a href="../automotive" class="automBox">
                         <div class="automPic">
                             <img src="img/pic-1.jpg" alt="Automotive" class="img-fluid">
                         </div>
@@ -23,7 +23,7 @@
 
 
                 <div class="carousel-cell">
-                    <a href="chemicals" class="automBox">
+                    <a href="../chemicals" class="automBox">
                         <div class="automPic">
                             <img src="img/pic-3.jpg" alt="Chemicals" class="img-fluid">
                         </div>
@@ -35,7 +35,7 @@
                 </div>
 
                 <div class="carousel-cell">
-                    <a href="construction" class="automBox">
+                    <a href="../construction" class="automBox">
                         <div class="automPic">
                             <img src="img/pic-4.jpg" alt="Construction" class="img-fluid">
                         </div>
@@ -47,7 +47,7 @@
                 </div>
 
                 <div class="carousel-cell">
-                    <a href="industrial_machinery" class="automBox">
+                    <a href="../industrial_machinery" class="automBox">
                         <div class="automPic">
                             <img src="img/pic-5.jpg" alt="Industrial Machinery" class="img-fluid">
                         </div>
@@ -59,7 +59,7 @@
                 </div>
 
                 <div class="carousel-cell">
-                    <a href="oil_gas" class="automBox">
+                    <a href="../oil_gas" class="automBox">
                         <div class="automPic">
                             <img src="img/pic-6.jpg" alt="Oil & Gas" class="img-fluid">
                         </div>
@@ -71,7 +71,7 @@
                 </div>
 
                 <div class="carousel-cell">
-                    <a href="steel" class="automBox">
+                    <a href="../steel" class="automBox">
                         <div class="automPic">
                             <img src="img/pic-8.jpg" alt="Steel" class="img-fluid">
                         </div>
