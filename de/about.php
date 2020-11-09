@@ -71,10 +71,10 @@
                 <div class="col-md-6" style="margin-top:45px;">
                     <div class="typography">
                         <div class="text-1">
-                            <span class="tvarit-black">Who <span class="color"></span>
+                            <span class="tvarit-black">Wer <span class="color"></span>
                         </div>
                         <div class="text-big60 red">
-                            we are?
+                            wir sind?
                         </div>
                         <br>
                         <div>
@@ -84,9 +84,7 @@
                                 Anforderungen. Wir ermöglichen es Unternehmen, intelligente und fundierte Entscheidungen
                                 zu treffen, indem wir aus einem Meer von Daten verwertbare und wertvolle Erkenntnisse
                                 ableiten. Hierfür bieten wir einsatzbereite KI-Lösungen, unsere KI-Plattform und
-                                KI-Beratungsdienste zur erfolgreichen Umsetzung von Data Science und KI-Projekten. In
-                                letzter Zeit haben wir viele renommierte Auszeichnungen erhalten, in denen wir unter
-                                anderem als eines der innovativsten KI-Unternehmen in ganz Europa ausgezeichnet wurden.
+                                KI-Beratungsdienste zur erfolgreichen Umsetzung von Data Science und KI-Projekten. In letzter Zeit haben wir viele renommierte Auszeichnungen erhalten, die uns unter anderem als eines der innovativsten KI-Unternehmen in ganz Europa ausgezeichnen..
                             </p>
                         </div>
 
@@ -195,7 +193,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="column">
+                <!--<div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/tobias-gundermann.png" alt="Tobias Gundermann"
@@ -216,8 +214,31 @@
 
                     </div>
 
+                </div>-->
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+
+                            <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Kamal Galrani</h4>
+                            <h6 class="title">Director Data Science</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>Daten-Experte und Amateur-Physiker.</li>
+                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie-Institut: IIT Bombay
+                                </li>
+                                <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
+                            </ul>
+                            <div class="social-icon">
+
+                            </div>
+                        </div>
+
+                    </div>
+
                 </div>
-                
 
             </div>
 
@@ -281,30 +302,7 @@
             </div> -->
 
             <div class="row">
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-
-                            <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Kamal Galrani</h4>
-                            <h6 class="title">Director Data Science</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Daten-Experte und Amateur-Physiker.</li>
-                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie-Institut: IIT Bombay
-                                </li>
-                                <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
+                
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">

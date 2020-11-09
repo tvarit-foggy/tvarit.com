@@ -110,8 +110,8 @@
                     </div>
                     <div class="col-lg">
                         <div class="p-lg-4 pt-4 text-lg-left">
+                            <h6 style="font-weight:800;">Schlechte und verunreinigte Daten können verschiedene Ursachen haben:</h6>
                             <ul class="ul-list-bullet">
-                                <li>Schlechte und verunreinigte Daten können verschiedene Ursachen haben:</li>
                                 <li>Fehler in der SPS aufgrund von Stromausfällen, die zu fehlenden Daten führen.</li>
                                 <li>Falsche Konfiguration von Maschinensteuerungen führt zu unzulässigen Werten für einen Sensor.</li>
                                 <li>Netzwerkprobleme wie 3G, 4G, Wi-Fi usw. führen zu unvollständigen Daten.</li>
@@ -129,7 +129,7 @@
                 so dass die Kombination der Daten zu Protokollen mit schlechten Daten führt.
                 </p>
                 <p class="text-p">
-                Für den Umgang mit schlechter Datenqualität und fehlerhaften Daten setzen wir unser leistungsfähiges Toolkit ein. Es enthält vorprogrammierte algorithmische Module zur Datenbereinigung, wie z.B. Sanity Checks, die automatisierte Bereinigung fehlender Daten, Multikollinearitätsanalysen, Mahalanobis-Abstand, Überprüfung der Datenverteilung, Ableitung des Best Buckets usw. Nach der Bereinigung der Daten werden bei der Anwendung der ML/DL-Algorithmen präzise Ergebnisse erzielt. Daher sind konsistente Daten für eine zuverlässige Entscheidungsfindung unerlässlich. Wir bei Tvarit bereinigen die Daten so akkurate wie möglich, um die bestmögliche Lösung zu erhalten.
+                Für den Umgang mit schlechter Datenqualität und fehlerhaften Daten setzen wir unser leistungsfähiges Toolkit ein. Es enthält vorprogrammierte algorithmische Module zur Datenbereinigung, wie z.B. Sanity Checks, die automatisierte Bereinigung fehlender Daten, Multikollinearitätsanalysen, Mahalanobis-Abstand, Überprüfung der Datenverteilung, Ableitung des Best Buckets usw. Nach der Bereinigung der Daten werden bei der Anwendung der ML/DL-Algorithmen präzise Ergebnisse erzielt. Daher sind konsistente Daten für eine zuverlässige Entscheidungsfindung unerlässlich. Wir bei Tvarit bereinigen die Daten so akkurat wie möglich, um die bestmögliche Lösung zu erhalten.
                 </p>
               </div>
             </div>

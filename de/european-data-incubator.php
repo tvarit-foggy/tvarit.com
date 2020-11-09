@@ -66,8 +66,8 @@
     <!------------------------ Automotives start --------------------->
     <div class="section-padding-both-2x" id="downClick">
         <div class="container">
-            <div class="text-big40">
-            TVARIT GMBH: AUSGEZEICHNET VOM EUROPEAN DATA INCUBATOR (EDI) ALS EINES DER INNOVATIVSTEN INDUSTRIELLEN KI UNTERNEHMEN IN GANZ EUROPA
+            <div class="text-big40" style="font-size:30px;">
+            TVARIT GMBH: AUSGEZEICHNET VOM EUROPEAN DATA INCUBATOR (EDI) <br><span style="font-size:26px; font-weight:400;">EINES DER INNOVATIVSTEN INDUSTRIELLEN KI UNTERNEHMEN IN GANZ EUROPA</span>
             </div>
             <br>
             <div class="col-md-12 row">
@@ -93,13 +93,12 @@
             <p class="text-p p-content-justify">
             Zudem visualisierte Tvarit die Ergebnisse der Analysen in individuellen Dashboards, 
             sodass der Kunde alle relevanten KPIs sehen kann, um die Leistung der Geschäfte zu messen und zu vergleichen. 
-            Prädiktive Analysen schätzen die Korbgröße und die Nachfrage für jede Kategorie bis zu 10 Tage im Voraus und präskriptive Analysen, geben konkrete 
-            Vorschläge, welche Umgebungsbedingungen, Rabatte und Preise der Kunde einhalten sollte, um den Umsatz zu steigern. Tvarit hat eine komplette und echte KI-Lösung für Einzelhandelsunternehmen entwickelt, indem es alle wichtigen Geschäftsprozesse mit Hilfe seines Domänenwissens und seiner KI-Expertise verknüpft hat.
+            Prädiktive Analysen schätzen die Korbgröße und die Nachfrage für jede Kategorie bis zu 10 Tage im Voraus und präskriptive Analysen, geben konkrete Vorschläge, welche Umgebungsbedingungen, Rabatte und Preise der Kunde einhalten sollte, um den Umsatz zu steigern. Tvarit hat eine komplette und echte KI-Lösung für Einzelhandelsunternehmen entwickelt, indem es alle wichtigen Geschäftsprozesse mit Hilfe seines Domänenwissens und seiner KI-Expertise verknüpft hat.
             </p>
             <p class="text-p p-content-justify">
             Für die KI-Lösung wurde Tvarit vom EDI als einer der 8 Gewinner unter 490 KI-Unternehmen aus ganz Europa ausgezeichnet. 
             Hierfür wurde die Lösung sowohl in technischer als auch in geschäftlicher Hinsicht umfassend bewertet. 
-            Infolgedessen wird Tvarit an der letzten Phase des EDI-Inkubators, nämlich EVOLVE, teilnehmen, wo das Unternehmen 100.000 Euro an eigenkapitalfreier Finanzierung erhalten wird, um diese Lösung in eine marktfähige Lösung zu verwandeln.
+            Infolgedessen wird Tvarit an der letzten Phase des EDI-Inkubators - EVOLVE - teilnehmen. Hierbei wird das Unternehmen 100.000 Euro an eigenkapitalfreier Finanzierung erhalten, um diese Lösung in eine marktfähige Lösung zu verwandeln.
             </p>
             <p class="text-p p-content-justify">
             Weitere Informationen erhalten Sie unter <a target="_blank"
