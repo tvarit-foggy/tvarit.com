@@ -79,14 +79,7 @@
                         <br>
                         <div>
                             <p class="text-p txt-justify" style="width:90%">
-                                Wir sind ein deutsches Unternehmen mit Sitz in Frankfurt und entwickeln individuelle
-                                KI-Lösungen für alle Arten von Fertigungsproblemen und datenwissenschaftlichen
-                                Anforderungen. Wir ermöglichen es Unternehmen, intelligente und fundierte Entscheidungen
-                                zu treffen, indem wir aus einem Meer von Daten verwertbare und wertvolle Erkenntnisse
-                                ableiten. Hierfür bieten wir einsatzbereite KI-Lösungen, unsere KI-Plattform und
-                                KI-Beratungsdienste zur erfolgreichen Umsetzung von Data Science und KI-Projekten. In
-                                letzter Zeit haben wir viele renommierte Auszeichnungen erhalten, in denen wir unter
-                                anderem als eines der innovativsten KI-Unternehmen in ganz Europa ausgezeichnet wurden.
+                               Wir glauben daran, dass es eine Grundtugend ist, bestehende Prozesse in Frage zu stellen und durch die Nutzung neuer Technologien besser zu werden. Der natürliche "Schwund" an wertvollen Unternehmensressourcen, hervorgerufen durch Wartungskosten, Ausschuss, Energie- und Qualitätsprobleme sowie die ineffiziente Verwaltung von Beständen, ist kein Status Quo, mit dem wir uns zufriedengeben. ​ Deshalb arbeiten wir mit unserer “Werkzeugbox” an über 160 eigens entwickelten algorithmischen Modulen, um mit Data Science und maschinellem Lernen wertvolle Erkenntnisse aus der zunehmenden Menge an industriellen Daten zu ziehen. ​ Dafür entwickeln wir benutzerfreundliche Software-Produkte, die es unseren Kunden ermöglichen, drohende Ausfälle und Qualitätsabweichungen frühzeitig zu erkennen, pro-aktiv zu handeln und datenbasiert bessere Entscheidungen zu treffen.
                             </p>
                         </div>
 
@@ -130,9 +123,7 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>14 Jahre Erfahrung im Aufbau von Start-Ups</li>
-                                <li>Arbeitete mit Fortune-500-Unternehmen zb. Intel und Qualcomm </li>
-                                <li> Ex-Präsident TiE Deutschland</li>
+                                <li>15 Jahre Erfahrung beim Aufbau von Start-ups, u.a. neue Fabriken für Chemiefertigung, verdichtete Biobrennstoffe und Verpackungsmaschinen ​ Ehemaliger Präsident TiE Deutschland ​ Umfassende Arbeitserfahrung mit Fortune-500-Unternehmen wie Intel und Qualcomm</li>
                                 <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
@@ -150,9 +141,7 @@
                             <h6 class="title">R&D Director</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Unternehmenstransformation durch F&E</li>
-                                <li>Umfassende Erfahrungen von SAP & HP</li>
-                                <li>Forschungshintergrund vom Fraunhofer Institut</li>
+                                <li>Business Transformation Experte für die Fertigungsindustrie Langjährige Führungspositionen bei SAP and HP Umfangreiche Forschungserfahrungen zusammen mit Fraunhofer Institut und Deutsche Forschungsgemeinschaft (DFG)</li>
                             </ul>
                             <div class="social-icon">
 
@@ -187,9 +176,7 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>M.Tech vom IIT Mumbai & TU Darmstadt</li>
-                                <li>Berufserfahrung bei NASA, NTT, Linde, IFM, etc.</li>
-                                <li> Auszeichnungen von MIT GSW, Harvard-Projekt für Asien</li>
+                                <li>Master of Engineering IIT Mumbai & TU Darmstadt Verschiedene Forschungsprojekte mit NASA, NTT, Linde, IFM Auszeichnungen von MIT GSW, Harvard Projekt Asien "</li>
                             </ul>
 
                         </div>

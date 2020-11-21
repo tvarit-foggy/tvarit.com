@@ -178,9 +178,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>14 years building startups in Germany</li>
-                                <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
-                                <li> Ex-President TiE Deutschland</li>
+                                <li>15 years of experience in building startups including greenfield factories in chemicals,
+densified bio-fuels and packing machine manufacturing Ex-President TiE Deutschland Working
+experience with Fortune 500 firms like Intel & Qualcomm</li>
                                 <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
