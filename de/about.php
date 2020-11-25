@@ -123,7 +123,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>15 Jahre Erfahrung beim Aufbau von Start-ups, u.a. neue Fabriken für Chemiefertigung, verdichtete Biobrennstoffe und Verpackungsmaschinen ​ Ehemaliger Präsident TiE Deutschland ​ Umfassende Arbeitserfahrung mit Fortune-500-Unternehmen wie Intel und Qualcomm</li>
+                                <li> 15 Jahre Erfahrung beim Aufbau von Start-ups, u.a. neue Fabriken für Chemiefertigung, verdichtete Biobrennstoffe und Verpackungsmaschinen</li>
+                                <li> Ehemaliger Präsident TiE Deutschland</li>
+                                <li> Umfassende Arbeitserfahrung mit Fortune-500-Unternehmen wie Intel und Qualcomm</li>
                                 <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
@@ -141,7 +143,9 @@
                             <h6 class="title">R&D Director</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Business Transformation Experte für die Fertigungsindustrie Langjährige Führungspositionen bei SAP and HP Umfangreiche Forschungserfahrungen zusammen mit Fraunhofer Institut und Deutsche Forschungsgemeinschaft (DFG)</li>
+                                <li> Business Transformation Experte für die Fertigungsindustrie</li>
+                                <li> Langjährige Führungspositionen bei SAP and HP</li>
+                                <li> Umfangreiche Forschungserfahrungen zusammen mit Fraunhofer Institut und Deutsche Forschungsgemeinschaft (DFG) </li>
                             </ul>
                             <div class="social-icon">
 
@@ -176,7 +180,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>Master of Engineering IIT Mumbai & TU Darmstadt Verschiedene Forschungsprojekte mit NASA, NTT, Linde, IFM Auszeichnungen von MIT GSW, Harvard Projekt Asien "</li>
+                                <li> Master of Engineering IIT Mumbai & TU Darmstadt </li>
+                                <li> Verschiedene Forschungsprojekte mit NASA, NTT, Linde, IFM </li>
+                                <li> Auszeichnungen von MIT GSW, Harvard Projekt Asien "</li>
                             </ul>
 
                         </div>
