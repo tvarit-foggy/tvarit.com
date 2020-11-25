@@ -93,7 +93,7 @@
             <p class="text-p p-content-justify">
             Zudem visualisierte Tvarit die Ergebnisse der Analysen in individuellen Dashboards, 
             sodass der Kunde alle relevanten KPIs sehen kann, um die Leistung der Geschäfte zu messen und zu vergleichen. 
-            Prädiktive Analysen schätzen die Korbgröße und die Nachfrage für jede Kategorie bis zu 10 Tage im Voraus und präskriptive Analysen, geben konkrete Vorschläge, welche Umgebungsbedingungen, Rabatte und Preise der Kunde einhalten sollte, um den Umsatz zu steigern. Tvarit hat eine komplette und echte KI-Lösung für Einzelhandelsunternehmen entwickelt, indem es alle wichtigen Geschäftsprozesse mit Hilfe seines Domänenwissens und seiner KI-Expertise verknüpft hat.
+            Prädiktive Analysen schätzen die Korbgröße und die Nachfrage für jede Kategorie bis zu 10 Tage im Voraus und präskriptive Analysen geben konkrete Vorschläge, welche Umgebungsbedingungen, Rabatte und Preise der Kunde einhalten sollte, um den Umsatz zu steigern. Tvarit hat eine komplette und echte KI-Lösung für Einzelhandelsunternehmen entwickelt, indem es alle wichtigen Geschäftsprozesse mit Hilfe seines Domänenwissens und seiner KI-Expertise verknüpft hat.
             </p>
             <p class="text-p p-content-justify">
             Für die KI-Lösung wurde Tvarit vom EDI als einer der 8 Gewinner unter 490 KI-Unternehmen aus ganz Europa ausgezeichnet. 

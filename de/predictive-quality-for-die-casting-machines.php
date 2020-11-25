@@ -103,9 +103,9 @@
                             <div class="text-big60">
                               BEIM DRUCKGUSS 
                             </div>
-                            <div class="text-big40" st>
+                            <!--<div class="text-big40" st>
                               -VERFAHREN.
-                            </div>
+                            </div>-->
                         </div>
                         <br>
                     </div>
@@ -121,7 +121,7 @@
             <div class="title centerTitle">
                 <span class="innr-sec-mainTitle ai_predictive">
                 QUALITÄTSVORHERSAGE <br>  BEIM DRUCKGUSS 
-                -VERFAHREN.
+                
                 </span>
             </div>
             <br>

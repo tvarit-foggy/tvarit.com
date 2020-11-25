@@ -137,7 +137,7 @@
                             <li>Geringere Lagerhaltungskosten</li>
                             <li>Prävention von unerwarteten Ausfällen</li>
                             <li>Erhöhte MTBF (durchschnittliche Zeit zwischen Ausfällen)</li>
-                            <li>Gesamtanlageneffektivität</li>
+                            <li>Gesteigerte Gesamtanlageneffektivität</li>
                             <li>Reduzierung des Ersatzteilbestands und Lagerhaltungskosten</li>
                         </ul>
                     </div>
@@ -227,7 +227,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            VVorhersage eines Ausfalls der Antriebsmotoren von Druckmaschinen </p>
+                            Vorhersage eines Ausfalls der Antriebsmotoren von Druckmaschinen </p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
                             class="btn btn-round btn-red-grd">Use Case herunterladen</a>
