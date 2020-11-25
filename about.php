@@ -179,8 +179,9 @@
 
                             <ul class="ul-list">
                                 <li>15 years of experience in building startups including greenfield factories in chemicals,
-densified bio-fuels and packing machine manufacturing Ex-President TiE Deutschland Working
-experience with Fortune 500 firms like Intel & Qualcomm</li>
+                                densified bio-fuels and packing machine manufacturing</li>
+                                <li> Ex-President TiE Deutschland</li>
+                                <li> Working experience with Fortune 500 firms like Intel & Qualcomm</li>
                                 <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
