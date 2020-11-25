@@ -71,15 +71,15 @@
                 <div class="col-md-6" style="margin-top:45px;">
                     <div class="typography">
                         <div class="text-1">
-                            <span class="tvarit-black">Who <span class="color"></span>
+                            <span class="tvarit-black">Wer <span class="color"></span>
                         </div>
                         <div class="text-big60 red">
-                            we are?
+                            wir sind?
                         </div>
                         <br>
                         <div>
                             <p class="text-p txt-justify" style="width:90%">
-                               Wir glauben daran, dass es eine Grundtugend ist, bestehende Prozesse in Frage zu stellen und durch die Nutzung neuer Technologien besser zu werden. Der natürliche "Schwund" an wertvollen Unternehmensressourcen, hervorgerufen durch Wartungskosten, Ausschuss, Energie- und Qualitätsprobleme sowie die ineffiziente Verwaltung von Beständen, ist kein Status Quo, mit dem wir uns zufriedengeben. ​ Deshalb arbeiten wir mit unserer “Werkzeugbox” an über 160 eigens entwickelten algorithmischen Modulen, um mit Data Science und maschinellem Lernen wertvolle Erkenntnisse aus der zunehmenden Menge an industriellen Daten zu ziehen. ​ Dafür entwickeln wir benutzerfreundliche Software-Produkte, die es unseren Kunden ermöglichen, drohende Ausfälle und Qualitätsabweichungen frühzeitig zu erkennen, pro-aktiv zu handeln und datenbasiert bessere Entscheidungen zu treffen.
+                            Wir glauben daran, dass es eine Grundtugend ist, bestehende Prozesse in Frage zu stellen und durch die Nutzung neuer Technologien besser zu werden. Der natürliche "Schwund" an wertvollen Unternehmensressourcen, hervorgerufen durch Wartungskosten, Ausschuss, Energie- und Qualitätsprobleme sowie die ineffiziente Verwaltung von Beständen, ist kein Status Quo, mit dem wir uns zufriedengeben. ​ Deshalb arbeiten wir mit unserer “Werkzeugbox” an über 160 eigens entwickelten algorithmischen Modulen, um mit Data Science und maschinellem Lernen wertvolle Erkenntnisse aus der zunehmenden Menge an industriellen Daten zu ziehen. ​ Dafür entwickeln wir benutzerfreundliche Software-Produkte, die es unseren Kunden ermöglichen, drohende Ausfälle und Qualitätsabweichungen frühzeitig zu erkennen, pro-aktiv zu handeln und datenbasiert bessere Entscheidungen zu treffen.
                             </p>
                         </div>
 
@@ -191,16 +191,17 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/tobias-gundermann.png" alt="Tobias Gundermann"
-                                style="width:100%; height:auto; border-radius: 50%;">
+                        <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
-                            <h4 class="title title-name"> Tobias Gundermann</h4>
-                            <h6 class="title">Customer Success Manager</h6>
+                            <h4 class="title title-name"> Kamal Galrani</h4>
+                            <h6 class="title">Director Data Science</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Bedarfsermittlung und Ansprechpartner für Kunden</li>
-                                <li>Arbeitserfahrung von ZF und Porsche</li>
+                                <li>Daten-Experte und Amateur-Physiker.</li>
+                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie-Institut: IIT Bombay
+                                </li>
+                                <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
                             </ul>
                             <div class="social-icon">
 
@@ -278,17 +279,16 @@
                     <div class="card row-height-2">
                         <div class="card-view-image">
 
-                            <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
+                        <img src="img/peter.jpeg" alt="Peter" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
-                            <h4 class="title title-name"> Kamal Galrani</h4>
-                            <h6 class="title">Director Data Science</h6>
+                            <h4 class="title title-name"> Peter Spinks</h4>
+                            <h6 class="title">Industry 4.0 Reporting</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Daten-Experte und Amateur-Physiker.</li>
-                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie-Institut: IIT Bombay
-                                </li>
-                                <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
+                                <li>Erfahrerner Autor bei BBC und The Guardian</li>
+                                <li>Master in Research Psychology</li>
+                                <li>Bekannt für seine Workshops für fortgeschrittene Technologien</li>
                             </ul>
                             <div class="social-icon">
 
@@ -299,7 +299,7 @@
 
                 </div>
                 <div class="column">
-                    <div class="card row-height-2">
+                    <!--<div class="card row-height-2">
                         <div class="card-view-image">
                             <img src="img/peter.jpeg" alt="Peter" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
@@ -317,7 +317,7 @@
                             </div>
                         </div>
 
-                    </div>
+                    </div>-->
 
                 </div>
 
