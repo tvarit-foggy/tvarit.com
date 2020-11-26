@@ -209,7 +209,7 @@
                         <div class="text-1">
                             Haben <br> Sie Fragen <br>oder Anmerkungen?
                         </div>
-                        <div class="text-big60">
+                        <div class="text-big60" style="-webkit-text-stroke-width: 2px;-webkit-text-stroke-color: #ffffff;">
                             WIR FREUEN UNS, VON IHNEN ZU HÖREN.
                         </div>
                         <br>

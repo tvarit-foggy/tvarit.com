@@ -81,6 +81,8 @@
                             <p class="text-p txt-justify" style="width:90%">
                             Wir glauben daran, dass es eine Grundtugend ist, bestehende Prozesse in Frage zu stellen und durch die Nutzung neuer Technologien besser zu werden. Der natürliche "Schwund" an wertvollen Unternehmensressourcen, hervorgerufen durch Wartungskosten, Ausschuss, Energie- und Qualitätsprobleme sowie die ineffiziente Verwaltung von Beständen, ist kein Status Quo, mit dem wir uns zufriedengeben. ​ Deshalb arbeiten wir mit unserer “Werkzeugbox” an über 160 eigens entwickelten algorithmischen Modulen, um mit Data Science und maschinellem Lernen wertvolle Erkenntnisse aus der zunehmenden Menge an industriellen Daten zu ziehen. ​ Dafür entwickeln wir benutzerfreundliche Software-Produkte, die es unseren Kunden ermöglichen, drohende Ausfälle und Qualitätsabweichungen frühzeitig zu erkennen, pro-aktiv zu handeln und datenbasiert bessere Entscheidungen zu treffen.
                             </p>
+                        <br>
+                        <br>
                         </div>
 
                     </div>
@@ -556,7 +558,7 @@
     }
 
     .row-height-2 {
-        height: 590px;
+        height: 650px;
     }
 
     .row-height-3 {
