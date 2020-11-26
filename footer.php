@@ -251,7 +251,10 @@
                          <h3>We are working for you!</h3>
                          <div class="ftaboutmore">
                              <p class="text-p">
-                             The key for development is the ability to change. Industry 4.0 is more than just a flashy catchphrase. A confluence of trends and technologies promises to reshape the way things are made. It means machines using self-optimization, self-configuration, and even artificial intelligence to complete complex tasks. For most, however, these concepts feel quite distant from today’s reality where many plants have yet to fully adopt the automation technologies of Industry 3.0.Therefore, we at Tvarit AI relentlessly work to make your business and processes more advanced and efficient and your life simpler and upgraded. If Curiosity is consuming you, then we welcome you to the world of advanced manufacturing and to the Infinite Possibilities. Welcome to Tvarit AI.
+                             The key for development is the ability to change. Industry 4.0 is more than just a flashy catchphrase. A confluence of trends and technologies promises to reshape the way things are made. It means machines using self-optimization, self-configuration, and even artificial intelligence to complete complex tasks. For most, however, these concepts feel quite distant from today’s reality where many plants have yet to fully adopt the automation technologies of Industry 3.0.
+		             </p>
+			     <p class="text-p">	
+         		     Therefore, we at Tvarit AI relentlessly work to make your business and processes more advanced and efficient and your life simpler and upgraded. If Curiosity is consuming you, then we welcome you to the world of advanced manufacturing and to the Infinite Possibilities. Welcome to Tvarit AI.
                              </p>
                              
                          </div>
