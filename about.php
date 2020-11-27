@@ -178,9 +178,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>14 years building startups in Germany</li>
-                                <li> Worked with Fortune 500 firms like Intel, Qualcomm</li>
+                                <li> 15 years of experience in building startups including greenfield factories in chemicals, densified bio-fuels and packing machine manufacturing</li>
                                 <li> Ex-President TiE Deutschland</li>
+                                <li> Working experience with Fortune 500 firms like Intel & Qualcomm</li>
                                 <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
@@ -200,7 +200,7 @@
                             <ul class="ul-list">
                                 <li>Business Transformation by utilizing R&D</li>
                                 <li>Brings huge experience from SAP and HP</li>
-                                <li>Research Background from Fraunhofer</li>
+                                <li>Research Background from Fraunhofer and Deutsche Forschungsgemeinschaft(DFG)</li>
                             </ul>
                             <div class="social-icon">
 
@@ -243,31 +243,6 @@
                         </div>
                     </div>
                 </div>
-                <!--<div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/tobias_hammer.png" alt="tobias"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name">Tobias Hammer</h4>
-                            <div class="col-md-12" style="padding-right:0px">
-                                <div class="row" style="margin-right: 0px;">
-                                    <div class="col-md-12" style="padding-left:0px;">
-                                        <h6 class="title">Marketing Manager</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="short-line-team bg-red"></div>
-
-                            <ul class="ul-list">
-                                <li>Experience from working at Bosch</li>
-                                <li>Background in Product Management, Manufacturing and Online Marketing.</li>
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>-->
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
@@ -303,52 +278,7 @@
                 </div>
             </div>
             <!-------- Custom Divider ------------>
-            <!-- <div class="row">
-                <div class="column">
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/lucky.png" alt="Lucky" style="width:100%; height:auto; border-radius:50px;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Lucky Khemani</h4>
-                            <h6 class="title">Technology Advisor</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>19 Patents under his name</li>
-                                <li>Audio/image/video Processing domain expert</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-
-
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/indra.jpg" alt="Indra" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Indra K. Prajapat</h4>
-                            <h6 class="title">Technology Advisor</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div> -->
-
+            
             <div class="row">
                 <div class="column">
                     <div class="card row-height-2">

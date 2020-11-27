@@ -101,11 +101,11 @@
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                              IM DRUCKGUSS
+                              BEIM DRUCKGUSS 
                             </div>
-                            <div class="text-big40" st>
+                            <!--<div class="text-big40" st>
                               -VERFAHREN.
-                            </div>
+                            </div>-->
                         </div>
                         <br>
                     </div>
@@ -120,8 +120,8 @@
         <div class="container">
             <div class="title centerTitle">
                 <span class="innr-sec-mainTitle ai_predictive">
-                QUALITÄTSVORHERSAGE <br>  IM DRUCKGUSS
-                -VERFAHREN.
+                QUALITÄTSVORHERSAGE <br>  BEIM DRUCKGUSS 
+                
                 </span>
             </div>
             <br>
@@ -224,7 +224,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Vorhersage des Qualitätsstatus des von der Druckgussmaschine kommenden Rades für zukünftige Chargen.
+                            Vorhersage der Chargenqualität, basierend auf den Daten aktuell produzierter Teile. 
                             </p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
@@ -252,7 +252,7 @@
                                 <li>Reduzierung der Anzahl der fehlerhaften Teile um 76%.</li>
                                 <li>Echtzeit-Produktionsübersicht.</li>
                                 <li>Fundiertere Kenntnisse und Einblicke in die Fertigung</li>
-                                <li>Messbare wirtschaftliche Nutzen</li>
+                                <li>Messbarer wirtschaftlicher Nutzen</li>
                             </ul>
                         </div>
                     </div>

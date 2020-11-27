@@ -102,7 +102,7 @@
                         <div class="content">
                             <div class="text-big60">
                             in der Aluminium </div>
-                            <div class="text-big40">
+                            <div class="text-big60">
                                  Produktion
                             </div>
                         </div>
@@ -118,7 +118,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Steigerung der Gesamtanlageneffizienz <br> in der Aluminium
+                <span class="innr-sec-mainTitle ai_predictive">Steigerung der Gesamtanlageneffektivität  <br> in der Aluminium
                 Produktion</span>
             </div>
             <br>

@@ -1269,14 +1269,14 @@ p
 
 .text-contact
 {
-    font-size: var(--fs-34);
+    font-size: var(--fs-30);
     font-weight: bold;
     padding-right: 20px;
     line-height: 1;
 }
 .formContent .text-contact
 {
-    font-size: var(--fs-34);
+    font-size: var(--fs-30);
     text-transform: uppercase;
     margin-bottom: 20px;
     font-weight: 900;
