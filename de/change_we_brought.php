@@ -7,13 +7,13 @@
             <div class="col-md">
                 <div class="countBox">
                     <div class="figure"><span class="figureNum" data-count="100">0</span> <small>+</small></div>
-                    <div class="text"> der fortschrittlichsten KI-Module für die Datenanalyse in der Fertigung</div>
+                    <div class="text"> der fortschrittlichsten Algorythmische Module für die Datenanalyse in der Fertigung</div>
                 </div> 
             </div>
             <div class="col-md">
                 <div class="countBox">
                     <div class="figure"><span class="figureNum" data-count="97.2">0</span> <small>%</small></div>
-                    <div class="text">Genauigkeit unserer KI-Modelle</div>
+                    <div class="text">Genauigkeit unserer Algorythmische Modelle</div>
                 </div>
             </div>
             <div class="col-md">

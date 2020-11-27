@@ -247,7 +247,7 @@
              <div class="row align-items-md-center">
                  <div class="col-lg-4 order-lg-1 order-2">
                      <div class="ft-about">
-                         <h3>Wir arbeiten für SIe</h3>
+                         <h3>Wir arbeiten für Sie</h3>
                          <div class="ftaboutmore">
                              <p class="text-p">
                              Industry 4.0 ist mehr als nur ein auffälliges Schlagwort. Ein Zusammenfluss von Trends und Technologien revolutionieren Fertigungsprozesse auf allen Ebenen. Unter anderem auch, dass Maschinen Ihre Prozesse und Einstellungen automatisiert mit Hilfe von KI optimieren, um komplexe Aufgaben zu erfüllen.</p>
