@@ -97,11 +97,11 @@
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1">
-                            KI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG FÜR
+                            KI-BASIERTE PRODUKTIONSPLANUNGSLÖSUNG
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                            DIE KABELHERSTELLUNG
+                            FÜR DIE KABELHERSTELLUNG
                             </div>
                          </div>
                         <br>
@@ -132,7 +132,7 @@
                         <ul class="ul-list-bullet">
                             <li>Verringerte Umrüstzeiten</li>
                             <li>Reduzierte Lagerhaltungskosten</li>
-                            <li>Vermeidung von Bestands-Engpässen</li>
+                            <li>Vermeidung von Engpässen </li>
                             <li>Reduzierte Kosten</li>
                             <li>Erhöhte Betriebszeit und Maschinenverfügbarkeit.</li>
                         </ul>
@@ -247,7 +247,7 @@
                         <div class="">
                             <ul class="ul-list-bullet">
                                 <li>Erhöhte Produktionskapazitätt</li>
-                                <li>Gesteigerte Gesamtanlageneffizienz</li>
+                                <li>Gesteigerte Gesamtanlageneffektivität</li>
                                 <li>Reduzierte Produkt- und Maschinenumstellungszeiten</li>
                                 <li>Echtzeit-Produktionsübersicht</li>
                                 <li>Geringere Lagerhaltungskosten</li>

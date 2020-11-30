@@ -182,6 +182,10 @@
             </div>
             <h4 class="subHeader">Increase profitability with predictive quality, predictive maintenance and dynamic recipes.
             </h4>
+            <p class="text-p" style="text-align: center;">The TVARIT Industrial Artificial Intelligence (TIA) software is a ready-to-use state-of-the-art Smart Factory and Digital Twin Software. Receive in depth insights based on the analysis of machine data, sensor data, manufacturing execution systems data, laboratory information management systems data and ERP data.</p> 
+            <p class="text-p" style="text-align: center;">Get the relevant information in customized and user-oriented dashboards – whether you are an executive, plant manager, quality manager, shop floor engineer or technologist.  Monitor key parameter indicators (KPI) such as machine availability, quality rate and performance (Overall equipment effectiveness) in real-time and prevent quality deviations and machine breakdowns with the help of predictive analytics.</p> 
+            <p class="text-p" style="text-align: center;">Furthermore, prescriptive dynamic recipes provide you with actionable recommendations for process optimization. Keep track of all the important incidents with notification and alerts. Overall, TIA enables you to optimize OEE, reduce scrap, increase efficiency and improve machine availability. Finally, this leads to reduced costs, increased production output as well as an optimized usage of manpower, machines and material.  </p>
+            <p class="text-p" style="text-align: center;">Some of the most relevant implemented use-cases are:</p>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
                 <br>
@@ -308,7 +312,11 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
+<<<<<<< HEAD
                         We provide customizable and ready-to-use data science and AI software solutions for discrete and process manufacturing which have been built and designed based on several years of experience in working with manufacturing companies and production facilities. At the core of the user-oriented frontend and dashboards of our software works our algorithmic framework. As we continuously invest into Research and Development, this framework consists of more than 160 algorithmic modules for all steps of data science activities in the manufacturing industry. Recently, we were awarded by the European Data Incubator as one of the best AI companies in Europe.</p>
+=======
+                       We provide customizable and ready-to-use data science and AI software solutions for discrete and process manufacturing which have been built and designed based on several years of experience in working with manufacturing companies and production facilities. At the core of the user-oriented frontend and dashboards of our software works our algorithmic framework. As we continuously invest into Research and Development, this framework consists of more than 160 algorithmic modules for all steps of data science activities in the manufacturing industry. Recently, we were awarded by the European Data Incubator as one of the best AI companies in Europe.</p>
+>>>>>>> 32e0933aec7ae96d91056657551007dfb972b17e
                         <br>
                     </div>
 
@@ -332,6 +340,12 @@
                 <h4 class="subHeader">
                     We seamlessly extract and integrate your production data to ensure that you get fast &amp; secure analytics and predictions
                 </h4>
+<<<<<<< HEAD
+=======
+                <p class="text-p">No matter where your data is collected and stored, we can easily integrate it from machines via SCADA, Industrial Internet of Things (IIoT) service providers and edge devices. The data across your production line and supply chain can be efficiently collected from your SAP, OPC UA server, Manufacturing execution systems, Laboratory information management systems and other data management systems.</p>
+                <p class="text-p">We use the latest technology of data storage and compute stack of IBM Power, Amazon Web Services (AWS) and Microsoft Azure for a fast training of the models and a flexible scalability of your data science operations.</p>
+                <p class="text-p">Being experts for IIoT communication and solution architectures for data collection and real-time analytics, we can supply you with cloud based as well as on-premise data architectures. Partnering with edge device providers, we can directly deploy the models onto your devices. This enables you to automate the data extraction and integration ensuring a fast communication as well as the highest standards of data security and communication protocols.</p>
+>>>>>>> 32e0933aec7ae96d91056657551007dfb972b17e
             </div>
             <br>
             <div class="row">
@@ -370,11 +384,11 @@
                         <img src="img/HomeAiLogo/7.png" alt="Manufacturing 7" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-3 col-sm-6">
+                <!-- <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
                         <img src="img/HomeAiLogo/8.png" alt="Manufacturing 8" class="img-fluid">
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
                         <img src="img/HomeAiLogo/9.png" alt="Manufacturing 9" class="img-fluid">

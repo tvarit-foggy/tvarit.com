@@ -291,7 +291,7 @@
                             </ul>
                             <hr>
                             <p class="red">To apply, please send a cover letter and CV, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
+                                    href="mailto:careers@tvarit.com">careers@tvarit.com</a></p>
                             <br>
                             <p class="red">Location: Frankfurt am Main</p>
                         </div>
@@ -375,7 +375,7 @@
                             <hr>
                             <p class="red">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
                                 Bewerbung
-                                und deinen Lebenslauf an <a href="javascript://">careers@tvarit.com</a> mit dem Betreff
+                                und deinen Lebenslauf an <a href="mailto:careers@tvarit.com">careers@tvarit.com</a> mit dem Betreff
                                 “Praktikum/
                                 Werkstudent”</p>
                             <br>
@@ -654,7 +654,7 @@
                             <br>
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
+                                    href="mailto:careers@tvarit.com">careers@tvarit.com</a></p>
                             <br>
                             <p class="red">Location: Mumbai</p>
                         </div>

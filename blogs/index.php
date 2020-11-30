@@ -252,6 +252,20 @@
 
                 <div class="col-md-8">
                     <div class="row scrollable-blogs filter-container">
+                        <div class="col-md-6 mix Automotive">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Automotive
+                                    </div>
+                                    <img src="../img/edge-ai.jpg" alt="Oil Gas" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="adding-a-competitive-edge-with-edge-ai" class="title">Adding a Competitive Edge with 'Edge AI'</a>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="col-md-6 mix OilGas">
                             <div class="blogBox">
                                 <div class="blogPic">

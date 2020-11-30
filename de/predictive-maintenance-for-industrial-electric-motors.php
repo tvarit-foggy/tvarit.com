@@ -97,14 +97,14 @@
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1" >
-                        PREDICTIVE MAINTENANCE FÜR
+                        PREDICTIVE MAINTENANCE 
  
                         </div>
                         <div class="content">
                             <div class="text-big60">
-                            INDUSTRIELLE
+                            FÜR INDUSTRIELLE
                             </div>
-                            <div class="text-big40">
+                            <div class="text-big60">
                             ELEKTROMOTOREN
                             </div>
                         </div>
@@ -137,7 +137,7 @@
                             <li>Geringere Lagerhaltungskosten</li>
                             <li>Prävention von unerwarteten Ausfällen</li>
                             <li>Erhöhte MTBF (durchschnittliche Zeit zwischen Ausfällen)</li>
-                            <li>Gesteigerte Anlageneffizienz</li>
+                            <li>Gesteigerte Gesamtanlageneffektivität</li>
                             <li>Reduzierung des Ersatzteilbestands und Lagerhaltungskosten</li>
                         </ul>
                     </div>
@@ -227,8 +227,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Vorhersage möglicher Ausfälle von Motorantrieben, die während des Betriebs 
-                            von Druckmaschinen eingesetzt werden. Preis je Motor: 15.000 €</p>
+                            Vorhersage eines Ausfalls der Antriebsmotoren von Druckmaschinen </p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"
                             class="btn btn-round btn-red-grd">Use Case herunterladen</a>
@@ -250,9 +249,9 @@
                         <div class="short-line bg-red"></div>
                         <div class="">
                         <ul class="ul-list-bullet">
-                                <li>Erhöhte Motor-Betriebszeit</li>
+                                <li>Erhöhte Betriebszeit </li>
                                 <li>Geringere Lagerhaltungskosten</li>
-                                <li>Live-Produktions-Dashboard mit vorausschauenden Warnmeldungen.</li>
+                                <li>Live-Produktions-Dashboard mit vorausschauenden Warnmeldungen</li>
                                 <li>Messbare wirtschaftliche Nutzen</li>
                             </ul>
                         </div>

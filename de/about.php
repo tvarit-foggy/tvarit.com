@@ -71,23 +71,18 @@
                 <div class="col-md-6" style="margin-top:45px;">
                     <div class="typography">
                         <div class="text-1">
-                            <span class="tvarit-black">Who <span class="color"></span>
+                            <span class="tvarit-black"> <span class="color"></span>
                         </div>
                         <div class="text-big60 red">
-                            we are?
+                        Wer wir sind?
                         </div>
                         <br>
                         <div>
                             <p class="text-p txt-justify" style="width:90%">
-                                Wir sind ein deutsches Unternehmen mit Sitz in Frankfurt und entwickeln individuelle
-                                KI-Lösungen für alle Arten von Fertigungsproblemen und datenwissenschaftlichen
-                                Anforderungen. Wir ermöglichen es Unternehmen, intelligente und fundierte Entscheidungen
-                                zu treffen, indem wir aus einem Meer von Daten verwertbare und wertvolle Erkenntnisse
-                                ableiten. Hierfür bieten wir einsatzbereite KI-Lösungen, unsere KI-Plattform und
-                                KI-Beratungsdienste zur erfolgreichen Umsetzung von Data Science und KI-Projekten. In
-                                letzter Zeit haben wir viele renommierte Auszeichnungen erhalten, in denen wir unter
-                                anderem als eines der innovativsten KI-Unternehmen in ganz Europa ausgezeichnet wurden.
+                            Wir glauben daran, dass es eine Grundtugend ist, bestehende Prozesse in Frage zu stellen und durch die Nutzung neuer Technologien besser zu werden. Der natürliche "Schwund" an wertvollen Unternehmensressourcen, hervorgerufen durch Wartungskosten, Ausschuss, Energie- und Qualitätsprobleme sowie die ineffiziente Verwaltung von Beständen, ist kein Status Quo, mit dem wir uns zufriedengeben. ​ Deshalb arbeiten wir mit unserer “Werkzeugbox” an über 160 eigens entwickelten algorithmischen Modulen, um mit Data Science und maschinellem Lernen wertvolle Erkenntnisse aus der zunehmenden Menge an industriellen Daten zu ziehen. ​ Dafür entwickeln wir benutzerfreundliche Software-Produkte, die es unseren Kunden ermöglichen, drohende Ausfälle und Qualitätsabweichungen frühzeitig zu erkennen, pro-aktiv zu handeln und datenbasiert bessere Entscheidungen zu treffen.
                             </p>
+                        <br>
+                        <br>
                         </div>
 
                     </div>
@@ -130,9 +125,9 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>14 Jahre Erfahrung im Aufbau von Start-Ups</li>
-                                <li>Arbeitete mit Fortune-500-Unternehmen zb. Intel und Qualcomm </li>
-                                <li> Ex-Präsident TiE Deutschland</li>
+                                <li> 15 Jahre Erfahrung beim Aufbau von Start-ups, u.a. neue Fabriken für Chemiefertigung, verdichtete Biobrennstoffe und Verpackungsmaschinen</li>
+                                <li> Ehemaliger Präsident TiE Deutschland</li>
+                                <li> Umfassende Arbeitserfahrung mit Fortune-500-Unternehmen wie Intel und Qualcomm</li>
                                 <!-- <li>Makes them smarter using our Ai Solutions</li> -->
                             </ul>
 
@@ -150,9 +145,9 @@
                             <h6 class="title">R&D Director</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
-                                <li>Unternehmenstransformation durch F&E</li>
-                                <li>Umfassende Erfahrungen von SAP & HP</li>
-                                <li>Forschungshintergrund vom Fraunhofer Institut</li>
+                                <li> Business Transformation Experte für die Fertigungsindustrie</li>
+                                <li> Langjährige Führungspositionen bei SAP and HP </li>
+                                <li> Umfangreiche Forschungserfahrungen zusammen mit Fraunhofer Institut und Deutsche Forschungsgemeinschaft (DFG) </li>
                             </ul>
                             <div class="social-icon">
 
@@ -187,102 +182,14 @@
                             <div class="short-line-team bg-red"></div>
 
                             <ul class="ul-list">
-                                <li>M.Tech vom IIT Mumbai & TU Darmstadt</li>
-                                <li>Berufserfahrung bei NASA, NTT, Linde, IFM, etc.</li>
-                                <li> Auszeichnungen von MIT GSW, Harvard-Projekt für Asien</li>
+                                <li> Master of Engineering IIT Mumbai & TU Darmstadt </li>
+                                <li> Verschiedene Forschungsprojekte mit NASA, NTT, Linde, IFM </li>
+                                <li> Auszeichnungen von MIT GSW, Harvard Projekt Asien "</li>
                             </ul>
 
                         </div>
                     </div>
                 </div>
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/tobias_hammer.png" alt="Tobias"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name">Tobias Hammer</h4>
-                            <div class="col-md-12" style="padding-right:0px">
-                                <div class="row" style="margin-right: 0px;">
-                                    <div class="col-md-12" style="padding-left:0px;">
-                                        <h6 class="title">Marketing Manager</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="short-line-team bg-red"></div>
-
-                            <ul class="ul-list">
-                                <li>Erfahrung aus der Arbeit bei Bosch</li>
-                                <li>Hintergrund in Produktmanagement, Fertigung und Online-Marketing</li>
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <!-------- Custom Divider ------------>
-            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
-                </div>
-                <div class="col-md-2">
-                    <img src="img/fav32.png" alt="icon" style="margin-right: auto;  margin-left: auto;  display: block;">
-                </div>
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
-                </div>
-            </div>
-            <!-------- Custom Divider ------------>
-            <!-- <div class="row">
-                <div class="column">
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/lucky.png" alt="Lucky" style="width:100%; height:auto; border-radius:50px;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Lucky Khemani</h4>
-                            <h6 class="title">Technology Advisor</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>19 Patents under his name</li>
-                                <li>Audio/image/video Processing domain expert</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-
-
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-                    <div class="card row-height-3">
-                        <div class="card-view-image">
-                            <img src="img/indra.jpg" alt="Indra" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Indra K. Prajapat</h4>
-                            <h6 class="title">Technology Advisor</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div> -->
-
-            <div class="row">
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
@@ -305,6 +212,22 @@
                     </div>
 
                 </div>
+            </div>
+
+            <!-------- Custom Divider ------------>
+            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
+                </div>
+                <div class="col-md-2">
+                    <img src="img/fav32.png" alt="icon" style="margin-right: auto;  margin-left: auto;  display: block;">
+                </div>
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
+                </div>
+            </div>
+            <!-------- Custom Divider ------------>
+            <div class="row">
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
@@ -351,9 +274,6 @@
                     </div>
 
                 </div>
-
-
-
 
             </div>
             <!-------- Custom Divider ------------>
@@ -587,7 +507,7 @@
     }
 
     .row-height-2 {
-        height: 590px;
+        height: 650px;
     }
 
     .row-height-3 {
