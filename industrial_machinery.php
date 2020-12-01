@@ -94,7 +94,7 @@
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
-                        <img src="img/pic-5.jpg" alt="Industrial Machinery" class="img-fluid">
+                        <img src="img/pic-5.jpg" alt="Industrial Machinery" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md">

@@ -216,7 +216,7 @@
 
                 <div class="centerPharseContent text-p">
                     We’re based out of Frankfurt Germany having the perfect team composition - a German founder bringing
-                    vast know-how of machinery coupled with high-quality software expertise of the Indian founders
+                    vast know-how of machinery coupled with high-quality software expertise of the Indian founders.
                 </div>
             </div>
         </div>
