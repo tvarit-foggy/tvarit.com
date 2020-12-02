@@ -105,7 +105,7 @@
 
             <div id="accordion">
 
-                <!-- <div class="card">
+                <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnTechArc"
                             aria-expanded="false" aria-controls="acccrdnTechArc">
@@ -178,7 +178,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div> -->
+                </div>
 
                 <div class="card">
                     <div class="card-header" id="headingFour">
@@ -480,7 +480,7 @@
                 </div> -->
 
 
-                <!-- <div class="card">
+                <!--<div class="card">
                     <div class="card-header" id="headingThree">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn3"
                             aria-expanded="false" aria-controls="acccrdn3">
@@ -766,7 +766,7 @@
                 </div> -->
 
 
-                <!-- <div class="card">
+                <!--<div class="card">
                     <div class="card-header" id="headingOne">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
@@ -856,6 +856,122 @@
                                 <li>Knowledge about Service Oriented Architecture (SOA) patterns, automating business
                                     process models,
                                     API enabled gateway and multi/hybrid cloud based services</li>
+                            </ul>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
+                            aria-expanded="false" aria-controls="acccrdn1">
+                            Senior Software Developer
+                        </a>
+                    </div>
+
+                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                            Senior Software Engineer will develop information systems by studying operations; designing,
+                            developing and installing software solutions; support and develop software team. The Senior
+                            Software Engineer will lead a team of developers responsible for building new and support
+                            existing websites.</p>
+                            <p class="text-p">
+                            Ability to prioritize well, communicate clearly, have a consistent track record of delivery and
+                            excellent software engineering skills. Creative engineering balanced with high quality and a
+                            customer focus. Must be able to work across multiple facets of the project and juggle multiple
+                            responsibilities at the same time. Strong analytic capability and the ability to create innovative
+                            solutions. We are looking for a highly motivated individual who is looking to grow their career in
+                            a fast-paced environment.</p>
+                            <p class="text-p">
+                            As of now we are using Grafana open-source utility for our frontend, so your task would be to
+                            write plugins for Grafana or even tweak Grafana source code. About 80% of your work would be
+                            on backend, API and Microservices Development. You will be modernizing application
+                            infrastructure and improving delivery effectiveness by building integration-centric solutions
+                            (service-oriented architectures). You will work closely within an agile, scrum-based team to
+                            understand the business domain and client requirements.</p>
+                            <p class="text-p">
+                            Our AI team has created an AI software for manufacturing industry where it predicts machine,
+                            process or plant failures at various levels in the timeframe. 
+                            </p>
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Develop high-quality software design and architecture solutions by studying information
+                                    needs; conferring with users; studying systems flow, data usage and work processes;
+                                    investigating problem areas; following the software development lifecycle</li>
+                                <li>Determine operational feasibility by evaluating analysis, problem definition,
+                                    requirements, solution development and proposed solutions</li>
+                                <li>Document and demonstrate solutions by developing documentation, flowcharts, layouts,
+                                    diagrams, charts, code comments and clear code</li>
+                                <li>Prepare and install solutions by determining and designing system specifications,
+                                    standards and programming</li>
+                                <li>Improve operations by conducting systems analysis; recommending changes in policies
+                                    and procedures</li>
+                                <li>Update job knowledge by studying state-of-the-art development tools, programming
+                                    techniques and computing equipment; participating in educational opportunities; reading
+                                    professional publications; maintaining personal networks; participating in professional
+                                    organizations
+                                <li>Protect operations by keeping information confidential</li>
+                                <li>Provide information by collecting, analyzing and summarizing development and service
+                                    issues</li>
+                                <li>Accomplish engineering and organization mission by completing related results as
+                                    needed</li>
+                                <li>Support and develop software engineers by providing advice, coaching and educational
+                                    opportunities and mentor junior and mid-level engineers</li>
+                                <li>Collaborate with team to brainstorm and create new products</li>
+                                <li>Grow engineering teams by interviewing, recruiting and hiring</li>
+                                <li>Make informed decisions quickly and taking ownership of services and applications at
+                                    scaleBe a persistent, creative problem -solver</li>
+                                <li>Remain cool and effective in a crisis</li>
+                                <li>Stay on the leading edge of development practices</li>
+                                <li>Passionate about great technologies, especially open source</li>
+                                <li>Understand business needs and know how to create the tools to manage them
+                            </ul>
+
+                            <br>
+
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                            <li>Master's degree in in appropriate field of study</li>
+                            <li>Proven experience as a Senior Software Engineer</li>
+                            <li>5+ years of experience as a software engineer</li>
+                            <li>Extensive experience in software development, scripting and project management</li>
+                            <li>Experience coding, testing and documenting – including all front end functionality and templates – and modules – using contributed modules and developing custom modules as needed</li>
+                            <li>Experience working in an agile environment</li>
+                            <li>Experience building complex web systems that have been successfully delivered to customers</li>
+                            <li>Experience in communicating with users, other technical teams and management to collect requirements, identify tasks, provide estimates and meet production deadlines</li>
+                            <li>Experience with mission critical, 24x7 systems</li>
+                            <li>Experience implementing and consuming large scale web services</li>
+                            <li>Experience with professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing and operations</li>
+                            <li>Eagerness and willingness to learn new technologies</li>
+                            <li>Be very comfortable with SOAP (XML) and RESTful interfaces (JSON), both for creating outgoing responses and incoming consumption of data from external sources</li>.
+                            <li>Computer Science degree preferred</li>
+
+                            </ul>
+
+                            <br>
+                            <h4>Must have:</h4>
+                            <ul class="ul-list">
+                                <li>Fluent with functional, imperative and object-­oriented languages; knowledge of Python</li>
+                                <li>In-depth knowledge of relational databases (e.g., PostgreSQL, MySQL) and NoSQL databases (e.g., MongoDB)</li>
+                                <li>Having knowledge of Apache, NGINX, SOLR, Redis, shell scripting, and on a variety of platforms, including Unix/Linux, in physical, virtualized and cloud (Amazon/AWS) environments</li>
+                                <li>Experience with cloud message APIs and usage of push notifications </li>
+                                <li>Experienced with deploying applications on Docker, Kubernetes.</li>
+                                <li>Experienced with cloud services like AWS, Azure.</li>
+
+
+                            </ul>
+                            <br>
+
+                            <h4>Good to have:</h4>
+                            <ul class="ul-list">
+                                <li>Knowledge about Service Oriented Architecture (SOA) patterns, automating business process models, API enabled gateway and multi/hybrid cloud-based services, Golang</li>
+                                <li>Knowledge of Big Data technologies</li>
+
                             </ul>
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
