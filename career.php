@@ -104,8 +104,72 @@
             <br>
 
             <div id="accordion">
+            <div class="card">
+                    <div class="card-header" id="headingTwo">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
+                            aria-expanded="false" aria-controls="acccrdn2">
+                            Product Manager
+                        </a>
+                    </div>
+                    <div id="acccrdn2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                We are looking for an experienced Product Manager who is passionate about building products that customers love. 
+                                You will join a dynamic and fast-paced environment and work with cross-functional teams to design, 
+                                build and roll-out products that deliver the company’s vision and strategy.
+                            </p>
+                            <h4>Principal Duties and Responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Leading the ideation / product strategy of a "customer-backwards" vision of a new product by:</li>
+                                <ul class="ul-list">
+                                    <li>Harnessing the customer voice through:</li>
+                                    <ul class="ul-list">
+                                        <li>Market research, including web searches and attending relevant conferences</li>
+                                        <li>Have a deep understanding of the AI market and industry trends</li>
+                                        <li>Be our product evangelist - engage directly with customers and partners, participate and present in external events and conferences, etc.</li>
+                                        <li>Building consensus around the vision across a team of stakeholders, and translating the vision into user stories that enable efficient development</li>
+                                        <li>Defining success criteria for the product (e.g. usage target, satisfaction points)</li>
+                                        <li>Liaison between Strategy/Customer/Management to understand customer business process and get a complete 360 analysis on the related requirements.</li>
+                                    </ul>
+                                    <li>Conducting User Surveys</li>
+                                </ul>
+                                <li>Driving the development of a market-ready product by:</li>
+                                <ul class="ul-list">
+                                    <li>Defining the definition of "done" and any related metrics</li>
+                                    <li>Joining daily scrum meetings to address any queries from developers and to ensure on-time delivery of each release</li>
+                                </ul>
+                                <li>Launching a product and enabling sales and usage by:</li>
+                                <ul class="ul-list">
+                                    <li>Working with product marketing to highlight critical features</li>
+                                    <li>Joining early client calls to ensure sales team is fully equipped to describe the product</li>
+                                    <li>Monitoring success and usage criteria, and developing new user stories to drive product improvement</li>
+                                    <li>Represent the company by visiting customers to solicit feedback on company products and services</li>
 
-                <div class="card">
+                                </ul>
+                            </ul>
+                            <br>
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li>3+ years of progressive Product development experience</li>
+                                <li>2+ years of product management experience</li>
+                                <li>Proven work experience in product management or as an associate product manager, preferably in AI/ML based enterprise products, RPA and automation, with an excellent record of accomplishment in delivering on time and on budget</li>
+                                <li>Proven track record of managing all aspects of a successful product throughout its lifecycle</li>
+                                <li>Excellent "product thinker" skills with an appreciation for the "customer backwards" approach and the use of data to drive decisions</li>
+                                <li>Excellent process-oriented thinker who wants to invest in systems that support scale and reduce redundancies</li>
+                                <li>Outstanding verbal and written communication skills, and a highly professional presence and phone manner with clients</li>
+                                <li>Bachelor / master studies in engineering / management </li>
+                                <li>Experience with Agile Methodologies</li>
+
+                            </ul>
+                            <br>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+                <!--<div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnTechArc"
                             aria-expanded="false" aria-controls="acccrdnTechArc">
@@ -178,7 +242,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
                 <div class="card">
                     <div class="card-header" id="headingFour">
@@ -980,7 +1044,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div> -->
+                </div> 
             </div>
 
         </div>
