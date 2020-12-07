@@ -3,6 +3,31 @@
   References 
   <!-- <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> -->
   </div>
+  <!------------------------ commercials start --------------------->
+    <div class="section-padding-both">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="videoWrapper">
+                            <iframe class="videoFrame" src="https://www.youtube.com/embed/_fMfc3qS1-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="px-lg-4 box-content-left">
+                        <div class="title">
+                            <!--<div class="sec-mainTitle">Why Us?</div>-->
+                        </div>
+                        <div class="short-line bg-red"></div>
+                        <p class="text-p">
+                       Tvarit has one of the best artificial intelligence technologies that I have ever seen". Learn more on what Prof. Aitor Goti Elordi, Director of the Digital Industry chair of the University of Deusto, has to say about his experiences in working with Tvarit.</p>
+                        <br>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!------------------------ commercials end ----------------------->
   <br>
   <div class="client-carousel REFERENCES-carousel">
     <div class="carousel-cell">
