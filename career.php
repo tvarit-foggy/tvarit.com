@@ -1000,7 +1000,7 @@
 
                             <h4>Your background:</h4>
                             <ul class="ul-list">
-                            <li>Master's degree in in appropriate field of study</li>
+                            <!--<li>Master's degree in in appropriate field of study</li>-->
                             <li>Proven experience as a Senior Software Engineer</li>
                             <li>5+ years of experience as a software engineer</li>
                             <li>Extensive experience in software development, scripting and project management</li>
