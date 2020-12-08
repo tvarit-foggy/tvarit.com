@@ -158,7 +158,7 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:auto;">
+                            <img src="img/suhas_circle.png" alt="Suhas" loading="lazy" style="width:100%; height:auto;">
                         </div>
 
                         <div class="container">
@@ -190,7 +190,7 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/juergen.jpeg" alt="Juergen"
+                            <img src="img/juergen.jpeg" alt="Juergen" loading="lazy"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -214,7 +214,7 @@
 
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/rahul_circle.jpg" alt="Rahul"
+                            <img src="img/rahul_circle.jpg" alt="Rahul" loading="lazy"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -246,7 +246,7 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/tobias-gundermann.png" alt="tobias gundermann"
+                            <img src="img/tobias-gundermann.png" alt="tobias gundermann" loading="lazy"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -271,7 +271,7 @@
                     <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
                 </div>
                 <div class="col-md-2">
-                    <img src="img/fav32.png" alt="fav32" style="margin-right: auto;  margin-left: auto;  display: block;">
+                    <img src="img/fav32.png" alt="fav32" loading="lazy" style="margin-right: auto;  margin-left: auto;  display: block;">
                 </div>
                 <div class="col-md-5">
                     <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
@@ -284,7 +284,7 @@
                     <div class="card row-height-2">
                         <div class="card-view-image">
 
-                            <img src="img/kamal.JPG" alt="Kamal" style="width:100%; height:auto; border-radius: 50%;">
+                            <img src="img/kamal.JPG" alt="Kamal" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Kamal Galrani</h4>
@@ -306,7 +306,7 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/peter.jpeg" alt="Peter" style="width:100%; height:auto; border-radius: 50%;">
+                            <img src="img/peter.jpeg" alt="Peter" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Peter Spinks</h4>
@@ -360,7 +360,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/32_Industry_icon.png" alt="32 Industry icon" class="img-fluid">
+                                <img src="img/achived/32_Industry_icon.png" alt="32 Industry icon" loading="lazy" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">32+</div>
@@ -374,7 +374,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/14_million_euro_icon.png" alt="14 million euro icon" class="img-fluid">
+                                <img src="img/achived/14_million_euro_icon.png" alt="14 million euro icon" loading="lazy" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">14+</div>
@@ -388,7 +388,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/20_Big_network_iocn.png" alt="20 Big network iocn" class="img-fluid">
+                                <img src="img/achived/20_Big_network_iocn.png" alt="20 Big network iocn" loading="lazy" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">20+</div>
@@ -402,7 +402,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="countingNumBox">
                             <div class="icon">
-                                <img src="img/achived/10_major_awards.png" alt="10 major awards" class="img-fluid">
+                                <img src="img/achived/10_major_awards.png" alt="10 major awards" loading="lazy" class="img-fluid">
                             </div>
                             <div class="content">
                                 <div class="numbers">10+</div>

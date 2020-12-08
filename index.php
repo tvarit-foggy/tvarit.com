@@ -148,7 +148,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="AmimgBox">
-                        <img src="img/edi.png" alt="EDI" class="img-fluid">
+                        <img src="img/edi.png" alt="EDI" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -192,7 +192,7 @@
                 <div class="col-lg-3">
                     <div class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-steel-coil.jpg" alt="Steel Coil">
+                            <img src="img/bg-steel-coil.jpg" loading="lazy" alt="Steel Coil">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Aluminium Coil Production</p>
@@ -267,7 +267,7 @@
                 <div class="col-lg-3">
                     <div href="ai-consulting" target="_blank" class="featureBox">
                         <div class="icon">
-                            <img src="img/bg-die-casting-machineg.jpg" alt="Die Casting Machineg">
+                            <img src="img/bg-die-casting-machineg.jpg" loading="lazy" alt="Die Casting Machineg">
                         </div>
                         <div class="inner-container">
                             <p class="title text-center">Die-Casting Process</p>
@@ -344,37 +344,37 @@
             <div class="row">
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/1.png" alt="Manufacturing 1" class="img-fluid">
+                        <img src="img/HomeAiLogo/1.png" alt="Manufacturing 1" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/2.png" alt="Manufacturing 2" class="img-fluid">
+                        <img src="img/HomeAiLogo/2.png" alt="Manufacturing 2" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/3.png" alt="Manufacturing 3" class="img-fluid">
+                        <img src="img/HomeAiLogo/3.png" alt="Manufacturing 3" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/4.png" alt="Manufacturing 4" class="img-fluid">
+                        <img src="img/HomeAiLogo/4.png" alt="Manufacturing 4" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/5.png" alt="Manufacturing 5" class="img-fluid">
+                        <img src="img/HomeAiLogo/5.png" alt="Manufacturing 5" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/6.png" alt="Manufacturing 6" class="img-fluid">
+                        <img src="img/HomeAiLogo/6.png" alt="Manufacturing 6" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/7.png" alt="Manufacturing 7" class="img-fluid">
+                        <img src="img/HomeAiLogo/7.png" alt="Manufacturing 7" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <!-- <div class="col-lg-2 col-md-3 col-sm-6">
@@ -384,22 +384,22 @@
                 </div> -->
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/9.png" alt="Manufacturing 9" class="img-fluid">
+                        <img src="img/HomeAiLogo/9.png" alt="Manufacturing 9" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/10.png" alt="Manufacturing 10" class="img-fluid">
+                        <img src="img/HomeAiLogo/10.png" alt="Manufacturing 10" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/11.png" alt="Manufacturing 11" class="img-fluid">
+                        <img src="img/HomeAiLogo/11.png" alt="Manufacturing 11" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="logo-box">
-                        <img src="img/HomeAiLogo/12.png" alt="Manufacturing 12" class="img-fluid">
+                        <img src="img/HomeAiLogo/12.png" alt="Manufacturing 12" loading="lazy" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -422,67 +422,67 @@
             <div class="client-carousel">
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/tud_logo_web_druck.png" alt="tud logo web druck" class="img-fluid">
+                        <img src="img/partners_img/tud_logo_web_druck.png" alt="tud logo web druck" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/iit_bombay.png" alt="iit bombay" class="img-fluid">
+                        <img src="img/partners_img/iit_bombay.png" alt="iit bombay" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/logo_zvei.png" alt="logo zvei" class="img-fluid">
+                        <img src="img/partners_img/logo_zvei.png" alt="logo zvei" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/vivatech.png" alt="VivaTech Logo" class="img-fluid">
+                        <img src="img/partners_img/vivatech.png" alt="VivaTech Logo" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/Bundesverband-Deutsche-Startups.png" alt="Bundesverband Deutsche Startups" class="img-fluid">
+                        <img src="img/partners_img/Bundesverband-Deutsche-Startups.png" loading="lazy" alt="Bundesverband Deutsche Startups" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/aws-logo.png"  alt="AWS Logo" class="img-fluid">
+                        <img src="img/partners_img/aws-logo.png"  alt="AWS Logo" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/ihk-ffm.png"  alt="ihk ffm" class="img-fluid">
+                        <img src="img/partners_img/ihk-ffm.png"  alt="ihk ffm" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/reference2.png" alt="references" class="img-fluid">
+                        <img src="img/partners_img/reference2.png" alt="references" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/Hannover-Messe.png" alt="Hannover Messe" class="img-fluid">
+                        <img src="img/partners_img/Hannover-Messe.png" alt="Hannover Messe" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/forum-startup-chemie.png" alt="forum startup chemie" class="img-fluid">
+                        <img src="img/partners_img/forum-startup-chemie.png" loading="lazy" alt="forum startup chemie" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/zenit.png" alt="zenit" class="img-fluid">
+                        <img src="img/partners_img/zenit.png" alt="zenit" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/dehub.png" alt="dehub" class="img-fluid">
+                        <img src="img/partners_img/dehub.png" alt="dehub" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="carousel-cell">
                     <div class="picBox">
-                        <img src="img/partners_img/stifterverband.png" alt="stifterverband" class="img-fluid">
+                        <img src="img/partners_img/stifterverband.png" alt="stifterverband" loading="lazy" class="img-fluid">
                     </div>
                 </div>
             </div>

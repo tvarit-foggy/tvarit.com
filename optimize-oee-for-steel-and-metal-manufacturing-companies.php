@@ -125,7 +125,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="./img/stainless_steel_welded_pipes1.jpg" alt="Stainless Steel Welded Pipes" class="img-fluid">
+                        <img src="./img/stainless_steel_welded_pipes1.jpg" loading="lazy" alt="Stainless Steel Welded Pipes" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -162,7 +162,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="img/Use-case_Steel-Coil.jpg" alt="Use Case Steel Coil" class="img-fluid">
+                        <img src="img/Use-case_Steel-Coil.jpg" alt="Use Case Steel Coil" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -208,7 +208,7 @@
 
                 <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
-                        <img src="img/benefits-steel-coil.jpg" alt="Benefits Steel Coil" class="img-fluid">
+                        <img src="img/benefits-steel-coil.jpg" alt="Benefits Steel Coil" loading="lazy" class="img-fluid">
                     </div>
                 </div>
             </div>

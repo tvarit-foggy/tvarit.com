@@ -300,12 +300,12 @@ gtag('config', 'UA-143837547-1');
                 </div>
                 <div class="col-md-12 programe-section-1">
 
-                    <img class="prg-img" src="./img/prog-1.png">
+                    <img class="prg-img" src="./img/prog-1.png" loading="lazy">
 
                 </div>
                 <div class="col-md-12 programe-section-2">
 
-                    <img class="prg-img" src="./img/prog-2.png">
+                    <img class="prg-img" src="./img/prog-2.png" loading="lazy">
 
                 </div>
 

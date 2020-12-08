@@ -290,7 +290,7 @@
             <ul class="ul-logobox">
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/1.png" alt="Amazon S3" class="img-fluid">
+                  <img src="img/logoImg/1.png" alt="Amazon S3" loading="lazy" class="img-fluid">
                   <div class="logotext">
                     Amazon S3
                   </div>
@@ -298,7 +298,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/2.png" alt="HDFS" class="img-fluid">
+                  <img src="img/logoImg/2.png" alt="HDFS" loading="lazy" class="img-fluid">
                   <div class="logotext">
                     HDFS
                   </div>
@@ -306,7 +306,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/3.png" alt="PostgreSQL" class="img-fluid">
+                  <img src="img/logoImg/3.png" alt="PostgreSQL" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   PostgreSQL
                   </div>
@@ -314,7 +314,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/4.png" alt="Google Analytics" class="img-fluid">
+                  <img src="img/logoImg/4.png" alt="Google Analytics" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   Google Analytics
                   </div>
@@ -322,7 +322,7 @@
               </li>
               <li>
                  <div class="logo-box">
-                  <img src="img/logoImg/5.png" alt="MongoDB" class="img-fluid">
+                  <img src="img/logoImg/5.png" alt="MongoDB" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   MongoDB
                   </div>
@@ -330,7 +330,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/7.png" alt="Amazon Redshift" class="img-fluid">
+                  <img src="img/logoImg/7.png" alt="Amazon Redshift" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   Amazon Redshift
                   </div>
@@ -338,7 +338,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/8.png" alt="Impala" class="img-fluid">
+                  <img src="img/logoImg/8.png" alt="Impala" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   Impala
                   </div>
@@ -346,7 +346,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/9.png" alt="Cassandra" class="img-fluid">
+                  <img src="img/logoImg/9.png" alt="Cassandra" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   Cassandra
                   </div>
@@ -354,7 +354,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/10.png" alt="Elasticsearch" class="img-fluid">
+                  <img src="img/logoImg/10.png" alt="Elasticsearch" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   Elasticsearch
                   </div>
@@ -362,7 +362,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/11.png" alt="MS SQL" class="img-fluid">
+                  <img src="img/logoImg/11.png" alt="MS SQL" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   MS SQL
                   </div>
@@ -370,7 +370,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/12.png" alt="Snowflake" class="img-fluid">
+                  <img src="img/logoImg/12.png" alt="Snowflake" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   Snowflake
                   </div>
@@ -378,7 +378,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/13.png" alt="Oracle" class="img-fluid">
+                  <img src="img/logoImg/13.png" alt="Oracle" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   Oracle
                   </div>
@@ -386,7 +386,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/6.png" alt="MemSQL" class="img-fluid">
+                  <img src="img/logoImg/6.png" alt="MemSQL" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   MemSQL
                   </div>
@@ -394,7 +394,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/14.png" alt="MySQL" class="img-fluid">
+                  <img src="img/logoImg/14.png" alt="MySQL" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   MySQL
                   </div>
@@ -402,7 +402,7 @@
               </li>
               <li>
                  <div class="logo-box">
-                  <img src="img/logoImg/15.png" alt="Salesforce" class="img-fluid">
+                  <img src="img/logoImg/15.png" alt="Salesforce" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   Salesforce
                   </div>
@@ -410,7 +410,7 @@
               </li>
               <li>
                 <div class="logo-box">
-                  <img src="img/logoImg/16.png" alt="Apache Hive" class="img-fluid">
+                  <img src="img/logoImg/16.png" alt="Apache Hive" loading="lazy" class="img-fluid">
                   <div class="logotext">
                   Apache Hive
                   </div>
@@ -433,7 +433,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/01.svg" alt="AI Benefit 1" class="img-fluid">
+                <img src="img/Ai_benefit/01.svg" alt="AI Benefit 1" loading="lazy" class="img-fluid">
               </div>
               <p class="text-p">One stop solution for all your data science needs
               </p>
@@ -443,7 +443,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/02.svg" alt="AI Benefit 2" class="img-fluid">
+                <img src="img/Ai_benefit/02.svg" alt="AI Benefit 2" loading="lazy" class="img-fluid">
               </div>
               <p class="text-p">Reduce total cost of ownership</p>
             </div>
@@ -452,7 +452,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/03.svg" alt="AI Benefit 3" class="img-fluid">
+                <img src="img/Ai_benefit/03.svg" alt="AI Benefit 3" loading="lazy" class="img-fluid">
               </div>
               <p class="text-p">
                 Reduce time to complete AI projects
@@ -463,7 +463,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/04.svg" alt="AI Benefit 4" class="img-fluid">
+                <img src="img/Ai_benefit/04.svg" alt="AI Benefit 4" loading="lazy" class="img-fluid">
               </div>
               <p class="text-p">Create new and customize existing pipelines
               </p>
@@ -473,7 +473,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/05.svg" alt="AI Benefit 5" class="img-fluid">
+                <img src="img/Ai_benefit/05.svg" alt="AI Benefit 5" loading="lazy" class="img-fluid">
               </div>
               <p class="text-p">Usage based pricing model</p>
             </div>
@@ -482,7 +482,7 @@
           <div class="col-md-4">
             <div class="featureBox">
               <div class="icon">
-                <img src="img/Ai_benefit/06.svg" alt="AI Benefit 6" class="img-fluid">
+                <img src="img/Ai_benefit/06.svg" alt="AI Benefit 6" loading="lazy" class="img-fluid">
               </div>
               <p class="text-p">
                Provided with full documentation
