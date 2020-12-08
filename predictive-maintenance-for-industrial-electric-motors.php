@@ -127,7 +127,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="./img/predic1.jpg" alt="predict 1" class="img-fluid">
+                        <img src="./img/predic1.jpg" alt="predict 1" loading="lazy" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -216,7 +216,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
-                        <img src="img/USE-CASE_Electric motor_Printing-press.jpg" alt="Use Case Electric Motor Printing Press" class="img-fluid">
+                        <img src="img/USE-CASE_Electric motor_Printing-press.jpg" loading="lazy" alt="Use Case Electric Motor Printing Press" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg">
@@ -261,7 +261,7 @@
 
                 <div class="col-lg order-1 order-lg-2">
                     <div class="AmimgBox">
-                        <img src="img/benefits-electric-motor-printing-press.jpg" alt="Benefits Electric Motor Printing Press" class="img-fluid">
+                        <img src="img/benefits-electric-motor-printing-press.jpg" loading="lazy" alt="Benefits Electric Motor Printing Press" class="img-fluid">
                     </div>
                 </div>
             </div>

@@ -77,7 +77,7 @@
                                         <li>
                                             <a href="../achive-more" class="sub-Link">
                                                 <img class="ai_solutions_img" src="../img/plus_ai.png"
-                                                    alt="Achieve More Tvarit AI Solutions" />
+                                                    alt="Achieve More Tvarit AI Solutions" loading="lazy" />
                                                 <div class="bold tvarit-black">
                                                     Achieve More Tvarit AI Solutions
                                                 </div>
@@ -181,7 +181,7 @@
 
              <!------------------------sticky contact button start --------------------->
 <div class="sticky-contact-bar">
-<a href="../contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt="Sticky Contact"></a>    
+<a href="../contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" loading="lazy" onerror='this.style.display = "none"' alt="Sticky Contact"></a>    
 <!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
 </div>
 <!------------------------sticky contact button end --------------------->
