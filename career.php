@@ -104,8 +104,72 @@
             <br>
 
             <div id="accordion">
+            <div class="card">
+                    <div class="card-header" id="headingTwo">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
+                            aria-expanded="false" aria-controls="acccrdn2">
+                            Product Manager
+                        </a>
+                    </div>
+                    <div id="acccrdn2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                We are looking for an experienced Product Manager who is passionate about building products that customers love. 
+                                You will join a dynamic and fast-paced environment and work with cross-functional teams to design, 
+                                build and roll-out products that deliver the company’s vision and strategy.
+                            </p>
+                            <h4>Principal Duties and Responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Leading the ideation / product strategy of a "customer-backwards" vision of a new product by:</li>
+                                <ul class="ul-list">
+                                    <li>Harnessing the customer voice through:</li>
+                                    <ul class="ul-list">
+                                        <li>Market research, including web searches and attending relevant conferences</li>
+                                        <li>Have a deep understanding of the AI market and industry trends</li>
+                                        <li>Be our product evangelist - engage directly with customers and partners, participate and present in external events and conferences, etc.</li>
+                                        <li>Building consensus around the vision across a team of stakeholders, and translating the vision into user stories that enable efficient development</li>
+                                        <li>Defining success criteria for the product (e.g. usage target, satisfaction points)</li>
+                                        <li>Liaison between Strategy/Customer/Management to understand customer business process and get a complete 360 analysis on the related requirements.</li>
+                                    </ul>
+                                    <li>Conducting User Surveys</li>
+                                </ul>
+                                <li>Driving the development of a market-ready product by:</li>
+                                <ul class="ul-list">
+                                    <li>Defining the definition of "done" and any related metrics</li>
+                                    <li>Joining daily scrum meetings to address any queries from developers and to ensure on-time delivery of each release</li>
+                                </ul>
+                                <li>Launching a product and enabling sales and usage by:</li>
+                                <ul class="ul-list">
+                                    <li>Working with product marketing to highlight critical features</li>
+                                    <li>Joining early client calls to ensure sales team is fully equipped to describe the product</li>
+                                    <li>Monitoring success and usage criteria, and developing new user stories to drive product improvement</li>
+                                    <li>Represent the company by visiting customers to solicit feedback on company products and services</li>
 
-                <!-- <div class="card">
+                                </ul>
+                            </ul>
+                            <br>
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li>3+ years of progressive Product development experience</li>
+                                <li>2+ years of product management experience</li>
+                                <li>Proven work experience in product management or as an associate product manager, preferably in AI/ML based enterprise products, RPA and automation, with an excellent record of accomplishment in delivering on time and on budget</li>
+                                <li>Proven track record of managing all aspects of a successful product throughout its lifecycle</li>
+                                <li>Excellent "product thinker" skills with an appreciation for the "customer backwards" approach and the use of data to drive decisions</li>
+                                <li>Excellent process-oriented thinker who wants to invest in systems that support scale and reduce redundancies</li>
+                                <li>Outstanding verbal and written communication skills, and a highly professional presence and phone manner with clients</li>
+                                <li>Bachelor / master studies in engineering / management </li>
+                                <li>Experience with Agile Methodologies</li>
+
+                            </ul>
+                            <br>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+                <!--<div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnTechArc"
                             aria-expanded="false" aria-controls="acccrdnTechArc">
@@ -178,7 +242,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div> -->
+                </div>-->
 
                 <div class="card">
                     <div class="card-header" id="headingFour">
@@ -480,7 +544,7 @@
                 </div> -->
 
 
-                <!-- <div class="card">
+                <!--<div class="card">
                     <div class="card-header" id="headingThree">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn3"
                             aria-expanded="false" aria-controls="acccrdn3">
@@ -766,7 +830,7 @@
                 </div> -->
 
 
-                <!-- <div class="card">
+                <!--<div class="card">
                     <div class="card-header" id="headingOne">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
@@ -865,6 +929,122 @@
                         </div>
                     </div>
                 </div> -->
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
+                            aria-expanded="false" aria-controls="acccrdn1">
+                            Senior Software Developer
+                        </a>
+                    </div>
+
+                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                            Senior Software Engineer will develop information systems by studying operations; designing,
+                            developing and installing software solutions; support and develop software team. The Senior
+                            Software Engineer will lead a team of developers responsible for building new and support
+                            existing websites.</p>
+                            <p class="text-p">
+                            Ability to prioritize well, communicate clearly, have a consistent track record of delivery and
+                            excellent software engineering skills. Creative engineering balanced with high quality and a
+                            customer focus. Must be able to work across multiple facets of the project and juggle multiple
+                            responsibilities at the same time. Strong analytic capability and the ability to create innovative
+                            solutions. We are looking for a highly motivated individual who is looking to grow their career in
+                            a fast-paced environment.</p>
+                            <p class="text-p">
+                            As of now we are using Grafana open-source utility for our frontend, so your task would be to
+                            write plugins for Grafana or even tweak Grafana source code. About 80% of your work would be
+                            on backend, API and Microservices Development. You will be modernizing application
+                            infrastructure and improving delivery effectiveness by building integration-centric solutions
+                            (service-oriented architectures). You will work closely within an agile, scrum-based team to
+                            understand the business domain and client requirements.</p>
+                            <p class="text-p">
+                            Our AI team has created an AI software for manufacturing industry where it predicts machine,
+                            process or plant failures at various levels in the timeframe. 
+                            </p>
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Develop high-quality software design and architecture solutions by studying information
+                                    needs; conferring with users; studying systems flow, data usage and work processes;
+                                    investigating problem areas; following the software development lifecycle</li>
+                                <li>Determine operational feasibility by evaluating analysis, problem definition,
+                                    requirements, solution development and proposed solutions</li>
+                                <li>Document and demonstrate solutions by developing documentation, flowcharts, layouts,
+                                    diagrams, charts, code comments and clear code</li>
+                                <li>Prepare and install solutions by determining and designing system specifications,
+                                    standards and programming</li>
+                                <li>Improve operations by conducting systems analysis; recommending changes in policies
+                                    and procedures</li>
+                                <li>Update job knowledge by studying state-of-the-art development tools, programming
+                                    techniques and computing equipment; participating in educational opportunities; reading
+                                    professional publications; maintaining personal networks; participating in professional
+                                    organizations
+                                <li>Protect operations by keeping information confidential</li>
+                                <li>Provide information by collecting, analyzing and summarizing development and service
+                                    issues</li>
+                                <li>Accomplish engineering and organization mission by completing related results as
+                                    needed</li>
+                                <li>Support and develop software engineers by providing advice, coaching and educational
+                                    opportunities and mentor junior and mid-level engineers</li>
+                                <li>Collaborate with team to brainstorm and create new products</li>
+                                <li>Grow engineering teams by interviewing, recruiting and hiring</li>
+                                <li>Make informed decisions quickly and taking ownership of services and applications at
+                                    scaleBe a persistent, creative problem -solver</li>
+                                <li>Remain cool and effective in a crisis</li>
+                                <li>Stay on the leading edge of development practices</li>
+                                <li>Passionate about great technologies, especially open source</li>
+                                <li>Understand business needs and know how to create the tools to manage them
+                            </ul>
+
+                            <br>
+
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                            <!--<li>Master's degree in in appropriate field of study</li>-->
+                            <li>Proven experience as a Senior Software Engineer</li>
+                            <li>5+ years of experience as a software engineer</li>
+                            <li>Extensive experience in software development, scripting and project management</li>
+                            <li>Experience coding, testing and documenting – including all front end functionality and templates – and modules – using contributed modules and developing custom modules as needed</li>
+                            <li>Experience working in an agile environment</li>
+                            <li>Experience building complex web systems that have been successfully delivered to customers</li>
+                            <li>Experience in communicating with users, other technical teams and management to collect requirements, identify tasks, provide estimates and meet production deadlines</li>
+                            <li>Experience with mission critical, 24x7 systems</li>
+                            <li>Experience implementing and consuming large scale web services</li>
+                            <li>Experience with professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing and operations</li>
+                            <li>Eagerness and willingness to learn new technologies</li>
+                            <li>Be very comfortable with SOAP (XML) and RESTful interfaces (JSON), both for creating outgoing responses and incoming consumption of data from external sources</li>.
+                            <li>Computer Science degree preferred</li>
+
+                            </ul>
+
+                            <br>
+                            <h4>Must have:</h4>
+                            <ul class="ul-list">
+                                <li>Fluent with functional, imperative and object-­oriented languages; knowledge of Python</li>
+                                <li>In-depth knowledge of relational databases (e.g., PostgreSQL, MySQL) and NoSQL databases (e.g., MongoDB)</li>
+                                <li>Having knowledge of Apache, NGINX, SOLR, Redis, shell scripting, and on a variety of platforms, including Unix/Linux, in physical, virtualized and cloud (Amazon/AWS) environments</li>
+                                <li>Experience with cloud message APIs and usage of push notifications </li>
+                                <li>Experienced with deploying applications on Docker, Kubernetes.</li>
+                                <li>Experienced with cloud services like AWS, Azure.</li>
+
+
+                            </ul>
+                            <br>
+
+                            <h4>Good to have:</h4>
+                            <ul class="ul-list">
+                                <li>Knowledge about Service Oriented Architecture (SOA) patterns, automating business process models, API enabled gateway and multi/hybrid cloud-based services, Golang</li>
+                                <li>Knowledge of Big Data technologies</li>
+
+                            </ul>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div> 
             </div>
 
         </div>
