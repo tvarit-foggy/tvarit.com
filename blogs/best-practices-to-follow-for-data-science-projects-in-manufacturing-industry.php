@@ -128,7 +128,7 @@ This is driven by:
                 In our next articles we will further examine on the introduction of an intelligent agent and provide useful recommendations for every single step in the practical implementation.
             </p>
             <p class="text-p">
-            Sounds interesting? Then <a href="https://www.linkedin.com/company/tvarit/" class="red" target="blank">follow us on LinkedIn</a> to stay up to date and feel welcome to <a href="/contact" class="red">contact us</a> in case of any questions.
+            Sounds interesting? Then <a href="https://www.linkedin.com/company/tvarit/" class="red" target="blank">follow us on LinkedIn</a> to stay up to date and feel welcome to <a href="../contact" class="red">contact us</a> in case of any questions.
             </p>
         </div>
     </div>
