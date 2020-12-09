@@ -477,7 +477,19 @@
                             </div>
                         </div>
 
-
+                        <div class="col-md-6 mix OilGas">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Oil & Gas
+                                    </div>
+                                    <img src="../img/b-oil-gas.jpg" alt="Oil Gas" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="best-practices-to-follow-for-data-science-projects-in-manufacturing-industry" class="title">Best practices to follow for data science projects in manufacturing industry</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
