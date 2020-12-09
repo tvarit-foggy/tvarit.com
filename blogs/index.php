@@ -491,7 +491,7 @@
                                     <div class="industiesText">
                                         Data scientists, CDO
                                     </div>
-                                    <img src="../img/b-oil-gas.jpg" alt="Oil Gas" class="img-fluid">
+                                    <img src="../img/intelligent_agents.jpg" alt="Data scientists, CDO" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="best-practices-to-follow-for-data-science-projects-in-manufacturing-industry" class="title">Benefits of smart/intelligent agents</a>
