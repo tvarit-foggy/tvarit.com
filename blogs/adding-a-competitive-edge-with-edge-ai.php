@@ -76,17 +76,17 @@
                 Artificial Intelligence (AI) has shown promising results in connected and already digital industries such as media and advertising, finance and retail. AI is entering many new fields at a high pace, and with its high impact on the environment, the manufacturing industry is one of the essential fields for the application of AI. Industrial AI, often termed as Industry 4.0, can increase production efficiency while bringing down manufacturing scrap and advancing towards a much cleaner environment.
             </p>
             <p class="text-medium">
-                According to McKinsey1, AI-enabled work in Germany's industrial sector could raise productivity by 0.8% to 1.4% annually and reduce overall maintenance costs by up to 10%. These productivity improvement goals require not only training AI/ML models on historical datasets but also taking corrective action items to improve the processes in real-time, which is referred to as "Intelligence on the Edge". However, in today's scenario, most of the manufacturing companies still don't have large bandwidth and high-speed connections, which are essential for making "Edge AI" the most relevant technology of the future.
+                According to <a href="https://www.mckinsey.com/~/media/McKinsey/Industries/Semiconductors/Our%20Insights/Smartening%20up%20with%20artificial%20intelligence/Smartening-up-with-artificial-intelligence.ashx" target="_blank">McKinsey<sup>1</sup></a>, AI-enabled work in Germany's industrial sector could raise productivity by 0.8% to 1.4% annually and reduce overall maintenance costs by up to 10%. These productivity improvement goals require not only training AI/ML models on historical datasets but also taking corrective action items to improve the processes in real-time, which is referred to as "Intelligence on the Edge". However, in today's scenario, most of the manufacturing companies still don't have large bandwidth and high-speed connections, which are essential for making "Edge AI" the most relevant technology of the future.
             </p>
 
             <br>
             <h5 class="red">What is Edge AI:</h5>
             <p class="text-medium">
-                "AI on the Edge" or "Edge AI" refers to the ability of machines to sense and react to their dynamic environment. With vast amounts of data being generated from hundreds of sensors on each machine, it is challenging to transfer the enormous volume of high-frequency data over the cloud. The setup is costly, has chances of data loss in the high-frequency data, and does not guarantee stability. Gartner2 states that today, around 90% of the data generated is processed in the cloud or traditional data centres, but this figure will reduce to only 25% by 2025, making edge AI the most exciting technology of the future. 
+                "AI on the Edge" or "Edge AI" refers to the ability of machines to sense and react to their dynamic environment. With vast amounts of data being generated from hundreds of sensors on each machine, it is challenging to transfer the enormous volume of high-frequency data over the cloud. The setup is costly, has chances of data loss in the high-frequency data, and does not guarantee stability. <a href="https://www.gartner.com/smarterwithgartner/what-edge-computing-means-for-infrastructure-and-operations-leaders/" target="_blank">Gartner<sup>2</sup></a> states that today, around 90% of the data generated is processed in the cloud or traditional data centres, but this figure will reduce to only 25% by 2025, making edge AI the most exciting technology of the future. 
             </p>
             <h4>Why Edge AI for Industrial Applications:</h4>
 
-            <ul>
+            <ul style="list-style-type:none;">
                 <li>1.  Offline Availability</li>
                 <li>2.  Limit Cloud and Connectivity costs</li>
                 <li>3.  Data Security</li>
@@ -107,7 +107,7 @@
             <h5 class="red">How Tvarit adds value to Manufacturers with Beckhoff's TwinCAT 3:</h5>
 
             <p class="text-p">
-                From the Internet of Things to the Internet of Services, Beckhoff is driving the key technologies that underline the convergence of Internet, Information Technology (IT), and automation technologies. McKinsey1 states that players in the industrial sector should develop core analytical capabilities internally, but also leverage third-party resources for AI-based performance improvements. Tvarit GmbH joins Beckhoff in providing tailor-made AI services, using Beckhoff's TwinCAT 3 automation technology. 
+                From the Internet of Things to the Internet of Services, Beckhoff is driving the key technologies that underline the convergence of Internet, Information Technology (IT), and automation technologies. <a href="https://www.mckinsey.com/~/media/McKinsey/Industries/Semiconductors/Our%20Insights/Smartening%20up%20with%20artificial%20intelligence/Smartening-up-with-artificial-intelligence.ashx" target="_blank">McKinsey<sup>1</sup></a> states that players in the industrial sector should develop core analytical capabilities internally, but also leverage third-party resources for AI-based performance improvements. Tvarit GmbH joins Beckhoff in providing tailor-made AI services, using Beckhoff's TwinCAT 3 automation technology. 
             </p>
             <br>
 
