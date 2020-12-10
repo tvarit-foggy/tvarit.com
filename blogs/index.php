@@ -185,6 +185,14 @@
                                                 <label class="custom-control-label" for="Steel">Steel</label>
                                             </div>
                                         </div>
+                                        <div class="form-group">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="data_scientists"
+                                                    value=".DataScientists">
+                                                <label class="custom-control-label" for="data_scientists">Data Scientists, CDO</label>
+                                            </div>
+                                        </div>
+
                                     </div>
                                 </li>
 
@@ -477,7 +485,19 @@
                             </div>
                         </div>
 
-
+                        <div class="col-md-6 mix DataScientists">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Data scientists, CDO
+                                    </div>
+                                    <img src="../img/intelligent_agents.jpg" alt="Data scientists, CDO" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="best-practices-to-follow-for-data-science-projects-in-manufacturing-industry" class="title">Benefits of smart/intelligent agents</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
