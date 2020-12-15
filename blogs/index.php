@@ -266,6 +266,20 @@
                                     <div class="industiesText">
                                         Automotive
                                     </div>
+                                    <img src="../img/business_understanding.jpg" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="business-understanding" class="title">Business Understanding</a>
+                                </div>
+                            </div>
+                        </div>
+						
+                        <div class="col-md-6 mix Automotive">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Automotive
+                                    </div>
                                     <img src="../img/edge-ai.jpg" alt="Oil Gas" class="img-fluid">
                                 </div>
                                 <div class="content">
