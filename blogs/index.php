@@ -266,7 +266,7 @@
                                     <div class="industiesText">
                                         Automotive
                                     </div>
-                                    <img src="../img/business_understanding.jpg" class="img-fluid">
+                                    <img src="../blogs/img/business_understanding.jpg" class="img-fluid">
                                 </div>
                                 <div class="content">
                                     <a href="business-understanding" class="title">Business Understanding</a>
