@@ -172,8 +172,8 @@
             </div>
             <h4 class="subHeader">Erhöhen Sie Ihre Profitabilität mit Hilfe von predictive Quality, predictive Maintenance und dynamischen Rezepten.</h4>
             <p class="text-p" style="text-align: center;">Die TVARIT Industrial Artificial Intelligence Software (TIA) ist eine benutzerfreundliche und technisch hochmoderne Smart Factory und Digital Twin Software. Erhalten Sie detaillierte Einblicke auf Grundlage der Analyse von Maschinendaten, Sensordaten, sowie Daten von Manufacturing Execution Systemen (MES), Qualitätsmanagementsystemen und ERP-Systemen. In anpassbaren und anwenderorientierten Dashboards werden Ihnen die relevantesten Informationen übersichtlich dargestellt - egal ob für Führungskräfte, Betriebsleiter, Qualitätsmanager, Fertigungsingenieure oder Technologen. </p>
-            <p class="text-p" style="text-align: center;">Überwachen Sie Ihre wichtigsten Kennzahlen (KPI) wie Maschinenverfügbarkeit, Qualitätsrate und Leistung (Gesamtanlageneffektivität) in nahezu Echtzeit und verhindern Sie Qualitätsabweichungen und Maschinenausfälle mit Hilfe von prädiktiven Analysen. Darüber hinaus liefern Ihnen präskriptive dynamische Rezepte konkrete Empfehlungen zur Prozessoptimierung. Mit Hilfe von anpassbaren Benachrichtigung und Warnmeldungen behalten Sie wichtige Vorfälle im Blick.</p>
-            <p class="text-p" style="text-align: center;">Mit TIA können Sie die Gesamtanlageneffektivität optimieren, Ausschuss reduzieren, die Effizienz steigern und die Maschinenverfügbarkeit verbessern. Dadurch können Kosten reduziert, das Produktionsvolumen erhöht und der Einsatz von Arbeitskräften, Maschinen und Material optimiert werden. </p>
+            <p class="text-p" style="text-align: center;">Überwachen Sie Ihre wichtigsten Kennzahlen (KPI) wie Maschinenverfügbarkeit, Qualitätsrate und Leistung (Gesamtanlageneffektivität) in Echtzeit und verhindern Sie Qualitätsabweichungen und Maschinenausfälle mit Hilfe von prädiktiven Analysen. Darüber hinaus liefern Ihnen präskriptive dynamische Rezepte konkrete Empfehlungen zur Prozessoptimierung. Anpassbare Benachrichtigungen und Warnmeldungen halten Sie jederzeit auf dem Laufenden.</p>
+            <p class="text-p" style="text-align: center;">Mit TIA können Ihre Gesamtanlageneffektivität optimieren, Ausschuss reduzieren, Ihre Effizienz steigern und Ihre Maschinenverfügbarkeit verbessern. Dadurch können Kosten reduziert, das Produktionsvolumen erhöht und der Einsatz von Arbeitskräften, Maschinen und Material optimiert werden. </p>
             <p class="text-p" style="text-align: center;">Einige der relevantesten implementierten Anwendungsfälle sind:</p>
             <br>
             <div class="row justify-content-lg-center weOfferBox">
@@ -186,7 +186,7 @@
                             <p class="title text-center">Aluminium-Coil Produktion </p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
-                                <li>
+                                <li style="list-style: none; font-size: 18px; font-weight: 800; padding-left:0; color:#ed1b4a;">
                                 Predictive Quality
                                 </li>
                                 <li>
@@ -211,7 +211,7 @@
                             <p class="title text-center">Kabel-Herstellung</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
-                                <li>
+                                <li style="list-style: none; font-size: 18px; font-weight: 800; padding-left:0; color:#ed1b4a;">
                                 KI-basierte Produktionsplanung
                                 </li>
                                 <li>
@@ -236,7 +236,7 @@
                             <p class="title text-center">Industrielle Elektromotoren</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
-                                <li>
+                                <li style="list-style: none; font-size: 18px; font-weight: 800; padding-left:0; color:#ed1b4a;">
                                 Prädiktive Instandhaltung
                                 </li>
                                 <li>
@@ -260,7 +260,7 @@
                             <p class="title text-center">Druckguss-Verfahren</p>
                             <div class="short-line mx-auto bg-red"></div>
                             <ul class="ul-list">
-                                <li>
+                                <li style="list-style: none; font-size: 18px; font-weight: 800; padding-left:0; color:#ed1b4a;">
                                 Predictive Quality
                                 </li>
                                 <li>
