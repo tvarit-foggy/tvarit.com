@@ -68,7 +68,7 @@
         <div class="container">
 		<br>
             <span style="display: block; text-align: center;">
-                <img src="../img/business_understanding.jpg" alt="business-understanding" class="img-fluid">
+                <img src="../blogs/img/business_understanding.jpg" alt="business-understanding" class="img-fluid">
             </span>
             <br>
 			
