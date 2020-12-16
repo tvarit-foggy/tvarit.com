@@ -20,11 +20,11 @@
         <img src="img/client_logo/NTT.png" alt="NTT" class="img-fluid">
       </div>
     </div>
-    <div class="carousel-cell">
+    <!-- <div class="carousel-cell">
       <div class="picBox">
         <img src="img/client_logo/times-of-india.png" alt="Times of India" class="img-fluid">
       </div>
-    </div>
+    </div> -->
     <div class="carousel-cell">
       <div class="picBox">
         <img src="img/client_logo/e-opt.jpg" alt="E-Opt" class="img-fluid">
