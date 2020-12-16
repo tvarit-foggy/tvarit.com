@@ -159,8 +159,8 @@
                             </div>
                             <div class="short-line-team bg-red" style="text-align: center;"></div>
 
-                             <p style="text-align: center;">Patel@tvarit.com</p>   
-                             <p style="text-align: center;">+49 173 835 1380</p>
+                             <p style="text-align: center;"><a href="mailto:PatelATtvaritDOTcom" onclick="this.href=this.href.replace(/AT/,'@').replace(/DOT/,'.')">Patel@tvarit.com</a></p>  
+                            <p style="text-align: center;"><a href="tel:+49 173 835 1380">+49 173 835 1380</a></p>
 
                             <!--<ul class="ul-list">
                                 <li>14 years building startups in Germany</li>
@@ -189,8 +189,8 @@
                             </div>
                             <div class="short-line-team bg-red"></div>
 
-                             <p style="text-align: center;">Juergen.halt@tvarit.com</p>   
-                             <p style="text-align: center;">+49 172 343 9637</p>
+                            <p style="text-align: center;"><a href="mailto:JuergenDOThaltATtvaritDOTcom" onclick="this.href=this.href.replace(/AT/,'@').replace(/DOT/,'.')">Juergen.halt@tvarit.com</a></p>  							 
+                            <p style="text-align: center;"><a href="tel:+49 172 343 9637">+49 172 343 9637</a></p>
 
                             <!--<ul class="ul-list">
                                 <li>Business Transformation by utilizing R&D</li>
@@ -223,8 +223,8 @@
                             </div>
                             <div class="short-line-team bg-red"></div>
 
-                            <p style="text-align: center;">Rahul@tvarit.com</p>
-                            <p style="text-align: center;">+49 1514 350 7262</p>
+                            <p style="text-align: center;"><a href="mailto:RahulATtvaritDOTcom" onclick="this.href=this.href.replace(/AT/,'@').replace(/DOT/,'.')">Rahul@tvarit.com</a></p>  							 
+                            <p style="text-align: center;"><a href="tel:+49 1514 350 7262">+49 1514 350 7262</a></p>
 
                             <!--<ul class="ul-list">
                                 <li>M.Tech from IIT Mumbai & TU Darmstadt</li>
@@ -252,8 +252,8 @@
                             </div>
                             <div class="short-line-team bg-red"></div>
 
-                            <p style="text-align: center;">Tobias.gundermann@tvarit.com</p>
-                            <p style="text-align: center;">+49 171 225 1178</p>
+                            <p style="text-align: center;"><a href="mailto:tobiasDOTgundermannATtvaritDOTcom" onclick="this.href=this.href.replace(/AT/,'@').replace(/DOT/,'.')">Tobias.gundermann@tvarit.com</a></p>
+                            <p style="text-align: center;"><a href="tel:+49 171 225 1178">+49 171 225 1178</a></p>
 
                             <!--<ul class="ul-list">
                                 <li>Experience from working at Bosch</li>
