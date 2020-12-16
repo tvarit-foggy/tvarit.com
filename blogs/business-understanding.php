@@ -66,11 +66,11 @@
     <!------------------------ Automotives start --------------------->
     <div class="section-padding-both-2x" id="downClick">
         <div class="container">
-		<br>
+		<!--<br>
             <span style="display: block; text-align: center;">
                 <img src="../blogs/img/business_understanding.jpg" alt="business-understanding" class="img-fluid">
             </span>
-            <br>
+            <br>-->
 			
             <div class="text-big60">
                 Business Understanding
