@@ -216,23 +216,23 @@
                     <div class="column">
                         <div class="card row-height-2">
                             <div class="card-view-image text-center" style="margin:22px;">
-                                <img src="../img/fabian-bause.jpg" width="180" alt="Fabian Bause" class="img-fluid">
+                                <img src="../img/kamal.JPG" width="180" alt="Kamal Galrani" class="img-fluid">
                             </div>
 
                             <div class="container">
-                                <h4 class="title title-name">Dr. Fabian Bause</h4>
+                                <h4 class="title title-name">Kamal Galrani</h4>
                                 <div class="col-md-12 " style="padding-right:0px">
                                     <div class="row" style="margin-right: 0px;">
-                                        <h5 class="title1 red">Beckhoff Automation GmbH & Co. KG</h5>
-                                        <h6 class="title">TwinCAT Product Management</h6>
+                                        <h5 class="title1 red">Tvarit GmbH</h5>
+                                        <h6 class="title">Director Data Science</h6>
                                     </div>
                                 </div>
                                 <div class="short-line-team bg-red"></div>
-                                <a href="mailto:f.bause@beckhoff.com" style="color:#000; text-decoration: underline;">
+                                <a href="mailto:kamal.galrani@tvarit.com" style="color:#000; text-decoration: underline;">
                                 <i class="fa fa-envelope red"></i>
-                                f.bause@beckhoff.com</a>
+                                kamal.galrani@tvarit.com</a>
                                 
-                                <p><a href="tel:+49 5246 963 5349" style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 5246 963 5349</a></p>
+                                <p><a href="tel:+91 9619 830372" style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +91 9619 830372</a></p>
                             </div>
                         </div>
                     </div>
