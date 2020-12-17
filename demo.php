@@ -380,7 +380,7 @@ include 'footer.php'
 	}
 
   .short-line-team { 
-    margin-left: 115px !important;
+    margin-left: 39% !important;
   }
 
 }
@@ -453,7 +453,7 @@ a, a:hover, a:visited {
 
 
     .row-height-2 {
-        height: 550px;
+        height: 475px;
     }
 
     .row-height-3 {
