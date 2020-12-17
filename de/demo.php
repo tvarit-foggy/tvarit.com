@@ -123,7 +123,7 @@
                         </div>
                         <!--<div class="short-line bg-red"></div>-->
                         <div class="">
-                            <p class="text-p" style="font-size: 36px;font-weight: bold;color: #1b1b1b;text-align: center;">
+                            <p class="text-p wishText" style="font-size: 36px;font-weight: bold;color: #1b1b1b;text-align: center;">
                                 Das Tvarit Team wünscht Ihnen und Ihrer Familie gesegnete<br> Weihnachten Und einen guten Rutsch ins neue Jahr</p>
                         </div>
                     </div>
@@ -353,9 +353,6 @@ include 'footer.php'
 
 </body>
 <style>
-#contact_us {
-    display: none;
-}
 .txt-justify {
     text-align: justify !important;
 }
@@ -373,6 +370,17 @@ include 'footer.php'
         width: 100%;
         display: block;
     }
+	.wishText {
+		margin-top: -100px !important;
+		font-size: 25px !important;
+	}
+
+  .short-line-team { 
+    margin-left: 39% !important;
+  }
+	.title-name {
+		margin-top: -20px !important;
+	}
 
 }
 
@@ -432,6 +440,11 @@ include 'footer.php'
     height: 550px;
 }
 
+a, a:hover, a:visited {
+    text-decoration: none;
+    color: #000;
+}
+
 @media (min-width: 320px) {
     .row-height-1 {
         height: 650px;
@@ -439,7 +452,7 @@ include 'footer.php'
 
 
     .row-height-2 {
-        height: 650px;
+        height: 475px;
     }
 
     .row-height-3 {

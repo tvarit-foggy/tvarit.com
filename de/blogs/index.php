@@ -185,6 +185,14 @@
                                                 <label class="custom-control-label" for="Steel">Steel</label>
                                             </div>
                                         </div>
+
+                                        <div class="form-group">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="Topic"
+                                                    value=".Topic">
+                                                <label class="custom-control-label" for="Topic">Topic</label>
+                                            </div>
+                                        </div>
                                     </div>
                                 </li>
 
@@ -252,6 +260,19 @@
 
                 <div class="col-md-8">
                     <div class="row scrollable-blogs filter-container">
+                        <div class="col-md-6 mix Topic">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Hands-on Tech
+                                    </div>
+                                    <img src="../blogs/img/business_understanding.jpg" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="business-understanding" class="title">Business Understanding</a>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-md-6 mix Automotive">
                             <div class="blogBox">
                                 <div class="blogPic">
