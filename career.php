@@ -108,7 +108,7 @@
                     <div class="card-header" id="headingTwo">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
                             aria-expanded="false" aria-controls="acccrdn2">
-                            Product Manager
+                            Product Manager (MUMBAI)
                         </a>
                     </div>
                     <div id="acccrdn2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -248,7 +248,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
                             aria-expanded="false" aria-controls="acccrdnSaleMang">
-                            Sales Manager - Full-Time
+                            Sales Manager - Full-Time (FRANKFURT AM MAIN)
                         </a>
                     </div>
 
@@ -355,7 +355,7 @@
                             </ul>
                             <hr>
                             <p class="red">To apply, please send a cover letter and CV, to <a
-                                    href="mailto:careers@tvarit.com">careers@tvarit.com</a></p>
+                                    href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a></p>
                             <br>
                             <p class="red">Location: Frankfurt am Main</p>
                         </div>
@@ -367,7 +367,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
                             aria-expanded="false" aria-controls="acccrdn4">
-                            Business Development Manager - Praktikum Werkstudent (3-6 Monate)
+                            Business Development Manager - Praktikum Werkstudent (3-6 Monate) (FRANKFURT AM MAIN)
                         </a>
                     </div>
 
@@ -439,7 +439,7 @@
                             <hr>
                             <p class="red">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
                                 Bewerbung
-                                und deinen Lebenslauf an <a href="mailto:careers@tvarit.com">careers@tvarit.com</a> mit dem Betreff
+                                und deinen Lebenslauf an <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> mit dem Betreff
                                 “Praktikum/
                                 Werkstudent”</p>
                             <br>
@@ -640,7 +640,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
                             aria-expanded="false" aria-controls="acccrdnMLR">
-                            Machine Learning Researcher (Digital Signal Processing)
+                            Machine Learning Researcher (Digital Signal Processing) (MUMBAI)
                         </a>
                     </div>
 
@@ -933,7 +933,7 @@
                     <div class="card-header" id="headingOne">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
-                            Senior Software Developer
+                            Senior Software Developer (MUMBAI)
                         </a>
                     </div>
 

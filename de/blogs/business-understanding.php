@@ -29,7 +29,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="../img/favicon.png">
-    <title>Adding a Competitive Edge with 'Edge AI'</title>
+    <title>Business Understanding</title>
 
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
@@ -152,7 +152,7 @@
         </div>
     </div>
 
-     <div class="section-padding" id="Team">
+     <!--<div class="section-padding" id="Team">
         <div class="container">
             <div class="centerTitle">
                 <div class="text-big60">Contact</div>
@@ -184,7 +184,7 @@
                         </div>
                     </div>
                 </div>
-                <!---->
+                
 
                 <div class="col-md-4">
                     <div class="column">
@@ -241,7 +241,7 @@
             </div>
             <br><br>
         </div>
-    </div>
+    </div>-->
 
 
     <!------------------------ Automotives end --------------------->

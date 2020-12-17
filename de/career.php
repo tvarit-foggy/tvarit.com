@@ -189,116 +189,72 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
                             aria-expanded="false" aria-controls="acccrdnSaleMang">
-                            Sales Manager - Full-Time
+                            Sales Manager - VOLLZEIT (m/w/d)
                         </a>
                     </div>
 
                     <div id="acccrdnSaleMang" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                Tvarit GmbH is a rising German startup in the field of Industrial AI. Awarded in top 16
-                                out of 490 AI companies from EU, Tvarit brings a robust and state-of-the-art Industrial
-                                Ai Solutions for German Manufacturing and Automobile companies. With techies from strong
-                                R&D background and universities such as TU Darmstadt, Stanford, NASA etc, Tvarit is on a
-                                voyage to become next unicorn.<br>
+                                Die Tvarit GmbH entwickelt und liefert Lösungen im Bereich der künstlichen Intelligenz (KI) für die Fertigungs-, Automobil- und Prozessindustrie. Mit seinen Software-Produkten ermöglicht es Tvarit seinen Kunden, intelligente und fundierte Entscheidungen zu treffen, z.B. bei der vorausschauenden Wartung, der Erhöhung der OEE und der vorausschauenden Qualität.<br>
 
-                                Our software’s end objective is to achieve efficient processes management for factories
-                                and plants, increasing the yield, increasing the accuracy and reliability by bringing
-                                data-driven decisions, shorten the time frame of delivery, and hence direct reflection
-                                in terms of profit to the enterprise.<br>
+                                Renommierte Referenzkunden, ein kompetentes Technik- und Forschungsteam aus renommierten Universitäten sowie die Verleihung renommierter KI-Preise (z.B EU Horizon 2020) machen Tvarit zu einem der innovativsten KI-Unternehmen in Deutschland und Europa.<br>
 
-                                You will be responsible for creating and improving the communication with customers,
-                                market position of the organization and achieve financial growth. You will be involved
-                                in defining long-term organizational strategic goals, building key customer
-                                relationships etc.<br>
-
+                                Das Unternehmen wurde 2019 gegründet und wird vom Kapitalfonds "Futury Venture Fonds" sowie von privaten Investoren unterstützt und ist nun bereit, in den nächsten Jahren ein signifikantes Wachstum zu erzielen.
                             </p>
 
-                            <h4>Key responsibilities:</h4>
+                            <h4>Aufgabengebiete:</h4>
                             <ul class="ul-list">
-                                <li><b>Sales Targets:</b> Achieving growth and hitting sales targets by successfully
-                                    managing the sales team. Designing and implementing a strategic sales plan that
-                                    expands the company's customer base and ensures it’s strong presence by visiting
-                                    exhibitions and other sales events.</li>
-                                <li><b>Work with manufacturing clients:</b> Understanding various problems and business
-                                    use cases such as failures prediction in machinery/plant, forecasting the number of
-                                    defective items coming from a production facility</li>
-                                <li><b>Meetings and Pitches to the CXOs:</b> Set up meetings between client decision
-                                    makers and company’s leaders/Principals. Plan approaches and pitches. Work with team
-                                    to develop proposals that speak to the client’s needs, concerns, and objectives.
-                                </li>
-                                <li><b>Cost-Benefit Analysis: </b> Participate in pricing the solution/service. Handle
-                                    objections by clarifying, emphasizing agreements and working through differences to
-                                    a positive conclusion. Use a variety of styles to persuade or negotiate
-                                    appropriately. Present an image that mirrors that of the client.</li>
-                                <li>Create feedback channel between customer and engineering team </li>
-                                <li> Collaborate well with other professionals in the design team </li>
-                                <li>Marketing one’s services effectively to attract additional clients</li>
+                                <li><b>Kundenkontakt:</b> Kundenmeetings vorbereiten, durchführen und nachbereiten</li>
+                                <li><b>Kundenverständnis:</b> Zugriff auf die Bedürfnisse und Anforderungen von (potenziellen) Kunden, Erfassung des Marktfeedbacks für das Produktmanagement und Sicherstellung, dass die Erwartungen der Kunden erfüllt/übertroffen werden.</li>
+                                <li><b>Kundengewinnung:</b> Generierung von Leads durch Prospecting und Approaching (z.B. Messen, Kaltakquise) und Umwandlung von Leads durch den Sales-Funnel zu einem Kunden.</li>
                             </ul>
 
                             <br>
 
-                            <h4>ROLE REQUIREMENTS:</h4>
+                            <h4>Anforderungen:</h4>
                             <ul class="ul-list">
-                                <li>We are looking for a self-motivated individual with a positive can-do attitude and
-                                    excellent verbal & written communication skills in German and English
-                                </li>
+                                <li>Wir suchen eine selbstmotivierte Person mit einer positiven "Can-do"-Einstellung und ausgezeichneten mündlichen und schriftlichen Kommunikationsfähigkeiten in Deutsch und Englisch.</li>
                             </ul>
 
                             <br>
 
-                            <h4>Required skills:</h4>
+                            <h4>>Ihr Profil:</h4>
                             <ul class="ul-list">
-                                <li>Bachelor or master’s degree in Business Administration specializing in Sales &
-                                    Marketing, Business Informatics, Economics, or similar</li>
-                                <li>Multiple years of experience with sales and marketing
-                                </li>
-                                <li>Experience working with Manufacturing companies especially in German-speaking region
-                                </li>
-                                <li>Experience with end to end sales process (Initial contact → POC → Deal Completion →
-                                    Delivery & feedback)</li>
-                                <li> Experience creating appropriate sales and marketing content and material. </li>
-                                <li> Flexible with travelling </li>
+                                <li>Fließend in Deutsch und verhandlungssicher in Englisch</li>
+                                <li>Erfolgreich abgeschlossenes Studium der Betriebswirtschaftslehre mit Spezialisierung auf Verkauf & Marketing, Wirtschaftsinformatik, Ingenieurwesen mit Spezialisierung auf technischen Verkauf oder ähnliches</li>
+                                <li>Arbeitserfahrung im B2B-Vertrieb</li>
+                                <li>Ausgezeichnete schriftliche und mündliche Kommunikationsfähigkeiten</li>
+                                <li>Sehr gute Präsentationsfähigkeiten</li>
+                            </ul>
+							
+                            <br>
+							
+                            <h4>Bevorzugte Kompetenzen:</h4>
+                            <ul class="ul-list">
+                                <li>Erfahrung in der Zusammenarbeit mit produzierenden Unternehmen (insbesondere im deutschsprachigen Raum)</li>
+                                <li>Mehrjährige Arbeitserfahrung im B2B-Vertrieb von Software-Produkten</li>
+                                <li>Die Kenntnis und das Verständnis von der Anwendung von maschinellem Lernen sowie IIoT in der Fertigungsindustrie ist ein großes Plus</li>
+                                <li>Grundkenntnisse der branchenüblichen ERP-Lösungen, z.B. SAP S4 Hana, SAP ERP, etc.</li>
+                                <li>Strategische Beratungs- und Vertriebserfahrung </li>
                             </ul>
                             <br>
-                            <h4>Preferred skills:</h4>
+                            <h4>Das bieten wir:</h4>
                             <ul class="ul-list">
-                                <li>Domain Knowledge of AI in the manufacturing industry is a great plus</li>
-                                <li>Working Knowledge of Industry used ERP solutions e.g. SAP S4Hana, SAP ERP, etc</li>
-                                <li>Working knowledge of MS office tools</li>
-                                <li>Working knowledge with CRM solutions like Zoho CRM, Salesforce CRM</li>
-                            </ul>
-                            <br>
-                            <h4>Work Experience:</h4>
-                            <ul class="ul-list">
-                                <li>3+ years of experience in marketing and sales </li>
-                            </ul>
-                            <h4>What do we offer:</h4>
-                            <ul class="ul-list">
-                                <li>Vibrant team culture</li>
-                                <li>Attractive salary and target incentives</li>
-                                <li>Flexible and Dynamic Work Environment to enhance the creativity</li>
-                                <li>Flexible Working Hours</li>
-                                <li>Options for further personal development</li>
-                                <li>Full flexibility to bring your creative ideas in productive use</li>
-                            </ul>
-                            <br>
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>We provide start-of-the-art hands-­on statistical solutions for the automotive and
-                                    manufacturing industry in Germany to highlight trends and generate insights</li>
-                                <li>We have closely worked with Fortune 500 Manufacturing Firms creating AI for machines
-                                    health, predicting defective pieces and recognizing weak areas hence increasing the
-                                    efficiency and yield</li>
-                                <li>We act as the primary point of contact for business forecasting, delivering
-                                    metrics/analytics that drives the organization and helps senior management taking
-                                    data-driven business decisions</li>
+                                <li>Attraktives Gehalt</li>
+                                <li>Arbeiten bei einem der Technologieführer in Europa in einer der innovativsten und zukunftsträchtigen Branchen</li>
+                                <li>Kurze Entscheidungswege und Möglichkeit, eigene Ideen einzubringen und umzusetzen</li>
+                                <li>hoher Grad an Eigenverantwortung</li>
+                                <li>Positive, motivierte und energetische Arbeitsatmosphäre im Team mit erfahrenen Digitalisierungsexperten und langjährigen Unternehmern</li>
+                                <li>Flexible Arbeitszeiten und Home-Office</li>
+                                <li>Steile Lernkurve und Möglichkeiten für persönliche und professionelle Fort- und Weiterbildung</li>
                             </ul>
                             <hr>
-                            <p class="red">To apply, please send a cover letter and CV, to <a
-                                    href="mailto:careers@tvarit.com">careers@tvarit.com</a></p>
+                            <p class="red">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
+                                    href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a></p>
                             <br>
-                            <p class="red">Location: Frankfurt am Main</p>
+                            <p class="red">Standort: Frankfurt am Main</p>
+                            <p class="red">Start: Ab sofort</p>
                         </div>
                     </div>
                 </div>
@@ -380,11 +336,11 @@
                             <hr>
                             <p class="red">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
                                 Bewerbung
-                                und deinen Lebenslauf an <a href="mailto:careers@tvarit.com">careers@tvarit.com</a> mit dem Betreff
+                                und deinen Lebenslauf an <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> mit dem Betreff
                                 “Praktikum/
                                 Werkstudent”</p>
                             <br>
-                            <p class="red">Location: Frankfurt am Main</p>
+                            <p class="red">Standort: Frankfurt am Main</p>
                         </div>
                     </div>
                 </div>
@@ -581,82 +537,57 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
                             aria-expanded="false" aria-controls="acccrdnMLR">
-                            Machine Learning Researcher
+                            MARKETING MANAGER VOLLZEIT (m/w/d)
                         </a>
                     </div>
 
                     <div id="acccrdnMLR" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                Tvarit opens up a new Artificial Intelligence division with a vision to help
-                                manufacturing companies transform their businesses by leveraging AI. We strive to
-                                achieve efficient processes management for factories and plants, increasing the yield,
-                                increasing the accuracy and reliability by bringing data-driven decisions, shorten the
-                                time frame of delivery, and hence direct reflection in terms of profit to the
-                                enterprise. This is a chance for you to get in on the ground floor of an exciting AI
-                                company.<br>
+                                Die Tvarit GmbH entwickelt und liefert Lösungen im Bereich der Künstlichen Intelligenz (KI) für die Fertigungs-, Automobil- und Prozessindustrie. Mit seinen KI-Lösungen, dem KI-Framework und KI-Beratungsdienstleistungen hilft Tvarit seinen Kunden, intelligente und fundierte Entscheidungen zu treffen, z.B. bei der vorausschauenden Wartung, der Erhöhung der OEE und der vorausschauenden Qualität.<br>
 
-                                You will be responsible for building AI / Machine Learning applications for our
-                                manufacturing clients. We expect you to have strong programming skills, and background
-                                of statistical engineering, data mining. You should have a strong growth mindset and a
-                                strong work ethic.
+                                Erstklassige Referenzkunden, ein kompetentes Technik- und Forschungsteam aus renommierten Universitäten sowie die Verleihung renommierter KI-Preise machen Tvarit zu einem der innovativsten KI-Unternehmen in Deutschland und Europa.<br>
 
-
+                                Das Unternehmen wurde 2019 gegründet und wird vom Risikokapitalfonds "Futury Venture Fonds" sowie von privaten Investoren unterstützt und ist nun bereit, in den nächsten Jahren ein signifikantes Wachstum zu erzielen.
                             </p>
 
-                            <h4>Key responsibilities:</h4>
+                            <h4>Aufgabengebiete:</h4>
                             <ul class="ul-list">
-                                <li>Work with manufacturing clients, understanding various problems and failures in
-                                    different kinds of high tech machines.</li>
-
-                                <li>Working with manufacturing machines data formats, data cleaning and defining
-                                    performance measures based on pre-processing of data</li>
-                                <li>Define a set of features on the basis of hundreds of sensors signals coming from a
-                                    single machine, work on building time series forecasting and other cross metric ML
-                                    models
-                                </li>
-                                <li>Search for the latest research papers as per use case and make POC.</li>
-                                <li>Collaborate with production engineers to deploy the results of your research.</li>
-                                <li> Develop evaluation techniques to gauge the performance and accuracy of the models
-                                    you build. </li>
-                                <li>Write production-ready code in Python / R for above models, further write unit
-                                    tests, integration tests, end to end tests</li>
+                                <li>Erstellung von Marketingplänen und einer Markenstrategie für das Unternehmen</li>
+                                <li>Erstellung von Kommunikationsleitfäden, scharfen und klaren Inhalten mit gutem grafischem Gespür</li>
+                                <li>Erstellung von Marketingkampagnen zur Generierung und Qualifizierung von Leads</li>
+                                <li>Bewertung und Auswahl von Pitch- oder Redemöglichkeiten, Planung und Besuch von Ausstellungen, Registrierung und Besuch von Veranstaltungen. </li>
+                                <li>Geeignete Plattformen und Zeitschriften auswählen, um die Sichtbarkeit des Unternehmens zu erhöhen</li>
                             </ul>
                             <br>
-                            <h4>Your Background:</h4>
+                            <h4>Ihr Profil:</h4>
                             <ul class="ul-list">
-                                <li>Know-how of machine learning algorithms e.g., ARIMA, Linear Regression, Neural
-                                    Networks and the math needed to for this such as linear algebra, probability,
-                                    statistics.
-                                </li>
-                                <li>Strong hands­-on skills with time series databases InfluxDB, SQL, Postgres etc.</li>
-                                <li>Ability to write code in a scripting language (Python, Perl, Bash etc).</li>
-                                <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it
-                                    is also important that you're able to write clean, efficient code in Python (with a
-                                    focus on testability and using OOP) on a Linux platform.</li>
+                                <li>Bachelor-oder Master-Abschluss in Marketing, Betriebswirtschaftslehre/Wirtschaftswissenschaften mit Schwerpunkt Marketing</li>
+                                <li>Mindestens 3 Jahre Berufserfahrung im Marken- und Marketingmanagement von Softwareangeboten im Fertigungsbereich für neue Produkte</li>
+                                <li>Wissen über Online- und Digital-Marketing</li>
+                                <li>Geschickt im Schreiben präziser Blogs und Artikel</li>
+                                <li>Ausgezeichnete Kommunikationsfähigkeiten</li>
+                                <li>Fließend in Deutsch und Englisch</li>
                             </ul>
 
                             <br>
 
-                            <h4>Our Team Culture:</h4>
+                            <h4>Das bieten wir:</h4>
                             <ul class="ul-list">
-                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing
-                                    industry in Germany to highlight trends and generate insights.</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines
-                                    health and work closely with their backend databases and data engineering teams
-                                </li>
-                                <li>Experience working with Manufacturing companies especially in German-speaking region
-                                </li>
-                                <li>We act as the primary point of contact for business forecasting, delivering
-                                    metrics/analytics that drives the organization and helps senior management taking
-                                    data-driven business decisions</li>
+                                <li>Attraktives Gehaltspaket</li>
+                                <li>Die Führung der Marketingabteilung und der schrittweise Aufbau des Teams</li>
+                                <li>Möglichkeit, mit bewährten und erfahrenen Unternehmern zusammenzuarbeiten</li>
+                                <li>Flexible und dynamische Arbeitsumgebung</li>
+                                <li>Unsere Mission ist es, produzierende Unternehmen in die Lage zu versetzen, ihre Leistung zu verbessern und ihre Effizienz und Produktivität zu steigern, indem wir wertvolle Einblicke in ihre Produktion durch Digitalisierung liefern.</li>
+                                <li>Unser Team besteht aus erfahrenen Experten und jungen und energischen Technokraten</li>
+                                <li>Wir sind leidenschaftlich für das, was wir tun, hoch motiviert und immer offen für Neues und Verbesserungen.</li>
                             </ul>
                             <br>
                             <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="mailto:careers@tvarit.com">careers@tvarit.com</a></p>
+                            <p class="red">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
+                                    href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> senden</p>
                             <br>
-                            <p class="red">Location: Mumbai</p>
+                            <p class="red">Standort: Frankfurt am Main</p>
                         </div>
                     </div>
                 </div>
