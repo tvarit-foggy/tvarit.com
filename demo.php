@@ -379,10 +379,13 @@ include 'footer.php'
 		font-size: 25px !important;
 	}
 
-  .short-line-team { 
-    margin-left: 39% !important;
-  }
-
+	.short-line-team { 
+		margin-left: 39% !important;
+	}
+  
+	.title-name {
+		margin-top: -20px !important;
+	}
 }
 
 .card {

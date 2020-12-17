@@ -378,7 +378,9 @@ include 'footer.php'
   .short-line-team { 
     margin-left: 39% !important;
   }
-	
+	.title-name {
+		margin-top: -20px !important;
+	}
 
 }
 
