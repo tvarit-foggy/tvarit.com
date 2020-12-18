@@ -150,7 +150,7 @@
                 From the defined problem statements, we need to select the use case that has the highest impact and also readily available data. In the end, the aim of our data science activities is to improve the efficiency of the involved manufacturing processes.
             </p>
             <p class="text-p">
-			 If you want to stay up to date on this topic, follow us on <a href="https://www.linkedin.com/company/tvarit/" class="red" target="blank">LinkedIn</a> and don't miss another part of our blog series "DataScience projects in the Manufacturing Industry". If you have any questions or feedback, don't hesitate to <a href="../contact" class="red">contact us</a>!
+			 If you want to stay up to date on this topic, follow us on <a href="https://www.linkedin.com/company/tvarit/" class="red" target="blank">LinkedIn</a> and don't miss another part of our blog series "Data Science projects in the Manufacturing Industry". If you have any questions or feedback, don't hesitate to <a href="../contact" class="red">contact us</a>!
             </p>
         </div>
     </div>
