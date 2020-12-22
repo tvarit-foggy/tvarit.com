@@ -414,6 +414,71 @@
                         </div>
                     </div>
                 </div>
+				
+				
+
+
+                <div class="card">
+                    <div class="card-header" id="headingFour">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
+                            aria-expanded="false" aria-controls="acccrdn4">
+                            Marketing  Manager - Full-Time (FRANKFURT AM MAIN)
+                        </a>
+                    </div>
+
+                    <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit GmbH is a rising German startup in the field of Industrial AI. Awarded in top 16 out of 490 AI companies from EU, Tvarit brings a robust and state-of-the-art Industrial Ai Solutions for German Manufacturing and Automobile companies. With techies from strong R&D background and universities such as TU Darmstadt, Stanford, NASA etc, Tvarit is on a voyage to become next unicorn.
+                            </p>
+                            <p class="text-p">
+                                Our software’s end objective is to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data-driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise.
+                            </p>
+                            <p class="text-p">
+                                You will be responsible for creating and improving the communication with customers, market position of the organization and achieve financial growth. You will be involved in defining long-term organizational strategic goals, building key customer relationships etc.
+                            </p>
+
+                            <h4>Responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Creation of marketing plans and a branding strategy for the company</li>
+                                <li>Creation of communication guides, sharp and clear content with a good graphical feel</li>
+                                <li>Creation of marketing campaigns to generate and qualify leads</li>
+                                <li>Evaluation and selection of pitch or speaking opportunities, planning and visiting exhibitions, registration and attending events</li>
+                                <li>Select suitable platforms and magazines to increase the company's visibility</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Your profile:</h4>
+                            <ul class="ul-list">
+                                <li>Bachelor or Masters degree in Marketing, Business Administration / Economics with a focus on Marketing</li>
+                                <li>At least 3 years of professional experience in brand and marketing management of software offerings in the production area for new products</li>
+                                <li>Knowledge of online and digital marketing</li>
+                                <li>Skilled in writing concise blogs and articles</li>
+                                <li>Excellent communication skills</li>
+                                <li>Fluent in German and English</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>We offer:</h4>
+                            <ul class="ul-list">
+                                <li>Attractive salary package</li>
+                                <li>The management of the marketing department and the gradual development of the team</li>
+                                <li>Opportunity to work with proven and experienced entrepreneurs</li>
+                                <li>Flexible and dynamic work environment</li>
+                                <li>Our mission is to enable manufacturing companies to improve their performance and increase their efficiency and productivity by providing valuable insights into their production through digitization</li>
+                                <li>Our team consists of experienced experts and young and energetic technocrats</li>
+                                <li>We are passionate about what we do, highly motivated and always open to new ideas and improvements</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">If you are interested, please send an application with a curriculum vitae to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Frankfurt am Main</p>
+                        </div>
+                    </div>
+                </div>
 
 
                 <!-- <div class="card">
