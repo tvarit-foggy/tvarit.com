@@ -367,81 +367,48 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
                             aria-expanded="false" aria-controls="acccrdn4">
-                            Business Development Manager - Praktikum Werkstudent (3-6 Monate) (FRANKFURT AM MAIN)
+                            Business Development Manager - Internship/Working Student (3-6 Months) (Frankfurt Am Main)
                         </a>
                     </div>
 
                     <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                Tvarit GmbH ist bestrebt, Unternehmen in der Herstellungsbranche zur Transformation in
-                                die Industrie 4.0
-                                mit der Nutzung seiner einzigartigen KI-Software zu helfen.
-                                Die von uns entwickelte KI-Software ist die modernste Komplettlösung, um viele
-                                Geschäftsprobleme unserer
-                                Kunden zu lösen.
-                                Du bist verantwortlich für den Aufbau und die Verbesserung der Marktposition des
-                                Unternehmens und für
-                                das finanzielle Wachstum. Du wirst an der Definition langfristiger strategischer
-                                Unternehmensziele, dem
-                                Aufbau wichtiger Kundenbeziehungen, der Identifizierung von Geschäftsmöglichkeiten, der
-                                Verhandlung
-                                und dem Abschluss von Geschäftsabschlüssen sowie der umfassenden Kenntnis der aktuellen
-                                Marktbedingungen beteiligt sein. Du solltest eine starke Wachstumsdenkensweise und eine
-                                starke
-                                Arbeitsmoral mitbringen.
+                                Tvarit GmbH strives to help companies in the manufacturing industry transform into Industry 4.0 with the use of its unique AI software. The AI software we have developed is the most modern complete solution to solve many of our customers' business problems. You are responsible for building and improving the company's market position and for financial growth. You will be involved in defining long-term strategic business goals, building key customer relationships, identifying business opportunities, negotiating and closing deals, and having a thorough understanding of current market conditions. You should have a strong growth mindset and work ethic.
                             </p>
 
-                            <h4>Deine Aufgaben:</h4>
+                            <h4>Your tasks:</h4>
                             <ul class="ul-list">
-                                <li>Arbeiten mit Kunden aus der Fertigungsindustrie: Verständnis verschiedener Probleme
-                                    und
-                                    Geschäftsanwendungen</li>
-                                <li>Vergrößerung des Kundenstamms durch den Besuch von Messen/Events und Teilnahme an
-                                    Technologie
-                                    -Gipfeln und Wettbewerben</li>
-                                <li>Besprechungen und Präsentationen zu den CXOs: Treffen zwischen den
-                                    Entscheidungsträgern der Kunden
-                                    und den Geschäftsführern/Verantwortlichen des Unternehmens</li>
-                                <li>Verantwortung für Social-Media Marketing in beispielsweise LinkedIn, Youtube XING
-                                    etc.
-                                </li>
+                                <li>Working with Manufacturing Customers</li>
+                                <li>Understanding various problems and business applications</li>
+                                <li>Increase the customer base by attending trade fairs / events and participating in technology summits and competitions</li>
+                                <li>Meetings and presentations on the CXOs</li>
+                                <li>Meetings between the decision makers of the customers and the managers / managers of the company</li>
+                                <li>Responsible for social media marketing in e.g. LinkedIn, Youtube, XING etc.</li>
                             </ul>
 
                             <br>
 
-                            <h4>Was du mitbringen solltest:</h4>
+                            <h4>What you must bring:</h4>
                             <ul class="ul-list">
-                                <li>Studiengänge mit den Schwerpunkten Betriebswirtschaft oder Ingenieurwesen (Bachelor-
-                                    oder
-                                    Masterstudiengang)
-                                </li>
-                                <li>Hohe Interesse für den Einsatz von Künstlicher Intelligenz
-                                </li>
-                                <li>Gute Ausstrahlung, Überzeugungskraft und Eigeninitiative vor Kunden</li>
-                                <li>Beratungs/SaaS-Startup-Erfahrung wird bevorzugt.</li>
-                                <li>Ambitionierte und verantwortungsvolle Arbeitsweise</li>
-                                <li>Sehr gute Kenntnisse von deutsch und englisch in Wort und Schrift</li>
+                                <li>Degree programs with a focus on business administration or engineering (bachelor's or master's degree)</li>
+                                <li>Great interest in the use of artificial intelligence</li>
+                                <li>Good charisma, persuasiveness and initiative in front of customers</li>
+                                <li>Consulting / SaaS startup experience is preferred</li>
+                                <li>Ambitious and responsible way of working</li>
+                                <li>Very good knowledge of German and English, both spoken and written</li>
                             </ul>
 
                             <br>
 
-                            <h4>Was wir bieten:</h4>
+                             <h4>What we offer:</h4>
                             <ul class="ul-list">
-                                <li>Steile Lernkurve</li>
-                                <li>Direkte Zusammenarbeit mit dem Kernteam
-                                </li>
-                                <li>Ein angenehmes und lebendiges Arbeitsumfeld
-                                </li>
-                                <li>gute Aussichten auf eine langfristige Zusammenarbeit</li>
+                                <li>Steep learning curve, Direct collaboration with the core team</li>
+                                <li>A pleasant and lively working environment good prospects for long-term cooperation</li>
                             </ul>
                             <br>
                             <hr>
-                            <p class="red">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
-                                Bewerbung
-                                und deinen Lebenslauf an <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> mit dem Betreff
-                                “Praktikum/
-                                Werkstudent”</p>
+                            <p class="red">Did we spark your interest? Then send us your application and your résumé to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Internship / working student”</p>
                             <br>
                             <p class="red">Location: Frankfurt am Main</p>
                         </div>

@@ -189,7 +189,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
                             aria-expanded="false" aria-controls="acccrdnSaleMang">
-                            Sales Manager - VOLLZEIT (m/w/d)
+                            Sales Manager - VOLL ZEIT (m/w/d)
                         </a>
                     </div>
 
@@ -537,7 +537,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
                             aria-expanded="false" aria-controls="acccrdnMLR">
-                            MARKETING MANAGER VOLLZEIT (m/w/d)
+                            MARKETING MANAGER - VOLL ZEIT (m/w/d)
                         </a>
                     </div>
 
