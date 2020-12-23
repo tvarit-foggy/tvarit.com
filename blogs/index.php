@@ -59,7 +59,7 @@
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
 
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include '../header_inner.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -248,6 +248,18 @@
 
                                     </div>
                                 </li>
+                              <li>
+                                    <a class="toggle" href="javascript:void(0);">Think Series</a>
+                                    <div class="inner">
+                                        <div class="form-group">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input "
+                                                    id="think-ser-001" value=".think-ser-001">
+                                                <label class="custom-control-label" for="think-ser-001">001</label>
+                                            </div>
+                                        </div>
+                                      </div>
+                                </li>
 
                             </ul>
 
@@ -273,7 +285,23 @@
                                 </div>
                             </div>
                         </div>
-						
+
+                        <!---->
+                        <div class="col-md-6 mix think-ser-001">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        001
+                                    </div>
+                                    <img src="../blogs/img/MAAS Image_edited.jpg" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="think-services" class="title">Machine as a Service : Uber for Machines</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!---->
+
                         <div class="col-md-6 mix Automotive">
                             <div class="blogBox">
                                 <div class="blogPic">
@@ -287,7 +315,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="col-md-6 mix DataScientists">
                             <div class="blogBox">
                                 <div class="blogPic">
@@ -522,12 +550,12 @@
 
 
     <!------------------------Countdown start --------------------->
-    <?php 
+    <?php
                 include '../change_we_brought.php';
-                ?>  
+                ?>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php 
+    <?php
                  include '../change_we_bring.php';
                 ?>
     <!------------------------Automated slide end --------------------->
@@ -551,7 +579,7 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
+    <?php
                 include '../using-tvarit.php';
                 ?>
     <!------------------------Client logo slide end --------------------->
