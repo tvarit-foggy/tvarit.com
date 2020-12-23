@@ -132,9 +132,9 @@
 
      <div class="" id="Team">
         <div class="container">
-            <div class="row ">
+            <div class="row">
 
-              <div class="col-md-4 text-center">
+              <div class="col-md-4 text-center ml-auto">
                   <div class="column">
                       <div class="card row-height-2">
                           <div class="card-view-image text-center" style="margin:22px;">
@@ -158,7 +158,7 @@
                   </div>
               </div>
 
-                <div class="col-md-4 text-center">
+                <div class="col-md-4 text-center mr-auto">
                     <div class="column">
                         <div class="card row-height-2">
                             <div class="card-view-image text-center" style="margin:22px;">
