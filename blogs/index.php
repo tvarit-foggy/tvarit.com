@@ -190,7 +190,7 @@
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="Topic"
                                                     value=".Topic">
-                                                <label class="custom-control-label" for="Topic">Topic</label>
+                                                <label class="custom-control-label" for="Topic">Cross Industry</label>
                                             </div>
                                         </div>
                                     </div>
@@ -255,7 +255,7 @@
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input "
                                                     id="think-ser-001" value=".think-ser-001">
-                                                <label class="custom-control-label" for="think-ser-001">001</label>
+                                                <label class="custom-control-label" for="think-ser-001">Machine As A Service</label>
                                             </div>
                                         </div>
                                       </div>
@@ -291,12 +291,12 @@
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
-                                        001
+                                        Think Series
                                     </div>
                                     <img src="../blogs/img/MAAS Image_edited.jpg" class="img-fluid">
                                 </div>
                                 <div class="content">
-                                    <a href="think-services" class="title">Machine as a Service : Uber for Machines</a>
+                                    <a href="think-services" class="title">Machine as a Service: Uber for Machines</a>
                                 </div>
                             </div>
                         </div>
@@ -306,7 +306,7 @@
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
-                                        Automotive
+                                        Cross industry
                                     </div>
                                     <img src="../img/edge-ai.jpg" alt="Oil Gas" class="img-fluid">
                                 </div>

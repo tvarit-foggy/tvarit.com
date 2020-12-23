@@ -73,7 +73,7 @@
             <br>-->
 
             <div class="text-big60">
-                Machine as a Service : Uber for Machines
+                Machine as a Service: Uber for Machines
             </div>
 
             <br>
@@ -87,7 +87,7 @@
             <br>
 
             <br>
-            <h5 class="red">Machine installation at the client site:-</h5>
+            <h5 class="red">Machine installation at the client site:</h5>
             <p class="text-medium">
               Machines are installed at the client's site. The Machine is not sold to the client. The machines are rented to the client and installed at the client's side and the client is assumed to pay for the Machine in the following three business models. One advantage of this model is that the product's IP is never compromised as the manufacturing happens at client's premises.
             </p>
@@ -109,8 +109,8 @@
             <p class="text-medium">
               The Machine is rented and charged for the duration of the renting and the number of products manufactured by the machine. This model is similar to Uber, where a rider pays for both the course and the distance travelled.
             </p>
+            <br><br>
             <h5 class="red">Machine/Factory owned and operated by the machine builder or Investor or Entrepreneur</h5>
-            <br>
             <p class="text-medium">
               Another business model is the typical modern "manufacturing outsourcing" based business model. Here, the machine is operated by the machine builder/ owner and the client outsources the manufacturing. The location of the Machine is with the machine builder. This gives the machine builder flexibility to servitize (operate) the Machine to multiple clients to increase operational efficiency. The downside of this model is that the client's IP is compromised, as we have seen such issues happening in the cases of manufacturing outsourcing in developing countries. In this model, the machine could be operated at a higher operational efficiency as the machine builder/owner can use the same machine for multiple clients. Also, the insurance costs and risks of the machine ownership are not shared with the client. One can argue that this model could be relatively cheaper.
             </p>
@@ -118,7 +118,7 @@
               <li>Machine is operated on price per unit production.</li>
             </ul>
             <p class="text-medium">
-              In this case, the machine is charged for “per unit production”. The insurance costs of the machine is entirely under the control of the machine owner/builder. The information on the quality, costs can be relayed real time to the client for better coordination and trust.
+              In this case, the machine is charged for “per unit production”. The insurance costs of the machine is entirely under the control of the machine owner/builder. The information on the quality costs can be relayed real time to the client for better coordination and trust.
             </p>
             <p class="text-medium">
               The success of <strong>Machine as service</strong> depends a lot on the IoT integration and machine data. A high-quality IoT data can not only increase the efficiency of operations but also reduce the costs and risks. The quality of machine information shared among the various parties ensures greater trust, optimization, price sharing, cost hedging and higher overall machine productivity.
