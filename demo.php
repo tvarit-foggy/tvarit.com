@@ -101,7 +101,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-10" style="margin: 0 auto;">
                     <div class="videoWrapper">
-                        <iframe class="videoFrame" src="https://www.youtube.com/embed/KW4hBH-lq0Y" frameborder="0"
+                        <iframe class="videoFrame" src="https://www.youtube.com/embed/KW4hBH-lq0Y?rel=0" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                     </div>
