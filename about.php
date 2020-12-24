@@ -56,7 +56,7 @@
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
 
     <!------------------------ main menu start ---------------------->
-    <?php
+    <?php 
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -111,7 +111,7 @@
     <!-- <div class="section-padding" id="Benefits">
         <div class="container">
             <div class="row align-items-center">
-
+                
                 <br>
                 <div class="col-md">
                     <div class="px-4 box-content-left">
@@ -214,9 +214,8 @@
 
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <!--<img src="img/rahul_circle.jpg" alt="Rahul" loading="lazy"
-                                style="width:100%; height:auto; border-radius: 50%;">-->
-                                <img src="img/rahul.jpg" alt="Rahul Prajapati" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
+                            <img src="img/rahul_circle.jpg" alt="Rahul" loading="lazy"
+                                style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name">Rahul Prajapat</h4>
@@ -279,7 +278,7 @@
                 </div>
             </div>
             <!-------- Custom Divider ------------>
-
+            
             <div class="row">
                 <div class="column">
                     <div class="card row-height-2">
@@ -424,7 +423,7 @@
         <br>
 
         <!------------------------Countdown start --------------------->
-        <?php
+        <?php 
                 include 'change_we_brought.php';
                 ?>
 
