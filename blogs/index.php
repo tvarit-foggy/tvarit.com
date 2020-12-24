@@ -260,6 +260,25 @@
                                         </div>
                                       </div>
                                 </li>
+                                <li>
+                                      <a class="toggle" href="javascript:void(0);">Data science projects</a>
+                                      <div class="inner">
+                                          <div class="form-group">
+                                              <div class="custom-control custom-checkbox">
+                                                  <input type="checkbox" class="custom-control-input "
+                                                      id="business-understanding" value=".business-understanding">
+                                                  <label class="custom-control-label" for="business-understanding">Business Understanding</label>
+                                              </div>
+                                          </div>
+                                          <div class="form-group">
+                                              <div class="custom-control custom-checkbox">
+                                                  <input type="checkbox" class="custom-control-input"
+                                                      id="ben-of-smart-int-agents" value=".ben-of-smart-int-agents">
+                                                  <label class="custom-control-label" for="ben-of-smart-int-agents">Benefits of smart/intelligent agents</label>
+                                              </div>
+                                          </div>
+                                        </div>
+                                  </li>
 
                             </ul>
 
@@ -272,7 +291,7 @@
 
                 <div class="col-md-8">
                     <div class="row scrollable-blogs filter-container">
-                        <div class="col-md-6 mix Topic">
+                        <div class="col-md-6 mix business-understanding">
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
@@ -316,7 +335,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6 mix DataScientists">
+                        <div class="col-md-6 mix ben-of-smart-int-agents">
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
