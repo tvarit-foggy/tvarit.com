@@ -336,10 +336,11 @@
                         </div>
 
                         <div class="col-md-6 mix ben-of-smart-int-agents">
+                        <div class="col-md-6 mix Topic">
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
-                                        Data scientists, CDO
+                                        Hands-on Tech
                                     </div>
                                     <img src="../img/intelligent_agents.jpg" alt="Data scientists, CDO" class="img-fluid">
                                 </div>
