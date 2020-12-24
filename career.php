@@ -108,7 +108,7 @@
                     <div class="card-header" id="headingTwo">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
                             aria-expanded="false" aria-controls="acccrdn2">
-                            Product Manager
+                            Product Manager (MUMBAI)
                         </a>
                     </div>
                     <div id="acccrdn2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -248,7 +248,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
                             aria-expanded="false" aria-controls="acccrdnSaleMang">
-                            Sales Manager - Full-Time
+                            Sales Manager - Full-Time (FRANKFURT AM MAIN)
                         </a>
                     </div>
 
@@ -355,7 +355,7 @@
                             </ul>
                             <hr>
                             <p class="red">To apply, please send a cover letter and CV, to <a
-                                    href="mailto:careers@tvarit.com">careers@tvarit.com</a></p>
+                                    href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a></p>
                             <br>
                             <p class="red">Location: Frankfurt am Main</p>
                         </div>
@@ -367,81 +367,113 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
                             aria-expanded="false" aria-controls="acccrdn4">
-                            Business Development Manager - Praktikum Werkstudent (3-6 Monate)
+                            Business Development Manager - Internship/Working Student (3-6 Months) (Frankfurt Am Main)
                         </a>
                     </div>
 
                     <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                Tvarit GmbH ist bestrebt, Unternehmen in der Herstellungsbranche zur Transformation in
-                                die Industrie 4.0
-                                mit der Nutzung seiner einzigartigen KI-Software zu helfen.
-                                Die von uns entwickelte KI-Software ist die modernste Komplettlösung, um viele
-                                Geschäftsprobleme unserer
-                                Kunden zu lösen.
-                                Du bist verantwortlich für den Aufbau und die Verbesserung der Marktposition des
-                                Unternehmens und für
-                                das finanzielle Wachstum. Du wirst an der Definition langfristiger strategischer
-                                Unternehmensziele, dem
-                                Aufbau wichtiger Kundenbeziehungen, der Identifizierung von Geschäftsmöglichkeiten, der
-                                Verhandlung
-                                und dem Abschluss von Geschäftsabschlüssen sowie der umfassenden Kenntnis der aktuellen
-                                Marktbedingungen beteiligt sein. Du solltest eine starke Wachstumsdenkensweise und eine
-                                starke
-                                Arbeitsmoral mitbringen.
+                                Tvarit GmbH strives to help companies in the manufacturing industry transform into Industry 4.0 with the use of its unique AI software. The AI software we have developed is the most modern complete solution to solve many of our customers' business problems. You are responsible for building and improving the company's market position and for financial growth. You will be involved in defining long-term strategic business goals, building key customer relationships, identifying business opportunities, negotiating and closing deals, and having a thorough understanding of current market conditions. You should have a strong growth mindset and work ethic.
                             </p>
 
-                            <h4>Deine Aufgaben:</h4>
+                            <h4>Your tasks:</h4>
                             <ul class="ul-list">
-                                <li>Arbeiten mit Kunden aus der Fertigungsindustrie: Verständnis verschiedener Probleme
-                                    und
-                                    Geschäftsanwendungen</li>
-                                <li>Vergrößerung des Kundenstamms durch den Besuch von Messen/Events und Teilnahme an
-                                    Technologie
-                                    -Gipfeln und Wettbewerben</li>
-                                <li>Besprechungen und Präsentationen zu den CXOs: Treffen zwischen den
-                                    Entscheidungsträgern der Kunden
-                                    und den Geschäftsführern/Verantwortlichen des Unternehmens</li>
-                                <li>Verantwortung für Social-Media Marketing in beispielsweise LinkedIn, Youtube XING
-                                    etc.
-                                </li>
+                                <li>Working with Manufacturing Customers</li>
+                                <li>Understanding various problems and business applications</li>
+                                <li>Increase the customer base by attending trade fairs / events and participating in technology summits and competitions</li>
+                                <li>Meetings and presentations on the CXOs</li>
+                                <li>Meetings between the decision makers of the customers and the managers / managers of the company</li>
+                                <li>Responsible for social media marketing in e.g. LinkedIn, Youtube, XING etc.</li>
                             </ul>
 
                             <br>
 
-                            <h4>Was du mitbringen solltest:</h4>
+                            <h4>What you must bring:</h4>
                             <ul class="ul-list">
-                                <li>Studiengänge mit den Schwerpunkten Betriebswirtschaft oder Ingenieurwesen (Bachelor-
-                                    oder
-                                    Masterstudiengang)
-                                </li>
-                                <li>Hohe Interesse für den Einsatz von Künstlicher Intelligenz
-                                </li>
-                                <li>Gute Ausstrahlung, Überzeugungskraft und Eigeninitiative vor Kunden</li>
-                                <li>Beratungs/SaaS-Startup-Erfahrung wird bevorzugt.</li>
-                                <li>Ambitionierte und verantwortungsvolle Arbeitsweise</li>
-                                <li>Sehr gute Kenntnisse von deutsch und englisch in Wort und Schrift</li>
+                                <li>Degree programs with a focus on business administration or engineering (bachelor's or master's degree)</li>
+                                <li>Great interest in the use of artificial intelligence</li>
+                                <li>Good charisma, persuasiveness and initiative in front of customers</li>
+                                <li>Consulting / SaaS startup experience is preferred</li>
+                                <li>Ambitious and responsible way of working</li>
+                                <li>Very good knowledge of German and English, both spoken and written</li>
                             </ul>
 
                             <br>
 
-                            <h4>Was wir bieten:</h4>
+                             <h4>What we offer:</h4>
                             <ul class="ul-list">
-                                <li>Steile Lernkurve</li>
-                                <li>Direkte Zusammenarbeit mit dem Kernteam
-                                </li>
-                                <li>Ein angenehmes und lebendiges Arbeitsumfeld
-                                </li>
-                                <li>gute Aussichten auf eine langfristige Zusammenarbeit</li>
+                                <li>Steep learning curve, Direct collaboration with the core team</li>
+                                <li>A pleasant and lively working environment good prospects for long-term cooperation</li>
                             </ul>
                             <br>
                             <hr>
-                            <p class="red">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
-                                Bewerbung
-                                und deinen Lebenslauf an <a href="mailto:careers@tvarit.com">careers@tvarit.com</a> mit dem Betreff
-                                “Praktikum/
-                                Werkstudent”</p>
+                            <p class="red">Did we spark your interest? Then send us your application and your résumé to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Internship / working student”</p>
+                            <br>
+                            <p class="red">Location: Frankfurt am Main</p>
+                        </div>
+                    </div>
+                </div>
+				
+				
+
+
+                <div class="card">
+                    <div class="card-header" id="headingFour">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
+                            aria-expanded="false" aria-controls="acccrdn4">
+                            Marketing  Manager - Full-Time (FRANKFURT AM MAIN)
+                        </a>
+                    </div>
+
+                    <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit GmbH is a rising German startup in the field of Industrial AI. Awarded in top 16 out of 490 AI companies from EU, Tvarit brings a robust and state-of-the-art Industrial Ai Solutions for German Manufacturing and Automobile companies. With techies from strong R&D background and universities such as TU Darmstadt, Stanford, NASA etc, Tvarit is on a voyage to become next unicorn.
+                            </p>
+                            <p class="text-p">
+                                Our software’s end objective is to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data-driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise.
+                            </p>
+                            <p class="text-p">
+                                You will be responsible for creating and improving the communication with customers, market position of the organization and achieve financial growth. You will be involved in defining long-term organizational strategic goals, building key customer relationships etc.
+                            </p>
+
+                            <h4>Responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Creation of marketing plans and a branding strategy for the company</li>
+                                <li>Creation of communication guides, sharp and clear content with a good graphical feel</li>
+                                <li>Creation of marketing campaigns to generate and qualify leads</li>
+                                <li>Evaluation and selection of pitch or speaking opportunities, planning and visiting exhibitions, registration and attending events</li>
+                                <li>Select suitable platforms and magazines to increase the company's visibility</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Your profile:</h4>
+                            <ul class="ul-list">
+                                <li>Bachelor or Masters degree in Marketing, Business Administration / Economics with a focus on Marketing</li>
+                                <li>At least 3 years of professional experience in brand and marketing management of software offerings in the production area for new products</li>
+                                <li>Knowledge of online and digital marketing</li>
+                                <li>Skilled in writing concise blogs and articles</li>
+                                <li>Excellent communication skills</li>
+                                <li>Fluent in German and English</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>We offer:</h4>
+                            <ul class="ul-list">
+                                <li>Attractive salary package</li>
+                                <li>The management of the marketing department and the gradual development of the team</li>
+                                <li>Opportunity to work with proven and experienced entrepreneurs</li>
+                                <li>Flexible and dynamic work environment</li>
+                                <li>Our mission is to enable manufacturing companies to improve their performance and increase their efficiency and productivity by providing valuable insights into their production through digitization</li>
+                                <li>Our team consists of experienced experts and young and energetic technocrats</li>
+                                <li>We are passionate about what we do, highly motivated and always open to new ideas and improvements</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">If you are interested, please send an application with a curriculum vitae to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a></p>
                             <br>
                             <p class="red">Location: Frankfurt am Main</p>
                         </div>
@@ -640,7 +672,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
                             aria-expanded="false" aria-controls="acccrdnMLR">
-                            Machine Learning Researcher (Digital Signal Processing)
+                            Machine Learning Researcher (Digital Signal Processing) (MUMBAI)
                         </a>
                     </div>
 
@@ -933,7 +965,7 @@
                     <div class="card-header" id="headingOne">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
-                            Senior Software Developer
+                            Senior Software Developer (MUMBAI)
                         </a>
                     </div>
 
