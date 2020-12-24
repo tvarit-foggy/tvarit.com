@@ -59,7 +59,7 @@
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
 
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include '../header_inner.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -190,7 +190,7 @@
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="Topic"
                                                     value=".Topic">
-                                                <label class="custom-control-label" for="Topic">Topic</label>
+                                                <label class="custom-control-label" for="Topic">Cross Industry</label>
                                             </div>
                                         </div>
                                     </div>
@@ -248,6 +248,37 @@
 
                                     </div>
                                 </li>
+                              <li>
+                                    <a class="toggle" href="javascript:void(0);">Think Series</a>
+                                    <div class="inner">
+                                        <div class="form-group">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input "
+                                                    id="think-ser-001" value=".think-ser-001">
+                                                <label class="custom-control-label" for="think-ser-001">Machine As A Service</label>
+                                            </div>
+                                        </div>
+                                      </div>
+                                </li>
+                                <li>
+                                      <a class="toggle" href="javascript:void(0);">Data science projects</a>
+                                      <div class="inner">
+                                          <div class="form-group">
+                                              <div class="custom-control custom-checkbox">
+                                                  <input type="checkbox" class="custom-control-input "
+                                                      id="business-understanding" value=".business-understanding">
+                                                  <label class="custom-control-label" for="business-understanding">Business Understanding</label>
+                                              </div>
+                                          </div>
+                                          <div class="form-group">
+                                              <div class="custom-control custom-checkbox">
+                                                  <input type="checkbox" class="custom-control-input"
+                                                      id="ben-of-smart-int-agents" value=".ben-of-smart-int-agents">
+                                                  <label class="custom-control-label" for="ben-of-smart-int-agents">Benefits of smart/intelligent agents</label>
+                                              </div>
+                                          </div>
+                                        </div>
+                                  </li>
 
                             </ul>
 
@@ -260,7 +291,7 @@
 
                 <div class="col-md-8">
                     <div class="row scrollable-blogs filter-container">
-                        <div class="col-md-6 mix Topic">
+                        <div class="col-md-6 mix business-understanding">
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
@@ -273,12 +304,28 @@
                                 </div>
                             </div>
                         </div>
-						
+
+                        <!---->
+                        <div class="col-md-6 mix think-ser-001">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Think Series
+                                    </div>
+                                    <img src="../blogs/img/MAAS Image_edited.jpg" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="think-services" class="title">Machine as a Service: Uber for Machines</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!---->
+
                         <div class="col-md-6 mix Automotive">
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
-                                        Automotive
+                                        Cross industry
                                     </div>
                                     <img src="../img/edge-ai.jpg" alt="Oil Gas" class="img-fluid">
                                 </div>
@@ -287,7 +334,8 @@
                                 </div>
                             </div>
                         </div>
-                        
+
+                        <div class="col-md-6 mix ben-of-smart-int-agents">
                         <div class="col-md-6 mix Topic">
                             <div class="blogBox">
                                 <div class="blogPic">
@@ -522,12 +570,12 @@
 
 
     <!------------------------Countdown start --------------------->
-    <?php 
+    <?php
                 include '../change_we_brought.php';
-                ?>  
+                ?>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php 
+    <?php
                  include '../change_we_bring.php';
                 ?>
     <!------------------------Automated slide end --------------------->
@@ -551,7 +599,7 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
+    <?php
                 include '../using-tvarit.php';
                 ?>
     <!------------------------Client logo slide end --------------------->
