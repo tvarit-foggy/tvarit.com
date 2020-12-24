@@ -29,7 +29,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="../img/favicon.png">
-    <title>Adding a Competitive Edge with 'Edge AI'</title>
+    <title>Business Understanding</title>
 
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
@@ -79,7 +79,7 @@
             <br>
 
             <p class="text-medium">
-                As we have focused on the definition of a smart agent and its benefits for organization in out last article it is now time to get more practical by providing you with some clear recommendations for the first steps in introducing an intelligent agent in your organization.
+                As we have focused on the definition of a smart agent and its benefits for organization in <a href="best-practices-to-follow-for-data-science-projects-in-manufacturing-industry">our last article</a> it is now time to get more practical by providing you with some clear recommendations for the first steps in introducing an intelligent agent in your organization.
             </p>
             <p class="text-medium">
                 During manufacturing processes, large quantities of data are being collected via different kinds of sensors. Pressure, temperature, accelerometers to name are a few of the sources which are commonly used. Taking decisions just based on the raw data is a very difficult task and is a time consuming process. Hence data needs to be transformed in a way it is easier to interpret and take suitable decisions to improve efficiency.
@@ -149,10 +149,13 @@
             <p class="text-medium">
                 From the defined problem statements, we need to select the use case that has the highest impact and also readily available data. In the end, the aim of our data science activities is to improve the efficiency of the involved manufacturing processes.
             </p>
+            <p class="text-p">
+			 If you want to stay up to date on this topic, follow us on <a href="https://www.linkedin.com/company/tvarit/" class="red" target="blank">LinkedIn</a> and don't miss another part of our blog series "Data Science projects in the Manufacturing Industry". If you have any questions or feedback, don't hesitate to <a href="../contact" class="red">contact us</a>!
+            </p>
         </div>
     </div>
 
-     <div class="section-padding" id="Team">
+    <!-- <div class="section-padding" id="Team">
         <div class="container">
             <div class="centerTitle">
                 <div class="text-big60">Contact</div>
@@ -184,7 +187,7 @@
                         </div>
                     </div>
                 </div>
-                <!---->
+                
 
                 <div class="col-md-4">
                     <div class="column">
@@ -211,7 +214,7 @@
                         </div>
                     </div>
                 </div>
-                <!---->
+                <!-----
                 <div class="col-md-4">
                     <div class="column">
                         <div class="card row-height-2">
@@ -241,7 +244,7 @@
             </div>
             <br><br>
         </div>
-    </div>
+    </div>-->
 
 
     <!------------------------ Automotives end --------------------->
