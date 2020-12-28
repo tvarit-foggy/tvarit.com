@@ -101,9 +101,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-10" style="margin: 0 auto;">
                     <div class="videoWrapper">
-                        <iframe class="videoFrame" src="https://www.youtube.com/embed/KW4hBH-lq0Y?rel=0" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                        <iframe class="videoFrame" src="https://www.youtube.com/embed/KW4hBH-lq0Y?rel=0&controls=0&autoplay=1&loop=1" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+                        </iframe>
                     </div>
                 </div>
             </div>
@@ -148,7 +148,7 @@
                 <div class="column">
                     <div class="row-height-2">
                         <div class="card-view-image">
-                            <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:auto;">
+                            <img src="img/suhas.jpg" alt="Suhas" style="width:100%; height:auto;border-radius: 50%;">
                         </div>
 
                         <div class="container">
