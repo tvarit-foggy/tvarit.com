@@ -138,7 +138,7 @@
                   <div class="column">
                       <div class="card row-height-2">
                           <div class="card-view-image text-center" style="margin:22px;">
-                              <img src="img/anirudth-aggarwal.jpg" width="180" alt="Rahul Prajapati" class="img-fluid" style="border-radius:50%;">
+                              <img src="img/anirudth-aggarwal.jpg" width="180" alt="" class="img-fluid" style="border-radius:50%;">
                           </div>
 
                           <div class="container">
@@ -162,7 +162,7 @@
                     <div class="column">
                         <div class="card row-height-2">
                             <div class="card-view-image text-center" style="margin:22px;">
-                                <img src="../img/rahul-prajapat.jpg" width="180" alt="Rahul Prajapati" class="img-fluid">
+                                <img src="img/rahul.jpg" width="180" alt="" class="img-fluid" style="border-radius:50%;">
                             </div>
 
                             <div class="container">

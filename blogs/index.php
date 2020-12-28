@@ -321,7 +321,7 @@
                         </div>
                         <!---->
 
-                        <div class="col-md-6 mix Automotive">
+                        <div class="col-md-6 mix Topic">
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
@@ -336,7 +336,6 @@
                         </div>
 
                         <div class="col-md-6 mix ben-of-smart-int-agents">
-                        <div class="col-md-6 mix Topic">
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
