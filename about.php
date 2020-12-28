@@ -216,7 +216,7 @@
                         <div class="card-view-image">
                             <!--<img src="img/rahul_circle.jpg" alt="Rahul" loading="lazy"
                                 style="width:100%; height:auto; border-radius: 50%;">-->
-                                <img src="img/rahul.jpg" alt="Rahul Prajapati" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
+                                <img src="img/rahul.jpg"  alt="Rahul Prajapati" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name">Rahul Prajapat</h4>
