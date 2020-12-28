@@ -10,7 +10,7 @@
   $mail->SMTPAuth   = TRUE;
   $mail->SMTPSecure = "tls";
   $mail->Port       = 587;
-  $mail->Host       = "smtp.office365.com";
+  $mail->Host       = "send.one.com";
   $mail->Username   = $mail_from;
   $mail->Password   = $mail_password;
 
@@ -19,8 +19,8 @@
   $mail->SetFrom($mail_from, "Sumesh");
   $mail->AddReplyTo("sumesh.surendran@tvarit.com", "Sumesh");
 //   $mail->AddCC("cc-recipient-email", "cc-recipient-name");
-  $mail->Subject = "Test is Test Email sent via Gmail SMTP Server using PHP Mailer";
-  $content = "<b>This is a Test Email sent via Gmail SMTP Server using PHP mailer class.</b>";
+  $mail->Subject = "Test is Test Email sent via One.com SMTP Server using PHP Mailer";
+  $content = "<b>This is a Test Email sent via One.com SMTP Server using PHP mailer class.</b>";
 
   $mail->MsgHTML($content); 
   if(!$mail->Send()) {
