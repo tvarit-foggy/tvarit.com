@@ -263,6 +263,13 @@
                                 <li>
                                       <a class="toggle" href="javascript:void(0);">Data science projects</a>
                                       <div class="inner">
+                                        <div class="form-group">
+                                            <div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input"
+                                                    id="ben-of-smart-int-agents" value=".ben-of-smart-int-agents">
+                                                <label class="custom-control-label" for="ben-of-smart-int-agents">Benefits of smart/intelligent agents</label>
+                                            </div>
+                                        </div>
                                           <div class="form-group">
                                               <div class="custom-control custom-checkbox">
                                                   <input type="checkbox" class="custom-control-input "
@@ -270,13 +277,7 @@
                                                   <label class="custom-control-label" for="business-understanding">Business Understanding</label>
                                               </div>
                                           </div>
-                                          <div class="form-group">
-                                              <div class="custom-control custom-checkbox">
-                                                  <input type="checkbox" class="custom-control-input"
-                                                      id="ben-of-smart-int-agents" value=".ben-of-smart-int-agents">
-                                                  <label class="custom-control-label" for="ben-of-smart-int-agents">Benefits of smart/intelligent agents</label>
-                                              </div>
-                                          </div>
+
                                         </div>
                                   </li>
 
@@ -291,19 +292,6 @@
 
                 <div class="col-md-8">
                     <div class="row scrollable-blogs filter-container">
-                        <div class="col-md-6 mix business-understanding">
-                            <div class="blogBox">
-                                <div class="blogPic">
-                                    <div class="industiesText">
-                                        Hands-on Tech
-                                    </div>
-                                    <img src="../blogs/img/business_understanding.jpg" class="img-fluid">
-                                </div>
-                                <div class="content">
-                                    <a href="business-understanding" class="title">Business Understanding</a>
-                                </div>
-                            </div>
-                        </div>
 
                         <!---->
                         <div class="col-md-6 mix think-ser-001">
@@ -345,6 +333,20 @@
                                 </div>
                                 <div class="content">
                                     <a href="best-practices-to-follow-for-data-science-projects-in-manufacturing-industry" class="title">Benefits of smart/intelligent agents</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 mix business-understanding">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Hands-on Tech
+                                    </div>
+                                    <img src="../blogs/img/business_understanding.jpg" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="business-understanding" class="title">Business Understanding</a>
                                 </div>
                             </div>
                         </div>
