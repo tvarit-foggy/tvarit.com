@@ -161,7 +161,7 @@
 
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/rahul_circle.jpg" alt="Rahul"
+                            <img src="img/rahul-prajapat.jpg" alt="Rahul"
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -197,7 +197,7 @@
                                 style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
-                            <h4 class="title title-name"> Tobias Gundermann</h4>
+                            <h4 class="title title-name">Tobias Gundermann</h4>
                             <h6 class="title">Customer Success Manager</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">

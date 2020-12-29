@@ -10,7 +10,7 @@
  $mail->SMTPAuth   = TRUE;
  $mail->SMTPSecure = "tls";
  $mail->Port       = 587;
- $mail->Host       = "smtp.office365.com";
+ $mail->Host       = "send.one.com";
  $mail->Username   = $mail_from;
  $mail->Password   = $mail_password;
 ?>
