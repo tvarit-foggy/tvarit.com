@@ -29,7 +29,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="../img/favicon.png">
-    <title>Adding a Competitive Edge with 'Edge AI'</title>
+    <title>Machine as a Service : Uber for Machines</title>
 
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
@@ -56,7 +56,7 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include '../header_inner.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -66,105 +66,103 @@
     <!------------------------ Automotives start --------------------->
     <div class="section-padding-both-2x" id="downClick">
         <div class="container">
+		<!--<br>
+            <span style="display: block; text-align: center;">
+                <img src="../blogs/img/business_understanding.jpg" alt="business-understanding" class="img-fluid">
+            </span>
+            <br>-->
+
             <div class="text-big60">
-                Adding a Competitive Edge with 'Edge AI'
+                Machine as a Service: Uber for Machines
             </div>
 
             <br>
 
             <p class="text-medium">
-                Artificial Intelligence (AI) has shown promising results in connected and already digital industries such as media and advertising, finance and retail. AI is entering many new fields at a high pace, and with its high impact on the environment, the manufacturing industry is one of the essential fields for the application of AI. Industrial AI, often termed as Industry 4.0, can increase production efficiency while bringing down manufacturing scrap and advancing towards a much cleaner environment.
+              Owning and operating a machine can lead to significant costs, mainly when the machine's operational efficiency is less than 50 percent. The “<strong>make or buy</strong>” decisions around machine ownership has there been since eternity. However, the Industry 4.0 platform gives us multiple hedging manufacturing investment options, increasing productivity, managing costs, and improving quality.
             </p>
             <p class="text-medium">
-                According to <a href="https://www.mckinsey.com/~/media/McKinsey/Industries/Semiconductors/Our%20Insights/Smartening%20up%20with%20artificial%20intelligence/Smartening-up-with-artificial-intelligence.ashx" target="_blank">McKinsey<sup>1</sup></a>, AI-enabled work in Germany's industrial sector could raise productivity by 0.8% to 1.4% annually and reduce overall maintenance costs by up to 10%. These productivity improvement goals require not only training AI/ML models on historical datasets but also taking corrective action items to improve the processes in real-time, which is referred to as "Intelligence on the Edge". However, in today's scenario, most of the manufacturing companies still don't have large bandwidth and high-speed connections, which are essential for making "Edge AI" the most relevant technology of the future.
+              Tvarit believes that “Machine as a service” is one such business model that might see the light of the day as industry increasingly adopts to industry 4.0 paradigm . The <em>Machine as a service</em> is not new, in fact a <strong>Taxi ride</strong> and <strong>Uber ride</strong> is a classic example of Machine as service. Yet, the application of IOT based User-interface by Uber has out-competed Taxi ride and is now an industry standard. We would see a similar transition in Industry, where machines would be available as service. The quality control, machine control, machine usage and costs would be available to the client, just like when using Uber. This would be possible using Industry 4.0 platforms and technologies. Industry 4.0 gives up much more flexibility, information than the currently used business models. In Machine as a service business models, the cost of Machine would be hedged over a period of time as “pay as use” pricing mechanism. <strong>Pay as use</strong> business models are broadly categorized into two types; these two types can be further sub-categorized
             </p>
+            <br>
 
             <br>
-            <h5 class="red">What is Edge AI:</h5>
+            <h5 class="red">Machine installation at the client site:</h5>
             <p class="text-medium">
-                "AI on the Edge" or "Edge AI" refers to the ability of machines to sense and react to their dynamic environment. With vast amounts of data being generated from hundreds of sensors on each machine, it is challenging to transfer the enormous volume of high-frequency data over the cloud. The setup is costly, has chances of data loss in the high-frequency data, and does not guarantee stability. <a href="https://www.gartner.com/smarterwithgartner/what-edge-computing-means-for-infrastructure-and-operations-leaders/" target="_blank">Gartner<sup>2</sup></a> states that today, around 90% of the data generated is processed in the cloud or traditional data centres, but this figure will reduce to only 25% by 2025, making edge AI the most exciting technology of the future. 
+              Machines are installed at the client's site. The Machine is not sold to the client. The machines are rented to the client and installed at the client's side and the client is assumed to pay for the Machine in the following three business models. One advantage of this model is that the product's IP is never compromised as the manufacturing happens at client's premises.
             </p>
-            <h4>Why Edge AI for Industrial Applications:</h4>
-
-            <ul style="list-style-type:none;">
-                <li>1.  Offline Availability</li>
-                <li>2.  Limit Cloud and Connectivity costs</li>
-                <li>3.  Data Security</li>
-                <li>4.  Time Critical Applications</li>
+            <ul>
+              <li>Machine is rented and charged per unit time:</li>
             </ul>
-            <br>
-
-            <h5 class="red">About Tvarit:</h5>
-
-            <p class="text-p">
-                Tvarit GmbH is a Germany based company that drives digital transformation by developing AI-based business models. Tvarit has been repeatedly awarded as the most innovative startup in Germany (TiE Germany 2018) and as one of the 8 best companies among 490 AI companies in Europe (EDI EU-Horizon 2020).
+            <p class="text-medium">
+              The Machine is installed at the client’s location. The client operates the Machine and pays for the usage. Such a method is a standard business model that is similar to rending a house. The Machine is rented, and the rent is paid for the duration it is rented. The Machine is located on the client’s premises. So, the Machine can only be used by a specific client for specific purposes. As the time increases, so does the charge paid to the machine manufacturer/owner. The owner of the Machine can pay the insurance costs of the Machine. These costs can be completely paid by the client. Also, the insurance costs can be divided between the owner/builder and the client. The insurance costs of the Machine could significantly impact the rent costs of the Machine.
             </p>
-            <p class="text-p">
-                Tvarit has successfully implemented 32 industrial AI projects, ranging from scrap rate reduction, minimising the number of defective parts in the aluminium production, detecting tool wear and quality in stamping dies, monitoring the machine condition, and recommending optimal process parameters for the machine operator to improve the production quality in injection moulding.
+            <ul>
+              <li>Machine is rented and charged per unit production:</li>
+            </ul>
+            <p class="text-medium">
+              The machine is installed at the client’s location. The machine is rented and charged as “Pay for use,” much like electricity or water. The more machine client uses, the more would be the cost of the machine. Again, the insurance of the expenses of having the machine at the clients location can be significantly high and it could be managed through multiple insurance models.
             </p>
-            <br>
-
-            <h5 class="red">How Tvarit adds value to Manufacturers with Beckhoff's TwinCAT 3:</h5>
-
-            <p class="text-p">
-                From the Internet of Things to the Internet of Services, Beckhoff is driving the key technologies that underline the convergence of Internet, Information Technology (IT), and automation technologies. <a href="https://www.mckinsey.com/~/media/McKinsey/Industries/Semiconductors/Our%20Insights/Smartening%20up%20with%20artificial%20intelligence/Smartening-up-with-artificial-intelligence.ashx" target="_blank">McKinsey<sup>1</sup></a> states that players in the industrial sector should develop core analytical capabilities internally, but also leverage third-party resources for AI-based performance improvements. Tvarit GmbH joins Beckhoff in providing tailor-made AI services, using Beckhoff's TwinCAT 3 automation technology. 
+            <ul>
+              <li>Machine is rented and charged per unit time and unit production.</li>
+            </ul>
+            <p class="text-medium">
+              The Machine is rented and charged for the duration of the renting and the number of products manufactured by the machine. This model is similar to Uber, where a rider pays for both the course and the distance travelled.
             </p>
-            <br>
-
-            <h5 class="red">TwinCAT 3 Machine Learning Libraries by Beckhoff: </h5>
-
-            <p class="text-p">
-               With TwinCAT 3 as the new, state-of-the-art software platform, Beckhoff integrates PC-based control technology with the Internet of Things (IoT) and data analytics, laying an essential foundation for Industry 4.0 and opening up a wealth of opportunities in the manufacturing industries. 
+            <br><br>
+            <h5 class="red">Machine/Factory owned and operated by the machine builder or Investor or Entrepreneur</h5>
+            <p class="text-medium">
+              Another business model is the typical modern "manufacturing outsourcing" based business model. Here, the machine is operated by the machine builder/ owner and the client outsources the manufacturing. The location of the Machine is with the machine builder. This gives the machine builder flexibility to servitize (operate) the Machine to multiple clients to increase operational efficiency. The downside of this model is that the client's IP is compromised, as we have seen such issues happening in the cases of manufacturing outsourcing in developing countries. In this model, the machine could be operated at a higher operational efficiency as the machine builder/owner can use the same machine for multiple clients. Also, the insurance costs and risks of the machine ownership are not shared with the client. One can argue that this model could be relatively cheaper.
             </p>
-
-            <p class="text-p">
-                TwinCAT 3 enables seamless integration of Machine Learning (ML) solutions into PC-based control applications, that run in real-time to handle highly demanding tasks like motion control. These capabilities provide product and equipment manufacturers with tailored Industry 4.0 and IoT applications, resulting in numerous advantages in terms of costs, process efficiency and quality. The cutting-edge industry-ready technology makes Beckhoff a market leader among many players in the industrial automation domain.
+            <ul>
+              <li>Machine is operated on price per unit production.</li>
+            </ul>
+            <p class="text-medium">
+              In this case, the machine is charged for “per unit production”. The insurance costs of the machine is entirely under the control of the machine owner/builder. The information on the quality costs can be relayed real time to the client for better coordination and trust.
             </p>
-            <br>
-            <span style="display: block; text-align: center;">
-                <img src="../img/beckhoff.jpg" alt="beckhoff" class="img-fluid">
-            </span>
-            <br>
-            <br>
-            <h5 class="red">Industrial Motor Application:</h5>
-
-            <p class="text-p">
-               Tvarit has also worked on the AI-based Machine Tool Health use-case with the TwinCAT 3 software. The bulky motor drives used in the printing press have busy operating schedules everyday to print millions of newspapers. A motor drive failure will cause a massive loss to the revenue of the printing press. A usual procedure during machine breakdowns is to change the motor drive losing atleast 10-15 minutes of printing time. A big challenge is to monitor the motor drive’s health and to predict the time of failure in advance avoiding unexpected failures and downtime. 
+            <p class="text-medium">
+              The success of <strong>Machine as service</strong> depends a lot on the IoT integration and machine data. A high-quality IoT data can not only increase the efficiency of operations but also reduce the costs and risks. The quality of machine information shared among the various parties ensures greater trust, optimization, price sharing, cost hedging and higher overall machine productivity.
             </p>
-            <p class="text-p">
-               The motor has close to 80 sensors connected to the TwinCAT 3’s automation platform, which log the measurements every 10 milliseconds using Beckhoff's TC3 Data Agent and TC3 Analytics Logger. The readings such as drive current, voltage, temperature, torque, etc. collected are transmitted to the storage centers via the Beckhoff's EtherCAT, for further analysis and modelling with Tvarit's Automatic Predictive Analytics (APA) platform.
-            </p>
-            <br>
-            <span style="display: block; text-align: center;">
-                <img src="../img/backhoff-tvarit.jpg" alt="beckhoff-tvarit" class="img-fluid">
-            </span>
-            <br>
-            <br>
-            <p class="text-p">
-               Within 6 man weeks, data-scientists at Tvarit have analysed the data to draw conclusions on error codes and determine the important input parameters for ML models. The models are successful in monitoring the health of the motor by predicting the possibility of failure 5 hours in advance. These models are pickled and are made ready to be deployed on the edge with the TwinCAT 3 Machine Learning platform. 
-            </p>
-            <p class="text-p">
-               Realtime “Predictive Alerts” for motor drive health have enabled shopfloor engineers to schedule motor drive maintenance without incurring huge losses. The prescriptive actions provided by the Tvarit’s AI platform helped machine operators to run the motor drives at optimal conditions. Overall the customer saved 120k € per year with a Return Of Ivestment within 3 years. 
-            </p>
-            <p class="text-p">
-               With its expertise in industrial data analytics and ML, Tvarit becomes a high-yielding partner to Beckhoff in providing end-to-end AI solutions to manufacturing companies in Automotive, Energy, Machine Building sectors. 
+            <p class="text-medium">
+              We at Tvarit strive to help our client hedge price risk on CAPEX investments by analyzing machine data and increasing multi-stakeholder trust using our proprietary technologies. We see <strong>Machine as service</strong> and <strong>factory as service</strong> as one of the emerging paradigms of the coming times.
             </p>
 
         </div>
     </div>
 
-     <div class="section-padding" id="Team">
+     <div class="" id="Team">
         <div class="container">
-            <div class="centerTitle">
-                <div class="text-big60">Contact</div>
-            </div>
-            <br>
             <div class="row">
-                <div class="col-md-4">
+
+              <div class="col-md-4 text-center ml-auto">
+                  <div class="column">
+                      <div class="card row-height-2">
+                          <div class="card-view-image text-center" style="margin:22px;">
+                              <img src="img/anirudth-aggarwal.jpg" width="180" alt="" class="img-fluid" style="border-radius:50%;">
+                          </div>
+
+                          <div class="container">
+                              <h4 class="title title-name">Dr. Anirudh Agrawal</h4>
+                              <div class="col-md-12 " style="padding-right:0px">
+                                  <div class="row" style="margin-right: 0px;">
+                                      <h5 class="title1 red">Associate Professor Flame University</h5>
+                                      <h6 class="title m-auto">Advisor Tvarit GmbH</h6>
+                                  </div>
+                              </div>
+                              <div class="short-line-team bg-red ml-auto mr-auto"></div>
+                              <div class="">
+                                  <div class="text-big20 mb-3">Author</div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
+                <div class="col-md-4 text-center mr-auto">
                     <div class="column">
                         <div class="card row-height-2">
                             <div class="card-view-image text-center" style="margin:22px;">
-                                <img src="../img/rahul-prajapat.jpg" width="180" alt="Rahul Prajapati" class="img-fluid">
+                                <img src="img/rahul.jpg" width="180" alt="" class="img-fluid" style="border-radius:50%;">
                             </div>
 
                             <div class="container">
@@ -172,22 +170,20 @@
                                 <div class="col-md-12 " style="padding-right:0px">
                                     <div class="row" style="margin-right: 0px;">
                                         <h5 class="title1 red">Tvarit GmbH</h5>
-                                        <h6 class="title">Co-founder & CTO</h6>
+                                        <h6 class="title m-auto">Co-founder & CTO</h6>
                                     </div>
                                 </div>
-                                <div class="short-line-team bg-red"></div>
-                                <a href="mailto:rahul@tvarit.com"  style="color:#000; text-decoration: underline;">
-                                    <i class="fa fa-envelope red"></i>
-                                 rahul@tvarit.com</a>
-                                
-                                <p><a href="tel:+49 1514 3507262"  style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 1514 3507262</a></p>
+                                <div class="short-line-team bg-red ml-auto mr-auto"></div>
+                                <div class="">
+                                    <div class="text-big20 mb-3">Co-Author</div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!---->
 
-                <div class="col-md-4">
+                <!--<div class="col-md-4">
                     <div class="column">
                         <div class="card row-height-2">
                             <div class="card-view-image text-center" style="margin:22px;">
@@ -206,14 +202,14 @@
                                 <a href="mailto:juergen.halt@tvarit.com"  style="color:#000; text-decoration: underline;">
                                 <i class="fa fa-envelope red"></i>
                                 juergen.halt@tvarit.com</a>
-                                
+
                                 <p><a href="tel:+49 1514 3507262"  style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 1514 3507262</a></p>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <!---->
-                <div class="col-md-4">
+                <!--<div class="col-md-4">
                     <div class="column">
                         <div class="card row-height-2">
                             <div class="card-view-image text-center" style="margin:22px;">
@@ -232,12 +228,12 @@
                                 <a href="mailto:f.bause@beckhoff.com" style="color:#000; text-decoration: underline;">
                                 <i class="fa fa-envelope red"></i>
                                 f.bause@beckhoff.com</a>
-                                
+
                                 <p><a href="tel:+49 5246 963 5349" style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 5246 963 5349</a></p>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
             </div>
             <br><br>
@@ -249,12 +245,12 @@
 
 
     <!------------------------Countdown start --------------------->
-    <?php 
+    <?php
                 include '../change_we_brought.php';
-                ?>  
+                ?>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php 
+    <?php
                  include '../change_we_bring.php';
                 ?>
     <!------------------------Automated slide end --------------------->
@@ -281,7 +277,7 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
+    <?php
                 include '../using-tvarit.php';
                 ?>
     <!------------------------Client logo slide end --------------------->
