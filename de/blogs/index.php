@@ -265,16 +265,16 @@
                                       <div class="inner">
                                           <div class="form-group">
                                               <div class="custom-control custom-checkbox">
-                                                  <input type="checkbox" class="custom-control-input "
-                                                      id="business-understanding" value=".business-understanding">
-                                                  <label class="custom-control-label" for="business-understanding">Business Understanding</label>
+                                                  <input type="checkbox" class="custom-control-input"
+                                                      id="ben-of-smart-int-agents" value=".ben-of-smart-int-agents">
+                                                  <label class="custom-control-label" for="ben-of-smart-int-agents">Benefits of smart/intelligent agents</label>
                                               </div>
                                           </div>
                                           <div class="form-group">
                                               <div class="custom-control custom-checkbox">
-                                                  <input type="checkbox" class="custom-control-input"
-                                                      id="ben-of-smart-int-agents" value=".ben-of-smart-int-agents">
-                                                  <label class="custom-control-label" for="ben-of-smart-int-agents">Benefits of smart/intelligent agents</label>
+                                                  <input type="checkbox" class="custom-control-input "
+                                                      id="business-understanding" value=".business-understanding">
+                                                  <label class="custom-control-label" for="business-understanding">Business Understanding</label>
                                               </div>
                                           </div>
                                         </div>
