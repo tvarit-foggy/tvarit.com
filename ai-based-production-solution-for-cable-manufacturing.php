@@ -340,7 +340,7 @@
     </div>
 
     <?php
-        include 'case-study-modal.php';
+        @include 'case-study-modal.php';
     ?>
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
