@@ -194,7 +194,7 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -334,8 +334,6 @@
                         <div class="social-icon">
                             <a href="https://www.facebook.com/tvaritAI" target="blank"><i
                                     class="fab fa-facebook-f"></i></a>
-                            <a href="https://www.xing.com/xbp/pages/tvarit-gmbh" target="blank"><i
-                                    class="fab fa-xing"></i></a>
                             <a href="https://twitter.com/TvaritAI" target="blank"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.linkedin.com/company/tvarit/" target="blank"><i
                                     class="fab fa-linkedin-in"></i></a>

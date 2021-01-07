@@ -194,13 +194,13 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg contactBg">
+    <header class="headerBg contactBg" style="background-size:85%;">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
@@ -209,7 +209,7 @@
                         <div class="text-1">
                             Haben <br> Sie Fragen <br>oder Anmerkungen?
                         </div>
-                        <div class="text-big60" style="-webkit-text-stroke-width: 2px;-webkit-text-stroke-color: #ffffff;">
+                        <div class="text-big40" style="-webkit-text-stroke-width: 2px;-webkit-text-stroke-color: #ffffff;">
                             WIR FREUEN UNS, VON IHNEN ZU HÖREN.
                         </div>
                         <br>
@@ -337,8 +337,8 @@
                         <div class="social-icon">
                             <a href="https://www.facebook.com/tvaritAI" target="blank"><i
                                     class="fab fa-facebook-f"></i></a>
-                            <a href="https://www.xing.com/xbp/pages/tvarit-gmbh" target="blank"><i
-                                    class="fab fa-xing"></i></a>
+                            <!--<a href="https://www.xing.com/xbp/pages/tvarit-gmbh" target="blank"><i
+                                    class="fab fa-xing"></i></a>-->
                             <a href="https://twitter.com/TvaritAI" target="blank"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.linkedin.com/company/tvarit/" target="blank"><i
                                     class="fab fa-linkedin-in"></i></a>
