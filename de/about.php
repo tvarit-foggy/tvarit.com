@@ -56,7 +56,7 @@
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
 
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -64,21 +64,21 @@
 
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg aboutBg" id="Vision">
+    <header class="headerBg aboutBg" id="Vision" style="background-size:70%;">
         <div class="container">
             <a href="#Team" class="hdrscrollArrow black_scroll"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
-                <div class="col-md-6" style="margin-top:45px;">
+                <div class="col-md-6" style="margin-top:75px;">
                     <div class="typography">
                         <div class="text-1">
                             <span class="tvarit-black"> <span class="color"></span>
                         </div>
-                        <div class="text-big60 red">
+                        <div class="text-big50 red">
                         Wer wir sind?
                         </div>
                         <br>
                         <div>
-                            <p class="text-p txt-justify" style="width:90%">
+                            <p class="text-p text-justify" style="width:85%">
                             Wir glauben daran, dass es eine Grundtugend ist, bestehende Prozesse in Frage zu stellen und durch die Nutzung neuer Technologien besser zu werden. Der natürliche "Schwund" an wertvollen Unternehmensressourcen, hervorgerufen durch Wartungskosten, Ausschuss, Energie- und Qualitätsprobleme sowie die ineffiziente Verwaltung von Beständen, ist kein Status Quo, mit dem wir uns zufriedengeben. ​ Deshalb arbeiten wir mit unserer “Werkzeugbox” an über 160 eigens entwickelten algorithmischen Modulen, um mit Data Science und maschinellem Lernen wertvolle Erkenntnisse aus der zunehmenden Menge an industriellen Daten zu ziehen. ​ Dafür entwickeln wir benutzerfreundliche Software-Produkte, die es unseren Kunden ermöglichen, drohende Ausfälle und Qualitätsabweichungen frühzeitig zu erkennen, pro-aktiv zu handeln und datenbasiert bessere Entscheidungen zu treffen.
                             </p>
                         <br>
@@ -372,7 +372,7 @@
         <br>
 
         <!------------------------Countdown start --------------------->
-        <?php 
+        <?php
                 include 'change_we_brought.php';
                 ?>
 

@@ -263,7 +263,7 @@
     ?>
     <!------------------------footer end --------------------->
     <?php
-    include 'case-study-modal.php';
+    @include 'case-study-modal.php';
     ?>
     <?php
     $isFor  = 'Molding Process';
