@@ -127,7 +127,7 @@ div.fadeMe {
                             <div class="col-lg-8 col">
                                 <ul class="ul-sub-menu">
                                     <li>
-                                        <a href="achive-more" class="sub-Link">
+                                        <a href="achieve-more" class="sub-Link">
                                             <img class="ai_solutions_img" src="./img/plus_ai.png"
                                                 alt="Achieve More Tvarit AI Solutions" />
                                             <div class="bold tvarit-black">
