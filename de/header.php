@@ -97,7 +97,7 @@ div.fadeMe {
                             <div class="col-lg-4 col">
                                 <ul class="ul-sub-menu">
                                     <li>
-                                        <a href="optimize-oee-for-steel-and-metal-manufacturing-companies"
+                                        <a href="optimize-oee-for-metal-manufacturing-companies"
                                             class="sub-Link">Steigerung der Gesamtanlageneffizienz in der
                                             Aluminiumproduktion</a>
                                     </li>
