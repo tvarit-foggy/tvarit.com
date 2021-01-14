@@ -31,6 +31,7 @@ jobs:
             \$password="$pwd";
             \$username="$name";
             \$mail_password="$mail_password";
+            \$mail_bcc="$mail_bcc";
             ?>
             EOF
             cat config.php
@@ -43,6 +44,7 @@ jobs:
             \$password="$pwd";
             \$username="$name";
             \$mail_password="$mail_password";
+            \$mail_bcc="$mail_bcc";
             ?>
             EOF
             cat de/config.php
