@@ -89,7 +89,7 @@ Dear $name,<br><br>
   Email:   $email  <br>
   Phone:   $phone<br>
   Company: $company<br>
-
+  Requested Use-Case: $page<br>
 ";
 
 $mail_content = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -113,7 +113,8 @@ $mail_content = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
   $mail->MsgHTML($message); 
   if($mail->send()){
     $mail->ClearAddresses();
-    $mail->AddAddress("info@tvarit.com");
+    $mail->AddAddress($mail_from);
+    $mail->addBCC($mail_bcc);
     $mail->MsgHTML($messageTvarit);
     if($mail->send()){ 
       echo 'Message has been sent';  
