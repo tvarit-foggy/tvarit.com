@@ -33,21 +33,21 @@
   }
 }
 div.fadeMe {
-  opacity:    1; 
-  background: #f1f1f1; 
+  opacity:    1;
+  background: #f1f1f1;
   width:      100%;
-  height:     100%; 
+  height:     100%;
   z-index:    10;
-  top:        0; 
-  left:       0; 
-  position:   fixed; 
+  top:        0;
+  left:       0;
+  position:   fixed;
   z-index: 9999999;
 }
 .logo-contain {
     text-align: center;
     height: 100vh;
 }
-</style>  
+</style>
 <!-- Scripts -->
 <script>
   (function(){
@@ -113,7 +113,7 @@ div.fadeMe {
                                             <a href="predictive-maintenance-for-industrial-electric-motors" class="sub-Link">Predictive
                                                 Maintenance for Industrial Electric Motors</a>
                                         </li>
-                                       
+
                                     </ul>
                                 </div>
                                 <div class="col-lg-4 col">
@@ -133,7 +133,7 @@ div.fadeMe {
                                 <div class="col-lg-8 col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="achive-more" class="sub-Link">
+                                            <a href="achieve-more" class="sub-Link">
                                                 <img class="ai_solutions_img" src="./img/plus_ai.png"
                                                     alt="Achieve More Tvarit AI Solutions" />
                                                 <div class="bold tvarit-black">
@@ -237,7 +237,7 @@ div.fadeMe {
     </div>
              <!------------------------sticky contact button start --------------------->
 <div class="sticky-contact-bar">
-<a href="contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt="Sticky Contact"></a>    
+<a href="contact" target="_blank" class="sticky-contact" > <img src="img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt="Sticky Contact"></a>
 <!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
 </div>
 <!------------------------sticky contact button end --------------------->
