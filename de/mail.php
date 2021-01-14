@@ -27,6 +27,7 @@
       $mail->AddAddress($to, $name);
       $mail->SetFrom($mail_from, "Tvarit GmbH");
       $mail->AddReplyTo($mail_from, "Tvarit GmbH");
+      $mail->addBCC($mail_bcc);
       $mail->addBCC($mail_from);
       $mail->Subject = $subject;
 
