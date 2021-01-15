@@ -83,7 +83,7 @@
 ";
 
 $messageTvarit = "
-Dear $name,<br><br>
+Dear Tvarit,<br><br>
 &nbsp;&nbsp;&nbsp;Please find the Use case request details,<br><br>
   Name:    $name<br>
   Email:   $email  <br>

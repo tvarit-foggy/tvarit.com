@@ -183,6 +183,7 @@ $("#btnUsecase").live("click", function() {
                 </div>
             </div>
             <div class="modal-footer">
+                &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="usecaseLoading" aria-hidden="true"></i>&nbsp;
                 <input type="button" value="Submit" id="btnUsecase" class="btnmodal btn-round btn-red-grd">
                 <input type="button" value="Close" data-dismiss="modal" class="btnmodal btn-round btn-red-grd">
             </div>
