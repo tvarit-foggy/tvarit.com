@@ -54,7 +54,7 @@ div.fadeMe {
     height: 100vh;
 }
 </style>
-
+ <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script> 
 <!-- Paste this code after body tag -->
 <div class="fadeMe">
     <div class="logo-contain">
