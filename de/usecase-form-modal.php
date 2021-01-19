@@ -1,3 +1,18 @@
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallbackUseCase&render=explicit" async defer></script>
+<script type="text/javascript">
+
+      var widgetId3;
+      var onloadCallbackUseCase = function() {
+        // Renders the HTML element with id 'example1' as a reCAPTCHA widget.
+        // The id of the reCAPTCHA widget is assigned to 'widgetId1'.
+        widgetId3 = grecaptcha.render('g-contact-captcha3', {
+          'sitekey' : '6Ld2XCkaAAAAAMbpYUwyFPTsegUXPl83DgZpl59s',
+          'theme' : 'light'
+        });
+        
+      };
+    </script>
+
 <script type="text/javascript" language="javascript">
 function IsEmail(email) {
     var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
@@ -8,6 +23,16 @@ function IsEmail(email) {
     }
 }
 $("#btnUsecase").live("click", function() {
+	if(!(grecaptcha.getResponse(widgetId3)!=null && grecaptcha.getResponse(widgetId3)!=''))
+		{
+			   document.getElementById('usecaseLoading').style.visibility = 'hidden';
+            var y = document.getElementById("validation3");
+            y.className = "show";
+            setTimeout(function() {
+                y.className = y.className.replace("show", "");
+            }, 3000);
+			return false;
+		}
     var isAccepted = $('#isAccept').is(':checked');
     if ($("#nameUsecase").val() !== "" && $("#comUsecase").val() !== "" && $("#emailUsecase").val() !== "" && isAccepted) {
         if (!IsEmail($("#emailUsecase").val())) {
@@ -120,7 +145,28 @@ $("#btnUsecase").live("click", function() {
     -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
     animation: fadein 0.5s, fadeout 0.5s 2.5s;
 }
+#validation3 {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
 
+#validation3.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+
+}
 @keyframes fadein {
     from {
         bottom: 0;
@@ -169,6 +215,9 @@ $("#btnUsecase").live("click", function() {
                     <div class="form-group">
                         <input type="text" class="form-control" name="company" id="comUsecase" placeholder="Company *">
                     </div>
+					<div class="form-group">
+                        <div class="g-recaptcha" id="g-contact-captcha3" ></div>
+                    </div>
 
                     <div class="form-group">
                         <div class="custom-control custom-checkbox">
@@ -179,6 +228,7 @@ $("#btnUsecase").live("click", function() {
                     <div id="emailValidationUsecase">Email is Incorrect</div>
                     <div id="snackbarUsecase">We Will Contact you Shortly</div>
                     <div id="validationUsecase">Fill All the Mandatory Fields</div>
+					<div id="validation3">Security Captcha Missing</div>
                     <br>
                 </div>
             </div>
