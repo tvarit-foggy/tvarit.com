@@ -485,6 +485,11 @@
                         <img src="img/partners_img/stifterverband.png" alt="stifterverband" loading="lazy" class="img-fluid">
                     </div>
                 </div>
+				<div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/demap-logo.png" alt="Demap" class="img-fluid">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
