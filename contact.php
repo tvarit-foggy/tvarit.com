@@ -137,7 +137,28 @@
         animation: fadein 0.5s, fadeout 0.5s 2.5s;
 
     }
+	#validation2 {
+        visibility: hidden;
+        min-width: 250px;
+        margin-left: -125px;
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        border-radius: 2px;
+        padding: 16px;
+        position: fixed;
+        z-index: 1;
+        left: 50%;
+        bottom: 30px;
+        font-size: 17px;
+    }
 
+    #validation2.show {
+        visibility: visible;
+        -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+        animation: fadein 0.5s, fadeout 0.5s 2.5s;
+
+    }
 
     @-webkit-keyframes fadein {
         from {
@@ -187,6 +208,20 @@
         }
     }
     </style>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+<script type="text/javascript">
+
+      var widgetId1;
+      var onloadCallback = function() {
+        // Renders the HTML element with id 'example1' as a reCAPTCHA widget.
+        // The id of the reCAPTCHA widget is assigned to 'widgetId1'.
+        widgetId1 = grecaptcha.render('g-contact-captcha', {
+          'sitekey' : '6Ldh9TAaAAAAAHWvk1HfwNWE0hSYGIzaLRdjLpUJ',
+          'theme' : 'light'
+        });
+        
+      };
+    </script>
 
 </head>
 
@@ -289,11 +324,13 @@
                             </div>
                             <br>
                             <div class="form-group text-right">
+							<div class="g-recaptcha" id="g-contact-captcha" ></div>
                                 <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
                                 &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveloader" aria-hidden="true"></i>
                             </div>
                             <div id="snackbar">We Will Contact you Shortly</div>
                             <div id="validation">Fill All the Mandatory Fields</div>
+							<div id="validation2">Security Captcha Missing</div>
                         </div>
                     </div>
                 </div>

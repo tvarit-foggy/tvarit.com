@@ -6,7 +6,7 @@
         // Renders the HTML element with id 'example1' as a reCAPTCHA widget.
         // The id of the reCAPTCHA widget is assigned to 'widgetId1'.
         widgetId3 = grecaptcha.render('g-contact-captcha3', {
-          'sitekey' : '6Ld2XCkaAAAAAMbpYUwyFPTsegUXPl83DgZpl59s',
+          'sitekey' : '6Ldh9TAaAAAAAHWvk1HfwNWE0hSYGIzaLRdjLpUJ',
           'theme' : 'light'
         });
         
