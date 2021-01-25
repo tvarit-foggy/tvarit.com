@@ -462,6 +462,11 @@
                         <img src="img/partners_img/zenit.png" alt="zenit" class="img-fluid">
                     </div>
                 </div>
+				<div class="carousel-cell">
+                    <div class="picBox">
+                        <img src="img/partners_img/demap-logo.png" alt="Demap" class="img-fluid">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
