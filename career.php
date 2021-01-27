@@ -1037,7 +1037,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                     <div class="card-header" id="headingSix">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn6"
                             aria-expanded="false" aria-controls="acccrdn1">
-                            SR. FRONT-END DEVELOPER (MUMBAI)
+                            SENIOR FRONT-END DEVELOPER (MUMBAI)
                         </a>
                     </div>
 
