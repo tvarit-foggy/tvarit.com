@@ -1088,7 +1088,6 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a href="javascript://">careers@tvarit.com</a></p>
                             <br>
-                            <p class="red"><strong>Availability:</strong> Full-time</p>
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
