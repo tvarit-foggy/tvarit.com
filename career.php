@@ -57,7 +57,7 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -114,8 +114,8 @@
                     <div id="acccrdn2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                We are looking for an experienced Product Manager who is passionate about building products that customers love. 
-                                You will join a dynamic and fast-paced environment and work with cross-functional teams to design, 
+                                We are looking for an experienced Product Manager who is passionate about building products that customers love.
+                                You will join a dynamic and fast-paced environment and work with cross-functional teams to design,
                                 build and roll-out products that deliver the company’s vision and strategy.
                             </p>
                             <h4>Principal Duties and Responsibilities:</h4>
@@ -414,8 +414,8 @@
                         </div>
                     </div>
                 </div>
-				
-				
+
+
 
 
                 <div class="card">
@@ -972,60 +972,17 @@
                     <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                            Senior Software Engineer will develop information systems by studying operations; designing,
-                            developing and installing software solutions; support and develop software team. The Senior
-                            Software Engineer will lead a team of developers responsible for building new and support
-                            existing websites.</p>
-                            <p class="text-p">
-                            Ability to prioritize well, communicate clearly, have a consistent track record of delivery and
-                            excellent software engineering skills. Creative engineering balanced with high quality and a
-                            customer focus. Must be able to work across multiple facets of the project and juggle multiple
-                            responsibilities at the same time. Strong analytic capability and the ability to create innovative
-                            solutions. We are looking for a highly motivated individual who is looking to grow their career in
-                            a fast-paced environment.</p>
-                            <p class="text-p">
-                            As of now we are using Grafana open-source utility for our frontend, so your task would be to
-                            write plugins for Grafana or even tweak Grafana source code. About 80% of your work would be
-                            on backend, API and Microservices Development. You will be modernizing application
-                            infrastructure and improving delivery effectiveness by building integration-centric solutions
-                            (service-oriented architectures). You will work closely within an agile, scrum-based team to
-                            understand the business domain and client requirements.</p>
-                            <p class="text-p">
-                            Our AI team has created an AI software for manufacturing industry where it predicts machine,
-                            process or plant failures at various levels in the timeframe. 
-                            </p>
+                              As a Senior Software Developer, you will work with a small but high energy team and help us to design and develop a scalable PaaS solution. You will ensure that we use the most suitable technologies and the right approach to turn customer requirements into generic features. You will work together with product management, designers and end-users to ensure product success.</p>
+                            <p class="text-p">You must have the ability to prioritize well, communicate clearly, have a consistent track record of delivery and excellent software engineering skills. You must be able to work across multiple facets of the project and juggle multiple responsibilities at the same time. Strong analytic capability and the ability to create innovative solutions. We are looking for a highly motivated individual who is looking to grow their career in a fast-paced environment.</p>
                             <h4>Key responsibilities:</h4>
                             <ul class="ul-list">
-                                <li>Develop high-quality software design and architecture solutions by studying information
-                                    needs; conferring with users; studying systems flow, data usage and work processes;
-                                    investigating problem areas; following the software development lifecycle</li>
-                                <li>Determine operational feasibility by evaluating analysis, problem definition,
-                                    requirements, solution development and proposed solutions</li>
-                                <li>Document and demonstrate solutions by developing documentation, flowcharts, layouts,
-                                    diagrams, charts, code comments and clear code</li>
-                                <li>Prepare and install solutions by determining and designing system specifications,
-                                    standards and programming</li>
-                                <li>Improve operations by conducting systems analysis; recommending changes in policies
-                                    and procedures</li>
-                                <li>Update job knowledge by studying state-of-the-art development tools, programming
-                                    techniques and computing equipment; participating in educational opportunities; reading
-                                    professional publications; maintaining personal networks; participating in professional
-                                    organizations
-                                <li>Protect operations by keeping information confidential</li>
-                                <li>Provide information by collecting, analyzing and summarizing development and service
-                                    issues</li>
-                                <li>Accomplish engineering and organization mission by completing related results as
-                                    needed</li>
-                                <li>Support and develop software engineers by providing advice, coaching and educational
-                                    opportunities and mentor junior and mid-level engineers</li>
-                                <li>Collaborate with team to brainstorm and create new products</li>
-                                <li>Grow engineering teams by interviewing, recruiting and hiring</li>
-                                <li>Make informed decisions quickly and taking ownership of services and applications at
-                                    scaleBe a persistent, creative problem -solver</li>
-                                <li>Remain cool and effective in a crisis</li>
-                                <li>Stay on the leading edge of development practices</li>
-                                <li>Passionate about great technologies, especially open source</li>
-                                <li>Understand business needs and know how to create the tools to manage them
+                                <li>Work together with product management, designers, and end-users to deliver new and improve existing solutions.</li>
+                                <li>Document and demonstrate solutions using easy to understand and visual manner.</li>
+                                <li>You own your code from ideation to development, and through QA and support.</li>
+                                <li>Write clean and well-tested and well-documented code.</li>
+                                <li>Improve existing solution and coach other software developers by sharing best practices.</li>
+                                <li>Stay on the leading edge of development tools and practices, passionate about open source.</li>
+                                <li>Make informed decisions quickly and take ownership of services and applications.</li>
                             </ul>
 
                             <br>
@@ -1033,42 +990,40 @@
                             <h4>Your background:</h4>
                             <ul class="ul-list">
                             <!--<li>Master's degree in in appropriate field of study</li>-->
-                            <li>Proven experience as a Senior Software Engineer</li>
-                            <li>5+ years of experience as a software engineer</li>
-                            <li>Extensive experience in software development, scripting and project management</li>
-                            <li>Experience coding, testing and documenting – including all front end functionality and templates – and modules – using contributed modules and developing custom modules as needed</li>
-                            <li>Experience working in an agile environment</li>
-                            <li>Experience building complex web systems that have been successfully delivered to customers</li>
-                            <li>Experience in communicating with users, other technical teams and management to collect requirements, identify tasks, provide estimates and meet production deadlines</li>
-                            <li>Experience with mission critical, 24x7 systems</li>
-                            <li>Experience implementing and consuming large scale web services</li>
-                            <li>Experience with professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing and operations</li>
-                            <li>Eagerness and willingness to learn new technologies</li>
-                            <li>Be very comfortable with SOAP (XML) and RESTful interfaces (JSON), both for creating outgoing responses and incoming consumption of data from external sources</li>.
-                            <li>Computer Science degree preferred</li>
+                            <li>Excellent programming skills in Python (2+ years of experience)</li>
+                            <li>3+ years of experience in software engineering</li>
+                            <li>Knowledge of agile software development processes and experience with development processes driven by regular code reviews.</li>
+                            <li>Understanding of software testing including static code analysis, unit testing etc.</li>
+                            <li>Are very comfortable with Linux systems and have extensive experience with bash scripting.</li>
+                            <li>Experience implementing and consuming large scale web services using SOAP and REST interfaces.</li>
+                            <li>Experience with database systems like MySQL, PostgreSQL, Influx DB.</li>
+                            <li>Understanding of modern cloud application development and distributed systems (e.g., with Docker, Kubernetes, microservices, Serverless).</li>
+                            <li>Experience orchestration tools like Apache Airflow and Apache NiFi.</li>
+                            <li>You are eager to learn and adapt to new technologies.</li>
 
                             </ul>
 
                             <br>
-                            <h4>Must have:</h4>
-                            <ul class="ul-list">
-                                <li>Fluent with functional, imperative and object-­oriented languages; knowledge of Python</li>
-                                <li>In-depth knowledge of relational databases (e.g., PostgreSQL, MySQL) and NoSQL databases (e.g., MongoDB)</li>
-                                <li>Having knowledge of Apache, NGINX, SOLR, Redis, shell scripting, and on a variety of platforms, including Unix/Linux, in physical, virtualized and cloud (Amazon/AWS) environments</li>
-                                <li>Experience with cloud message APIs and usage of push notifications </li>
-                                <li>Experienced with deploying applications on Docker, Kubernetes.</li>
-                                <li>Experienced with cloud services like AWS, Azure.</li>
-
-
-                            </ul>
-                            <br>
-
                             <h4>Good to have:</h4>
                             <ul class="ul-list">
-                                <li>Knowledge about Service Oriented Architecture (SOA) patterns, automating business process models, API enabled gateway and multi/hybrid cloud-based services, Golang</li>
-                                <li>Knowledge of Big Data technologies</li>
-
+                                <li>Knowledge of Golang</li>
+                                <li>Knowledge of Big Data technologies like Spark, Flink etc.</li>
+                                <li>Experience leading a team of software developers.</li>
                             </ul>
+                            <br>
+
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide hands-on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams.</li>
+                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that
+drives the organization and helps senior management taking data-driven business decisions.</li>
+                            </ul>
+                            <br>
+                            <h4>About Tvarit</h4>
+                            <p class="text-p">Industry 4.0 Market is expected to reach 152.31 Billion USD by 2022, at a CAGR of 14.72%. Germany, being the headquarter to the world’s leading manufacturing and automotive companies, is seen as a major contributor to Industry 4.0 innovations. The increasing adoption of the industrial Internet, increased focus on efficient production, single day plant shutdown costing millions of euro are the major drivers for the Industry 4.0 market.
+We, at Tvarit, envision to create AI for manufacturing and focus on the implementation of Industry 4.0 in the industrial equipment sector which helps manufacturers in analysing the machine conditions in advance to avoid unplanned downtime and wastage.</p>
+<p class="text-p">Based on technology, the market has been segmented into industrial robotics in smart factories, cybersecurity, advanced human-machine interface and artificial intelligence. The increasing use of industrial robotics in the automotive sector is also a major reason for this technology to have the largest market share in the market. Being an early mover in these segments, we have an advantage of tapping the huge potential in the manufacturing and automotive industry.</p>
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
@@ -1076,7 +1031,68 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div> 
+                </div>
+                <!---->
+                <div class="card">
+                    <div class="card-header" id="headingSix">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn6"
+                            aria-expanded="false" aria-controls="acccrdn1">
+                            SENIOR FRONT-END DEVELOPER (MUMBAI)
+                        </a>
+                    </div>
+
+                    <div id="acccrdn6" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">Tvarit GmbH envisions to help manufacturing companies transform their businesses by leveraging AI. We strive to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise. This is a chance for you to get in on the ground floor of an exciting AI company.</p>
+                            <p class="text-p">
+                              Your task would be to write plugins for Grafana (an open-source framework) or even tweak Grafana source code sometimes. You will work closely within an agile, scrum-based team to understand the business domain and client requirements.</p>
+                              <h4>Job Details:</h4>
+                              <p>Our goal is to build scalable and sustainable Automated Predictive Analytics (APA) solutions which are invisible and assistive, allowing manufacturers to do what they love-efficient productions. For this we need a robust and interactive frontend which allows users to visualise their data and peek under the hood if required. We use a modified version of Grafana for achieving this. </p>
+                            <h4>Key Responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Development and maintenance of web application (Grafana) as per design requirements.</li>
+                                <li>Coordinate with the backend team to get any required API implemented.</li>
+                                <li>Collaborate with back-end developers and web designers to improve usability</li>
+                                <li>Ensure high quality graphic standards and brand consistency</li>
+                                <li>Optimize applications for maximum speed</li>
+                                <li>Write functional requirement documents and guides</li>
+                                <li>Get feedback from, and build solutions for, users and customers</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Skills Required</h4>
+                            <ul class="ul-list">
+                            <!--<li>Master's degree in in appropriate field of study</li>-->
+                              <li>Experience in developing and maintaining production level applications</li>
+                              <li>Experience with GitHub or similar git-based application</li>
+                              <li>Familiarity with any Linux/Unix based operating system (Ubuntu, Debian, MacOS, etc)</li>
+                              <li>Indepth knowledge of ReactJS (version 16.12) with at least one year of experience</li>
+                              <li>Basic knowledge of AngularJS (version 1.6)</li>
+                              <li>Basic knowledge of designing and UI/UX</li>
+                              <li>Understanding of SCRUM methodology</li>
+                              <li>Ability to quickly learn new concepts</li>
+                              <li>Basic knowledge of Golang (version 1.14) (Optional)</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams</li>
+                                <li>Experience working with Manufacturing companies especially in German-speaking region</li>
+                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+                <!---->
             </div>
 
         </div>
@@ -1093,8 +1109,8 @@
 
                         <div class="more">
                             <p class="text-p">
-                            Our Mission is to build scalable and sustainable AI solutions which are assistive and 
-                            provide actionable insights allowing manufacturers to do what they love - efficient productions. 
+                            Our Mission is to build scalable and sustainable AI solutions which are assistive and
+                            provide actionable insights allowing manufacturers to do what they love - efficient productions.
                             We are rooted to give one simple solution to make any work easier, smarter and upgraded.
                             </p>
                         </div>
@@ -1107,8 +1123,8 @@
 
                         <div class="more">
                             <p class="text-p">
-                            How do you change the world? Bring people together. 
-                            Where is the easiest place to bring people together? In the work environment. 
+                            How do you change the world? Bring people together.
+                            Where is the easiest place to bring people together? In the work environment.
                             Therefore we consistently strive to create the healthiest environment where our team can innovate, learn and grow without any push and pull. We cater to the needs of our employees with utmost affection as they belong with us. We care because you do.
                             </p>
                         </div>
@@ -1141,13 +1157,13 @@
 
     <!------------------------Countdown start --------------------->
     <div class="section-padding">
-    <?php 
+    <?php
                 include 'change_we_brought.php';
                 ?>
                 </div>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php 
+    <?php
                 include 'change_we_bring.php';
                 ?>
     <!------------------------Automated slide end --------------------->
@@ -1171,7 +1187,7 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
+    <?php
                 include 'using-tvarit.php';
                 ?>
     <!------------------------Client logo slide end --------------------->
