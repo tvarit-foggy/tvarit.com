@@ -147,8 +147,7 @@
         animation: fadein 0.5s, fadeout 0.5s 2.5s;
 
     }
-	
-	 #validation2 {
+   #validation2 {
         visibility: hidden;
         min-width: 250px;
         margin-left: -125px;
@@ -219,7 +218,7 @@
         }
     }
     </style>
-	<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 <script type="text/javascript">
 
       var widgetId1;
@@ -233,6 +232,7 @@
         
       };
     </script>
+
 </head>
 
 <body>
@@ -334,7 +334,7 @@
                             </div>
                             <br>
                             <div class="form-group text-right">
-								<div class="g-recaptcha" id="g-contact-captcha" ></div>
+                              <div class="g-recaptcha" id="g-contact-captcha" ></div>
                                 <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
                                 &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveloader" aria-hidden="true"></i>
                             </div>

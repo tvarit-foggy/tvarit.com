@@ -147,6 +147,28 @@
         animation: fadein 0.5s, fadeout 0.5s 2.5s;
 
     }
+	 #validation2 {
+        visibility: hidden;
+        min-width: 250px;
+        margin-left: -125px;
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        border-radius: 2px;
+        padding: 16px;
+        position: fixed;
+        z-index: 1;
+        left: 50%;
+        bottom: 30px;
+        font-size: 17px;
+    }
+
+    #validation2.show {
+        visibility: visible;
+        -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+        animation: fadein 0.5s, fadeout 0.5s 2.5s;
+
+    }
 
 	 #validation2 {
         visibility: hidden;
@@ -234,6 +256,8 @@
         
       };
     </script>
+
+  
 </head>
 
 <body>
@@ -337,7 +361,7 @@
                             </div>
                             <br>
                             <div class="form-group text-right">
-								<div class="g-recaptcha" id="g-contact-captcha" ></div>
+                               <div class="g-recaptcha" id="g-contact-captcha" ></div>
                                 <input type="button" value="Senden" id="btn" class="btn btn-round btn-red-grd">
                                 &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveloader" aria-hidden="true"></i>
 

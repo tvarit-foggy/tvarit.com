@@ -15,7 +15,7 @@
      }
 
      $("#btn").live("click", function() {
-		 if(!(grecaptcha.getResponse(widgetId1)!=null && grecaptcha.getResponse(widgetId1)!=''))
+    if(!(grecaptcha.getResponse(widgetId1)!=null && grecaptcha.getResponse(widgetId1)!=''))
 		{
 			   document.getElementById('saveLoading').style.visibility = 'hidden';
             var y = document.getElementById("validation2");
@@ -146,6 +146,27 @@
      }
 
      #validation.show {
+         visibility: visible;
+         -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+         animation: fadein 0.5s, fadeout 0.5s 2.5s;
+     }
+	  #validation2 {
+         visibility: hidden;
+         min-width: 250px;
+         margin-left: -125px;
+         background-color: #333;
+         color: #fff;
+         text-align: center;
+         border-radius: 2px;
+         padding: 16px;
+         position: fixed;
+         z-index: 1;
+         left: 50%;
+         bottom: 70px;
+         font-size: 17px;
+     }
+
+     #validation2.show {
          visibility: visible;
          -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
          animation: fadein 0.5s, fadeout 0.5s 2.5s;
@@ -361,15 +382,15 @@
                                  </div>
                                  <br>
                                  <div class="form-group">
-								  <div class="g-recaptcha" id="g-contact-captcha" ></div>
-								 <br />
+                                   <div class="g-recaptcha" id="g-contact-captcha" ></div>
+								                    <br />
                                      <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
                                       &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveLoading" aria-hidden="true"></i>
                                  </div>
                                  <div id="snackbar">We Will Contact You Shortly</div>
 
                                  <div class="validationDemoIfEmpty" id="validation">Fill all the mandatory fields</div>
-								  <div class="validationDemoIfEmpty" id="validation2">Security Captcha Missing</div>
+                                  <div class="validationDemoIfEmpty" id="validation2">Security Captcha Missing</div>
                                  <div class="validationDemoIfEmpty" id="validationDemoIfEmpty">Please enter your email
                                      id</div>
                                  <div class="validationDemoIfEmpty" id="validationDemoInvalidEmail">Please enter a valid
@@ -461,7 +482,7 @@ window.cookieconsent.initialise({
 });
 });*/
 </script>  
- <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 <script type="text/javascript">
 
       var widgetId1;
@@ -473,7 +494,7 @@ window.cookieconsent.initialise({
         
       };
     </script>
-
+  
  </body>
 
  </html>

@@ -14,7 +14,7 @@
      }
 
      $("#btn").live("click", function() {
-		 if(!(grecaptcha.getResponse(widgetId1)!=null && grecaptcha.getResponse(widgetId1)!=''))
+    if(!(grecaptcha.getResponse(widgetId1)!=null && grecaptcha.getResponse(widgetId1)!=''))
 		{
 			   document.getElementById('saveLoading').style.visibility = 'hidden';
             var y = document.getElementById("validation2");
@@ -149,7 +149,7 @@
          -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
          animation: fadein 0.5s, fadeout 0.5s 2.5s;
      }
-
+	 
 	  #validation2 {
          visibility: hidden;
          min-width: 250px;
@@ -165,7 +165,6 @@
          bottom: 70px;
          font-size: 17px;
      }
-
      #validation2.show {
          visibility: visible;
          -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
@@ -207,7 +206,7 @@
          position: fixed;
          z-index: 1;
          left: 50%;
-         bottom: 30px;
+         bottom: 70px;
          font-size: 17px;
      }
 
@@ -356,8 +355,8 @@
                                  </div>
                                  <br>
                                  <div class="form-group">
-								  <div class="g-recaptcha" id="g-contact-captcha" ></div>
-								 <br />
+                                  <div class="g-recaptcha" id="g-contact-captcha" ></div>
+								                  <br />
                                      <input type="button" value="Senden" id="btn" class="btn btn-round btn-red-grd">
                                      &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveLoading" aria-hidden="true"></i>
                                  </div>
