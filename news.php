@@ -47,7 +47,7 @@
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
-    
+
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -63,6 +63,7 @@
     #new-carousel .item {
         width: 325px;
     }
+    .upcoming-event .newsBox{display: flex;}
     </style>
 </head>
 
@@ -70,7 +71,7 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
        <!------------------------ main menu start ---------------------->
-       <?php 
+       <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -112,7 +113,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="white-box-shadow dateNtitleScrollbar checkbox-filter">
-                    
+
                         <a href="https://www.linkedin.com/posts/tvarit_edi-bigdatasolutions-datathon-activity-6609709586997932032-dy2o" target="_blank" class="dateNtitle">
                             <span class="date">22 December 2019</span>
                             <span class="title">“These refine ideas are now going to turn into real products”, says Diego López-de-Ipiña, European Data Incubator Project Coordinator. #EDI and etventure strive to develop not only products that can add value to businesses but also #BigDataSolutions that help organisations to make better decisions.</span>
@@ -125,7 +126,7 @@
 
                         <a href="https://www.linkedin.com/posts/tvarit_meet-serial-entrepreneur-suhas-he-wants-activity-6609885561924743168-69w_" target="_blank"  class="dateNtitle">
                             <span class="date">12 December 2019</span>
-                            <span class="title">Hear our CEO Mr.Suhas Patel on his journey so far and how he plans to grow Tvarit into the first unicorn from Frankfurt. 
+                            <span class="title">Hear our CEO Mr.Suhas Patel on his journey so far and how he plans to grow Tvarit into the first unicorn from Frankfurt.
                             Many thanks to Startuprad.io for organizing it and helping us to reach out to a wider audience.</span>
                         </a>
 
@@ -167,13 +168,13 @@
 
                         <a href="https://www.linkedin.com/posts/tvarit_industry4abr0-emohannover2019-vdma-activity-6581631001498345472-TKnz" target="_blank" class="dateNtitle">
                             <span class="date">20 September 2019</span>
-                            <span class="title">Huge thanks to VDMA and EMO Hannover for giving us an opportunity to present our revolutionary industrial AI technology for manufacturing industry. 
+                            <span class="title">Huge thanks to VDMA and EMO Hannover for giving us an opportunity to present our revolutionary industrial AI technology for manufacturing industry.
                             We have developed state-of-the-art AI technology for machines and tools manufactures. Our AI technology doesn't require any big data, our AI software can find business use-cases and good data automatically. </span>
                         </a>
-                       
+
                         <a href="https://www.linkedin.com/posts/tvarit_corporatechallenge-tvaritai-tvaritgmbh-activity-6576760415643066368-6x5S" target="_blank" class="dateNtitle">
                             <span class="date">17 September 2019</span>
-                            <span class="title">Proud moment for #Tvarit for winning the Industrial Challenge at World's one of the biggest Auto Expo, #IAA #Frankfurt. 
+                            <span class="title">Proud moment for #Tvarit for winning the Industrial Challenge at World's one of the biggest Auto Expo, #IAA #Frankfurt.
                                 We'll be showcasing our revolutionary Industrial AI product at IAA Exhibition on 11-13th Sep 2019.</span>
                         </a>
 
@@ -187,7 +188,7 @@
                             <span class="date">5 August 2019</span>
                             <span class="title"> Our CEO Mr. Suhas Patel speaks on the topic of "AI in manufacturing" at  Frankfurt School of Finance & Management. Thanks a lot Disrupt Network  for organizing this event and giving us an opportunity to speak on this topic. He explained how Tvarit AI technology is different and better. Also, how manufacturing companies can achieve scalability and fast 360 degree  identification of business use-cases in a single click.</span>
                         </a>
-                        
+
                         <a href="https://www.linkedin.com/posts/tvarit_startupgrowth-ai-artificialintelligence-activity-6562968435532365824-j79Z" target="_blank" class="dateNtitle">
                             <span class="date">22 July 2019</span>
                             <span class="title">We are proud to announce that the most revolutionary technology incubation program  for startups has been launched.</span>
@@ -202,8 +203,8 @@
                             <span class="date">14 July 2019</span>
                             <span class="title">Join us on Wednesday, July 17th at 3.00 PM to learn how Artificial intelligence is changing the Manufacturing sectors. This is our fourth webinar and this time we will share more deep knowledge about the technology and industries associated with it.</span>
                         </a>
-                        
-                        
+
+
                         <a href="https://www.linkedin.com/posts/tvarit_artificiaiintelligence-smarthomes-smartbuildings-activity-6547116957492174848-P4VP" target="_blank" class="dateNtitle">
                             <span class="date">20 June 2019</span>
                             <span class="title">Our Co-founder and CTO Rahul Prajapat speaks  on the topic of "Use of AI to save your energy bills" at an AI meet up event in Frankfurt, Germany.  He shared cases from India and US  where Tvarit GmbH helped customers in achieving substantial amount of savings on their energy bills. </span>
@@ -222,7 +223,7 @@
                         <a href="https://www.linkedin.com/posts/tvarit_zvei-artificialintelligence-automotiveindustry-activity-6537671579642486784-_wNQ" target="_blank" class="dateNtitle">
                             <span class="date">29 May 2019</span>
                             <span class="title">Huge Success@ZVEI Event.
-                            Feeling proud to be selected as one of the 6 startups to present its AI Software in #ZVEI Jahreskongress to C-level executives of its 1600 German manufacturing industry members. A great achievement for our team! 
+                            Feeling proud to be selected as one of the 6 startups to present its AI Software in #ZVEI Jahreskongress to C-level executives of its 1600 German manufacturing industry members. A great achievement for our team!
                             </span>
                         </a>
 
@@ -315,7 +316,7 @@
                         </div>
                     </a>
                 </div>-->
-             
+
 
 
             <!-- </div>
@@ -416,8 +417,8 @@
                             <h4 class="title">Tvarit taking workshop at Indian Consulate in Frankfurt, making people
                                 aware about AI’s use cases
                             </h4>
-                            <div class="post-text"> 
-                             News Post <span class="date">02,2019</span> 
+                            <div class="post-text">
+                             News Post <span class="date">02,2019</span>
                             </div>
                         </div>
                     </a>
@@ -497,16 +498,57 @@
         </div>
     </div>
 
-   
+
+<!--upcoming events-->
+<div class="section-padding-both  bg-white-section">
+    <div class="container">
+
+        <div class="title md-center-title">
+            <div class="text-first red">Upcoming</div>
+            <div class="text-big60">Events</div>
+            <div class="short-line bg-red"></div>
+        </div>
+
+        <br>
+
+        <div class="upcoming-event owl-theme">
+        <div class="item">
+                <a href="https://www.digital-machining.de/" target="_blank" class="newsBox">
+                    <div class="news-pic">
+                        <img src="img/demap-logo.png" loading="lazy" class="img-fluid" style="width:442px;">
+                    </div>
+                    <div class="news-content">
+                        <div class="text-sub">Presentations</div>
+                        <ul>
+                          <li>"Kûnstliche intelligenz in der Zerspanung" (De)</li>
+                          <li>"Artificial Intelligence in machining" (ENG)</li>
+                        </ul>
+                        <div class="post-text">
+                            <span class="date">17 to 19 March 2021</span>
+                            <!--<br><br>
+                            <span class="read-more-link">Read More</span>-->
+
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<!--end upcoming events-->
+
+
 
 
     <!------------------------Countdown start --------------------->
-    <?php 
+    <?php
                 include 'change_we_brought.php';
-                ?>  
+                ?>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php 
+    <?php
                 include 'change_we_bring.php';
                 ?>
     <!------------------------Automated slide end --------------------->
@@ -530,7 +572,7 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
+    <?php
                 include 'using-tvarit.php';
                 ?>
     <!------------------------Client logo slide end --------------------->
@@ -538,7 +580,7 @@
 
 
     <!------------------------footer start --------------------->
-    <?php 
+    <?php
      include('footer.php');
      ?>
     <!------------------------footer end --------------------->
@@ -564,7 +606,7 @@
     <script src="js/mixitup.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-    
+
 </body>
 
 </html>
