@@ -1037,7 +1037,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                     <div class="card-header" id="headingSix">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn6"
                             aria-expanded="false" aria-controls="acccrdn1">
-                            SENIOR FRONT-END DEVELOPER (MUMBAI)
+                            SR. FRONT-END DEVELOPER (MUMBAI)
                         </a>
                     </div>
 
@@ -1083,6 +1083,74 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                                 <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams</li>
                                 <li>Experience working with Manufacturing companies especially in German-speaking region</li>
                                 <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red"><strong>Availability:</strong> Full-time</p>
+                            <p class="red">Location: Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+                <!---->
+                <!---->
+                <div class="card">
+                    <div class="card-header" id="headingSeven">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn7"
+                            aria-expanded="false" aria-controls="acccrdn1">
+                            DIRECTOR - SOFTWARE DEVELOPMENT (MUMBAI)
+                        </a>
+                    </div>
+
+                    <div id="acccrdn7" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
+                        <div class="card-body">
+                            <h4>Job Description</h4>
+                            <p class="text-p">As a Director of Software Development, you will work with a small but high energy team and help us to design and develop a scalable PaaS solution. You will ensure that we use the most suitable technologies and the right approach to turn customer requirements into generic features. You will work together with product management, designers and end-users to ensure product success. </p>
+                            <p class="text-p">You must have the ability to prioritize well, communicate clearly, have a consistent track record of delivery and excellent software engineering skills. You must be able to work across multiple facets of the project and juggle multiple responsibilities at the same time. Strong analytic capability and the ability to create innovative solutions. We are looking for a highly motivated individual who is looking to grow their career in a fast-paced environment.</p>
+
+                            <h4>Key Responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Work together with product management, designers, and end-users to deliver new and improve existing solutions. </li>
+                                <li>Document and demonstrate solutions using easy to understand and visual manner. </li>
+                                <li>You own your code from ideation to development, and through QA and support.</li>
+                                <li>Write clean and well-tested and well-documented code.</li>
+                                <li>Improve existing solution and coach other software developers by sharing best practices.</li>
+                                <li>Stay on the leading edge of development tools and practices, passionate about open source.</li>
+                                <li>Make informed decisions quickly and take ownership of services and applications.</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Your background</h4>
+                            <ul class="ul-list">
+                            <!--<li>Master's degree in in appropriate field of study</li>-->
+                              <li>Excellent programming skills in Python (4+ years of experience)</li>
+                              <li>4+ years of experience in software engineering</li>
+                              <li>Knowledge of agile software development processes and experience with development processes driven by regular code reviews.</li>
+                              <li>Understanding of software testing including static code analysis, unit testing etc.</li>
+                              <li>Are very comfortable with Linux systems and have extensive experience with bash scripting.</li>
+                              <li>Experience implementing and consuming large scale web services using SOAP and REST interfaces.</li>
+                              <li>Experience with database systems like MySQL, PostgreSQL, Influx DB.</li>
+                              <li>Understanding of modern cloud application development and distributed systems (e.g., with Docker, Kubernetes, microservices, Serverless).</li>
+                              <li>Experience orchestration tools like Apache Airflow and Apache NiFi.</li>
+                              <li>You are eager to learn and adapt to new technologies.</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Good to have.</h4>
+                            <ul class="ul-list">
+                                <li>Knowledge of Golang</li>
+                                <li>Knowledge of Big Data technologies like Spark, Flink etc.</li>
+                                <li>Experience leading a team of software developers.</li>
+                            </ul>
+                            <br>
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide hands-on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams.</li>
+                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions. </li>
                             </ul>
                             <br>
                             <hr>
