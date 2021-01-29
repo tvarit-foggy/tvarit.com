@@ -515,20 +515,15 @@
         <div class="item">
                 <a href="https://www.digital-machining.de/" target="_blank" class="newsBox">
                     <div class="news-pic">
-                        <img src="img/demap-logo.png" loading="lazy" class="img-fluid" style="width:442px;">
+                        <img src="img/dimap-logo.jpg" loading="lazy" class="img-fluid" style="width:442px;">
                     </div>
                     <div class="news-content">
-                        <div class="text-sub">Presentations</div>
+                        <div style="font-size:30px; line-height:35px; font-family: arial; color:#ff00ff; margin-bottom:12px; margin-top:10px; font-weight:600;">17. - 19. March 2021</div>
                         <ul>
+                          <div class="text-sub" style="font-size:17px; line-height:20px; margin-bottom:8px; margin-top:15px; color:#222;">Presentation</div>
                           <li>"Kûnstliche intelligenz in der Zerspanung" (De)</li>
                           <li>"Artificial Intelligence in machining" (ENG)</li>
                         </ul>
-                        <div class="post-text">
-                            <span class="date">17 to 19 March 2021</span>
-                            <!--<br><br>
-                            <span class="read-more-link">Read More</span>-->
-
-                        </div>
                     </div>
                 </a>
             </div>
