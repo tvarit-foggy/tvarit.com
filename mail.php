@@ -9,7 +9,7 @@
   $to = "$email";
   $message = "
 <div style=\"width:450px;\"><img src='https://beta.tvarit.com/img/contactBg2.jpg'/><div>
-<div style=\"font-size:22px; line-height:30px;\">Dear<b> $name </b>,</div>
+<div style=\"font-size:16px; line-height:30px;\">Dear<b> $name </b>,</div>
 <div style=\"margin:30px 0px 20px 0px;\">Thank you very much for reaching out to us. We will be happy to assist you further by responding to your inquiry as soon as possible.</div>
 
 <div><strongHere’s is your message</strong></div>
