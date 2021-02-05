@@ -37,7 +37,8 @@
 <div style=\"margin:0px 0px 30px 0px\"><img src='https://beta.tvarit.com/img/signature-img.png'/></div>
 <div style=\"font-size:11px; margin:0px 0px 20px 0px\">
 <strong>Tvarit GmbH</strong><br>
-Hanauer Landstraße 521,<br>
+Geschäftsführer: Suhas Patel <br>
+Hanauer Landstra&beta;e 521,<br>
 60386 Frankfurt am Main, Germany<br><br>
 This message contains information that may be privileged or confidential and is the property of the Tvarit GmbH. It is intended only for the person to whom it is addressed. If you are not the intended recipient, you are not authorized to read, print, retain copy, disseminate, distribute, or use this message or any part thereof. If you receive this message in error, please notify the sender immediately and delete all copies of this message.
 <br><br>
@@ -54,7 +55,7 @@ The information contained in this e-mail and any attachments are confidential, m
       $mail->AddReplyTo($mail_from, "Tvarit GmbH");
       $mail->addBCC($mail_bcc);
       $mail->addBCC($mail_from);
-      $mail->Subject = $subject;
+      $mail->Subject = "Thank you for your interest in Tvarit GmbH";
 
       $mail->MsgHTML($message);
       if($mail->send()){
