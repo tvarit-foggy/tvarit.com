@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-<div style=\"margin:20px 0px 20px 0px;\"><strong>Best Regards,</strong><br> Tvarit Team<br>Mail: <a href=\"info@tvarit.com\">info@tvarit.com</a><br>Web: <a href='https://www.tvarit.com'>www.tvarit.com</a><br>Follow us on: <a href='https://www.linkedin.com/company/13015039'>Linkidin</a><br>EU H2020 winner of the best Industrial AI solution among 490 AI companies in Europe.</div>
+<div style=\"margin:20px 0px 20px 0px;\"><strong>Best Regards,</strong><br> Tvarit Team<br>Mail: <a href=\"info@tvarit.com\">info@tvarit.com</a><br>Web: <a href='https://www.tvarit.com'>www.tvarit.com</a><br>Follow us on: <a href='https://www.linkedin.com/company/13015039'>LinkedIn</a><br>EU H2020 winner of the best Industrial AI solution among 490 AI companies in Europe.</div>
 <div style=\"margin:0px 0px 30px 0px\"><img src='https://beta.tvarit.com/img/signature-img.png'/></div>
 <div style=\"font-size:11px; margin:0px 0px 20px 0px\">
 <strong>Tvarit GmbH</strong><br>
