@@ -7,12 +7,13 @@
   $phone = $_POST["phone"];
   $msg = $_POST["msg"];
   $to = "$email";
+
   $message = "
 <div><img style=\"width:450px;\" src='https://beta.tvarit.com/img/contactBg2.jpg'/></div>
 <div style=\"font-size:15px; line-height:30px; margin-top:20px;\">Dear<b> $name </b>,</div>
 <div style=\"margin:30px 0px 20px 0px;\">Thank you very much for reaching out to us. We will be happy to assist you further by responding to your inquiry as soon as possible.</div>
 
-<div><strong>Here’s is the information you submitted:</strong></div>
+<div><strong>Here's is the information you submitted:</strong></div>
 
 <table style=\"border:1px #eee solid; border-collapse:collapse;\">
   <tr>
@@ -37,7 +38,7 @@
 <div style=\"margin:0px 0px 30px 0px\"><img src='https://beta.tvarit.com/img/signature-img.png'/></div>
 <div style=\"font-size:11px; margin:0px 0px 20px 0px\">
 <strong>Tvarit GmbH</strong><br>
-Gesch&#x4D3;ftsf&#971;hrer: Suhas Patel <br>
+Geschäftsführer: Suhas Patel <br>
 Hanauer Landstra&beta;e 521,<br>
 60386 Frankfurt am Main, Germany<br><br>
 This message contains information that may be privileged or confidential and is the property of the Tvarit GmbH. It is intended only for the person to whom it is addressed. If you are not the intended recipient, you are not authorized to read, print, retain copy, disseminate, distribute, or use this message or any part thereof. If you receive this message in error, please notify the sender immediately and delete all copies of this message.
