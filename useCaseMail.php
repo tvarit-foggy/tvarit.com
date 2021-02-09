@@ -1,5 +1,5 @@
 <?php
-  include 'mail-config.php';  
+  include 'mail-config.php';
   $name = $_POST["name"];
   $email = $_POST["email"];
   $company = $_POST["company"];
@@ -28,7 +28,7 @@
     $downloadLinksOther = "
     $MoldingProcess<br>
     $ProductionPlanning<br>
-    $QualityOptimization";  
+    $QualityOptimization";
   }else if ($page == "Production Planning") {
     $downloadLinks = $ProductionPlanning;
 
@@ -43,43 +43,45 @@
     $MoldingProcess<br>
     $PredictiveMaintenance<br>
     $ProductionPlanning";
-  } 
+  }
 
   $message = "
-  Dear <b>$name</b>,<br><br>
 
-  &nbsp;&nbsp;&nbsp; Thank you for your interest in our solutions.<br>
-  &nbsp;&nbsp;&nbsp; Please find below link to the requested use-case.<br><br>
-  
-  $downloadLinks<br><br>
+<div style=\"padding:20px; background:#eee;\">
+  <div style=\"width:80%; margin:auto;\">
+    <div><img src='https://beta.tvarit.com/img/contactBg2.jpg'/></div>
+    <div style=\"background#fff; padding:20px; margin-top:20px;\">
+      <div style=\"font-size:15px; line-height:30px;\">Dear <b>$name</b>,</div>
+      <div style=\"margin:20px 0px 0px 0px;\">
+        Thank you for showing interest in our solutions. Please find the $downloadLinks use-case here.<br>
+        You can also refer to our other use-cases as below:-<br>
+        $downloadLinksOther
 
-  Please feel free to contact me in case of any questions.<br><br>
-  
-  Below are our other Use-Cases for your reference:<br>
-  $downloadLinksOther<br><br>
+        If you would like to have any further information on this, please email us on <a href='#'>info@tvarit.com</a>.  Our team will be contacting you shortly.
+        <br><br>
+        <strong>Best Regards,</strong><br> Tvarit Team
+      </div>
+    </div>
+    <div style=\"text-align:center\">
+      <div style=\"margin:20px 0px 0px 0px; padding:20px 0px 0px 0px; border-top:3px #333 solid;\"><br>Mail: <a href=\"info@tvarit.com\">info@tvarit.com</a><br>Web: <a href='https://www.tvarit.com'>www.tvarit.com</a><br>Follow us on: <a href='https://www.linkedin.com/company/13015039'>Linkedin</a><br>EU H2020 winner of the best Industrial AI solution among 490 AI companies in Europe.</div>
+      <div style=\"margin:0px 0px 30px 0px; padding:0px 0px 20px 0px; border-bottom:3px #333 solid;\"><img src='https://beta.tvarit.com/img/signature-img.png'/></div>
+      <div style=\"font-size:11px; margin:0px 0px 20px 0px\">
+      <strong>Tvarit GmbH</strong><br>
+      Geschäftsführer: Suhas Patel & Rahul Prajapat<br>
+      Hanauer Landstra&beta;e 521,<br>
+      60386 Frankfurt am Main, Germany<br>
+      Registergericht: Frankfurt am Main | Handelsregisternummer: HR B 114845
+      <br><br>
+      <strong>IMPRESSUM</strong><br>
+      Die in dieser Email und deren Anlagen enthaltenen Informationen sind vertraulich und nur für den vorgesehenen Empfänger bestimmt. Jegliche unautorisierte Verbreitung, Verwendung oder das Kopieren dieser Nachricht und deren Anlagen sind nicht gestattet. Sollten Sie nicht der richtige Adressat sein oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und entfernen Sie diese Email umgehend aus Ihrem System. Tvarit GmbH übernimmt keine Haftung für die fehlerfreie und vollständige Übertragung dieser Nachricht. <br><br>
+      <strong>DISCLAIMER</strong><br>
+      The information contained in this e-mail and any attachments are confidential, may be subject to legal privilege, and is intended solely for the use of the addressee. Any unauthorized dissemination or copying of this e-mail or its attachments and any use or disclosure of any information contained in them is strictly prohibited and may be illegal. If you have received this e-mail in error, please notify us immediately. The e-mail transmission and any attachments must be deleted from your system. Tvarit GmbH does not bear any responsibility for the accuracy or completeness of its transmission
+      </div>
+    </div>
+  </div>
+</div>
 
-  Best regards,<br>
-  Tobias Gundermann<br>
 
-  Customer Success Manager,<br>
-  Tvarit GmbH<br>
-  Phone: +49 171 2251178<br>
-  Mail: tobias.gundermann@tvarit.com<br><br>
-  
-  Web: <a href =\"https://tvarit.com\">www.tvarit.com</a><br><br><br>
-
-  
-  EU H2020 winner of the best Industrial AI solution amongst 490 AI companies in Europe.<br>
-  Tvarit GmbH<br>
-  Geschäftsführer: Suhas Patel <br>
-  Hanauer Landstraße 521,<br>
-  D-60386 Frankfurt am Main <br>
-  Registergericht: Frankfurt am Main | Handelsregisternummer: HR B 114845<br><br>
-  
-  IMPRESSUM<br>
-  Die in dieser Email und deren Anlagen enthaltenen Informationen sind vertraulich und nur für den vorgesehenen Empfänger bestimmt. Jegliche unauthorisierte Verbreitung, Verwendung oder das Kopieren dieser Nachricht und deren Anlagen sind nicht gestattet. Sollten Sie nicht der richtige Adressat sein oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und entfernen Sie diese Email umgehend aus Ihrem System. Tvarit GmbH übernimmt keine Haftung für die fehlerfreie und vollständige Übertragung dieser Nachricht.<br>
-  DISCLAIMER<br>
-  The information contained in this e-mail and any attachments are confidential, may be subject to legal privilege, and is intended solely for the use of the addressee. Any unauthorized dissemination or copying of this e-mail or its attachments and any use or disclosure of any information contained in them is strictly prohibited and may be illegal. If you have received this e-mail in error, please notify us immediately. The e-mail transmission and any attachments must be deleted from your system. Tvarit GmbH does not bear any responsibility for the accuracy or completeness of its transmission.<br>
 ";
 
 $messageTvarit = "
@@ -111,19 +113,19 @@ $mail_content = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
   $mail->SetFrom($mail_from, "Tvarit GmbH");
   $mail->Subject = $subject;
 
-  $mail->MsgHTML($message); 
+  $mail->MsgHTML($message);
   if($mail->send()){
     $mail->ClearAddresses();
     $mail->AddAddress($mail_from);
     $mail->addBCC($mail_bcc);
     $mail->MsgHTML($messageTvarit);
-    if($mail->send()){ 
-      echo 'Message has been sent';  
+    if($mail->send()){
+      echo 'Message has been sent';
     }
     echo 'Message has been sent';
 }else{
     echo 'Message could not be sent.';
     echo 'Mailer Error: ' . $mail->ErrorInfo;
 }
-   
-?>  
+
+?>
