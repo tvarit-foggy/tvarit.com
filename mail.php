@@ -13,7 +13,7 @@
 <div style=\"font-size:15px; line-height:30px; margin-top:20px;\">Dear<b> $name </b>,</div>
 <div style=\"margin:30px 0px 20px 0px;\">Thank you very much for reaching out to us. We will be happy to assist you further by responding to your inquiry as soon as possible.</div>
 
-<div><strong>Here's is the information you submitted:</strong></div>
+<div><strong>Here's the information you submitted:</strong></div>
 
 <table style=\"border:1px #eee solid; border-collapse:collapse;\">
   <tr>
