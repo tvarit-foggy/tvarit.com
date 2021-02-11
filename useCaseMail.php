@@ -49,7 +49,7 @@
 
 <div style=\"padding:30px; background:#f6f7f8;\">
   <div style=\"width:600px; margin:auto;\">
-    <div><img style=\"width:100%; height:auto\"  src='/img/use-cases-banner.jpg'/></div>
+    <div><img style=\"width:100%; height:auto\"  src='https://beta.tvarit.com/img/use-cases-banner.jpg'/></div>
     <div style=\"background:#fff; padding:30px; margin-top:20px; font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:12px;color:#414141;line-height:24px;text-align:left\">
       <div style=\"font-size:15px; line-height:30px;\">Dear <b>$name</b>,</div>
       <div style=\"margin:20px 0px 0px 0px;\">
@@ -63,7 +63,7 @@
       </div>
     </div>
     <div style=\"text-align:center\">
-      <div style=\"margin:10px 0px 0px 0px; padding:12px 0px 0px 0px; border-top:2px #333 solid; font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:12px;color:#414141;line-height:24px;text-align:left;\">
+      <div style=\"margin:10px 0px 0px 0px; padding:12px 0px 0px 0px; border-top:2px #333 solid; font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:12px;color:#414141;line-height:24px;text-align:center;\">
         Mail: <a style=\"color:#00c0e7\" href=\"info@tvarit.com\">info@tvarit.com</a><br>
         Web: <a style=\"color:#00c0e7\" href='https://www.tvarit.com'>www.tvarit.com</a><br>
         Follow us on: <a style=\"color:#00c0e7\" href='https://www.linkedin.com/company/13015039'>Linkedin</a>
@@ -71,10 +71,10 @@
       </div>
 
       <div style=\"margin:10px 0px 22px 0px;\">
-        <a href='#' style=\"padding:0px 4px;\"><img style=\"width:24px; height:24px;\" src='/img/fb-icon.png'/></a>
-        <a href='#' style=\"padding:0px 4px;\"><img style=\"width:24px; height:24px;\" src='/img/in-icon.png'/></a>
-        <a href='#' style=\"padding:0px 4px;\"><img style=\"width:24px; height:24px;\" src='/img/twitter-icon.png'/></a>
-        <a href='#' style=\"padding:0px 4px;\"><img style=\"width:24px; height:24px;\" src='/img/youtube-icon.png'/></a>
+        <a href='#' style=\"padding:0px 4px;\"><img style=\"width:24px; height:24px;\" src='https://beta.tvarit.com/img/fb-icon.png'/></a>
+        <a href='#' style=\"padding:0px 4px;\"><img style=\"width:24px; height:24px;\" src='https://beta.tvarit.com/img/in-icon.png'/></a>
+        <a href='#' style=\"padding:0px 4px;\"><img style=\"width:24px; height:24px;\" src='https://beta.tvarit.com/img/twitter-icon.png'/></a>
+        <a href='#' style=\"padding:0px 4px;\"><img style=\"width:24px; height:24px;\" src='https://beta.tvarit.com/img/youtube-icon.png'/></a>
       </div>
 
       <div style=\"margin:10px 0px 30px 0px; padding:0px 0px 12px 0px; border-bottom:2px #333 solid;\"><img src='https://beta.tvarit.com/img/signature-img.png'/></div>
