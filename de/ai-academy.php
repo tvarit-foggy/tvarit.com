@@ -311,7 +311,7 @@
                         <div class="automPic">
                             <img src="img/Best_AI_experts.jpg" alt="Best AI Experts" class="img-fluid">
                         </div>
-                        <div class="automText">
+                        <div class="automText" style="text-transform:none;">
                         KI-Experten und erfahrene Data Scientists als Trainer
                         </div>
                     </div>

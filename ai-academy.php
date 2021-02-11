@@ -313,7 +313,7 @@
                         <div class="automPic">
                             <img src="img/Best_AI_experts.jpg" alt="Best AI Experts" loading="lazy" class="img-fluid">
                         </div>
-                        <div class="automText">
+                        <div class="automText" style="text-transform:none;">
                             AI Experts and experienced Data Scientists as Trainers.
                         </div>
                     </div>
