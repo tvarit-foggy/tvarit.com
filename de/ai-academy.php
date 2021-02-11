@@ -57,7 +57,7 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -78,17 +78,17 @@
                     <span class="text-wrapper">
                         <span class="line line1"></span>
                         <span class="letters red fw-600">Machen Sie Ihre Mitarbeiter</span>
-                    </span>                    
+                    </span>
                 </h1>
-              </div>  
+              </div>
               <div class="text-big60">fit für die Anwendung von KI,</div>
               <div class="subtext">
                 <div class="text-s1  animated infinite pulse slower" >indem Sie von einigen der besten KI-Experten</div>
                 <div class="text-s2 animated infinite pulse slower">in Deutschland lernen</div>
               </div>
-             
+
             </div>
-            
+
           </div>
         </div>
       </div>
@@ -101,7 +101,7 @@
             <div class="text centerTitle">
                 <h3 class="innr-sec-mainTitle uppr">Willkommen in der <span class="red">KI</span> Akademie</h3>
                 <div class="short-line bg-red mx-auto"></div>
-                
+
                 <div class="text-p mb-0">
                   <p class="text-p">
                   Wir verstehen die zunehmende Nachfrage und die Bedeutung, welches Unternehmen dem Wissen um die Möglichkeiten der Nutzung von KI und Daten beimessen. In unseren Workshops schulen wir Sie in den innovativsten und besten Lösungen zur Bewältigung aller Arten von Herausforderungen bei der Einführung und Umsetzung von KI in Ihrem Unternehmen. Angefangen von der Konzeptualisierung, der Datenextraktion und -Aufbereitung bis hin zu der Erstellung von KI-Modellen und prädiktiven und präskriptiven Analysen.
@@ -312,7 +312,7 @@
                             <img src="img/Best_AI_experts.jpg" alt="Best AI Experts" class="img-fluid">
                         </div>
                         <div class="automText">
-                        Deutschlands beste Data Scientists und KI-Experten als Trainer
+                        KI-Experten und erfahrene Data Scientists als Trainer
                         </div>
                     </div>
                 </div>
@@ -376,7 +376,7 @@
     <script src="js/script.js"></script>
     <script src="js/anime.min.js"></script>
     <script src="js/parallax.js"></script>
-    <script> 
+    <script>
         // Wrap every letter in a span
     var textWrapper = document.querySelector('.ml11 .letters');
     textWrapper.innerHTML = textWrapper.textContent.replace(/([^\x00-\x80]|\w)/g, "<span class='letter'>$&</span>");
