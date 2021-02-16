@@ -13,4 +13,5 @@
  $mail->Host       = "send.one.com";
  $mail->Username   = $mail_from;
  $mail->Password   = $mail_password;
+ $mail->CharSet  = 'UTF-8';
 ?>
