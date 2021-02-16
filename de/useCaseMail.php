@@ -14,7 +14,7 @@
   $ProductionPlanning =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Production+Planning.pdf\">Produktionsplanung</a>";
   $QualityOptimization =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Quality+Optimization.pdf\">Aluminiumspulen – Prescriptive Quality</a>";
 
-  if ($page == "Molding Process") {
+  if ($page == "Molding Process" || $page=='Aluminium Druckguss – Prescriptive Quality') {
     $downloadLinks = $MoldingProcess;
 
     $downloadLinksOther = "
@@ -22,21 +22,21 @@
     $ProductionPlanning<br>
     $QualityOptimization";
 
-  }else if ($page == "Predictive Maintenance") {
+  }else if ($page == "Predictive Maintenance" || $page=='Antriebsmotoren – Predictive Maintenance') {
     $downloadLinks = $PredictiveMaintenance;
 
     $downloadLinksOther = "
     $MoldingProcess<br>
     $ProductionPlanning<br>
     $QualityOptimization";  
-  }else if ($page == "Production Planning") {
+  }else if ($page == "Production Planning" || $page=='Produktionsplanung') {
     $downloadLinks = $ProductionPlanning;
 
     $downloadLinksOther = "
     $MoldingProcess<br>
     $PredictiveMaintenance<br>
     $QualityOptimization";
-  }else if ($page == "Quality Optimization") {
+  }else if ($page == "Quality Optimization" || $page=='Aluminiumspulen – Prescriptive Quality') {
     $downloadLinks = $QualityOptimization;
 
     $downloadLinksOther = "
