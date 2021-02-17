@@ -87,13 +87,9 @@
         </span><span>Registergericht: Frankfurt am Main | Handelsregisternummer:&nbsp;HR B 114845</span></p>
         <p style=\"padding:0;margin:0;text-align:center\">&nbsp;</p>
         <p style=\"padding:0;margin:0;text-align:center\"><span><span style=\"color:#222222\">IMPRESSUM</span></span></p>
-        <p style=\"padding:0;margin:0\"><span>Die in dieser Email und deren Anlagen enthaltenen Informationen sind vertraulich und nur für den vorgesehenen Empfänger bestimmt. Jegliche unautorisierte Verbreitung, Verwendung oder das Kopieren dieser Nachricht und deren
-         Anlagen sind nicht gestattet. Sollten Sie nicht der richtige Adressat sein oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und entfernen Sie diese Email umgehend aus Ihrem System. Tvarit GmbH übernimmt keine Haftung für
-         die fehlerfreie und vollständige Übertragung dieser Nachricht.</span></p>
+        <p style=\"padding:0;margin:0\"><span>Die in dieser Email und deren Anlagen enthaltenen Informationen sind vertraulich und nur für den vorgesehenen Empfänger bestimmt. Jegliche unautorisierte Verbreitung, Verwendung oder das Kopieren dieser Nachricht und deren Anlagen sind nicht gestattet. Sollten Sie nicht der richtige Adressat sein oder diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und entfernen Sie diese Email umgehend aus Ihrem System. Tvarit GmbH übernimmt keine Haftung für die fehlerfreie und vollständige Übertragung dieser Nachricht.</span></p>
         <p style=\"padding:0;margin:0;text-align:center\"><span><span style=\"color:#222222\">DISCLAIMER</span></span></p>
-        <p style=\"padding:0;margin:0\"><span>The information contained in this e-mail and any attachments are confidential, may be subject to legal privilege, and is intended solely for the use of the addressee. Any unauthorized dissemination or copying of this e-mail
-         or its attachments and any use or disclosure of any information contained in them is strictly prohibited and may be illegal. If you have received this e-mail in error, please notify us immediately. The e-mail transmission and any attachments must be deleted
-         from your system. Tvarit GmbH does not bear any responsibility for the accuracy or completeness of its transmission</span></p>
+        <p style=\"padding:0;margin:0\"><span>The information contained in this e-mail and any attachments are confidential, may be subject to legal privilege, and is intended solely for the use of the addressee. Any unauthorized dissemination or copying of this e-mail or its attachments, and any use or disclosure of any information contained in them, is strictly prohibited and may be illegal. If you have received this e-mail in error, please notify us immediately. The e-mail transmission and any attachments must be deleted from your system. Tvarit GmbH does not bear any responsibility for the accuracy or completeness of its transmission.</span></p>
       </div>
     </div>
   </div>
