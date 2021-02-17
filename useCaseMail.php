@@ -80,7 +80,7 @@
       <div style=\"margin:10px 0px 30px 0px; padding:0px 0px 12px 0px; border-bottom:2px #333 solid;\"><img src='https://beta.tvarit.com/img/new-sig.png'/></div>
       <div style=\"font-family:Arial,Helvetica Neue,Helvetica,sans-serif;font-size:11px;color:#979797;line-height:18px;text-align:left\">
         <p style=\"padding:0;margin:0;text-align:center\"><span><span style=\"color:#222222\">Tvarit GmbH</span></span><span><br>
-        </span><span>Geschäftsführer: Suhas Patel&nbsp;</span><span><br>
+        </span><span>Geschäftsführer: Suhas Patel & Rahul Prajapat&nbsp;</span><span><br>
         </span><span>Hanauer Landstraße 521,</span><span><br>
         </span><span>60386 Frankfurt am Main&nbsp;</span></p>
         <p style=\"padding:0;margin:0;text-align:center\"><span>Germany</span><span><br>
