@@ -121,7 +121,7 @@ $mail_content = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
 </body>
 </html>';
 
-  $subject = "Tvarit Use case request";
+  $subject = "Ihre Tvarit Use-Case Anfrage";
   $mail->IsHTML(true);
   $mail->AddAddress($to, $name);
   $mail->SetFrom($mail_from, "Tvarit GmbH");
