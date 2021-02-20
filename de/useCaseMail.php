@@ -53,7 +53,7 @@
       <div style=\"background:#fff; padding:30px; margin-top:20px; font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:12px;color:#414141;line-height:24px;text-align:left\">
         <div style=\"font-size:15px; line-height:30px;\">Hallo <b>$name</b>,</div>
         <div style=\"margin:20px 0px 0px 0px;\">
-          Vielen Dank für Ihr Interesse an unseren Lösungen. Hier finden Sie den Use Case zur Produktionsplanung.<br>
+          Vielen Dank für Ihr Interesse an unseren Lösungen. Hier finden Sie den Use Case zur $downloadLinks .<br>
           Schauen Sie gerne auch in unsere anderen Use Cases:-<br><br>
           $downloadLinksOther<br><br>
           Wenn Sie weitere Informationen zu diesem Thema wünschen, senden Sie uns bitte eine E-Mail an <a href='#'>info@tvarit.com</a>.  Unser Team wird sich in Kürze mit Ihnen in Verbindung setzen.
