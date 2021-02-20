@@ -55,9 +55,7 @@
         <div style=\"margin:20px 0px 0px 0px;\">
           Vielen Dank für Ihr Interesse an unseren Lösungen. Hier finden Sie den Use Case zur Produktionsplanung.<br>
           Schauen Sie gerne auch in unsere anderen Use Cases:-<br><br>
-          Aluminium Druckguss – Prescriptive Quality <br>
-          Antriebsmotoren – Predictive Maintenance<br>
-          Aluminiumspulen – Prescriptive Quality<br><br>
+          $downloadLinksOther<br><br>
           Wenn Sie weitere Informationen zu diesem Thema wünschen, senden Sie uns bitte eine E-Mail an <a href='#'>info@tvarit.com</a>.  Unser Team wird sich in Kürze mit Ihnen in Verbindung setzen.
           <br><br>
           <strong>Mit freundlichen Grüßen,</strong><br> Das Tvarit Team.
