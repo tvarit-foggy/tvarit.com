@@ -313,7 +313,7 @@
         include 'footer.php';
     ?>
     <?php
-    $isFor = 'Quality Optimization';
+    $isFor = 'Aluminum Die Casting – Prescriptive Quality';
     include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->

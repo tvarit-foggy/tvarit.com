@@ -266,7 +266,7 @@
     @include 'case-study-modal.php';
     ?>
     <?php
-    $isFor  = 'Molding Process';
+    $isFor  = 'Aluminum Coil – Prescriptive Quality';
     include 'usecase-form-modal.php';
     ?>
     <div class="cookieFooter bg-red-grd" id="cookieDiv">
