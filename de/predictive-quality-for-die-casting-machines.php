@@ -314,7 +314,7 @@
         include 'footer.php';
     ?>
     <?php
-    $isFor = 'Quality Optimization';
+    $isFor = 'Aluminiumspulen – Prescriptive Quality';
     include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->

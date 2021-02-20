@@ -311,7 +311,7 @@
         include 'footer.php';
     ?>
     <?php
-    $isFor = 'Production Planning';
+    $isFor = 'Produktionsplanung';
     include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->
