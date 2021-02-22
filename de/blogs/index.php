@@ -328,10 +328,10 @@
                                     <div class="industiesText">
                                         Cross industry
                                     </div>
-                                    <img src="../img/edge-ai.jpg" alt="Oil Gas" class="img-fluid">
+                                    <img src="img/ki-in-mittelstand.jpg" alt="Oil Gas" class="img-fluid">
                                 </div>
                                 <div class="content">
-                                    <a href="german-mittelstand" class="title">Künstliche Intelligenz im „German Mittelstand“</a>
+                                    <a href="ki-in-mittelstand" class="title">KI in Mittelstand</a>
                                 </div>
                             </div>
                         </div>
