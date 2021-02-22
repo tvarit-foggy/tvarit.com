@@ -322,6 +322,20 @@
                             </div>
                         </div>
 
+                        <div class="col-md-6 mix Topic">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Cross industry
+                                    </div>
+                                    <img src="../img/edge-ai.jpg" alt="Oil Gas" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="german-mittelstand" class="title">Künstliche Intelligenz im „German Mittelstand“</a>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="col-md-6 mix ben-of-smart-int-agents">
                             <div class="blogBox">
                                 <div class="blogPic">
