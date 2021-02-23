@@ -67,13 +67,13 @@
     <div class="section-padding-both-2x" id="downClick">
         <div class="container">
             <div class="text-big60">
-                Künstliche Intelligenz im „German Mittelstand“
+                Künstliche Intelligenz im "German Mittelstand"
             </div>
 
             <br>
 
             <p class="text-medium">
-                Als beispiellos erfolgreich in der Unternehmensführung werden kleine und mittlere Unternehmen aus Deutschland beschrieben. KMUs schaffen es regelmäßig auf die Power-Point-Präsentationen bei internationalen Konferenzen und zeigen, wie es geht. Nicht nur, dass die Bilanzen stimmen und die Unternehmen oftmals bereits älter als ein Jahrhundert sind – nein, besonders im vergangenen Jahr haben die meist inhabergeführten Unternehmen gezeigt, dass ihre Struktur sie besonders resilient in Krisenzeiten macht.
+                <em>Als beispiellos erfolgreich in der Unternehmensführung werden kleine und mittlere Unternehmen aus Deutschland beschrieben. KMUs schaffen es regelmäßig auf die Power-Point-Präsentationen bei internationalen Konferenzen und zeigen, wie es geht. Nicht nur, dass die Bilanzen stimmen und die Unternehmen oftmals bereits älter als ein Jahrhundert sind – nein, besonders im vergangenen Jahr haben die meist inhabergeführten Unternehmen gezeigt, dass ihre Struktur sie besonders resilient in Krisenzeiten macht.</em>
             </p>
             <p class="text-medium">
                 Entsprechend steigt auch das Selbstbewusstsein: „Wir sind 99 Prozent“ verkünden die Mittelständler mit stolzer Brust und präsentieren auf ihrer Verbandsseite bvmw.de noch zwei weitere High-Scores: 97 Prozent der deutschen Exporte kommen aus KMUs, knapp 82 Prozent der Lehrlingsausbildung findet in ihren Unternehmen statt. Diese Zahlen verdeutlichen die Relevanz dieser Unternehmen für die deutsche Wirtschaft. Dreiviertel der KMU-Mitarbeiter auf Managementebene halten darüber hinaus KI für zukunftsrelevant. Bevor wir uns anschauen, warum das so ist, lohnt ein Blick durch die Lupe.
@@ -95,98 +95,8 @@
             <p class="text-medium">Politische Rahmenbedingungen sind mit der KI-Initiative der Bundesregierung abgesteckt. Unternehmerischen Mut haben mittelständische Unternehmen seit je her bewiesen. Es gibt also keinen Grund zu warten und das enorme Potenzial von KI zu heben. Denn genau das sagen die Analysten von PWC voraus: Ein Wachstum von 11,3 Prozent beim deutschen BIP bis 2030 aufgrund KI-basierter Innovationen. </p>
             <p class="text-medium">Um dieses aber nun auch zu realisieren, muss dem deutschen Mittelstand geholfen werden, Hürden wie fehlendes Know-how oder Fachkräfte zu überkommen. Mit unserer Expertise können wir deutschen Mittelständlern auf der gesamten Reise hin zur Digitalisierung begleiten. Es bedarf hierbei eines Teams von Experten, welches sich ebenso gut mit den KI-Algorithmen auskennt, wie mit den Prozessen und damit verbundenen Problemen im Unternehmen selbst. Nur durch eine enge Zusammenarbeit ist es möglich, langfristig skalierbare Lösungen und den damit einhergehenden Mehrwert zu generieren. </p>
             <p class="text-medium">So gelingt es, KI als ein hilfreiches Werkzeug zu nutzen, welches datenbasiert neue Erkenntnisse schafft, Prozesse optimiert und bessere operative Geschäftsentscheidungen ermöglicht.</p>
+            <p class="text-medium red"><strong class="red">Folhalten Sie uns mehr auf <a href="https://www.linkedin.com/company/tvarit/" target="new" style="color:#000; text-decoration:underline;">LinkedIn,</a> um auf dem Laufenden zu bleiben und fühlen Sie sich willkommen, uns bei Fragen zu <a href="https://www.tvarit.com/de/contact" style="color:#000; text-decoration:underline;" target="new">kontaktieren.</a></strong></p>
 
-        </div>
-    </div>
-
-     <div class="section-padding" id="Team">
-        <div class="container">
-            <div class="centerTitle">
-                <div class="text-big60">Contact</div>
-            </div>
-            <br>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="column">
-                        <div class="card row-height-2">
-                            <div class="card-view-image text-center" style="margin:22px;">
-                                <img src="../img/rahul-prajapat.jpg" width="180" alt="Rahul Prajapati" class="img-fluid">
-                            </div>
-
-                            <div class="container">
-                                <h4 class="title title-name">Rahul Prajapat</h4>
-                                <div class="col-md-12 " style="padding-right:0px">
-                                    <div class="row" style="margin-right: 0px;">
-                                        <h5 class="title1 red">Tvarit GmbH</h5>
-                                        <h6 class="title">Co-founder & CTO</h6>
-                                    </div>
-                                </div>
-                                <div class="short-line-team bg-red"></div>
-                                <a href="mailto:rahul@tvarit.com"  style="color:#000; text-decoration: underline;">
-                                    <i class="fa fa-envelope red"></i>
-                                 rahul@tvarit.com</a>
-
-                                <p><a href="tel:+49 1514 3507262"  style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 1514 3507262</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!---->
-
-                <div class="col-md-4">
-                    <div class="column">
-                        <div class="card row-height-2">
-                            <div class="card-view-image text-center" style="margin:22px;">
-                                <img src="../img/juergen-halt.jpg" width="180" alt="Juergen Halt" class="img-fluid">
-                            </div>
-
-                            <div class="container">
-                                <h4 class="title title-name">Juergen Halt</h4>
-                                <div class="col-md-12 " style="padding-right:0px">
-                                    <div class="row" style="margin-right: 0px;">
-                                        <h5 class="title1 red">Tvarit GmbH</h5>
-                                        <h6 class="title">Director R&D</h6>
-                                    </div>
-                                </div>
-                                <div class="short-line-team bg-red"></div>
-                                <a href="mailto:juergen.halt@tvarit.com"  style="color:#000; text-decoration: underline;">
-                                <i class="fa fa-envelope red"></i>
-                                juergen.halt@tvarit.com</a>
-
-                                <p><a href="tel:+49 1514 3507262"  style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 1514 3507262</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!---->
-                <div class="col-md-4">
-                    <div class="column">
-                        <div class="card row-height-2">
-                            <div class="card-view-image text-center" style="margin:22px;">
-                                <img src="../img/fabian-bause.jpg" width="180" alt="Fabian Bause" class="img-fluid">
-                            </div>
-
-                            <div class="container">
-                                <h4 class="title title-name">Dr. Fabian Bause</h4>
-                                <div class="col-md-12 " style="padding-right:0px">
-                                    <div class="row" style="margin-right: 0px;">
-                                        <h5 class="title1 red">Beckhoff Automation GmbH & Co. KG</h5>
-                                        <h6 class="title">TwinCAT Product Management</h6>
-                                    </div>
-                                </div>
-                                <div class="short-line-team bg-red"></div>
-                                <a href="mailto:f.bause@beckhoff.com" style="color:#000; text-decoration: underline;">
-                                <i class="fa fa-envelope red"></i>
-                                f.bause@beckhoff.com</a>
-
-                                <p><a href="tel:+49 5246 963 5349" style="color:#000; text-decoration: underline;"><i class="fa fa-phone red"></i> +49 5246 963 5349</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <br><br>
         </div>
     </div>
 
@@ -206,7 +116,7 @@
     <!------------------------Automated slide end --------------------->
 
     <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
+    <!--<div class="section-padding-both">
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
@@ -223,13 +133,13 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php
+    <div style="padding-top:50px;"><?php
                 include '../using-tvarit.php';
-                ?>
+                ?></div>
     <!------------------------Client logo slide end --------------------->
 
     <!------------------------try demo start --------------------->
