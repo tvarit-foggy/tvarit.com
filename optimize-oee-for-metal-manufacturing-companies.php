@@ -86,7 +86,7 @@
     <!------SPLASH SCREEN----->
 
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -147,7 +147,7 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT <span class="red">AI</span></div>
+                    <div class="sec-mainTitle">TVARIT <span style="font-size:19px; Position:relative; top:-30px; left:-8px;">&reg;</span><span class="red">AI</span></div>
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">

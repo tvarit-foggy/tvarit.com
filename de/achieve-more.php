@@ -56,7 +56,7 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -72,7 +72,7 @@
                         </div>
                         <div class="content">
                             <div class="text-big40">
-                            with Tvarit AI Solutions</div>
+                            with Tvarit<span style="font-size:19px; Position:relative; top:-17px; left:2px;">&reg;</span> AI Solutions</div>
                         </div>
                         <br>
                     </div>
@@ -89,160 +89,160 @@
         <div class="container">
             <div class="centerTitle">
               <!-- <h3 class="bold text-center red mb-0">Achieve more with</h3> -->
-              <div class="innr-sec-mainTitle uppr">Tvarit <span class="red">AI</span> solution</div>
+              <div class="innr-sec-mainTitle uppr">Tvarit<span style="font-size:19px; Position:relative; top:-17px; left:2px;">&reg;</span> <span class="red">AI</span> solution</div>
             </div>
             <br>
             <br>
 
             <div class="row achieveInfographic">
-                
+
                 <svg class="svg-total-line svg-xl" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  width="1900px" height="500px" viewBox="0 0 1900 500" enable-background="new 0 0 1900 500" xml:space="preserve">
                     <g>
                         <g>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="29.244" y1="260.225" x2="29.244" y2="260.225"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,25.0187" x1="29.244" y1="285.243" x2="29.244" y2="422.846"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="29.244" y1="435.355" x2="29.244" y2="435.355"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,24.3366" x1="53.58" y1="435.355" x2="503.808" y2="435.355"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="515.976" y1="435.355" x2="515.976" y2="435.355"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.5697" x1="515.976" y1="411.786" x2="515.976" y2="93.594"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="515.976" y1="81.81" x2="515.976" y2="81.81"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,24.2036" x1="540.18" y1="81.81" x2="891.132" y2="81.81"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="903.233" y1="81.81" x2="903.233" y2="81.81"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.6244" x1="903.233" y1="105.434" x2="903.233" y2="424.363"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="903.233" y1="436.176" x2="903.233" y2="436.176"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.8004" x1="927.034" y1="436.176" x2="1343.541" y2="436.176"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1355.441" y1="436.176" x2="1355.441" y2="436.176"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.6244" x1="1355.441" y1="412.552" x2="1355.441" y2="93.622"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1355.441" y1="81.81" x2="1355.441" y2="81.81"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.6242" x1="1379.065" y1="81.81" x2="1697.992" y2="81.81"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1709.805" y1="81.81" x2="1709.805" y2="81.81"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,23.6793" x1="1709.805" y1="105.489" x2="1709.805" y2="425.159"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1709.805" y1="436.999" x2="1709.805" y2="436.999"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,22.7861" x1="1732.591" y1="436.999" x2="1857.914" y2="436.999"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" x1="1869.308" y1="436.999" x2="1869.308" y2="436.999"/>
                         </g>
                     </g>
                     </svg>
-                
+
                 <svg class="svg-total-line svg-lg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  width="1170.377px" height="273.081px" viewBox="0 0 1170.377 273.081" enable-background="new 0 0 1170.377 273.081" xml:space="preserve">
                     <g>
                         <g>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="13.496" y1="141.085" x2="13.496" y2="141.085"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.8331" x1="13.496" y1="152.918" x2="13.496" y2="241.666"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="13.496" y1="247.583" x2="13.496" y2="247.583"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.8394" x1="25.335" y1="247.583" x2="303.561" y2="247.583"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="309.48" y1="247.583" x2="309.48" y2="247.583"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9441" x1="309.48" y1="235.639" x2="309.48" y2="38.562"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="309.48" y1="32.59" x2="309.48" y2="32.59"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.7747" x1="321.255" y1="32.59" x2="539.086" y2="32.59"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="544.973" y1="32.59" x2="544.973" y2="32.59"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9718" x1="544.973" y1="44.562" x2="544.973" y2="242.096"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="544.973" y1="248.082" x2="544.973" y2="248.082"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9561" x1="556.929" y1="248.082" x2="813.984" y2="248.082"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="819.963" y1="248.082" x2="819.963" y2="248.082"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9718" x1="819.963" y1="236.11" x2="819.963" y2="38.576"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="819.963" y1="32.59" x2="819.963" y2="32.59"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9717" x1="831.935" y1="32.59" x2="1029.467" y2="32.59"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1035.453" y1="32.59" x2="1035.453" y2="32.59"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9996" x1="1035.453" y1="44.589" x2="1035.453" y2="242.582"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1035.453" y1="248.582" x2="1035.453" y2="248.582"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.1243" x1="1047.577" y1="248.582" x2="1126.385" y2="248.582"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1132.447" y1="248.582" x2="1132.447" y2="248.582"/>
                         </g>
                     </g>
                     </svg>
-               
+
                <svg  class="svg-total-line svg-md" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"   width="1170.377px" height="444.288px" viewBox="0 0 1170.377 444.288" enable-background="new 0 0 1170.377 444.288"  xml:space="preserve">
                     <g>
                         <g>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="13.496" y1="272.292" x2="13.496" y2="272.292"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.2082" x1="13.496" y1="284.5" x2="13.496" y2="412.686"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="13.496" y1="418.79" x2="13.496" y2="418.79"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.8394" x1="25.335" y1="418.79" x2="303.561" y2="418.79"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="309.48" y1="418.79" x2="309.48" y2="418.79"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.031" x1="309.48" y1="406.759" x2="309.48" y2="39.813"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="309.48" y1="33.797" x2="309.48" y2="33.797"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.7747" x1="321.255" y1="33.797" x2="539.086" y2="33.797"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="544.973" y1="33.797" x2="544.973" y2="33.797"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.0466" x1="544.973" y1="45.844" x2="544.973" y2="413.266"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="544.973" y1="419.289" x2="544.973" y2="419.289"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9561" x1="556.929" y1="419.289" x2="813.984" y2="419.289"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="819.963" y1="419.289" x2="819.963" y2="419.289"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.0466" x1="819.963" y1="407.242" x2="819.963" y2="39.82"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="819.963" y1="33.797" x2="819.963" y2="33.797"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,11.9717" x1="831.935" y1="33.797" x2="1029.467" y2="33.797"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1035.453" y1="33.797" x2="1035.453" y2="33.797"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.0623" x1="1035.453" y1="45.859" x2="1035.453" y2="413.758"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1035.453" y1="419.789" x2="1035.453" y2="419.789"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,12.1243" x1="1047.577" y1="419.789" x2="1126.385" y2="419.789"/>
-                            
+
                                 <line fill="none" stroke="#222222" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x1="1132.447" y1="419.789" x2="1132.447" y2="419.789"/>
                         </g>
                     </g>
                     </svg>
-                
+
                 <div class="col-md-4 order-1 order-md-1">
                     <div class="achieveWrapper upSet">
                         <ul class="ul-list-bullet">
@@ -320,7 +320,7 @@
                         </ul>
                     </div>
                 </div>
-                
+
                 <div class="col-md-3 order-4 order-md-5">
                     <div class="achieveWrapper downSet">
                         <div class="title-round">
@@ -334,10 +334,10 @@
                                 Tasks used to ensure that the data has been properly labelled with the required output that needs to be learned
                             </li>
                         </ul>
-                        
+
                     </div>
                 </div>
-                
+
                 <div class="col-md-3 order-6 order-md-6">
                     <div class="achieveWrapper downSet">
                         <div class="title-round title-round-grey">
@@ -347,7 +347,7 @@
                             <li>Measurement of impact of AI driven decision in terms of both financial and non-financial benefits</li>
                             <li>Identification of closed-loop learnings to be incorporated into AI model</li>
                         </ul>
-                        
+
                     </div>
                 </div>
             </div>
@@ -392,7 +392,7 @@
 
     <!------------------------Client logo slide start --------------------->
     <div class="section-padding">
-        <?php 
+        <?php
             include 'using-tvarit.php';
         ?>
     </div>
