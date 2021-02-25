@@ -331,7 +331,7 @@
                                     <img src="img/ki-in-mittelstand.jpg" alt="Oil Gas" class="img-fluid">
                                 </div>
                                 <div class="content">
-                                    <a href="KI-im-Mittelstand" class="title">KI im Mittelstand</a>
+                                    <a href="KI-im-Mittelstand" class="title" style="text-transform:none;">KI im Mittelstand</a>
                                 </div>
                             </div>
                         </div>
