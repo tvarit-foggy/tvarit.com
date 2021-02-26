@@ -63,7 +63,25 @@
     #new-carousel .item {
         width: 325px;
     }
+    </style>
+
+    <style>
+    .news-content {
+        top: 0px;
+    }
+
+    .read-more-link:hover {
+        color: blue;
+    }
+
+    #new-carousel .item {
+        width: 325px;
+    }
     .upcoming-event .newsBox{display: flex;}
+    .other-logos-row{margin: 50px 0px 0px 0px;}
+    .other-logos-row .logos-col{display: flex; flex-wrap: wrap; align-items: center; align-content: center;}
+    .other-logos-row .logos-col a{width:25%; margin: auto; padding: 20px 30px; text-align:center;}
+    .other-logos-row .logos-col a img{max-width:75%;}
     </style>
 </head>
 
@@ -339,7 +357,7 @@
             <div class="item">
                     <a href="/sps-smart-production-solution" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/SPS-2019.png" alt="SPS-2019" loading="lazy" class="img-fluid">
+                            <img src="img/SPS-2019.png" alt="SPS 2019" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">SPS 2019</div>
@@ -358,7 +376,7 @@
                 <div class="item">
                     <a href="https://www.iaa.de/" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/Logo_IAA.png" alt="IAA" loading="lazy" class="img-fluid">
+                            <img src="img/partners_img/Logo_IAA.png" alt="Logo IAA" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">IAA Motorshow</div>
@@ -375,7 +393,7 @@
                 <div class="item">
                     <a href="https://www.ifa-berlin.com/" target="_blank" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/IFA_Logo_2019.png" alt="IFA" loading="lazy" class="img-fluid">
+                            <img src="img/partners_img/IFA_Logo_2019.png" alt="IFA 2019" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">IFA 2019</div>
@@ -395,7 +413,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/logo_zvei.png" alt="ZEVI" loading="lazy" class="img-fluid">
+                            <img src="img/partners_img/logo_zvei.png" alt="ZEVI" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">ZVEI Jahreskongress Berlin</div>
@@ -449,7 +467,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/Hannover-Messe.png" alt="Hannover Messe" loading="lazy" class="img-fluid">
+                            <img src="img/partners_img/Hannover-Messe.png" alt="Hannover Messe" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">Hannover Messe</div>
@@ -466,7 +484,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/reference2.png" alt="Reference" loading="lazy" class="img-fluid">
+                            <img src="img/partners_img/reference2.png" alt="Reference 2" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">TiE Deutschland awarding Tvarit</div>
@@ -480,7 +498,7 @@
                 <div class="item">
                     <a href="javascript://" class="newsBox">
                         <div class="news-pic">
-                            <img src="img/partners_img/bauma_logo.png" alt="Bauma" loading="lazy" class="img-fluid">
+                            <img src="img/partners_img/bauma_logo.png" alt="Bauma" class="img-fluid">
                         </div>
                         <div class="news-content">
                             <div class="text-sub">Bauma Munich</div>
@@ -499,42 +517,56 @@
     </div>
 
 
-<!--upcoming events-->
-<div class="section-padding-both  bg-white-section">
-    <div class="container">
+    <!--upcoming events-->
+    <div class="section-padding-both  bg-white-section">
+        <div class="container">
 
-        <div class="title md-center-title">
-            <div class="text-first red">Upcoming</div>
-            <div class="text-big60">Events</div>
-            <div class="short-line bg-red"></div>
-        </div>
+            <div class="title md-center-title">
+                <div class="text-first red">Upcoming</div>
+                <div class="text-big60">Events</div>
+                <div class="short-line bg-red"></div>
+            </div>
 
-        <br>
+            <br>
 
-        <div class="upcoming-event owl-theme">
-        <div class="item">
-                <a href="https://www.digital-machining.de/" target="_blank" class="newsBox">
-                    <div class="news-pic">
-                        <img src="img/dimap-logo.jpg" loading="lazy" class="img-fluid" style="width:442px;">
+            <div class="upcoming-event owl-theme">
+            <div class="item">
+                    <a href="https://www.digital-machining.de/" target="_blank" class="newsBox">
+                        <div class="news-pic">
+                            <img src="img/dimap-logo.jpg" loading="lazy" class="img-fluid" style="width:442px;">
+                        </div>
+                        <div class="news-content">
+                            <div style="font-size:30px; line-height:35px; font-family: arial; color:#ff00ff; margin-bottom:12px; margin-top:10px; font-weight:600;">17. - 19. March 2021</div>
+                            <ul>
+                              <div class="text-sub" style="font-size:17px; line-height:20px; margin-bottom:8px; margin-top:15px; color:#222;">Presentation</div>
+                              <li>"Kûnstliche intelligenz in der Zerspanung" (De)</li>
+                              <li>"Artificial Intelligence in machining" (ENG)</li>
+                            </ul>
+                        </div>
+                    </a>
+                    <div class="other-logos-row">
+                      <div class="centerTitle text-big40">
+                        Also <span class="fw-900">participating</span>
                     </div>
-                    <div class="news-content">
-                        <div style="font-size:30px; line-height:35px; font-family: arial; color:#ff00ff; margin-bottom:12px; margin-top:10px; font-weight:600;">17. - 19. March 2021</div>
-                        <ul>
-                          <div class="text-sub" style="font-size:17px; line-height:20px; margin-bottom:8px; margin-top:15px; color:#222;">Presentation</div>
-                          <li>"Kûnstliche intelligenz in der Zerspanung" (De)</li>
-                          <li>"Artificial Intelligence in machining" (ENG)</li>
-                        </ul>
+                      <div class="logos-col">
+                        <a href="#"><img src="img/logo1.png"/></a>
+                        <a href="#"><img src="img/logo2.png"/></a>
+                        <a href="#"><img src="img/logo3.jpg"/></a>
+                        <a href="#"><img style="max-width:45%;" src="img/logo4.jpg"/></a>
+                        <a href="#"><img src="img/logo5.jpg"/></a>
+                        <a href="#"><img src="img/logo6.png"/></a>
+                        <a href="#"><img src="img/logo7.png"/></a>
+                        <a href="#"><img src="img/logo8.png"/></a>
+                      </div>
                     </div>
-                </a>
+                </div>
+                </div>
+
             </div>
 
         </div>
-
     </div>
-</div>
-<!--end upcoming events-->
-
-
+    <!--end upcoming events-->
 
 
     <!------------------------Countdown start --------------------->
@@ -554,7 +586,7 @@
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
+                                class="color">i</span>t<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span></span> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">

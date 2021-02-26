@@ -69,7 +69,7 @@
         <div class="container" style="padding-right:0px; padding-left:0px">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <h4 class="title">Tvarit Cloud Platform License Agreement</h4>
+                    <h4 class="title">Tvarit<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> Cloud Platform License Agreement</h4>
                 </div>
 
                 <div class="centerPharseContent text-p" style="width:90%; text-align:left">

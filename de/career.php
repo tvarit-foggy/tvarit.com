@@ -57,7 +57,7 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -227,9 +227,9 @@
                                 <li>Ausgezeichnete schriftliche und mündliche Kommunikationsfähigkeiten</li>
                                 <li>Sehr gute Präsentationsfähigkeiten</li>
                             </ul>
-							
+
                             <br>
-							
+
                             <h4>Bevorzugte Kompetenzen:</h4>
                             <ul class="ul-list">
                                 <li>Erfahrung in der Zusammenarbeit mit produzierenden Unternehmen (insbesondere im deutschsprachigen Raum)</li>
@@ -863,13 +863,13 @@
 
     <!------------------------Countdown start --------------------->
     <div class="section-padding">
-    <?php 
+    <?php
                 include 'change_we_brought.php';
                 ?>
                 </div>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php 
+    <?php
                 include 'change_we_bring.php';
                 ?>
     <!------------------------Automated slide end --------------------->
@@ -880,7 +880,7 @@
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
+                                class="color">i</span>t</span><span style="font-size:19px; Position:relative; top:-30px; left:4px;">&reg;</span> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
@@ -893,7 +893,7 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
+    <?php
                 include 'using-tvarit.php';
                 ?>
     <!------------------------Client logo slide end --------------------->

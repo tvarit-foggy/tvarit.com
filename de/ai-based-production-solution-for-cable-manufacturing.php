@@ -86,7 +86,7 @@
     <!------SPLASH SCREEN----->
 
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -108,7 +108,7 @@
                     </div>
                 </div>
             </div>
-        </div> 
+        </div>
     </header>
     <!-------------->
 
@@ -146,7 +146,7 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT <span class="red">KI</span></div>
+                    <div class="sec-mainTitle">TVARIT<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> <span class="red">KI</span></div>
                     <h3 class="bold red text-center">LÖSUNGEN</h3>
                 </div>
                 <div class="centerPharseContent text-p">
@@ -267,7 +267,7 @@
         </div>
     </div>
 
-    
+
     <!--------------------- Buttons  ------------------->
     <div class="section-padding-both">
             <div class="container white-box-shadow">

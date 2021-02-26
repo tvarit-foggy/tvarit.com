@@ -86,7 +86,7 @@
     <!------SPLASH SCREEN----->
 
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -148,11 +148,11 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">TVARIT AI </span> </div>
+                    <div class="text-big60"><span class="tvarit-black">TVARIT<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> AI </span> </div>
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                We support large and medium-sized manufacturers in optimizing their production processes, 
+                We support large and medium-sized manufacturers in optimizing their production processes,
                 improving their management systems and achieving higher profitability.
                 </div>
             </div>
