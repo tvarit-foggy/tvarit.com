@@ -79,7 +79,7 @@
             <h4 class="red">Geschäftsführung</h4>
 
             <p class="text-p">
-                Suhas Patel
+                Suhas Patel, Rahul Prajapat
             </p>
 
             <h4 class="red">Handelsregistereintrag</h4>
