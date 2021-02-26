@@ -57,7 +57,7 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -227,9 +227,9 @@
                                 <li>Ausgezeichnete schriftliche und mündliche Kommunikationsfähigkeiten</li>
                                 <li>Sehr gute Präsentationsfähigkeiten</li>
                             </ul>
-							
+
                             <br>
-							
+
                             <h4>Bevorzugte Kompetenzen:</h4>
                             <ul class="ul-list">
                                 <li>Erfahrung in der Zusammenarbeit mit produzierenden Unternehmen (insbesondere im deutschsprachigen Raum)</li>
@@ -592,6 +592,62 @@
                     </div>
                 </div>
 
+                <!---->
+                <div class="card">
+                    <div class="card-header" id="headingFive">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdndata-sc"
+                            aria-expanded="false" aria-controls="acccrdnMLR">
+                            DATA SCIENTIST
+                        </a>
+                    </div>
+
+                    <div id="acccrdndata-sc" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit sucht Datenwissenschaftler, die unabhängig arbeiten und das Team für Projekte in der Fertigungsindustrie leiten können. Kann auch zur Beratung von Datenanalyse und Projektentwicklung beitragen.
+                            </p>
+
+                            <h4>Anforderungsprofil:</h4>
+                            <ul class="ul-list">
+                                <li>Arbeiten Sie mit Vorgängen und Funktionen zusammen, um die DT / Analytics-Anforderungen zu ermitteln.</li>
+                                <li>Identifizieren Sie relevante interne und externe Datenquellen und Sets, die an mehreren Standorten abgebaut werden sollen, um die Geschäftsanforderungen zu erfüllen. Sammeln Sie große strukturierte und unstrukturierte Datensätze und Variablen.</li>
+                                <li>Verbessern und optimieren Sie die Datenerfassungsverfahren, um relevante Informationen für den Aufbau von Analysesystemen aufzunehmen.</li>
+                                <li>Wenden Sie Data Mining-Techniken an und führen Sie statistische Analysen mit modernsten Methoden in Sandbox- und Testumgebungen durch. Entwickeln und nutzen Sie Tools, Algorithmen, Prozesse und Modelle, um Big Data zu verarbeiten.</li>
+                                <li>Definieren Sie relevante Datenquellen und Strukturen, um Daten- und Fehleranalysen durchzuführen, um Modelle zu verbessern, Daten zu bereinigen und auf Einheitlichkeit und Genauigkeit zu validieren. Erstellen Sie automatisierte Anomalieerkennungssysteme und verfolgen Sie die Leistung ständig.</li>
+                                <li>Analysieren Sie Daten auf Trends und Muster. Interpretieren und kontextualisieren Sie Daten, um die Anforderungsspezifikation zu erfüllen. Fügen Sie nach Bedarf zusätzliche Datenquellen hinzu.</li>
+                                <li>Entwickeln, (neu) trainieren und warten Sie Modelle für maschinelles Lernen / KI, um große strukturierte / unstrukturierte Datenanalyseströme zu verarbeiten.</li>
+                                <li>Erstellen Sie verbrauchsfähige Vorhersagemodelle, die von Funktionen und Stakeholdern der Fertigung genutzt werden können, um den Betrieb, die Effizienz und die Vorhersageanalyse zu verbessern (z. B. Vorhersagequalität, vorausschauende Wartung, Rückverfolgbarkeit und Energieoptimierung)</li>
+                                <li>Dokumentieren und präsentieren Sie Analyseergebnisse mit wertvollen geschäftlichen Erkenntnissen. Spezifikation der technischen Anforderungen des Handwerks für Entwicklungszwecke.</li>
+                                <li>Bereitstellen von Predictive Analytics-Lösungen für die Fertigungsindustrie in der Produktion - Führen Sie den gesamten Prozess von der Erstellung und Optimierung von Algorithmen bis zur Operationalisierung des Modells in Workflows, um die Auswirkungen zu messen.</li>
+                                <li>Unterstützung und Orchestrierung der Lösungsbereitstellung gemäß der DT Data Analytics-Strategie Arbeiten Sie mit globalen und lokalen IT-Teams zusammen. Cloud-Architekten, Big-Data-Architekten, DevOps-Ressourcen und andere, um digitale Ökosysteme und integrierte Plattformen zu bilden, bereitzustellen, zu unterstützen und kontinuierlich zu verbessern.</li>
+                                <li>Kommunizieren Sie Lösungen für Datenanalysen an Stakeholder, fördern Sie die weltweite Akzeptanz im gesamten Unternehmen und implementieren Sie Verbesserungen an Betriebssystemen (Continuous Improvement Process).</li>
+                            </ul>
+                            <br>
+                            <h4>Qualifikation und Erfahrung</h4>
+                            <ul class="ul-list">
+                                <li>Masters / Bachelor of Engineering / gleichwertige Qualifikation</li>
+                                <li>Insgesamt 3+ Jahre Erfahrung mit 3 Jahren Erfahrung als Data Scientist mit 2 Jahren Erfahrung in der Fertigungsindustrie</li>
+                                <li>Erfahrung in der Automobilindustrie von Vorteil.Arbeitserfahrung in einem globalen Umfeld und funktionsübergreifenden Teams.</li>
+                                <li>Effektive Kommunikations- und Präsentationsfähigkeiten.</li>
+                                <li>Nachgewiesene Erfahrung mit einer Reihe von Techniken, Werkzeugen und Methoden in Bezug auf Datenmodellierung, Textanalyse und NLP (Natural Language Processing)Erfahrung mit Vorhersagemodellen - insbesondere mit vorausschauender Wartung, vorausschauender Qualität und Rückverfolgbarkeit.</li>
+                                <li>Fließend in Python und R. Beherrscht die Entwicklung von Algorithmen im Python-Ökosystem.Praktische Erfahrung mit einer Vielzahl von Analysemethoden (EDA, Maschinelles Lernen - überwacht, unbeaufsichtigt).Kenntnisse und Verständnis statistischer, prädiktiver Modellierungstechniken und -algorithmen, inkl. Neuronale Netze, Text- / Data-Mining, LDA, Entitätsextraktion, Klassifizierung, Zuordnungsregeln, Hashing, Ähnlichkeiten, GLM / Regression, Random Forest, Gradient Boosting, SVM usw.</li>
+                                <li>Verständnis der Amazon- und Microsoft Cloud IoT-Plattformen und -Toolsets.</li>
+                                <li>Starke Entscheidungskompetenz in Bezug auf Datenanalyse und muss in der Lage sein, Projekte unabhängig zu leiten.</li>
+                                <li>ZertifizierungenSAS-zertifizierter Big Data-Experte / Data ScientistCloudera Certified Professional - Dateningenieur.</li>
+                            </ul>
+
+                            <br>
+                            <br>
+                            <hr>
+                            <p class="red">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
+                                    href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> senden</p>
+                            <br>
+                            <p class="red">Standort: Frankfurt am Main</p>
+                        </div>
+                    </div>
+                </div>
+                <!---->
+
                 <!-- <div class="card">
                     <div class="card-header" id="headingFive">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn5"
@@ -863,13 +919,13 @@
 
     <!------------------------Countdown start --------------------->
     <div class="section-padding">
-    <?php 
+    <?php
                 include 'change_we_brought.php';
                 ?>
                 </div>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php 
+    <?php
                 include 'change_we_bring.php';
                 ?>
     <!------------------------Automated slide end --------------------->
@@ -880,7 +936,7 @@
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
+                                class="color">i</span>t</span><span style="font-size:19px; Position:relative; top:-30px; left:4px;">&reg;</span> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
@@ -893,7 +949,7 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
+    <?php
                 include 'using-tvarit.php';
                 ?>
     <!------------------------Client logo slide end --------------------->
