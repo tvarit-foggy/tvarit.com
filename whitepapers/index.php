@@ -305,7 +305,7 @@
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
+                                class="color">i</span>t<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span></span> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
