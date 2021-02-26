@@ -322,6 +322,20 @@
                             </div>
                         </div>
 
+                        <div class="col-md-6 mix Topic">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Cross industry
+                                    </div>
+                                    <img src="img/ki-in-mittelstand.jpg" alt="Oil Gas" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="KI-im-Mittelstand" class="title" style="text-transform:none;">KI im Mittelstand</a>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="col-md-6 mix ben-of-smart-int-agents">
                             <div class="blogBox">
                                 <div class="blogPic">
