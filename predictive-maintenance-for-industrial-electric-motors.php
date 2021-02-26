@@ -86,7 +86,7 @@
     <!------SPLASH SCREEN----->
 
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -119,7 +119,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <span class="innr-sec-mainTitle ai_predictive">Predictive Maintenance for 
+                <span class="innr-sec-mainTitle ai_predictive">Predictive Maintenance for
                     <br>Industrial Electric Motors</span>
             </div>
             <br>
@@ -150,11 +150,11 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT <span class="red">AI</span> </div>
+                    <div class="sec-mainTitle">TVARIT<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> <span class="red">AI</span> </div>
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">
-                We support large and medium-sized manufacturing companies in reducing the risk of 
+                We support large and medium-sized manufacturing companies in reducing the risk of
                 their asset failures and inventory costs of spare parts.
                 </div>
             </div>
@@ -227,7 +227,7 @@
                         <div class="short-line bg-red"></div>
                         <div class="imgW-more">
                             <p class="text-p">
-                            Prediction of potential shutdowns of motor drives used in printing presses during operation. 
+                            Prediction of potential shutdowns of motor drives used in printing presses during operation.
                             Price of each motor: 15.000 €</p>
                         </div>
                         <a href="#" data-toggle="modal" data-target="#myModal"

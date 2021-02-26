@@ -36,7 +36,7 @@
 
 <body>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -59,13 +59,13 @@
                         <span class="letters red fw-600">Accelerate and flawlessly</span>
                     </span>
                 </h1>
-              </div> 
+              </div>
               <div class="text-big60 mb-2">complete your Data <br>Science Projects</div>
               <div class="subtext">
                 <div class="text-s1 animated infinite pulse slower-6s">With innovative task based  pricing</div>
                 <div class="text-s2 animated infinite pulse slower">DSaaS (Data Science as a service)</div>
               </div>
-             
+
             </div>
           </div>
         </div>
@@ -77,7 +77,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <div class="innr-sec-mainTitle ai_predictive">SUCCESSFULLY COMPLETE YOUR DATA SCIENCE PROJECTS WITH TV<span class="red">A</span>R<span class="red">I</span>T CONSULTING</div>
+                <div class="innr-sec-mainTitle ai_predictive">SUCCESSFULLY COMPLETE YOUR DATA SCIENCE PROJECTS WITH TV<span class="red">A</span>R<span class="red">I</span>T<span style="font-size:19px; Position:relative; top:-17px; left:2px;">&reg;</span> CONSULTING</div>
                 <div class="short-line mx-auto bg-red"></div>
                 <div class="text-p">
                 Our experts support you at every stage of your data science projects. We help you in solving key issues of data extraction, data preparation, data labelling and predictive analytics. We provide on-site and remote based consulting services.
@@ -196,7 +196,7 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                    Ensure that the data used to train machine learning models 
+                                    Ensure that the data used to train machine learning models
                                     are clean and suitable for machine learning purposes
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
@@ -242,7 +242,7 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                    Ensure that the data used to train machine learning models 
+                                    Ensure that the data used to train machine learning models
                                     are complete and relevant for machine learning purposes
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
@@ -265,7 +265,7 @@
                             <div class="content">
                                 <div>
                                     <p class="text-p">
-                                    Perform AI powered predicitve analytics, alerts and other features 
+                                    Perform AI powered predicitve analytics, alerts and other features
                                     like tweaker, what-if analysis, root cause analysis
                                     </p>
                                     <a href="#contact_us" class="btn btn-round btn-white">Enquire
@@ -301,7 +301,7 @@
                             <img src="img/ai_1.jpg" alt="AI ADVANTAGES 1" loading="lazy" class="img-fluid">
                         </div>
                         <div class="automText">
-                        Experience from over 32 industrial data science projects with fortune 500 companies and national 
+                        Experience from over 32 industrial data science projects with fortune 500 companies and national
                         institutions like NASA
                         </div>
                     </div>
@@ -369,7 +369,7 @@
     <script src="js/anime.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-    <script> 
+    <script>
         // Wrap every letter in a span
     var textWrapper = document.querySelector('.ml11 .letters');
     textWrapper.innerHTML = textWrapper.textContent.replace(/([^\x00-\x80]|\w)/g, "<span class='letter'>$&</span>");

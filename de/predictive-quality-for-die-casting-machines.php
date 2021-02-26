@@ -150,7 +150,7 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">TVARIT KI </span> </div>
+                    <div class="text-big60"><span class="tvarit-black">TVARIT<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> KI </span> </div>
                     <h3 class="bold red text-center">LÖSUNGEN</h3>
                 </div>
                 <div class="centerPharseContent text-p">

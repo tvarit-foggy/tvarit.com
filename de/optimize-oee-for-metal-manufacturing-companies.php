@@ -86,7 +86,7 @@
     <!------SPLASH SCREEN----->
 
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -97,7 +97,7 @@
                 <div class="col-lg-6">
                     <div class="typography optiBgTrns">
                         <div class="text-1">
-                        Steigerung der Gesamtanlageneffizienz 
+                        Steigerung der Gesamtanlageneffizienz
                         </div>
                         <div class="content">
                             <div class="text-big60">
@@ -112,7 +112,7 @@
             </div>
         </div>
     </header>
-    <!--------------> 
+    <!-------------->
 
     <!------------------------ Automotives start --------------------->
     <div class="section-padding" id="downClick">
@@ -147,7 +147,7 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT <span class="red">KI</span></div>
+                    <div class="sec-mainTitle">TVARIT<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> <span class="red">KI</span></div>
                     <h3 class="bold red text-center">LÖSUNGEN</h3>
                 </div>
                 <div class="centerPharseContent text-p">

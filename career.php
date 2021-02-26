@@ -1242,7 +1242,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
+                                class="color">i</span>t</span><span style="font-size:19px; Position:relative; top:-30px; left:4px;">&reg;</span> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
