@@ -378,7 +378,7 @@
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="sec-mainTitle">Tv<span class="red">a</span>r<span
-                                class="red">i</span>t The Team</div>
+                                class="red">i</span>t<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
