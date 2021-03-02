@@ -11,7 +11,7 @@ for(var i=0;i<arr.length;i++){
 console.log(localStorage.getItem('lang'))
 if((isSaved || "de"!=lang) && localStorage.getItem('lang') === 'de'){
     document.cookie="lang="+lang+";path=/";
-    window.location.href="https://tvarit.com/de/";
+    window.location.href=window.location.origin+"/de/";
 }
 
 window.onbeforeunload=function(a){
