@@ -8,7 +8,7 @@ for(var i=0;i<arr.length;i++){
         document.cookie="language=enUs; path=/; Secure ";
     }
 }
-if((!isSaved || "de"!=lang) && (sessionStorage.getItem('lang') === 'de' || sessionStorage.getItem('lang') === null)){
+if((!isSaved || "de"==lang) && (sessionStorage.getItem('lang') === 'de' || sessionStorage.getItem('lang') === null)){
     document.cookie="lang="+lang+";path=/";
     window.location.href=window.location.origin+"/de/";
 }
