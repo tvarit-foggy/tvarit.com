@@ -61,10 +61,10 @@ div.fadeMe {
     function setLanguage(ln){
         if(ln === 'en'){
             location.href = location.origin
-            localStorage.setItem("lang",ln)
+            sessionStorage.setItem("lang",ln)
         }else{
             location.href = location.origin+'/de'
-            localStorage.setItem("lang",ln)
+            sessionStorage.setItem("lang",ln)
         }
     }
 </script>
