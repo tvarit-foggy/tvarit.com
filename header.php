@@ -70,7 +70,6 @@ div.fadeMe {
 <!-- Scripts -->
 <script type="text/javascript" langauge="javascript">
     function setLanguage(ln){
-        console.log(ln, location.origin);
         if(ln === 'en'){
             location.href = location.origin
             localStorage.setItem("lang",ln)
