@@ -17,7 +17,19 @@
   })();
 </script>
 <!-- Scripts -->
- <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script> 
+ <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script>
+ <script type="text/javascript" langauge="javascript">
+    function setLanguage(ln){
+        console.log(ln);
+        if(ln === 'en'){
+            location.href = location.origin
+            localStorage.setItem("lang",ln)
+        }else{
+            location.href = location.origin+'/de'
+            localStorage.setItem("lang",ln)
+        }
+    }
+</script>
 <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand bold uppr" href="..">
@@ -169,9 +181,15 @@
                     </li>
                     <li class="nav-item">
                     <div style="display:flex;">
-                        <a class="nav-link nav-link-en" href="https://www.tvarit.com/" onClick="setLanguage('en');"><b>EN</b></a>
+                        <a class="nav-link nav-link-en" href="/"
+                            onClick="javascript:setLanguage('en');">
+                            <b>EN</b>
+                        </a>
                         <a class="nav-link nav-link-seprator" href="#">|</a>
-                        <a class="nav-link nav-link-de" href="https://www.tvarit.com/de" onClick="setLanguage('de');"><b>DE</b></a>
+                        <a class="nav-link nav-link-de" href="/"
+                            onClick="javascript:setLanguage('de');">
+                            <b>DE</b>
+                        </a>
                     </div>
                 </li>
                 </ul>
@@ -185,13 +203,3 @@
 <!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
 </div>
 <!------------------------sticky contact button end --------------------->
-<script type="text/javascript">
-    function setLanguage(ln){
-        console.log(ln);
-        if(ln === 'en'){
-            localStorage.setItem("lang",ln)
-        }else{
-            localStorage.setItem("lang",ln)
-        }
-    }
-</script>
