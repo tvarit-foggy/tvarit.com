@@ -19,7 +19,6 @@
 <!-- Scripts -->
  <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script>
  <script type="text/javascript" langauge="javascript">
-    document.getElementById('german').href = location.origin + '/de'
     function setLanguage(ln){
         if(ln === 'en'){
             location.href = location.origin
@@ -202,3 +201,6 @@
 <!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
 </div>
 <!------------------------sticky contact button end --------------------->
+<script>
+    document.getElementById('german').href = location.origin + '/de'
+</script>
