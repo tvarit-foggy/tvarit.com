@@ -19,12 +19,12 @@
 <!-- Scripts -->
  <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script>
  <script type="text/javascript" langauge="javascript">
+    document.getElementById('german').href = location.origin + '/de'
     function setLanguage(ln){
         if(ln === 'en'){
             location.href = location.origin
             sessionStorage.setItem("lang",ln)
         }else{
-            location.href = location.origin+'/de'
             sessionStorage.setItem("lang",ln)
         }
     }
@@ -185,7 +185,7 @@
                             <b>EN</b>
                         </a>
                         <a class="nav-link nav-link-seprator" href="#">|</a>
-                        <a class="nav-link nav-link-de" href="/"
+                        <a class="nav-link nav-link-de" href="/" id="german"
                             onClick="javascript:setLanguage('de');">
                             <b>DE</b>
                         </a>
