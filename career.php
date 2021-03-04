@@ -104,7 +104,7 @@
             <br>
 
             <div id="accordion">
-            <div class="card">
+            <!--<div class="card">
                     <div class="card-header" id="headingTwo">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
                             aria-expanded="false" aria-controls="acccrdn2">
@@ -168,7 +168,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <!--<div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnTechArc"
@@ -668,94 +668,7 @@
                     </div>
                 </div> -->
 
-                <div class="card">
-                    <div class="card-header" id="headingFour">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
-                            aria-expanded="false" aria-controls="acccrdnMLR">
-                            Machine Learning Researcher (Digital Signal Processing) (MUMBAI)
-                        </a>
-                    </div>
-
-                    <div id="acccrdnMLR" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                Tvarit opens up a new Artificial Intelligence division with a vision to help
-                                manufacturing companies transform their businesses by leveraging AI. We strive to
-                                achieve efficient processes management for factories and plants, increasing the yield,
-                                increasing the accuracy and reliability by bringing data-driven decisions, shorten the
-                                time frame of delivery, and hence direct reflection in terms of profit to the
-                                enterprise. This is a chance for you to get in on the ground floor of an exciting AI
-                                company.<br>
-
-                                You will be responsible for building AI / Machine Learning applications for our
-                                manufacturing clients. We expect you to have strong programming skills, and background
-                                of statistical engineering, data mining. You should have a strong growth mindset and a
-                                strong work ethic.
-
-
-                            </p>
-
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Work with manufacturing clients, understanding various problems and failures in
-                                    different kinds of high tech machines.
-                                </li>
-                                <li>Develop digital signal-processing algorithms for vibration analysis of multi-sensor data
-                                </li>
-
-                                <li>Process existing dataset, perform statistical analysis of processed signals to provide insights of the measurements
-                                </li>
-                                <li>Define a set of features on the basis of hundreds of sensors signals coming from a
-                                    single machine, work on building time series forecasting and other cross metric ML
-                                    models
-                                </li>
-                                <li>Creating machine learning models on data containing high and low frequency signals.</li>
-                                <li>Search for the latest research papers as per use case and make POC.</li>
-                                <li>Collaborate with production engineers to deploy the results of your research.</li>
-                                <li> Develop evaluation techniques to gauge the performance and accuracy of the models
-                                    you build. </li>
-                                <li>Write production-ready code in Python / R for above models, further write unit
-                                    tests, integration tests, end to end tests</li>
-                            </ul>
-                            <br>
-                            <h4>Your Background:</h4>
-                            <ul class="ul-list">
-                                <li>Know-how of signal processing  algorithms e.g., noise filtering technique, data distributions, periodograms etc and the math needed to for this such as linear algebra, probability,
-                                    statistics.
-                                </li>
-                                <li>Know-how of data understanding and preprocessing methods e.g., fft, deep understanding of wavelets etc for feature engineering, further DTW, STFT based similarlity detection algorithms.
-                                </li>
-                                <li>Currently pursuing a Master or Doctoral degree in Electrical/Mechanical Engineering, Computer Engineering or related field</li>
-                                <li>Ability to write code in a scripting language (Python, Matlab, R is a must).</li>
-                                <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it
-                                    is also important that you're able to write clean, efficient code in Python (with a
-                                    focus on testability and using OOP) on a Linux platform.</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing
-                                    industry in Germany to highlight trends and generate insights.</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines
-                                    health and work closely with their backend databases and data engineering teams
-                                </li>
-                                <li>Experience working with Manufacturing companies especially in German-speaking region
-                                </li>
-                                <li>We act as the primary point of contact for business forecasting, delivering
-                                    metrics/analytics that drives the organization and helps senior management taking
-                                    data-driven business decisions</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="mailto:careers@tvarit.com">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red">Location: Mumbai</p>
-                        </div>
-                    </div>
-                </div>
+                
 
                 <!-- <div class="card">
                     <div class="card-header" id="headingFive">
@@ -1033,66 +946,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                     </div>
                 </div>
                 <!---->
-                <div class="card">
-                    <div class="card-header" id="headingSix">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn6"
-                            aria-expanded="false" aria-controls="acccrdn1">
-                            SENIOR FRONT-END DEVELOPER (MUMBAI)
-                        </a>
-                    </div>
 
-                    <div id="acccrdn6" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">Tvarit GmbH envisions to help manufacturing companies transform their businesses by leveraging AI. We strive to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise. This is a chance for you to get in on the ground floor of an exciting AI company.</p>
-                            <p class="text-p">
-                              Your task would be to write plugins for Grafana (an open-source framework) or even tweak Grafana source code sometimes. You will work closely within an agile, scrum-based team to understand the business domain and client requirements.</p>
-                              <h4>Job Details:</h4>
-                              <p>Our goal is to build scalable and sustainable Automated Predictive Analytics (APA) solutions which are invisible and assistive, allowing manufacturers to do what they love-efficient productions. For this we need a robust and interactive frontend which allows users to visualise their data and peek under the hood if required. We use a modified version of Grafana for achieving this. </p>
-                            <h4>Key Responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Development and maintenance of web application (Grafana) as per design requirements.</li>
-                                <li>Coordinate with the backend team to get any required API implemented.</li>
-                                <li>Collaborate with back-end developers and web designers to improve usability</li>
-                                <li>Ensure high quality graphic standards and brand consistency</li>
-                                <li>Optimize applications for maximum speed</li>
-                                <li>Write functional requirement documents and guides</li>
-                                <li>Get feedback from, and build solutions for, users and customers</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Skills Required</h4>
-                            <ul class="ul-list">
-                            <!--<li>Master's degree in in appropriate field of study</li>-->
-                              <li>Experience in developing and maintaining production level applications</li>
-                              <li>Experience with GitHub or similar git-based application</li>
-                              <li>Familiarity with any Linux/Unix based operating system (Ubuntu, Debian, MacOS, etc)</li>
-                              <li>Indepth knowledge of ReactJS (version 16.12) with at least one year of experience</li>
-                              <li>Basic knowledge of AngularJS (version 1.6)</li>
-                              <li>Basic knowledge of designing and UI/UX</li>
-                              <li>Understanding of SCRUM methodology</li>
-                              <li>Ability to quickly learn new concepts</li>
-                              <li>Basic knowledge of Golang (version 1.14) (Optional)</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams</li>
-                                <li>Experience working with Manufacturing companies especially in German-speaking region</li>
-                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a href="javascript://">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red"><strong>Availability:</strong> Full-time</p>
-                            <p class="red">Location: Mumbai</p>
-                        </div>
-                    </div>
-                </div>
                 <!---->
                 <!---->
                 <div class="card">
