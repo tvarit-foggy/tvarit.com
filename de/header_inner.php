@@ -1,7 +1,16 @@
 <script> (function(){ window.ldfdr = window.ldfdr || {}; (function(d, s, ss, fs){ fs = d.getElementsByTagName(s)[0]; function ce(src){ var cs = d.createElement(s); cs.src = src; setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1); } ce(ss); })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_lYNOR8xMWAb7WQJZ.js'); })(); </script> 
 
  <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script> 
-
+ <script type="text/javascript" langauge="javascript">
+    function setLanguage(ln){
+        if(ln === 'en'){
+            location.href = location.origin
+            sessionStorage.setItem("lang",ln)
+        }else{
+            sessionStorage.setItem("lang",ln)
+        }
+    }
+</script>
 <div class="main-menu fixed-menu sticky-top sticky">
     <nav class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand bold uppr" href="..">
@@ -156,9 +165,15 @@
                 </li>
                 <li class="nav-item">
                     <div style="display:flex;">
-                        <a class="nav-link nav-link-en" href="https://www.tvarit.com/"><b>EN</b></a>
+                        <a class="nav-link nav-link-en" href="/"
+                            onClick="javascript:setLanguage('en');">
+                            <b>EN</b>
+                        </a>
                         <a class="nav-link nav-link-seprator" href="#">|</a>
-                        <a class="nav-link nav-link-de" href="https://www.tvarit.com/de"><b>DE</b></a>
+                        <a class="nav-link nav-link-de" href="/" id="german"
+                            onClick="javascript:setLanguage('de');">
+                            <b>DE</b>
+                        </a>
                     </div>
                 </li>
             </ul>
@@ -173,3 +188,6 @@
     <!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
 </div>
 <!------------------------sticky contact button end --------------------->
+<script>
+    document.getElementById('german').href = location.origin + '/de'
+</script>
