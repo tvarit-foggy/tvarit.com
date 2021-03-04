@@ -549,14 +549,14 @@
                         Also <span class="fw-900">participating</span>
                     </div>
                       <div class="logos-col">
-                        <a href="#"><img src="img/logo1.png"/></a>
-                        <a href="#"><img src="img/logo2.png"/></a>
-                        <a href="#"><img src="img/logo3.jpg"/></a>
-                        <a href="#"><img style="max-width:45%;" src="img/logo4.jpg"/></a>
-                        <a href="#"><img src="img/logo5.jpg"/></a>
-                        <a href="#"><img src="img/logo6.png"/></a>
-                        <a href="#"><img src="img/logo7.png"/></a>
-                        <a href="#"><img src="img/logo8.png"/></a>
+                        <a href="https://www.hufschmied-tools.com/de/" target="_blank"><img src="img/logo1.png"/></a>
+                        <a href="https://www.pro-micron.de/" target="_blank"><img src="img/logo2.png"/></a>
+                        <a href="https://www.urma.ch/de/home/index.php" target="_blank"><img src="img/logo3.jpg"/></a>
+                        <a href="https://www.hermes-schleifwerkzeuge.com/europe/fr.html" target="_blank"><img style="max-width:45%;" src="img/logo4.jpg"/></a>
+                        <a href="https://www.heule.com/de/" target="_blank"><img src="img/logo5.jpg"/></a>
+                        <a href="https://cuttingtools.ceratizit.com/de/de.html" target="_blank"><img src="img/logo6.png"/></a>
+                        <a href="https://www.blaser.com/de_DE" target="_blank"><img src="img/logo7.png"/></a>
+                        <a href="https://de.rego-fix.com/de" target="_blank"><img src="img/logo8.png"/></a>
                       </div>
                     </div>
                 </div>
