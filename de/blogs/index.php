@@ -569,7 +569,7 @@
                                     <img src="img/felgenfertigung-img.jpg" alt="Automotive" class="img-fluid">
                                 </div>
                                 <div class="content">
-                                    <a href="cw-10-Industrie-4-in-der-felgenfertigung" class="title">Industrie 4.0 in der Felgenfertigung</a>
+                                    <a href="cw-10-Industrie-4-in-der-felgenfertigung" style="text-transform:none;" class="title">Industrie 4.0 in der Felgenfertigung</a>
                                 </div>
                             </div>
                         </div>
