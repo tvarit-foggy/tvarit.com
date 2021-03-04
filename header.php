@@ -66,9 +66,18 @@ div.fadeMe {
     })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_lYNOR8xMWAb7WQJZ.js');
   })();
 </script>
- <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script> 
+ <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script>
 <!-- Scripts -->
-
+<script type="text/javascript" langauge="javascript">
+    function setLanguage(ln){
+        if(ln === 'en'){
+            location.href = location.origin
+            sessionStorage.setItem("lang",ln)
+        }else{
+            sessionStorage.setItem("lang",ln)
+        }
+    }
+</script>
 <!-- Paste this code after body tag -->
 <div class="fadeMe">
 <div class="logo-contain">
@@ -227,9 +236,15 @@ div.fadeMe {
                     </li>
                     <li class="nav-item">
                     <div style="display:flex;">
-                        <a class="nav-link nav-link-en" href="https://www.tvarit.com/"><b>EN</b></a>
+                        <a class="nav-link nav-link-en" href="/"
+                            onClick="javascript:setLanguage('en');">
+                            <b>EN</b>
+                        </a>
                         <a class="nav-link nav-link-seprator" href="#">|</a>
-                        <a class="nav-link nav-link-de" href="https://www.tvarit.com/de"><b>DE</b></a>
+                        <a class="nav-link nav-link-de" href="/" id="german"
+                            onClick="javascript:setLanguage('de');">
+                            <b>DE</b>
+                        </a>
                     </div>
                 </li>
                 </ul>
@@ -242,3 +257,6 @@ div.fadeMe {
 <!-- <a href="../contact" target="_blank" class="sticky-contact"> <img src="../img/sticky_contact.png" class="img-fluid" onerror='this.style.display = "none"' alt=""></a>     -->
 </div>
 <!------------------------sticky contact button end --------------------->
+<script>
+    document.getElementById('german').href = location.origin + '/de'
+</script>
