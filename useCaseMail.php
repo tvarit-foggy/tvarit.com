@@ -66,7 +66,7 @@
       <div style=\"margin:10px 0px 0px 0px; padding:12px 0px 0px 0px; border-top:2px #333 solid; font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:12px;color:#414141;line-height:24px;text-align:center;\">
         Mail: <a style=\"color:#00c0e7\" href=\"info@tvarit.com\">info@tvarit.com</a><br>
         Web: <a style=\"color:#00c0e7\" href='https://www.tvarit.com'>www.tvarit.com</a><br>
-        Follow us on: <a style=\"color:#00c0e7\" href='https://www.linkedin.com/company/13015039'>Linkedin</a>
+        Follow us on: <a style=\"color:#00c0e7\" href='https://www.linkedin.com/company/13015039'>LinkedIn</a> &nbsp; <a style=\"color:#00c0e7\" href='https://www.facebook.com/tvaritAI/'>Facebook</a> &nbsp; <a style=\"color:#00c0e7\" href='https://twitter.com/TvaritAI'>Twitter</a> &nbsp; <a style=\"color:#00c0e7\" href='https://www.youtube.com/channel/UCJfogjg3LqSmXMpy6dIOsEw'>Youtube</a>
         <br>EU H2020 winner of the best Industrial AI solution among 490 AI companies in Europe.
       </div>
 

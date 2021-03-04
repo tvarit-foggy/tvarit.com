@@ -53,7 +53,7 @@
       <div style=\"background:#fff; padding:30px; margin-top:20px; font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:12px;color:#414141;line-height:24px;text-align:left\">
         <div style=\"font-size:15px; line-height:30px;\">Hallo <b>$name</b>,</div>
         <div style=\"margin:20px 0px 0px 0px;\">
-          Vielen Dank für Ihr Interesse an unseren Lösungen. Hier finden Sie den Use Case zur $downloadLinks .<br>
+          Vielen Dank für Ihr Interesse an unseren Lösungen. Hier finden Sie den Use Case zu $downloadLinks .<br>
           Schauen Sie gerne auch in unsere anderen Use Cases:-<br><br>
           $downloadLinksOther<br><br>
           Wenn Sie weitere Informationen zu diesem Thema wünschen, senden Sie uns bitte eine E-Mail an <a href='#'>info@tvarit.com</a>.  Unser Team wird sich in Kürze mit Ihnen in Verbindung setzen.
@@ -65,7 +65,7 @@
         <div style=\"margin:10px 0px 0px 0px; padding:12px 0px 0px 0px; border-top:2px #333 solid; font-family:Montserrat,Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;font-size:12px;color:#414141;line-height:24px;text-align:center;\">
           E-Mail: <a style=\"color:#00c0e7\" href=\"info@tvarit.com\">info@tvarit.com</a><br>
           Webseite: <a style=\"color:#00c0e7\" href='https://www.tvarit.com'>www.tvarit.com</a><br>
-          Folgen Sie uns auf: <a style=\"color:#00c0e7\" href='https://www.linkedin.com/company/13015039'>Linkedin</a>
+          Folgen Sie uns auf: <a style=\"color:#00c0e7\" href='https://www.linkedin.com/company/13015039'>LinkedIn</a> &nbsp; <a style=\"color:#00c0e7\" href='https://www.facebook.com/tvaritAI/'>Facebook</a> &nbsp; <a style=\"color:#00c0e7\" href='https://twitter.com/TvaritAI'>Twitter</a> &nbsp; <a style=\"color:#00c0e7\" href='https://www.youtube.com/channel/UCJfogjg3LqSmXMpy6dIOsEw'>Youtube</a>
           <br>EU H2020 Gewinner der besten industriellen KI-Lösung unter 490 KI-Unternehmen in Europa
         </div>
 
