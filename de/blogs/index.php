@@ -560,6 +560,20 @@
                             </div>
                         </div>
 
+                        <div class="col-md-6 mix Automotive">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Automotive
+                                    </div>
+                                    <img src="img/felgenfertigung-img.jpg" alt="Automotive" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="cw-10-Industrie-4-in-der-felgenfertigung" class="title">Industrie 4.0 in der Felgenfertigung</a>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="col-md-6 mix Steel">
                             <div class="blogBox">
                                 <div class="blogPic">
