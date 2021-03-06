@@ -29,7 +29,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="../img/favicon.png">
-    <title>Industrie 4.0 in der Felgenfertigung</title>
+    <title>KI im Mittelstand</title>
 
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
@@ -90,15 +90,42 @@
             <h5 class="red">Volle Digitalisierung mit einem digitalen Zwilling</h5>
             <p class="text-medium">Damit erst gar keine Schlechtteile produziert werden können, hilft das trainierte Modell mit verschiedenen Parameter-Anpassungen, um den Gussprozess besser verstehen zu können. Auf diese Weise können während des Betriebs laufend die optimalen Parameter in präskriptiven Rezepten vorgeschlagen werden. Mit Hilfe eines interaktiven Dashboards können zusätzlich verschiedene Produktionsparameter rein virtuell in einer Art digitalen Zwilling manipuliert werden, um den Effekt der jeweiligen Parameterveränderung auf die Produktion besser verstehen zu können. Dabei kann beispielsweise ein Szenario simuliert werden, in welchem die Temperatur der Wärmebehandlung verändert wird und geschaut wird, wie sich das auf die Produktqualität und den Ausschuss auswirkt. Datengrundlage für diese Prognosen bilden auch hier die bereits im Trainingsdatensatz aufgenommenen Prozessparameter.</p>
             <p class="text-medium">Zusammenfassend lässt sich sagen, dass Dashboards für die Anzeige von Prozessdaten sehr nützlich sein können, wenn sie den logisch durchdacht und auf die Bedürfnisse der Felgenfertigung angepasst sind. Guss- und die Folgeprozesse eignen sich zudem sehr gut dafür, überwacht und als digitaler Zwilling angezeigt zu werden.</p>
-            <p class="text-medium">In diesem Sinne liebe Grüße und vielen Dank fürs Lesen,</p>
-            <p class="text-medium">Constantin Keller
-            AI Consultant <br>
-            Tvarit GmbH<br>
-            <a href="mailto:Constantin.keller@tvarit.com">Constantin.keller@tvarit.com</a><br>
-            <strong>017682724836</strong></p>
 
         </div>
     </div>
+
+    <div class="" id="Team">
+       <div class="container">
+           <div class="row">
+
+             <div class="col-md-4 text-center ml-auto mr-auto">
+                 <div class="column">
+                     <div class="card row-height-2">
+                         <div class="card-view-image text-center" style="margin:22px;">
+                             <img src="img/constantin-keller.jpg" width="180" alt="" class="img-fluid" style="border-radius:50%;">
+                         </div>
+
+                         <div class="container">
+                             <h4 class="title title-name">Constantin Keller</h4>
+                             <div class="col-md-12 " style="padding-right:0px">
+                                 <div class="row" style="margin-right: 0px;">
+                                     <h5 class="title1 red">AI Consultant</h5>
+                                     <h6 class="title m-auto">Tvarit GmbH</h6>
+                                 </div>
+                             </div>
+                             <div class="short-line-team bg-red ml-auto mr-auto"></div>
+                             <div class="">
+                                 <div class="mb-3">Constantin.keller@tvarit.com<br>017682724836</div>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+
+           </div>
+           <br><br>
+       </div>
+   </div>
 
 
     <!------------------------ Automotives end --------------------->
