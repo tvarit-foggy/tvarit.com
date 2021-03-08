@@ -1,4 +1,5 @@
 <?php
+// Create a file config.php and put it inside the root folder filling in the following credentials
 $username="";
 $password="";
 $host="";
