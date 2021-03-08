@@ -29,7 +29,7 @@
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="../assets/img/kit/free/apple-icon.png">
     <link rel="icon" href="../img/favicon.png">
-    <title>KI im Mittelstand</title>
+    <title>Industrie 4.0 in der Felgenfertigung</title>
 
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
