@@ -1,4 +1,5 @@
 <?php
+// Create a file config.php and put it here inside de folder filling in the following credentials
 $username="";
 $password="";
 $host="";
