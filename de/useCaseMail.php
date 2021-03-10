@@ -9,10 +9,10 @@
   $downloadLinks = "";
   $downloadLinksOther = "";
 
-  $MoldingProcess = "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Molding+Process.pdf\">Aluminium Druckguss – Prescriptive Quality</a>";
-  $PredictiveMaintenance = "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Predictive+Maintenance.pdf\">Antriebsmotoren – Predictive Maintenance</a>";
-  $ProductionPlanning =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Production+Planning.pdf\">Produktionsplanung</a>";
-  $QualityOptimization =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/Quality+Optimization.pdf\">Aluminiumspulen – Prescriptive Quality</a>";
+  $MoldingProcess = "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+German/TVARIT.Aluminium.Druckguss.-.Prescriptive.Quality.pdf\">Aluminium Druckguss – Prescriptive Quality</a>";
+  $PredictiveMaintenance = "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+German/TVARIT.Antriebsmotoren.-.Predictive.Maintenance.pdf\">Antriebsmotoren – Predictive Maintenance</a>";
+  $ProductionPlanning =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+German/TVARIT.Produktionsplanung.mit.TiA.pdf\">Produktionsplanung</a>";
+  $QualityOptimization =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+German/TVARIT.Aluminium.Coil.-.Prescriptive.Quality.pdf\">Aluminiumspulen – Prescriptive Quality</a>";
 
   if ($page == "Molding Process" || $page=='Aluminium Druckguss – Prescriptive Quality') {
     $downloadLinks = $MoldingProcess;
