@@ -9,10 +9,10 @@
   $downloadLinks = "";
   $downloadLinksOther = "";
 
-  $MoldingProcess = "<a href =\"https://bit.ly/3cjnPOr\">Aluminum Die Casting – Prescriptive Quality</a>";
-  $PredictiveMaintenance = "<a href =\"https://bit.ly/3rzzm2L\">Drive Motors – Predictive Maintenance</a>";
-  $ProductionPlanning =  "<a href =\"https://bit.ly/3taiIqu\">Production Planning with TiA</a>";
-  $QualityOptimization =  "<a href =\"https://bit.ly/3t32WxR\">Aluminum Coil – Prescriptive Quality</a>";
+  $MoldingProcess = "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/TVARIT.Aluminum.Die.Casting.-.Prescriptive.Quality.pdf\">Aluminum Die Casting – Prescriptive Quality</a>";
+  $PredictiveMaintenance = "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/TVARIT.Drive.Motors.-.Predictive.Maintenance.pdf\">Drive Motors – Predictive Maintenance</a>";
+  $ProductionPlanning =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/TVARIT.Production.Planning.with.TiA.pdf\">Production Planning with TiA</a>";
+  $QualityOptimization =  "<a href =\"https://s3.eu-central-1.amazonaws.com/docs.tvarit.com/Use-Cases/Use-Cases+English/TVARIT.Aluminum.Coils.-.Prescriptive.Quality.pdf\">Aluminum Coil – Prescriptive Quality</a>";
 
   if ($page == "Molding Process" || $page=='Aluminum Die Casting – Prescriptive Quality') {
     $downloadLinks = $MoldingProcess;
