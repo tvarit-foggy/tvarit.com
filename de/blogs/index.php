@@ -331,7 +331,7 @@
                                     <img src="img/ki-in-mittelstand.jpg" alt="Oil Gas" class="img-fluid">
                                 </div>
                                 <div class="content">
-                                    <a href="KI-im-Mittelstand" class="title" style="text-transform:none;">KI im Mittelstand</a>
+                                    <a href="KI-im-German-Mittelstand" class="title" style="text-transform:none;">KI im Mittelstand</a>
                                 </div>
                             </div>
                         </div>
@@ -569,7 +569,7 @@
                                     <img src="img/felgenfertigung-img.jpg" alt="Automotive" class="img-fluid">
                                 </div>
                                 <div class="content">
-                                    <a href="cw-10-Industrie-4-in-der-felgenfertigung" style="text-transform:none;" class="title">Industrie 4.0 in der Felgenfertigung</a>
+                                    <a href="Industrie-4.0-in-der-felgenfertigung" style="text-transform:none;" class="title">Industrie 4.0 in der Felgenfertigung</a>
                                 </div>
                             </div>
                         </div>
