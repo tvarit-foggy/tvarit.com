@@ -583,7 +583,7 @@
                                     <img src="img/kl-in-der-stahlfelgenfertigung.jpg" alt="Automotive" class="img-fluid">
                                 </div>
                                 <div class="content">
-                                    <a href="kl-in-der-stahlfelgenfertigung" style="text-transform:none;" class="title">KI in der Stahlfelgenfertigung</a>
+                                    <a href="ki-in-der-stahlfelgenfertigung" style="text-transform:none;" class="title">KI in der Stahlfelgenfertigung</a>
                                 </div>
                             </div>
                         </div>
