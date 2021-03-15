@@ -307,7 +307,19 @@
                             </div>
                         </div>
                         <!---->
-
+                        <div class="col-md-6 mix Topic">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Cross industry
+                                    </div>
+                                    <img src="img/ki-in-mittelstand.jpg" alt="Oil Gas" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="KI-im-German-Mittelstand" class="title" style="text-transform:none;">KI im Mittelstand</a>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-md-6 mix Topic">
                             <div class="blogBox">
                                 <div class="blogPic">
@@ -322,19 +334,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6 mix Topic">
-                            <div class="blogBox">
-                                <div class="blogPic">
-                                    <div class="industiesText">
-                                        Cross industry
-                                    </div>
-                                    <img src="img/ki-in-mittelstand.jpg" alt="Oil Gas" class="img-fluid">
-                                </div>
-                                <div class="content">
-                                    <a href="KI-im-German-Mittelstand" class="title" style="text-transform:none;">KI im Mittelstand</a>
-                                </div>
-                            </div>
-                        </div>
+                        
 
                         <div class="col-md-6 mix ben-of-smart-int-agents">
                             <div class="blogBox">
@@ -529,7 +529,33 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-md-6 mix Automotive">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Automotive
+                                    </div>
+                                    <img src="img/felgenfertigung-img.jpg" alt="Automotive" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="Industrie-4-in-der-felgenfertigung" style="text-transform:none;" class="title">Industrie 4.0 in der Felgenfertigung</a>
+                                </div>
+                            </div>
+                        </div>
 
+                        <div class="col-md-6 mix Automotive">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Automotive
+                                    </div>
+                                    <img src="img/kl-in-der-stahlfelgenfertigung.jpg" alt="Automotive" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="ki-in-der-stahlfelgenfertigung" style="text-transform:none;" class="title">KI in der Stahlfelgenfertigung</a>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-md-6 mix Automotive">
                             <div class="blogBox">
                                 <div class="blogPic">
@@ -560,19 +586,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6 mix Automotive">
-                            <div class="blogBox">
-                                <div class="blogPic">
-                                    <div class="industiesText">
-                                        Automotive
-                                    </div>
-                                    <img src="img/felgenfertigung-img.jpg" alt="Automotive" class="img-fluid">
-                                </div>
-                                <div class="content">
-                                    <a href="Industrie-4-in-der-felgenfertigung" style="text-transform:none;" class="title">Industrie 4.0 in der Felgenfertigung</a>
-                                </div>
-                            </div>
-                        </div>
+                        
 
                         <div class="col-md-6 mix Steel">
                             <div class="blogBox">
