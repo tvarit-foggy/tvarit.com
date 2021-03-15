@@ -574,6 +574,20 @@
                             </div>
                         </div>
 
+                        <div class="col-md-6 mix Automotive">
+                            <div class="blogBox">
+                                <div class="blogPic">
+                                    <div class="industiesText">
+                                        Automotive
+                                    </div>
+                                    <img src="img/kl-in-der-stahlfelgenfertigung.jpg" alt="Automotive" class="img-fluid">
+                                </div>
+                                <div class="content">
+                                    <a href="ki-in-der-stahlfelgenfertigung" style="text-transform:none;" class="title">KI in der Stahlfelgenfertigung</a>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="col-md-6 mix Steel">
                             <div class="blogBox">
                                 <div class="blogPic">
