@@ -104,6 +104,110 @@
             <br>
 
             <div id="accordion">
+              <!---->
+              <div class="card">
+                      <div class="card-header" id="headingTwo">
+                          <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#backofficejob"
+                              aria-expanded="false" aria-controls="backoffice-job">
+                              Back-office Assistant and Management Support
+                          </a>
+                      </div>
+                      <div id="backofficejob" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                          <div class="card-body">
+                              <p class="text-p">
+                                Tvarit Solutions has developed AI-enabled software for the manufacturing industry.  Tvarit is looking for candidates who can help in Business development, creating content for our technical posts, website, and blogs. You will be involved in Project management, customer offer creation, presentation creation and helping closing business deals. You should have a strong growth mindset and a strong work ethic.
+                              </p>
+                              <h4>Your Responsibilities:</h4>
+                              <ul class="ul-list">
+                                  <li>Maintain executive’s agenda and assist in planning appointments, board meetings, conferences etc</li>
+                                  <li>Attend meetings and keep minutes</li>
+                                  <li>Handle and prioritize all outgoing or incoming correspondence (e-mail, letters, packages etc.)</li>
+                                  <li>Make travel arrangements for executives</li>
+                                  <li>Handle confidential documents ensuring they remain secure</li>
+                                  <li>Conduct research and prepare presentations or reports as assigned</li>
+                                  <li>Organizing staff meetings and updating calendars.</li>
+                                  <li>Gathering, authentication, and preparation and formatting of presentations.</li>
+                                  <li>Need to help in Financing and Accounting activities</li>
+                              </ul>
+                              <h4>Requirements:</h4>
+                              <ul class="ul-list">
+                                  <li>The candidate is expected to have a masters degree in Business Administration, Marketing or Communications</li>
+                                  <li>Proven experience as Back end office assistant or similar role in Software company</li>
+                                  <li>Candidate should have a sense of urgency while completing delegated tasks from management</li>
+                                  <li>Proficient in MS Office and other project management software like Jira</li>
+                                  <li>Familiarity with basic research methods and reporting techniques</li>
+                                  <li>Excellent organizational and time-management skills</li>
+                                  <li>Outstanding communication and negotiation abilities</li>
+                                  <li>Integrity and confidentiality</li>
+                              </ul>
+                              <br>
+                              <p><strong>Availability:</strong> Fulltime</p>
+                              <p><strong>Experience:</strong>  3 to 5 years</p>
+                              <br>
+                              <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                      href="javascript://">careers@tvarit.com</a></p>
+                              <br>
+                              <p class="red">Location: Mumbai</p>
+                          </div>
+                      </div>
+                  </div>
+              <!---->
+              <!---->
+              <div class="card">
+                      <div class="card-header" id="senior-office-job-h">
+                          <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#senior-office-job"
+                              aria-expanded="false" aria-controls="backoffice-job">
+                              Senior Operations Manager
+                          </a>
+                      </div>
+                      <div id="senior-office-job" class="collapse" aria-labelledby="senior-office-job-h" data-parent="#accordion">
+                          <div class="card-body">
+                              <p class="text-p">
+                                Tvarit GmbH envisions to help manufacturing companies transform their businesses by leveraging AI. We strive to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise. This is a chance for you to get in on the ground floor of an exciting AI company.
+                              </p>
+                              <h4>Job Details:</h4>
+                              <p class="text-p">We are looking for an experienced Operations Head to organize and oversee the daily operations of our India office. You will be the one to ensure that our business is well-coordinated and productive by managing its procedures and coaching its people. The area of responsibility for this role is very wide and thus requires thorough knowledge of various company processes. He/She must be an excellent leader who can discover the most efficient ways to run the business. The goal is to safeguard and augment the efficiency of the company’s operations to facilitate accelerating development and long-term success.</p>
+                              <h4>Key responsibilities:</h4>
+                              <ul class="ul-list">
+                                  <li>Manage and increase per hour productivity of the company.</li>
+                                  <li>Liaising with superior to make decisions for operational activities and set strategic goals</li>
+                                  <li>Planning and monitoring the day-to-day running of business to ensure smooth progress</li>
+                                  <li>Coordinating with staff from different departments and provide constructive feedback</li>
+                                  <li>Oversee customer support processes and organize them to enhance customer satisfaction</li>
+                                  <li>Review financial information and adjust operational budgets to promote profitability</li>
+                                  <li>Revise and/or formulate policies and promote their implementation</li>
+                                  <li>Manage relationships/agreements with external partners/vendors</li>
+                                  <li>Evaluate overall performance by gathering, analysing and interpreting data and metrics</li>
+                                  <li>Ensure that the company runs with legality and conformity to established regulations</li>
+                              </ul>
+                              <h4>Your background:</h4>
+                              <ul class="ul-list">
+                                <li>Techno commercial domain is preferred – BE Computer/IT + MBA (Finance/Marketing)</li>
+                                <li>Proven experience as a Head of Operations or equivalent position</li>
+                                <li>5+ years of experience in Operations</li>
+                                <li>Outstanding communication and people skills</li>
+                                <li>Knowledge of industry’s legal rules and guidelines</li>
+                                <li>In depth knowledge of diverse business functions and principles (e.g. supply chain, finance, customer service etc.)</li>
+                                <li>Familiarity with MS Office and various project management softwares like Jira, Confluence, etc</li>
+                              </ul>
+                              <h4>Our Team Culture:</h4>
+                              <ul class="ul-list">
+                                  <li>We provide hands-­on statistical solutions for automotive and manufacturing industry in Germany to highlight trends and generate insights</li>
+                                  <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data teams</li>
+                                  <li>We act as primary point of contact for business forecasting, delivering metrics/analytics that drive the organization and help senior management taking data driven business decisions</li>
+                              </ul>
+                              <br>
+                              <p><strong>Availability:</strong> Fulltime</p>
+                              <p><strong>Experience:</strong>  5+ years</p>
+                              <br>
+                              <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                      href="javascript://">careers@tvarit.com</a></p>
+                              <br>
+                              <p class="red">Location: Mumbai</p>
+                          </div>
+                      </div>
+                  </div>
+              <!---->
             <div class="card">
                     <div class="card-header" id="headingTwo">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
