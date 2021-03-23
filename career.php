@@ -109,7 +109,7 @@
                       <div class="card-header" id="headingTwo">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#backofficejob"
                               aria-expanded="false" aria-controls="backoffice-job">
-                              Back-office Assistant and Management Support
+                              Back-office Assistant and Management Support (BARODA-GUJARAT)
                           </a>
                       </div>
                       <div id="backofficejob" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -147,7 +147,7 @@
                               <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                       href="javascript://">careers@tvarit.com</a></p>
                               <br>
-                              <p class="red">Location: Mumbai</p>
+                              <p class="red">Location: BARODA-GUJARAT</p>
                           </div>
                       </div>
                   </div>
@@ -157,7 +157,7 @@
                       <div class="card-header" id="senior-office-job-h">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#senior-office-job"
                               aria-expanded="false" aria-controls="backoffice-job">
-                              Senior Operations Manager
+                              Senior Operations Manager (BARODA-GUJARAT)
                           </a>
                       </div>
                       <div id="senior-office-job" class="collapse" aria-labelledby="senior-office-job-h" data-parent="#accordion">
@@ -203,7 +203,7 @@
                               <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                       href="javascript://">careers@tvarit.com</a></p>
                               <br>
-                              <p class="red">Location: Mumbai</p>
+                              <p class="red">Location: BARODA-GUJARAT</p>
                           </div>
                       </div>
                   </div>
