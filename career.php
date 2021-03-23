@@ -147,7 +147,7 @@
                               <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                       href="javascript://">careers@tvarit.com</a></p>
                               <br>
-                              <p class="red">Location: BARODA-GUJARAT</p>
+                              <p class="red">Location: Baroda (Gujarat)</p>
                           </div>
                       </div>
                   </div>
@@ -203,7 +203,7 @@
                               <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                       href="javascript://">careers@tvarit.com</a></p>
                               <br>
-                              <p class="red">Location: BARODA-GUJARAT</p>
+                              <p class="red">Location: Baroda (Gujarat)</p>
                           </div>
                       </div>
                   </div>
