@@ -271,7 +271,7 @@
                       </div>
                   </div>
               <!---->
-            <div class="card">
+            <!--div class="card"-->
 
             <!--<div class="card">
 
@@ -1185,7 +1185,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                     </div>
                 </div>
                 <!---->
-            </div>
+            <!--/div-->
 
         </div>
     </div>
