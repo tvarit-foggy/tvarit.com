@@ -106,6 +106,69 @@
             <div id="accordion">
               <!---->
               <div class="card">
+                      <div class="card-header" id="hrmanage-post-title">
+                          <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#hrmanage-post"
+                              aria-expanded="false" aria-controls="backoffice-job">
+                              HUMAN RESOURCE MANAGER (BARODA - GUJARAT)
+                          </a>
+                      </div>
+                      <div id="hrmanage-post" class="collapse" aria-labelledby="hrmanage-post-title" data-parent="#accordion">
+                          <div class="card-body">
+                              <p class="text-p">
+                                Tvarit GmbH envisions to help manufacturing companies transform their businesses by leveraging Artificial Intelligence. We strive to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise. This is a chance for you to get in on the ground floor of an exciting AI company. Tvarit is awarded as one of the top 8 out of 490 AI companies in Europe.
+                              </p>
+                              <h4>Job Details:</h4>
+                              <p class="text-p">We are looking for an experienced HR Manager for our office in Vadodara, Gujarat, India. The person will be responsible for performing & complies with regulation of Human Resource Management. The Human Resource Manager will lead and direct the routine functions of the Human Resources (HR) department including hiring and interviewing staff, administering pay, benefits, and leave, and enforcing company policies and practices. This is a great opportunity for a hard-working and self-motivated individual with excellent communication skills. </p>
+                              <h4>Key responsibilities:</h4>
+                              <ul class="ul-list">
+                                  <li>Understanding Manpower requirement of the organization.</li>
+                                  <li>Recruits, interviews, tests, and selects employees to fill vacant positions</li>
+                                  <li>Plans and conducts new employee orientation & onboarding to foster positive attitude toward Company goals.</li>
+                                  <li>Identifies legal requirements and government reporting regulations affecting human resources functions and ensures compliance.</li>
+                                  <li>Drafting and maintaining HR policies and HR Manual</li>
+                                  <li>Administers benefits programs such as vacation, sick leave, leave of absence, and employee assistance etc for preparing monthly payroll.</li>
+                                  <li>Conducting & organizing performance appraisal Annually.</li>
+                                  <li>Compilation and preparation of briefing and presentation materials, speeches, background information and documentation for meetings & Trainings.</li>
+                                  <li>Day to day office administration, team building, purchasing etc.</li>
+                                  <li>Organizing Employee Engagement activities time to time</li>
+                              </ul>
+                              <h4>Required Skills/Abilities:</h4>
+                              <ul class="ul-list">
+                                  <li>Excellent verbal and written communication skills.</li>
+                                  <li>Excellent interpersonal, negotiation, and conflict resolution skills.</li>
+                                  <li>Excellent organizational skills and attention to detail.</li>
+                                  <li>Strong analytical and problem-solving skills.</li>
+                                  <li>Ability to act with integrity, professionalism, and confidentiality.</li>
+                                  <li>Thorough knowledge of employment-related laws and regulations.</li>
+                                  <li>Proficient with Microsoft Office Suite or related software.</li>
+                              </ul>
+                              <h4>Education & Experience:</h4>
+                              <ul class="ul-list">
+                                  <li>Master's degree in Human Resources, Business Administration, or related field required</li>
+                                  <li>More than 3 years of experience in progressively responsible Human Resource role in IT/Software or related domain.</li>
+                                  <li>Excellent Labor Laws and HR Compliance knowledge</li>
+                              </ul>
+                              <h4>Our Team Culture:</h4>
+                              <ul class="ul-list">
+                                  <li>We provide hands-­on statistical solutions for automotive and manufacturing industry in Germany to highlight trends and generate insights</li>
+                                  <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data teams</li>
+                                  <li>We act as primary point of contact for business forecasting, delivering metrics/analytics that drive the organization and help senior management taking data driven business decisions</li>
+                              </ul>
+                              <br>
+                              <p><strong>Availability:</strong> Fulltime</p>
+                              <p><strong>Experience:</strong>  3+ years</p>
+                              <p><strong>Schedule:</strong>  Day Shift</p>
+                              <br>
+                              <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                      href="javascript://">careers@tvarit.com</a></p>
+                              <br>
+                              <p class="red">Location: Baroda (Gujarat)</p>
+                          </div>
+                      </div>
+                  </div>
+              <!---->
+              <!---->
+              <div class="card">
                       <div class="card-header" id="headingTwo">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#backofficejob"
                               aria-expanded="false" aria-controls="backoffice-job">
