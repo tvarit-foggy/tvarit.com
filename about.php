@@ -326,10 +326,95 @@
                     </div>
 
                 </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/dirk.jpeg" alt="Dirk" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Dirk Muennekehoff</h4>
+                            <h6 class="title">Senior Sales Manager</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>20 years of experience in technical sales</li>
+                                <li>especially in automation in different industries</li>
+                            </ul>
+                            <div class="social-icon">
 
-
-
-
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/constantin-keller.jpg" alt="Constantin" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Constantin Keller</h4>
+                            <h6 class="title">AI Consultant</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>Custom development of solutions with the help of industrial AI</li>
+                                <li>Industrial engineer with deep understanding of production engineering and industrial applied artificial intelligence</li>
+                            </ul>
+                            <div class="social-icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-------- Custom Divider ------------>
+            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
+                </div>
+                <div class="col-md-2">
+                    <img src="img/fav32.png" alt="fav32" loading="lazy" style="margin-right: auto;  margin-left: auto;  display: block;">
+                </div>
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
+                </div>
+            </div>
+            <!-------- Custom Divider ------------>
+            <div class="row">
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/Christopher.jpeg" alt="Christopher" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Christopher Praetzas</h4>
+                            <h6 class="title">Business Development Manager</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>M. Sc. Industrial Engineering TU Darmstadt</li>
+                                <li>Expert in the field of production engineering</li>
+                                <li>Work experience from Robert Bosch GmbH and PTW of TU Darmstadt</li>
+                            </ul>
+                            <div class="social-icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/Kendrick.jpeg" alt="Kendrick" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Kendrick Martin</h4>
+                            <h6 class="title">Product Sales</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>Engineering background with focus on sales</li>
+                                <li>Working experience from Continental</li>
+                            </ul>
+                            <div class="social-icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!-------- Custom Divider ------------>
             <!-- <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
