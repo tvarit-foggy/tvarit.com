@@ -349,7 +349,7 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/Kendrick.jpeg" alt="Kendrick" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
+                            <img src="img/Kendrick.jpg" alt="Kendrick" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Kendrick Martin</h4>
