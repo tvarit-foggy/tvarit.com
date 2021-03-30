@@ -355,12 +355,8 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Kendrick Martin</h4>
-                            <div class="col-md-12 " style="padding-right:0px">
-                                <div class="row" style="margin-right: 0px;">
-                                    <h6 class="title">Product Sales</h6>                                    
-                                </div>
-                            </div>
-                            <!-- <h6 class="title">Product Sales</h6> -->
+                            <h6 class="title">Product Sales</h6>                            
+                            <div style="line-height:12px;">&nbsp;</div>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Ingenieurswissenschaftlicher Hintergrund mit Fokus auf den Vertrieb</li>

@@ -408,7 +408,6 @@
                             <h4 class="title title-name"> Kendrick Martin</h4>
                             <h6 class="title">Product Sales</h6>
                             <div style="line-height:12px;">&nbsp;</div>
-                            <!-- <h6 class="title">Product Sales</h6> -->
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Engineering background with focus on sales</li>
