@@ -339,7 +339,7 @@
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>20 years of experience in technical sales</li>
-                                <li>especially in automation in different industries</li>
+                                <li>Especially in automation in different industries</li>
                             </ul>
                             <div class="social-icon">
 

@@ -287,7 +287,7 @@
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>20 Jahre Erfahrung im Vertrieb von erklärungsbedürftigen Leistungen</li>
-                                <li>speziell in der Produktionsautomatisierung in unterschiedlichen Branchen</li>
+                                <li>Speziell in der Produktionsautomatisierung in unterschiedlichen Branchen</li>
                             </ul>
                             <div class="social-icon">
 
