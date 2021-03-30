@@ -63,11 +63,18 @@
     #new-carousel .item {
         width: 325px;
     }
-    .upcoming-event .newsBox{display: flex;}
+    .past-event .newsBox{display: flex;}
     .other-logos-row{margin: 50px 0px 0px 0px;}
     .other-logos-row .logos-col{display: flex; flex-wrap: wrap; align-items: center; align-content: center;}
     .other-logos-row .logos-col a{width:25%; margin: auto; padding: 20px 30px; text-align:center;}
     .other-logos-row .logos-col a img{max-width:75%;}
+
+    .upcoming-event{background: #eee; padding: 20px;}
+    .upcoming-event .item{display: flex; align-items: center;}
+    .upcoming-event .item .event-content{margin-left:20px;}
+    .upcoming-event .item .event-content .event-date{margin-bottom: 25px; font-size: 20px;}
+    .upcoming-event .item .event-content .box-content{margin-bottom: 30px;}
+    .upcoming-event .item .event-content .box-content a{color:#d00000;}
     </style>
 </head>
 
@@ -339,164 +346,39 @@
 
             <br>
 
-            <div class="news-carousel past-event owl-carousel owl-theme">
-            <div class="item">
-                    <a href="/sps-smart-production-solution" target="_blank" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/SPS-2019.png" alt="SPS-2019" loading="lazy" class="img-fluid">
+            <div class="past-event owl-theme">
+              <!---->
+              <div class="item">
+                      <a href="https://www.digital-machining.de/" target="_blank" class="newsBox">
+                          <div class="news-pic">
+                              <img src="img/dimap-logo.jpg" loading="lazy" class="img-fluid" style="width:442px;">
+                          </div>
+                          <div class="news-content">
+                              <div style="font-size:30px; line-height:35px; font-family: arial; color:#ff00ff; margin-bottom:12px; margin-top:10px; font-weight:600;">17. - 19. March 2021</div>
+                              <ul>
+                                <div class="text-sub" style="font-size:17px; line-height:20px; margin-bottom:8px; margin-top:15px; color:#222;">Presentation</div>
+                                <li>"Kûnstliche intelligenz in der Zerspanung" (De)</li>
+                                <li>"Artificial Intelligence in machining" (ENG)</li>
+                              </ul>
+                          </div>
+                      </a>
+                      <div class="other-logos-row">
+                        <div class="centerTitle text-big40">
+                          Also <span class="fw-900">participating</span>
+                      </div>
+                        <div class="logos-col">
+                          <a href="https://www.hufschmied-tools.com/de/" target="_blank"><img src="img/logo1.png"/></a>
+                          <a href="https://www.pro-micron.de/" target="_blank"><img src="img/logo2.png"/></a>
+                          <a href="https://www.urma.ch/de/home/index.php" target="_blank"><img src="img/logo3.jpg"/></a>
+                          <a href="https://www.hermes-schleifwerkzeuge.com/europe/fr.html" target="_blank"><img style="max-width:45%;" src="img/logo4.jpg"/></a>
+                          <a href="https://www.heule.com/de/" target="_blank"><img src="img/logo5.jpg"/></a>
+                          <a href="https://cuttingtools.ceratizit.com/de/de.html" target="_blank"><img src="img/logo6.png"/></a>
+                          <a href="https://www.blaser.com/de_DE" target="_blank"><img src="img/logo7.png"/></a>
+                          <a href="https://de.rego-fix.com/de" target="_blank"><img src="img/logo8.png"/></a>
                         </div>
-                        <div class="news-content">
-                            <div class="text-sub">SPS 2019</div>
-                            <h4 class="title">Smart Production Solutions is Europe's number 1 exhibition for automation.
-                                SPS 2019 will take place from 26 to 28 November at Nurnberg Messe.
-                            </h4>
-                            <div class="post-text">
-                                <span class="date">26 to 28 November 2019 Nurnberg Messe</span>
-                                <br><br>
-                                <span class="read-more-link">Read More</span>
-
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="https://www.iaa.de/" target="_blank" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/Logo_IAA.png" alt="IAA" loading="lazy" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">IAA Motorshow</div>
-                            <h4 class="title"> </h4>
-                            <div class="post-text">
-                                <span class="date">11-13 September frankfurt</span>
-                                <br><br>
-                                <span class="read-more-link">Read More</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="item">
-                    <a href="https://www.ifa-berlin.com/" target="_blank" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/IFA_Logo_2019.png" alt="IFA" loading="lazy" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">IFA 2019</div>
-                            <h4 class="title">Come and witness the most revolutionary AI product in Europe's no.1
-                                consumer electronics show in Berlin. We are looking forward to welcome you on 08th
-                                September at booth 307c
-                            </h4>
-                            <div class="post-text">
-                                <span class="date">6-11 Sept. 2019 Berlin</span>
-                                <br><br>
-                                <span class="read-more-link">Read More</span>
-
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/logo_zvei.png" alt="ZEVI" loading="lazy" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">ZVEI Jahreskongress Berlin</div>
-                            <h4 class="title">Tvarit has been invited to showcase its ‘AI for Manufacturing’ software at
-                                Germany’s biggest electronics association annual conference</h4>
-                            <div class="post-text">
-                                <!-- <span class="date">22-23th May</span> -->
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!--<div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="./img/pic-1.jpg" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">Indian Consulate in Frankfurt</div>
-                            <h4 class="title">Tvarit taking workshop at Indian Consulate in Frankfurt, making people
-                                aware about AI’s use cases
-                            </h4>
-                            <div class="post-text">
-                             News Post <span class="date">02,2019</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
-
-                <!--   <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/pic-2.jpg" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">German Associations of Startups: Tvarit GmbH</div>
-                            <h4 class="title">Innoloft (Energieloft)</h4>
-                            <h4 class="title"> TiE Deutschland</h4>
-                            <h4 class="title"> Bundesverband Deutsche Startups e.V.</h4>
-                            <h4 class="title"> Artificial Intelligence & Future Mobility Platform</h4>
-                            <h4 class="title"> Startup Autobahn</h4>
-                            <h4 class="title"> 27pilots
-                            </h4>
-
-                            <div class="post-text">
-                                News Post <span class="date">02,2019</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
-
-                <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/Hannover-Messe.png" alt="Hannover Messe" loading="lazy" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">Hannover Messe</div>
-                            <h4 class="title">Tvarit GmbH launching its ‘AI for Manufacturing’ software to other
-                                countries at Hannover Messe and being interviewed by YourStory</h4>
-
-                            <!-- <div class="post-text">-->
-                            <!--  News Post <span class="date">02,2019</span>-->
-                            <!--</div>-->
-                        </div>
-                    </a>
-                </div>
-
-                <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/reference2.png" alt="Reference" loading="lazy" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">TiE Deutschland awarding Tvarit</div>
-                            <h4 class="title">The Best Industrial Startup Award’ in conference</h4>
-                            <!--<div class="post-text">-->
-                            <!--  News Post <span class="date">02,2019</span>-->
-                            <!--</div>-->
-                        </div>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="javascript://" class="newsBox">
-                        <div class="news-pic">
-                            <img src="img/partners_img/bauma_logo.png" alt="Bauma" loading="lazy" class="img-fluid">
-                        </div>
-                        <div class="news-content">
-                            <div class="text-sub">Bauma Munich</div>
-                            <h4 class="title">Tvarit exhibiting its ‘AI for Manufacturing’ software to construction
-                                companies at Bauma Munich</h4>
-                            <!--<div class="post-text">-->
-                            <!--  News Post <span class="date">02,2019</span>-->
-                            <!--</div>-->
-                        </div>
-                    </a>
-                </div>
-
+                      </div>
+                  </div>
+              <!---->
             </div>
 
         </div>
@@ -516,37 +398,17 @@
         <br>
 
         <div class="upcoming-event owl-theme">
-        <div class="item">
-                <a href="https://www.digital-machining.de/" target="_blank" class="newsBox">
-                    <div class="news-pic">
-                        <img src="img/dimap-logo.jpg" loading="lazy" class="img-fluid" style="width:442px;">
-                    </div>
-                    <div class="news-content">
-                        <div style="font-size:30px; line-height:35px; font-family: arial; color:#ff00ff; margin-bottom:12px; margin-top:10px; font-weight:600;">17. - 19. March 2021</div>
-                        <ul>
-                          <div class="text-sub" style="font-size:17px; line-height:20px; margin-bottom:8px; margin-top:15px; color:#222;">Presentation</div>
-                          <li>"Kûnstliche intelligenz in der Zerspanung" (De)</li>
-                          <li>"Artificial Intelligence in machining" (ENG)</li>
-                        </ul>
-                    </div>
-                </a>
-                <div class="other-logos-row">
-                  <div class="centerTitle text-big40">
-                    Also <span class="fw-900">participating</span>
+          <div class="item">
+                <div class="event-pic">
+                    <img src="img/hannover-messe.png" loading="lazy" class="img-fluid">
                 </div>
-                  <div class="logos-col">
-                    <a href="https://www.hufschmied-tools.com/de/" target="_blank"><img src="img/logo1.png"/></a>
-                    <a href="https://www.pro-micron.de/" target="_blank"><img src="img/logo2.png"/></a>
-                    <a href="https://www.urma.ch/de/home/index.php" target="_blank"><img src="img/logo3.jpg"/></a>
-                    <a href="https://www.hermes-schleifwerkzeuge.com/europe/fr.html" target="_blank"><img style="max-width:45%;" src="img/logo4.jpg"/></a>
-                    <a href="https://www.heule.com/de/" target="_blank"><img src="img/logo5.jpg"/></a>
-                    <a href="https://cuttingtools.ceratizit.com/de/de.html" target="_blank"><img src="img/logo6.png"/></a>
-                    <a href="https://www.blaser.com/de_DE" target="_blank"><img src="img/logo7.png"/></a>
-                    <a href="https://de.rego-fix.com/de" target="_blank"><img src="img/logo8.png"/></a>
-                  </div>
+                <div class="event-content">
+                    <h3 class="text-big40">HANNOVER MESSE</h3>
+                    <div class="event-date">12. - 16. April 2021</div>
+                    <div class="box-content">Besuchen Sie <a href="https://www.hannovermesse.de/exhibitor/tvarit/N1454861">Tvarit auf der Hannover Messe</a> und erfahren Sie mehr über unser neustes Produkt "TiA for Die-Casting"</div>
+                    <div class="signup-btn"><a href="https://www.hannovermesse.de/de/?open=ticketRegistration&code=pwUG5" class="btn btn-round btn-red-grd">SIGN UP</a></div>
                 </div>
             </div>
-
         </div>
 
     </div>
