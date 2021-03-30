@@ -109,7 +109,7 @@
                       <div class="card-header" id="hrmanage-post-title">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#hrmanage-post"
                               aria-expanded="false" aria-controls="backoffice-job">
-                              HUMAN RESOURCE MANAGER (BARODA - GUJARAT)
+                              HUMAN RESOURCE MANAGER (VADODARA - INDIA)
                           </a>
                       </div>
                       <div id="hrmanage-post" class="collapse" aria-labelledby="hrmanage-post-title" data-parent="#accordion">
@@ -162,7 +162,7 @@
                               <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                       href="javascript://">careers@tvarit.com</a></p>
                               <br>
-                              <p class="red">Location: Baroda (Gujarat)</p>
+                              <p class="red">Location: Vadodara (India)</p>
                           </div>
                       </div>
                   </div>
@@ -172,7 +172,7 @@
                       <div class="card-header" id="headingTwo">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#backofficejob"
                               aria-expanded="false" aria-controls="backoffice-job">
-                              Back-office Assistant and Management Support (BARODA - GUJARAT)
+                              Back-office Assistant and Management Support (VADODARA - INDIA)
                           </a>
                       </div>
                       <div id="backofficejob" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -210,7 +210,7 @@
                               <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                       href="javascript://">careers@tvarit.com</a></p>
                               <br>
-                              <p class="red">Location: Baroda (Gujarat)</p>
+                              <p class="red">Location: Vadodara (India)</p>
                           </div>
                       </div>
                   </div>
@@ -220,7 +220,7 @@
                       <div class="card-header" id="senior-office-job-h">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#senior-office-job"
                               aria-expanded="false" aria-controls="backoffice-job">
-                              Senior Operations Manager (BARODA - GUJARAT)
+                              Senior Operations Manager (VADODARA - INDIA)
                           </a>
                       </div>
                       <div id="senior-office-job" class="collapse" aria-labelledby="senior-office-job-h" data-parent="#accordion">
@@ -266,7 +266,7 @@
                               <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                       href="javascript://">careers@tvarit.com</a></p>
                               <br>
-                              <p class="red">Location: Baroda (Gujarat)</p>
+                              <p class="red">Location: Vadodara (India)</p>
                           </div>
                       </div>
                   </div>
@@ -1048,7 +1048,7 @@
                     <div class="card-header" id="headingOne">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
-                            Senior Software Developer (MUMBAI)
+                            Senior Software Developer (MUMBAI - INDIA)
                         </a>
                     </div>
 
@@ -1111,7 +1111,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
                             <br>
-                            <p class="red">Location: Mumbai</p>
+                            <p class="red">Location: Mumbai (India)</p>
                         </div>
                     </div>
                 </div>
@@ -1123,7 +1123,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                     <div class="card-header" id="headingSeven">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn7"
                             aria-expanded="false" aria-controls="acccrdn1">
-                            DIRECTOR - SOFTWARE DEVELOPMENT (MUMBAI)
+                            DIRECTOR - SOFTWARE DEVELOPMENT (MUMBAI - INDIA)
                         </a>
                     </div>
 
@@ -1180,7 +1180,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a href="javascript://">careers@tvarit.com</a></p>
                             <br>
-                            <p class="red">Location: Mumbai</p>
+                            <p class="red">Location: Mumbai (India)</p>
                         </div>
                     </div>
                 </div>
