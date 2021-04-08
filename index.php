@@ -140,7 +140,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <!-- <div class="imgW-more"> -->
-                        <p class="text-p">Understand and act-on process deviations to reduce rejections. Leverage the power of artficial intelligence to continously improve your die-casting process with TiA for Die-Casting</p>
+                        <p class="text-p">Understand and act-on process deviations to reduce rejections. Leverage the power of artficial intelligence to continously improve your die-casting processes with TiA for Die-Casting</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
                             <a href="https://www.tia.tvarit.com/" target="_new" class="btn btn-round btn-red-grd">Know
