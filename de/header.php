@@ -191,7 +191,7 @@ div.fadeMe {
                                         <a href="#" class="sub-Link menu-click" onmouseover="showSubItem('tia-for-die-casting-sub')" onmouseout="hideSubItem('tia-for-die-casting-sub')">TiA for Die-Casting</a>
                                     </li>
                                     <div style="display:none;" id="tia-for-die-casting-sub">
-                                      <a style="color:#333; display:block;" href="https://www.tia.tvarit.com/" class="item-show-hide-box" onmouseover="showSubItem('tia-for-die-casting-sub')" onmouseout="hideSubItem('tia-for-die-casting-sub')">Reduce rejections & rework in Die-Casting</a>
+                                      <a style="color:#333; display:block;" href="https://www.tia.tvarit.com/" class="item-show-hide-box" onmouseover="showSubItem('tia-for-die-casting-sub')" onmouseout="hideSubItem('tia-for-die-casting-sub')">Reduzieren Sie Ausschuss und Nacharbeit im Druckguss</a>
                                     </div>
                                 </ul>
                             </div>
