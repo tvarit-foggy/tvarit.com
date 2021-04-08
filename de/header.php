@@ -176,12 +176,12 @@ div.fadeMe {
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">AI Product</a>
+                    <a class="nav-link" href="#">KI Produkte</a>
                     <div class="submenu-div">
                         <div class="row">
                             <div class="col">
                                 <div class="menuQuote">
-                                      <div class="textBig">AI Product<span class="red">.</span></div>
+                                      <div class="textBig">KI Produkte<span class="red">.</span></div>
                                     <!-- <p class="text-normal"> </p> -->
                                 </div>
                             </div>
