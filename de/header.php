@@ -54,7 +54,7 @@ div.fadeMe {
     height: 100vh;
 }
 </style>
-<script> (function(){ window.ldfdr = window.ldfdr || {}; (function(d, s, ss, fs){ fs = d.getElementsByTagName(s)[0]; function ce(src){ var cs = d.createElement(s); cs.src = src; setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1); } ce(ss); })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_lYNOR8xMWAb7WQJZ.js'); })(); </script> 
+<script> (function(){ window.ldfdr = window.ldfdr || {}; (function(d, s, ss, fs){ fs = d.getElementsByTagName(s)[0]; function ce(src){ var cs = d.createElement(s); cs.src = src; setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1); } ce(ss); })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_lYNOR8xMWAb7WQJZ.js'); })(); </script>
 
  <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script>
  <script type="text/javascript" langauge="javascript">
@@ -176,6 +176,29 @@ div.fadeMe {
                     </div>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="#">AI Product</a>
+                    <div class="submenu-div">
+                        <div class="row">
+                            <div class="col">
+                                <div class="menuQuote">
+                                      <div class="textBig">AI Product<span class="red">.</span></div>
+                                    <!-- <p class="text-normal"> </p> -->
+                                </div>
+                            </div>
+                            <div class="col">
+                                <ul class="ul-sub-menu">
+                                  <li>
+                                        <a href="#" class="sub-Link menu-click" onmouseover="showSubItem('tia-for-die-casting-sub')" onmouseout="hideSubItem('tia-for-die-casting-sub')">TiA for Die-casting</a>
+                                    </li>
+                                    <div style="display:none;" id="tia-for-die-casting-sub">
+                                      <a style="color:#333; font-weight:bold; display:block;" href="https://www.tia.tvarit.com/" class="item-show-hide-box" onmouseover="showSubItem('tia-for-die-casting-sub')" onmouseout="hideSubItem('tia-for-die-casting-sub')">Reduce rejections & rework in Die-Casting--tiaf</a>
+                                    </div>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="#">MEHR</a>
                     <div class="submenu-div">
                         <div class="row">
@@ -253,4 +276,14 @@ div.fadeMe {
 <!------------------------sticky contact button end --------------------->
 <script>
     document.getElementById('german').href = location.origin + '/de'
+</script>
+<script>
+   function showSubItem(id){
+	   jQuery("#"+id).show();
+   }
+   function hideSubItem(id){
+	   //jQuery('#'+id).delay(1000).fadeOut('fast');
+	   jQuery("#"+id).hide();
+
+   }
 </script>

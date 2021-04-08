@@ -75,6 +75,12 @@
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
+
+<style>
+  .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff;}
+  .banner-btn:hover{color:#fff; background: #ed1b4a;}
+</style>
+
 </head>
 
 <body>
@@ -94,48 +100,21 @@
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important">
+    <header class="headerBg  bgSizeCover" id="" style="padding-top: 0px !important; background:url(img/header-banner-bg.png) no-repeat 50%; background-size:cover;">
         <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
-        <div class="headerOverlay">
+        <div class="headerOverlay" style="background:none;">
             <div class="container">
                 <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                         class="icon ion-ios-arrow-dropdown"></i></a>
                 <div class="row align-items-center">
-                    <div class="col-md-6">
-                        <div class="typography lh-1 left">
-                            <div id="tvarit-strings" class="stringText">
-                                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
-                            </div>
-                            <div id="industrial-strings" class="stringText">
-                                <span>INDUSTRIAL <span class="red">AI</span> </span>
-                            </div>
-                            <div id="prgf-strings" class="stringText">
-                                <span><h1>Fast and customized solutions for all your manufacturing problems and data science
-                                    needs</h1></span>
-                            </div>
-                            <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
-                            <div class="hdr-industrial" id="typed-industrial"></div>
-                            <div class="hdr-prgf"><span id="typed-prgf"></span></div>
-                        </div>
+                    <div class="col-md-3 ml-auto pr-5 pl-5">
+                        <div class="mb-3"><img width="130" src="img/Hannover-Messe2.png"/></div>
+                        <p>Reduce rejections & break-down with Tvarit industrial Ai</p>
                     </div>
-                    <div class="col-md-6">
-                        <img src="img/EDI_logo.png"  alt="EDI Logo" class="img-fluid edi_index_logo"
-                            style="margin-left: auto;margin-right:auto;display:block">
-                        <div class="typography right lh-1" style="text-align:center">
-                            <div id="germany-strings" class="stringText">
-                                <span style="text-align:center">YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
-                            </div>
-                            <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
-                            <div class="hdr-prgf2r">
-                                <span id="typed-prgf2r"></span>
-                                <div class="rw-words-1">
-                                    <span>Remove inefficiencies and failures of your production units and business
-                                        processes</span>
-                                    <span>Reduce the failure rate of all your AI/Data Science Projects</span>
-                                </div>
-                            </div>
-
-                        </div>
+                    <div class="col-md-4 mr-auto pr-5 pl-5" style="border-left:#555 1px solid;">
+                        <div class="mb-3"><img width="130" src="img/tia-logo.jpg"/></div>
+                        <p>Don’t miss our product launch & visit us on the <strong>virtual Hannover Messe</strong> | April 12-16</p>
+                        <a class="banner-btn" href="contact"><i class="fas fa-chevron-left"></i> Contact us to get your free ticket</a>
                     </div>
                 </div>
             </div>
@@ -148,24 +127,23 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="AmimgBox">
-                        <img src="img/edi.png" alt="EDI" loading="lazy" class="img-fluid">
+                      <video width="100%" height="auto" controls>
+                        <source src="video/Tobias_Take2_TiA_for_Die_Casting_Pitch_1080.mp4" type="video/mp4">
+                        Your browser does not support HTML video.
+                      </video>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="innr-sec-mainTitle inner-lg-heading">EXPERIENCE ONE OF THE MOST INNOVATIVE
-                                INDUSTRIAL AI
-                                COMPANIES IN EUROPE</div>
+                            <div class="innr-sec-mainTitle inner-lg-heading">Reduce rejections and rework in your die-casting processes.</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <!-- <div class="imgW-more"> -->
-                        <p class="text-p">We have been awarded as one of the winners of the European Data Incubator
-                            2020 experiment phase round in Spain.
-                        </p>
+                        <p class="text-p">Understand and act-on process deviations to reduce rejections. Leverage the power of artficial intelligence to continously improve your die-casting process with TiA for Die-Casting</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                            <a href="european-data-incubator" target="_blank" class="btn btn-round btn-red-grd">Know
+                            <a href="https://www.tia.tvarit.com/" target="_new" class="btn btn-round btn-red-grd">Know
                                 More</a>
                         </div>
                     </div>
@@ -182,8 +160,8 @@
             </div>
             <h4 class="subHeader">Increase profitability with predictive quality, predictive maintenance and dynamic recipes.
             </h4>
-            <p class="text-p" style="text-align: center;">The TVARIT Industrial Artificial Intelligence (TIA) software is a ready-to-use state-of-the-art Smart Factory and Digital Twin Software. Receive in depth insights based on the analysis of machine data, sensor data, manufacturing execution systems data, laboratory information management systems data and ERP data.</p> 
-            <p class="text-p" style="text-align: center;">Get the relevant information in customized and user-oriented dashboards – whether you are an executive, plant manager, quality manager, shop floor engineer or technologist.  Monitor key parameter indicators (KPI) such as machine availability, quality rate and performance (Overall equipment effectiveness) in real-time and prevent quality deviations and machine breakdowns with the help of predictive analytics.</p> 
+            <p class="text-p" style="text-align: center;">The TVARIT Industrial Artificial Intelligence (TIA) software is a ready-to-use state-of-the-art Smart Factory and Digital Twin Software. Receive in depth insights based on the analysis of machine data, sensor data, manufacturing execution systems data, laboratory information management systems data and ERP data.</p>
+            <p class="text-p" style="text-align: center;">Get the relevant information in customized and user-oriented dashboards – whether you are an executive, plant manager, quality manager, shop floor engineer or technologist.  Monitor key parameter indicators (KPI) such as machine availability, quality rate and performance (Overall equipment effectiveness) in real-time and prevent quality deviations and machine breakdowns with the help of predictive analytics.</p>
             <p class="text-p" style="text-align: center;">Furthermore, prescriptive dynamic recipes provide you with actionable recommendations for process optimization. Keep track of all the important incidents with notification and alerts. Overall, TIA enables you to optimize OEE, reduce scrap, increase efficiency and improve machine availability. Finally, this leads to reduced costs, increased production output as well as an optimized usage of manpower, machines and material.  </p>
             <p class="text-p" style="text-align: center;">Some of the most relevant implemented use-cases are:</p>
             <br>
@@ -233,7 +211,7 @@
                                 Real-Time Production View
                                 </li>
                             </ul>
-                            <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
+                            <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore"
                             style="padding: 12px !important"> Know
                                 More</a>
                         </div>
@@ -488,6 +466,9 @@
             </div>
         </div>
     </div>
+
+    <div class="text-center mt-5 mb-5 pt-5"><img src="img/english-Image-above-the-contact-form.png"/></div>
+
     <!------------------------ Reference end ----------------------->
 
     <!------------------------footer start --------------------->
