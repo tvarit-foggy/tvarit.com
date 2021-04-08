@@ -109,7 +109,7 @@
                     </div>
                     <div class="col-md-5 mr-auto pr-3 pl-5" style="border-left:#555 1px solid;">
                         <div class="mb-3"><img width="130" src="img/tia-logo.jpg"/></div>
-                        <p>Verpassen Sie nicht den launch unseres neuen produktes & besuchen sie uns auf der <strong>Hannover Messe</strong> | 12. bis 16. April</p>
+                        <p>Verpassen Sie nicht den Launch unseres neuen Produktes & besuchen Sie uns auf der <strong>Hannover Messe</strong> | 12. bis 16. April</p>
                         <a class="banner-btn" href="contact"><i class="fas fa-chevron-left"></i> Kontaktieren Sie uns für lhr kostenloses Ticket</a>
                     </div>
                 </div>
