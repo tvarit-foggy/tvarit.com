@@ -102,15 +102,15 @@
             <div class="container">
                 <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                         class="icon ion-ios-arrow-dropdown"></i></a>
-                <div class="row align-items-center">
-                    <div class="col-md-3 ml-auto pr-5 pl-3">
+                <div class="row align-items-center pt-5 pb-5">
+                    <div class="col-md-3 ml-auto pr-4 pl-4">
                         <div class="mb-3"><img width="130" src="img/Hannover-Messe2.png"/></div>
                         <p>Reduzieren Sie Ausschuss und vermeiden Sie Maschinenaus-fälle mit Tvarit industrial AI</p>
                     </div>
-                    <div class="col-md-5 mr-auto pr-3 pl-5" style="border-left:#555 1px solid;">
+                    <div class="col-md-5 mr-auto pr-4 pl-4" style="border-left:#555 1px solid;">
                         <div class="mb-3"><img width="130" src="img/tia-logo.jpg"/></div>
                         <p>Verpassen Sie nicht den Launch unseres neuen Produktes & besuchen Sie uns auf der <strong>Hannover Messe</strong> | 12. bis 16. April</p>
-                        <a class="banner-btn" href="contact"><i class="fas fa-chevron-left"></i> Kontaktieren Sie uns für lhr kostenloses Ticket</a>
+                        <a class="banner-btn" href="#contact_us"><i class="fas fa-chevron-right"></i> Kontaktieren Sie uns für lhr kostenloses Ticket</a>
                     </div>
                 </div>
             </div>
@@ -139,7 +139,7 @@
                             <p class="text-p">Verstehen und reagieren Sie auf Prozessabweichungen, um Ausschuss zu reduzieren. Nutzen Sie die Power der künstlichen Intelligenz, um Ihre Druckgussprozesse mit TiA for Die-Casting kontinuierlich zu verbessern.</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                        <a href="https://www.tia.tvarit.com/" target="_new" class="btn btn-round btn-red-grd">Mehr erfahren</a>
+                        <a href="https://www.tia.tvarit.com/" class="btn btn-round btn-red-grd">Mehr erfahren</a>
                    </div>
                     </div>
                 </div>
@@ -449,7 +449,6 @@
         </div>
     </div>
 
-    <div class="text-center mt-5 mb-5 pt-5"><img src="img/german-Image-Above-contact-form.png"/></div>
     <!------------------------ Reference end ----------------------->
 
     <!------------------------footer start --------------------->

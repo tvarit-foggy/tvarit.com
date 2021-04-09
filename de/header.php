@@ -188,10 +188,10 @@ div.fadeMe {
                             <div class="col">
                                 <ul class="ul-sub-menu">
                                   <li>
-                                        <a href="#" class="sub-Link menu-click" onmouseover="showSubItem('tia-for-die-casting-sub')" onmouseout="hideSubItem('tia-for-die-casting-sub')">TiA for Die-Casting</a>
+                                        <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click" >TiA for Die-casting</a>
                                     </li>
-                                    <div style="display:none;" id="tia-for-die-casting-sub">
-                                      <a style="color:#333; display:block;" href="https://www.tia.tvarit.com/" class="item-show-hide-box" onmouseover="showSubItem('tia-for-die-casting-sub')" onmouseout="hideSubItem('tia-for-die-casting-sub')">Reduzieren Sie Ausschuss und Nacharbeit im Druckguss</a>
+                                    <div  id="tia-for-die-casting-sub">
+                                      <a style="color:#333;  display:block;" href="#" class="item-show-hide-box" >Reduzieren Sie Ausschuss und Nacharbeit im Druckguss</a>
                                     </div>
                                 </ul>
                             </div>

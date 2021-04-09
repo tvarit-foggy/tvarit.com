@@ -106,15 +106,15 @@
             <div class="container">
                 <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                         class="icon ion-ios-arrow-dropdown"></i></a>
-                <div class="row align-items-center">
-                    <div class="col-md-3 ml-auto pr-5 pl-5">
+                <div class="row align-items-center pt-5 pb-5">
+                    <div class="col-md-3 ml-auto pr-4 pl-4">
                         <div class="mb-3"><img width="130" src="img/Hannover-Messe2.png"/></div>
-                        <p>Reduce rejections & break-down with Tvarit industrial Ai</p>
+                        <p>Reduce rejections & break-downs with Tvarit industrial AI</p>
                     </div>
-                    <div class="col-md-4 mr-auto pr-5 pl-5" style="border-left:#555 1px solid;">
+                    <div class="col-md-4 mr-auto pr-4 pl-4" style="border-left:#555 1px solid;">
                         <div class="mb-3"><img width="130" src="img/tia-logo.jpg"/></div>
                         <p>Don’t miss our product launch & visit us on the <strong>virtual Hannover Messe</strong> | April 12-16</p>
-                        <a class="banner-btn" href="contact"><i class="fas fa-chevron-left"></i> Contact us to get your free ticket</a>
+                        <a class="banner-btn" href="#contact_us"><i class="fas fa-chevron-right"></i> Contact us to get your free ticket</a>
                     </div>
                 </div>
             </div>
@@ -140,10 +140,10 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <!-- <div class="imgW-more"> -->
-                        <p class="text-p">Understand and act-on process deviations to reduce rejections. Leverage the power of artficial intelligence to continously improve your die-casting processes with TiA for Die-Casting</p>
+                        <p class="text-p">Understand and act-on process deviations to reduce rejections. Leverage the power of Artificial intelligence to continously improve your die-casting processes with TiA for Die-Casting.</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                            <a href="https://www.tia.tvarit.com/" target="_new" class="btn btn-round btn-red-grd">Know
+                            <a href="https://www.tia.tvarit.com/" class="btn btn-round btn-red-grd">Know
                                 More</a>
                         </div>
                     </div>
@@ -466,8 +466,6 @@
             </div>
         </div>
     </div>
-
-    <div class="text-center mt-5 mb-5 pt-5"><img src="img/english-Image-above-the-contact-form.png"/></div>
 
     <!------------------------ Reference end ----------------------->
 

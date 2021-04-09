@@ -201,10 +201,10 @@ $(document).ready(function(){
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                       <li>
-                                            <a href="#" class="sub-Link menu-click" onmouseover="showSubItem('tia-for-die-casting-sub')" onmouseout="hideSubItem('tia-for-die-casting-sub')" >TiA for Die-Casting</a>
+                                            <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click"  >TiA for Die-casting</a>
                                         </li>
-                                        <div style="display:none;" id="tia-for-die-casting-sub">
-                                          <a style="color:#333;  display:block;" href="https://www.tia.tvarit.com/" class="item-show-hide-box" onmouseover="showSubItem('tia-for-die-casting-sub')" onmouseout="hideSubItem('tia-for-die-casting-sub')">Reduce rejections & rework in Die-Casting</a>
+                                        <div  id="tia-for-die-casting-sub">
+                                          <a style="color:#333;  display:block;" href="#" class="item-show-hide-box" >Reduce rejections & rework in Die-Casting</a>
                                         </div>
                                     </ul>
                                 </div>
@@ -293,13 +293,3 @@ $(document).ready(function(){
     document.getElementById('german').href = location.origin + '/de'
 </script>
 
-<script>
-   function showSubItem(id){
-	   jQuery("#"+id).show();
-   }
-   function hideSubItem(id){
-	   //jQuery('#'+id).delay(1000).fadeOut('fast');
-	   jQuery("#"+id).hide();
-
-   }
-</script>
