@@ -108,8 +108,8 @@
                         <p>Reduzieren Sie Ausschuss und vermeiden Sie Maschinenaus-fälle mit Tvarit industrial AI</p>
                     </div>
                     <div class="col-md-5 mr-auto pr-4 pl-4" style="border-left:#555 1px solid;">
-                        <div class="mb-3"><img width="130" src="img/tia-logo.jpg"/></div>
-                        <p>Verpassen Sie nicht den Launch unseres neuen Produktes & besuchen Sie uns auf der <strong>Hannover Messe</strong> | 12. bis 16. April</p>
+                        <div class="mb-3"><img width="120" src="img/tia-logo.jpg"/></div>
+                        <p style="max-width: 280px;">Verpassen Sie nicht den Launch unseres neuen Produktes & besuchen Sie uns auf der <strong>Hannover Messe</strong> | 12. bis 16. April</p>
                         <a class="banner-btn" href="#contact_us"><i class="fas fa-chevron-right"></i> Kontaktieren Sie uns für lhr kostenloses Ticket</a>
                     </div>
                 </div>
