@@ -275,7 +275,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg-12">
                     <div class="innr-sec-mainTitle centerTitle">
-                        Contact persons for questions and partnerships
+                        Contact person for questions and partnerships
                     </div>
                 </div>
                 <div class="col-lg-12">
