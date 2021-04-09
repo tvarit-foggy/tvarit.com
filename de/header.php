@@ -53,6 +53,11 @@ div.fadeMe {
     text-align: center;
     height: 100vh;
 }
+@media only screen and (max-width: 990px) {
+    #tia-for-die-casting-sub {
+      padding-left: 10px;
+    }
+}
 </style>
 <script> (function(){ window.ldfdr = window.ldfdr || {}; (function(d, s, ss, fs){ fs = d.getElementsByTagName(s)[0]; function ce(src){ var cs = d.createElement(s); cs.src = src; setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1); } ce(ss); })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_lYNOR8xMWAb7WQJZ.js'); })(); </script>
 
