@@ -47,6 +47,11 @@ div.fadeMe {
     text-align: center;
     height: 100vh;
 }
+@media only screen and (max-width: 990px) {
+    #tia-for-die-casting-sub {
+      padding-left: 10px;
+    }
+}
 </style>
 <!-- Scripts -->
 <script>
