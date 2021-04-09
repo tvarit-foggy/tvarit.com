@@ -2742,7 +2742,7 @@ a .tvarit-black:hover {
 #downClick h5{font-size: 22px;}
 
 @media only screen and (max-width: 990px) {
-  #tia-for-die-casting-sub {
+  div#tia-for-die-casting-sub {
     padding-left: 10px;
   }
 }
