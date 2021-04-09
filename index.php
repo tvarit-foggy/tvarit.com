@@ -112,8 +112,8 @@
                         <p>Reduce rejections & break-downs with Tvarit industrial AI</p>
                     </div>
                     <div class="col-md-4 mr-auto pr-4 pl-4" style="border-left:#555 1px solid;">
-                        <div class="mb-3"><img width="130" src="img/tia-logo.jpg"/></div>
-                        <p>Don’t miss our product launch & visit us on the <strong>virtual Hannover Messe</strong> | April 12-16</p>
+                        <div class="mb-3"><img width="120" src="img/tia-logo.jpg"/></div>
+                        <p style="max-width: 280px;">Don’t miss our product launch & visit us on the <strong>virtual Hannover Messe</strong> | April 12-16</p>
                         <a class="banner-btn" href="#contact_us"><i class="fas fa-chevron-right"></i> Contact us to get your free ticket</a>
                     </div>
                 </div>
