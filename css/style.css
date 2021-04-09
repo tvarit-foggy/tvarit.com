@@ -2740,3 +2740,9 @@ a .tvarit-black:hover {
     #typed-prgf h1{font-size: 24px;}
     .subHeader{font-size:20px; text-align:center; font-weight:700; margin-bottom:30px; margin-top:12px;}
 #downClick h5{font-size: 22px;}
+
+@media only screen and (max-width: 990px) {
+  #tia-for-die-casting-sub {
+    padding-left: 10px;
+  }
+}
