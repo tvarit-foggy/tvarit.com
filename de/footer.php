@@ -265,6 +265,12 @@
              opacity: 0;
          }
      }
+     @media only screen and (max-width: 990px) {
+        .g-recaptcha {
+            transform:scale(0.77);
+            transform-origin:0 0;
+        }
+    }
      </style>
  </head>
 
