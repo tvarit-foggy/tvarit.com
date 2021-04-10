@@ -105,7 +105,7 @@
                 <div class="row align-items-center pt-5 pb-5">
                     <div class="col-md-3 ml-auto pr-4 pl-4">
                         <div class="mb-3"><img width="130" src="img/Hannover-Messe2.png"/></div>
-                        <p>Reduzieren Sie Ausschuss und vermeiden Sie Maschinenaus-fälle mit Tvarit industrial AI</p>
+                        <p style="max-width: 200px;">Reduzieren Sie Ausschuss und vermeiden Sie Maschinenaus-fälle mit Tvarit industrial AI</p>
                     </div>
                     <div class="col-md-5 mr-auto pr-4 pl-4" style="border-left:#555 1px solid;">
                         <div class="mb-3"><img width="120" src="img/tia-logo.jpg"/></div>
