@@ -265,6 +265,11 @@
              opacity: 0;
          }
      }
+     @media only screen and (min-width: 600px) {
+        .hannover-img {
+            width: 550px !important;
+        }
+    }
      </style>
  </head>
 
@@ -274,7 +279,7 @@
      <!------------------------try demo start --------------------->
 
      <footer class="section-padding-both" id="contact_us">
-       <div class="text-center mt-3 mb-5 pt-5"><img src="img/german-Image-Above-contact-form.png" style="max-width:100%; width:300px;"/></div>
+       <div class="text-center mt-3 mb-5 pt-5"><img class="hannover-img" src="img/german-Image-Above-contact-form.png" style="max-width:100%; width:300px;"/></div>
          <div class="container">
              <div class="row align-items-md-center">
                  <div class="col-lg-4 order-lg-1 order-2">
