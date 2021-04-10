@@ -256,6 +256,13 @@
           text-align: center;
         }
     }
+    .social-icon {
+    	justify-content: center;
+    	padding-left: 30px;
+    }	    
+    .ft-links{
+	    padding-left: 30px;
+    }
     </style>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 <script type="text/javascript">
