@@ -239,6 +239,9 @@
     .ft-links{
 	    padding-left: 30px;
     }
+    .text-contact{
+        text-align: center;
+    }
     </style>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 <script type="text/javascript">
