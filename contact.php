@@ -231,7 +231,6 @@
     .col-md-4 {
           text-align: center;
         }
-    }
     .social-icon {
     	justify-content: center;
     	padding-left: 30px;
@@ -241,6 +240,7 @@
     }
     .text-contact{
         text-align: center;
+    }
     }
     </style>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
