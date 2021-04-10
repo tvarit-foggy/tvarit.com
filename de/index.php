@@ -75,6 +75,12 @@
   <style>
     .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff;}
     .banner-btn:hover{color:#fff; background: #ed1b4a;}
+     
+         @media only screen and (max-width: 767px) {
+            .sec-mainTitle {
+                font-size: 24px;
+            }
+        }
   </style>
 
 </head>
