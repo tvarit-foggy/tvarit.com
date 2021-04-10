@@ -227,6 +227,11 @@
           justify-content: space-between;
         }
     }
+    @media only screen and (max-width: 767px) {
+    .col-md-4 {
+          text-align: center;
+        }
+    }
     </style>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 <script type="text/javascript">
