@@ -71,6 +71,18 @@
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
+
+  <style>
+    .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff;}
+    .banner-btn:hover{color:#fff; background: #ed1b4a;}
+     
+         @media only screen and (max-width: 767px) {
+            .sec-mainTitle {
+                font-size: 24px;
+            }
+        }
+  </style>
+
 </head>
 
 <body>
@@ -90,48 +102,24 @@
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important">
+    <header class="headerBg  bgSizeCover" id="" style="padding-top: 0px !important; background:url(img/header-banner-bg.png) no-repeat 50%; background-size:cover;">
         <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
-        <div class="headerOverlay">
-        <div class="container">
-            <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
-                    class="icon ion-ios-arrow-dropdown"></i></a>
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="typography lh-1 left">
-                        <div id="tvarit-strings" class="stringText">
-                            <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
-                        </div>
-                        <div id="industrial-strings" class="stringText">
-                            <span>INDUSTRIAL <span class="red">AI</span> </span>
-                        </div>
-                        <div id="prgf-strings" class="stringText">
-                            <span>Schnelle und maßgeschneiderte Lösungen für alle datenwissenschaftlichen Herausforderungen in der Fertigung.</span>
-                        </div>
-                        <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
-                        <div class="hdr-industrial" id="typed-industrial"></div>
-                        <div class="hdr-prgf"><span id="typed-prgf"></span></div>
+        <div class="headerOverlay" style="background:none;">
+            <div class="container">
+                <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
+                        class="icon ion-ios-arrow-dropdown"></i></a>
+                <div class="row align-items-center pt-5 pb-5">
+                    <div class="col-md-3 ml-auto pr-4 pl-4">
+                        <div class="mb-3"><img width="130" src="img/Hannover-Messe2.png"/></div>
+                        <p style="max-width: 200px;">Reduzieren Sie Ausschuss und vermeiden Sie Maschinenaus-fälle mit Tvarit industrial AI</p>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <img src="img/EDI_logo.png" alt="EDI Logo" class="img-fluid edi_index_logo" style="margin-left: auto;margin-right:auto;display:block">
-                    <div class="typography right lh-1" style="text-align:center">
-                        <div id="germany-strings" class="stringText">
-                            <span style="text-align:center">Ihr Partner für industrielle KI Lösungen.</span>
-                        </div>
-                        <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
-                        <div class="hdr-prgf2r">
-                            <span id="typed-prgf2r"></span>
-                            <div class="rw-words-1">
-                                <span>Steigern Sie die Effizienz Ihrer Produktionseinheiten und vermeiden Sie Ausfälle Ihrer Maschinen und Geräte.</span>
-                                <span>Maximieren Sie die Erfolgsrate Ihrer KI-Projekte.</span>
-                            </div>
-                        </div>
-
+                    <div class="col-md-5 mr-auto pr-4 pl-4" style="border-left:#555 1px solid;">
+                        <div class="mb-3"><img width="120" src="img/tia-logo.jpg"/></div>
+                        <p style="max-width: 280px;">Verpassen Sie nicht den Launch unseres neuen Produktes & besuchen Sie uns auf der <strong>Hannover Messe</strong> | 12. bis 16. April</p>
+                        <a class="banner-btn" href="#contact_us"><i class="fas fa-chevron-right"></i> Kontaktieren Sie uns für lhr kostenloses Ticket</a>
                     </div>
                 </div>
             </div>
-        </div>
         </div>
     </header>
     <!------------------------ header end --------------------------->
@@ -141,22 +129,23 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="AmimgBox">
-                        <img src="img/edi.png" alt="EDI" class="img-fluid">
+                      <video width="100%" height="auto" controls>
+                        <source src="../video/Tobias_Take2_TiA_for_Die_Casting_Pitch_1080.mp4" type="video/mp4">
+                        Your browser does not support HTML video.
+                      </video>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
                         <div class="title">
-                            <div class="innr-sec-mainTitle inner-lg-heading">Lernen Sie eines der innovativsten Industrie-KI-Unternehmen Europas kennen</div>
+                            <div class="innr-sec-mainTitle inner-lg-heading">Reduzieren Sie Ausschuss und Nacharbeit in Ihren Druckgussprozessen</div>
                         </div>
                         <div class="short-line bg-red"></div>
                         <!-- <div class="imgW-more"> -->
-                            <p class="text-p">Im Rahmen eines EU Horizon 2020 Projektes wurden wir vom European Data Incubator als eines der besten 8 von insgesamt 490 KI-Unternehmen in ganz Europa ausgezeichnet.
-                            </p>
+                            <p class="text-p">Verstehen und reagieren Sie auf Prozessabweichungen, um Ausschuss zu reduzieren. Nutzen Sie die Power der künstlichen Intelligenz, um Ihre Druckgussprozesse mit TiA for Die-Casting kontinuierlich zu verbessern.</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                        <a href="european-data-incubator" target="_blank"
-                   class="btn btn-round btn-red-grd">Mehr erfahren</a>
+                        <a href="https://www.tia.tvarit.com/" class="btn btn-round btn-red-grd">Mehr erfahren</a>
                    </div>
                     </div>
                 </div>
@@ -167,7 +156,7 @@
     <!------------------------ Features start --------------------->
     <div class="section-padding" >
         <div class="container">
-            <div class="centerTitle sec-mainTitle"> 
+            <div class="centerTitle sec-mainTitle">
                 KI LÖSUNGEN
             </div>
             <h4 class="subHeader">Erhöhen Sie Ihre Profitabilität mit Hilfe von predictive Quality, predictive Maintenance und dynamischen Rezepten.</h4>
@@ -221,7 +210,7 @@
                                 Echtzeit Blick in die Produktion
                                 </li>
                             </ul>
-                            <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore" 
+                            <a href="ai-based-production-solution-for-cable-manufacturing" target="_blank" class="btn btn-round btn-red-grd btn-knowmore"
                             style="padding: 12px !important"> Mehr erfahren</a>
                         </div>
                     </div>
@@ -299,7 +288,7 @@
                         </div>
                         <div class="short-line bg-red"></div>
                         <p class="text-p">
-                        Wir bieten anpassbare und einsatzbereite Data Science- und KI-Softwarelösungen für die Fertigungsindustrie. Diese wurden auf der Grundlage mehrjähriger Erfahrung in der Zusammenarbeit mit Fertigungsunternehmen und Produktionseinrichtungen entwickelt. Im Zentrum der anwenderfreundlichen Benutzeroberfläche und Dashboards unserer Software steht unser algorithmisches Framework. Da wir kontinuierlich in Forschung und Entwicklung investieren, wird dieses Framework kontinuierlich erweitert und besteht aus mehr als 160 algorithmischen Modulen für alle Schritte von Data Science Projekten in der Fertigungsindustrie. Für unsere Technologie wurden wir kürzlich vom European Data Incubator als eines der besten KI-Unternehmen in ganz Europa ausgezeichnet.</p>                     
+                        Wir bieten anpassbare und einsatzbereite Data Science- und KI-Softwarelösungen für die Fertigungsindustrie. Diese wurden auf der Grundlage mehrjähriger Erfahrung in der Zusammenarbeit mit Fertigungsunternehmen und Produktionseinrichtungen entwickelt. Im Zentrum der anwenderfreundlichen Benutzeroberfläche und Dashboards unserer Software steht unser algorithmisches Framework. Da wir kontinuierlich in Forschung und Entwicklung investieren, wird dieses Framework kontinuierlich erweitert und besteht aus mehr als 160 algorithmischen Modulen für alle Schritte von Data Science Projekten in der Fertigungsindustrie. Für unsere Technologie wurden wir kürzlich vom European Data Incubator als eines der besten KI-Unternehmen in ganz Europa ausgezeichnet.</p>
                         <br>
                     </div>
 
@@ -321,7 +310,7 @@
                 <h3 class="bold text-center red mb-0">Wir beherrschen alle Sprachen von </h3>
                 <div class="sec-mainTitle">Fertigungsunternehmen</div>
                 <h4 class="subHeader">
-                    Erhalten Sie schnellste Analysen und Vohersagen bei reibungsloser Extraktion Ihrer Produktionsdaten und höchster Datensicherheit. 
+                    Erhalten Sie schnellste Analysen und Vohersagen bei reibungsloser Extraktion Ihrer Produktionsdaten und höchster Datensicherheit.
                 </h4>
                 <p class="text-p">Unabhängig davon, wo Ihre Daten erfasst und gespeichert werden, können diese von Maschinen über SCADA, sowie mit Hilfe von Industrial Internet of Things (IIoT) Service-Anbietern und EDGE-Geräten in unsere Software integriert werden. Die Daten in Ihrer Produktionslinie und Supply Chain können effizient von Ihrem SAP, OPC UA Server, Manufacturing Execution System (MES), Qualitätsmanagementsystem und anderen Datenmanagementsystemen (DMS) erfasst werden. </p>
                 <p class="text-p">Wir nutzen die neuesten Technologien der Datenspeicherung und Rechenserver von IBM Power, Amazon Web Services (AWS) und Microsoft Azure für ein schnelles Training der Modelle und eine flexible Skalierbarkeit Ihrer Data Science Tätigkeiten. </p>
@@ -465,6 +454,7 @@
             </div>
         </div>
     </div>
+
     <!------------------------ Reference end ----------------------->
 
     <!------------------------footer start --------------------->

@@ -217,6 +217,31 @@
             opacity: 0;
         }
     }
+    .g-recaptcha {
+    	transform:scale(0.77);
+    	transform-origin:0 0;
+    }
+    @media only screen and (min-width: 990px) {
+    .align-flex {
+          display: flex;
+          justify-content: space-between;
+        }
+    }
+    @media only screen and (max-width: 767px) {
+    .col-md-4 {
+          text-align: center;
+        }
+    .social-icon {
+    	justify-content: center;
+    	padding-left: 30px;
+    }	    
+    .ft-links{
+	    padding-left: 30px;
+    }
+    .text-contact{
+        text-align: center;
+    }
+    }
     </style>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 <script type="text/javascript">
@@ -275,7 +300,7 @@
             <div class="row align-items-lg-center">
                 <div class="col-lg-12">
                     <div class="innr-sec-mainTitle centerTitle">
-                        Contact persons for questions and partnerships
+                        Contact person for questions and partnerships
                     </div>
                 </div>
                 <div class="col-lg-12">
@@ -333,10 +358,10 @@
                                     placeholder="Message"></textarea>
                             </div>
                             <br>
-                            <div class="form-group text-right">
+                            <div class="form-group align-flex">
                               <div class="g-recaptcha" id="g-contact-captcha" ></div>
-                                <input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
-                                &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveloader" aria-hidden="true"></i>
+                                <div><input type="button" value="Submit" id="btn" class="btn btn-round btn-red-grd">
+                                &nbsp;<i class="fa fa-spinner fa-spin" style="color:#ed1b4a; visibility: hidden" id="saveloader" aria-hidden="true"></i></div>
                             </div>
                             <div id="snackbar">We Will Contact you Shortly</div>
                             <div id="validation">Fill All the Mandatory Fields</div>
