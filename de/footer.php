@@ -265,6 +265,13 @@
              opacity: 0;
          }
      }
+
+     @media only screen and (max-width: 990px) {
+        .g-recaptcha {
+            transform:scale(0.77);
+            transform-origin:0 0;
+        }
+    }  
      @media only screen and (min-width: 600px) {
         .hannover-img {
             width: 550px !important;
