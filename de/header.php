@@ -65,7 +65,14 @@ div.fadeMe {
  <script type="text/javascript" langauge="javascript">
     function setLanguage(ln){
         if(ln === 'en'){
-            location.href = location.origin
+            let path = location.pathname.split("/");
+            if(path[1] == 'de'){
+                path = path[2];
+                location.href = location.origin + '/de/' + path;
+            }else {
+                path = path[1];
+                location.href = location.origin + '/' + path;
+            }
             sessionStorage.setItem("lang",ln)
         }else{
             sessionStorage.setItem("lang",ln)
@@ -257,7 +264,7 @@ div.fadeMe {
                 </li>
                 <li class="nav-item">
                     <div style="display:flex;">
-                        <a class="nav-link nav-link-en" href="/"
+                        <a class="nav-link nav-link-en" href="/" id="english"
                             onClick="javascript:setLanguage('en');">
                             <b>EN</b>
                         </a>
@@ -280,7 +287,14 @@ div.fadeMe {
 </div>
 <!------------------------sticky contact button end --------------------->
 <script>
-    document.getElementById('german').href = location.origin + '/de'
+    let path = location.pathname.split("/");
+    if(path[1] == 'de'){
+        path = path[2];
+    }else {
+        path = path[1];
+    } 
+    document.getElementById('german').href = location.origin + '/de/' + path;
+    document.getElementById('english').href = location.origin + '/' + path;
 </script>
 <script>
    function showSubItem(id){
