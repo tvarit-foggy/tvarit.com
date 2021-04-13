@@ -712,7 +712,7 @@ p
 .contactBg
 {
     background: url('../img/contactBg.jpg');
-    background-size: contain;
+    background-size: 85%;
 }
 .careerBg
 {
