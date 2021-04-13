@@ -73,7 +73,7 @@
         <![endif]-->
 
   <style>
-    .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff; width:100%; text-align: center; height: 40px;}
+    .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff; width:100%; text-align: center; height: 40px; font-size: 20px;}
     .banner-btn:hover{color:#fff; background: #ed1b4a;}
      
          @media only screen and (max-width: 767px) {
