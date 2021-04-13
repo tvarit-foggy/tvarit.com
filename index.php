@@ -143,8 +143,7 @@
                         <p class="text-p">Understand and act-on process deviations to reduce rejections. Leverage the power of artificial intelligence to continously improve your die-casting processes with TiA for Die-Casting.</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                            <a href="https://www.tia.tvarit.com/" class="btn btn-round btn-red-grd">Know
-                                More</a>
+                            <a href="https://www.tia.tvarit.com/" class="banner-btn">Find Out More</a>
                         </div>
                     </div>
                 </div>

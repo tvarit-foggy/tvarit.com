@@ -145,7 +145,7 @@
                             <p class="text-p">Verstehen und reagieren Sie auf Prozessabweichungen, um Ausschuss zu reduzieren. Nutzen Sie die Power der künstlichen Intelligenz, um Ihre Druckgussprozesse mit TiA for Die-Casting kontinuierlich zu verbessern.</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                        <a href="https://www.tia.tvarit.com/" class="btn btn-round btn-red-grd">Mehr erfahren</a>
+                        <a href="https://www.tia.tvarit.com/" class="banner-btn">Mehr erfahren</a>
                    </div>
                     </div>
                 </div>
