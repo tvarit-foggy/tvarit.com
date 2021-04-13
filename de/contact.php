@@ -252,19 +252,52 @@
         }
     }
     @media only screen and (max-width: 767px) {
-    .col-md-4 {
-          text-align: center;
+         .col-md-4 {
+              text-align: center;
+         }
+        .social-icon {
+        	justify-content: center;
+        	padding-left: 70px;
+        }	    
+        .ft-links{
+	        padding-left: 30px;
         }
-    .social-icon {
-    	justify-content: center;
-    	padding-left: 30px;
-    }	    
-    .ft-links{
-	    padding-left: 30px;
+        .text-contact{
+            text-align: center;
+        }
     }
-    .text-contact{
-        text-align: center;
+    @media only screen and (max-width: 767px) {
+        .hdrscrollArrow{
+            bottom: auto;
+        }
+        .media{
+            padding-left: 40px;
+        }
+        .media1{
+            padding-left: 30px;
+        }
     }
+    @media only screen and (max-width: 991px) {
+        .text-p{
+            width: auto !important;
+        }
+    }
+    @media only screen and (min-width: 767px) and (max-width: 991px) {
+        .media{
+            font-size: large !important;
+        }
+        .flex-imp{
+            display: flex;
+        }
+        .media1{
+            padding-left: 30px;
+        }
+    }
+    .color{
+        color: #ed1b4a;
+    }
+    a.color:hover {
+        color: red;
     }
     </style>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
@@ -297,7 +330,6 @@
     <!------------------------ header start ------------------------->
     <header class="headerBg contactBg" style="background-size:85%;">
         <div class="container">
-            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="typography">
@@ -315,6 +347,7 @@
                     </div>
                 </div>
             </div>
+            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>	
         </div>
     </header>
     <!------------------------ header end --------------------------->
@@ -333,8 +366,8 @@
                         <div class="text">
                             <h3 class="fw-900">Tobias Gundermann</h3>
                             <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
-                            <a href="tel:+49 171 2251178"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
-                            <a href="mailto:tobias.gundermann@tvarit.com"><span class="fs-18  fw-400"
+                            <a href="tel:+49 171 2251178" class="color"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
+                            <a href="mailto:tobias.gundermann@tvarit.com" class="color"><span class="fs-18  fw-400"
                                     style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
 
                         </div>
@@ -353,7 +386,7 @@
         <div class="container">
             <div class="row justify-content-between formContent">
                 <div class="col-md-7 mb-4 order-2 order-md-1">
-                    <div class="text-contact">
+                    <div class="text-contact media1">
                         KONTAKTFORMULAR
                     </div>
                     <br>
@@ -398,7 +431,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 order-1 order-md-2 mb-md-0">
-                    <div class="text-contact">
+                    <div class="text-contact media">
                         KONTAKTINFORMATIONEN
                     </div>
                     <br>
@@ -424,7 +457,7 @@
                     <div class="ctnDetailBox">
                         <div class="ft-social">
                             <h3>Haftungsausschluss</h3>
-                            <div class="ft-links">
+                            <div class="ft-links flex-imp">
                                 <a href="impressum">Impressum</a>
                                 <a href="datenschutz">Datenschutz</a>
                             </div>

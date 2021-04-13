@@ -242,6 +242,27 @@
         text-align: center;
     }
     }
+    @media only screen and (max-width: 767px) {
+        .hdrscrollArrow{
+            bottom: auto;
+        }
+    }
+    @media only screen and (max-width: 991px) {
+        .text-p{
+            width: auto !important;
+        }
+    }
+    @media only screen and (max-width: 767px) {
+        .pad{
+            padding-left: 30px;
+        }
+    }
+    .color{
+        color: #ed1b4a;
+    }
+    a.color:hover {
+        color: red;
+    }
     </style>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 <script type="text/javascript">
@@ -270,9 +291,8 @@
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg contactBg">
+    <header class="headerBg contactBg" style="background-size:85%;">
         <div class="container">
-            <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="typography">
@@ -291,6 +311,7 @@
                     </div>
                 </div>
             </div>
+	   <a href="#downClick" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
         </div>
     </header>
     <!------------------------ header end --------------------------->
@@ -308,8 +329,8 @@
                         <div class="text">
                             <h3 class="fw-900">Tobias Gundermann</h3>
                             <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
-                            <a href="tel:+49 179 2429893"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
-                            <a href="mailto:tobiasDOTgundermannATtvaritDOTcom" onclick = "this.href=this.href.replace(/AT/,'&#64;').replace(/DOT/,'&#46;')"><span class="fs-18  fw-400"
+                            <a href="tel:+49 179 2429893" class="color"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
+                            <a href="mailto:tobiasDOTgundermannATtvaritDOTcom" onclick = "this.href=this.href.replace(/AT/,'&#64;').replace(/DOT/,'&#46;')" class="color"><span class="fs-18  fw-400"
                                     style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>
                         </div>
                         <div>
@@ -326,7 +347,7 @@
         <div class="container">
             <div class="row justify-content-between formContent">
                 <div class="col-md-7 mb-4 order-2 order-md-1">
-                    <div class="text-contact">
+                    <div class="text-contact pad">
                         Contact Form
                     </div>
                     <br>
@@ -370,7 +391,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 order-1 order-md-2 mb-md-0">
-                    <div class="text-contact">
+                    <div class="text-contact pad">
                         Contact Info
                     </div>
                     <br>
