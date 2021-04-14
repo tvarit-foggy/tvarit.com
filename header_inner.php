@@ -35,6 +35,13 @@
         }
     }
 </script>
+<style>
+@media only screen and (max-width: 990px) {
+    #tia-for-die-casting-sub {
+      padding-left: 10px;
+    }
+}
+</style>
 <div class="main-menu fixed-menu sticky-top sticky">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand bold uppr" href="..">
