@@ -129,6 +129,29 @@
                         </div>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="#">AI Product</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                          <div class="textBig">AI Product<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"> </p> -->
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                      <li>
+                                            <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click"  >TiA for Die-casting</a>
+                                        </li>
+                                        <div  id="tia-for-die-casting-sub">
+                                          <a style="color:#333;  display:block;" href="#" class="item-show-hide-box" >Reduce rejections & rework in Die-Casting</a>
+                                        </div>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="#">Explore</a>
                         <div class="submenu-div">
                             <div class="row">

@@ -115,55 +115,74 @@
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Explore</a>
+                    <a class="nav-link" href="#">KI Produkte</a>
+                    <div class="submenu-div">
+                        <div class="row">
+                            <div class="col">
+                                <div class="menuQuote">
+                                      <div class="textBig">KI Produkte<span class="red">.</span></div>
+                                    <!-- <p class="text-normal"> </p> -->
+                                </div>
+                            </div>
+                            <div class="col">
+                                <ul class="ul-sub-menu">
+                                  <li>
+                                        <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click" >TiA for Die-casting</a>
+                                    </li>
+                                    <div  id="tia-for-die-casting-sub">
+                                      <a style="color:#333;  display:block;" href="#" class="item-show-hide-box" >Reduzieren Sie Ausschuss und Nacharbeit im Druckguss</a>
+                                    </div>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">MEHR</a>
                     <div class="submenu-div">
                         <div class="row">
                             <div class="col-lg-4 col">
                                 <div class="menuQuote">
-                                    <div class="textBig">Explore<span class="red">.</span></div>
+                                    <div class="textBig">MEHR<span class="red">.</span></div>
                                     <!-- <p class="text-normal"></p> -->
                                 </div>
                             </div>
                             <div class="col-lg-3 col d-flex">
                                 <ul class="ul-sub-menu sub-300">
                                     <li>
-                                        <a href="../about#Vision" class="sub-Link">About Us</a>
+                                        <a href="about#Vision" class="sub-Link">ÜBER UNS</a>
                                     </li>
                                     <li>
-                                        <a href="../career" class="sub-Link">Careers</a>
+                                        <a class="sub-Link" href="career">KARRIERE</a>
                                     </li>
                                     <li>
-                                        <a href="../news" class="sub-Link">News</a>
+                                        <a href="news" class="sub-Link">News</a>
                                     </li>
                                     <li>
-                                        <a href="../contact" class="sub-Link">Contact</a>
+                                        <a class="sub-Link" href="contact">KONTAKT</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-lg-5 col">
                                 <ul class="ul-sub-menu sub-300">
                                     <li>
-                                        <a href="../whitepapers" class="sub-Link">White Paper</a>
+                                        <a href="videos" class="sub-Link">Videos</a>
                                     </li>
                                     <li>
-                                        <a href="../videos" class="sub-Link">Videos</a>
-                                    </li>
-                                    <li>
-                                        <a href="../blogs" class="sub-Link">Blogs</a>
+                                        <a href="blogs" class="sub-Link">Blogs</a>
                                     </li>
                                     <li>
                                     <li>
-                                        <a href="#" class="sub-Link">Survey</a>
+                                        <a href="#" class="sub-Link">FRAGEBOGEN</a>
                                         <ul class="ul-deep-menu">
                                             <li>
-                                                <a href="../ai-for-manufacturing" class="sub-Link">AI for
+                                                <a href="ai-for-manufacturing" class="sub-Link">AI for
                                                     Manufacturing</a>
                                             </li>
                                             <li>
-                                                <a href="../ai-as-a-product" class="sub-Link">AI as a
+                                                <a href="ai-as-a-product" class="sub-Link">AI as a
                                                     Product </a>
                                             </li>
-
                                         </ul>
                                     </li>
                             </div>
