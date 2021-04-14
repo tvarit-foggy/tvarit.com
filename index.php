@@ -81,7 +81,7 @@
   .banner-btn:hover{color:#fff; background: #ed1b4a;}
   @media only screen and (min-width: 991px) {
     .banner-btn {
-        width:100%; text-align: center; height: 40px; font-size: 20px;
+        width:100%; text-align: center; height: 40px; font-size: 18px;
     }
   }
   .banner-btn1{

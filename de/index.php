@@ -75,9 +75,9 @@
   <style>
     .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff;}
     .banner-btn:hover{color:#fff; background: #ed1b4a;}
-    @media only screen and (max-width: 767px) {
+    @media only screen and (min-width: 991px) {
         .banner-btn {
-            width:100%; text-align: center; height: 40px; font-size: 20px;
+            width:100%; text-align: center; height: 40px; font-size: 18px;
         }
     }
     .banner-btn1{
