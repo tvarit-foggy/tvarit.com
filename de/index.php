@@ -73,9 +73,16 @@
         <![endif]-->
 
   <style>
-    .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff; width:100%; text-align: center; height: 40px; font-size: 20px;}
+    .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff;}
     .banner-btn:hover{color:#fff; background: #ed1b4a;}
-     
+    @media only screen and (max-width: 991px) {
+        .banner-btn {
+            width:100%; text-align: center; height: 40px; font-size: 20px;
+        }
+    }
+    .banner-btn1{
+        width:100%; text-align: center; height: 40px; font-size: 20px;
+    }
          @media only screen and (max-width: 767px) {
             .sec-mainTitle {
                 font-size: 24px;
@@ -145,7 +152,7 @@
                             <p class="text-p">Verstehen und reagieren Sie auf Prozessabweichungen, um Ausschuss zu reduzieren. Nutzen Sie die Power der künstlichen Intelligenz, um Ihre Druckgussprozesse mit TiA for Die-Casting kontinuierlich zu verbessern.</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                        <a href="https://www.tia.tvarit.com/" class="banner-btn">Mehr erfahren</a>
+                        <a href="https://www.tia.tvarit.com/" class="banner-btn banner-btn1">Mehr erfahren</a>
                    </div>
                     </div>
                 </div>

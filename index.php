@@ -77,8 +77,16 @@
         <![endif]-->
 
 <style>
-  .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff; width:100%; text-align: center; height: 40px; font-size: 20px;}
+  .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff;}
   .banner-btn:hover{color:#fff; background: #ed1b4a;}
+  @media only screen and (max-width: 991px) {
+    .banner-btn {
+        width:100%; text-align: center; height: 40px; font-size: 20px;
+    }
+  }
+  .banner-btn1{
+        width:100%; text-align: center; height: 40px; font-size: 20px;
+  }
 </style>
 
 </head>
@@ -143,7 +151,7 @@
                         <p class="text-p">Understand and act-on process deviations to reduce rejections. Leverage the power of artificial intelligence to continously improve your die-casting processes with TiA for Die-Casting.</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                            <a href="https://www.tia.tvarit.com/" class="banner-btn">Find Out More</a>
+                            <a href="https://www.tia.tvarit.com/" class="banner-btn banner-btn1">Find Out More</a>
                         </div>
                     </div>
                 </div>
