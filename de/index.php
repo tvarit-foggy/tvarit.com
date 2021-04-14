@@ -75,7 +75,14 @@
   <style>
     .banner-btn{background: #000; padding: 5px 10px; display: inline-block; color:#fff;}
     .banner-btn:hover{color:#fff; background: #ed1b4a;}
-     
+    @media only screen and (min-width: 991px) {
+        .banner-btn {
+            width:100%; text-align: center; height: 40px; font-size: 18px;
+        }
+    }
+    .banner-btn1{
+        width:100%; text-align: center; height: 40px; font-size: 20px;
+    }
          @media only screen and (max-width: 767px) {
             .sec-mainTitle {
                 font-size: 24px;
@@ -129,7 +136,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="AmimgBox">
-                      <video width="100%" height="auto" controls>
+                      <video width="100%" height="auto" controls poster="img/Start_Image_TiA_for_Die-Casting_wide.png">
                         <source src="../video/Tobias_Take2_TiA_for_Die_Casting_Pitch_1080.mp4" type="video/mp4">
                         Your browser does not support HTML video.
                       </video>
@@ -145,7 +152,7 @@
                             <p class="text-p">Verstehen und reagieren Sie auf Prozessabweichungen, um Ausschuss zu reduzieren. Nutzen Sie die Power der künstlichen Intelligenz, um Ihre Druckgussprozesse mit TiA for Die-Casting kontinuierlich zu verbessern.</p>
                         <!-- </div> -->
                         <div class="centerBtnKnowmore">
-                        <a href="https://www.tia.tvarit.com/" class="btn btn-round btn-red-grd">Mehr erfahren</a>
+                        <a href="https://www.tia.tvarit.com/" class="banner-btn banner-btn1">Mehr erfahren</a>
                    </div>
                     </div>
                 </div>
