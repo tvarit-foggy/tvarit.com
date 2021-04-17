@@ -178,42 +178,25 @@ $(document).ready(function(){
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Consulting</a>
+                        <a class="nav-link" href="#">Consulting</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
-                                        <!-- <p class="text-normal"> </p> -->
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                    <li>
-                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
-                                        </li>
-                                        <li>
-                                            <a href="ai-academy" class="sub-Link">AI and Data Academy</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-		    <li class="nav-item">
-                        <a class="nav-link" href="#">Big Data Consulting</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                          <div class="textBig">Big Data Consulting.<span class="red">.</span></div>
+                                          <div class="textBig">Consulting<span class="red">.</span></div>
                                         <!-- <p class="text-normal"> </p> -->
                                     </div>
                                 </div>
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                     	<li>
-                                            <a href="https://www.tbdc.tvarit.com/" class="sub-Link">Big Data Consulting</a>
+                                            <a href="https://www.bigdata.tvarit.com/" class="sub-Link">Big Data Consulting</a>
+                                        </li>
+					<li>
+                                            <a href="ai-consulting" class="sub-Link">AI Consulting</a>
+                                        </li>
+                                        <li>
+                                            <a href="ai-academy" class="sub-Link">AI and Data Academy</a>
                                         </li>
                                     </ul>
                                 </div>
