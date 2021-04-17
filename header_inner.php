@@ -135,6 +135,26 @@
                             </div>
                         </div>
                     </li>
+                  <li class="nav-item">
+                        <a class="nav-link" href="#">Big Data Consulting</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                          <div class="textBig">Big Data Consulting.<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"> </p> -->
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                    	<li>
+                                            <a href="https://www.tbdc.tvarit.com/" class="sub-Link">Big Data Consulting</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">AI Product</a>
                         <div class="submenu-div">
