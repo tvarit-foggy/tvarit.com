@@ -124,6 +124,29 @@ $(document).ready(function(){
                     <i class="fas fa-arrow-right"></i>
                 </a>
                 <ul class="navbar-nav ml-auto">
+		    <li class="nav-item">
+                        <a class="nav-link" href="#">AI Product</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                          <div class="textBig">AI Product<span class="red">.</span></div>
+                                        <!-- <p class="text-normal"> </p> -->
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                      <li>
+                                            <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click"  >TiA for Die-casting</a>
+                                        </li>
+                                        <div  id="tia-for-die-casting-sub">
+                                          <a style="color:#333;  display:block;" href="#" class="item-show-hide-box" >Reduce rejections & rework in Die-Casting</a>
+                                        </div>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">AI Solutions</a>
                         <div class="submenu-div">
@@ -178,46 +201,26 @@ $(document).ready(function(){
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">AI Consulting</a>
+                        <a class="nav-link" href="#">Consulting</a>
                         <div class="submenu-div">
                             <div class="row">
                                 <div class="col">
                                     <div class="menuQuote">
-                                          <div class="textBig">AI Consulting<span class="red">.</span></div>
+                                          <div class="textBig">Consulting<span class="red">.</span></div>
                                         <!-- <p class="text-normal"> </p> -->
                                     </div>
                                 </div>
                                 <div class="col">
                                     <ul class="ul-sub-menu">
-                                    <li>
+                                    	<li>
+                                            <a href="https://www.bigdata.tvarit.com/" class="sub-Link">Big Data Consultancy</a>
+                                        </li>
+					<li>
                                             <a href="ai-consulting" class="sub-Link">AI Consulting</a>
                                         </li>
                                         <li>
                                             <a href="ai-academy" class="sub-Link">AI and Data Academy</a>
                                         </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">AI Product</a>
-                        <div class="submenu-div">
-                            <div class="row">
-                                <div class="col">
-                                    <div class="menuQuote">
-                                          <div class="textBig">AI Product<span class="red">.</span></div>
-                                        <!-- <p class="text-normal"> </p> -->
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
-                                      <li>
-                                            <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click"  >TiA for Die-casting</a>
-                                        </li>
-                                        <div  id="tia-for-die-casting-sub">
-                                          <a style="color:#333;  display:block;" href="#" class="item-show-hide-box" >Reduce rejections & rework in Die-Casting</a>
-                                        </div>
                                     </ul>
                                 </div>
                             </div>
