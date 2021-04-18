@@ -125,7 +125,7 @@
                                 <div class="col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="https://www.bigdata.tvarit.com/" class="sub-Link">Big Data Consulting</a>
+                                            <a href="https://www.bigdata.tvarit.com/" class="sub-Link">Big Data Consultancy</a>
                                         </li>
                                         <li>
                                             <a href="../ai-consulting" class="sub-Link">AI Consulting</a>
