@@ -108,21 +108,49 @@
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg  bgSizeCover" id="" style="padding-top: 0px !important; background:url(img/header-banner-bg.png) no-repeat 50%; background-size:cover;">
+    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important">
         <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
         <div class="headerOverlay" style="background:none;">
             <div class="container">
                 <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                         class="icon ion-ios-arrow-dropdown"></i></a>
-                <div class="row align-items-center pt-5 pb-5">
-                    <div class="col-md-3 ml-auto pr-4 pl-4">
-                        <div class="mb-3"><img width="130" src="img/Hannover-Messe2.png"/></div>
-                        <p style="max-width: 200px;">Reduce rejections & break-downs with Tvarit industrial AI</p>
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                        <div class="typography lh-1 left">
+                            <div id="tvarit-strings" class="stringText">
+                                <span>TV<span class="red">A</span>R<span class="red">I</span>T</span>
+                            </div>
+                            <div id="industrial-strings" class="stringText">
+                                <span>INDUSTRIAL <span class="red">AI</span> </span>
+                            </div>
+                            <div id="prgf-strings" class="stringText">
+                                <span><h1>Fast and customized solutions for all your manufacturing problems and data science
+                                    needs</h1></span>
+                            </div>
+                            <div class="hdr-tvarit"><span id="typed-tvarit"></span></div>
+                            <div class="hdr-industrial" id="typed-industrial"></div>
+                            <div class="hdr-prgf"><span id="typed-prgf"></span></div>
+                        </div>
                     </div>
-                    <div class="col-md-4 mr-auto pr-4 pl-4" style="border-left:#555 1px solid;">
-                        <div class="mb-3"><img width="120" src="img/tia-logo.jpg"/></div>
-                        <p style="max-width: 280px;">Don’t miss our product launch & visit us on the <strong>virtual Hannover Messe</strong> | April 12-16</p>
-                        <a class="banner-btn" href="#contact_us"><i class="fas fa-chevron-right"></i> Contact us to get your free ticket</a>
+                    <div class="col-md-6">
+                        <img src="img/EDI_logo.png"  alt="EDI Logo" class="img-fluid edi_index_logo"
+                            style="margin-left: auto;margin-right:auto;display:block">
+                        <div class="typography right lh-1" style="text-align:center">
+                            <div id="germany-strings" class="stringText">
+                                <span style="text-align:center">YOUR PARTNER FOR INDUSTRIAL AI SOLUTIONS</span>
+                            </div>
+                            <div class="hdr-germany red"><span class="mr-2" id="typed-germany"></span></div>
+                            <div class="hdr-prgf2r">
+                                <span id="typed-prgf2r"></span>
+                                <div class="rw-words-1">
+                                    <span>Remove inefficiencies and failures of your production units and business
+                                        processes</span>
+                                    <span>Reduce the failure rate of all your AI/Data Science Projects</span>
+                                </div>
+                            </div>
+
+                        </div>
+                    
                     </div>
                 </div>
             </div>
@@ -134,12 +162,9 @@
 
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="AmimgBox">
-                      <video width="100%" height="auto" controls poster="img/Start_Image_TiA_for_Die-Casting_wide.png">
-                        <source src="video/Tobias_Take2_TiA_for_Die_Casting_Pitch_1080.mp4" type="video/mp4">
-                        Your browser does not support HTML video.
-                      </video>
-                    </div>
+                    <iframe width="100%" height="250px"
+                        src="https://www.youtube.com/embed/ADSHWUsqgVc">
+                    </iframe>
                 </div>
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
