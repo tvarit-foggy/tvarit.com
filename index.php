@@ -163,7 +163,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="AmimgBox">
-                    <iframe width="100%" height="auto"
+                    <iframe width="100%" height="100%"
                         src="https://www.youtube.com/embed/ADSHWUsqgVc">
                     </iframe>
                       <!-- <video width="100%" height="auto" controls poster="img/Start_Image_TiA_for_Die-Casting_wide.jpg">
