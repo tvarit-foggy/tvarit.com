@@ -397,7 +397,7 @@
                     <br>
                     <div class="ctnDetailBox">
                         <h4 class="red">Address</h4>
-                        <p class="text-p">Hanauer Landstraße 521,<br> 60386 Frankfurt am Main<br> Germany</p>
+                        <p class="text-p">Ludwigstraße 31,<br> 60327 Frankfurt am Main<br> Germany</p>
                     </div>
 
                     <div class="ctnDetailBox">

@@ -69,8 +69,8 @@
 
             <p class="text-p">
                 Tvarit GmbH<br>
-                Hanauer Landstraße 521,<br>
-                60386 Frankfurt am Main<br>Germany<br>
+                Ludwigstraße 31,<br>
+                60327 Frankfurt am Main<br>Germany<br>
 
                 Telefon: +49 (0) 69 2731 668 70<br>
                 eMail: info (at) tvarit.com

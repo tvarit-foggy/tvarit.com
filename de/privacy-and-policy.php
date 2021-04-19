@@ -85,8 +85,8 @@
                         <br>
                         Tvarit GmbH
                         <br>
-                        Hanauer Landstraße 521,<br>
-                        60386 Frankfurt am Main<br>
+                        Ludwigstraße 31,<br>
+                        60327 Frankfurt am Main<br>
                         Germany
                         <br><br>
                         Alternatively, you can contact us at info@tvarit.com.<br>

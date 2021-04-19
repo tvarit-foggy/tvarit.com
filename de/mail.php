@@ -39,8 +39,8 @@
 <div style=\"font-size:11px; margin:0px 0px 20px 0px\">
 <strong>Tvarit GmbH</strong><br>
 Geschäftsführer: Suhas Patel & Rahul Prajapat<br>
-Hanauer Landstra&beta;e 521,<br>
-D-60386 Frankfurt am Main<br><br>
+Ludwigstra&beta;e 521,<br>
+D-60327 Frankfurt am Main<br><br>
 Registergericht: Frankfurt am Main | Handelsregisternummer: HR B 114845
 <br><br>
 <strong>IMPRESSUM</strong><br>
