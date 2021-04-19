@@ -348,17 +348,17 @@
 
             <div class="past-event owl-theme">
               <!---->
-			    <div class="item">
-                <div class="event-pic">
-                    <img src="img/hannover-messe.png" loading="lazy" class="img-fluid">
+			<div class="item">
+					<a href="#" class="newsBox">
+                    <div class="news-pic">
+                        <img src="img/hannover-messe.png" loading="lazy" class="img-fluid" style="width:442px;">
+                    </div>
+                    <div class="news-content">
+                        <div style="font-size:30px; line-height:35px; font-family: arial; color:#ff00ff; margin-bottom:12px; margin-top:10px; font-weight:600;">12. - 16. April 2021</div>
+                        
+                    </div>
+					</a>
                 </div>
-                <div class="event-content">
-                    <h3 class="text-big40">HANNOVER MESSE</h3>
-                    <div class="event-date">12. - 16. April 2021</div>
-                    <div class="box-content">Besuchen Sie <a href="https://www.hannovermesse.de/exhibitor/tvarit/N1454861">Tvarit auf der Hannover Messe</a> und erfahren Sie mehr über unser neustes Produkt "TiA for Die-Casting"</div>
-                    <div class="signup-btn"><a href="https://www.hannovermesse.de/de/?open=ticketRegistration&code=pwUG5" class="btn btn-round btn-red-grd">SIGN UP</a></div>
-                </div>
-            </div>
               <div class="item">
                       <a href="https://www.digital-machining.de/" target="_blank" class="newsBox">
                           <div class="news-pic">
