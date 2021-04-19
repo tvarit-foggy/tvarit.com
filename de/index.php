@@ -159,7 +159,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="AmimgBox">
-                      <video width="100%" height="auto" controls poster="img/Start_Image_TiA_for_Die-Casting_wide.png">
+                      <video width="100%" height="auto" controls poster="img/Start_Image_TiA_for_Die-Casting_wide.jpg">
                         <source src="../video/Tobias_Take2_TiA_for_Die_Casting_Pitch_1080.mp4" type="video/mp4">
                         Your browser does not support HTML video.
                       </video>
