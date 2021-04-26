@@ -422,7 +422,27 @@
     </div>
     <!------------------------Client logo slide end --------------------->
 
-    <!------------------------ Reference start --------------------->
+    <section class="section-padding">
+        <div class="container">
+            <div class="centerTitle">
+                <p class="text-p"><i>"As CIO of a global company, I have gained a lot of experience with solution providers. What makes Tvarit stand out here is their deep understanding of the manufacturing processes and their challenges. With a deep insight in focus areas to address for improvements, Tvarit has been able to deliver a high degree of innovativeness within short project implementation times. TVARIT industrial AI (TiA) provides clearly understandable insights into the manufacturing processes and helps to achieve objective and measurable results (such as improving OEE and the reduction of scrap)." </i></p>
+            </div>
+            <br>
+            <div class="row" style="justify-content:center;">
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/Maxion_Wheels.png" alt="Manufacturing 1" loading="lazy" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="logo-box">
+                        <img src="img/Esteban_Remecz _Maxion.png" alt="Manufacturing 2" loading="lazy" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!------------------------ ASSOCIATES & PARTNERS start --------------------->
     <div class="section-padding">
         <div class="container">
             <div class="centerTitle sec-mainTitle">
