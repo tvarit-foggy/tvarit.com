@@ -435,9 +435,7 @@
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
-                    <div class="logo-box">
-                        <img src="img/Esteban_Remecz _Maxion.png" alt="Manufacturing 2" loading="lazy" class="img-fluid">
-                    </div>
+                    <img src="img/Esteban_Remecz _Maxion.png" alt="Manufacturing 2" loading="lazy" class="img-fluid">
                 </div>
             </div>
         </div>
