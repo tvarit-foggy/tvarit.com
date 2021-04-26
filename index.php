@@ -430,12 +430,15 @@
             <br>
             <div class="row" style="justify-content:center;">
                 <div class="col-lg-2 col-md-3 col-sm-6">
-                    <div class="logo-box">
-                        <img src="img/Maxion_Wheels.png" alt="Manufacturing 1" loading="lazy" class="img-fluid">
-                    </div>
+                    <img src="img/Maxion_Wheels.png" alt="Maxiom Wheels" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6">
-                    <img src="img/Esteban_Remecz _Maxion.png" alt="Manufacturing 2" loading="lazy" class="img-fluid">
+                    <img src="img/Esteban_Remecz _Maxion.png" alt="CIO" loading="lazy" class="img-fluid">
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div>Esteban Remecz</div>
+                    <div>Vice President & CIO</div>
+                    <div>Maxion Wheels</div>
                 </div>
             </div>
         </div>
