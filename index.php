@@ -83,6 +83,33 @@
     .banner-btn {
         width:100%; text-align: center; height: 40px; font-size: 18px;
     }
+    .testimonial {
+        margin-top: 3.2%;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 990px) {
+    .testimonial1 {
+        margin-top: 4%;
+    }
+    .testimonial3 {
+        margin-top: 5%
+    }
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .testimonial1 {
+        margin-top: 6%;
+        max-width: 200px;
+    }
+    .testimonial2 {
+        max-width: 200px;
+    }
+    .testimonial3 {
+        margin-top: 7%
+    }
+    .mobileView {
+        flex-wrap: nowrap;
+    }
   }
   .banner-btn1{
         width:100%; text-align: center; height: 40px; font-size: 20px;
@@ -428,17 +455,17 @@
                 <p class="text-p"><i>"As CIO of a global company, I have gained a lot of experience with solution providers. What makes Tvarit stand out here is their deep understanding of the manufacturing processes and their challenges. With a deep insight in focus areas to address for improvements, Tvarit has been able to deliver a high degree of innovativeness within short project implementation times. TVARIT industrial AI (TiA) provides clearly understandable insights into the manufacturing processes and helps to achieve objective and measurable results (such as improving OEE and the reduction of scrap)." </i></p>
             </div>
             <br>
-            <div class="row" style="justify-content:center;">
-                <div class="col-lg-2 col-md-3 col-sm-6">
+            <div class="row mobileView" style="justify-content:space-evenly;">
+                <div class="col-lg-2 col-md-3 testimonial testimonial1" style="text-align:center;">
                     <img src="img/Maxion_Wheels.png" alt="Maxiom Wheels" loading="lazy" class="img-fluid">
                 </div>
-                <div class="col-lg-2 col-md-3 col-sm-6">
+                <div class="col-lg-2 col-md-3 testimonial2" style="text-align:center;">
                     <img src="img/Esteban_Remecz _Maxion.png" alt="CIO" loading="lazy" class="img-fluid">
                 </div>
-                <div class="col-lg-2 col-md-3 col-sm-6">
-                    <div>Esteban Remecz</div>
-                    <div>Vice President & CIO</div>
-                    <div>Maxion Wheels</div>
+                <div class="col-lg-2 col-md-3 testimonial testimonial3" style="text-align:center;">
+                    <div><b>Esteban Remecz</b></div>
+                    <div><i>Vice President & CIO</i></div>
+                    <div><i>Maxion Wheels</i></div>
                 </div>
             </div>
         </div>
