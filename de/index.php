@@ -438,27 +438,6 @@
         <?php include 'using-tvarit.php';?>
     </div>
     <!------------------------Client logo slide end --------------------->
-    <section class="section-padding">
-        <div class="container">
-            <div class="centerTitle">
-                <p class="text-p"><i>"Als CIO eines globalen Unternehmens habe ich bereits viel Erfahrung mit Lösungsanbietern gesammelt. Was Tvarit besonders auszeichnet, ist ihr tiefes Verständnis für Fertigungsprozesse und deren Herausforderungen. Mit ihrer zielgerichteten Vorgehensweise bietet die Tvarit GmbH stets ein hohes Maß an Innovationskraft bei kurzen Projektumsetzungszeiten. TVARIT industrial AI (TiA) gibt klar verständliche Einblicke in die Fertigungsprozesse und hilft somit, objektive und messbare Ergebnisse (unter anderem Verbesserung der OEE und die Reduzierung von Ausschuss) zu erzielen."</i></p>
-            </div>
-            <br>
-            <div class="row mobileView" style="justify-content:space-evenly;">
-                <div class="col-lg-2 col-md-3 testimonial testimonial1" style="text-align:center;">
-                    <img src="img/Maxion_Wheels.png" alt="Maxiom Wheels" loading="lazy" class="img-fluid">
-                </div>
-                <div class="col-lg-2 col-md-3 testimonial2" style="text-align:center;">
-                    <img src="img/Esteban_Remecz _Maxion.png" alt="CIO" loading="lazy" class="img-fluid">
-                </div>
-                <div class="col-lg-2 col-md-3 testimonial testimonial3" style="text-align:center;">
-                    <div><b>Esteban Remecz</b></div>
-                    <div><i>Vice President & CIO</i></div>
-                    <div><i>Maxion Wheels</i></div>
-                </div>
-            </div>
-        </div>
-    </section>
     <!------------------------ Partner start --------------------->
     <div class="section-padding">
         <div class="container">
