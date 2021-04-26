@@ -4,7 +4,7 @@
   <!-- <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> -->
   </div>
   <br>
-  <section class="section-padding">
+  <section class="section-padding" style="padding-bottom:70px;">
     <div class="container">
       <div class="centerTitle">
           <p class="text-p"><i>"Als CIO eines globalen Unternehmens habe ich bereits viel Erfahrung mit Lösungsanbietern gesammelt. Was Tvarit besonders auszeichnet, ist ihr tiefes Verständnis für Fertigungsprozesse und deren Herausforderungen. Mit ihrer zielgerichteten Vorgehensweise bietet die Tvarit GmbH stets ein hohes Maß an Innovationskraft bei kurzen Projektumsetzungszeiten. TVARIT industrial AI (TiA) gibt klar verständliche Einblicke in die Fertigungsprozesse und hilft somit, objektive und messbare Ergebnisse (unter anderem Verbesserung der OEE und die Reduzierung von Ausschuss) zu erzielen."</i></p>

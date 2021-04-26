@@ -28,7 +28,7 @@
         </div>
     </div>
     <hr>
-    <section class="section-padding">
+    <section class="section-padding" style="padding-bottom:70px;">
         <div class="container">
             <div class="centerTitle">
                 <p class="text-p"><i>"As CIO of a global company, I have gained a lot of experience with solution providers. What makes Tvarit stand out here is their deep understanding of the manufacturing processes and their challenges. With a deep insight in focus areas to address for improvements, Tvarit has been able to deliver a high degree of innovativeness within short project implementation times. TVARIT industrial AI (TiA) provides clearly understandable insights into the manufacturing processes and helps to achieve objective and measurable results (such as improving OEE and the reduction of scrap)." </i></p>
