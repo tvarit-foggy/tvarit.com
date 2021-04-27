@@ -532,7 +532,7 @@
                         </div>
                     </div>
                 </div> -->
-
+<!-- 
                 <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
@@ -590,7 +590,7 @@
                             <p class="red">Standort: Frankfurt am Main</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- <div class="card">
                     <div class="card-header" id="headingFive">
