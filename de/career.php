@@ -516,66 +516,6 @@
                         </div>
                     </div>
                 </div> -->
-
-                <div class="card">
-                    <div class="card-header" id="headingFour">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
-                            aria-expanded="false" aria-controls="acccrdnMLR">
-                            MARKETING MANAGER - VOLL ZEIT (m/w/d)
-                        </a>
-                    </div>
-
-                    <div id="acccrdnMLR" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                Die Tvarit GmbH entwickelt und liefert Lösungen im Bereich der Künstlichen Intelligenz (KI) für die Fertigungs-, Automobil- und Prozessindustrie. Mit seinen KI-Lösungen, dem KI-Framework und KI-Beratungsdienstleistungen hilft Tvarit seinen Kunden, intelligente und fundierte Entscheidungen zu treffen, z.B. bei der vorausschauenden Wartung, der Erhöhung der OEE und der vorausschauenden Qualität.<br>
-
-                                Erstklassige Referenzkunden, ein kompetentes Technik- und Forschungsteam aus renommierten Universitäten sowie die Verleihung renommierter KI-Preise machen Tvarit zu einem der innovativsten KI-Unternehmen in Deutschland und Europa.<br>
-
-                                Das Unternehmen wurde 2019 gegründet und wird vom Risikokapitalfonds "Futury Venture Fonds" sowie von privaten Investoren unterstützt und ist nun bereit, in den nächsten Jahren ein signifikantes Wachstum zu erzielen.
-                            </p>
-
-                            <h4>Aufgabengebiete:</h4>
-                            <ul class="ul-list">
-                                <li>Erstellung von Marketingplänen und einer Markenstrategie für das Unternehmen</li>
-                                <li>Erstellung von Kommunikationsleitfäden, scharfen und klaren Inhalten mit gutem grafischem Gespür</li>
-                                <li>Erstellung von Marketingkampagnen zur Generierung und Qualifizierung von Leads</li>
-                                <li>Bewertung und Auswahl von Pitch- oder Redemöglichkeiten, Planung und Besuch von Ausstellungen, Registrierung und Besuch von Veranstaltungen. </li>
-                                <li>Geeignete Plattformen und Zeitschriften auswählen, um die Sichtbarkeit des Unternehmens zu erhöhen</li>
-                            </ul>
-                            <br>
-                            <h4>Ihr Profil:</h4>
-                            <ul class="ul-list">
-                                <li>Bachelor-oder Master-Abschluss in Marketing, Betriebswirtschaftslehre/Wirtschaftswissenschaften mit Schwerpunkt Marketing</li>
-                                <li>Mindestens 3 Jahre Berufserfahrung im Marken- und Marketingmanagement von Softwareangeboten im Fertigungsbereich für neue Produkte</li>
-                                <li>Wissen über Online- und Digital-Marketing</li>
-                                <li>Geschickt im Schreiben präziser Blogs und Artikel</li>
-                                <li>Ausgezeichnete Kommunikationsfähigkeiten</li>
-                                <li>Fließend in Deutsch und Englisch</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Das bieten wir:</h4>
-                            <ul class="ul-list">
-                                <li>Attraktives Gehaltspaket</li>
-                                <li>Die Führung der Marketingabteilung und der schrittweise Aufbau des Teams</li>
-                                <li>Möglichkeit, mit bewährten und erfahrenen Unternehmern zusammenzuarbeiten</li>
-                                <li>Flexible und dynamische Arbeitsumgebung</li>
-                                <li>Unsere Mission ist es, produzierende Unternehmen in die Lage zu versetzen, ihre Leistung zu verbessern und ihre Effizienz und Produktivität zu steigern, indem wir wertvolle Einblicke in ihre Produktion durch Digitalisierung liefern.</li>
-                                <li>Unser Team besteht aus erfahrenen Experten und jungen und energischen Technokraten</li>
-                                <li>Wir sind leidenschaftlich für das, was wir tun, hoch motiviert und immer offen für Neues und Verbesserungen.</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
-                                    href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> senden</p>
-                            <br>
-                            <p class="red">Standort: Frankfurt am Main</p>
-                        </div>
-                    </div>
-                </div>
-
                 <!-- <div class="card">
                     <div class="card-header" id="headingFive">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn5"
