@@ -189,65 +189,49 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
                             aria-expanded="false" aria-controls="acccrdnSaleMang">
-                            Sales Manager - VOLL ZEIT (m/w/d)
+                            Product Sales Manager - VOLL ZEIT (m/w/d)
                         </a>
                     </div>
 
                     <div id="acccrdnSaleMang" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                Die Tvarit GmbH entwickelt und liefert Lösungen im Bereich der künstlichen Intelligenz (KI) für die Fertigungs-, Automobil- und Prozessindustrie. Mit seinen Software-Produkten ermöglicht es Tvarit seinen Kunden, intelligente und fundierte Entscheidungen zu treffen, z.B. bei der vorausschauenden Wartung, der Erhöhung der OEE und der vorausschauenden Qualität.<br>
-
-                                Renommierte Referenzkunden, ein kompetentes Technik- und Forschungsteam aus renommierten Universitäten sowie die Verleihung renommierter KI-Preise (z.B EU Horizon 2020) machen Tvarit zu einem der innovativsten KI-Unternehmen in Deutschland und Europa.<br>
-
-                                Das Unternehmen wurde 2019 gegründet und wird vom Kapitalfonds "Futury Venture Fonds" sowie von privaten Investoren unterstützt und ist nun bereit, in den nächsten Jahren ein signifikantes Wachstum zu erzielen.
+                            Als stetig expandierendes und mehrfach ausgezeichnetes Technologieunternehmen in einem starkwachsenden Markt, suchen wir einen <b>Product Sales Manager (m/w/d)</b> zur Unterstützung unseresVertriebsteams in Frankfurt. Bewirb Dich jetzt und werde Teil unseres motivierten, hochqualifizierten und agilenTeams.
                             </p>
 
-                            <h4>Aufgabengebiete:</h4>
+                            <h4>Deine Aufgaben:</h4>
                             <ul class="ul-list">
-                                <li><b>Kundenkontakt:</b> Kundenmeetings vorbereiten, durchführen und nachbereiten</li>
-                                <li><b>Kundenverständnis:</b> Zugriff auf die Bedürfnisse und Anforderungen von (potenziellen) Kunden, Erfassung des Marktfeedbacks für das Produktmanagement und Sicherstellung, dass die Erwartungen der Kunden erfüllt/übertroffen werden.</li>
-                                <li><b>Kundengewinnung:</b> Generierung von Leads durch Prospecting und Approaching (z.B. Messen, Kaltakquise) und Umwandlung von Leads durch den Sales-Funnel zu einem Kunden.</li>
+                                <li>Deine ergebnisorientiere Vorgehensweise und dein professionelles Auftreten helfen Dir die Quartalsziele zuerreichen und langfristig Beziehungen zu Kunden aus der Fertigungsindustrie aufzubauen</li>
+                                <li>Du überzeugst Leads in Kundengesprächen von unseren Software-Produkten und zeigst ihnen dadurchentstehende Optimierungspotentiale auf</li>
+                                <li>Deine aktive Teilnahme an spannenden Konferenzen und Events helfen Dir potenzielle Kunden zugewinnen</li>
+                                <li>Du identifizierst Chancen und verfolgst den gesamten Vertriebsprozess</li>
+                                <li>Du planst, koordinierst und steuerst deine kundenbezogenen Aktivitäten eigenverantwortlich</li>
+                                <li>Du dokumentierst lückenlos alle Sales Aktivitäten in Zoho CRM und analysierst datengetrieben Prozesse zurOptimierung von KPIs wie Conversion Rates oder Time to Sell</li>
+                                <li>Du verstehst die Problemstellungen und Herausforderungen deiner Leads & Kunden aus derFertigungsindustrie und erfasst daraus wertvolle Einblicke für die stetige Weiterentwicklung unsererProdukte</li>
                             </ul>
 
                             <br>
 
-                            <h4>Anforderungen:</h4>
+                            <h4>Was du mitbringst:</h4>
                             <ul class="ul-list">
-                                <li>Wir suchen eine selbstmotivierte Person mit einer positiven "Can-do"-Einstellung und ausgezeichneten mündlichen und schriftlichen Kommunikationsfähigkeiten in Deutsch und Englisch.</li>
+                                <li>Du hast ein bis drei Jahre Erfahrung im Vertrieb von Softwarelösungen für Fertigungsunternehmen</li>
+                                <li>Du hast nachweisliche Erfolge zu erreichten und übertroffenen Umsatzzielen</li>
+                                <li>Du hast Erfahrung im Aufbau, der Pflege und Aufrechterhaltung von Beziehungen zu Kontakten aufEntscheidungsebene in der Industrie</li>
+                                <li>Du hast ein gutes Verständnis für industrielle Fertigungsprozesse und typische, darin auftretendeProblemstellungen (wie Ausschuss, Maschinenausfälle...)</li>
+                                <li>Du hast ein professionelles Auftreten, eine ergebnisorientierte Vorgehensweise und schnelleAuffassungsgabe; es fällt Dir leicht, komplexe Sachverhalte rasch zu verstehen und nachzuvollziehen</li>
+                                <li>Sehr gute Deutsch- und Englischkenntnisse runden dein Profil ab</li>
                             </ul>
 
                             <br>
 
-                            <h4>>Ihr Profil:</h4>
+                            <h4>Das bieten wir Dir:</h4>
                             <ul class="ul-list">
-                                <li>Fließend in Deutsch und verhandlungssicher in Englisch</li>
-                                <li>Erfolgreich abgeschlossenes Studium der Betriebswirtschaftslehre mit Spezialisierung auf Verkauf & Marketing, Wirtschaftsinformatik, Ingenieurwesen mit Spezialisierung auf technischen Verkauf oder ähnliches</li>
-                                <li>Arbeitserfahrung im B2B-Vertrieb</li>
-                                <li>Ausgezeichnete schriftliche und mündliche Kommunikationsfähigkeiten</li>
-                                <li>Sehr gute Präsentationsfähigkeiten</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Bevorzugte Kompetenzen:</h4>
-                            <ul class="ul-list">
-                                <li>Erfahrung in der Zusammenarbeit mit produzierenden Unternehmen (insbesondere im deutschsprachigen Raum)</li>
-                                <li>Mehrjährige Arbeitserfahrung im B2B-Vertrieb von Software-Produkten</li>
-                                <li>Die Kenntnis und das Verständnis von der Anwendung von maschinellem Lernen sowie IIoT in der Fertigungsindustrie ist ein großes Plus</li>
-                                <li>Grundkenntnisse der branchenüblichen ERP-Lösungen, z.B. SAP S4 Hana, SAP ERP, etc.</li>
-                                <li>Strategische Beratungs- und Vertriebserfahrung </li>
-                            </ul>
-                            <br>
-                            <h4>Das bieten wir:</h4>
-                            <ul class="ul-list">
-                                <li>Attraktives Gehalt</li>
-                                <li>Arbeiten bei einem der Technologieführer in Europa in einer der innovativsten und zukunftsträchtigen Branchen</li>
-                                <li>Kurze Entscheidungswege und Möglichkeit, eigene Ideen einzubringen und umzusetzen</li>
-                                <li>hoher Grad an Eigenverantwortung</li>
-                                <li>Positive, motivierte und energetische Arbeitsatmosphäre im Team mit erfahrenen Digitalisierungsexperten und langjährigen Unternehmern</li>
-                                <li>Flexible Arbeitszeiten und Home-Office</li>
+                                <li>Werde Teil einer der Technologieführer in Europa (ausgezeichnet durch die EU-Kommission) in einer derinnovativsten und zukunftsträchtigen Branchen</li>
+                                <li>Bringe Dich als festen Bestandteil unseres internationalen Teams mit eigenen Ideen ein und gestalte dieZukunft unseres Unternehmens bei kurzen Entscheidungswegen aktiv mit</li>
+                                <li>Attraktive Vergütung, flexible Arbeitszeiten, Home-Office und großes Maß an Freiheit undEigenverantwortung</li>
+                                <li>Stets positive und energetische Arbeitsatmosphäre im Team mit erfahrenen Digitalisierungsexperten undlangjährigen Unternehmern getrieben durch unsere Begeisterung für Innovation und künstliche Intelligenz</li>
                                 <li>Steile Lernkurve und Möglichkeiten für persönliche und professionelle Fort- und Weiterbildung</li>
+                                <li>Modernes, lichtdurchflutetes Büro in der Frankfurter Innenstadt</li>
                             </ul>
                             <hr>
                             <p class="red">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
