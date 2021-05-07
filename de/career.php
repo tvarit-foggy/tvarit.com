@@ -189,65 +189,49 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
                             aria-expanded="false" aria-controls="acccrdnSaleMang">
-                            Sales Manager - VOLL ZEIT (m/w/d)
+                            Product Sales Manager - VOLL ZEIT (m/w/d)
                         </a>
                     </div>
 
                     <div id="acccrdnSaleMang" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                Die Tvarit GmbH entwickelt und liefert Lösungen im Bereich der künstlichen Intelligenz (KI) für die Fertigungs-, Automobil- und Prozessindustrie. Mit seinen Software-Produkten ermöglicht es Tvarit seinen Kunden, intelligente und fundierte Entscheidungen zu treffen, z.B. bei der vorausschauenden Wartung, der Erhöhung der OEE und der vorausschauenden Qualität.<br>
-
-                                Renommierte Referenzkunden, ein kompetentes Technik- und Forschungsteam aus renommierten Universitäten sowie die Verleihung renommierter KI-Preise (z.B EU Horizon 2020) machen Tvarit zu einem der innovativsten KI-Unternehmen in Deutschland und Europa.<br>
-
-                                Das Unternehmen wurde 2019 gegründet und wird vom Kapitalfonds "Futury Venture Fonds" sowie von privaten Investoren unterstützt und ist nun bereit, in den nächsten Jahren ein signifikantes Wachstum zu erzielen.
+                            Als stetig expandierendes und mehrfach ausgezeichnetes Technologieunternehmen in einem stark wachsenden Markt, suchen wir einen <b>Product Sales Manager (m/w/d)</b> zur Unterstützung unseres Vertriebsteams in Frankfurt. Bewirb Dich jetzt und werde Teil unseres motivierten, hochqualifizierten und agilen Teams.
                             </p>
 
-                            <h4>Aufgabengebiete:</h4>
+                            <h4>Deine Aufgaben:</h4>
                             <ul class="ul-list">
-                                <li><b>Kundenkontakt:</b> Kundenmeetings vorbereiten, durchführen und nachbereiten</li>
-                                <li><b>Kundenverständnis:</b> Zugriff auf die Bedürfnisse und Anforderungen von (potenziellen) Kunden, Erfassung des Marktfeedbacks für das Produktmanagement und Sicherstellung, dass die Erwartungen der Kunden erfüllt/übertroffen werden.</li>
-                                <li><b>Kundengewinnung:</b> Generierung von Leads durch Prospecting und Approaching (z.B. Messen, Kaltakquise) und Umwandlung von Leads durch den Sales-Funnel zu einem Kunden.</li>
+                                <li>Deine ergebnisorientiere Vorgehensweise und dein professionelles Auftreten helfen Dir die Quartalsziele zue rreichen und langfristig Beziehungen zu Kunden aus der Fertigungsindustrie aufzubauen</li>
+                                <li>Du überzeugst Leads in Kundengesprächen von unseren Software-Produkten und zeigst ihnen dadurch entstehende Optimierungspotentiale auf</li>
+                                <li>Deine aktive Teilnahme an spannenden Konferenzen und Events helfen Dir potenzielle Kunden zu gewinnen</li>
+                                <li>Du identifizierst Chancen und verfolgst den gesamten Vertriebsprozess</li>
+                                <li>Du planst, koordinierst und steuerst deine kundenbezogenen Aktivitäten eigenverantwortlich</li>
+                                <li>Du dokumentierst lückenlos alle Sales Aktivitäten in Zoho CRM und analysierst datengetrieben Prozesse zur Optimierung von KPIs wie Conversion Rates oder Time to Sell</li>
+                                <li>Du verstehst die Problemstellungen und Herausforderungen deiner Leads & Kunden aus der Fertigungsindustrie und erfasst daraus wertvolle Einblicke für die stetige Weiterentwicklung unserer Produkte</li>
                             </ul>
 
                             <br>
 
-                            <h4>Anforderungen:</h4>
+                            <h4>Was du mitbringst:</h4>
                             <ul class="ul-list">
-                                <li>Wir suchen eine selbstmotivierte Person mit einer positiven "Can-do"-Einstellung und ausgezeichneten mündlichen und schriftlichen Kommunikationsfähigkeiten in Deutsch und Englisch.</li>
+                                <li>Du hast ein bis drei Jahre Erfahrung im Vertrieb von Softwarelösungen für Fertigungsunternehmen</li>
+                                <li>Du hast nachweisliche Erfolge zu erreichten und übertroffenen Umsatzzielen</li>
+                                <li>Du hast Erfahrung im Aufbau, der Pflege und Aufrechterhaltung von Beziehungen zu Kontakten auf Entscheidungsebene in der Industrie</li>
+                                <li>Du hast ein gutes Verständnis für industrielle Fertigungsprozesse und typische, darin auftretende Problemstellungen (wie Ausschuss, Maschinenausfälle...)</li>
+                                <li>Du hast ein professionelles Auftreten, eine ergebnisorientierte Vorgehensweise und schnelle Auffassungsgabe; es fällt Dir leicht, komplexe Sachverhalte rasch zu verstehen und nachzuvollziehen</li>
+                                <li>Sehr gute Deutsch- und Englischkenntnisse runden dein Profil ab</li>
                             </ul>
 
                             <br>
 
-                            <h4>>Ihr Profil:</h4>
+                            <h4>Das bieten wir Dir:</h4>
                             <ul class="ul-list">
-                                <li>Fließend in Deutsch und verhandlungssicher in Englisch</li>
-                                <li>Erfolgreich abgeschlossenes Studium der Betriebswirtschaftslehre mit Spezialisierung auf Verkauf & Marketing, Wirtschaftsinformatik, Ingenieurwesen mit Spezialisierung auf technischen Verkauf oder ähnliches</li>
-                                <li>Arbeitserfahrung im B2B-Vertrieb</li>
-                                <li>Ausgezeichnete schriftliche und mündliche Kommunikationsfähigkeiten</li>
-                                <li>Sehr gute Präsentationsfähigkeiten</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Bevorzugte Kompetenzen:</h4>
-                            <ul class="ul-list">
-                                <li>Erfahrung in der Zusammenarbeit mit produzierenden Unternehmen (insbesondere im deutschsprachigen Raum)</li>
-                                <li>Mehrjährige Arbeitserfahrung im B2B-Vertrieb von Software-Produkten</li>
-                                <li>Die Kenntnis und das Verständnis von der Anwendung von maschinellem Lernen sowie IIoT in der Fertigungsindustrie ist ein großes Plus</li>
-                                <li>Grundkenntnisse der branchenüblichen ERP-Lösungen, z.B. SAP S4 Hana, SAP ERP, etc.</li>
-                                <li>Strategische Beratungs- und Vertriebserfahrung </li>
-                            </ul>
-                            <br>
-                            <h4>Das bieten wir:</h4>
-                            <ul class="ul-list">
-                                <li>Attraktives Gehalt</li>
-                                <li>Arbeiten bei einem der Technologieführer in Europa in einer der innovativsten und zukunftsträchtigen Branchen</li>
-                                <li>Kurze Entscheidungswege und Möglichkeit, eigene Ideen einzubringen und umzusetzen</li>
-                                <li>hoher Grad an Eigenverantwortung</li>
-                                <li>Positive, motivierte und energetische Arbeitsatmosphäre im Team mit erfahrenen Digitalisierungsexperten und langjährigen Unternehmern</li>
-                                <li>Flexible Arbeitszeiten und Home-Office</li>
+                                <li>Werde Teil einer der Technologieführer in Europa (ausgezeichnet durch die EU-Kommission) in einer der innovativsten und zukunftsträchtigen Branchen</li>
+                                <li>Bringe Dich als festen Bestandteil unseres internationalen Teams mit eigenen Ideen ein und gestalte die Zukunft unseres Unternehmens bei kurzen Entscheidungswegen aktiv mit</li>
+                                <li>Attraktive Vergütung, flexible Arbeitszeiten, Home-Office und großes Maß an Freiheit und Eigenverantwortung</li>
+                                <li>Stets positive und energetische Arbeitsatmosphäre im Team mit erfahrenen Digitalisierungsexperten und langjährigen Unternehmern getrieben durch unsere Begeisterung für Innovation und künstliche Intelligenz</li>
                                 <li>Steile Lernkurve und Möglichkeiten für persönliche und professionelle Fort- und Weiterbildung</li>
+                                <li>Modernes, lichtdurchflutetes Büro in der Frankfurter Innenstadt</li>
                             </ul>
                             <hr>
                             <p class="red">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
@@ -532,66 +516,6 @@
                         </div>
                     </div>
                 </div> -->
-<!-- 
-                <div class="card">
-                    <div class="card-header" id="headingFour">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
-                            aria-expanded="false" aria-controls="acccrdnMLR">
-                            MARKETING MANAGER - VOLL ZEIT (m/w/d)
-                        </a>
-                    </div>
-
-                    <div id="acccrdnMLR" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                Die Tvarit GmbH entwickelt und liefert Lösungen im Bereich der Künstlichen Intelligenz (KI) für die Fertigungs-, Automobil- und Prozessindustrie. Mit seinen KI-Lösungen, dem KI-Framework und KI-Beratungsdienstleistungen hilft Tvarit seinen Kunden, intelligente und fundierte Entscheidungen zu treffen, z.B. bei der vorausschauenden Wartung, der Erhöhung der OEE und der vorausschauenden Qualität.<br>
-
-                                Erstklassige Referenzkunden, ein kompetentes Technik- und Forschungsteam aus renommierten Universitäten sowie die Verleihung renommierter KI-Preise machen Tvarit zu einem der innovativsten KI-Unternehmen in Deutschland und Europa.<br>
-
-                                Das Unternehmen wurde 2019 gegründet und wird vom Risikokapitalfonds "Futury Venture Fonds" sowie von privaten Investoren unterstützt und ist nun bereit, in den nächsten Jahren ein signifikantes Wachstum zu erzielen.
-                            </p>
-
-                            <h4>Aufgabengebiete:</h4>
-                            <ul class="ul-list">
-                                <li>Erstellung von Marketingplänen und einer Markenstrategie für das Unternehmen</li>
-                                <li>Erstellung von Kommunikationsleitfäden, scharfen und klaren Inhalten mit gutem grafischem Gespür</li>
-                                <li>Erstellung von Marketingkampagnen zur Generierung und Qualifizierung von Leads</li>
-                                <li>Bewertung und Auswahl von Pitch- oder Redemöglichkeiten, Planung und Besuch von Ausstellungen, Registrierung und Besuch von Veranstaltungen. </li>
-                                <li>Geeignete Plattformen und Zeitschriften auswählen, um die Sichtbarkeit des Unternehmens zu erhöhen</li>
-                            </ul>
-                            <br>
-                            <h4>Ihr Profil:</h4>
-                            <ul class="ul-list">
-                                <li>Bachelor-oder Master-Abschluss in Marketing, Betriebswirtschaftslehre/Wirtschaftswissenschaften mit Schwerpunkt Marketing</li>
-                                <li>Mindestens 3 Jahre Berufserfahrung im Marken- und Marketingmanagement von Softwareangeboten im Fertigungsbereich für neue Produkte</li>
-                                <li>Wissen über Online- und Digital-Marketing</li>
-                                <li>Geschickt im Schreiben präziser Blogs und Artikel</li>
-                                <li>Ausgezeichnete Kommunikationsfähigkeiten</li>
-                                <li>Fließend in Deutsch und Englisch</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Das bieten wir:</h4>
-                            <ul class="ul-list">
-                                <li>Attraktives Gehaltspaket</li>
-                                <li>Die Führung der Marketingabteilung und der schrittweise Aufbau des Teams</li>
-                                <li>Möglichkeit, mit bewährten und erfahrenen Unternehmern zusammenzuarbeiten</li>
-                                <li>Flexible und dynamische Arbeitsumgebung</li>
-                                <li>Unsere Mission ist es, produzierende Unternehmen in die Lage zu versetzen, ihre Leistung zu verbessern und ihre Effizienz und Produktivität zu steigern, indem wir wertvolle Einblicke in ihre Produktion durch Digitalisierung liefern.</li>
-                                <li>Unser Team besteht aus erfahrenen Experten und jungen und energischen Technokraten</li>
-                                <li>Wir sind leidenschaftlich für das, was wir tun, hoch motiviert und immer offen für Neues und Verbesserungen.</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
-                                    href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> senden</p>
-                            <br>
-                            <p class="red">Standort: Frankfurt am Main</p>
-                        </div>
-                    </div>
-                </div> -->
-
                 <!-- <div class="card">
                     <div class="card-header" id="headingFive">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn5"
