@@ -196,18 +196,18 @@
                     <div id="acccrdnSaleMang" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                            Als stetig expandierendes und mehrfach ausgezeichnetes Technologieunternehmen in einem starkwachsenden Markt, suchen wir einen <b>Product Sales Manager (m/w/d)</b> zur Unterstützung unseresVertriebsteams in Frankfurt. Bewirb Dich jetzt und werde Teil unseres motivierten, hochqualifizierten und agilenTeams.
+                            Als stetig expandierendes und mehrfach ausgezeichnetes Technologieunternehmen in einem stark wachsenden Markt, suchen wir einen <b>Product Sales Manager (m/w/d)</b> zur Unterstützung unseres Vertriebsteams in Frankfurt. Bewirb Dich jetzt und werde Teil unseres motivierten, hochqualifizierten und agilen Teams.
                             </p>
 
                             <h4>Deine Aufgaben:</h4>
                             <ul class="ul-list">
-                                <li>Deine ergebnisorientiere Vorgehensweise und dein professionelles Auftreten helfen Dir die Quartalsziele zuerreichen und langfristig Beziehungen zu Kunden aus der Fertigungsindustrie aufzubauen</li>
-                                <li>Du überzeugst Leads in Kundengesprächen von unseren Software-Produkten und zeigst ihnen dadurchentstehende Optimierungspotentiale auf</li>
-                                <li>Deine aktive Teilnahme an spannenden Konferenzen und Events helfen Dir potenzielle Kunden zugewinnen</li>
+                                <li>Deine ergebnisorientiere Vorgehensweise und dein professionelles Auftreten helfen Dir die Quartalsziele zue rreichen und langfristig Beziehungen zu Kunden aus der Fertigungsindustrie aufzubauen</li>
+                                <li>Du überzeugst Leads in Kundengesprächen von unseren Software-Produkten und zeigst ihnen dadurch entstehende Optimierungspotentiale auf</li>
+                                <li>Deine aktive Teilnahme an spannenden Konferenzen und Events helfen Dir potenzielle Kunden zu gewinnen</li>
                                 <li>Du identifizierst Chancen und verfolgst den gesamten Vertriebsprozess</li>
                                 <li>Du planst, koordinierst und steuerst deine kundenbezogenen Aktivitäten eigenverantwortlich</li>
-                                <li>Du dokumentierst lückenlos alle Sales Aktivitäten in Zoho CRM und analysierst datengetrieben Prozesse zurOptimierung von KPIs wie Conversion Rates oder Time to Sell</li>
-                                <li>Du verstehst die Problemstellungen und Herausforderungen deiner Leads & Kunden aus derFertigungsindustrie und erfasst daraus wertvolle Einblicke für die stetige Weiterentwicklung unsererProdukte</li>
+                                <li>Du dokumentierst lückenlos alle Sales Aktivitäten in Zoho CRM und analysierst datengetrieben Prozesse zur Optimierung von KPIs wie Conversion Rates oder Time to Sell</li>
+                                <li>Du verstehst die Problemstellungen und Herausforderungen deiner Leads & Kunden aus der Fertigungsindustrie und erfasst daraus wertvolle Einblicke für die stetige Weiterentwicklung unserer Produkte</li>
                             </ul>
 
                             <br>
@@ -216,9 +216,9 @@
                             <ul class="ul-list">
                                 <li>Du hast ein bis drei Jahre Erfahrung im Vertrieb von Softwarelösungen für Fertigungsunternehmen</li>
                                 <li>Du hast nachweisliche Erfolge zu erreichten und übertroffenen Umsatzzielen</li>
-                                <li>Du hast Erfahrung im Aufbau, der Pflege und Aufrechterhaltung von Beziehungen zu Kontakten aufEntscheidungsebene in der Industrie</li>
-                                <li>Du hast ein gutes Verständnis für industrielle Fertigungsprozesse und typische, darin auftretendeProblemstellungen (wie Ausschuss, Maschinenausfälle...)</li>
-                                <li>Du hast ein professionelles Auftreten, eine ergebnisorientierte Vorgehensweise und schnelleAuffassungsgabe; es fällt Dir leicht, komplexe Sachverhalte rasch zu verstehen und nachzuvollziehen</li>
+                                <li>Du hast Erfahrung im Aufbau, der Pflege und Aufrechterhaltung von Beziehungen zu Kontakten auf Entscheidungsebene in der Industrie</li>
+                                <li>Du hast ein gutes Verständnis für industrielle Fertigungsprozesse und typische, darin auftretende Problemstellungen (wie Ausschuss, Maschinenausfälle...)</li>
+                                <li>Du hast ein professionelles Auftreten, eine ergebnisorientierte Vorgehensweise und schnelle Auffassungsgabe; es fällt Dir leicht, komplexe Sachverhalte rasch zu verstehen und nachzuvollziehen</li>
                                 <li>Sehr gute Deutsch- und Englischkenntnisse runden dein Profil ab</li>
                             </ul>
 
@@ -226,10 +226,10 @@
 
                             <h4>Das bieten wir Dir:</h4>
                             <ul class="ul-list">
-                                <li>Werde Teil einer der Technologieführer in Europa (ausgezeichnet durch die EU-Kommission) in einer derinnovativsten und zukunftsträchtigen Branchen</li>
-                                <li>Bringe Dich als festen Bestandteil unseres internationalen Teams mit eigenen Ideen ein und gestalte dieZukunft unseres Unternehmens bei kurzen Entscheidungswegen aktiv mit</li>
-                                <li>Attraktive Vergütung, flexible Arbeitszeiten, Home-Office und großes Maß an Freiheit undEigenverantwortung</li>
-                                <li>Stets positive und energetische Arbeitsatmosphäre im Team mit erfahrenen Digitalisierungsexperten undlangjährigen Unternehmern getrieben durch unsere Begeisterung für Innovation und künstliche Intelligenz</li>
+                                <li>Werde Teil einer der Technologieführer in Europa (ausgezeichnet durch die EU-Kommission) in einer der innovativsten und zukunftsträchtigen Branchen</li>
+                                <li>Bringe Dich als festen Bestandteil unseres internationalen Teams mit eigenen Ideen ein und gestalte die Zukunft unseres Unternehmens bei kurzen Entscheidungswegen aktiv mit</li>
+                                <li>Attraktive Vergütung, flexible Arbeitszeiten, Home-Office und großes Maß an Freiheit und Eigenverantwortung</li>
+                                <li>Stets positive und energetische Arbeitsatmosphäre im Team mit erfahrenen Digitalisierungsexperten und langjährigen Unternehmern getrieben durch unsere Begeisterung für Innovation und künstliche Intelligenz</li>
                                 <li>Steile Lernkurve und Möglichkeiten für persönliche und professionelle Fort- und Weiterbildung</li>
                                 <li>Modernes, lichtdurchflutetes Büro in der Frankfurter Innenstadt</li>
                             </ul>
