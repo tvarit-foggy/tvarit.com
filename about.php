@@ -331,25 +331,6 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/dirk.jpeg" alt="Dirk" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Dirk Muennekehoff</h4>
-                            <h6 class="title">Senior Sales Manager</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>20 years of experience in technical sales</li>
-                                <li>Especially in automation in different industries</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
                             <img src="img/constantin-keller.jpg" alt="Constantin" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -359,6 +340,25 @@
                             <ul class="ul-list">
                                 <li>Custom development of solutions with the help of industrial AI</li>
                                 <li>Industrial engineer with deep understanding of production engineering and industrial applied artificial intelligence</li>
+                            </ul>
+                            <div class="social-icon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/Christopher.jpeg" alt="Christopher" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Christopher Praetzas</h4>
+                            <h6 class="title">Business Development Manager</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>M. Sc. Industrial Engineering TU Darmstadt</li>
+                                <li>Expert in the field of production engineering</li>
+                                <li>Work experience from Robert Bosch GmbH and PTW of TU Darmstadt</li>
                             </ul>
                             <div class="social-icon">
                             </div>
@@ -380,25 +380,6 @@
             </div>
             <!-------- Custom Divider ------------>
             <div class="row">
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
-                            <img src="img/Christopher.jpeg" alt="Christopher" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Christopher Praetzas</h4>
-                            <h6 class="title">Business Development Manager</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>M. Sc. Industrial Engineering TU Darmstadt</li>
-                                <li>Expert in the field of production engineering</li>
-                                <li>Work experience from Robert Bosch GmbH and PTW of TU Darmstadt</li>
-                            </ul>
-                            <div class="social-icon">
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">

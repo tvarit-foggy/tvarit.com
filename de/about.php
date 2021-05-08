@@ -279,25 +279,6 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/dirk.jpeg" alt="Dirk" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Dirk Muennekehoff</h4>
-                            <h6 class="title">Senior Sales Manager</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>20 Jahre Erfahrung im Vertrieb von erklärungsbedürftigen Leistungen</li>
-                                <li>Speziell in der Produktionsautomatisierung in unterschiedlichen Branchen</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="column">
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
                             <img src="img/constantin-keller.jpg" alt="Constantin" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
@@ -313,22 +294,6 @@
                         </div>
                     </div>
                 </div>
-
-            </div>
-            <!-------- Custom Divider ------------>
-            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
-                </div>
-                <div class="col-md-2">
-                    <img src="img/fav32.png" alt="fav32" loading="lazy" style="margin-right: auto;  margin-left: auto;  display: block;">
-                </div>
-                <div class="col-md-5">
-                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
-                </div>
-            </div>
-            <!-------- Custom Divider ------------>
-            <div class="row">
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
@@ -348,6 +313,21 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <!-------- Custom Divider ------------>
+            <div class="col-md-12 row" style="margin-top:15px; margin-bottom:15px">
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%; height:1px;"></div>
+                </div>
+                <div class="col-md-2">
+                    <img src="img/fav32.png" alt="fav32" loading="lazy" style="margin-right: auto;  margin-left: auto;  display: block;">
+                </div>
+                <div class="col-md-5">
+                    <div class="short-line-team bg-red" style="width:100%;height:1px;"></div>
+                </div>
+            </div>
+            <!-------- Custom Divider ------------>
+            <div class="row">
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
