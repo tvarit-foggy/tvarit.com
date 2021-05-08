@@ -324,13 +324,13 @@
                 </div>
                 <div class="card">
                     <div class="card-header" id="headingFour">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
-                            aria-expanded="false" aria-controls="acccrdn4">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnPsm"
+                            aria-expanded="false" aria-controls="acccrdnPsm">
                             Product Sales Manager (Frankfurt Am Main)
                         </a>
                     </div>
 
-                    <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                    <div id="acccrdnPsm" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                                 As a constantly expanding and award-winning technology company in a fast-growing market, we are looking for a Product Sales Manager (m/f/d) to support our sales team in Frankfurt. Apply now and become part of our motivated, highly qualified and agile team.
@@ -381,13 +381,13 @@
                 </div>
                 <div class="card">
                     <div class="card-header" id="headingFour">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
-                            aria-expanded="false" aria-controls="acccrdn4">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnWsm"
+                            aria-expanded="false" aria-controls="acccrdnWsm">
                             Working Student Marketing (Frankfurt Am Main)
                         </a>
                     </div>
 
-                    <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                    <div id="acccrdnWsm" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                                 Tvarit GmbH strives to help companies in the manufacturing industry transform into Industry 4.0 with the use of its unique AI software. The AI software we have developed is the most modern complete solution to solve many of our customers' business problems. You are responsible for building and improving the company's market position and for financial growth. You will be involved in defining long-term strategic business goals, building key customer relationships, identifying business opportunities, negotiating and closing deals, and having a thorough understanding of current market conditions. You should have a strong growth mindset and work ethic.

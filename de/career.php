@@ -249,13 +249,13 @@
                 </div>
                 <div class="card">
                     <div class="card-header" id="headingFour">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
-                            aria-expanded="false" aria-controls="acccrdn4">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn3"
+                            aria-expanded="false" aria-controls="acccrdn3">
                             Werkstudent Marketing (m/w/d) in Frankfurt
                         </a>
                     </div>
 
-                    <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                    <div id="acccrdn3" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                                 Tvarit GmbH ist bestrebt, Unternehmen in der Herstellungsbranche zur Transformation in die Industrie 4.0 mit der Nutzung seiner einzigartigen KI-Software zu helfen. Die von uns entwickelte KI-Software ist die modernste Komplettlösung, um viele Geschäftsprobleme unserer Kunden zu lösen. Du bist verantwortlich für den Aufbau und die Verbesserung der Marktposition des Unternehmens und für das finanzielle Wachstum. Du wirst an der Definition langfristiger strategischer Unternehmensziele, dem Aufbau wichtiger Kundenbeziehungen, der Identifizierung von Geschäftsmöglichkeiten, der Verhandlung und dem Abschluss von Geschäftsabschlüssen sowie der umfassenden Kenntnis der aktuellen Marktbedingungen beteiligt sein. Du solltest eine starke Wachstumsdenkensweise und eine starke Arbeitsmoral mitbringen.
