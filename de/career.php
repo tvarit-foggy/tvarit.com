@@ -104,87 +104,6 @@
             <br>
 
             <div id="accordion">
-
-                <!-- <div class="card">
-                    <div class="card-header" id="headingFour">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnTechArc"
-                            aria-expanded="false" aria-controls="acccrdnTechArc">
-                            Technical Architect
-                        </a>
-                    </div>
-
-                    <div id="acccrdnTechArc" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                We’re looking for a Technical Architect who will take a key role on our team. Our
-                                Technical Architect must have knowledge in all stages of software development. You’ll be
-                                working alongside other engineers and developers, collaborating on the various layers of
-                                the infrastructure for our AI product.<br>
-
-                                As of now, we are using Grafana open-source utility for our frontend, so your task would
-                                be to write Grafana source code transformation code. About 80% of your work would be on
-                                backend, API and Microservices Development, maintaining the releases, code reviews. You
-                                will be modernizing application infrastructure and improving delivery effectiveness by
-                                building integration-centric solutions (service-oriented architectures). You will work
-                                closely within an agile, scrum-based team to understand the business domain and client
-                                requirements.<br>
-
-                                Our AI team has created an AI software for manufacturing industry where it predicts
-                                machine, process or plant failures at various levels in the timeframe. Your main goal
-                                will be to create the REST API layer so that our customers can inject the input data and
-                                receive the predicted results back seamlessly in real-time.
-                                <br>
-
-                            </p>
-
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Ensure the quality of architecture and design of systems.</li>
-                                <li>Functionally decompose complex problems into simple, straight-forward solutions.</li>
-                                <li>Fully and completely understand system interdependencies and limitations.</li>
-                                <li>Design Technical/Integration Architecture, including development, runtime and operation architectures of REST API.</li>
-                                <li>Experience with cloud message APIs and usage of push notifications. </li>
-                                <li> Data pipeline integration with the AI backend, your server and REST API shall be able to manage the continuous flow of data between this AI backend and customer’s database systems.</li>
-                                <li>Analyze metrics and measure the effectiveness of the web application and servers, by setting up an effective logging system.</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Your background:</h4>
-                            <ul class="ul-list">
-                                <li>Strong experience in architecting and building multi-threaded, distributed systems.</li>
-                                <li>An experienced full stack developer with extensive experiences in any backend server-side language like Python, Golang etc and frontend languages typescript and javascript.</li>
-                                <li>Having knowledge of Apache, NGINX, SOLR, Redis, shell scripting, and on a variety of platforms, including Unix/Linux, in physical, virtualized and cloud (Amazon/AWS) environments.</li>
-                                <li>Experience with RDBMSs like SQL, MySQL, PostgreSQL; and/or time-series DBMS like Elastic Search, InfluxDB, TimescaleDB, SiriDB etc.</li>
-                                <li>Be very comfortable with SOAP (XML) and RESTful interfaces (JSON), both for creating outgoing responses and incoming consumption of data from external sources.</li>
-                                <li>Solid understanding of scripting, programming and testing methodologies.</li>
-                                <li>Ability to operate in a team and individually as well as be self-driven with an unwavering commitment to meet deadlines while delivering a high-quality product.</li>
-                                <li>Computer Science degree preferred.</li>
-
-                            </ul>
-
-                            <br>
-
-                            <h4>Good to have:</h4>
-                            <ul class="ul-list">
-                                <li>Knowledge about Golang, Service Oriented Architecture (SOA) patterns, automating business process models, API enabled gateway and multi/hybrid cloud-based services.</li>
-                            </ul>
-                            <br>
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data teams.</li>
-                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions.</li>
-                            </ul>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red">Location: Mumbai</p>
-                        </div>
-                    </div>
-                </div> -->
-
                 <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
@@ -328,398 +247,62 @@
                         </div>
                     </div>
                 </div>
-
-
-                <!-- <div class="card">
-                    <div class="card-header" id="headingTwo">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
-                            aria-expanded="false" aria-controls="acccrdn2">
-                            REST API Developer
+                <div class="card">
+                    <div class="card-header" id="headingFour">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
+                            aria-expanded="false" aria-controls="acccrdn4">
+                            Werkstudent Marketing (m/w/d) in Frankfurt
                         </a>
                     </div>
-                    <div id="acccrdn2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+
+                    <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                As an API and Microservices Developer, you will be modernizing application
-                                infrastructure and improving
-                                delivery effectiveness by building integration-centric solutions (service-oriented
-                                architectures). You
-                                will work closely within an agile, scrum-based team to understand the business domain
-                                and client
-                                requirements.
-                            </p>
-                            <p class="text-p">
-                                Our backend team has built an AI tool for manufacturing industry where it predicts
-                                machine, process or
-                                plant failures at various levels in the timeframe. Your main goal will be to create the
-                                REST API layer
-                                so that our customers can inject the input data and receive the predicted results back
-                                seamlessly in
-                                real time.
+                                Tvarit GmbH ist bestrebt, Unternehmen in der Herstellungsbranche zur Transformation in die Industrie 4.0 mit der Nutzung seiner einzigartigen KI-Software zu helfen. Die von uns entwickelte KI-Software ist die modernste Komplettlösung, um viele Geschäftsprobleme unserer Kunden zu lösen. Du bist verantwortlich für den Aufbau und die Verbesserung der Marktposition des Unternehmens und für das finanzielle Wachstum. Du wirst an der Definition langfristiger strategischer Unternehmensziele, dem Aufbau wichtiger Kundenbeziehungen, der Identifizierung von Geschäftsmöglichkeiten, der Verhandlung und dem Abschluss von Geschäftsabschlüssen sowie der umfassenden Kenntnis der aktuellen Marktbedingungen beteiligt sein. Du solltest eine starke Wachstumsdenkensweise und eine starke Arbeitsmoral mitbringen.
                             </p>
 
-                            <h4>Key responsibilities:</h4>
+                            <h4>Deine Aufgaben:</h4>
                             <ul class="ul-list">
-                                <li>Design Technical/Integration Architecture, including development, runtime and
-                                    operation
-                                    architectures of REST api</li>
-                                <li>Setting up a middle level web server handling all authentication and various data
-                                    translation tasks
-                                </li>
-                                <li>Define and deliver integrated solutions by applying proven delivery methodologies
-                                    including Agile
-                                    and Model-Driven techniques</li>
-                                <li>Data pipeline integration with the AI backend, your server and REST API shall be
-                                    able to manage the
-                                    continuous flow of data between this AI backend and customer’s database systems</li>
-                                <li>Analyze metrics and measure the effectiveness of REST API and servers, by setting up
-                                    an effective
-                                    logging system</li>
+                                <li>Verantwortung für Social-Media Marketing in beispielsweise LinkedIn, Youtube XING etc</li>
+                                <li>Aktive Mitarbeit in Marketing-Kampagnen (Homepage, Blogs, Social Media, Events, etc.)</li>
+                                <li>Erfahrung mit Social Media Kanälen (LinkedIn, Xing, Youtube, Facebook, Instagram)</li>
+                                <li>Gutes graphisches Gespür in der Erstellung von Marketingmaterial (Präsentationen, Flyer, Handouts, Foto- und Videoinhalte)</li>
                             </ul>
 
                             <br>
 
-                            <h4>Your background:</h4>
+                            <h4>Was du mitbringen solltest:</h4>
                             <ul class="ul-list">
-                                <li>An experienced backend developer with extensive experience in any backend
-                                    server-side language like
-                                    Java, NodeJS, Python etc</li>
-                                <li>Having knowledge of Apache, NGINX, SOLR, Redis, shell scripting, and on a variety of
-                                    platforms,
-                                    including Unix/Linux, in physical, virtualized and cloud (Amazon/AWS) environments
-                                </li>
-                                <li>Experience with RDBMSs like SQL, MySQL, PostgreSQL; and/or time-series DBMS like
-                                    Elastic Search,
-                                    InfluxDB, TimescaleDB, SiriDB etc</li>
-                                <li>Expert knowledge in architecting endpoints and designing responses in JSON and XML
-                                    markup</li>
-                                <li>Experience with supporting, debugging and working alongside web applications,
-                                    including
-                                    affiliate/third-party users of APIs</li>
-                                <li>Be very comfortable with RESTful interfaces (JSON, XML, SOAP), both for creating
-                                    outgoing responses
-                                    and incoming consumption of data from external sources.</li>
-                                <li>Solid understanding of scripting, programming and testing methodologies.</li>
-                                <li>Ability to operate in a team and individually as well as be self-driven with an
-                                    unwavering
-                                    commitment to meet deadlines while delivering a high-quality product.</li>
-                                <li>Must have excellent problem-solving skills and love technical challenges</li>
-                                <li>Computer Science degree preferred</li>
+                                <li>Sehr gute Kenntnisse in MS Office (insbesondere Word, PPT, Excel)</li>
+                                <li>Empfohlene Kenntnisse in CRM-Systemen (z.B. Hubspot, Mailchimp etc.) und Grafikdesign-Programmen (z.B. Canva, Photoshop o.ä.)</li>
+                                <li>Interesse an technologischen Themen (AI, Machine Learning etc.)</li>
+                                <li>Flexible, teamfähige, pro-aktive Persönlichkeit</li>
+                                <li>Strukturierter und analytischer Denker</li>
+                                <li>Sehr gute Kenntnisse von deutsch und englisch in Wort und Schrift</li>
                             </ul>
 
                             <br>
 
-                            <h4>Good to have:</h4>
+                            <h4>Was wir bieten:</h4>
                             <ul class="ul-list">
-                                <li>Knowledge of Service Oriented Architecture (SOA) patterns, automating business
-                                    process models, API
-                                    enabled gateway and multi/hybrid cloud-based services</li>
+                                <li>Direkte Zusammenarbeit mit dem Kernteam</li>
+                                <li>Ein angenehmes und lebendiges Arbeitsumfeld</li>
+                                <li>gute Aussichten auf eine langfristige Zusammenarbeit</li>
                             </ul>
+                            <br>
                             <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
+                            <p class="red">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
+                                Bewerbung
+                                und deinen Lebenslauf an <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> mit dem Betreff “Werkstudent Marketing”
+                            </p>
                             <br>
-                            <p class="red">Location: Mumbai</p>
+                            <p class="red">Standort: Frankfurt am Main</p>
+                            <p class="red">Start: Ab sofort</p>
                         </div>
                     </div>
                 </div>
 
-
-                <div class="card">
-                    <div class="card-header" id="headingThree">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn3"
-                            aria-expanded="false" aria-controls="acccrdn3">
-                            Machine Learning Engineer
-                        </a>
-                    </div>
-                    <div id="acccrdn3" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                Tvarit opens up a new Artificial Intelligence division with the vision to help
-                                manufacturing companies
-                                transform their businesses by leveraging AI. We strive to achieve efficient processes
-                                management for
-                                factories and plants, increasing the yield, increasing the accuracy and reliability by
-                                bringing
-                                data-driven decisions, shorten the time frame of delivery, and hence direct reflection
-                                in terms of
-                                profit to the enterprise. This is a chance for you to get in on the ground floor of an
-                                exciting AI
-                                company.
-
-                            </p>
-                            <p class="text-p">
-                                You will be responsible for building AI / Machine Learning applications for our
-                                manufacturing clients.
-                                We expect you have strong programming skills, and background of statistical engineering,
-                                data mining.
-                                You should have a strong growth mindset and a strong work ethic.
-                            </p>
-
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Work with manufacturing clients, understanding various problems and failures in
-                                    different kinds of
-                                    high tech machines</li>
-                                <li>Working with manufacturing machines data formats, data collection via API (REST for
-                                    e.g.), data
-                                    cleaning and defining performance measures based on pre-processing of data</li>
-                                <li>Define set of features on the basis of hundreds of sensors signals coming from the
-                                    single machine,
-                                    work on building time series forecasting and other cross metric ML models</li>
-                                <li>Develop evaluation techniques to gauge the performance and accuracy of the models
-                                    you build</li>
-                                <li>Write production ready code in Python / R for above models, further write unit
-                                    tests, integration
-                                    tests, end to end tests</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Your background:</h4>
-                            <ul class="ul-list">
-                                <li>Know how of machine learning algorithms e.g., ARIMA, Linear Regression, Neural
-                                    Networks and relevant
-                                    maths such as linear algebra, probability, statistics</li>
-                                <li>Strong hands­-on skills with time series databases InfluxDB, SQL, Postgres etc</li>
-                                <li>Proven ability to deliver complex metrics solutions and applications from end to end
-                                    and required
-                                    CI/CD tooling like Github, Docker, Travis, Jenkins</li>
-                                <li>Ability to write code in a scripting language (Python, Perl, Bash etc)</li>
-                                <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it
-                                    is also
-                                    important that you're able to write clean, efficient code in Python (with a focus on
-                                    testability and
-                                    using OOP) on a Linux platform.</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>We provide hands-­on statistical solutions for automotive and manufacturing industry
-                                    in Germany to
-                                    highlight trends and generate insights</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines
-                                    health and work
-                                    closely with their backend databases and data engineering teams</li>
-                                <li>We act as primary point of contact for business forecasting, delivering
-                                    metrics/analytics that drive
-                                    the organization and help senior management taking data driven business decisions
-                                </li>
-                            </ul>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red">Location: Mumbai</p>
-                        </div>
-                    </div>
-                </div> -->
-                <!-- <div class="card">
-                    <div class="card-header" id="headingFive">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn5"
-                            aria-expanded="false" aria-controls="acccrdn5">
-                            DevOps Engineer
-                        </a>
-                    </div>
-
-                    <div id="acccrdn5" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                We’re looking for a DevOps Engineer who will take a key role in our team. Devops
-                                Engineer would
-                                collaborate with software developers, system operators and other IT staff members to
-                                manage code
-                                releases. S/He cross and merge the barriers that exist between software development,
-                                testing and
-                                operations teams and keep existing networks in mind as they design, plan and test.
-                            </p>
-
-
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Project Planning: You would participate in the processes of strategic
-                                    project-planning meetings. In
-                                    addition to providing their guidance and expertise on system options, risk, impact
-                                    and costs vs.
-                                    benefits, they create and share their operational requirements and development
-                                    forecasts to allow
-                                    for timely and accurate planning of projects.</li>
-                                <li>Development: Responsible for developing and building IT solutions, DevOps Engineers
-                                    install and
-                                    configure solutions, implement reusable components, translate technical
-                                    requirements, assist with
-                                    all stages of test data, develop interface stubs and simulators and perform script
-                                    maintenance and
-                                    updates.
-                                </li>
-                                <li>Deployment: You would build automated deployments through the use of configuration
-                                    management
-                                    technology. They deploy new modules and upgrades and complete fixes within the
-                                    production
-                                    environment. Another duty is to make modules ready for production, which entails
-                                    moving them
-                                    according to specific procedures and documenting knowledge transfer.
-                                </li>
-                                <li>Maintenance and Troubleshooting: Routine application maintenance tasks are an
-                                    ongoing responsibility
-                                    of DevOps Engineers that they accomplish via strategy-building techniques. They also
-                                    help create
-                                    requirements and procedures for implementing routine maintenance. Troubleshooting
-                                    existing
-                                    information systems for errors and resolving those errors is also a main
-                                    responsibility of DevOps
-                                    Engineers.
-                                </li>
-                                <li>Performance Management: You would not only evaluate existing applications and
-                                    platforms, but also
-                                    give recommendations for enhancing performance via gap analysis, identifying the
-                                    most practical
-                                    alternative solutions and assisting with modifications.
-                                </li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Your background:</h4>
-                            <ul class="ul-list">
-                                <li>Source Control (like Git, Bitbucket, Svn, VSTS etc)</li>
-                                <li>Continuous Integration (like Jenkins, Bamboo, VSTS )</li>
-                                <li>Automated Unit Testing, Integration Testing (Travis)</li>
-                                <li>Cloud (like AWS, Azure, GoogleCloud, Openstack)</li>
-                                <li>Infrastructure Automation (like Puppet, Chef, Ansible)</li>
-                                <li>Deployment Automation & Orchestration (like Jenkins, VSTS, Octopus Deploy)</li>
-                                <li>Container Concepts (LXD, Docker)</li>
-                                <li>Orchestration (Kubernetes, Mesos, Swarm)</li>
-                                <li>Server Security Concepts, Cloud Portal Firewalls</li>
-                                <li>Computer Science degree preferred</li>
-                            </ul>
-                            <br>
-
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>We provide hands-­on statistical solutions for automotive and manufacturing industry
-                                    in Germany to
-                                    highlight trends and generate insights</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines
-                                    health and work
-                                    closely with their backend databases and data teams</li>
-                                <li>We act as primary point of contact for business forecasting, delivering
-                                    metrics/analytics that drive
-                                    the organization and help senior management taking data driven business decisions
-                                </li>
-                            </ul>
-                            <br>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
-
-                            <br>
-                            <p class="red">Location: Mumbai</p>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
-                            aria-expanded="false" aria-controls="acccrdn1">
-                            Full Stack Developer
-                        </a>
-                    </div>
-
-                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                We’re looking for a Full Stack developer who will take a key role on our team. Our Full
-                                Stack developer
-                                must have knowledge in all stages of software development. You’ll be working alongside
-                                other engineers
-                                and developers, collaborating on the various layers of the infrastructure for our AI
-                                product.
-                            </p>
-                            <p class="text-p">
-                                As of now we are using Grafana open source utility for our frontend, so your task would
-                                be to write
-                                plugins for Grafana or even tweak Grafana’s source code sometime. About 80% of your work
-                                would be on
-                                backend, API and Microservices Development. You will be modernizing application
-                                infrastructure and
-                                improving delivery effectiveness by building integration-centric solutions
-                                (service-oriented
-                                architectures). You will work closely within an agile, scrum-based team to understand
-                                the business
-                                domain and client requirements.
-
-                            </p>
-                            <p class="text-p">
-                                Our AI team has created an AI software for manufacturing industry where it predicts
-                                machine, process or
-                                plant failures at various levels in the timeframe. Your main goal will be to create the
-                                REST API layer
-                                so that our customers can inject the input data and receive the predicted results back
-                                seamlessly in
-                                real time.
-
-                            </p>
-
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Frontend languages: typescript, javascript, css, webpack</li>
-                                <li>Backend languages: Node JS or Python (web development frameworks)</li>
-                                <li>Experience with cloud message APIs and usage of push notifications</li>
-                                <li>Design Technical/Integration Architecture, including development, runtime and
-                                    operation
-                                    architectures of REST api</li>
-                                <li>Data pipeline integration with the AI backend, your server and REST api shall be
-                                    able to manage
-                                    continuous flow of data between this AI backend and customer’s database systems</li>
-                                <li>Analyze metrics and measure effectiveness of the web application and servers, by
-                                    setting up an
-                                    effective logging system</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Your background:</h4>
-                            <ul class="ul-list">
-                                <li>An experienced full stack developer with extensive experience in any backend server
-                                    side language
-                                    like NodeJS or Python etc and frontend languages typescript and javascript</li>
-                                <li>Having knowledge of Apache, NGINX, SOLR, Redis, shell scripting, and on a variety of
-                                    platforms,
-                                    including Unix/Linux, in physical, virtualized and cloud (Amazon/AWS) environments
-                                </li>
-                                <li>Experience with RDBMSs like SQL, MySQL, PostgreSQL; and/or timeseries DBMS like
-                                    Elastic Search,
-                                    InfluxDB, TimescaleDB, SiriDB etc</li>
-                                <li>Be very comfortable with SOAP (XML) and RESTful interfaces (JSON), both for creating
-                                    outgoing
-                                    responses and incoming consumption of data from external sources.</li>
-                                <li>Solid understanding of scripting, programming and testing methodologies.</li>
-                                <li>Ability to operate in a team and individually as well as be self-driven with an
-                                    unwavering
-                                    commitment to meet deadlines while delivering a high quality product.</li>
-                                <li>Computer Science degree preferred</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Good to have:</h4>
-                            <ul class="ul-list">
-                                <li>Knowledge about Service Oriented Architecture (SOA) patterns, automating business
-                                    process models,
-                                    API enabled gateway and multi/hybrid cloud based services</li>
-                            </ul>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red">Location: Mumbai</p> -->
-                        <!-- </div>
-                    </div>
-                </div> -->
+               
             </div>
 
         </div>
