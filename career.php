@@ -109,7 +109,7 @@
                       <div class="card-header" id="hrmanage-post-title">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#hrmanage-post"
                               aria-expanded="false" aria-controls="backoffice-job">
-                              HUMAN RESOURCE MANAGER (VADODARA - INDIA)
+                              HUMAN RESOURCE MANAGER <span style="font-weight:normal;">(VADODARA - INDIA)</span>
                           </a>
                       </div>
                       <div id="hrmanage-post" class="collapse" aria-labelledby="hrmanage-post-title" data-parent="#accordion">
@@ -172,7 +172,7 @@
                       <div class="card-header" id="headingTwo">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#backofficejob"
                               aria-expanded="false" aria-controls="backoffice-job">
-                              Back-office Assistant and Management Support (VADODARA - INDIA)
+                              Back-office Assistant and Management Support <span style="font-weight:normal;">(VADODARA - INDIA)</span>
                           </a>
                       </div>
                       <div id="backofficejob" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -220,7 +220,7 @@
                       <div class="card-header" id="senior-office-job-h">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#senior-office-job"
                               aria-expanded="false" aria-controls="backoffice-job">
-                              Senior Operations Manager (VADODARA - INDIA)
+                              Senior Operations Manager <span style="font-weight:normal;">(VADODARA - INDIA)</span>
                           </a>
                       </div>
                       <div id="senior-office-job" class="collapse" aria-labelledby="senior-office-job-h" data-parent="#accordion">
@@ -275,7 +275,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
                             aria-expanded="false" aria-controls="acccrdn4">
-                            Business Development Manager - Internship/Working Student (3-6 Months) (Frankfurt Am Main)
+                            Business Development Manager - Internship/Working Student (3-6 Months) <span style="font-weight:normal;">(Frankfurt Am Main)</span>
                         </a>
                     </div>
 
@@ -326,7 +326,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnPsm"
                             aria-expanded="false" aria-controls="acccrdnPsm">
-                            Product Sales Manager (Frankfurt Am Main)
+                            Product Sales Manager <span style="font-weight:normal;">(Frankfurt Am Main)</span>
                         </a>
                     </div>
 
@@ -383,7 +383,7 @@
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnWsm"
                             aria-expanded="false" aria-controls="acccrdnWsm">
-                            Working Student Marketing (Frankfurt Am Main)
+                            Working Student Marketing <span style="font-weight:normal;">(Frankfurt Am Main)</span>
                         </a>
                     </div>
 
@@ -432,7 +432,7 @@
                     <div class="card-header" id="headingOne">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
-                            Senior Software Developer (MUMBAI - INDIA)
+                            Senior Software Developer <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
@@ -484,13 +484,13 @@
                                 <li>We provide hands-on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
                                 <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams.</li>
                                 <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that
-drives the organization and helps senior management taking data-driven business decisions.</li>
+                                    drives the organization and helps senior management taking data-driven business decisions.</li>
                             </ul>
                             <br>
                             <h4>About Tvarit</h4>
                             <p class="text-p">Industry 4.0 Market is expected to reach 152.31 Billion USD by 2022, at a CAGR of 14.72%. Germany, being the headquarter to the world’s leading manufacturing and automotive companies, is seen as a major contributor to Industry 4.0 innovations. The increasing adoption of the industrial Internet, increased focus on efficient production, single day plant shutdown costing millions of euro are the major drivers for the Industry 4.0 market.
-We, at Tvarit, envision to create AI for manufacturing and focus on the implementation of Industry 4.0 in the industrial equipment sector which helps manufacturers in analysing the machine conditions in advance to avoid unplanned downtime and wastage.</p>
-<p class="text-p">Based on technology, the market has been segmented into industrial robotics in smart factories, cybersecurity, advanced human-machine interface and artificial intelligence. The increasing use of industrial robotics in the automotive sector is also a major reason for this technology to have the largest market share in the market. Being an early mover in these segments, we have an advantage of tapping the huge potential in the manufacturing and automotive industry.</p>
+                                We, at Tvarit, envision to create AI for manufacturing and focus on the implementation of Industry 4.0 in the industrial equipment sector which helps manufacturers in analysing the machine conditions in advance to avoid unplanned downtime and wastage.</p>
+                            <p class="text-p">Based on technology, the market has been segmented into industrial robotics in smart factories, cybersecurity, advanced human-machine interface and artificial intelligence. The increasing use of industrial robotics in the automotive sector is also a major reason for this technology to have the largest market share in the market. Being an early mover in these segments, we have an advantage of tapping the huge potential in the manufacturing and automotive industry.</p>
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
@@ -507,7 +507,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                     <div class="card-header" id="headingSeven">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn7"
                             aria-expanded="false" aria-controls="acccrdn1">
-                            DIRECTOR - SOFTWARE DEVELOPMENT (MUMBAI - INDIA)
+                            DIRECTOR - SOFTWARE DEVELOPMENT <span style="font-weight:normal">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
