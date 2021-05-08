@@ -114,7 +114,7 @@
 
                     <div id="acccrdnSaleMang" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
-                            <p class="text-p">
+                            <p class="ul-list">
                             Als stetig expandierendes und mehrfach ausgezeichnetes Technologieunternehmen in einem stark wachsenden Markt, suchen wir einen <b>Product Sales Manager (m/w/d)</b> zur Unterstützung unseres Vertriebsteams in Frankfurt. Bewirb Dich jetzt und werde Teil unseres motivierten, hochqualifizierten und agilen Teams.
                             </p>
 
@@ -153,11 +153,11 @@
                                 <li>Modernes, lichtdurchflutetes Büro in der Frankfurter Innenstadt</li>
                             </ul>
                             <hr>
-                            <p class="red">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
+                            <p class="ul-list">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
                                     href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a></p>
                             <br>
-                            <p class="red">Standort: Frankfurt am Main</p>
-                            <p class="red">Start: Ab sofort</p>
+                            <p class="ul-list">Standort: Frankfurt am Main</p>
+                            <p class="ul-list">Start: Ab sofort</p>
                         </div>
                     </div>
                 </div>
@@ -173,7 +173,7 @@
 
                     <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
-                            <p class="text-p">
+                            <p class="ul-list">
                                 Tvarit GmbH ist bestrebt, Unternehmen in der Herstellungsbranche zur Transformation in
                                 die Industrie 4.0
                                 mit der Nutzung seiner einzigartigen KI-Software zu helfen.
@@ -237,13 +237,13 @@
                             </ul>
                             <br>
                             <hr>
-                            <p class="red">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
+                            <p class="ul-list">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
                                 Bewerbung
                                 und deinen Lebenslauf an <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> mit dem Betreff
                                 “Praktikum/
                                 Werkstudent”</p>
                             <br>
-                            <p class="red">Standort: Frankfurt am Main</p>
+                            <p class="ul-list">Standort: Frankfurt am Main</p>
                         </div>
                     </div>
                 </div>
@@ -257,7 +257,7 @@
 
                     <div id="acccrdn3" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
-                            <p class="text-p">
+                            <p class="ul-list">
                                 Tvarit GmbH ist bestrebt, Unternehmen in der Herstellungsbranche zur Transformation in die Industrie 4.0 mit der Nutzung seiner einzigartigen KI-Software zu helfen. Die von uns entwickelte KI-Software ist die modernste Komplettlösung, um viele Geschäftsprobleme unserer Kunden zu lösen. Du bist verantwortlich für den Aufbau und die Verbesserung der Marktposition des Unternehmens und für das finanzielle Wachstum. Du wirst an der Definition langfristiger strategischer Unternehmensziele, dem Aufbau wichtiger Kundenbeziehungen, der Identifizierung von Geschäftsmöglichkeiten, der Verhandlung und dem Abschluss von Geschäftsabschlüssen sowie der umfassenden Kenntnis der aktuellen Marktbedingungen beteiligt sein. Du solltest eine starke Wachstumsdenkensweise und eine starke Arbeitsmoral mitbringen.
                             </p>
 
@@ -291,13 +291,13 @@
                             </ul>
                             <br>
                             <hr>
-                            <p class="red">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
+                            <p class="ul-list">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
                                 Bewerbung
                                 und deinen Lebenslauf an <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> mit dem Betreff “Werkstudent Marketing”
                             </p>
                             <br>
-                            <p class="red">Standort: Frankfurt am Main</p>
-                            <p class="red">Start: Ab sofort</p>
+                            <p class="ul-list">Standort: Frankfurt am Main</p>
+                            <p class="ul-list">Start: Ab sofort</p>
                         </div>
                     </div>
                 </div>

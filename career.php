@@ -332,7 +332,7 @@
 
                     <div id="acccrdnPsm" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
-                            <p class="text-p">
+                            <p class="ul-list">
                                 As a constantly expanding and award-winning technology company in a fast-growing market, we are looking for a Product Sales Manager (m/f/d) to support our sales team in Frankfurt. Apply now and become part of our motivated, highly qualified and agile team.
                             </p>
 
@@ -372,10 +372,10 @@
                             </ul>
                             <br>
                             <hr>
-                            <p class="red">Did we spark your interest? Then send us your application and your CV to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Product Sales Manager”</p>
+                            <p class="ul-list">Did we spark your interest? Then send us your application and your CV to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Product Sales Manager”</p>
                             <br>
-                            <p class="red">Location: Frankfurt am Main</p>
-                            <p class="red">Start: Immediately</p>
+                            <p class="ul-list">Location: Frankfurt am Main</p>
+                            <p class="ul-list">Start: Immediately</p>
                         </div>
                     </div>
                 </div>
@@ -389,7 +389,7 @@
 
                     <div id="acccrdnWsm" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
-                            <p class="text-p">
+                            <p class="ul-list">
                                 Tvarit GmbH strives to help companies in the manufacturing industry transform into Industry 4.0 with the use of its unique AI software. The AI software we have developed is the most modern complete solution to solve many of our customers' business problems. You are responsible for building and improving the company's market position and for financial growth. You will be involved in defining long-term strategic business goals, building key customer relationships, identifying business opportunities, negotiating and closing deals, and having a thorough understanding of current market conditions. You should have a strong growth mindset and work ethic.
                             </p>
 
@@ -421,10 +421,10 @@
                             </ul>
                             <br>
                             <hr>
-                            <p class="red">Did we spark your interest? Then send us your application and your CV to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Working Student Marketing”</p>
+                            <p class="ul-list">Did we spark your interest? Then send us your application and your CV to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Working Student Marketing”</p>
                             <br>
-                            <p class="red">Location: Frankfurt am Main</p>
-                            <p class="red">Start date: Immediately</p>
+                            <p class="ul-list">Location: Frankfurt am Main</p>
+                            <p class="ul-list">Start date: Immediately</p>
                         </div>
                     </div>
                 </div>
