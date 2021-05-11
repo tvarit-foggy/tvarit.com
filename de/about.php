@@ -105,7 +105,7 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/suhas_circle.png" alt="Suhas" style="width:100%; height:auto;">
+                            <img src="img/suhas_patel.png" alt="Suhas" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
 
                         <div class="container">
