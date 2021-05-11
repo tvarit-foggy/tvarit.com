@@ -390,41 +390,45 @@
                     <div id="acccrdnWsm" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="ul-list">
-                                Tvarit GmbH strives to help companies in the manufacturing industry transform into Industry 4.0 with the use of its unique AI software. The AI software we have developed is the most modern complete solution to solve many of our customers' business problems. You are responsible for building and improving the company's market position and for financial growth. You will be involved in defining long-term strategic business goals, building key customer relationships, identifying business opportunities, negotiating and closing deals, and having a thorough understanding of current market conditions. You should have a strong growth mindset and work ethic.
+                                Tvarit GmbH develops and implements artificial intelligence (AI) solutions for the manufacturing, automotive and process industries. With its AI solutions, AI framework and AI consulting services, Tvarit helps its customers to make intelligent and informed decisions. We offer an interesting range of tasks in a fast-growing, dynamic start-up. To strengthen our marketing team, we are looking for a motivated working student (m/f/d) with immediate effect.
                             </p>
 
                             <h4>Your tasks:</h4>
                             <ul class="ul-list">
-                                <li>Active participation in marketing campaigns (homepage, blogs, social media, events, etc</li>
-                                <li>Experience with Social Media channels (LinkedIn, Xing, YouTube, Facebook, Instagram)</li>
-                                <li>Creation of marketing material (presentations, flyer, hand-outs, photo and video content)</li>
-                                <li>Responsible for social media marketing in e.g. LinkedIn, YouTube, XING etc</li>
+                                <li>Responsibility for the development and maintenance of social media platforms</li>
+                                <li>Supporting the team in the conception, planning and implementation of campaigns</li>
+                                <li>Independent management of marketing projects</li>
+                                <li>Creation of marketing materials (presentations, flyers, handouts, photo and video content)</li>
+                                <li>Participate in the day-to-day marketing business</li>
                             </ul>
                             <br>
-                            <h4>Role Requirement:</h4>
+                            <h4>What you should bring:</h4>
                             <ul class="ul-list">
-                                <li>Flexible, team player and a pro-active personality</li>
-                                <li>Very good skills in MS Office (especially, Word, PPT, Excel)</li>
-                                <li>Recommended skills in CRM systems (e.g. Hubspot, Mailchimp etc.) and Graphic Design programs (e.g. Canva, Photoshop or similar)</li>
-                                <li>Ambitious and responsible way of working</li>
-                                <li>Structured and analytical thinker</li>
-                                <li>Very good knowledge of German and English, both spoken and written</li>
+                                <li>First work experience in marketing, ideally in B2B</li>
+                                <li>Very good knowledge of MS Office (especially Word, PPT, Excel)</li>
+                                <li>Recommended knowledge in CRM systems (e.g. Zoho) and graphic design programs (e.g. Canva, Photoshop)</li>
+                                <li>Good graphic flair in the creation of marketing materials</li>
+                                <li>Flexible, team-oriented, pro-active personality</li>
+                                <li>Very good German and English skills, both written and spoken</li>
                             </ul>
 
                             <br>
 
-                            <h4>What we offer you:</h4>
+                            <h4>What we offer:</h4>
                             <ul class="ul-list">
-                                <li>Steep learning curve, Direct collaboration with the core team</li>
+                                <li>Direct collaboration with the core team</li>
                                 <li>A pleasant and lively working environment</li>
-                                <li>Good prospect for long-term cooperation</li>
+                                <li>High growth opportunities including the possibility to quickly take on responsibility</li>
+                                <li>Good prospects for a long-term cooperation</li>
+                                <li>Fair remuneration</li>
                             </ul>
                             <br>
                             <hr>
-                            <p class="ul-list">Did we spark your interest? Then send us your application and your CV to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Working Student Marketing”</p>
+                            <p class="ul-list">Did we spark your interest? Then send us your application and your CV to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject <b>“Working Student Marketing”</b></p>
                             <br>
                             <p class="ul-list">Location: Frankfurt am Main</p>
                             <p class="ul-list">Start date: Immediately</p>
+                            <p class="ul-list">Contract – Minimum 6-9 months, 20 hours a Week</p>
                         </div>
                     </div>
                 </div>
