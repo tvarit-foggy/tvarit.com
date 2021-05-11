@@ -258,27 +258,28 @@
                     <div id="acccrdn3" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="ul-list">
-                                Tvarit GmbH ist bestrebt, Unternehmen in der Herstellungsbranche zur Transformation in die Industrie 4.0 mit der Nutzung seiner einzigartigen KI-Software zu helfen. Die von uns entwickelte KI-Software ist die modernste Komplettlösung, um viele Geschäftsprobleme unserer Kunden zu lösen. Du bist verantwortlich für den Aufbau und die Verbesserung der Marktposition des Unternehmens und für das finanzielle Wachstum. Du wirst an der Definition langfristiger strategischer Unternehmensziele, dem Aufbau wichtiger Kundenbeziehungen, der Identifizierung von Geschäftsmöglichkeiten, der Verhandlung und dem Abschluss von Geschäftsabschlüssen sowie der umfassenden Kenntnis der aktuellen Marktbedingungen beteiligt sein. Du solltest eine starke Wachstumsdenkensweise und eine starke Arbeitsmoral mitbringen.
+                                Die Tvarit GmbH entwickelt und implementiert Lösungen im Bereich der Künstlichen Intelligenz (KI) für die Fertigungs-, Automobil- und Prozessindustrie. Mit seinen KI-Lösungen, dem KI-Framework und KI-Beratungsdienstleistungen hilft Tvarit seinen Kunden, intelligente und fundierte Entscheidungen zu treffen. Wir bieten ein interessantes Aufgabenspektrum in einem schnell wachsenden, dynamischen Start-Up. Zur Verstärkung unseres Marketing-Teams suchen wir ab sofort einen motivierten Werkstudenten (m/w/d).
                             </p>
 
                             <h4>Deine Aufgaben:</h4>
                             <ul class="ul-list">
-                                <li>Verantwortung für Social-Media Marketing in beispielsweise LinkedIn, Youtube XING etc</li>
-                                <li>Aktive Mitarbeit in Marketing-Kampagnen (Homepage, Blogs, Social Media, Events, etc.)</li>
-                                <li>Erfahrung mit Social Media Kanälen (LinkedIn, Xing, Youtube, Facebook, Instagram)</li>
-                                <li>Gutes graphisches Gespür in der Erstellung von Marketingmaterial (Präsentationen, Flyer, Handouts, Foto- und Videoinhalte)</li>
+                                <li>Verantwortung für den Aufbau und die Pflege von Social-Media Plattformen</li>
+                                <li>Unterstützung des Teams bei der Konzeption, Planung und Durchführung von Kampagnen</li>
+                                <li>Eigenverantwortliches Management von Marketing Projekten</li>
+                                <li>Erstellung von Marketingmaterialien (Präsentationen, Flyer, Handouts, Foto- und Videoinhalte)</li>
+                                <li>Im Marketing Tagesgeschäft mitwirken</li>
                             </ul>
 
                             <br>
 
                             <h4>Was du mitbringen solltest:</h4>
                             <ul class="ul-list">
+                                <li>Erste Arbeitserfahrung im Marketing, idealerweise im B2B Bereich</li>
                                 <li>Sehr gute Kenntnisse in MS Office (insbesondere Word, PPT, Excel)</li>
-                                <li>Empfohlene Kenntnisse in CRM-Systemen (z.B. Hubspot, Mailchimp etc.) und Grafikdesign-Programmen (z.B. Canva, Photoshop o.ä.)</li>
-                                <li>Interesse an technologischen Themen (AI, Machine Learning etc.)</li>
+                                <li>Empfohlene Kenntnisse in CRM-Systemen (z.B. Zoho) und Grafikdesign-Programmen (z.B. Canva, Photoshop)</li>
+                                <li>Gutes graphisches Gespür in der Erstellung von Marketingmaterialien</li>
                                 <li>Flexible, teamfähige, pro-aktive Persönlichkeit</li>
-                                <li>Strukturierter und analytischer Denker</li>
-                                <li>Sehr gute Kenntnisse von deutsch und englisch in Wort und Schrift</li>
+                                <li>Sehr gute Deutsch und Englisch Kenntnisse in Wort und Schrift</li>
                             </ul>
 
                             <br>
@@ -287,17 +288,18 @@
                             <ul class="ul-list">
                                 <li>Direkte Zusammenarbeit mit dem Kernteam</li>
                                 <li>Ein angenehmes und lebendiges Arbeitsumfeld</li>
-                                <li>gute Aussichten auf eine langfristige Zusammenarbeit</li>
+                                <li>Hohe Wachstumschancen inkl. der Möglichkeit, schnell Verantwortung zu übernehmen</li>
+                                <li>Gute Aussichten auf eine langfristige Zusammenarbeit</li>
+                                <li>Faire Entlohnung</li>
                             </ul>
                             <br>
                             <hr>
-                            <p class="ul-list">Wir haben dein Interesse geweckt ? Dann schicke uns doch gerne deine
-                                Bewerbung
-                                und deinen Lebenslauf an <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> mit dem Betreff “Werkstudent Marketing”
+                            <p class="ul-list">Wir haben dein Interesse geweckt? Dann schicke uns doch gerne deine Bewerbung und deinen Lebenslauf an <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> mit dem Betreff <b>“Werkstudent Marketing”</b>
                             </p>
                             <br>
                             <p class="ul-list">Standort: Frankfurt am Main</p>
-                            <p class="ul-list">Start: Ab sofort</p>
+                            <p class="ul-list">Beginn: ab sofort oder nach Vereinbarung</p>
+                            <p class="ul-list">Dauer: mind. 6-9 Monate, 20 Std. pro Woche</p>
                         </div>
                     </div>
                 </div>
