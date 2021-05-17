@@ -53,4 +53,4 @@ jobs:
           command: pwd
       - run:
           name: Send Via SFTP
-          command: lftp sftp://${username}:${password}@${hostname} -e "mirror -v -R --exclude .git/ --exclude .circleci/ ./ /customers/6/3/4/tvarit.com/httpd.www/; quit"
+          command: lftp sftp://${username}:${password}@${hostname} -e "mirror --delete -v -R --exclude .git/ --exclude .circleci/ ./ /customers/6/3/4/tvarit.com/httpd.www/; quit"
