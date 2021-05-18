@@ -119,8 +119,8 @@
                             <ul class="ul-list">
                                 <li>Deine ergebnisorientiere Vorgehensweise und dein professionelles Auftreten helfen Dir die Quartalsziele zue rreichen und langfristig Beziehungen zu Kunden aus der Fertigungsindustrie aufzubauen</li>
                                 <li>Du überzeugst Leads in Kundengesprächen von unseren Software-Produkten und zeigst ihnen dadurch entstehende Optimierungspotentiale auf</li>
-                                <li>Deine aktive Teilnahme an spannenden Konferenzen und Events helfen Dir potenzielle Kunden zu gewinnen</li>
-                                <li>Du identifizierst Chancen und verfolgst den gesamten Vertriebsprozess</li>
+                                <li>Deine aktive Teilnahme an spannenden Konferenzen und Events hilft Dir potenzielle Kunden zu gewinnen</li>
+                                <li>Du identifizierst Chancen und betreust den gesamten Vertriebsprozess</li>
                                 <li>Du planst, koordinierst und steuerst deine kundenbezogenen Aktivitäten eigenverantwortlich</li>
                                 <li>Du dokumentierst lückenlos alle Sales Aktivitäten in Zoho CRM und analysierst datengetrieben Prozesse zur Optimierung von KPIs wie Conversion Rates oder Time to Sell</li>
                                 <li>Du verstehst die Problemstellungen und Herausforderungen deiner Leads & Kunden aus der Fertigungsindustrie und erfasst daraus wertvolle Einblicke für die stetige Weiterentwicklung unserer Produkte</li>
