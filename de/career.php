@@ -70,10 +70,7 @@
                 <div class="col-md-6">
                     <div class="typography">
                         <div class="text-1">
-                            Let's make your
-                        </div>
-                        <div class="text-big60">
-                            Career
+                            <h1>Career @ Tvarit</h1>
                         </div>
                         <br>
                         <div class="more">
@@ -97,7 +94,7 @@
         <div class="container">
 
             <div class="centerTitle text-big60">
-                Current Opening <span class="red fw-900">Position</span>
+                Current Open <span class="red fw-900">Positions</span>
             </div>
 
 
