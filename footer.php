@@ -38,7 +38,7 @@
 
              $.ajax({
                  type: "POST",
-                 url: "./mail",
+                 url: window.location.origin+ "/mail",
                  data: "name=" + name + '&email=' + email + '&sub=' + sub + '&phone=' + phone +
                      '&msg=' + msg,
                  success: function(data) {
