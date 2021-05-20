@@ -83,6 +83,33 @@
     .banner-btn {
         width:100%; text-align: center; height: 40px; font-size: 18px;
     }
+    .testimonial {
+        margin-top: 3.2%;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 990px) {
+    .testimonial1 {
+        margin-top: 4%;
+    }
+    .testimonial3 {
+        margin-top: 5%
+    }
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .testimonial1 {
+        margin-top: 6%;
+        max-width: 200px;
+    }
+    .testimonial2 {
+        max-width: 200px;
+    }
+    .testimonial3 {
+        margin-top: 7%
+    }
+    .mobileView {
+        flex-wrap: nowrap;
+    }
   }
   .banner-btn1{
         width:100%; text-align: center; height: 40px; font-size: 20px;
@@ -162,9 +189,7 @@
 
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <iframe width="100%" height="250px"
-                        src="https://www.youtube.com/embed/ADSHWUsqgVc">
-                    </iframe>
+                    <img src="img/Design-ohne-Titel-3.jpg" loading="lazy" alt="TIA" width="100%" height="250px"/>
                 </div>
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
@@ -422,7 +447,7 @@
     </div>
     <!------------------------Client logo slide end --------------------->
 
-    <!------------------------ Reference start --------------------->
+    <!------------------------ ASSOCIATES & PARTNERS start --------------------->
     <div class="section-padding">
         <div class="container">
             <div class="centerTitle sec-mainTitle">
