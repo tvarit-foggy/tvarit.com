@@ -697,9 +697,7 @@
         searchBox.addEventListener('input', function() {
             const regexp = new RegExp(searchBox.value, 'i');
             var matches = selectorsSearch.filter(x => x.toLowerCase().includes(searchBox.value.toLowerCase()))
-            console.log(matches);
             var selectorSearchString = matches.length > 0 ? matches.join(',') : 'all';
-            console.log(selectorSearchString);
             mixer.filter(selectorSearchString);
         });
     </script>
