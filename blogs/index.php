@@ -645,7 +645,7 @@
             var selectorString = selectors.length > 0 ?
                 selectors.join(',') : // or '.' for AND logic
                 'all';
-            mixer.filter('Machine');
+                mixer.filter(selectorString);
         });
         var selectorsSearch = [];
         for (var i = 0; i < checkboxes.length; i++) {
@@ -656,9 +656,7 @@
         searchBox.addEventListener('input', function() {
             const regexp = new RegExp(searchBox.value, 'i');
             var matches = selectorsSearch.filter(x => x.toLowerCase().includes(searchBox.value.toLowerCase()))
-            console.log(matches);
             var selectorSearchString = matches.length > 0 ? matches.join(',') : 'all';
-            console.log(selectorSearchString);
             mixer.filter(selectorSearchString);
         });
     </script>
