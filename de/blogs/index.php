@@ -99,7 +99,7 @@
                         <div class="searchDiv">
                             <div class="form-group mb-0">
                                 <div class="addon">
-                                    <input type="text" class="form-control" placeholder="Search">
+                                    <input type="text" class="form-control" id="search" placeholder="Search">
                                     <a href="javascript://" class="addon-item btn-fab red"><i
                                             class="fas fa-search"></i></a>
                                 </div>
@@ -188,9 +188,9 @@
 
                                         <div class="form-group">
                                             <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="Topic"
-                                                    value=".Topic">
-                                                <label class="custom-control-label" for="Topic">Cross Industry</label>
+                                                <input type="checkbox" class="custom-control-input" id="CrossAdding"
+                                                    value=".CrossAdding">
+                                                <label class="custom-control-label" for="CrossAdding">Cross Industry</label>
                                             </div>
                                         </div>
                                     </div>
@@ -254,8 +254,8 @@
                                         <div class="form-group">
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input "
-                                                    id="think-ser-001" value=".think-ser-001">
-                                                <label class="custom-control-label" for="think-ser-001">Machine As A Service</label>
+                                                    id="machine" value=".machine">
+                                                <label class="custom-control-label" for="machine">Machine As A Service</label>
                                             </div>
                                         </div>
                                       </div>
@@ -293,7 +293,7 @@
                     <div class="row scrollable-blogs filter-container">
 
                         <!---->
-                        <div class="col-md-6 mix think-ser-001">
+                        <div class="col-md-6 mix machine">
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
@@ -307,7 +307,7 @@
                             </div>
                         </div>
                         <!---->
-                        <div class="col-md-6 mix Topic">
+                        <div class="col-md-6 mix CrossAdding">
                             <div class="blogBox">
                                 <div class="blogPic">
                                     <div class="industiesText">
@@ -687,6 +687,20 @@
                 selectors.join(',') : // or '.' for AND logic
                 'all';
             mixer.filter(selectorString);
+        });
+        var selectorsSearch = [];
+        for (var i = 0; i < checkboxes.length; i++) {
+                var checkbox = checkboxes[i];
+                selectorsSearch.push(checkbox.value);
+        }
+        var searchBox = document.getElementById('search');
+        searchBox.addEventListener('input', function() {
+            const regexp = new RegExp(searchBox.value, 'i');
+            var matches = selectorsSearch.filter(x => x.toLowerCase().includes(searchBox.value.toLowerCase()))
+            console.log(matches);
+            var selectorSearchString = matches.length > 0 ? matches.join(',') : 'all';
+            console.log(selectorSearchString);
+            mixer.filter(selectorSearchString);
         });
     </script>
 </body>
