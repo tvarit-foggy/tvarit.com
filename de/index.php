@@ -158,9 +158,7 @@
 
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <iframe width="100%" height="250px"
-                        src="https://www.youtube.com/embed/ADSHWUsqgVc">
-                    </iframe>
+                    <img src="img/Design-ohne-Titel-3.jpg" loading="lazy" alt="TIA" width="100%" height="250px"/>
                 </div>
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
