@@ -362,6 +362,17 @@
                               </ul>
                           </div>
                       </a>
+                      <a href="https://www.hannovermesse.de/exhibitor/tvarit/N1454861" target="_blank" class="newsBox">
+                          <div class="news-pic" style="background: white;">
+                              <img src="img/hannover-messe.png" loading="lazy" class="img-fluid" style="width:442px; height:200px;">
+                          </div>
+                          <div class="news-content">
+                              <div style="font-size:30px; line-height:35px; font-family: arial; color:#ff00ff; margin-bottom:12px; margin-top:10px; font-weight:600;">12. - 16. April 2021</div>
+                              <div>
+                                    Participated virtual and launched <span id="tia" style="color: blue;">TiA for Die-Casting</span>  in world's leading tradeshow for industrial technology
+                              </div>
+                          </div>
+                      </a>
                       <div class="other-logos-row">
                         <div class="centerTitle text-big40">
                           Also <span class="fw-900">participating</span>
@@ -397,7 +408,7 @@
 
         <br>
 
-        <div class="upcoming-event owl-theme">
+        <!-- <div class="upcoming-event owl-theme">
           <div class="item">
                 <div class="event-pic">
                     <img src="img/hannover-messe.png" loading="lazy" class="img-fluid">
@@ -409,7 +420,7 @@
                     <div class="signup-btn"><a href="https://www.hannovermesse.de/de/?open=ticketRegistration&code=pwUG5" class="btn btn-round btn-red-grd">SIGN UP</a></div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
     </div>
 </div>
@@ -482,7 +493,11 @@
     <script src="js/mixitup.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-
+    <script>
+        document.getElementById("tia").onclick = function () { 
+            location.href = "https://www.tia.tvarit.com/";
+        };
+    </script>
 </body>
 
 </html>
