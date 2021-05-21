@@ -78,11 +78,6 @@
         width: 325px;
     }
     .past-event .newsBox{display: flex;}
-    .other-logos-row{margin: 50px 0px 0px 0px;}
-    .other-logos-row .logos-col{display: flex; flex-wrap: wrap; align-items: center; align-content: center;}
-    .other-logos-row .logos-col a{width:25%; margin: auto; padding: 20px 30px; text-align:center;}
-    .other-logos-row .logos-col a img{max-width:75%;}
-
     .upcoming-event{background: #eee; padding: 20px;}
     .upcoming-event .item{display: flex; align-items: center;}
     .upcoming-event .item .event-content{margin-left:20px;}
@@ -387,21 +382,6 @@
                               </div>
                           </div>
                       </a>
-                      <div class="other-logos-row">
-                        <div class="centerTitle text-big40">
-                          Also <span class="fw-900">participating</span>
-                      </div>
-                        <div class="logos-col">
-                          <a href="https://www.hufschmied-tools.com/de/" target="_blank"><img src="img/logo1.png"/></a>
-                          <a href="https://www.pro-micron.de/" target="_blank"><img src="img/logo2.png"/></a>
-                          <a href="https://www.urma.ch/de/home/index.php" target="_blank"><img src="img/logo3.jpg"/></a>
-                          <a href="https://www.hermes-schleifwerkzeuge.com/europe/fr.html" target="_blank"><img style="max-width:45%;" src="img/logo4.jpg"/></a>
-                          <a href="https://www.heule.com/de/" target="_blank"><img src="img/logo5.jpg"/></a>
-                          <a href="https://cuttingtools.ceratizit.com/de/de.html" target="_blank"><img src="img/logo6.png"/></a>
-                          <a href="https://www.blaser.com/de_DE" target="_blank"><img src="img/logo7.png"/></a>
-                          <a href="https://de.rego-fix.com/de" target="_blank"><img src="img/logo8.png"/></a>
-                        </div>
-                      </div>
                   </div>
               <!---->
             </div>
