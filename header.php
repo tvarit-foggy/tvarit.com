@@ -160,7 +160,7 @@ $(document).ready(function(){
                                 <div class="col-lg-4 col">
                                     <ul class="ul-sub-menu">
                                         <li>
-                                            <a href="optimize-oee-for-metal-manufacturing-companies" class="sub-Link">Optimize
+                                            <a href="optimize-oee-for-steel-and-metal-manufacturing-companies" class="sub-Link">Optimize
                                                 OEE for Metal Manufacturing companies</a>
                                         </li>
                                         <li>
