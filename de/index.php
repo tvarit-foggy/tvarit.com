@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0106/2399.js" async="async" ></script>
     <script src="js/navigationDE.js"></script>
     <style>
     .mySlides {display: none;} </style>

@@ -4,6 +4,7 @@
 
 <head>
     <script src="js/navigationDE.js"></script>
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0106/2399.js" async="async" ></script>
 
     <style>
     .mySlides {
