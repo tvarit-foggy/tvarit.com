@@ -199,7 +199,7 @@
                                 <li>
                                     <a class="toggle" href="javascript:void(0);">Case Studies </a>
                                     <div class="inner">
-                                        <div class="form-group">
+                                        <!-- <div class="form-group">
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input "
                                                     id="QualityPrediction" value=".QualityPrediction">
@@ -215,7 +215,7 @@
                                                 <label class="custom-control-label"
                                                     for="PredictiveMaintenance">Predictive Maintenance</label>
                                             </div>
-                                        </div>
+                                        </div> -->
 
                                         <div class="form-group">
                                             <div class="custom-control custom-checkbox">
@@ -226,14 +226,14 @@
                                             </div>
                                         </div>
 
-                                        <div class="form-group">
+                                        <!-- <div class="form-group">
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input"
                                                     id="Intra-PlantLogistics" value=".Intra-PlantLogistics">
                                                 <label class="custom-control-label"
                                                     for="Intra-PlantLogistics">Intra-Plant Logistics</label>
                                             </div>
-                                        </div>
+                                        </div> -->
 
                                         <div class="form-group">
                                             <div class="custom-control custom-checkbox">
