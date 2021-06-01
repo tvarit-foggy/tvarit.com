@@ -372,7 +372,7 @@
                          <h3>Disclaimer</h3>
                          <div class="ft-links">
                              <a href="impressum">Imprint</a>
-                             <a href="privacy-and-policy">Privacy Policy</a>
+                             <a href="/privacy-and-policy">Privacy Policy</a>
                          </div>
                      </div>
 
@@ -479,43 +479,9 @@ window.cookieconsent.initialise({
   "content": {
     "message": "This Website uses cookies to ensure you get the best experience on our website.",
     "dismiss": "OK!",
-    "href": "https://tvarit.com/datenschutz"
+    "href": "/privacy-and-policy"
   }
 });
-/*$(document).ready(function() {
-	$(".up-event,.past-event").owlCarousel({
-  items:3,
-  nav:false,
-  loop:true,
-  autoplay:true,
-  margin:4,
-  lazyLoad:true,
-  autoplayHoverPause:false,
-  autoplaySpeed:500,
-  dots:false,
-  responsiveClass:true,
-  responsive:{
-      0:{
-          items:1
-      },
-      280:{
-          items:1
-      },
-      768:{
-          items:2
-      },
-      992:{
-          items:3
-      },
-      1400:{
-          items:5
-      },
-      1800:{
-          items:6
-      }
-  }
-});
-});*/
 </script>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 <script type="text/javascript">

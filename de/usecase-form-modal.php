@@ -222,7 +222,7 @@ $("#btnUsecase").live("click", function() {
                     <div class="form-group">
                         <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="isAccept" checked="">
-                            <label class="custom-control-label" for="isAccept">I have read the <a href="https://tvarit.com/privacy-and-policy">privacy policy</a> and agree to download the usecase.</label>
+                            <label class="custom-control-label" for="isAccept">I have read the <a href="/de/datenschutz">privacy policy</a> and agree to download the usecase.</label>
                         </div>
                     </div>
                     <div id="emailValidationUsecase">Email is Incorrect</div>

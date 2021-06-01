@@ -68,11 +68,9 @@
         rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed: 300i,400,400i,700,700i" rel="stylesheet">
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -97,7 +95,7 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54KB6CV" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
+    <script async="async" type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
 
     <!------SPLASH SCREEN----->
@@ -505,28 +503,6 @@
     include 'footer.php';
     ?>
     <!------------------------footer end --------------------->
-
-    <div class="cookieFooter bg-red-grd" id="cookieDiv">
-        <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-md-6">
-                    <p class="m-0 text-white text-center text-md-left">We use cookies to improve your experience on our
-                        website. By browsing this website, you agree to our use of cookies.</p>
-                </div>
-                <div class="col-md-4">
-                    <form name="myform" action="">
-                        <div class="d-flex mt-3 mt-md-0 justify-content-center justify-content-md-end">
-                            <input type="hidden" name="customer" value="user">
-                            <a href="datenschutz" target="_blank" class="btn btn-white btn-round mr-2">More Info</a>
-                            <input type="button" class="btn btn-white btn-round closeCookie" value="ok"
-                                onclick="WriteCookie();" />
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- script start -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
@@ -541,28 +517,6 @@
     <script src="js/parallax.js"></script>
     <script src="js/script.js"></script>
     <script type="text/javascript">
-    function WriteCookie() {
-        if (document.myform.customer.value == "") {
-            return;
-        }
-        cookievalue = escape(document.myform.customer.value) + ";";
-        document.cookie = "name=" + cookievalue;
-    }
-
-    function ReadCookie() {
-        document.getElementById('cookieDiv').style.visibility = 'hidden';
-        var allcookies = document.cookie;
-        cookiearray = allcookies.split(';');
-        if (cookiearray.length !== 0) {
-            document.getElementById('cookieDiv').style.visibility = 'hidden';
-        } else {
-            document.getElementById('cookieDiv').style.visibility = 'visible';
-        }
-        for (var i = 0; i < cookiearray.length; i++) {
-            name = cookiearray[i].split('=')[0];
-            value = cookiearray[i].split('=')[1];
-        }
-    }
     var tvarit = new Typed('#typed-tvarit', {
         stringsElement: '#tvarit-strings',
         typeSpeed: 20,
