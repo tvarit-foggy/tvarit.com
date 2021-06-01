@@ -345,7 +345,7 @@
                          <h3>Haftungsauschluss</h3>
                          <div class="ft-links">
                              <a href="impressum">Impressum</a>
-                             <a href="datenschutz">Datenschutz</a>
+                             <a href="/de/datenschutz">Datenschutz</a>
                          </div>
                      </div>
 

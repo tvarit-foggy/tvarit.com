@@ -372,7 +372,7 @@
                          <h3>Disclaimer</h3>
                          <div class="ft-links">
                              <a href="impressum">Imprint</a>
-                             <a href="privacy-and-policy">Privacy Policy</a>
+                             <a href="/privacy-and-policy">Privacy Policy</a>
                          </div>
                      </div>
 
