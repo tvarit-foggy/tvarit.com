@@ -452,7 +452,7 @@ window.cookieconsent.initialise({
   "content": {
     "message": "This Website uses cookies to ensure you get the best experience on our website.",
     "dismiss": "OK!",
-    "href": "/datenschutz"
+    "href": "/de/datenschutz"
   }
 });
 </script>
