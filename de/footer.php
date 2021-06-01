@@ -1,6 +1,7 @@
  <html>
 
  <head>
+     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
      <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
      <meta name="description"
         content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
@@ -434,41 +435,27 @@
             if(theEvent.preventDefault) theEvent.preventDefault();
         }
      }
-     /*$(document).ready(function() {
-        $(".up-event,.past-event").owlCarousel({
-      items:3,
-      nav:false,
-      loop:true,
-      autoplay:true,
-      margin:4,
-      lazyLoad:true,
-      autoplayHoverPause:false,
-      autoplaySpeed:500,
-      dots:false,
-      responsiveClass:true,
-      responsive:{
-          0:{
-              items:1
-          },
-          280:{
-              items:1
-          },
-          768:{
-              items:2
-          },
-          992:{
-              items:3
-          },
-          1400:{
-              items:5
-          },
-          1800:{
-              items:6
-          }
-      }
-    });
-    });*/
-     </script>
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+    <script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#e92247"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "This Website uses cookies to ensure you get the best experience on our website.",
+    "dismiss": "OK!",
+    "href": "/datenschutz"
+  }
+});
+</script>
  <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 <script type="text/javascript">
 

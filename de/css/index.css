@@ -1,7 +1,4 @@
-#cookieDiv{
-    visibility: hidden;
-}
-     .overlay {
+.overlay {
 height: 0%;
 width: 100%;
 position: fixed;

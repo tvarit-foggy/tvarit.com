@@ -62,10 +62,6 @@ only screen and (min-device-pixel-ratio: 1.5){
         font-size: 12px;
     }
 
-    .cookieFooter {
-        padding: 20px 0;
-    }
-
     .box-content-left
     {
         text-align: center;
@@ -388,10 +384,6 @@ only screen and (min-device-pixel-ratio: 1.5){
     }
 }
 @media (max-width:767px) {
-    .aiconsultingBg
-    {
-        padding-top: 100px;
-    }
     .countingNumBox .icon {
         margin-right: 0;
     }
@@ -474,10 +466,6 @@ only screen and (min-device-pixel-ratio: 1.5){
         height: auto;
         
     }
-    .aiconsultingBg
-    {
-        padding-top: 100px;
-    }
     .headerBg video {
         width: 100%;
         margin: auto;
@@ -530,10 +518,6 @@ only screen and (min-device-pixel-ratio: 1.5){
     .tryDemobg .addon .form-control {
         height: 54px;
         font-size: 12px;
-    }
-
-    .cookieFooter {
-        padding: 20px 0;
     }
 
     .box-content-left
@@ -737,7 +721,7 @@ only screen and (min-device-pixel-ratio: 1.5){
     .indexMainBg .typography {
         padding-top: 50px;
     }
-    .indexMainBg .typography .text-1,.aiconsultingBg .typography .text-1 {
+    .indexMainBg .typography .text-1, .typography .text-1 {
         font-size: 18px;
         width: 100%;
     }

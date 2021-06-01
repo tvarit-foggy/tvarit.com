@@ -71,7 +71,7 @@
         <![endif]-->
 </head>
 
-<body onload="ReadCookie()">
+<body>
     <!-- Google Tag Manager (noscript) -->
     <noscript>
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54KB6CV" height="0" width="0"
@@ -318,27 +318,6 @@
     include 'usecase-form-modal.php';
     ?>
     <!------------------------footer end --------------------->
-
-    <div class="cookieFooter bg-red-grd" id="cookieDiv">
-        <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-md-6">
-                    <p class="m-0 text-white text-center text-md-left">We use cookies to improve your experience on
-                        our website. By browsing this website, you agree to our use of cookies.</p>
-                </div>
-                <div class="col-md-4">
-                    <form name="myform" action="">
-                        <div class="d-flex mt-3 mt-md-0 justify-content-center justify-content-md-end">
-                            <input type="hidden" name="customer" value="user">
-                            <a href="datenschutz" target="_blank" class="btn btn-white btn-round mr-2">More Info</a>
-                            <input type="button" class="btn btn-white btn-round closeCookie" value="ok"
-                                onclick="WriteCookie();" />
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
     <?php
         @include 'case-study-modal.php';
     ?>
@@ -354,31 +333,6 @@
     <script src="js/counting.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-    <script type="text/javascript">
-    function WriteCookie() {
-        if (document.myform.customer.value == "") {
-            return;
-        }
-        cookievalue = escape(document.myform.customer.value) + ";";
-        document.cookie = "name=" + cookievalue;
-    }
-
-    function ReadCookie() {
-        document.getElementById('cookieDiv').style.visibility = 'hidden';
-        var allcookies = document.cookie;
-        cookiearray = allcookies.split(';');
-        if (cookiearray.length !== 0) {
-            document.getElementById('cookieDiv').style.visibility = 'hidden';
-        } else {
-            document.getElementById('cookieDiv').style.visibility = 'visible';
-        }
-        for (var i = 0; i < cookiearray.length; i++) {
-            name = cookiearray[i].split('=')[0];
-            value = cookiearray[i].split('=')[1];
-        }
-    }
-    </script>
-
 </body>
 
 </html>
