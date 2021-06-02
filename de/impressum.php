@@ -118,13 +118,13 @@
             </p>
             <div class="ft-social">
                 <div class="social-icon">
-                    <a href="https://www.facebook.com/tvaritAI" target="blank"><i class="fab fa-facebook-f"></i></a>
-                    <a href="https://www.xing.com/xbp/pages/tvarit-gmbh" target="blank"><i class="fab fa-xing"></i></a>
-                    <a href="https://twitter.com/TvaritAI" target="blank"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.linkedin.com/company/tvarit/" target="blank"><i
+                    <a href="https://www.facebook.com/tvaritAI" alt="facebook" target="blank"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.xing.com/xbp/pages/tvarit-gmbh" target="blank" alt="xing"><i class="fab fa-xing"></i></a>
+                    <a href="https://twitter.com/TvaritAI" target="blank" alt="twitter"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.linkedin.com/company/tvarit/" target="blank" alt="linkedin"><i
                             class="fab fa-linkedin-in"></i></a>
                     <a href="https://www.youtube.com/playlist?list=PLqOwcayv0lYbbyKLjn6-A0w3Es4CKZpGr" target="blank"><i
-                            class="fab fa-youtube"></i></a>
+                            class="fab fa-youtube" alt="youtube"></i></a>
                 </div>
             </div>
         </div>

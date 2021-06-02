@@ -354,15 +354,15 @@
 
                      <div class="ft-social">
                          <div class="social-icon">
-                             <a href="https://www.facebook.com/tvaritAI" target="blank"><i
+                             <a href="https://www.facebook.com/tvaritAI" target="blank" alt="facebook"><i
                                      class="fab fa-facebook-f"></i></a>
                              <!--<a href="https://www.xing.com/xbp/pages/tvarit-gmbh" target="blank"><i
                                      class="fab fa-xing"></i></a>-->
-                             <a href="https://twitter.com/TvaritAI" target="blank"><i class="fab fa-twitter"></i></a>
-                             <a href="https://www.linkedin.com/company/tvarit/" target="blank"><i
+                             <a href="https://twitter.com/TvaritAI" target="blank" alt="twitter"><i class="fab fa-twitter"></i></a>
+                             <a href="https://www.linkedin.com/company/tvarit/" target="blank" alt="linkedin"><i
                                      class="fab fa-linkedin-in"></i></a>
                              <a href="https://www.youtube.com/channel/UCJfogjg3LqSmXMpy6dIOsEw"
-                                 target="blank"><i class="fab fa-youtube"></i></a>
+                                 target="blank" alt="youtube"><i class="fab fa-youtube"></i></a>
                          </div>
                      </div>
 
@@ -469,10 +469,10 @@ window.cookieconsent.initialise({
   "palette": {
     "popup": {
       "background": "#edeff5",
-      "text": "#838391"
+      "text": "#000000"
     },
     "button": {
-      "background": "#e92247"
+      "background": "#000000"
     }
   },
   "theme": "classic",
