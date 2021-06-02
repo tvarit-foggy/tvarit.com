@@ -2,6 +2,8 @@
 
  <head>
      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
      <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
      <meta name="description"
         content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
@@ -342,7 +344,7 @@
                      <br>
 
                      <div class="ft-social">
-                         <h3>Haftungsauschluss</h3>
+                         <h3 style="color:black;">Haftungsauschluss</h3>
                          <div class="ft-links">
                              <a href="impressum">Impressum</a>
                              <a href="/de/datenschutz">Datenschutz</a>
@@ -442,10 +444,10 @@ window.cookieconsent.initialise({
   "palette": {
     "popup": {
       "background": "#edeff5",
-      "text": "#838391"
+      "text": "#000000"
     },
     "button": {
-      "background": "#e92247"
+      "background": "#000000"
     }
   },
   "theme": "classic",

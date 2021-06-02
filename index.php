@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 
 <head>
     <script src="js/navigationDE.js"></script>
@@ -43,7 +43,7 @@
     gtag('config', 'UA-143837547-1');
     </script>
     <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="site" content="tvarit.com" />
     <meta name="description"
@@ -161,7 +161,7 @@
 
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                <img src="img/Design-ohne-Titel-3.jpg" loading="lazy" alt="TIA" width="100%" height="250px"/>
+                <img src="img/Design-ohne-Titel-3.jpg" loading="lazy" alt="TIA" width="100%"/>
                 </div>
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
@@ -187,8 +187,8 @@
             <div class="centerTitle sec-mainTitle">
                 AI Solutions
             </div>
-            <h4 class="subHeader">Increase profitability with predictive quality, predictive maintenance and dynamic recipes.
-            </h4>
+            <div class="subHeader">Increase profitability with predictive quality, predictive maintenance and dynamic recipes.
+            </div>
             <p class="text-p" style="text-align: center;">The TVARIT Industrial Artificial Intelligence (TIA) software is a ready-to-use state-of-the-art Smart Factory and Digital Twin Software. Receive in depth insights based on the analysis of machine data, sensor data, manufacturing execution systems data, laboratory information management systems data and ERP data.</p>
             <p class="text-p" style="text-align: center;">Get the relevant information in customized and user-oriented dashboards – whether you are an executive, plant manager, quality manager, shop floor engineer or technologist.  Monitor key parameter indicators (KPI) such as machine availability, quality rate and performance (Overall equipment effectiveness) in real-time and prevent quality deviations and machine breakdowns with the help of predictive analytics.</p>
             <p class="text-p" style="text-align: center;">Furthermore, prescriptive dynamic recipes provide you with actionable recommendations for process optimization. Keep track of all the important incidents with notification and alerts. Overall, TIA enables you to optimize OEE, reduce scrap, increase efficiency and improve machine availability. Finally, this leads to reduced costs, increased production output as well as an optimized usage of manpower, machines and material.  </p>
@@ -307,7 +307,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="videoWrapper">
-                        <iframe class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0?rel=0" frameborder="0"
+                        <iframe
+                            title="Testimonial from Prof. Aitor Goti Elordi"
+                            class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0?rel=0" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                     </div>
@@ -338,11 +340,11 @@
     <section class="section-padding">
         <div class="container">
             <div class="centerTitle">
-                <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
+                <h2 class="bold text-center red mb-0">We talk in all the languages used by</h2>
                 <div class="sec-mainTitle">Manufacturing companies</div>
-                <h4 class="subHeader">
+                <div class="subHeader">
                     We seamlessly extract and integrate your production data to ensure that you get fast &amp; secure analytics and predictions
-                </h4>
+                </div>
                 <p class="text-p">No matter where your data is collected and stored, we can easily integrate it from machines via SCADA, Industrial Internet of Things (IIoT) service providers and edge devices. The data across your production line and supply chain can be efficiently collected from your SAP, OPC UA server, Manufacturing execution systems, Laboratory information management systems and other data management systems.</p>
                 <p class="text-p">We use the latest technology of data storage and compute stack of IBM Power, Amazon Web Services (AWS) and Microsoft Azure for a fast training of the models and a flexible scalability of your data science operations.</p>
                 <p class="text-p">Being experts for IIoT communication and solution architectures for data collection and real-time analytics, we can supply you with cloud based as well as on-premise data architectures. Partnering with edge device providers, we can directly deploy the models onto your devices. This enables you to automate the data extraction and integration ensuring a fast communication as well as the highest standards of data security and communication protocols.</p>

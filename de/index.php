@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-DE">
 
 <head>
     <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0106/2399.js" async="async" ></script>
@@ -39,7 +39,7 @@
     gtag('config', 'UA-143837547-1');
     </script>
     <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="site" content="tvarit.com" />
     <meta name="description"
@@ -157,7 +157,7 @@
 
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <img src="img/Design-ohne-Titel-3.jpg" loading="lazy" alt="TIA" width="100%" height="250px"/>
+                    <img src="img/Design-ohne-Titel-3.jpg" loading="lazy" alt="TIA" width="100%"/>
                 </div>
                 <div class="col-lg-6">
                     <div class="px-lg-4 box-content-left">
@@ -300,7 +300,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="videoWrapper">
-                        <iframe class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0?rel=0" frameborder="0"
+                        <iframe
+                            title="Testimonial from Prof. Aitor Goti Elordi"
+                            class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0?rel=0" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                     </div>
@@ -331,7 +333,7 @@
     <section class="section-padding">
         <div class="container">
             <div class="centerTitle">
-                <h3 class="bold text-center red mb-0">Wir beherrschen alle Sprachen von </h3>
+                <h2 class="bold text-center red mb-0">Wir beherrschen alle Sprachen von </h2>
                 <div class="sec-mainTitle">Fertigungsunternehmen</div>
                 <h4 class="subHeader">
                     Erhalten Sie schnellste Analysen und Vohersagen bei reibungsloser Extraktion Ihrer Produktionsdaten und höchster Datensicherheit.
