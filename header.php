@@ -113,7 +113,7 @@ $(document).ready(function(){
                 <img alt="Tvarit Industrial AI" src="img/tvarit-logo.svg" loading="lazy" class="img-fluid">
             </a>
 
-            <a href="javascript://" class="menu-togglebar">
+            <a href="javascript://" class="menu-togglebar" aria-label="Menu">
                 <span></span>
                 <span></span>
                 <span></span>
