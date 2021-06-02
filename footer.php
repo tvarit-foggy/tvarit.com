@@ -469,10 +469,10 @@ window.cookieconsent.initialise({
   "palette": {
     "popup": {
       "background": "#edeff5",
-      "text": "#838391"
+      "text": "#000000"
     },
     "button": {
-      "background": "#e92247"
+      "background": "#000000"
     }
   },
   "theme": "classic",
