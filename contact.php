@@ -425,12 +425,12 @@
                     </div>
                     <div class="ft-social">
                         <div class="social-icon">
-                            <a href="https://www.facebook.com/tvaritAI" target="blank"><i
+                            <a href="https://www.facebook.com/tvaritAI" target="blank" aria-label="Facebook"><i
                                     class="fab fa-facebook-f"></i></a>
-                            <a href="https://twitter.com/TvaritAI" target="blank"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.linkedin.com/company/tvarit/" target="blank"><i
+                            <a href="https://twitter.com/TvaritAI" target="blank"><i class="fab fa-twitter" aria-label="Twitter"></i></a>
+                            <a href="https://www.linkedin.com/company/tvarit/" target="blank" aria-label="LinkedIn"><i
                                     class="fab fa-linkedin-in"></i></a>
-                            <a href="https://www.youtube.com/playlist?list=PLqOwcayv0lYbbyKLjn6-A0w3Es4CKZpGr"
+                            <a href="https://www.youtube.com/playlist?list=PLqOwcayv0lYbbyKLjn6-A0w3Es4CKZpGr" aria-label="YouTube"
                                 target="blank"><i class="fab fa-youtube"></i></a>
                         </div>
                     </div>

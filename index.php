@@ -112,7 +112,7 @@
         <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
         <div class="headerOverlay" style="background:none;">
             <div class="container">
-                <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
+                <a href="#downClick" class="hdrscrollArrow" style="bottom:5%" aria-label="Downward arrow"><i
                         class="far fa-arrow-alt-circle-down" style="transform: none;"></i></a>
                     <div class="row align-items-center">
                         <div class="col-md-6">
