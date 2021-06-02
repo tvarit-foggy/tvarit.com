@@ -4,6 +4,8 @@
 
 <head>
     <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0106/2399.js" async="async" ></script>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <script src="js/navigationDE.js"></script>
     <style>
     .mySlides {display: none;} </style>
@@ -64,7 +66,6 @@
         rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed: 300i,400,400i,700,700i" rel="stylesheet">
 
-    <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
     <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
     <!--[if lt IE 9]>
@@ -113,7 +114,7 @@
         <div class="headerOverlay">
         <div class="container">
             <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
-                    class="icon ion-ios-arrow-dropdown"></i></a>
+                    class="far fa-arrow-alt-circle-down" style="transform: none;"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="typography lh-1 left">
