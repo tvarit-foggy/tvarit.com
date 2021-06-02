@@ -111,7 +111,7 @@
         <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
         <div class="headerOverlay" style="background:none;">
             <div class="container">
-                <a href="#downClick" class="hdrscrollArrow" style="bottom:5%" alt="downward arrow"><i
+                <a href="#downClick" class="hdrscrollArrow" style="bottom:5%"><i
                         class="icon ion-ios-arrow-dropdown"></i></a>
                     <div class="row align-items-center">
                         <div class="col-md-6">
