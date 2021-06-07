@@ -60,6 +60,15 @@ div.fadeMe {
 }
 </style>
 <script> (function(){ window.ldfdr = window.ldfdr || {}; (function(d, s, ss, fs){ fs = d.getElementsByTagName(s)[0]; function ce(src){ var cs = d.createElement(s); cs.src = src; setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1); } ce(ss); })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_lYNOR8xMWAb7WQJZ.js'); })(); </script>
+<!-- Global site tag (gtag.js) - Google Analytics Ads-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-756947818"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-756947818');
+</script>
 
  <script async type="text/javascript" src="//cdns.canddi.com/p/651f57c868eb8134eb833d883acf3169.js"></script>
  <script type="text/javascript" langauge="javascript">
