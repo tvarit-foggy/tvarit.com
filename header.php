@@ -54,6 +54,14 @@ div.fadeMe {
 }
 </style>
 <!-- Scripts -->
+<!-- Global site tag (gtag.js) - Google Analytics Ads-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-756947818"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-756947818');
+</script>
 <script>
   (function(){
 
@@ -254,9 +262,6 @@ $(document).ready(function(){
                                 </div>
                                 <div class="col-lg-5 col">
                                     <ul class="ul-sub-menu sub-300">
-                                        <li>
-                                            <a href="whitepapers" class="sub-Link">White Paper</a>
-                                        </li>
                                         <li>
                                             <a href="videos" class="sub-Link">Videos</a>
                                         </li>
