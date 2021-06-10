@@ -2,7 +2,6 @@
 
  <head>
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
-     <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
      <meta name="description"
         content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
      <script type="text/javascript" language="javascript">
