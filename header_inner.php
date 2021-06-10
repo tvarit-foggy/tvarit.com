@@ -204,7 +204,7 @@
                                             <a href="../blogs" class="sub-Link">Blogs</a>
                                         </li>
                                         <li>
-                                        <li>
+                                        <!-- <li>
                                             <a href="#" class="sub-Link">Survey</a>
                                             <ul class="ul-deep-menu">
                                                 <li>
@@ -217,7 +217,7 @@
                                                 </li>
 
                                             </ul>
-                                        </li>
+                                        </li> -->
                                 </div>
                             </div>
                         </div>
