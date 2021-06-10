@@ -32,6 +32,7 @@
     @media only screen and (max-width: 990px) {
     #tia-for-die-casting-sub {
       padding-left: 10px;
+      font-size: 10.5px !important;
     }
 }
 </style>
@@ -52,6 +53,29 @@
                 <i class="fas fa-arrow-right"></i>
             </a>
             <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">KI Produkte</a>
+                    <div class="submenu-div">
+                        <div class="row">
+                            <div class="col">
+                                <div class="menuQuote">
+                                      <div class="textBig">KI Produkte<span class="red">.</span></div>
+                                    <!-- <p class="text-normal"> </p> -->
+                                </div>
+                            </div>
+                            <div class="col">
+                                <ul class="ul-sub-menu">
+                                  <li>
+                                        <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click" >TiA for Die-casting</a>
+                                    </li>
+                                    <div  id="tia-for-die-casting-sub">
+                                      <a style="color:#545454; font-size:12px;  display:block;" href="#" class="item-show-hide-box" >- Reduzieren Sie Ausschuss und Nacharbeit im Druckguss</a>
+                                    </div>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">KI Lösungen</a>
                     <div class="submenu-div">
@@ -126,29 +150,6 @@
                                     <li>
                                         <a href="../ai-academy" class="sub-Link">AI and Data Academy</a>
                                     </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">KI Produkte</a>
-                    <div class="submenu-div">
-                        <div class="row">
-                            <div class="col">
-                                <div class="menuQuote">
-                                      <div class="textBig">KI Produkte<span class="red">.</span></div>
-                                    <!-- <p class="text-normal"> </p> -->
-                                </div>
-                            </div>
-                            <div class="col">
-                                <ul class="ul-sub-menu">
-                                  <li>
-                                        <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click" >TiA for Die-casting</a>
-                                    </li>
-                                    <div  id="tia-for-die-casting-sub">
-                                      <a style="color:#333;  display:block;" href="#" class="item-show-hide-box" >Reduzieren Sie Ausschuss und Nacharbeit im Druckguss</a>
-                                    </div>
                                 </ul>
                             </div>
                         </div>

@@ -108,9 +108,8 @@
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important">
-        <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
-        <div class="headerOverlay" style="background:none;">
+    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important; width:auto;">
+        <div class="headerOverlay">
             <div class="container">
                 <a href="#downClick" class="hdrscrollArrow" style="bottom:5%" aria-label="Downward arrow"><i
                         class="far fa-arrow-alt-circle-down" style="transform: none;"></i></a>
