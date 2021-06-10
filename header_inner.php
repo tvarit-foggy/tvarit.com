@@ -47,6 +47,7 @@
 @media only screen and (max-width: 990px) {
     #tia-for-die-casting-sub {
       padding-left: 10px;
+      font-size: 10.5px !important;
     }
 }
 </style>
@@ -83,7 +84,7 @@
                                             <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click"  >TiA for Die-casting</a>
                                         </li>
                                         <div  id="tia-for-die-casting-sub">
-                                          <a style="color:#545454; font-size:12px; display:block;" href="#" class="item-show-hide-box" >Reduce Rejections & Rework in Die-Casting</a>
+                                          <a style="color:#545454; font-size:12px; display:block;" href="#" class="item-show-hide-box" >- Reduce Rejections & Rework in Die-Casting</a>
                                         </div>
                                     </ul>
                                 </div>
