@@ -365,7 +365,7 @@
                         style="border-color:var(--primary) !important; display:block;">
                         <div class="text">
                             <h3 class="fw-900">Tobias Gundermann</h3>
-                            <span class="fs-18  fw-400">Customer Success Manager</span><br><br>
+                            <span class="fs-18  fw-400">Lead Product Sales</span><br><br>
                             <a href="tel:+49 171 2251178" class="color"><span class="fs-18  fw-400">+49 171 2251178</span></a><br><br>
                             <a href="mailto:tobias.gundermann@tvarit.com" class="color"><span class="fs-18  fw-400"
                                     style="text-transform:lowercase">tobias.gundermann@tvarit.com</span></a>

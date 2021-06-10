@@ -254,7 +254,7 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name"> Tobias Gundermann</h4>
-                            <h6 class="title">Customer Success Manager</h6>
+                            <h6 class="title">Lead Product Sales</h6>
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Bridge between customers and team</li>

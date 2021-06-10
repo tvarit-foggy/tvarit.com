@@ -109,7 +109,7 @@
     <!------------------------ main menu end ------------------------>
 
     <!------------------------ header start ------------------------->
-    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important">
+    <header class="headerBg  bgSizeCover" id="headerBgSlide" data-diff="100" style="padding-top: 0px !important; width:auto;">
         <!-- <video autoplay="true" muted loop style="z-index=-1"> -->
         <div class="headerOverlay">
         <div class="container">
