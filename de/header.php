@@ -58,6 +58,12 @@ div.fadeMe {
       padding-left: 10px;
       font-size: 10.5px !important;
     }
+    .nav-link-seprator{
+        margin-top: -8px;
+    }
+    .alignLang {
+        padding-left: 13px;
+    }
 }
 </style>
 <script> (function(){ window.ldfdr = window.ldfdr || {}; (function(d, s, ss, fs){ fs = d.getElementsByTagName(s)[0]; function ce(src){ var cs = d.createElement(s); cs.src = src; setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1); } ce(ss); })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_lYNOR8xMWAb7WQJZ.js'); })(); </script>
@@ -273,7 +279,7 @@ div.fadeMe {
                     </div>
                 </li>
                 <li class="nav-item">
-                    <div style="display:flex;">
+                    <div style="display:flex;" class="alignLang">
                         <a class="nav-link nav-link-en" href="/" id="english"
                             onClick="javascript:setLanguage('en');">
                             <b>EN</b>
