@@ -133,7 +133,7 @@ div.fadeMe {
                                         <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click" >TiA for Die-casting</a>
                                     </li>
                                     <div  id="tia-for-die-casting-sub">
-                                      <a style="color:#333;  display:block;" href="#" class="item-show-hide-box" >Reduzieren Sie Ausschuss und Nacharbeit im Druckguss</a>
+                                      <a style="color:#545454; font-size:12px;  display:block;" href="#" class="item-show-hide-box" >Reduzieren Sie Ausschuss und Nacharbeit im Druckguss</a>
                                     </div>
                                 </ul>
                             </div>

@@ -83,7 +83,7 @@
                                             <a href="https://www.tia.tvarit.com/" class="sub-Link menu-click"  >TiA for Die-casting</a>
                                         </li>
                                         <div  id="tia-for-die-casting-sub">
-                                          <a style="color:#333;  display:block;" href="#" class="item-show-hide-box" >Reduce rejections & rework in Die-Casting</a>
+                                          <a style="color:#545454; font-size:12px; display:block;" href="#" class="item-show-hide-box" >Reduce Rejections & Rework in Die-Casting</a>
                                         </div>
                                     </ul>
                                 </div>
@@ -104,7 +104,7 @@
                                     <ul class="ul-sub-menu">
                                         <li>
                                             <a href="../optimize-oee-for-steel-and-metal-manufacturing-companies" class="sub-Link">Optimize
-                                                OEE for Metal Manufacturing companies</a>
+                                                OEE for Metal Manufacturing Companies</a>
                                         </li>
                                         <li>
                                             <a href="../predictive-maintenance-for-industrial-electric-motors" class="sub-Link">Predictive
@@ -121,7 +121,7 @@
                                         </li>
                                         <li>
                                             <a href="../predictive-quality-for-die-casting-machines" class="sub-Link">Predictive
-                                                Quality for Die-casting Machines</a>
+                                                Quality for Die-Casting Machines</a>
                                         </li>
                                     </ul>
                                 </div>
