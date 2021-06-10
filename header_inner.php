@@ -49,6 +49,12 @@
       padding-left: 10px;
       font-size: 10.5px !important;
     }
+    .nav-link-seprator{
+        margin-top: -8px;
+    }
+    .alignLang {
+        padding-left: 13px;
+    }
 }
 </style>
 <div class="main-menu fixed-menu sticky-top sticky">
@@ -224,7 +230,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                    <div style="display:flex;">
+                    <div style="display:flex;" class="alignLang">
                         <a class="nav-link nav-link-en" href="/" id="english"
                             onClick="javascript:setLanguage('en');">
                             <b>EN</b>
