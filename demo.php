@@ -249,7 +249,7 @@
                             <div class="col-md-12 " style="padding-right:0px">
                                 <div class="row" style="margin-right: 0px;text-align: center;">
                                     
-                                    <h6 class="title title-position" style="text-align: center;">Customer Success Manager</h6>
+                                    <h6 class="title title-position" style="text-align: center;">Lead Product Sales</h6>
                                     
                                 </div>
                             </div>
