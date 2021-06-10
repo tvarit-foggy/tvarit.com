@@ -312,13 +312,3 @@ div.fadeMe {
     document.getElementById('german').href = location.origin + '/de/' + path;
     document.getElementById('english').href = location.origin + '/' + path;
 </script>
-<script>
-   function showSubItem(id){
-	   jQuery("#"+id).show();
-   }
-   function hideSubItem(id){
-	   //jQuery('#'+id).delay(1000).fadeOut('fast');
-	   jQuery("#"+id).hide();
-
-   }
-</script>

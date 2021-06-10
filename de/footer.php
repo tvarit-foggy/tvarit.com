@@ -2,7 +2,7 @@
 
  <head>
      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
-     <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+     <script type="text/javascript" language="javascript" async src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
      <meta name="description"
         content="Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation" />
      <script type="text/javascript" language="javascript">
@@ -278,7 +278,7 @@
  </head>
 
  <body>
-     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
+     <script type="text/javascript" async src="https://secure.perk0mean.com/js/173652.js"></script>
      <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
      <!-- LinkedIn Insight Tag -->
      <script type="text/javascript">
@@ -436,7 +436,7 @@
         }
      }
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+    <script data-cfasync="false" src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" async></script>
     <script>
 window.cookieconsent.initialise({
   "palette": {
