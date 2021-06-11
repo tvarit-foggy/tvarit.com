@@ -277,8 +277,6 @@
  </head>
 
  <body>
-     <script type="text/javascript" async src="https://secure.perk0mean.com/js/173652.js"></script>
-     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
      <!-- LinkedIn Insight Tag -->
      <script type="text/javascript">
         _linkedin_partner_id = "3445969";

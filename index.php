@@ -96,8 +96,6 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54KB6CV" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <script async="async" type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
-    <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
 
     <!------SPLASH SCREEN----->
 
