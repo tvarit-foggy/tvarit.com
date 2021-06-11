@@ -1,305 +1,238 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://www.tvarit.com/</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>1.00</priority>
+	<loc>https://tvarit.com/</loc>
+	<lastmod>2021-06-11T14:59:20+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/index</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/.</loc>
+	<lastmod>2021-06-11T14:59:21+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/optimize-oee-for-steel-and-metal-manufacturing-companies</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/optimize-oee-for-steel-and-metal-manufacturing-companies</loc>
+	<lastmod>2021-06-11T14:59:24+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/predictive_maintenance_for_industrial_electric_motors</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/predictive-maintenance-for-industrial-electric-motors</loc>
+	<lastmod>2021-06-11T14:59:25+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/ai_based_production_planning_solution_for_cable_manufacturing_companies</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/ai-based-production-solution-for-cable-manufacturing</loc>
+	<lastmod>2021-06-11T14:59:25+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/predictive_quality_for_die-casting_machines</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/predictive-quality-for-die-casting-machines</loc>
+	<lastmod>2021-06-11T14:59:29+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/achive-more</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/achieve-more</loc>
+	<lastmod>2021-06-11T14:59:26+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/ai-platform</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/ai-consulting</loc>
+	<lastmod>2021-06-11T14:59:26+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/ai-consulting</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/ai-academy</loc>
+	<lastmod>2021-06-11T14:59:27+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/ai-academy</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/about</loc>
+	<lastmod>2021-06-11T14:59:27+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/about</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/news</loc>
+	<lastmod>2021-06-11T14:59:28+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/career</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/contact</loc>
+	<lastmod>2021-06-11T14:59:28+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/news</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/videos</loc>
+	<lastmod>2021-06-11T14:59:30+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/contact</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/impressum</loc>
+	<lastmod>2021-06-11T14:59:29+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/whitepapers/</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/privacy-and-policy</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/videos</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/ai-consulting-process</loc>
+	<lastmod>2021-06-11T14:59:30+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/automotive</loc>
+	<lastmod>2021-06-11T14:59:30+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/ai-for-manufacturing</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/chemicals</loc>
+	<lastmod>2021-06-11T14:59:30+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/ai-as-a-product</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/construction</loc>
+	<lastmod>2021-06-11T14:59:30+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/impressum</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/industrial_machinery</loc>
+	<lastmod>2021-06-11T14:59:31+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/datenschutz</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://tvarit.com/oil_gas</loc>
+	<lastmod>2021-06-11T14:59:30+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/ai-consulting-knowmore</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/steel</loc>
+	<lastmod>2021-06-11T14:59:31+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/sps-smart-production-solution</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/</loc>
+	<lastmod>2021-06-11T14:59:31+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/the-oil-gas-industry-how-partnering-with-industry</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/think-services</loc>
+	<lastmod>2021-06-11T14:59:31+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/whitepapers/index</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/adding-a-competitive-edge-with-edge-ai</loc>
+	<lastmod>2021-06-11T14:59:31+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/whitepapers/the-smart-fruit-how-ai-is-reaping-in-the-agriculture-sector</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/best-practices-to-follow-for-data-science-projects-in-manufacturing-industry</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/whitepapers/enhancing-cpg-with-ai-and-advanced-analytics</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/business-understanding</loc>
+	<lastmod>2021-06-11T14:59:31+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/whitepapers/fuel-efficiency-in-smart-vehicles</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/the-oil-gas-industry-how-partnering-with-industry</loc>
+	<lastmod>2021-06-11T14:59:31+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/whitepapers/construction-industry-in-partnership-with-industry</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/the-ascending-flight-ai-in-aviation-industry</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/whitepapers/predictive-maintenance-the-next-pioneer-in-automotive-industry</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/the-new-medicine-big-data-in-healthcare</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/the-ascending-flight-ai-in-aviation-industry</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/industry-concreting-the-construction-industry</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/the-new-medicine-big-data-in-healthcare</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/predictive-analytics-in-power-optimization</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/industry-concreting-the-construction-industry</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/optimizing-your-inventory-like-a-pro-heres-how-ai-does-it</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/predictive-analytics-in-power-optimization</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/the-card-of-ace-what-is-apm</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/optimizing-your-inventory-like-a-pro-heres-how-ai-does-it</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/machine-learning-in-supply-chain-management</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/the-card-of-ace-what-is-apm</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/the-profitable-deal-how-ai-can-increase-your-revenue</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/machine-learning-in-supply-chain-management</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/revolutionizing-supply-chain-when-ai-plays-with-demand-cost</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/the-profitable-deal-how-ai-can-increase-your-revenue</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/the-winds-of-change-ai-transforming-the-energy-industry</loc>
+	<lastmod>2021-06-11T14:59:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/revolutionizing-supply-chain-when-ai-plays-with-demand-cost</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/the-swifter-drive-ai-changing-the-transport-industry</loc>
+	<lastmod>2021-06-11T14:59:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/the-winds-of-change-ai-transforming-the-energy-industry</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/on-the-road-big-data-and-the-automobile-industry</loc>
+	<lastmod>2021-06-11T14:59:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/the-swifter-drive-ai-changing-the-transport-industry</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/blogs/shining-up-a-rusty-industry-with-artificial-intelligence</loc>
+	<lastmod>2021-06-11T14:59:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/on-the-road-big-data-and-the-automobile-industry</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/whitepapers/</loc>
+	<lastmod>2021-06-11T14:59:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/blogs/shining-up-a-rusty-industry-with-artificial-intelligence</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://tvarit.com/whitepapers/the-smart-fruit-how-ai-is-reaping-in-the-agriculture-sector</loc>
+	<lastmod>2021-06-11T14:59:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/use_cases</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://tvarit.com/whitepapers/enhancing-cpg-with-ai-and-advanced-analytics</loc>
+	<lastmod>2021-06-11T14:59:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/survey</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://tvarit.com/whitepapers/fuel-efficiency-in-smart-vehicles</loc>
+	<lastmod>2021-06-11T14:59:34+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/products</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://tvarit.com/whitepapers/construction-industry-in-partnership-with-industry</loc>
+	<lastmod>2021-06-11T14:59:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.tvarit.com/seminar_workshops</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://tvarit.com/whitepapers/predictive-maintenance-the-next-pioneer-in-automotive-industry</loc>
+	<lastmod>2021-06-11T14:59:34+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
-<url>
-  <loc>https://www.tvarit.com/training</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/consulting</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/tti</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/automotive</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/avionics</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/chemicals</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/construction</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/industrial_machinery</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/oil_gas</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/pharmaceuticals</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/steel</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.tvarit.com/textiles</loc>
-  <lastmod>2020-01-17T15:57:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
 </urlset>
