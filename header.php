@@ -61,6 +61,7 @@ div.fadeMe {
 }
 </style>
 <!-- Scripts -->
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics Ads-->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-756947818"></script>
 <script>
@@ -105,7 +106,6 @@ div.fadeMe {
         }
     }
 </script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
   $("a.menu-click").click(function(){
