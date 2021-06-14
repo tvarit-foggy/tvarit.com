@@ -18,3 +18,5 @@ RewriteRule ^([^/.]+)$ $1.php [L]
 
 # Redirect html old link to new link of php
 RewriteRule index.html /index.php [QSA,L]
+
+ErrorDocument 404 /error.php
