@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 
 <head>
-    <script src="js/navigationDE.js"></script>
+    <script src="/js/navigationDE.js"></script>
     <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0106/2399.js" async="async" ></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -23,11 +23,11 @@
     <link rel="icon" href="./img/favicon.png">
     <title>Page Not Found - 404</title>
 
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="css/flickity.css">
-    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/responsive.css">
+    <link rel="stylesheet" href="/css/flickity.css">
+    <link rel="stylesheet" href="/css/animate.css">
     <link
         href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
         rel="stylesheet">
@@ -64,14 +64,14 @@
     ?>
     <!------------------------footer end --------------------->
     <!-- script start -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/popper.min.js"></script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/popper.min.js"></script>
 
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.easing.min.js"></script>
-    <script src="js/SmoothScroll.js"></script>
-    <script src="js/readmore.js"></script>
-    <script src="js/script.js"></script>
-    <script src="js/parallax.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.easing.min.js"></script>
+    <script src="/js/SmoothScroll.js"></script>
+    <script src="/js/readmore.js"></script>
+    <script src="/js/script.js"></script>
+    <script src="/js/parallax.js"></script>
 </body>
 </html>
