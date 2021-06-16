@@ -43,8 +43,22 @@
     <?php 
      include 'header.php';
      ?>
-    Oops looks like this URL doesn't exist or the there's different for the same Page in different Languages, Naiviagte this Page in the respective website Language.
-    <!------------------------footer start --------------------->
+    <div class="section-padding-both-2x">
+        <div class="container" style="min-height: 70vh; display: flex; flex-direction: column; justify-content: space-evenly; text-align:center;">
+            <div style="font-size: 200px; font-weight: bold;">
+                Oops!
+                <div style="font-size: 50px;">
+                    404 - Page Not Found
+                </div>
+            </div>
+            <br/>
+            <div>
+            The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+            <br/>
+            Think it's a mistake? Please feel free to reach us out: <a href="mailto:info@tvarit.com">Email Us</a>
+            </div>
+        </div>
+    </div>    <!------------------------footer start --------------------->
     <?php
     include 'footer.php'
     ?>
