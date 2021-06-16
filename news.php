@@ -224,11 +224,6 @@
                 include 'change_we_brought.php';
                 ?>
     <!------------------------Countdown end --------------------->
-    <!------------------------Automated slide start --------------------->
-    <?php
-                include 'change_we_bring.php';
-                ?>
-    <!------------------------Automated slide end --------------------->
 
     <!------------------------ tvarit start --------------------->
     <div class="section-padding-both">

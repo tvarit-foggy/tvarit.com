@@ -174,29 +174,28 @@
                             <div class="col-lg-3 col d-flex">
                                 <ul class="ul-sub-menu sub-300">
                                     <li>
-                                        <a href="about#Vision" class="sub-Link">ÜBER UNS</a>
+                                        <a href="/de/about#Vision" class="sub-Link">ÜBER UNS</a>
                                     </li>
                                     <li>
-                                        <a class="sub-Link" href="career">KARRIERE</a>
+                                        <a class="sub-Link" href="/de/career">KARRIERE</a>
                                     </li>
                                     <li>
-                                        <a href="news" class="sub-Link">News</a>
+                                        <a href="/de/news" class="sub-Link">News</a>
                                     </li>
                                     <li>
-                                        <a class="sub-Link" href="contact">KONTAKT</a>
+                                        <a class="sub-Link" href="/de/contact">KONTAKT</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-lg-5 col">
                                 <ul class="ul-sub-menu sub-300">
                                     <li>
-                                        <a href="videos" class="sub-Link">Videos</a>
+                                        <a href="/de/videos" class="sub-Link">Videos</a>
                                     </li>
                                     <li>
-                                        <a href="blogs" class="sub-Link">Blogs</a>
+                                        <a href="/de/blogs" class="sub-Link">Blogs</a>
                                     </li>
-                                    <li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="#" class="sub-Link">FRAGEBOGEN</a>
                                         <ul class="ul-deep-menu">
                                             <li>
@@ -208,7 +207,7 @@
                                                     Product </a>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li> -->
                             </div>
                         </div>
                     </div>
