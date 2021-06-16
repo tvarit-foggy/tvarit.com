@@ -142,9 +142,7 @@ This is driven by:
                 ?>  
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php 
-                 include '../change_we_bring.php';
-                ?>
+    
     <!------------------------Automated slide end --------------------->
 
     <!------------------------ tvarit start --------------------->
