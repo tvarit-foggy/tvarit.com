@@ -1,4 +1,4 @@
-<div class="section-padding bringSlideSection">
+<!-- <div class="section-padding bringSlideSection">
     <div class="row align-items-center">
         <div class="col-md-6 pdn-l-col">
             <div class="title md-center-title">
@@ -85,4 +85,4 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->

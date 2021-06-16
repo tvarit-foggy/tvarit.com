@@ -470,9 +470,7 @@
         </div>
     </div>
     <!------------------------Automated slide start --------------------->
-    <?php
-    include 'change_we_bring.php'
-    ?>
+    
         <!------------------------Automated slide end --------------------->
 
     <div class="section-padding-both">

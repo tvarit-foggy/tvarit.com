@@ -1267,9 +1267,6 @@
                     </div>
                 </div>
             </div>
-            <?php 
-            include 'change_we_bring.php';
-            ?>
             <div id="ddr-95212974fd" class="ddr-page-widget ddr-page-widget__rich-text ddr-page-widget-1 ">
                         <div class="ddr-widget">
                             <div id="ddr-rich-text-901" class="ddr-widget__rich-text" style="margin: 30px; padding-bottom: 15px;">
