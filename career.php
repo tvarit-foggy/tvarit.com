@@ -101,7 +101,248 @@
 
             <div id="accordion">
               <!---->
-              <div class="card">
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
+                            aria-expanded="false" aria-controls="acccrdn1">
+                            Project Manager <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
+                        </a>
+                    </div>
+
+                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
+                            </p>
+                            <br>
+                            <h4>Job Details:</h4>
+                            <p class="text-p">
+                                We are looking for an experienced Project Manager for Partner Network for smooth execution of  projects  involving  partner  solutions.  He/she  would  need  to  coordinate  all stake  holder including partner technical team.
+                            </p>
+                            <br>
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Manages  scope,  resources  and  timeframes  effectively  to  meet  client  expectations profitably</li>
+                                <li>Engages the partner network effectively for project deliverables</li>
+                                <li>Creates  and  executes  project  work  plans  and  revises  as  appropriate  to  meet  changing needs and requirements</li>
+                                <li>Identifies resources needed and assigns individual responsibilities</li>
+                                <li>Manages day-to-day operational aspects of a project and scope</li>
+                                <li>Review's deliverables prepared by team before passing to client</li>
+                                <li>Effectively applies our methodology and enforces project standards</li>
+                                <li>Prepares for timely reviews and quality assurance procedures</li>
+                                <li>Minimizes risk on project</li>
+                                <li>Navigates  the  attitudes, preferences,  personalities  and  agendas  across  departments  & partners</li>
+                                <li>Ensures project documents are complete, current, and stored appropriately</li>
+                                <li>Tracks and reports team hours and expenses on a weekly basis</li>
+                                <li>Manages project budget</li>
+                            </ul>
+                            <br>
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li>Engineering  (Computers/Instrumentation/Electronics/Electrical),  PMI  (PMP)  or  Agile Certified</li>
+                                <li>5+ years -Software  Based  product  Development  (Industrial  Automation  or  Engineering Software Development)</li>
+                                <li>Strong Understanding of Software Development methodologies like Agile Good Technical understanding  of  challenges  in  manufacturing  and  IOT/Embedded  &  Data  Science Technologies</li>
+                                <li>Very  good  at  Documentation,  Problem  Solving  ability,  Strong  Verbal  and  non-verbal communication skills</li>
+                            </ul>
+
+                            <br>
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>Working for one of the technology leaders in Europe in one of the most innovative and promising areas Industry sectors</li>
+                                <li>Short decision-making paths and the opportunity to contribute and implement your own ideas</li>
+                                <li>Positive,  motivated  and  energetic  working  atmosphere in  a  team  with  experienced Digitization experts and long-term entrepreneurs</li>
+                                <li>Option to also work from Home</li>
+                                <li>Steep learning curve and opportunities for personal and professional training and further education</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai (India)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
+                            aria-expanded="false" aria-controls="acccrdn1">
+                            Senior Software Developer <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
+                        </a>
+                    </div>
+
+                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                              As a Senior Software Developer, you will work with a small but high energy team and help us to design and develop a scalable PaaS solution. You will ensure that we use the most suitable technologies and the right approach to turn customer requirements into generic features. You will work together with product management, designers and end-users to ensure product success.</p>
+                            <p class="text-p">You must have the ability to prioritize well, communicate clearly, have a consistent track record of delivery and excellent software engineering skills. You must be able to work across multiple facets of the project and juggle multiple responsibilities at the same time. Strong analytic capability and the ability to create innovative solutions. We are looking for a highly motivated individual who is looking to grow their career in a fast-paced environment.</p>
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Work together with product management, designers, and end-users to deliver new and improve existing solutions.</li>
+                                <li>Document and demonstrate solutions using easy to understand and visual manner.</li>
+                                <li>You own your code from ideation to development, and through QA and support.</li>
+                                <li>Write clean and well-tested and well-documented code.</li>
+                                <li>Improve existing solution and coach other software developers by sharing best practices.</li>
+                                <li>Stay on the leading edge of development tools and practices, passionate about open source.</li>
+                                <li>Make informed decisions quickly and take ownership of services and applications.</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                            <!--<li>Master's degree in in appropriate field of study</li>-->
+                            <li>Excellent programming skills in Python (2+ years of experience)</li>
+                            <li>3+ years of experience in software engineering</li>
+                            <li>Knowledge of agile software development processes and experience with development processes driven by regular code reviews.</li>
+                            <li>Understanding of software testing including static code analysis, unit testing etc.</li>
+                            <li>Are very comfortable with Linux systems and have extensive experience with bash scripting.</li>
+                            <li>Experience implementing and consuming large scale web services using SOAP and REST interfaces.</li>
+                            <li>Experience with database systems like MySQL, PostgreSQL, Influx DB.</li>
+                            <li>Understanding of modern cloud application development and distributed systems (e.g., with Docker, Kubernetes, microservices, Serverless).</li>
+                            <li>Experience orchestration tools like Apache Airflow and Apache NiFi.</li>
+                            <li>You are eager to learn and adapt to new technologies.</li>
+
+                            </ul>
+
+                            <br>
+                            <h4>Good to have:</h4>
+                            <ul class="ul-list">
+                                <li>Knowledge of Golang</li>
+                                <li>Knowledge of Big Data technologies like Spark, Flink etc.</li>
+                                <li>Experience leading a team of software developers.</li>
+                            </ul>
+                            <br>
+
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>We provide hands-on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
+                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams.</li>
+                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that
+                                    drives the organization and helps senior management taking data-driven business decisions.</li>
+                            </ul>
+                            <br>
+                            <h4>About Tvarit</h4>
+                            <p class="text-p">Industry 4.0 Market is expected to reach 152.31 Billion USD by 2022, at a CAGR of 14.72%. Germany, being the headquarter to the world’s leading manufacturing and automotive companies, is seen as a major contributor to Industry 4.0 innovations. The increasing adoption of the industrial Internet, increased focus on efficient production, single day plant shutdown costing millions of euro are the major drivers for the Industry 4.0 market.
+                                We, at Tvarit, envision to create AI for manufacturing and focus on the implementation of Industry 4.0 in the industrial equipment sector which helps manufacturers in analysing the machine conditions in advance to avoid unplanned downtime and wastage.</p>
+                            <p class="text-p">Based on technology, the market has been segmented into industrial robotics in smart factories, cybersecurity, advanced human-machine interface and artificial intelligence. The increasing use of industrial robotics in the automotive sector is also a major reason for this technology to have the largest market share in the market. Being an early mover in these segments, we have an advantage of tapping the huge potential in the manufacturing and automotive industry.</p>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai (India)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
+                            aria-expanded="false" aria-controls="acccrdn1">
+                            UI Designer <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
+                        </a>
+                    </div>
+
+                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
+                            </p>
+                            <br>
+                            <h4>Job Details:</h4>
+                            <p class="text-p">
+                                We are looking for a talented UI Designer to create amazing user experiences in the industrial AI domain. The ideal candidate should have an eye for clean and artful design, possess superior UI skills  and  be  able  to  translate  high-level requirements  into  interaction  flows  and  artifacts,  and transform  them  into  beautiful,  intuitive,  and  functional  user  interfaces.  (P.s.  We're  looking  to level up our interfaces to make them more futuristic)
+                            </p>
+                            <br>
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Collaborate  with  product  management  and  engineering  to  define  and  implement innovative solutions for the product direction, visuals and experience</li>
+                                <li>Execute all visual design stages from concept to final hand-off to engineering</li>
+                                <li>Conceptualize original ideas that bring simplicity and user friendliness to complex design roadblocks</li>
+                                <li>Establish  and  promote  design  guidelines,  best  practices  and  standards  across  the organisation</li>
+                                <li>Work with the product team to understand usage data & collaborate on UI iterations</li>
+                                <li>Tailor  visual  elements  based  on  the  user  persona (ours  vary  from  workers  on  the  shop floor to execs)</li>
+                            </ul>
+                            <br>
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li><b>Preferred Educational Background:</b> NID, Srishti School of Design, Industrial Design Centre (all of these are preferred, but not mandatory. It isn't a filter criteria, the skills are)</li>
+                                <li><b>Required Skills:</b> Mastery over a tool of choice for UI design (mockups)</li>
+                                <li><b>Preferred  Skills:</b> Graphic  Design  /  Illustration,  Motion  Graphic  Design  (for  neat  micro-interactions)</li>
+                                <li><b>Portfolio is a must:</b> Please share the portfolio and resume to enable efficient screening. Links to prior work would also be appreciated</li>
+                            </ul>
+
+                            <br>
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>Working for one of the technology leaders in Europe in one of the most innovative and promising areas Industry sectors</li>
+                                <li>Short decision-making paths and the opportunity to contribute and implement your own ideas</li>
+                                <li>Positive,  motivated  and  energetic  working  atmosphere in  a  team  with  experienced Digitization experts and long-term entrepreneurs</li>
+                                <li>Option to also work from Home</li>
+                                <li>Steep learning curve and opportunities for personal and professional training and further education</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai (India)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
+                            aria-expanded="false" aria-controls="acccrdn1">
+                            Big Data Architect <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
+                        </a>
+                    </div>
+
+                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
+                            </p>
+                            <br>
+                            <h4>Key responsibilities:</h4>
+                            <ul class="ul-list">
+                                <li>Meeting with customers to determine their data architecture requirements and providing customised solutions based on AWS/Azure</li>
+                                <li>Design  and  implement  robust  and  secure  cloud-based  data  intensive  architectures  and data models to extract, transform, load and processdata; and resolve technical problems as they arise</li>
+                                <li>Continuously  research  current  and  emerging  technologies  and  propose  changes  as required</li>
+                                <li>Assessing the business impact that certain technical choices have</li>
+                                <li>Educate   team   and   customers   in   data   architectureand   security   through   training workshops and individual support</li>
+                                <li>Develop relationship and coordinate with partners for on-premise data acquisition and ingestion setup</li>
+                                <li>Work with an agile team to develop and deliver the architecture</li>
+                                <li>Documentation of solutions (e.g., data models, configurations, and setup)</li>
+                            </ul>
+                            <br>
+                            <h4>Key Skills:</h4>
+                            <ul class="ul-list">
+                                <li>3+ year experience in design and implementation of big data cloud architectures</li>
+                                <li>3+ year experience in data modelling in both, SQL and NoSQL environments</li>
+                                <li>In-depth knowledge to develop Extract Transform Load (ETL) and stream processing and data structures using efficient programming standards and practices</li>
+                                <li>Basic knowledge of Hadoop, HDFS, PySpark, Hive, Kafka, shell scripting etc</li>
+                                <li>Demonstrate ability for technically leading the software projects through all stages of the life cycle, including responsibility for requirements capture, design, development and acceptance testing</li>
+                                <li>Proven ability in analysis for troubleshooting problems and problem-solving skills</li>
+                            </ul>
+                            <br>
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>Working for one of the technology leaders in Europe in one of the most innovative and promising areas Industry sectors</li>
+                                <li>Short decision-making paths and the opportunity to contribute and implement your own ideas</li>
+                                <li>Positive,  motivated  and  energetic  working  atmosphere in  a  team  with  experienced Digitization experts and long-term entrepreneurs</li>
+                                <li>Option to also work from Home</li>
+                                <li>Steep learning curve and opportunities for personal and professional training and further education</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai (India)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
                       <div class="card-header" id="hrmanage-post-title">
                           <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#hrmanage-post"
                               aria-expanded="false" aria-controls="backoffice-job">
@@ -325,77 +566,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
-                            aria-expanded="false" aria-controls="acccrdn1">
-                            Senior Software Developer <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
-                        </a>
-                    </div>
-
-                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                              As a Senior Software Developer, you will work with a small but high energy team and help us to design and develop a scalable PaaS solution. You will ensure that we use the most suitable technologies and the right approach to turn customer requirements into generic features. You will work together with product management, designers and end-users to ensure product success.</p>
-                            <p class="text-p">You must have the ability to prioritize well, communicate clearly, have a consistent track record of delivery and excellent software engineering skills. You must be able to work across multiple facets of the project and juggle multiple responsibilities at the same time. Strong analytic capability and the ability to create innovative solutions. We are looking for a highly motivated individual who is looking to grow their career in a fast-paced environment.</p>
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Work together with product management, designers, and end-users to deliver new and improve existing solutions.</li>
-                                <li>Document and demonstrate solutions using easy to understand and visual manner.</li>
-                                <li>You own your code from ideation to development, and through QA and support.</li>
-                                <li>Write clean and well-tested and well-documented code.</li>
-                                <li>Improve existing solution and coach other software developers by sharing best practices.</li>
-                                <li>Stay on the leading edge of development tools and practices, passionate about open source.</li>
-                                <li>Make informed decisions quickly and take ownership of services and applications.</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Your background:</h4>
-                            <ul class="ul-list">
-                            <!--<li>Master's degree in in appropriate field of study</li>-->
-                            <li>Excellent programming skills in Python (2+ years of experience)</li>
-                            <li>3+ years of experience in software engineering</li>
-                            <li>Knowledge of agile software development processes and experience with development processes driven by regular code reviews.</li>
-                            <li>Understanding of software testing including static code analysis, unit testing etc.</li>
-                            <li>Are very comfortable with Linux systems and have extensive experience with bash scripting.</li>
-                            <li>Experience implementing and consuming large scale web services using SOAP and REST interfaces.</li>
-                            <li>Experience with database systems like MySQL, PostgreSQL, Influx DB.</li>
-                            <li>Understanding of modern cloud application development and distributed systems (e.g., with Docker, Kubernetes, microservices, Serverless).</li>
-                            <li>Experience orchestration tools like Apache Airflow and Apache NiFi.</li>
-                            <li>You are eager to learn and adapt to new technologies.</li>
-
-                            </ul>
-
-                            <br>
-                            <h4>Good to have:</h4>
-                            <ul class="ul-list">
-                                <li>Knowledge of Golang</li>
-                                <li>Knowledge of Big Data technologies like Spark, Flink etc.</li>
-                                <li>Experience leading a team of software developers.</li>
-                            </ul>
-                            <br>
-
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>We provide hands-on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams.</li>
-                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that
-                                    drives the organization and helps senior management taking data-driven business decisions.</li>
-                            </ul>
-                            <br>
-                            <h4>About Tvarit</h4>
-                            <p class="text-p">Industry 4.0 Market is expected to reach 152.31 Billion USD by 2022, at a CAGR of 14.72%. Germany, being the headquarter to the world’s leading manufacturing and automotive companies, is seen as a major contributor to Industry 4.0 innovations. The increasing adoption of the industrial Internet, increased focus on efficient production, single day plant shutdown costing millions of euro are the major drivers for the Industry 4.0 market.
-                                We, at Tvarit, envision to create AI for manufacturing and focus on the implementation of Industry 4.0 in the industrial equipment sector which helps manufacturers in analysing the machine conditions in advance to avoid unplanned downtime and wastage.</p>
-                            <p class="text-p">Based on technology, the market has been segmented into industrial robotics in smart factories, cybersecurity, advanced human-machine interface and artificial intelligence. The increasing use of industrial robotics in the automotive sector is also a major reason for this technology to have the largest market share in the market. Being an early mover in these segments, we have an advantage of tapping the huge potential in the manufacturing and automotive industry.</p>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red">Location: Mumbai (India)</p>
-                        </div>
-                    </div>
-                </div>
+                
                 <!---->
 
                 <!---->
@@ -465,179 +636,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
-                            aria-expanded="false" aria-controls="acccrdn1">
-                            Project Manager <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
-                        </a>
-                    </div>
-
-                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
-                            </p>
-                            <br>
-                            <h4>Job Details:</h4>
-                            <p class="text-p">
-                                We are looking for an experienced Project Manager for Partner Network for smooth execution of  projects  involving  partner  solutions.  He/she  would  need  to  coordinate  all stake  holder including partner technical team.
-                            </p>
-                            <br>
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Manages  scope,  resources  and  timeframes  effectively  to  meet  client  expectations profitably</li>
-                                <li>Engages the partner network effectively for project deliverables</li>
-                                <li>Creates  and  executes  project  work  plans  and  revises  as  appropriate  to  meet  changing needs and requirements</li>
-                                <li>Identifies resources needed and assigns individual responsibilities</li>
-                                <li>Manages day-to-day operational aspects of a project and scope</li>
-                                <li>Review's deliverables prepared by team before passing to client</li>
-                                <li>Effectively applies our methodology and enforces project standards</li>
-                                <li>Prepares for timely reviews and quality assurance procedures</li>
-                                <li>Minimizes risk on project</li>
-                                <li>Navigates  the  attitudes, preferences,  personalities  and  agendas  across  departments  & partners</li>
-                                <li>Ensures project documents are complete, current, and stored appropriately</li>
-                                <li>Tracks and reports team hours and expenses on a weekly basis</li>
-                                <li>Manages project budget</li>
-                            </ul>
-                            <br>
-                            <h4>Your background:</h4>
-                            <ul class="ul-list">
-                                <li>Engineering  (Computers/Instrumentation/Electronics/Electrical),  PMI  (PMP)  or  Agile Certified</li>
-                                <li>5+ years -Software  Based  product  Development  (Industrial  Automation  or  Engineering Software Development)</li>
-                                <li>Strong Understanding of Software Development methodologies like Agile Good Technical understanding  of  challenges  in  manufacturing  and  IOT/Embedded  &  Data  Science Technologies</li>
-                                <li>Very  good  at  Documentation,  Problem  Solving  ability,  Strong  Verbal  and  non-verbal communication skills</li>
-                            </ul>
-
-                            <br>
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>Working for one of the technology leaders in Europe in one of the most innovative and promising areas Industry sectors</li>
-                                <li>Short decision-making paths and the opportunity to contribute and implement your own ideas</li>
-                                <li>Positive,  motivated  and  energetic  working  atmosphere in  a  team  with  experienced Digitization experts and long-term entrepreneurs</li>
-                                <li>Option to also work from Home</li>
-                                <li>Steep learning curve and opportunities for personal and professional training and further education</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red">Location: Mumbai (India)</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
-                            aria-expanded="false" aria-controls="acccrdn1">
-                            UI Designer <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
-                        </a>
-                    </div>
-
-                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
-                            </p>
-                            <br>
-                            <h4>Job Details:</h4>
-                            <p class="text-p">
-                                We are looking for a talented UI Designer to create amazing user experiences in the industrial AI domain. The ideal candidate should have an eye for clean and artful design, possess superior UI skills  and  be  able  to  translate  high-level requirements  into  interaction  flows  and  artifacts,  and transform  them  into  beautiful,  intuitive,  and  functional  user  interfaces.  (P.s.  We're  looking  to level up our interfaces to make them more futuristic)
-                            </p>
-                            <br>
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Collaborate  with  product  management  and  engineering  to  define  and  implement innovative solutions for the product direction, visuals and experience</li>
-                                <li>Execute all visual design stages from concept to final hand-off to engineering</li>
-                                <li>Conceptualize original ideas that bring simplicity and user friendliness to complex design roadblocks</li>
-                                <li>Establish  and  promote  design  guidelines,  best  practices  and  standards  across  the organisation</li>
-                                <li>Work with the product team to understand usage data & collaborate on UI iterations</li>
-                                <li>Tailor  visual  elements  based  on  the  user  persona (ours  vary  from  workers  on  the  shop floor to execs)</li>
-                            </ul>
-                            <br>
-                            <h4>Your background:</h4>
-                            <ul class="ul-list">
-                                <li><b>Preferred Educational Background:</b> NID, Srishti School of Design, Industrial Design Centre (all of these are preferred, but not mandatory. It isn't a filter criteria, the skills are)</li>
-                                <li><b>Required Skills:</b> Mastery over a tool of choice for UI design (mockups)</li>
-                                <li><b>Preferred  Skills:</b> Graphic  Design  /  Illustration,  Motion  Graphic  Design  (for  neat  micro-interactions)</li>
-                                <li><b>Portfolio is a must:</b> Please share the portfolio and resume to enable efficient screening. Links to prior work would also be appreciated</li>
-                            </ul>
-
-                            <br>
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>Working for one of the technology leaders in Europe in one of the most innovative and promising areas Industry sectors</li>
-                                <li>Short decision-making paths and the opportunity to contribute and implement your own ideas</li>
-                                <li>Positive,  motivated  and  energetic  working  atmosphere in  a  team  with  experienced Digitization experts and long-term entrepreneurs</li>
-                                <li>Option to also work from Home</li>
-                                <li>Steep learning curve and opportunities for personal and professional training and further education</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red">Location: Mumbai (India)</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
-                            aria-expanded="false" aria-controls="acccrdn1">
-                            Big Data Architect <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
-                        </a>
-                    </div>
-
-                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
-                            </p>
-                            <br>
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Meeting with customers to determine their data architecture requirements and providing customised solutions based on AWS/Azure</li>
-                                <li>Design  and  implement  robust  and  secure  cloud-based  data  intensive  architectures  and data models to extract, transform, load and processdata; and resolve technical problems as they arise</li>
-                                <li>Continuously  research  current  and  emerging  technologies  and  propose  changes  as required</li>
-                                <li>Assessing the business impact that certain technical choices have</li>
-                                <li>Educate   team   and   customers   in   data   architectureand   security   through   training workshops and individual support</li>
-                                <li>Develop relationship and coordinate with partners for on-premise data acquisition and ingestion setup</li>
-                                <li>Work with an agile team to develop and deliver the architecture</li>
-                                <li>Documentation of solutions (e.g., data models, configurations, and setup)</li>
-                            </ul>
-                            <br>
-                            <h4>Key Skills:</h4>
-                            <ul class="ul-list">
-                                <li>3+ year experience in design and implementation of big data cloud architectures</li>
-                                <li>3+ year experience in data modelling in both, SQL and NoSQL environments</li>
-                                <li>In-depth knowledge to develop Extract Transform Load (ETL) and stream processing and data structures using efficient programming standards and practices</li>
-                                <li>Basic knowledge of Hadoop, HDFS, PySpark, Hive, Kafka, shell scripting etc</li>
-                                <li>Demonstrate ability for technically leading the software projects through all stages of the life cycle, including responsibility for requirements capture, design, development and acceptance testing</li>
-                                <li>Proven ability in analysis for troubleshooting problems and problem-solving skills</li>
-                            </ul>
-                            <br>
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>Working for one of the technology leaders in Europe in one of the most innovative and promising areas Industry sectors</li>
-                                <li>Short decision-making paths and the opportunity to contribute and implement your own ideas</li>
-                                <li>Positive,  motivated  and  energetic  working  atmosphere in  a  team  with  experienced Digitization experts and long-term entrepreneurs</li>
-                                <li>Option to also work from Home</li>
-                                <li>Steep learning curve and opportunities for personal and professional training and further education</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="javascript://">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red">Location: Mumbai (India)</p>
-                        </div>
-                    </div>
-                </div>
-                <!---->
+            <!---->
             <!--/div-->
-
         </div>
     </div>
     <!------------------------ Automotives end --------------------->
