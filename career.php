@@ -102,14 +102,14 @@
             <div id="accordion">
               <!---->
                 <div class="card">
-                    <div class="card-header" id="headingOne">
+                    <div class="card-header" id="projectManager">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
                             Project Manager <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
-                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div id="acccrdn1" class="collapse" aria-labelledby="projectManager" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                                 Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
@@ -164,14 +164,14 @@
                     </div>
                 </div>
                 <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
-                            aria-expanded="false" aria-controls="acccrdn1">
+                    <div class="card-header" id="SSEng">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
+                            aria-expanded="false" aria-controls="acccrdn2">
                             Senior Software Developer <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
-                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div id="acccrdn2" class="collapse" aria-labelledby="SSEng" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                               As a Senior Software Developer, you will work with a small but high energy team and help us to design and develop a scalable PaaS solution. You will ensure that we use the most suitable technologies and the right approach to turn customer requirements into generic features. You will work together with product management, designers and end-users to ensure product success.</p>
@@ -235,14 +235,14 @@
                     </div>
                 </div>
                 <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
-                            aria-expanded="false" aria-controls="acccrdn1">
+                    <div class="card-header" id="UI/UX">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn3"
+                            aria-expanded="false" aria-controls="acccrdn3">
                             UI Designer <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
-                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div id="acccrdn3" class="collapse" aria-labelledby="UI/UX" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                                 Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
@@ -290,14 +290,14 @@
                     </div>
                 </div>
                 <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
-                            aria-expanded="false" aria-controls="acccrdn1">
+                    <div class="card-header" id="BDA">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
+                            aria-expanded="false" aria-controls="acccrdn4">
                             Big Data Architect <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
-                    <div id="acccrdn1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div id="acccrdn4" class="collapse" aria-labelledby="BDA" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                                 Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
@@ -407,13 +407,13 @@
               <!---->
                 <div class="card">
                     <div class="card-header" id="headingFour">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
-                            aria-expanded="false" aria-controls="acccrdn4">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn5"
+                            aria-expanded="false" aria-controls="acccrdn5">
                             Business Development Manager - Internship/Working Student (3-6 Months) <span style="font-weight:normal;">(Frankfurt Am Main)</span>
                         </a>
                     </div>
 
-                    <div id="acccrdn4" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                    <div id="acccrdn5" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                                 Tvarit GmbH strives to help companies in the manufacturing industry transform into Industry 4.0 with the use of its unique AI software. The AI software we have developed is the most modern complete solution to solve many of our customers' business problems. You are responsible for building and improving the company's market position and for financial growth. You will be involved in defining long-term strategic business goals, building key customer relationships, identifying business opportunities, negotiating and closing deals, and having a thorough understanding of current market conditions. You should have a strong growth mindset and work ethic.
@@ -573,13 +573,13 @@
                 <!---->
                 <div class="card">
                     <div class="card-header" id="headingSeven">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn7"
-                            aria-expanded="false" aria-controls="acccrdn1">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn"
+                            aria-expanded="false" aria-controls="acccrdn">
                             DIRECTOR - SOFTWARE DEVELOPMENT <span style="font-weight:normal">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
-                    <div id="acccrdn7" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
+                    <div id="acccrdn" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
                         <div class="card-body">
                             <h4>Job Description</h4>
                             <p class="text-p">As a Director of Software Development, you will work with a small but high energy team and help us to design and develop a scalable PaaS solution. You will ensure that we use the most suitable technologies and the right approach to turn customer requirements into generic features. You will work together with product management, designers and end-users to ensure product success. </p>
