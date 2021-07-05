@@ -105,7 +105,7 @@
                     <div class="card-header" id="projectManagerSaaS">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaaS"
                             aria-expanded="false" aria-controls="acccrdnSaaS">
-                            Project Manager - SaaS Offerings <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
+                            Product Manager - SaaS Offerings <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
