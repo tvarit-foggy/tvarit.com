@@ -101,11 +101,93 @@
 
             <div id="accordion">
               <!---->
+              <div class="card">
+                    <div class="card-header" id="projectManagerSaaS">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaaS"
+                            aria-expanded="false" aria-controls="acccrdnSaaS">
+                            Project Manager - SaaS Offerings <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
+                        </a>
+                    </div>
+
+                    <div id="acccrdnSaaS" class="collapse" aria-labelledby="projectManagerSaaS" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="text-p">
+                                Tvarit GmbH develops and delivers solutions in the field of artificial intelligence (AI) for the manufacturing, automotive and process industries to steer them towards high efficiency and sustainability. Through its software products, Tvarit enables companies to make intelligent, data-driven decisions that reduce the wastage of four critical resources – Materials, Machines, Money and People. 
+                            </p>
+                            <p class="text-p">
+                                Apart from servicing market leaders in the domain, Tvarit routinely collaborates with industrial experts & leading universities to take industrial AI to the next level. As a recipient of several renowned AI awards,(e.g. EU Horizon 2020), Tvarit is one of the most innovative AI companies in Europe.
+                            </p>
+                            <br>
+                            <h4>Job Details:</h4>
+                            <p class="text-p">
+                                We are looking for a talented Product Manager to deliver world-class experiences and facilitate the transition of manufacturing plants across the globe from guesswork to industrial AI assisted workflows.
+                            </p>
+                            <br>
+                            <h4>Key responsibilities:</h4>
+                            As the sole product manager at Tvarit, you'll be donning multiple hats:
+                            <ul class="ul-list">
+                                <li><b>Orchestrator</b> - ensuring alignment between multiple sub-units of the R&D and product innovation teams at Tvarit</li>
+                                <li><b>Keeper of Truth</b> - Given the fast pace of changes, ensuring all key decisions and information are documented & documentation guidelines are established across teams</li>
+                                <li><b>Articulation</b> - As a strong communicator, you would work with the C-Suite to communicate product propositions to prospective clients, collaborators and co-creation partners</li>
+                                <li><b>Owning the product suite</b> - you'd own all critical decisions around what features need to be built out, why, in which order and any geographical variations based on nuances you observe</li>
+                                <li><b>Adoption & Growth</b> - working closely with the implementation team to establish a product-market fit & then with sales & marketing to drive changes in KPIs</li>
+                                <li><b>Market research</b> - having a strong sense of how the industry is evolving across geographies of interest, including the changes in market share of various competitors</li>
+                                <li><b>User Research</b> - closely interact with clients & domain experts to generate rich insights that guide your product roadmap</li>
+                                <li><b>UX</b> - defining User Personas, user flows, information architecture and wireframes for the product suite</li>
+                            </ul>
+                            <br>
+                            <h4>Role Requirement:</h4>
+                                Since the industrial AI space is relatively nascent, Tvarit operates on a unique model of doing consultative implementations to generate relevant insights for creating a scalable SaaS offering. As the product manager, you'd play two crucial roles:
+                            <ul class="ul-list">
+                                <li><b>Observer</b> - Working with the R&D team in the initial 3-5 solution-based implementations for a new manufacturing domain that Tvarit ventures in to
+                                    <ul class="ul-list">
+                                        <li>
+                                            Make key observations about the processes and inefficiencies
+                                        </li>
+                                        <li>
+                                            Understand and define user personas
+                                        </li>
+                                        <li>
+                                            Consolidate insights into user stories
+                                        </li>
+                                        <li>
+                                            Conduct usability studies on the solutions delivered to refine the user journey
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><b>Innovator</b> - Once you have adequate insights from the first phase, you'll create a PRD along with user flows and wireframes; this phase will require working closely with the product development team to ensure alignment around the prioritisation of features along with delivery and adoption of the product. After this, your primary focus will shift to enhancing the product & driving adoption through data-analysis and user interviews</li>
+                            </ul>
+                            <br>
+                            <h4>Your background:</h4>
+                            <ul class="ul-list">
+                                <li><b>Preferred Experience:</b> 2+ years, B2B solutions</li>
+                                <li><b>Required Skills:</b> UX Research, Market research, strong articulation & communication skills, conflict management, stakeholder management, tools (JIRA, Confluence, Miro, Figma)</li>
+                                <li><b>Preferred Skills:</b> Pricing strategy</li>
+                                <li>You're thrilled about driving a zero to one and one to hundred growth journey over the course of the next 2-3 years in an underserved domain</li>
+                            </ul>
+                            <br>
+                            <h4>Our Team Culture:</h4>
+                            <ul class="ul-list">
+                                <li>Working for one of the technology leaders in Europe in one of the most innovative and promising areas Industry sectors</li>
+                                <li>Short decision-making paths and the opportunity to contribute and implement your own ideas</li>
+                                <li>Positive,  motivated  and  energetic  working  atmosphere in  a  team  with  experienced Digitization experts and long-term entrepreneurs</li>
+                                <li>Work from Home friendly</li>
+                                <li>Steep learning curve and opportunities for personal and professional training and further education</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                    href="javascript://">careers@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Mumbai (India)</p>
+                        </div>
+                    </div>
+                </div>
                 <div class="card">
                     <div class="card-header" id="projectManager">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
-                            Project Manager <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
+                            Project Manager - Partner Network <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
@@ -335,6 +417,7 @@
                             </ul>
                             <br>
                             <hr>
+                            <p class="red">Experience: 1+ years</p>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
                             <br>
