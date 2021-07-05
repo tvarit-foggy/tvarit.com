@@ -364,6 +364,7 @@
                             </ul>
                             <br>
                             <hr>
+                            <p class="red">Experience: 1+ years</p>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
                             <br>
@@ -417,7 +418,6 @@
                             </ul>
                             <br>
                             <hr>
-                            <p class="red">Experience: 1+ years</p>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
                             <br>
