@@ -160,7 +160,7 @@
 
                         <div class="container">
                             <h4 class="title title-name">Suhas Patel</h4>
-                            <h6 class="title">CEO & Data Strategy Expert</h6>
+                            <h6 class="title">Founder</h6>
                             <!-- <div class="col-md-12 " style="padding-right:0px"> -->
                                 <!-- <div class="row" style="margin-right: 0px;"> -->
                                     <!-- <div class="col-md-6 " style="padding-left:0px;"> -->
@@ -188,37 +188,13 @@
                 <div class="column">
                     <div class="card row-height-2">
                         <div class="card-view-image">
-                            <img src="img/juergen.jpeg" alt="Juergen" loading="lazy"
-                                style="width:100%; height:auto; border-radius: 50%;">
-                        </div>
-                        <div class="container">
-                            <h4 class="title title-name"> Juergen Halt</h4>
-                            <h6 class="title">R&D Director</h6>
-                            <div class="short-line-team bg-red"></div>
-                            <ul class="ul-list">
-                                <li>Business Transformation by utilizing R&D</li>
-                                <li>Brings huge experience from SAP and HP</li>
-                                <li>Research Background from Fraunhofer and Deutsche Forschungsgemeinschaft(DFG)</li>
-                            </ul>
-                            <div class="social-icon">
-
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="column">
-
-                    <div class="card row-height-2">
-                        <div class="card-view-image">
                             <!--<img src="img/rahul_circle.jpg" alt="Rahul" loading="lazy"
                                 style="width:100%; height:auto; border-radius: 50%;">-->
                                 <img src="img/rahul.jpg"  alt="Rahul Prajapati" loading="lazy" style="width:100%; height:auto; border-radius: 50%;">
                         </div>
                         <div class="container">
                             <h4 class="title title-name">Rahul Prajapat</h4>
-                            <h6 class="title">Chief Technical Officer</h6>
+                            <h6 class="title">Founder</h6>
                             <!-- <div class="col-md-12" style="padding-right:0px"> -->
                                 <!-- <div class="row" style="margin-right: 0px;"> -->
                                     <!-- <div class="col-md-12" style="padding-left:0px;"> -->
@@ -242,6 +218,29 @@
 
                         </div>
                     </div>
+                </div>
+                <div class="column">
+                    <div class="card row-height-2">
+                        <div class="card-view-image">
+                            <img src="img/juergen.jpeg" alt="Juergen" loading="lazy"
+                                style="width:100%; height:auto; border-radius: 50%;">
+                        </div>
+                        <div class="container">
+                            <h4 class="title title-name"> Juergen Halt</h4>
+                            <h6 class="title">R&D Director</h6>
+                            <div class="short-line-team bg-red"></div>
+                            <ul class="ul-list">
+                                <li>Business Transformation by utilizing R&D</li>
+                                <li>Brings huge experience from SAP and HP</li>
+                                <li>Research Background from Fraunhofer and Deutsche Forschungsgemeinschaft(DFG)</li>
+                            </ul>
+                            <div class="social-icon">
+
+                            </div>
+                        </div>
+
+                    </div>
+
                 </div>
                 <div class="column">
                     <div class="card row-height-2">
