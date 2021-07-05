@@ -160,7 +160,7 @@
 
                         <div class="container">
                             <h4 class="title title-name">Suhas Patel</h4>
-                            <h6 class="title">CEO & Data Strategy Expert</h6>
+                            <h6 class="title">Founder</h6>
                             <!-- <div class="col-md-12 " style="padding-right:0px"> -->
                                 <!-- <div class="row" style="margin-right: 0px;"> -->
                                     <!-- <div class="col-md-6 " style="padding-left:0px;"> -->
@@ -218,7 +218,7 @@
                         </div>
                         <div class="container">
                             <h4 class="title title-name">Rahul Prajapat</h4>
-                            <h6 class="title">Chief Technical Officer</h6>
+                            <h6 class="title">Founder</h6>
                             <!-- <div class="col-md-12" style="padding-right:0px"> -->
                                 <!-- <div class="row" style="margin-right: 0px;"> -->
                                     <!-- <div class="col-md-12" style="padding-left:0px;"> -->
