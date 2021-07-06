@@ -547,7 +547,7 @@
                     <div id="SDSPS" class="collapse" aria-labelledby="SDSPS" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
-                                As a continuously expanding and award-winning technology company in a fast-growing market, we are looking for a ‘Senior Data Scientist – Pre-Sales’ (m/f/d) to support our Technical Pre-Sales Team in Frankfurt. Apply now and become part of our motivated, highly qualified and agile team
+                                As a continuously expanding and award-winning technology company in a fast-growing market, we are looking for a ‘Senior Data Scientist – Pre-Sales’ (m/f/d) to support our Technical Pre-Sales Team in Frankfurt. Apply now and become part of our motivated, highly qualified and agile team.
                             </p>
                             <h4>Your tasks:</h4>
                             <ul class="ul-list">
