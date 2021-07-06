@@ -98,6 +98,61 @@
             <br>
             <div id="accordion">
               <!---->
+                <div class="card">
+                    <div class="card-header" id="SDS">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#SDSPS"
+                            aria-expanded="false" aria-controls="SDSPS">
+                            Senior Data Scientist – Pre-Sales <input value="New" class="btn btn-round btn-red-grd"> <span style="font-weight:normal;">(Frankfurt Am Main)</span>
+                        </a>
+                    </div>
+
+                    <div id="SDSPS" class="collapse" aria-labelledby="SDS" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="ul-list">
+                                As a continuously expanding and award-winning technology company in a fast-growing market, we are looking for a ‘Senior Data Scientist – Pre-Sales’ (m/f/d) to support our Technical Pre-Sales Team in Frankfurt. Apply now and become part of our motivated, highly qualified and agile team.
+                            </p>
+                            <h4>Your tasks:</h4>
+                            <ul class="ul-list">
+                                <li>Work with manufacturing plants, understanding various problems and failures in different kinds of manufacturing process (such as maintenance, quality issues, high energy issues, production planning issues etc) and use AI to solve these challenges</li>
+                                <li>Define clear set of requirements from the client for successful project implementation</li>
+                                <li>Project Management & technical face to the client</li>
+                                <li>Preparing pre-sales technical pitches for customer calls</li>
+                                <li>Business level German speaking support in customer meetings before closing the deal</li>
+                                <li>Provide input for technical related marketing material/blogs</li>
+                                <li>Search for the latest research papers as per use case and develop Proof-of-Concepts using data science modules</li>
+                                <li>Develop & present evaluation techniques to gauge the performance and accuracy of the AI models</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>What you must bring:</h4>
+                            <ul class="ul-list">
+                                <li>Hands on experience in Python and ML/DL algorithms is a must. Degree in data science is a plus</li>
+                                <li>You have one to three years of experience in manufacturing companies</li>
+                                <li>You have a good understanding of industrial manufacturing processes and typical issues that occur within them (such as scrap, machine breakdowns)</li>
+                                <li>You have a professional demeanour, a results-oriented approach and a quick grasp; you find it easy to quickly understand and comprehend complex issues</li>
+                                <li>Very good German and English skills</li>
+                            </ul>
+
+                            <br>
+
+                             <h4>What we offer you:</h4>
+                            <ul class="ul-list">
+                                <li>Become part of one of the technology leaders in Europe (awarded by the EU Commission) in one of the most innovative and future-oriented industries</li>
+                                <li>Contribute your own ideas as an integral part of our international team and actively shape the future of our company with short decision-making paths</li>
+                                <li>Attractive remuneration, flexible working hours, home office and a great deal of freedom and personal responsibility</li>
+                                <li>Positive and energetic working atmosphere in a team with experienced digitalization experts and long-time entrepreneurs driven by our enthusiasm for innovation and artificial intelligence</li>
+                                <li>Modern office in Frankfurt's city centre</li>
+                            </ul>
+                            <br>
+                            <hr>
+                            <p class="red">Did we spark your interest? Then send us your application and your résumé to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Senior Data Scientist – Pre-Sales”</p>
+                            <br>
+                            <p class="red">Location: Frankfurt am Main</p>
+                            <p class="red">Start: Immediately</p>
+                        </div>
+                    </div>
+                </div>
               <div class="card">
                     <div class="card-header" id="projectManagerSaaS">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaaS"
@@ -533,61 +588,6 @@
                             <p class="red">Did we spark your interest? Then send us your application and your résumé to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Internship / working student”</p>
                             <br>
                             <p class="red">Location: Frankfurt am Main</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="SDSPS">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#SDSPS"
-                            aria-expanded="false" aria-controls="SDSPS">
-                            Senior Data Scientist – Pre-Sales <span style="font-weight:normal;">(Frankfurt Am Main)</span>
-                        </a>
-                    </div>
-
-                    <div id="SDSPS" class="collapse" aria-labelledby="SDSPS" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                As a continuously expanding and award-winning technology company in a fast-growing market, we are looking for a ‘Senior Data Scientist – Pre-Sales’ (m/f/d) to support our Technical Pre-Sales Team in Frankfurt. Apply now and become part of our motivated, highly qualified and agile team.
-                            </p>
-                            <h4>Your tasks:</h4>
-                            <ul class="ul-list">
-                                <li>Work with manufacturing plants, understanding various problems and failures in different kinds of manufacturing process (such as maintenance, quality issues, high energy issues, production planning issues etc) and use AI to solve these challenges</li>
-                                <li>Define clear set of requirements from the client for successful project implementation</li>
-                                <li>Project Management & technical face to the client</li>
-                                <li>Preparing pre-sales technical pitches for customer calls</li>
-                                <li>Business level German speaking support in customer meetings before closing the deal</li>
-                                <li>Provide input for technical related marketing material/blogs</li>
-                                <li>Search for the latest research papers as per use case and develop Proof-of-Concepts using data science modules</li>
-                                <li>Develop & present evaluation techniques to gauge the performance and accuracy of the AI models</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>What you must bring:</h4>
-                            <ul class="ul-list">
-                                <li>Hands on experience in Python and ML/DL algorithms is a must. Degree in data science is a plus</li>
-                                <li>You have one to three years of experience in manufacturing companies</li>
-                                <li>You have a good understanding of industrial manufacturing processes and typical issues that occur within them (such as scrap, machine breakdowns)</li>
-                                <li>You have a professional demeanour, a results-oriented approach and a quick grasp; you find it easy to quickly understand and comprehend complex issues</li>
-                                <li>Very good German and English skills</li>
-                            </ul>
-
-                            <br>
-
-                             <h4>What we offer you:</h4>
-                            <ul class="ul-list">
-                                <li>Become part of one of the technology leaders in Europe (awarded by the EU Commission) in one of the most innovative and future-oriented industries</li>
-                                <li>Contribute your own ideas as an integral part of our international team and actively shape the future of our company with short decision-making paths</li>
-                                <li>Attractive remuneration, flexible working hours, home office and a great deal of freedom and personal responsibility</li>
-                                <li>Positive and energetic working atmosphere in a team with experienced digitalization experts and long-time entrepreneurs driven by our enthusiasm for innovation and artificial intelligence</li>
-                                <li>Modern office in Frankfurt's city centre</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">Did we spark your interest? Then send us your application and your résumé to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Senior Data Scientist – Pre-Sales”</p>
-                            <br>
-                            <p class="red">Location: Frankfurt am Main</p>
-                            <p class="red">Start: Immediately</p>
                         </div>
                     </div>
                 </div>
