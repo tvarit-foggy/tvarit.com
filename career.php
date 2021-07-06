@@ -102,7 +102,7 @@
                     <div class="card-header" id="SDS">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#SDSPS"
                             aria-expanded="false" aria-controls="SDSPS">
-                            Senior Data Scientist – Pre-Sales <input value="New" class="btn btn-round btn-red-grd"> <span style="font-weight:normal;">(Frankfurt Am Main)</span>
+                            Senior Data Scientist – Pre-Sales <span style="font-weight:normal;">(Frankfurt Am Main)</span> &nbsp;<input value="New" style="width: 80px; height:10px;" class="btn btn-round btn-red-grd"> 
                         </a>
                     </div>
 
