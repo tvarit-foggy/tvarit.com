@@ -58,27 +58,27 @@
             animation: glowing 1500ms infinite;
         }
         @-webkit-keyframes glowing {
-          0% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
-          50% { background-color: #FF0000; -webkit-box-shadow: 0 0 40px #FF0000; }
-          100% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
+          0% { background-color: #FFC0CB; -webkit-box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; -webkit-box-shadow: 0 0 40px #FF1493; }
+          100% { background-color: #FFC0CB; -webkit-box-shadow: 0 0 3px #FFC0CB; }
         }
         
         @-moz-keyframes glowing {
-          0% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
-          50% { background-color: #FF0000; -moz-box-shadow: 0 0 40px #FF0000; }
-          100% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
+          0% { background-color: #FFC0CB; -moz-box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; -moz-box-shadow: 0 0 40px #FF1493; }
+          100% { background-color: #FFC0CB; -moz-box-shadow: 0 0 3px #FFC0CB; }
         }
         
         @-o-keyframes glowing {
-          0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
-          50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
-          100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+          0% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; box-shadow: 0 0 40px #FF1493; }
+          100% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
         }
 
         @keyframes glowing {
-          0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
-          50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
-          100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+          0% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; box-shadow: 0 0 40px #FF1493; }
+          100% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
         }
     </style>
 </head>
