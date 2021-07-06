@@ -50,7 +50,37 @@
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
+    <style>
+        #flashButton{
+            -webkit-animation: glowing 1500ms infinite;
+            -moz-animation: glowing 1500ms infinite;
+            -o-animation: glowing 1500ms infinite;
+            animation: glowing 1500ms infinite;
+        }
+        @-webkit-keyframes glowing {
+          0% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
+          50% { background-color: #FF0000; -webkit-box-shadow: 0 0 40px #FF0000; }
+          100% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
+        }
+        
+        @-moz-keyframes glowing {
+          0% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
+          50% { background-color: #FF0000; -moz-box-shadow: 0 0 40px #FF0000; }
+          100% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
+        }
+        
+        @-o-keyframes glowing {
+          0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+          50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
+          100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+        }
 
+        @keyframes glowing {
+          0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+          50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
+          100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+        }
+    </style>
 </head>
 
 <body>
@@ -102,7 +132,7 @@
                     <div class="card-header" id="SDS">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#SDSPS"
                             aria-expanded="false" aria-controls="SDSPS">
-                            Senior Data Scientist – Pre-Sales <span style="font-weight:normal;">(Frankfurt Am Main)</span> &nbsp;<input value="New" style="width: 80px; height:10px;" class="btn btn-round btn-red-grd"> 
+                            Senior Data Scientist – Pre-Sales <span style="font-weight:normal;">(Frankfurt Am Main)</span> &nbsp;<input id="flashButton" value="New" style="width: 80px; height:10px;" class="btn btn-round btn-red-grd"> 
                         </a>
                     </div>
 
