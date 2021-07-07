@@ -265,7 +265,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="card">
+                <!-- <div class="card">
                     <div class="card-header" id="projectManager">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
                             aria-expanded="false" aria-controls="acccrdn1">
@@ -326,7 +326,7 @@
                             <p class="red">Location: Mumbai (India)</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="card">
                     <div class="card-header" id="SSEng">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
