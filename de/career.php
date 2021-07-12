@@ -50,7 +50,37 @@
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
+    <style>
+        #flashButton{
+            -webkit-animation: glowing 1500ms infinite;
+            -moz-animation: glowing 1500ms infinite;
+            -o-animation: glowing 1500ms infinite;
+            animation: glowing 1500ms infinite;
+        }
+        @-webkit-keyframes glowing {
+          0% { background-color: #FFC0CB; -webkit-box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; -webkit-box-shadow: 0 0 20px #FF1493; }
+          100% { background-color: #FFC0CB; -webkit-box-shadow: 0 0 3px #FFC0CB; }
+        }
+        
+        @-moz-keyframes glowing {
+          0% { background-color: #FFC0CB; -moz-box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; -moz-box-shadow: 0 0 20px #FF1493; }
+          100% { background-color: #FFC0CB; -moz-box-shadow: 0 0 3px #FFC0CB; }
+        }
+        
+        @-o-keyframes glowing {
+          0% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; box-shadow: 0 0 20px #FF1493; }
+          100% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+        }
 
+        @keyframes glowing {
+          0% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; box-shadow: 0 0 20px #FF1493; }
+          100% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+        }
+    </style>
 </head>
 
 <body>
