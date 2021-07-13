@@ -280,7 +280,7 @@
                             <br>
                             <h4>Job Details:</h4>
                             <p class="text-p">
-                                We  are  looking  for  an  experienced AI Project Managerfor the  day-to-day  management  of  one  or  more Data  Science  projects.  You  may  also  manage  Project Coordinator(s)  assisting  with  projects.  The  role requires  class-leading  customer  engagement  involving  strong  written  and  verbal  communication  skills, ability  to  empathize  with  and  respond  to  customers'  needs,  problem-solving  skills  and  the  ability  to function effectively in a fast-moving, rapidly changing environment. Collaboration with multi-location and cross-functional teams will be key to maintain and improve customer satisfaction, revenue and margin.
+                                We  are  looking  for  an  experienced AI Project Manager for the  day-to-day  management  of  one  or  more Data  Science  projects.  You  may  also  manage  Project Coordinator(s)  assisting  with  projects.  The  role requires  class-leading  customer  engagement  involving  strong  written  and  verbal  communication  skills, ability  to  empathize  with  and  respond  to  customers'  needs,  problem-solving  skills  and  the  ability  to function effectively in a fast-moving, rapidly changing environment. Collaboration with multi-location and cross-functional teams will be key to maintain and improve customer satisfaction, revenue and margin.
                             </p>
                             <br>
                             <h4>Key responsibilities:</h4>
@@ -331,12 +331,12 @@
                                 <li>Steep learning curve and opportunities for personal and professional training and further education</li>
                             </ul>
                             <br>
+                            <p class="red">Experience: 3+  years  in  Software  Based  Product  Development  Company,  1+  years  in  AI  Project Management</p>
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
                             <br>
                             <p class="red">Location: Mumbai (India)</p>
-                            <p class="red">Experience: 3+  years  in  Software  Based  Product  Development  Company,  1+  years  in  AI  Project Management</p>
                         </div>
                     </div>
                 </div>
