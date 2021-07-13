@@ -50,7 +50,37 @@
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
+    <style>
+        #flashButton{
+            -webkit-animation: glowing 1500ms infinite;
+            -moz-animation: glowing 1500ms infinite;
+            -o-animation: glowing 1500ms infinite;
+            animation: glowing 1500ms infinite;
+        }
+        @-webkit-keyframes glowing {
+          0% { background-color: #FFC0CB; -webkit-box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; -webkit-box-shadow: 0 0 20px #FF1493; }
+          100% { background-color: #FFC0CB; -webkit-box-shadow: 0 0 3px #FFC0CB; }
+        }
+        
+        @-moz-keyframes glowing {
+          0% { background-color: #FFC0CB; -moz-box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; -moz-box-shadow: 0 0 20px #FF1493; }
+          100% { background-color: #FFC0CB; -moz-box-shadow: 0 0 3px #FFC0CB; }
+        }
+        
+        @-o-keyframes glowing {
+          0% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; box-shadow: 0 0 20px #FF1493; }
+          100% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+        }
 
+        @keyframes glowing {
+          0% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+          50% { background-color: #FF1493; box-shadow: 0 0 20px #FF1493; }
+          100% { background-color: #FFC0CB; box-shadow: 0 0 3px #FFC0CB; }
+        }
+    </style>
 </head>
 
 <body>
@@ -100,6 +130,64 @@
             <br>
 
             <div id="accordion">
+                <!-- <div class="card">
+                    <div class="card-header" id="SDS">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#SDSPS"
+                            aria-expanded="false" aria-controls="SDSPS">
+                            Pre-Sales Data Science Expert - VOLL ZEIT (m/w/d) &nbsp;<input id="flashButton" value="New" style="width: 80px; height:10px;" class="btn btn-round btn-red-grd"> 
+                        </a>
+                    </div>
+
+                    <div id="SDSPS" class="collapse" aria-labelledby="SDS" data-parent="#accordion">
+                        <div class="card-body">
+                            <p class="ul-list">
+                            Als stetig expandierendes und mehrfach ausgezeichnetes Technologieunternehmen in einem stark wachsenden Markt, suchen wir einen ‘Pre-Sales Data Science Expert' (m/w/d) zur Unterstützung unseres Technical Pre-Sales Teams in Frankfurt. Bewirb Dich jetzt und werde Teil unseres motivierten, hochqualifizierten und agilen Teams.
+                            </p>
+                            <h4>Deine Aufgaben:</h4>
+                            <ul class="ul-list">
+                                <li>Arbeit mit Fertigungskunden, Verständnis für verschiedene Probleme und Fehler in unterschiedlichen Arten von Fertigungsprozessen und Einsatz von KI zur Lösung dieser Herausforderungen</li>
+                                <li>Definition einer Reihe von Anforderungen des Kunden für eine erfolgreiche Projektimplementierung</li>
+                                <li>Projektmanagement und technischer Ansprechpartner für den Kunden</li>
+                                <li>Vorbereitung von technischen Pitches vor dem Verkauf für Kundengespräche</li>
+                                <li>Deutschsprachige Unterstützung bei technischen Besprechungen vor Abschluss des Kunden</li>
+                                <li>Bereitstellung von Input für technikbezogenes Marketingmaterial/Blogs</li>
+                                <li>Definition der Anforderungen des Kunden für eine erfolgreiche Projektumsetzung</li>
+                                <li>Durchführung von Literaturrecherchen und Erstellung von Projektvorschlägen für Forschungsproblemstellungen</li>
+                                <li>Recherche nach den neuesten Forschungsergebnissen je nach Anwendungsfall und ideieren Sie Proof-of-Concepts mit Data-Science-Modulen</li>
+                                <li>Entwickeln von Evaluationstechniken, um die Leistung des AI-Projekts zu messen</li>
+                            </ul>
+
+                            <br>
+
+                            <h4>Was du mitbringst:</h4>
+                            <ul class="ul-list">
+                                <li>Hands on experience in Python and ML/DL algorithms is a must. Degree in data science is a plus</li>
+                                <li>You have one to three years of experience in manufacturing companies with a good understanding of industrial manufacturing processes and typical issues that occur within them (such as scrap, machine breakdowns)</li>
+                                <li>You have a professional demeanour, a results-oriented approach and a quick grasp; you find it easy to quickly understand and comprehend complex issues</li>
+                                <li>Very good German and English skills</li>
+                            </ul>
+
+                            <br>
+
+                             <h4>Das bieten wir Dir:</h4>
+                                <ul class="ul-list">
+                                    <li>Werde Teil einer der Technologieführer in Europa (ausgezeichnet durch die EU-Kommission) in einer der innovativsten und zukunftsträchtigen Branchen</li>
+                                    <li>Bringe Dich als festen Bestandteil unseres internationalen Teams mit eigenen Ideen ein und gestalte die Zukunft unseres Unternehmens bei kurzen Entscheidungswegen aktiv mit</li>
+                                    <li>Attraktive Vergütung, flexible Arbeitszeiten, Home-Office und großes Maß an Freiheit und Eigenverantwortung</li>
+                                    <li>Stets positive und energetische Arbeitsatmosphäre im Team mit erfahrenen Digitalisierungsexperten und langjährigen Unternehmern getrieben durch unsere Begeisterung für Innovation und künstliche Intelligenz</li>
+                                    <li>Steile Lernkurve und Möglichkeiten für persönliche und professionelle Fort- und Weiterbildung</li>
+                                    <li>Modernes, lichtdurchflutetes Büro in der Frankfurter Innenstadt</li>
+                                </ul>
+                            <br>
+                            <hr>
+                            <p class="ul-list">Bei Interesse, bitte eine Bewerbung mit Lebenslauf an <a
+                                    href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a></p>
+                            <br>
+                            <p class="red">Location: Frankfurt am Main</p>
+                            <p class="red">Start: Ab sofort</p>
+                        </div>
+                    </div>
+                </div> -->
                 <div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaleMang"
