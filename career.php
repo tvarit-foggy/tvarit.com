@@ -132,14 +132,14 @@
                     <div class="card-header" id="SDS">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#SDSPS"
                             aria-expanded="false" aria-controls="SDSPS">
-                            Senior Data Scientist – Pre-Sales <span style="font-weight:normal;">(Frankfurt Am Main)</span> &nbsp;<input id="flashButton" value="New" style="width: 80px; height:10px;" class="btn btn-round btn-red-grd"> 
+                            Pre-Sales Data Science Expert <span style="font-weight:normal;">(Frankfurt Am Main)</span> &nbsp;<input id="flashButton" value="New" style="width: 80px; height:10px;" class="btn btn-round btn-red-grd"> 
                         </a>
                     </div>
 
                     <div id="SDSPS" class="collapse" aria-labelledby="SDS" data-parent="#accordion">
                         <div class="card-body">
                             <p class="ul-list">
-                                As a continuously expanding and award-winning technology company in a fast-growing market, we are looking for a ‘Senior Data Scientist – Pre-Sales’ (m/f/d) to support our Technical Pre-Sales Team in Frankfurt. Apply now and become part of our motivated, highly qualified and agile team.
+                                As a continuously expanding and award-winning technology company in a fast-growing market, we are looking for a ‘Pre-Sales Data Science Expert’ (m/f/d) to support our Technical Pre-Sales Team in Frankfurt. Apply now and become part of our motivated, highly qualified and agile team.
                             </p>
                             <h4>Your tasks:</h4>
                             <ul class="ul-list">
@@ -158,8 +158,7 @@
                             <h4>What you must bring:</h4>
                             <ul class="ul-list">
                                 <li>Hands on experience in Python and ML/DL algorithms is a must. Degree in data science is a plus</li>
-                                <li>You have one to three years of experience in manufacturing companies</li>
-                                <li>You have a good understanding of industrial manufacturing processes and typical issues that occur within them (such as scrap, machine breakdowns)</li>
+                                <li>You have one to three years of experience in manufacturing companies with a good understanding of industrial manufacturing processes and typical issues that occur within them (such as scrap, machine breakdowns)</li>
                                 <li>You have a professional demeanour, a results-oriented approach and a quick grasp; you find it easy to quickly understand and comprehend complex issues</li>
                                 <li>Very good German and English skills</li>
                             </ul>
@@ -176,7 +175,7 @@
                             </ul>
                             <br>
                             <hr>
-                            <p class="red">Did we spark your interest? Then send us your application and your résumé to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Senior Data Scientist – Pre-Sales”</p>
+                            <p class="red">Did we spark your interest? Then send us your application and your résumé to <a href="mailto:careers.de@tvarit.com">careers.de@tvarit.com</a> with the subject “Pre-Sales Data Science Expert”</p>
                             <br>
                             <p class="red">Location: Frankfurt am Main</p>
                             <p class="red">Start: Immediately</p>
@@ -184,14 +183,14 @@
                     </div>
                 </div>
               <div class="card">
-                    <div class="card-header" id="projectManagerSaaS">
+                    <div class="card-header" id="productManagerSaaS">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnSaaS"
                             aria-expanded="false" aria-controls="acccrdnSaaS">
                             Product Manager - SaaS Offerings <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
-                    <div id="acccrdnSaaS" class="collapse" aria-labelledby="projectManagerSaaS" data-parent="#accordion">
+                    <div id="acccrdnSaaS" class="collapse" aria-labelledby="productManagerSaaS" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                                 Tvarit GmbH develops and delivers solutions in the field of artificial intelligence (AI) for the manufacturing, automotive and process industries to steer them towards high efficiency and sustainability. Through its software products, Tvarit enables companies to make intelligent, data-driven decisions that reduce the wastage of four critical resources – Materials, Machines, Money and People. 
@@ -265,15 +264,15 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="card">
-                    <div class="card-header" id="projectManager">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn1"
-                            aria-expanded="false" aria-controls="acccrdn1">
-                            Project Manager - Partner Network <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
+                <div class="card">
+                    <div class="card-header" id="projectManagerAI">
+                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnAIPM"
+                            aria-expanded="false" aria-controls="acccrdnAIPM">
+                            AI Project Manager <span style="font-weight:normal;">(MUMBAI - INDIA)</span>
                         </a>
                     </div>
 
-                    <div id="acccrdn1" class="collapse" aria-labelledby="projectManager" data-parent="#accordion">
+                    <div id="acccrdnAIPM" class="collapse" aria-labelledby="projectManagerAI" data-parent="#accordion">
                         <div class="card-body">
                             <p class="text-p">
                                 Tvarit GmbH  develops  and  delivers  solutions  in  the  field  of  artificial  intelligence  (AI)  for  the Manufacturing, automotive and process industries. With its software products, Tvarit makes it possible to its  customers  to  make  intelligent  and  well-founded  decisions,  e.g.,in  the  forward-looking Maintenance, increasing the OEE and predictive quality. We have renowned reference customers, a competent technology, a well research team from renowned Universities and the award of renowned AI prize(e.g. EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe. We are looking for a self-motivated person with a positive "can-do" attitude and excellent oral and written communication skills in English. 
@@ -281,32 +280,45 @@
                             <br>
                             <h4>Job Details:</h4>
                             <p class="text-p">
-                                We are looking for an experienced Project Manager for Partner Network for smooth execution of  projects  involving  partner  solutions.  He/she  would  need  to  coordinate  all stake  holder including partner technical team.
+                                We  are  looking  for  an  experienced AI Project Manager for the  day-to-day  management  of  one  or  more Data  Science  projects.  You  may  also  manage  Project Coordinator(s)  assisting  with  projects.  The  role requires  class-leading  customer  engagement  involving  strong  written  and  verbal  communication  skills, ability  to  empathize  with  and  respond  to  customers'  needs,  problem-solving  skills  and  the  ability  to function effectively in a fast-moving, rapidly changing environment. Collaboration with multi-location and cross-functional teams will be key to maintain and improve customer satisfaction, revenue and margin.
                             </p>
                             <br>
                             <h4>Key responsibilities:</h4>
                             <ul class="ul-list">
-                                <li>Manages  scope,  resources  and  timeframes  effectively  to  meet  client  expectations profitably</li>
-                                <li>Engages the partner network effectively for project deliverables</li>
-                                <li>Creates  and  executes  project  work  plans  and  revises  as  appropriate  to  meet  changing needs and requirements</li>
-                                <li>Identifies resources needed and assigns individual responsibilities</li>
-                                <li>Manages day-to-day operational aspects of a project and scope</li>
-                                <li>Review's deliverables prepared by team before passing to client</li>
-                                <li>Effectively applies our methodology and enforces project standards</li>
-                                <li>Prepares for timely reviews and quality assurance procedures</li>
-                                <li>Minimizes risk on project</li>
-                                <li>Navigates  the  attitudes, preferences,  personalities  and  agendas  across  departments  & partners</li>
-                                <li>Ensures project documents are complete, current, and stored appropriately</li>
-                                <li>Tracks and reports team hours and expenses on a weekly basis</li>
-                                <li>Manages project budget</li>
+                                <li>While working with our local and offshore teams, plan and monitor projects to meet deadlines, quality and budget requirements</li>
+                                <li>Develop a detailed project plan to monitor and track progress</li>
+                                <li>Communicate client deliverables, project plans, conducts client meetings, obtains required client sign off, client acceptance and billing</li>
+                                <li>Focus on continuous improvements and cost saving measures</li>
+                                <li>Recognize customer needs and proactively focus on fulfilling these needs through innovative thinking and collaboration with internal technical, production, quality and management teams</li>
+                                <li>Own and maintain project financials, including revenue recognition, revenue forecasting and customer billing</li>
+                                <li>Collaborate with internal teams to initiate and implement procedural changes and customized workflows</li>
+                                <li>Handle development, integration and testing activities, including analysis, client communications and presentations</li>
+                                <li>Involve in pre-sales activities like demos, statement of work preparation</li>
+                                <li>Review customer satisfaction regularly</li>
+                                <li>Optimization through automation provide innovative solutions to improve processes</li>
                             </ul>
                             <br>
                             <h4>Your background:</h4>
                             <ul class="ul-list">
-                                <li>Engineering  (Computers/Instrumentation/Electronics/Electrical),  PMI  (PMP)  or  Agile Certified</li>
-                                <li>5+ years -Software  Based  product  Development  (Industrial  Automation  or  Engineering Software Development)</li>
-                                <li>Strong Understanding of Software Development methodologies like Agile Good Technical understanding  of  challenges  in  manufacturing  and  IOT/Embedded  &  Data  Science Technologies</li>
-                                <li>Very  good  at  Documentation,  Problem  Solving  ability,  Strong  Verbal  and  non-verbal communication skills</li>
+                                <li><b>Educational Background:</b> BE/BTech in Computers, IT, MBA</li>
+                                <li><b>Required skills:</b>
+                                    <ul>
+                                        <li>Experience  in  projects  involving  Analytics,  solutions  development  &  implementation comprising  of  big-data,  cloud,  NoSQL,  Machine  Learning  technologies  and  DevOps processes such as CI/CD, Containerization tools and technologies</li>
+                                        <li>General Knowledge of CRISP-DM</li>
+                                        <li>Agile Project Management</li>
+                                        <li>Must have AI experience</li>
+                                    </ul>
+                                </li>
+                                <li><b>Preferred skills:</b>
+                                    <ul>
+                                        <li>
+                                            PMI certifications or equivalent in Project Management, Agile Methodologies. Experience in Agile tools like Jira
+                                        </li>
+                                        <li>
+                                            Experience with Time series data analysis projects
+                                        </li>
+                                    </ul>
+                                </li>
                             </ul>
 
                             <br>
@@ -319,6 +331,7 @@
                                 <li>Steep learning curve and opportunities for personal and professional training and further education</li>
                             </ul>
                             <br>
+                            <p class="red">Experience: 3+  years  in  Software  Based  Product  Development  Company,  1+  years  in  AI  Project Management</p>
                             <hr>
                             <p class="red">To apply, please send an email, including your resume as an attachment, to <a
                                     href="javascript://">careers@tvarit.com</a></p>
@@ -326,7 +339,7 @@
                             <p class="red">Location: Mumbai (India)</p>
                         </div>
                     </div>
-                </div> -->
+                </div>
                 <div class="card">
                     <div class="card-header" id="SSEng">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
@@ -507,67 +520,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                      <div class="card-header" id="hrmanage-post-title">
-                          <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#hrmanage-post"
-                              aria-expanded="false" aria-controls="backoffice-job">
-                              HUMAN RESOURCE MANAGER <span style="font-weight:normal;">(VADODARA - INDIA)</span>
-                          </a>
-                      </div>
-                      <div id="hrmanage-post" class="collapse" aria-labelledby="hrmanage-post-title" data-parent="#accordion">
-                          <div class="card-body">
-                              <p class="text-p">
-                                Tvarit GmbH envisions to help manufacturing companies transform their businesses by leveraging Artificial Intelligence. We strive to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise. This is a chance for you to get in on the ground floor of an exciting AI company. Tvarit is awarded as one of the top 8 out of 490 AI companies in Europe.
-                              </p>
-                              <h4>Job Details:</h4>
-                              <p class="text-p">We are looking for an experienced HR Manager for our office in Vadodara, Gujarat, India. The person will be responsible for performing & complies with regulation of Human Resource Management. The Human Resource Manager will lead and direct the routine functions of the Human Resources (HR) department including hiring and interviewing staff, administering pay, benefits, and leave, and enforcing company policies and practices. This is a great opportunity for a hard-working and self-motivated individual with excellent communication skills. </p>
-                              <h4>Key responsibilities:</h4>
-                              <ul class="ul-list">
-                                  <li>Understanding Manpower requirement of the organization.</li>
-                                  <li>Recruits, interviews, tests, and selects employees to fill vacant positions</li>
-                                  <li>Plans and conducts new employee orientation & onboarding to foster positive attitude toward Company goals.</li>
-                                  <li>Identifies legal requirements and government reporting regulations affecting human resources functions and ensures compliance.</li>
-                                  <li>Drafting and maintaining HR policies and HR Manual</li>
-                                  <li>Administers benefits programs such as vacation, sick leave, leave of absence, and employee assistance etc for preparing monthly payroll.</li>
-                                  <li>Conducting & organizing performance appraisal Annually.</li>
-                                  <li>Compilation and preparation of briefing and presentation materials, speeches, background information and documentation for meetings & Trainings.</li>
-                                  <li>Day to day office administration, team building, purchasing etc.</li>
-                                  <li>Organizing Employee Engagement activities time to time</li>
-                              </ul>
-                              <h4>Required Skills/Abilities:</h4>
-                              <ul class="ul-list">
-                                  <li>Excellent verbal and written communication skills.</li>
-                                  <li>Excellent interpersonal, negotiation, and conflict resolution skills.</li>
-                                  <li>Excellent organizational skills and attention to detail.</li>
-                                  <li>Strong analytical and problem-solving skills.</li>
-                                  <li>Ability to act with integrity, professionalism, and confidentiality.</li>
-                                  <li>Thorough knowledge of employment-related laws and regulations.</li>
-                                  <li>Proficient with Microsoft Office Suite or related software.</li>
-                              </ul>
-                              <h4>Education & Experience:</h4>
-                              <ul class="ul-list">
-                                  <li>Master's degree in Human Resources, Business Administration, or related field required</li>
-                                  <li>More than 3 years of experience in progressively responsible Human Resource role in IT/Software or related domain.</li>
-                                  <li>Excellent Labor Laws and HR Compliance knowledge</li>
-                              </ul>
-                              <h4>Our Team Culture:</h4>
-                              <ul class="ul-list">
-                                  <li>We provide hands-­on statistical solutions for automotive and manufacturing industry in Germany to highlight trends and generate insights</li>
-                                  <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data teams</li>
-                                  <li>We act as primary point of contact for business forecasting, delivering metrics/analytics that drive the organization and help senior management taking data driven business decisions</li>
-                              </ul>
-                              <br>
-                              <p><strong>Availability:</strong> Fulltime</p>
-                              <p><strong>Experience:</strong>  3+ years</p>
-                              <p><strong>Schedule:</strong>  Day Shift</p>
-                              <br>
-                              <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                      href="javascript://">careers@tvarit.com</a></p>
-                              <br>
-                              <p class="red">Location: Vadodara (India)</p>
-                          </div>
-                      </div>
-                  </div>
               <!---->
               <!---->
                 <div class="card">
